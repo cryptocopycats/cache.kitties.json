@@ -22,6 +22,7 @@ require 'winedb/models/tag'
 require 'winedb/models/wine'
 require 'winedb/models/winery'
 
+require 'winedb/reader'
 
 module WineDb
   
@@ -38,6 +39,23 @@ module WineDb
 
     WineDb::Model::Prop.create!( key: 'db.schema.wine.version', value: VERSION )
   end
+
+
+  def self.read( ary, include_path )
+    reader = Reader.new( include_path )
+    ary.each do |name|
+      reader.load( name )
+    end
+  end
+
+  def self.read_setup( setup, include_path, opts={} )
+    reader = Reader.new( include_path, opts )
+    reader.load_setup( setup )
+  end
+
+  def self.read_all( include_path, opts={} )  # load all builtins (using plain text reader); helper for convenience
+    read_setup( 'setups/all', include_path, opts )
+  end # method read_all
 
 
 end  # module WineDb
