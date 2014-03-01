@@ -3,4 +3,15 @@ Manifest.txt
 README.md
 Rakefile
 lib/winedb.rb
+lib/winedb/models/city.rb
+lib/winedb/models/country.rb
+lib/winedb/models/forward.rb
+lib/winedb/models/region.rb
+lib/winedb/models/tag.rb
+lib/winedb/models/wine.rb
+lib/winedb/models/winery.rb
+lib/winedb/reader.rb
+lib/winedb/schema.rb
 lib/winedb/version.rb
+test/helper.rb
+test/test_models.rb
