@@ -95,7 +95,7 @@ class Reader
       known_wineries_source = []
     end
 
-    knownn_wineries  = TextUtils.build_title_table_for( known_wineries_source )
+    known_wineries = TextUtils.build_title_table_for( known_wineries_source )
 
     reader.each_line do |new_attributes, values|
 

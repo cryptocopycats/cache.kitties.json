@@ -20,8 +20,13 @@ module WineDb
   class Wine < ActiveRecord::Base ; end
   class Winery < ActiveRecord::Base ; end
 
- end
-end
+  end # module Model
+
+  ## note: for convenciene (and compatibility) add alias Models for Model namespace
+  ##  e.g lets you use include WineDb::Models
+  Models = Model
+
+end # module WineDb
 
 
 module WorldDb
