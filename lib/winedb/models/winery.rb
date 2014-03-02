@@ -80,7 +80,13 @@ class Winery < ActiveRecord::Base
             end
       elsif is_address?( value ) # if value includes // assume address e.g. 3970 Weitra // Sparkasseplatz 160
         new_attributes[ :address ] = normalize_addr( value )
+      elsif value =~ /^(\?+|[0-9_]+)\s*ha$/  # e.g. 12 ha or 12ha or 2_000 ha ??? ha etc.
+        logger.debug "   skipping area (in ha) for now >#{value}<"
+      elsif value =~ /^(\?+|[0-9_]+)\s*hl$/  # e.g. 50000 hl or 50_000 hl etc.
+        logger.debug "   skipping prod (in hl) for now >#{value}<"
       elsif (values.size==(index+1)) && is_taglist?( value ) # tags must be last entry
+        ### fix: is_taglist?
+        ##  do NOT match   24 ha  or 50000 hl etc. - check e.g. leading number not allowed etc.
         logger.debug "   found tags: >>#{value}<<"
         value_tag_keys += find_tags( value )
       else
