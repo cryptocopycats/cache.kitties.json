@@ -9,17 +9,37 @@ module Matcher
     match_xxx_for_country( name, 'wines', &blk )
   end
 
-#  def match_wines_for_country_n_region( name, &blk )
-#    match_xxx_for_country_n_region( name, 'wines', &blk )
-#  end
+  def match_wines_for_country_n_region( name, &blk )
+    ### fix allow prefixes for wines (move into core!!!) e.g.
+    ##
+    #  at-austria!/1--n-niederoesterreich--eastern/wagram--wines
+    #  at-austria!/1--n-niederoesterreich--eastern/wagram--wagram--wines
+
+    ### strip subregion if present e.g.
+    #  /wagram--wines  becomes /wines n
+    #  /wagram--wagram--wines   becomes / wines etc.
+    name_fixed = name.sub( /\/([a-z]+--)*wines$/, "/wines" )
+
+    match_xxx_for_country_n_region( name_fixed, 'wines', &blk )
+  end
 
   def match_wineries_for_country( name, &blk )
     match_xxx_for_country( name, 'wineries', &blk )
   end
 
-#  def match_wineries_for_country_n_region( name, &blk )
-#    match_xxx_for_country_n_region( name, 'wineries', &blk )
-#  end
+  def match_wineries_for_country_n_region( name, &blk )
+    ### fix allow prefixes for wineries (move into core!!!) e.g.
+    ##
+    #  at-austria!/1--n-niederoesterreich--eastern/wagram--wineries
+    #  at-austria!/1--n-niederoesterreich--eastern/wagram--wagram--wineries
+
+    ### strip subregion if present e.g.
+    #  /wagram--wineries  becomes /wineries n
+    #  /wagram--wagram--wineries   becomes / wineries etc.
+    name_fixed = name.sub( /\/([a-z]+--)*wineries$/, "/wineries" )
+
+    match_xxx_for_country_n_region( name_fixed, 'wineries', &blk )
+  end
 
 end # module Matcher
 
@@ -56,8 +76,16 @@ class Reader
 
   def load( name )
 
-    if match_wines_for_country( name ) do |country_key|
+    if match_wines_for_country_n_region( name ) do |country_key, region_key|
+        ### fix: use region_key too
+        load_wines_for_country( country_key, name )
+       end
+    elsif match_wines_for_country( name ) do |country_key|
             load_wines_for_country( country_key, name )
+          end
+    elsif match_wineries_for_country_n_region( name ) do |country_key, region_key|
+        ### fix: use region_key too
+            load_wineries_for_country( country_key, name )
           end
     elsif match_wineries_for_country( name ) do |country_key|
             load_wineries_for_country( country_key, name )

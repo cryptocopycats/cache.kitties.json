@@ -14,4 +14,5 @@ lib/winedb/reader.rb
 lib/winedb/schema.rb
 lib/winedb/version.rb
 test/helper.rb
+test/test_fixture_matchers.rb
 test/test_models.rb
