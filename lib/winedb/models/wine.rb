@@ -66,10 +66,11 @@ class Wine < ActiveRecord::Base
       elsif match_website( value ) do |website|  # check for url/internet address e.g. www.ottakringer.at
               attribs[ :web ] = website
             end
-      elsif match_abv( value ) do |num|   # abv (alcohol by volume)
-              # nb: also allows leading < e.g. <0.5%
-              attribs[ :abv ] = num
-            end
+# -- moved to vintage (that is, abv depends on year)
+#      elsif match_abv( value ) do |num|   # abv (alcohol by volume)
+#              # nb: also allows leading < e.g. <0.5%
+#              attribs[ :abv ] = num
+#            end
       elsif (values.size==(index+1)) && is_taglist?( value )  # tags must be last entry
         logger.debug "   found tags: >>#{value}<<"
         value_tag_keys += find_tags( value )

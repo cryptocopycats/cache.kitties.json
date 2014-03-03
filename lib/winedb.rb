@@ -17,10 +17,17 @@ require 'winedb/schema'
 require 'winedb/models/forward'
 require 'winedb/models/city'
 require 'winedb/models/country'
+require 'winedb/models/family'
+require 'winedb/models/grape'
+require 'winedb/models/person'
 require 'winedb/models/region'
 require 'winedb/models/tag'
+require 'winedb/models/variety'
+require 'winedb/models/vineyard'
+require 'winedb/models/vintage'
 require 'winedb/models/wine'
 require 'winedb/models/winery'
+
 
 require 'winedb/reader'
 

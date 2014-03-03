@@ -17,7 +17,6 @@ class TestModels < MiniTest::Unit::TestCase
 
     values = [
       'Grüner Veltliner Spiegel',
-      '12.3 %',
       'gv'
     ]
 
@@ -33,7 +32,6 @@ class TestModels < MiniTest::Unit::TestCase
     assert_equal wine.title,         values[0]
     assert_equal wine.country_id,    AT.id
     assert_equal wine.country.title, AT.title
-    assert_equal wine.abv,           12.3
   end
 
   def test_load_winery_values
@@ -45,8 +43,7 @@ class TestModels < MiniTest::Unit::TestCase
       'Anton Bauer (1971)',
       'www.antonbauer.at',
       'Neufang 42 // 3483 Feuersbrunn',
-      '25 ha',  ### todo: make sure it will not get matched as tag
-      'tag'
+      '25 ha'  ### todo: make sure it will not get matched as tag
     ]
 
     more_attribs = {
