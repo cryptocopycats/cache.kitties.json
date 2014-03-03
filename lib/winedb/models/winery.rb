@@ -18,6 +18,7 @@ class Winery < ActiveRecord::Base
   belongs_to :region,  class_name: 'WorldDb::Model::Region',  foreign_key: 'region_id'
   belongs_to :city,    class_name: 'WorldDb::Model::City',    foreign_key: 'city_id'
 
+  has_one    :tavern,  class_name: 'WineDb::Model::Tavern',  foreign_key: 'tavern_id'
   has_many   :wines,   class_name: 'WineDb::Model::Wine',    foreign_key: 'wine_id'
 
   has_many :taggings, :as => :taggable,   class_name: 'WorldDb::Model::Tagging'

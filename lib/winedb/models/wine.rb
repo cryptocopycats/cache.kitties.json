@@ -11,9 +11,10 @@ class Wine < ActiveRecord::Base
   #   self.create_or_update_from_values
   extend TextUtils::ValueHelper  # e.g. self.is_year?, self.is_region?, self.is_address?, is_taglist? etc.
 
-  belongs_to :country, class_name: 'WorldDb::Model::Country', foreign_key: 'country_id'
-  belongs_to :region,  class_name: 'WorldDb::Model::Region',  foreign_key: 'region_id'
-  belongs_to :city,    class_name: 'WorldDb::Model::City',    foreign_key: 'city_id'
+  belongs_to :country,  class_name: 'WorldDb::Model::Country', foreign_key: 'country_id'
+  belongs_to :region,   class_name: 'WorldDb::Model::Region',  foreign_key: 'region_id'
+  belongs_to :city,     class_name: 'WorldDb::Model::City',    foreign_key: 'city_id'
+  belongs_to :vineyard, class_name: 'WineDb::Model::Vineyard', foreign_key: 'vinyard_id'
 
   belongs_to :winery, :class_name => 'WineDb::Model::Winery', foreign_key: 'winery_id'
 

@@ -14,6 +14,24 @@ class TestModels < MiniTest::Unit::TestCase
   def setup  # runs before every test
     WineDb.delete!   # always clean-out tables
   end
+  
+  def test_worlddb_assocs
+    assert_equal 0, AT.wines.count
+    assert_equal 0, AT.wineries.count
+    assert_equal 0, AT.taverns.count
+    assert_equal 0, AT.shops.count
+
+    assert_equal 0, N.wines.count
+    assert_equal 0, N.wineries.count
+    assert_equal 0, N.taverns.count
+    assert_equal 0, N.shops.count
+
+    assert_equal 0, FEUERSBRUNN.wines.count
+    assert_equal 0, FEUERSBRUNN.wineries.count
+    assert_equal 0, FEUERSBRUNN.taverns.count
+    assert_equal 0, FEUERSBRUNN.shops.count
+    assert_equal 0, FEUERSBRUNN.vineyards.count
+  end
 
 
   def test_count
@@ -27,6 +45,8 @@ class TestModels < MiniTest::Unit::TestCase
     assert_equal 0, Vintage.count
     assert_equal 0, Wine.count
     assert_equal 0, Winery.count
+    
+    WineDb.tables  # print stats
   end
 
 

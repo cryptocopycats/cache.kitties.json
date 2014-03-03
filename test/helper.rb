@@ -81,6 +81,6 @@ end
 setup_in_memory_db()
 fillup_in_memory_db()
 
-AT   =  Country.find_by_key!( 'at' )
-N    =  Region.find_by_key!( 'n' )
-
+AT          =  Country.find_by_key!( 'at' )
+N           =  Region.find_by_key!( 'n' )
+FEUERSBRUNN =  City.find_by_key!( 'feuersbrunn' )

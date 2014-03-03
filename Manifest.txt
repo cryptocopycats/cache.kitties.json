@@ -3,13 +3,10 @@ Manifest.txt
 README.md
 Rakefile
 lib/winedb.rb
-lib/winedb/models/city.rb
-lib/winedb/models/country.rb
 lib/winedb/models/family.rb
 lib/winedb/models/forward.rb
 lib/winedb/models/grape.rb
 lib/winedb/models/person.rb
-lib/winedb/models/region.rb
 lib/winedb/models/shop.rb
 lib/winedb/models/tag.rb
 lib/winedb/models/tavern.rb
@@ -18,6 +15,9 @@ lib/winedb/models/vineyard.rb
 lib/winedb/models/vintage.rb
 lib/winedb/models/wine.rb
 lib/winedb/models/winery.rb
+lib/winedb/models/worlddb/city.rb
+lib/winedb/models/worlddb/country.rb
+lib/winedb/models/worlddb/region.rb
 lib/winedb/reader.rb
 lib/winedb/schema.rb
 lib/winedb/version.rb

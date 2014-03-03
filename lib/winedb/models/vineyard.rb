@@ -5,6 +5,8 @@ module WineDb
 
 class Vineyard < ActiveRecord::Base
 
+  has_many :wines,  class_name: 'WineDb::Model::Wine',   foreign_key: 'vineyard_id'
+
   ## to be done
 
 end # class Vineyard

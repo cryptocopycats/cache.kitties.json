@@ -16,9 +16,10 @@ require 'winedb/schema'
 
 require 'winedb/models/forward'
 
-require 'winedb/models/country'
-require 'winedb/models/region'
-require 'winedb/models/city'
+require 'winedb/models/worlddb/country'
+require 'winedb/models/worlddb/region'
+require 'winedb/models/worlddb/city'
+
 require 'winedb/models/tag'
 
 require 'winedb/models/family'
@@ -80,6 +81,20 @@ module WineDb
     Model::Vintage.delete_all
     Model::Wine.delete_all
     Model::Winery.delete_all
+  end
+  
+  def self.tables
+    ## fix/todo: move into stats class (see worlddb,sportdb etc.)
+    puts "  #{Model::Grape.count} grapes"
+    puts "  #{Model::Family.count} (wine) families"
+    puts "  #{Model::Variety.count} (wine) varieties"
+    puts "  #{Model::Vineyard.count} vineyards"
+    puts "  #{Model::Person.count} persons (winemakers)"
+    puts "  #{Model::Shop.count} shops (vinothek/enotecia)"
+    puts "  #{Model::Tavern.count} taverns (heurige)"
+    puts "  #{Model::Vintage.count} vintages"
+    puts "  #{Model::Wine.count} wines"
+    puts "  #{Model::Winery.count} wineries"
   end
 
 
