@@ -7,6 +7,10 @@ class CreateDb < ActiveRecord::Migration
 
 def up
 
+#######
+# todo/fix:  rename title to name
+
+
 
 ###
 # wines
@@ -25,14 +29,13 @@ create_table :wines do |t|
   t.string  :web    # optional url link (e.g. )
   t.integer :since  # optional year (e.g. 1896)
 
-  t.string  :txt            # source ref
-  t.boolean :txt_auto, null: false, default: false     # inline? got auto-added?
-
-
   t.references :country, null: false
   t.references :region   # optional
   t.references :city     # optional
   t.references :vineyard # optional e.g. Spiegel, Gmoerk, Rosenberg, etc.
+
+  t.string  :txt            # source ref
+  t.boolean :txt_auto, null: false, default: false     # inline? got auto-added?
 
   t.timestamps
 end
@@ -43,19 +46,13 @@ create_table :wineries do |t|
   t.string  :title,    null: false
   t.string  :synonyms  # comma separated list of synonyms
   t.string  :address
-  t.integer :since
-  ## renamed to founded to since
-  ## t.integer :founded  # year founded/established    - todo/fix: rename to since? 
+  t.integer :since   ## renamed founded to since
   t.integer :closed  # optional;  year winery closed
 
   t.integer :area    # in ha e.g. 8 ha   # Weingarten/rebflaeche
 
   # use stars in .txt e.g. # ***/**/*/- => 1/2/3/4
   t.integer :grade, null: false, default: 4
-
-
-  t.string  :txt            # source ref
-  t.boolean :txt_auto, null: false, default: false     # inline? got auto-added?
 
   t.string  :web        # optional web page (e.g. www.ottakringer.at)
   t.string  :wikipedia  # optional wiki(pedia page)
@@ -66,6 +63,10 @@ create_table :wineries do |t|
   t.references :city     # optional
 
   t.references :person  # optional for now   - winemaker/kellermeister e.g. Anton Bauer (1971) etc.
+  t.references :tavern  # optional (heurige)
+
+  t.string  :txt            # source ref
+  t.boolean :txt_auto, null: false, default: false     # inline? got auto-added?
 
   t.timestamps
 end
@@ -88,6 +89,7 @@ create_table :grapes do |t|
   t.boolean  :red,   null: false, default: false
   t.boolean  :white, null: false, default: false
 
+  t.string   :web        # optional web page
   t.string   :wikipedia  # optional wiki(pedia page)
 
   t.timestamps
@@ -122,6 +124,56 @@ create_table :varieties do |t|
   t.timestamps
 end
 
+##########################
+# (Wine)Taverns/Heurige
+
+create_table :taverns do |t|
+  t.string     :key,      null: false   # import/export key
+  t.string     :title,    null: false
+  t.string     :synonyms  # comma separated list of synonyms
+  t.references :winery    # for now optional -- todo/fix: make required!!!
+
+  t.string  :address
+  t.integer :since
+
+  t.string   :web        # optional web page (e.g. www.urbaniheuriger.at)
+  t.string   :wikipedia  # optional wiki(pedia page)
+
+  t.references :country,  null: false
+  t.references :region   # optional
+  t.references :city     # optional
+
+  t.string  :txt            # source ref
+  t.boolean :txt_auto, null: false, default: false     # inline? got auto-added?
+
+  t.timestamps
+end
+
+
+#################################
+# (Wine)Shops/Vinothek/Enoteca
+
+create_table :shops do |t|
+  t.string  :key,      null: false   # import/export key
+  t.string  :title,    null: false
+  t.string  :synonyms  # comma separated list of synonyms
+
+  t.string  :address
+  t.integer :since
+
+  t.string  :web        # optional web page (e.g. www.ottakringer.at)
+  t.string  :wikipedia  # optional wiki(pedia page)
+
+  t.references :country,  null: false
+  t.references :region   # optional
+  t.references :city     # optional
+
+  t.string  :txt            # source ref
+  t.boolean :txt_auto, null: false, default: false     # inline? got auto-added?
+
+  t.timestamps
+end
+
 
 ################
 # vineyards
@@ -131,7 +183,7 @@ end
 create_table :vineyards do |t|
   t.string     :key,      null: false   # import/export key
   t.string     :title,    null: false
-  t.string     :synonyms  # comma separated list of synonyms
+  t.string     :synonyms   # comma separated list of synonyms
   t.references :city,     null: false
 
   t.integer :area    # in ha e.g. 8 ha   # Weingarten/rebflaeche

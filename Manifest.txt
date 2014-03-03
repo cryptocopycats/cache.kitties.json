@@ -10,7 +10,9 @@ lib/winedb/models/forward.rb
 lib/winedb/models/grape.rb
 lib/winedb/models/person.rb
 lib/winedb/models/region.rb
+lib/winedb/models/shop.rb
 lib/winedb/models/tag.rb
+lib/winedb/models/tavern.rb
 lib/winedb/models/variety.rb
 lib/winedb/models/vineyard.rb
 lib/winedb/models/vintage.rb

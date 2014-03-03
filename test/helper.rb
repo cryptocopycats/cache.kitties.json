@@ -31,8 +31,17 @@ City    = WorldDb::Model::City
 
 ## todo: get all models aliases (e.g. from console script)
 
-Wine    = WineDb::Model::Wine
-Winery  = WineDb::Model::Winery
+Grape    = WineDb::Model::Grape
+Family   = WineDb::Model::Family
+Variety  = WineDb::Model::Variety
+Vineyard = WineDb::Model::Vineyard
+Person   = WineDb::Model::Person
+Shop     = WineDb::Model::Shop
+Tavern   = WineDb::Model::Tavern
+Vintage  = WineDb::Model::Vintage
+Wine     = WineDb::Model::Wine
+Winery   = WineDb::Model::Winery
+
 
 
 def setup_in_memory_db
@@ -63,8 +72,9 @@ end
 def fillup_in_memory_db
   ## add some counties
 
-  at = Country.create!( key: 'at', title: 'Austria', code: 'AUT', pop: 0, area: 0 )
-  n  = Region.create!( key: 'n', title: 'Niederösterreich', country_id: at.id )
+  at          = Country.create!( key: 'at', title: 'Austria', code: 'AUT', pop: 0, area: 0 )
+  n           = Region.create!( key: 'n', title: 'Niederösterreich', country_id: at.id )
+  feuersbrunn = City.create!( key: 'feuersbrunn', title: 'Feuersbrunn', country_id: at.id, region_id: n.id )
 
 end
 

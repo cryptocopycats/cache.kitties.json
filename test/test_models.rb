@@ -11,8 +11,27 @@ require 'helper'
 
 class TestModels < MiniTest::Unit::TestCase
 
-  def test_load_wine_values
+  def setup  # runs before every test
+    WineDb.delete!   # always clean-out tables
+  end
 
+
+  def test_count
+    assert_equal 0, Grape.count
+    assert_equal 0, Family.count
+    assert_equal 0, Variety.count
+    assert_equal 0, Vineyard.count
+    assert_equal 0, Person.count
+    assert_equal 0, Shop.count
+    assert_equal 0, Tavern.count
+    assert_equal 0, Vintage.count
+    assert_equal 0, Wine.count
+    assert_equal 0, Winery.count
+  end
+
+
+  def test_load_wine_values
+ 
     key = 'gruenerveltlinerspiegel'
 
     values = [

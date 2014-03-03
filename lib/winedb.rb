@@ -15,13 +15,17 @@ require 'winedb/version'  # let it always go first
 require 'winedb/schema'
 
 require 'winedb/models/forward'
-require 'winedb/models/city'
+
 require 'winedb/models/country'
+require 'winedb/models/region'
+require 'winedb/models/city'
+require 'winedb/models/tag'
+
 require 'winedb/models/family'
 require 'winedb/models/grape'
 require 'winedb/models/person'
-require 'winedb/models/region'
-require 'winedb/models/tag'
+require 'winedb/models/shop'
+require 'winedb/models/tavern'
 require 'winedb/models/variety'
 require 'winedb/models/vineyard'
 require 'winedb/models/vintage'
@@ -63,6 +67,20 @@ module WineDb
   def self.read_all( include_path, opts={} )  # load all builtins (using plain text reader); helper for convenience
     read_setup( 'setups/all', include_path, opts )
   end # method read_all
+
+  def self.delete!
+    ## fix/todo: move into deleter class (see worlddb,sportdb etc.)
+    Model::Grape.delete_all
+    Model::Family.delete_all
+    Model::Variety.delete_all
+    Model::Vineyard.delete_all
+    Model::Person.delete_all
+    Model::Shop.delete_all
+    Model::Tavern.delete_all
+    Model::Vintage.delete_all
+    Model::Wine.delete_all
+    Model::Winery.delete_all
+  end
 
 
 end  # module WineDb
