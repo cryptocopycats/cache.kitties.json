@@ -5,11 +5,12 @@ module WineDb
 
 module Matcher
 
-  def match_wines_for_country( name, &blk )
-    match_xxx_for_country( name, 'wines', &blk )
-  end
+  def fix_match_xxx_for_country_n_region( name, xxx ) # xxx e.g. wine|wineries
 
-  def match_wines_for_country_n_region( name, &blk )
+    ## todo/fix: move code into worlddb matcher!!!!
+    ## -- allow opt_folders after long regions
+    ## -- allow anything before -- for xxx
+
     ### fix allow prefixes for wines (move into core!!!) e.g.
     ##
     #  at-austria!/1--n-niederoesterreich--eastern/wagram--wines
@@ -18,9 +19,53 @@ module Matcher
     ### strip subregion if present e.g.
     #  /wagram--wines  becomes /wines n
     #  /wagram--wagram--wines   becomes / wines etc.
-    name_fixed = name.sub( /\/([a-z]+--)*wines$/, "/wines" )
 
-    match_xxx_for_country_n_region( name_fixed, 'wines', &blk )
+    # auto-add required country n region code (from folder structure)
+
+    # note: allow  /cities and /1--hokkaido--cities and /hokkaido--cities too
+    xxx_pattern = "(?:#{xxx}|[^\\/]+--#{xxx})"    # note: double escape \\ required for backslash
+    
+    ## allow optional folders -- TODO: add restriction ?? e.g. must be 4+ alphas ???
+    opt_folders_pattern = "(?:\/[^\/]+)*"
+    ## note: for now only (2) n (3)  that is long region allow opt folders
+
+    if name =~ /(?:^|\/)([a-z]{2,3})-[^\/]+\/([a-z]{1,3})-[^\/]+\/#{xxx_pattern}/  ||                # (1)
+       name =~ /(?:^|\/)[0-9]+--([a-z]{2,3})-[^\/]+\/[0-9]+--([a-z]{1,3})-[^\/]+#{opt_folders_pattern}\/#{xxx_pattern}/ || # (2)
+       name =~ /(?:^|\/)([a-z]{2,3})-[^\/]+\/[0-9]+--([a-z]{1,3})-[^\/]+#{opt_folders_pattern}\/#{xxx_pattern}/         || # (3)
+       name =~ /(?:^|\/)[0-9]+--([a-z]{2,3})-[^\/]+\/([a-z]{1,3})-[^\/]+\/#{xxx_pattern}/            # (4)
+
+      #######
+      # nb: country must start name (^) or coming after / e.g. europe/at-austria/...
+      # (1)
+      # new style: e.g.  /at-austria/w-wien/cities or
+      #                  ^at-austria!/w-wien/cities
+      # (2)
+      # new new style e.g.  /1--at-austria--central/1--w-wien--eastern/cities
+      #
+      # (3)
+      #  new new mixed style e.g.  /at-austria/1--w-wien--eastern/cities
+      #      "classic" country plus new new region
+      #
+      # (4)
+      #  new new mixed style e.g.  /1--at-austria--central/w-wien/cities
+      #      new new country plus "classic" region
+
+      country_key = $1.dup
+      region_key  = $2.dup
+      yield( country_key, region_key )
+      true # bingo - match found
+    else
+      false # no match found
+    end
+  end
+
+
+  def match_wines_for_country( name, &blk )
+    match_xxx_for_country( name, 'wines', &blk )
+  end
+
+  def match_wines_for_country_n_region( name, &blk )
+    fix_match_xxx_for_country_n_region( name, 'wines', &blk )
   end
 
   def match_wineries_for_country( name, &blk )
@@ -28,17 +73,20 @@ module Matcher
   end
 
   def match_wineries_for_country_n_region( name, &blk )
-    ### fix allow prefixes for wineries (move into core!!!) e.g.
-    ##
-    #  at-austria!/1--n-niederoesterreich--eastern/wagram--wineries
-    #  at-austria!/1--n-niederoesterreich--eastern/wagram--wagram--wineries
+    fix_match_xxx_for_country_n_region( name, 'wineries', &blk )
+  end
 
-    ### strip subregion if present e.g.
-    #  /wagram--wineries  becomes /wineries n
-    #  /wagram--wagram--wineries   becomes / wineries etc.
-    name_fixed = name.sub( /\/([a-z]+--)*wineries$/, "/wineries" )
+  ## for now vineyards, shops, taverns require country n region
+  def match_vineyards_for_country_n_region( name, &blk )
+    fix_match_xxx_for_country_n_region( name, 'vineyards', &blk )
+  end
 
-    match_xxx_for_country_n_region( name_fixed, 'wineries', &blk )
+  def match_shops_for_country_n_region( name, &blk )
+    fix_match_xxx_for_country_n_region( name, 'shops', &blk )
+  end
+
+  def match_taverns_for_country_n_region( name, &blk )
+    fix_match_xxx_for_country_n_region( name, 'taverns', &blk )
   end
 
 end # module Matcher
