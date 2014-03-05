@@ -26,6 +26,7 @@ Hoe.spec 'winedb' do
                                #         - logutils
                                #         - textutils
                                
+    ['persondb' ],
      ## 3rd party
     ['gli', '>= 2.5.6']
   ]

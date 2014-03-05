@@ -17,13 +17,15 @@ module WineDb
 
   Prop      = WorldDb::Model::Prop
 
+  Person    = PersonDb::Model::Person
+
+
   class Wine < ActiveRecord::Base ; end
   class Winery < ActiveRecord::Base ; end
   class Grape < ActiveRecord::Base ; end
   class Family < ActiveRecord::Base ; end
   class Variety < ActiveRecord::Base ; end
   class Vineyard < ActiveRecord::Base ; end
-  class Person < ActiveRecord::Base ; end
   class Shop < ActiveRecord::Base ; end
   class Tavern < ActiveRecord::Base ; end
   class Vintage < ActiveRecord::Base ; end
@@ -45,3 +47,13 @@ module WorldDb
 
   end
 end
+
+module PersonDb
+  module Model
+
+  Wine   = WineDb::Model::Wine
+  Winery = WineDb::Model::Winery
+
+  end
+end
+

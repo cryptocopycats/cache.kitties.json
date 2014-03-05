@@ -1,17 +1,19 @@
 # encoding: UTF-8
 
-module WineDb
+########
+# NOTE: model resides in persondb gem
+
+module PersonDb
   module Model
 
 ###
-# Winemaker
+# extensions for winemaker
 
 class Person < ActiveRecord::Base
 
-  self.table_name = 'persons'
   ## to be done
 
 end # class Person
 
   end # module Model
-end # module WineDb
+end # module PersonDb

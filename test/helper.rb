@@ -25,9 +25,11 @@ require 'active_record'
 require 'winedb'
 require 'logutils/db'   # NB: explict require required for LogDb (not automatic) 
 
-Country = WorldDb::Model::Country
-Region  = WorldDb::Model::Region
-City    = WorldDb::Model::City
+Country  = WorldDb::Model::Country
+Region   = WorldDb::Model::Region
+City     = WorldDb::Model::City
+
+Person   = PersonDb::Model::Person
 
 ## todo: get all models aliases (e.g. from console script)
 
@@ -35,7 +37,6 @@ Grape    = WineDb::Model::Grape
 Family   = WineDb::Model::Family
 Variety  = WineDb::Model::Variety
 Vineyard = WineDb::Model::Vineyard
-Person   = WineDb::Model::Person
 Shop     = WineDb::Model::Shop
 Tavern   = WineDb::Model::Tavern
 Vintage  = WineDb::Model::Vintage
@@ -65,6 +66,7 @@ def setup_in_memory_db
 
   LogDb.create
   WorldDb.create
+  PersonDb.create
   WineDb.create
 end
 

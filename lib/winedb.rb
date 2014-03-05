@@ -7,6 +7,7 @@ require 'active_record'   ## todo: add sqlite3? etc.
 require 'logutils'
 require 'textutils'
 require 'worlddb'
+require 'persondb'
 
 
 ### our own code
@@ -75,7 +76,6 @@ module WineDb
     Model::Family.delete_all
     Model::Variety.delete_all
     Model::Vineyard.delete_all
-    Model::Person.delete_all
     Model::Shop.delete_all
     Model::Tavern.delete_all
     Model::Vintage.delete_all
@@ -89,7 +89,6 @@ module WineDb
     puts "  #{Model::Family.count} (wine) families"
     puts "  #{Model::Variety.count} (wine) varieties"
     puts "  #{Model::Vineyard.count} vineyards"
-    puts "  #{Model::Person.count} persons (winemakers)"
     puts "  #{Model::Shop.count} shops (vinothek/enotecia)"
     puts "  #{Model::Tavern.count} taverns (heurige)"
     puts "  #{Model::Vintage.count} vintages"
