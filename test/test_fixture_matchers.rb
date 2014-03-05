@@ -126,17 +126,24 @@ class TestFixtureMatchers < MiniTest::Unit::TestCase
 
 
   def test_misc
+    taverns   = [
+      'at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--taverns',
+      'at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--heurige'
+    ]
+
+    taverns.each do |tavern|
+      found = match_taverns_for_country_n_region( tavern ) do |country_key,region_key|
+        assert( country_key == 'at')
+        assert( region_key  == 'n' )
+      end
+      assert( found == true )
+    end
+
+
     vineyards = 'at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--vineyards'
-    taverns   = 'at-austria!/1--n-niederoesterreich--eastern/wagram/feuersbrunn--taverns'
     shops     = 'at-austria!/1--n-niederoesterreich--eastern/wagram/shops'
 
     found = match_vineyards_for_country_n_region( vineyards ) do |country_key,region_key|
-        assert( country_key == 'at')
-        assert( region_key  == 'n' )
-    end
-    assert( found == true )
-
-    found = match_taverns_for_country_n_region( taverns ) do |country_key,region_key|
         assert( country_key == 'at')
         assert( region_key  == 'n' )
     end

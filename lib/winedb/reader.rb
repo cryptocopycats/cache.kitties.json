@@ -61,6 +61,7 @@ module Matcher
 
 
   def match_wines_for_country( name, &blk )
+    ## check: allow/add synonyms e.g. weine, vinos etc. ???
     match_xxx_for_country( name, 'wines', &blk )
   end
 
@@ -73,6 +74,7 @@ module Matcher
   end
 
   def match_wineries_for_country_n_region( name, &blk )
+    ## check: allow/add synonyms e.g. producers ? weingueter ??
     fix_match_xxx_for_country_n_region( name, 'wineries', &blk )
   end
 
@@ -82,12 +84,17 @@ module Matcher
   end
 
   def match_shops_for_country_n_region( name, &blk )
+    ## check: allow/add synonyms e.g. vinotheken, enotecas
     fix_match_xxx_for_country_n_region( name, 'shops', &blk )
   end
 
   def match_taverns_for_country_n_region( name, &blk )
-    fix_match_xxx_for_country_n_region( name, 'taverns', &blk )
+    ## also try synonyms e.g. heurige (if not match for taverns)
+    found = fix_match_xxx_for_country_n_region( name, 'taverns', &blk )
+    found = fix_match_xxx_for_country_n_region( name, 'heurige', &blk ) unless found
+    found
   end
+
 
 end # module Matcher
 

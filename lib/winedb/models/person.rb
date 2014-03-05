@@ -9,7 +9,7 @@ module PersonDb
 ###
 # extensions for winemaker
 
-class Person < ActiveRecord::Base
+class Person
 
   ## to be done
 
