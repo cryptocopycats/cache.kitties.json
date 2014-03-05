@@ -12,9 +12,11 @@ require 'helper'
 class TestModels < MiniTest::Unit::TestCase
 
   def setup  # runs before every test
+    PersonDb.delete!
     WineDb.delete!   # always clean-out tables
   end
-  
+
+
   def test_worlddb_assocs
     assert_equal 0, AT.wines.count
     assert_equal 0, AT.wineries.count
@@ -35,18 +37,21 @@ class TestModels < MiniTest::Unit::TestCase
 
 
   def test_count
+    assert_equal 0, Person.count
+
     assert_equal 0, Grape.count
     assert_equal 0, Family.count
     assert_equal 0, Variety.count
     assert_equal 0, Vineyard.count
-    assert_equal 0, Person.count
     assert_equal 0, Shop.count
     assert_equal 0, Tavern.count
     assert_equal 0, Vintage.count
     assert_equal 0, Wine.count
     assert_equal 0, Winery.count
     
-    WineDb.tables  # print stats
+    # print stats
+    WineDb.tables
+    PersonDb.tables
   end
 
 
@@ -66,12 +71,13 @@ class TestModels < MiniTest::Unit::TestCase
     wine = Wine.create_or_update_from_values( values, more_attribs )
 
     wine2 = Wine.find_by_key!( key )
-    assert_equal wine.id,  wine2.id
+    assert_equal wine2.id, wine.id
 
-    assert_equal wine.title,         values[0]
-    assert_equal wine.country_id,    AT.id
-    assert_equal wine.country.title, AT.title
+    assert_equal values[0],  wine.title
+    assert_equal AT.id,      wine.country_id
+    assert_equal AT.title,   wine.country.title
   end
+
 
   def test_load_winery_values
 
@@ -94,11 +100,15 @@ class TestModels < MiniTest::Unit::TestCase
     wy2 = Winery.find_by_key!( key )
     assert_equal wy.id, wy2.id
 
-    assert_equal wy.title,         values[1]
-    assert_equal wy.country_id,    AT.id
-    assert_equal wy.country.title, AT.title
-    assert_equal wy.web,           'www.antonbauer.at'
-    assert_equal wy.address,       'Neufang 42 // 3483 Feuersbrunn'
+    assert_equal 'Anton Bauer',       wy.title
+    assert_equal AT.id,               wy.country_id
+    assert_equal AT.title,            wy.country.title
+    assert_equal 'www.antonbauer.at', wy.web
+    assert_equal 'Neufang 42 // 3483 Feuersbrunn', wy.address
+
+    ## check for auto-create person
+    p = Person.find_by_key!( 'antonbauer' ) 
+    assert_equal 'Anton Bauer', p.name
   end
 
 

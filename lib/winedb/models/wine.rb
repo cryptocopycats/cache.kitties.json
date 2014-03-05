@@ -67,7 +67,13 @@ class Wine < ActiveRecord::Base
       elsif match_website( value ) do |website|  # check for url/internet address e.g. www.ottakringer.at
               attribs[ :web ] = website
             end
-# -- moved to vintage (that is, abv depends on year)
+      elsif value =~ /^winery:/   ## winery:<key> e.g. winery:antonbauer
+        winery_key = value[7..-1].strip  ## cut off by: prefix
+        winery = Winery.find_by_key!( winery_key )
+        attribs[ :winery_id ] = winery.id
+
+
+# -- todo/fix: move to vintage (that is, abv depends on year)
 #      elsif match_abv( value ) do |num|   # abv (alcohol by volume)
 #              # nb: also allows leading < e.g. <0.5%
 #              attribs[ :abv ] = num

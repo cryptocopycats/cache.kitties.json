@@ -46,6 +46,38 @@ class Winery < ActiveRecord::Base
     ## check for grades (e.g. ***/**/*) in titles (will add new_attributes[:grade] to hash)
     ## if grade missing; set default to 4; lets us update overwrite 1,2,3 values on update
     new_attributes[ :grade ] ||= 4
+    
+    ####
+    ## check if :title or :synonyms includes person name e.g.  ends w/ (????)
+    ##   patch and auto-add person
+    ###  --todo/fix: move code into find_key_n_title (for reuse!!!) !!!!!!
+
+    titles  = [ new_attributes[:title] ]
+    titles += new_attributes[:synonyms].split('|')  if new_attributes[:synonyms]
+
+    persons = []
+
+    titles = titles.map do |title_raw|
+      title = title_raw.strip
+      ### todo: add support for name synonyms e.g. separated by * ascii or <bullet>
+      if title =~ /\s+\([\d?]{4}\)$/   ## -- allow (19??) or (????) or (2100) etc.
+        logger.debug "  found person >#{title}< in title"
+        ### cut-off year
+        person_name = title[0...-6].strip   ## cut-off enclosed year and spaces
+        person_year = $1.to_s
+        ## todo: year if person_year is all digits ? if not use nil
+
+        persons << [person_name, person_year]
+        person_name  # note: return person_name as new title (that is, title w/ year cut-off)
+      else
+        title # pass through as is
+      end
+    end
+
+    new_attributes[:title]    = titles[0]
+    new_attributes[:synonyms] = titles[1..-1].join('|')  if titles.size > 1
+
+
 
     ### check for "default" tags - that is, if present new_attributes[:tags] remove from hash
     value_tag_keys += find_tags_in_attribs!( new_attributes )
@@ -109,6 +141,38 @@ class Winery < ActiveRecord::Base
     logger.debug new_attributes.to_json
 
     rec.update_attributes!( new_attributes )
+
+
+    #################################
+    # auto-add person if present
+    
+    if persons.size > 0
+      persons.each do |person|
+
+        person_name = person[0]
+        person_key  = TextUtils.title_to_key( person_name )
+
+        person_attributes = {
+          name: person_name
+        }
+
+        person_rec = Person.find_by_key( person_key )
+        if person_rec.present?
+          logger.debug "  auto-update Person #{person_rec.id}-#{person_rec.key}:"
+        else
+          logger.debug "  auto-create Person:"
+          person_rec =Person.new
+          person_attributes[ :key ] = person_key
+        end
+
+        logger.debug person_attributes.to_json
+
+        person_rec.update_attributes!( person_attributes )
+
+        ## todo: add winery_id reference to person !!!!
+        ### add person_id reference to winery!!!
+      end
+    end
 
 
     ##############################
