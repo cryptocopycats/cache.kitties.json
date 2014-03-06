@@ -49,5 +49,22 @@ class TestModels < MiniTest::Unit::TestCase
     PersonDb.tables
   end
 
+  def test_builtin
+    WineDb.read_builtin
+
+    gv = Grape.find_by_key!( 'gv' )
+    assert_equal 'gv', gv.key
+    assert_equal 'Grüner Veltliner',  gv.title
+    assert_equal true,  gv.white
+    assert_equal false, gv.red
+
+    zw = Grape.find_by_key!( 'zw' )
+    assert_equal 'zw', zw.key
+    assert_equal 'Zweigelt',  zw.title
+    assert_equal false,  zw.white
+    assert_equal true, zw.red
+  end
+
+
 end # class TestModels
 

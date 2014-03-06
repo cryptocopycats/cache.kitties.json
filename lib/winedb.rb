@@ -47,6 +47,11 @@ module WineDb
     "#{File.expand_path( File.dirname(File.dirname(__FILE__)) )}"
   end
 
+  def self.data_path
+    "#{root}/data"
+  end
+
+
   def self.create
     CreateDb.new.up
 
@@ -69,6 +74,10 @@ module WineDb
   def self.read_all( include_path, opts={} )  # load all builtins (using plain text reader); helper for convenience
     read_setup( 'setups/all', include_path, opts )
   end # method read_all
+
+  def self.read_builtin
+    read_setup( 'setups/all', data_path )
+  end
 
   def self.delete!
     ## fix/todo: move into deleter class (see worlddb,sportdb etc.)

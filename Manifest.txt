@@ -2,6 +2,10 @@ HISTORY.md
 Manifest.txt
 README.md
 Rakefile
+data/families.txt
+data/grapes-red.txt
+data/grapes-white.txt
+data/setups/all.yml
 lib/winedb.rb
 lib/winedb/models/family.rb
 lib/winedb/models/forward.rb

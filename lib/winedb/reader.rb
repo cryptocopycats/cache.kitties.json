@@ -159,15 +159,13 @@ class Reader
   def load_grapes( name, more_attribs={} )
     if name =~ /(^|\/)grapes-red$/
       more_attribs[ :red ] = true
-    elsif name =~ /(^|\/)grapes-red$/
+    elsif name =~ /(^|\/)grapes-white$/
       more_attribs[ :white ] = true
     else
       # do nothing
     end
 
-    more_attribs[ :txt ] = name  # store source ref
-
-    load_wines_worker( name, more_attribs )
+    load_grapes_worker( name, more_attribs )
   end
 
   def load_grapes_worker( name, more_attribs={} )
