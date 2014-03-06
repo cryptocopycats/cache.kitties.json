@@ -89,6 +89,7 @@ create_table :grapes do |t|
   t.boolean  :red,   null: false, default: false
   t.boolean  :white, null: false, default: false
 
+  t.integer  :since
   t.string   :web        # optional web page
   t.string   :wikipedia  # optional wiki(pedia page)
 

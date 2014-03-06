@@ -131,7 +131,11 @@ class Reader
 
   def load( name )
 
-    if match_wines_for_country_n_region( name ) do |country_key, region_key|
+    #  grapes - allow e.g.
+    #   - /grapes or /grapes-red or /grapes-white
+    if name =~ /(^|\/)grapes(-(red|white))?$/
+      load_grapes( name )
+    elsif match_wines_for_country_n_region( name ) do |country_key, region_key|
         ### fix: use region_key too
         load_wines_for_country( country_key, name )
        end
@@ -152,6 +156,29 @@ class Reader
   end
 
 
+  def load_grapes( name, more_attribs={} )
+    if name =~ /(^|\/)grapes-red$/
+      more_attribs[ :red ] = true
+    elsif name =~ /(^|\/)grapes-red$/
+      more_attribs[ :white ] = true
+    else
+      # do nothing
+    end
+
+    more_attribs[ :txt ] = name  # store source ref
+
+    load_wines_worker( name, more_attribs )
+  end
+
+  def load_grapes_worker( name, more_attribs={} )
+    reader = ValuesReaderV2.new( name, include_path, more_attribs )
+
+    reader.each_line do |new_attributes, values|
+      Grape.create_or_update_from_attribs( new_attributes, values )
+    end # each_line
+  end
+
+
   def load_wines_for_country( country_key, name, more_attribs={} )
     country = Country.find_by_key!( country_key )
     logger.debug "Country #{country.key} >#{country.title} (#{country.code})<"
@@ -162,6 +189,7 @@ class Reader
 
     load_wines_worker( name, more_attribs )
   end
+
 
 
   def load_wines_worker( name, more_attribs={} )

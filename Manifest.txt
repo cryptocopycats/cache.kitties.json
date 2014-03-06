@@ -23,4 +23,7 @@ lib/winedb/schema.rb
 lib/winedb/version.rb
 test/helper.rb
 test/test_fixture_matchers.rb
+test/test_grapes.rb
 test/test_models.rb
+test/test_wineries.rb
+test/test_wines.rb
