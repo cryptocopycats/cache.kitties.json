@@ -34,8 +34,9 @@ require 'winedb/models/vintage'
 require 'winedb/models/wine'
 require 'winedb/models/winery'
 
-
+require 'winedb/matcher'
 require 'winedb/reader'
+
 
 module WineDb
   
