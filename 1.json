@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "name": "Genesis",
+  "generation": 0,
+  "created_at": "2017-11-23T06:19:59.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Greetings, human. I am Genesis. The dogs know me as alpha; the cats know me as omega. To your kind, I am a riddle wrapped in an enigma, first found by a user in Mystery, Alaska. I looked into the void and the void looked back. Then I lost interest. I can’t wait to be your new owner!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "is_special_edition": false,
+  "fancy_type": "Genesis",
+  "language": "en",
+  "is_prestige": false,
+  "prestige_type": null,
+  "prestige_ranking": null,
+  "prestige_time_limit": null,
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "enhanced_cattributes": [
+
+  ],
+  "variation": null,
+  "variation_ranking": null,
+  "fancy_ranking": 1
+}
