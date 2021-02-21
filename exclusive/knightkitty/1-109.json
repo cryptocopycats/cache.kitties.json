@@ -1,0 +1,22 @@
+{
+  "id": 109,
+  "name": "Charlemagne - 武士",
+  "generation": 0,
+  "created_at": "2017-11-23T06:50:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "By Guinevere’s bosom! I am Charlemagne - 武士, Third Among Equals, Fiery Spirit of Clawalot, and Knight of the Rollypolly Table! I am pledged in service to Bojak, and to my very last breath, I will defend righteousness, freedom, and alley fights!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

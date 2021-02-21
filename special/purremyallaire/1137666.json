@@ -1,0 +1,22 @@
+{
+  "id": 1137666,
+  "name": "Purremy Allaire",
+  "generation": 1,
+  "created_at": "2018-10-29T16:28:11.000Z",
+  "birthday": "2018-10-29T00:00:00.000Z",
+  "color": "parakeet",
+  "bio": "Hey there, I'm Purremy Allaire. Some cats are focused on catnip and stalking prey; I'm more about using open internet protocols to pave the way for value to move as freely in the future as information moves today. Every Kitty needs scratch, and I want to make getting cryptocurrency as easy as catching a mouse.",
+  "kitty_type": "special",
+  "is_fancy": true,
+  "is_special_edition": true,
+  "fancy_type": "PurremyAllaire",
+  "language": "en",
+  "matron": "787485@0",
+  "sire": "787481@0",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_remaining": "unlimited"
+}

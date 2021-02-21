@@ -1,0 +1,21 @@
+{
+  "id": 204,
+  "name": "Sir Meowsalot",
+  "generation": 0,
+  "created_at": "2017-11-23T07:06:00.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Greetings, my liege. I am Sir Meowsalot, defender of the KittyVerse, upholder of justice, and keeper of the cardboard box. I am the sworn champion of cat collectors from every corner of Catelot. With my claw-sharp sword in my paws, no monster can stop me––not even the * hiss * dread troll Grentail.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "SirMeowsalot",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

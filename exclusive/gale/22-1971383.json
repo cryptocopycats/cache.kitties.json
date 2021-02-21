@@ -1,0 +1,23 @@
+{
+  "id": 1971383,
+  "name": "Gale",
+  "generation": 12,
+  "created_at": "2020-10-23T23:29:40.000Z",
+  "birthday": "2020-10-23T00:00:00.000Z",
+  "color": "cyan",
+  "bio": "Amaaazing! I'm Gale. I've waited millions of blocks for the chance to meet you. Let's go on our first friends trip to the windy city. There's much to see, plenty to do and more importantly, I haven't visited in a myr. Swooosh. Wait, where is everyone? Doc Purr?! Noo0x67616c65...",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Gale",
+  "language": "en",
+  "matron": "1174136@11",
+  "sire": "1611645@3",
+  "children": [
+    "1971525@13",
+    "1983666@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 22
+}

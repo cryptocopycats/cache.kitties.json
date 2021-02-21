@@ -1,0 +1,22 @@
+{
+  "id": 112,
+  "name": "🐝 King Bee",
+  "generation": 0,
+  "created_at": "2017-11-23T06:50:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "By Morgana’s might! I am 🐝 King Bee, Custodian of Cavalon, Bearer of the Cup, and Knight of the Rollypolly Table! I am pledged in service to Xelion, and to my very last breath I will defend honor, justice, and warm spots in the sun!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

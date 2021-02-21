@@ -1,0 +1,22 @@
+{
+  "id": 114,
+  "name": "KnightKitty",
+  "generation": 0,
+  "created_at": "2017-11-23T06:51:08.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "By Merlin’s robe! I am KnightKitty, Knight of the Bow, Seeker of Love, and Knight of the Rollypolly Table! I am pledged in service to Ciel, and to my very last breath I will defend freedom, love, and discarded cardboard boxes!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

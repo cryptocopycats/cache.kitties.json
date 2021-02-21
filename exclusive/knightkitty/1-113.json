@@ -1,0 +1,22 @@
+{
+  "id": 113,
+  "name": "KnightKitty",
+  "generation": 0,
+  "created_at": "2017-11-23T06:51:08.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "By Mallory’s pen! I am KnightKitty, Brother Knight, Seeker of Quests, and Knight of the Rollypolly Table! I am pledged in service to Muddledbox, and to my very last breath I will defend truth, love, and my master’s keyboard!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

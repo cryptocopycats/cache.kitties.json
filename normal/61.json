@@ -1,0 +1,24 @@
+{
+  "id": 61,
+  "name": "Golden Horatio #61",
+  "generation": 0,
+  "created_at": "2017-11-23T06:29:55.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Golden Horatio #61. I'm a Foreign Film Director by day, and I like riding the bus by night. My secret indulgence is ice cream. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "51989@11",
+    "54137@8",
+    "61229@10",
+    "61771@7",
+    "69818@10",
+    "76543@1",
+    "81978@2",
+    "87715@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

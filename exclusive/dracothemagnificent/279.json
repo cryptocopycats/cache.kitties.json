@@ -1,0 +1,21 @@
+{
+  "id": 279,
+  "name": "Draco the Magnificent",
+  "generation": 0,
+  "created_at": "2017-11-23T07:18:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ahem. *beat kicks in* I'm Draco the Magnificent, the lizard wizard who loves a blizzard, making sweet rhymes out of bones and brine. What do you think? I want to send a copy of my mixtape to my favourite rapper, Drake.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "DracoTheMagnificent",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

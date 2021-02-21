@@ -1,0 +1,23 @@
+{
+  "id": 1995657,
+  "name": "Ellie",
+  "generation": 14,
+  "created_at": "2021-01-31T06:00:57.000Z",
+  "birthday": "2021-01-31T00:00:00.000Z",
+  "color": "olive",
+  "bio": "Hi, I'm Ellie - so glad you herd about the slumber purrty! I'm having an absolute blast, hanging out with furriends and getting a bit wild. Pillow fights are TONS of fun... in fact, they're downright elephantastic!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Ellie",
+  "language": "en",
+  "matron": "1995476@12",
+  "sire": "1995332@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 8,
+  "fancy_limit": 2500,
+  "fancy_remaining": 2490
+}

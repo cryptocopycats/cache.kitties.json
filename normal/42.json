@@ -1,0 +1,29 @@
+{
+  "id": 42,
+  "name": "I'm kitty #42",
+  "generation": 0,
+  "created_at": "2017-11-23T06:25:43.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm I'm kitty #42. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "192708@1",
+    "192820@1",
+    "193737@1",
+    "194354@1",
+    "212095@1",
+    "215088@1",
+    "218206@1",
+    "228668@1",
+    "259672@1",
+    "347567@1",
+    "384157@1",
+    "557865@1",
+    "720515@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

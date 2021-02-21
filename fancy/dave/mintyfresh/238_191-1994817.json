@@ -1,0 +1,27 @@
+{
+  "id": 1994817,
+  "name": "Dave Penultimate number",
+  "generation": 11,
+  "created_at": "2021-01-09T17:05:28.000Z",
+  "birthday": "2021-01-09T00:00:00.000Z",
+  "color": "thundergrey",
+  "bio": "Happy Holly-Daves! How about that for a minty fresh greeting? The winter season has many holidays and we're so happy to celebrate them together. We'll start by gathering and building friends old and new - I'm Dave Penultimate number, it's so nice to meet mew!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dave",
+  "language": "en",
+  "matron": "1994055@10",
+  "sire": "1993853@10",
+  "children": [
+    "1995922@19",
+    "1995942@17",
+    "1995953@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "variation": "mintyfresh",
+  "variation_ranking": 191,
+  "fancy_ranking": 238,
+  "fancy_time_limit": "2021-01-09T17:50:00.000Z",
+  "fancy_remaining": 0
+}

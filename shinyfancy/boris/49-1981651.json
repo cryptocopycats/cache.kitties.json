@@ -1,0 +1,23 @@
+{
+  "id": 1981651,
+  "name": "Boris",
+  "generation": 8,
+  "created_at": "2020-10-31T22:52:04.000Z",
+  "birthday": "2020-10-31T00:00:00.000Z",
+  "color": "cyan",
+  "bio": "Stitches? Sure, I've got a few. But please - call me Boris. I'm a body builder by purrfession, though I've always been a bit misunderstood. I've been thinking about putting myself on the market and looking for love - will you be my zombae?",
+  "kitty_type": "shinyfancy",
+  "is_fancy": true,
+  "fancy_type": "Boris",
+  "language": "en",
+  "matron": "1981489@7",
+  "sire": "1981436@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 49,
+  "fancy_time_limit": "2020-11-14T17:50:00.000Z",
+  "fancy_remaining": 0
+}

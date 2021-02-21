@@ -1,0 +1,30 @@
+{
+  "id": 21,
+  "name": "Founder Cat #21",
+  "generation": 0,
+  "created_at": "2017-11-23T06:22:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Founder Cat #21. I want to live in a world where people believe that one day cats will rule this planet. I was voted school jock in college. Our friendship will be seductive, hairy, and full of steak.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "40869@1",
+    "41084@1",
+    "41279@5",
+    "203071@1",
+    "203584@1",
+    "230802@1",
+    "233647@1",
+    "238388@10",
+    "260539@1",
+    "290148@16",
+    "314730@16",
+    "362295@14",
+    "407189@16",
+    "625040@25"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

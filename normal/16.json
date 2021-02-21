@@ -1,0 +1,17 @@
+{
+  "id": 16,
+  "name": "grey",
+  "generation": 0,
+  "created_at": "2017-11-23T06:21:56.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm grey. I enjoy picking on mice, eating until I loathe myself, and fighting the patriarchy. In my free time, I can usually be found prickly or tricking babies. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "35400@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

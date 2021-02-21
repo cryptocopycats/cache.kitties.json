@@ -1,0 +1,26 @@
+{
+  "id": 12,
+  "name": "Founder Cat #12",
+  "generation": 0,
+  "created_at": "2017-11-23T06:20:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Founder Cat #12. I enjoy eating until I loathe myself, breakdancing, and tripping my owner. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "32933@1",
+    "34748@1",
+    "34950@6",
+    "35268@1",
+    "35383@7",
+    "38793@17",
+    "59825@2",
+    "99994@21",
+    "101186@1",
+    "124925@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

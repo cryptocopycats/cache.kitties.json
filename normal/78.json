@@ -1,0 +1,21 @@
+{
+  "id": 78,
+  "name": "Founder Cat #78",
+  "generation": 0,
+  "created_at": "2017-11-23T06:31:55.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Founder Cat #78. I believe the world is flat. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Will you be the maple syrup to my marmalade?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "100670@19",
+    "103691@10",
+    "107066@1",
+    "108965@12",
+    "147684@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

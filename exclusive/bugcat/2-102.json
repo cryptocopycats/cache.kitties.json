@@ -1,0 +1,28 @@
+{
+  "id": 102,
+  "name": "Super Rare #Gen 0 - SploitCat",
+  "generation": 0,
+  "created_at": "2017-11-23T06:48:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "4f 68 2c 20 79 6f 75 20 66 6f 75 6e 64 20 6d 65 2e 20 49 27 6d 20 53 70 6c 6f 69 74 43 61 74 2c 20 61 6e 64 20 49 27 6d 20 75 73 75 61 6c 6c 79 20 66 6f 75 6e 64 20 69 6e 20 74 68 65 20 34 30 34 2e 20 55 6e 6c 65 73 73 20 79 6f 75 72 20 6e 61 6d 65 20 69 73 20 40 61 64 61 6d 6b 6f 6c 61 72 2c 20 49 20 64 6f 6e 27 74 20 63 61 72 65 20 77 68 6f 20 79 6f 75 20 61 72 65 2e",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "BugCat",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "26854@1",
+    "31775@1",
+    "54767@15",
+    "61764@1",
+    "66568@2",
+    "77229@18",
+    "187779@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13,
+  "name": "Founder Flex #13",
+  "generation": 0,
+  "created_at": "2017-11-23T06:21:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Founder Flex #13. I'm a Foreign Film Director by day, and I like riverdancing by night. I would give it all up to star in a soap opera. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "35400@1",
+    "43294@1",
+    "52130@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

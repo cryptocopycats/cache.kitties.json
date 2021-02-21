@@ -1,0 +1,30 @@
+{
+  "id": 1807375,
+  "name": "Susi \"Solar\" Happy NewYear",
+  "generation": 17,
+  "created_at": "2020-01-14T01:40:59.000Z",
+  "birthday": "2020-01-14T00:00:00.000Z",
+  "color": "kaleidoscope",
+  "bio": "Greetings. I'm Susi \"Solar\" Happy NewYear, you may know me from Scream 3. My hobbies include staying woke, but only in moderation. Hold my beer.",
+  "language": "en",
+  "is_prestige": true,
+  "prestige_type": "confettibox",
+  "prestige_ranking": 478,
+  "prestige_time_limit": "2020-01-15T07:59:00.000Z",
+  "matron": "1807032@14",
+  "sire": "1807166@16",
+  "children": [
+    "1808376@18",
+    "1900473@18",
+    "1907685@18",
+    "1910885@18",
+    "1918560@18",
+    "1935997@18",
+    "1944385@20",
+    "1962272@18",
+    "1965766@18",
+    "1968930@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

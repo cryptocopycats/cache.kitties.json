@@ -1,0 +1,22 @@
+{
+  "id": 108,
+  "name": "KnightKitty",
+  "generation": 0,
+  "created_at": "2017-11-23T06:49:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "By Merlin’s wand! I am KnightKitty, Youngest of the Name, Slayer of Dragons, Servant of the Catbed, and Knight of the Rollypolly Table! I am pledged in service to NotEvenClose, and to my very last breath, I will defend honor, loyalty, and whisker rubs!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

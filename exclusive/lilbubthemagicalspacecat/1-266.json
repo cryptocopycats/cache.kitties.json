@@ -1,0 +1,22 @@
+{
+  "id": 266,
+  "name": "Lil BUB The Magical Space Cat",
+  "generation": 0,
+  "created_at": "2017-11-23T07:18:03.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hello. It's me, Lil BUB The Magical Space Cat. I'm no ordinary cat - I am a magical space cat visiting from the planet Bub Ub Bub with a few important messages: celebrate your differences, never give up, and most importantly, adopt, spay, and neuter your Earth pets.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Lilbubthemagicalspacecat",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

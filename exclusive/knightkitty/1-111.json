@@ -1,0 +1,22 @@
+{
+  "id": 111,
+  "name": "Reachy",
+  "generation": 0,
+  "created_at": "2017-11-23T06:50:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "By Morgana’s magic! I am Reachy, trusted Second to the King Among Equals, born of the lake, Servant of the Catbed, and Knight of the Rollypolly Table! I am pledged in service to Derpybastard, and to my very last breath, I will defend love, freedom, and catnip!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "name": "Founder Cat #8",
+  "generation": 0,
+  "created_at": "2017-11-23T06:20:08.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Founder Cat #8. My friends describe me as raunchy and stinky. I put wasabi on everything. Like, everything: hot dogs, steak—everything! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "83169@20",
+    "92260@1",
+    "107552@1",
+    "111575@1",
+    "121394@1",
+    "132458@1",
+    "184853@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

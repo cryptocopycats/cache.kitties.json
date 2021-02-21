@@ -1,0 +1,22 @@
+{
+  "id": 110,
+  "name": "KnightKitty #110",
+  "generation": 0,
+  "created_at": "2017-11-23T06:50:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "By Excalipurr’s blade! I am KnightKitty #110, Brother to the King, Defender of the Weak, and Knight of the Rollypolly Table! I am pledged in service to Mercy, and to my very last breath I will defend family, nobility, and yarn balls!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

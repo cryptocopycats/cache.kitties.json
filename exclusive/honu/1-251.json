@@ -1,0 +1,22 @@
+{
+  "id": 251,
+  "name": "Honu",
+  "generation": 0,
+  "created_at": "2017-11-23T07:14:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*. I'm Honu. I don't usually talk to turtle strangers, but I felt I was just coasting through life until I met you. Some folks say I'm shellfish, but I'm a very generous reptile — though I can be a bit catty. Together, we're going to be finstrumental in making the world a better shade of blue!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Honu",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

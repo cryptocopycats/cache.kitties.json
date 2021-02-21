@@ -1,0 +1,27 @@
+{
+  "id": 1440835,
+  "name": "Pizza Hinecatone",
+  "generation": 9,
+  "created_at": "2019-03-08T01:25:35.000Z",
+  "birthday": "2019-03-08T00:00:00.000Z",
+  "color": "thundergrey",
+  "bio": "Kia ora! Call me Pizza Hinecatone. Ahhh, is there anything more beautiful than the blossoming of a new friendship? Spring is a time of change and renewal, so I’m looking to branch out. I’ve got to find some new homes for my plant buddies—do you have a good pot dealer?",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Hinecatone",
+  "language": "en",
+  "matron": "1440748@8",
+  "sire": "1438721@8",
+  "children": [
+    "1440891@10",
+    "1441072@10",
+    "1441232@10",
+    "1441630@10",
+    "1441933@10",
+    "1445607@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4
+}

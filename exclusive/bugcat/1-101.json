@@ -1,0 +1,22 @@
+{
+  "id": 101,
+  "name": "BugCat",
+  "generation": 0,
+  "created_at": "2017-11-23T06:48:47.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "47 72 65 65 74 69 6e 67 73 2e 20 49 20 61 6d 20 42 75 67 43 61 74 2c 20 61 6e 64 20 49 27 6d 20 61 20 67 6c 69 74 63 68 20 69 6e 20 74 68 65 20 6d 61 74 72 69 78 2e 20 49 20 70 6c 65 64 67 65 20 6d 79 20 61 6c 6c 65 67 69 61 6e 63 65 20 74 6f 20 6d 79 20 72 69 67 68 74 66 75 6c 20 6d 61 73 74 65 72 2c 20 40 61 72 61 63 68 6e 69 64 2e",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "BugCat",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "31775@1"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

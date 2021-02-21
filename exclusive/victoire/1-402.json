@@ -1,0 +1,22 @@
+{
+  "id": 402,
+  "name": "Victoire",
+  "generation": 0,
+  "created_at": "2017-11-23T07:41:41.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Bonjour! I'm Victoire, and the only time I've lost was in 1983 — but I don't focus on defeat, only on de-footwork. My teammates are always out of position. But, then again, have you ever tried herding cats? You might need 11 players to win, but I only need 8.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Victoire",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1
+}

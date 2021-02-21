@@ -1,0 +1,26 @@
+{
+  "id": 1449860,
+  "name": "Felono",
+  "generation": 12,
+  "created_at": "2019-03-10T17:41:53.000Z",
+  "birthday": "2019-03-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I’m Felono, and I’ve spent the last few years searching for a place to plant myself. Maybe I can set down some roots here with you? Forgive me if I’m a little sappy, but I’m so excited to meet you I just might soil myself!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Felono",
+  "language": "en",
+  "matron": "1449009@11",
+  "sire": "1447287@11",
+  "children": [
+    "1451545@13",
+    "1452616@13",
+    "1453371@13",
+    "1454967@13",
+    "1456577@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 14
+}

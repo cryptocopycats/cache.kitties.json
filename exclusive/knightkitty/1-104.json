@@ -1,0 +1,22 @@
+{
+  "id": 104,
+  "name": "KnightKitty #1",
+  "generation": 0,
+  "created_at": "2017-11-23T06:49:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "By Merlin’s beard! I am KnightKitty #1, First Among Equals, Wielder of Excalipurr, King of Clawalot, and Knight of the Rollypolly Table! I am pledged in service to Foxxy, and to my very last breath, I will defend truth, justice, and cat naps!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "KnightKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

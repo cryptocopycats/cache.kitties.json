@@ -1,0 +1,23 @@
+{
+  "id": 964205,
+  "name": "Pretty Vulcant",
+  "generation": 8,
+  "created_at": "2018-09-06T20:16:57.000Z",
+  "birthday": "2018-09-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey good looking, what's cooking? I'm Pretty Vulcant and I'm sorry to grill you like that. People assume I'm a pessimist who can't get anything done. The fools! This isn't even my final form. Wait until they see my true power! HYAAAAAaaaaaaawwn...",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Vulcant",
+  "language": "en",
+  "matron": "964049@7",
+  "sire": "958203@1",
+  "children": [
+    "1001743@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 13,
+  "fancy_limit": 20
+}

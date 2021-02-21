@@ -1,0 +1,26 @@
+{
+  "id": 55,
+  "name": "Founder Cat #55",
+  "generation": 0,
+  "created_at": "2017-11-23T06:29:21.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! My name's Founder Cat #55. I once peed on Amelia Earhart's cat. They had it coming. In my free time, I can usually be found petulant or jump-roping. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "50657@1",
+    "60322@2",
+    "61029@1",
+    "61268@6",
+    "67077@1",
+    "87009@1",
+    "90649@1",
+    "121653@1",
+    "142524@1",
+    "304860@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

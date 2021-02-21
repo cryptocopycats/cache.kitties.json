@@ -1,0 +1,17 @@
+{
+  "id": 24,
+  "name": "Kobe",
+  "generation": 0,
+  "created_at": "2017-11-23T06:23:59.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kobe. I believe the world is flat. My secret indulgence is steak. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true
+}

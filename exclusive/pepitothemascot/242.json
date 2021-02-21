@@ -1,0 +1,21 @@
+{
+  "id": 242,
+  "name": "Pepito the Mascot",
+  "generation": 0,
+  "created_at": "2017-11-23T07:14:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi human, I'm Pepito the Mascot, the official Mascot of all blockchain Kitties. I've been here since block 4605167, the beginning of time. I've watched almost 2 million Cats hatch from their eggs since Genesis was born. I have come to give love back to kitties of the non-digital kind.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "PepitoTheMascot",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true
+}

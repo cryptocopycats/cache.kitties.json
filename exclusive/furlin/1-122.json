@@ -1,0 +1,22 @@
+{
+  "id": 122,
+  "name": "Furlin",
+  "generation": 0,
+  "created_at": "2017-11-23T06:53:01.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Behold, master, I am Furlin. The collective wisdom of 999 lives swirls within my white-whiskered head, so forgive me if sometimes I'm forgetful. Only the mightiest mages and sauciest sorcerers of the KittyVerse may make use of my cat-aclysmic powers.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Furlin",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

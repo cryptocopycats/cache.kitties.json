@@ -1,0 +1,22 @@
+{
+  "id": 265,
+  "name": "RabbidKitty",
+  "generation": 0,
+  "created_at": "2017-11-23T07:17:17.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Bwah! Bwah HaHa RabbidKitty bwah. Bwah bwah? BWAHHHHHHHHHHH!",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "RabbidKitty",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

@@ -1,0 +1,28 @@
+{
+  "id": 174756,
+  "name": "Mistletoe #1",
+  "generation": 8,
+  "created_at": "2017-12-09T06:34:56.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Mistletoe #1. All you need to know about me is I hate chocolate with a passion. Some people say I'm the Peter Griffin of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "172555@7",
+  "sire": "169197@6",
+  "children": [
+    "175601@9",
+    "218681@9",
+    "236312@11",
+    "318568@11",
+    "323276@9",
+    "361558@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 500000,
+  "name": "Cathena",
+  "generation": 3,
+  "created_at": "2018-02-06T14:50:28.000Z",
+  "birthday": "2018-02-06T00:00:00.000Z",
+  "color": "thundergrey",
+  "bio": "Morning, sunshine! I’m Cathena. Do you believe in fate? Because I have seen us in the wind and clouds, and every raindrop called your name. Then again, fate also foretold that I would become an elemental avatar, growing in power with each living death. Who knows though, right? Teehee.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Cathena",
+  "language": "en",
+  "matron": "476349@2",
+  "sire": "474593@2",
+  "children": [
+    "502195@8",
+    "507923@4",
+    "511036@4",
+    "523056@13",
+    "524994@4",
+    "546407@5",
+    "583474@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

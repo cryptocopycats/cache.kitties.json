@@ -1,0 +1,25 @@
+{
+  "id": 1994787,
+  "name": "Dave",
+  "generation": 9,
+  "created_at": "2021-01-09T14:42:22.000Z",
+  "birthday": "2021-01-09T00:00:00.000Z",
+  "color": "thundergrey",
+  "bio": "Happy Holly-Daves! We're feeling berry festive, and that custom greeting has a nice ring to it eh?  The winter season has many holidays and we're so happy to celebrate them together. We'll start by gathering and building friends old and new - I'm Dave, it's so nice to meet mew!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dave",
+  "language": "en",
+  "matron": "1994278@7",
+  "sire": "1994513@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "variation": "berryfestive",
+  "variation_ranking": 21,
+  "fancy_ranking": 229,
+  "fancy_time_limit": "2021-01-09T17:50:00.000Z",
+  "fancy_remaining": 0
+}

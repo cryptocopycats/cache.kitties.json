@@ -1,0 +1,22 @@
+{
+  "id": 1000000,
+  "name": "Vulcat",
+  "generation": 2,
+  "created_at": "2018-09-12T17:31:54.000Z",
+  "birthday": "2018-09-12T00:00:00.000Z",
+  "color": "cyan",
+  "bio": "A toast in your honour, my friend. I'm Vulcat. Some people like to do things right, but I prefer them well done. A wise man once told me that if you build a person a fire, they'll be warm for a day. It turns out that if you set a wise man on fire, they'll be warm for the rest of their life.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Vulcat",
+  "language": "en",
+  "matron": "964749@1",
+  "sire": "964747@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1
+}

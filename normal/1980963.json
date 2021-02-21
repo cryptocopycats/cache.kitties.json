@@ -1,0 +1,21 @@
+{
+  "id": 1980963,
+  "name": "Snickers Sternplum",
+  "generation": 12,
+  "created_at": "2020-10-31T14:48:30.000Z",
+  "birthday": "2020-10-31T00:00:00.000Z",
+  "color": "cyan",
+  "bio": "*deadpan stare*. I'm Snickers Sternplum, but you can refer to me as your new best friend. I'm thinking of designing an exclusive line of push-up bras. I'd love your opinion on my initial sketches! Fancy Cats are cool, but I'm more interested in breeding for love.",
+  "language": "en",
+  "is_prestige": true,
+  "prestige_type": "meowfoolest",
+  "prestige_ranking": 251,
+  "prestige_time_limit": "2020-10-31T17:00:00.000Z",
+  "matron": "1980891@11",
+  "sire": "1980711@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

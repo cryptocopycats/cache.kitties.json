@@ -1,0 +1,23 @@
+{
+  "id": 1970648,
+  "name": "Bartholomeow the Trickster",
+  "generation": 17,
+  "created_at": "2020-10-19T09:57:40.000Z",
+  "birthday": "2020-10-19T00:00:00.000Z",
+  "color": "cyan",
+  "bio": "Ho there, warrior! I'm Bartholomeow the Trickster, master of deception and knitting. But really, I'm just a low-key Kitty who enjoys playing with their stringshot. Just don't give me mead, or else I'm known to spin quite a yarn.",
+  "kitty_type": "shinyfancy",
+  "is_fancy": true,
+  "fancy_type": "Bartholomeow",
+  "language": "en",
+  "matron": "1970581@16",
+  "sire": "1824377@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 388,
+  "fancy_limit": 10000,
+  "fancy_remaining": 9594
+}

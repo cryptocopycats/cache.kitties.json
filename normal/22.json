@@ -1,0 +1,21 @@
+{
+  "id": 22,
+  "name": "Founder Cat #22",
+  "generation": 0,
+  "created_at": "2017-11-23T06:22:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Founder Cat #22. I believe the world is flat. I was voted most likely to work at NASA in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "203071@1",
+    "203584@1",
+    "230802@1",
+    "233647@1",
+    "260539@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

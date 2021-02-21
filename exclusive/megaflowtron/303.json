@@ -1,0 +1,21 @@
+{
+  "id": 303,
+  "name": "MegaFlowtron",
+  "generation": 0,
+  "created_at": "2017-11-23T07:23:39.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "I am MegaFlowtron! Don't run. You've combined the power of four incredibly rare Shiny Flow Rangers to summon me! Together, we shall create a new network, one that brings the speed and throughput needed to build open and decentralized metaverses. Our first mission: bring our friends to the Flow blockchain.",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "MegaFlowtron",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true
+}
