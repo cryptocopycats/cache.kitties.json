@@ -1,0 +1,20 @@
+{
+  "id": 14582,
+  "name": "Florf",
+  "generation": 16,
+  "created_at": "2017-11-30T02:54:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Florf. I believe the world is flat. When no one's home, I invite my pals over and we listen to Ace of Base. I like your face.",
+  "language": "en",
+  "matron": "10819@15",
+  "sire": "10794@12",
+  "children": [
+    "16498@17",
+    "20954@17",
+    "31026@17",
+    "115655@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

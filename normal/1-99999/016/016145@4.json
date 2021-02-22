@@ -1,0 +1,27 @@
+{
+  "id": 16145,
+  "name": "Mr Benson",
+  "generation": 4,
+  "created_at": "2017-11-30T09:09:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Mr Benson. I want to live in a world where people believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. Our friendship will be tantalizing, raunchy, and full of salad.",
+  "language": "en",
+  "matron": "15555@3",
+  "sire": "15807@3",
+  "children": [
+    "16702@6",
+    "18137@8",
+    "18343@10",
+    "18852@12",
+    "53898@5",
+    "65614@5",
+    "73657@5",
+    "129475@7",
+    "179589@7",
+    "300587@7",
+    "376825@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17308,
+  "name": "Cutie",
+  "generation": 13,
+  "created_at": "2017-11-30T14:02:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Cutie. I'm a Ventriloquist by day, and I like running a podcast by night. When no one's home, I invite my pals over and we listen to Metallica. Our friendship will be wondrous, prickly, and full of cantaloupe.",
+  "language": "en",
+  "matron": "15161@12",
+  "sire": "14896@11",
+  "children": [
+    "20075@14",
+    "21871@14",
+    "55046@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

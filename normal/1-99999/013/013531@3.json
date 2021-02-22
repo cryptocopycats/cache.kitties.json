@@ -1,0 +1,21 @@
+{
+  "id": 13531,
+  "name": "RARE GEN 3",
+  "generation": 3,
+  "created_at": "2017-11-29T22:29:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm RARE GEN 3. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Princess Diana. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "13512@2",
+  "sire": "13499@2",
+  "children": [
+    "13586@4",
+    "155373@6",
+    "157213@5",
+    "159135@8",
+    "256827@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

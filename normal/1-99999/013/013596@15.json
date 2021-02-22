@@ -1,0 +1,18 @@
+{
+  "id": 13596,
+  "name": "Violetta",
+  "generation": 15,
+  "created_at": "2017-11-29T22:44:57.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Violetta. I believe that one day cats will rule this planet. I once bit a goose. I don't like to talk about it. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "13137@9",
+  "sire": "9044@14",
+  "children": [
+    "16844@16",
+    "20587@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

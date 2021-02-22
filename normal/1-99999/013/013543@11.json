@@ -1,0 +1,21 @@
+{
+  "id": 13543,
+  "name": "Second",
+  "generation": 11,
+  "created_at": "2017-11-29T22:30:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Second. I'm often referred to as the Ross Geller of the group. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "10530@8",
+  "sire": "12192@10",
+  "children": [
+    "14376@12",
+    "14452@16",
+    "15499@16",
+    "58518@12",
+    "255111@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

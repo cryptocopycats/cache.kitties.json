@@ -1,0 +1,23 @@
+{
+  "id": 13457,
+  "name": "Duck Maker | G8",
+  "generation": 8,
+  "created_at": "2017-11-29T22:13:33.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Duck Maker | G8. I enjoy sitting on your computer, picking on mice, and grooming. I'm often described as seductive, and I own it. I like your face.",
+  "language": "en",
+  "matron": "12988@7",
+  "sire": "12901@7",
+  "children": [
+    "13611@9",
+    "14057@9",
+    "14527@9",
+    "19587@9",
+    "20878@9",
+    "44285@9",
+    "67213@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

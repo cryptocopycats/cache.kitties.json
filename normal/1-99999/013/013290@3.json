@@ -1,0 +1,27 @@
+{
+  "id": 13290,
+  "name": "Gen 3 | Slow",
+  "generation": 3,
+  "created_at": "2017-11-29T21:30:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Gen 3 | Slow. I'm often referred to as the Ross Geller of the group. I once dreamed of being a Ventriloquist. Now I can be found jump-roping all day. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "9227@1",
+  "sire": "13172@2",
+  "children": [
+    "13303@4",
+    "13342@4",
+    "13451@4",
+    "13539@4",
+    "13750@4",
+    "13975@4",
+    "15514@4",
+    "18871@5",
+    "104581@4",
+    "114270@4",
+    "136669@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

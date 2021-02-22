@@ -1,0 +1,19 @@
+{
+  "id": 14283,
+  "name": "Kit",
+  "generation": 14,
+  "created_at": "2017-11-30T01:32:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Kit. I believe that one day cats will rule this planet. My friends describe me as \"smelly.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "13783@13",
+  "sire": "7810@12",
+  "children": [
+    "15209@15",
+    "19072@15",
+    "40995@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

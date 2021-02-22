@@ -1,0 +1,24 @@
+{
+  "id": 15290,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T06:03:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #15290. I enjoy licking doorknobs, picking flowers, and fighting the patriarchy. My great-great-great-great-great-great grandkitty lived with Confucius. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "12927@14",
+  "sire": "13014@10",
+  "children": [
+    "16343@16",
+    "28935@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 46,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

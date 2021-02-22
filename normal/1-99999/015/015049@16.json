@@ -1,0 +1,21 @@
+{
+  "id": 15049,
+  "name": "Old #15K",
+  "generation": 16,
+  "created_at": "2017-11-30T05:00:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Old #15K. My friends describe me as voluptuous and brilliant. Sometimes I daydream of a life full of picking flowers, apple pie, and playing chess. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "9956@15",
+  "sire": "4492@6",
+  "children": [
+    "21401@18",
+    "25426@20",
+    "45544@17",
+    "109851@17",
+    "207555@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

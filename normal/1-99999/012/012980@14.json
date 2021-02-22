@@ -1,0 +1,21 @@
+{
+  "id": 12980,
+  "name": "Kitty #12980",
+  "generation": 14,
+  "created_at": "2017-11-29T20:10:56.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #12980. My friends describe me as ridiculous and stinky. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I look forward to staying woke with you.",
+  "language": "en",
+  "matron": "12410@13",
+  "sire": "5974@8",
+  "children": [
+    "14139@15",
+    "21665@15",
+    "45472@15",
+    "55128@15",
+    "122689@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

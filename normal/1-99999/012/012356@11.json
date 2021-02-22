@@ -1,0 +1,23 @@
+{
+  "id": 12356,
+  "name": "11 white, stripes",
+  "generation": 11,
+  "created_at": "2017-11-29T17:51:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm 11 white, stripes. I believe that one day cats will rule this planet. I put wasabi on everything. Like, everything: hot dogs, salad—everything! Let's pawty!",
+  "language": "en",
+  "matron": "3320@5",
+  "sire": "5002@10",
+  "children": [
+    "12738@16",
+    "13180@12",
+    "14323@12",
+    "16504@12",
+    "44302@12",
+    "67153@16",
+    "117711@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

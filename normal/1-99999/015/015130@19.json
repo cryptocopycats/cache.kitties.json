@@ -1,0 +1,18 @@
+{
+  "id": 15130,
+  "name": "Braxton",
+  "generation": 19,
+  "created_at": "2017-11-30T05:20:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Braxton here. I'm here to enjoy grooming and picking flowers. I am 8% fairy, 33% Ventriloquist, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12092@18",
+  "sire": "11226@0",
+  "children": [
+    "50868@20",
+    "81771@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

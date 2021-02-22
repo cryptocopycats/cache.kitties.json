@@ -1,0 +1,26 @@
+{
+  "id": 16881,
+  "name": "Big Shaq",
+  "generation": 5,
+  "created_at": "2017-11-30T12:24:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Big Shaq. I'm a Dogwalker by day, and I like watching reality tv by night. I put cinammon on everything. Like, everything: hot dogs, cantaloupe—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15890@4",
+  "sire": "16727@4",
+  "children": [
+    "17042@6",
+    "25779@6",
+    "30697@6",
+    "31359@12",
+    "45622@9",
+    "57304@8",
+    "73454@6",
+    "88276@6",
+    "180880@6",
+    "214609@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

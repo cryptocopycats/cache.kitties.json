@@ -1,0 +1,18 @@
+{
+  "id": 13345,
+  "name": "sheena",
+  "generation": 10,
+  "created_at": "2017-11-29T21:47:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm sheena. My friends describe me as gullible and prickly. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! Our friendship will be gullible, prickly, and full of cantaloupe.",
+  "language": "en",
+  "matron": "11578@7",
+  "sire": "12777@9",
+  "children": [
+    "13697@11",
+    "18009@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

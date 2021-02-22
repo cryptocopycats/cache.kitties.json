@@ -1,0 +1,20 @@
+{
+  "id": 14368,
+  "name": "Feather",
+  "generation": 10,
+  "created_at": "2017-11-30T01:51:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Feather. I'm a professional Skydiving Instructor and I love ice cream. Some people say I'm the Lisa Simpson of the group. Our friendship will be seductive, brilliant, and full of cereal.",
+  "language": "en",
+  "matron": "2672@0",
+  "sire": "5161@9",
+  "children": [
+    "17761@16",
+    "26030@11",
+    "49168@12",
+    "63194@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

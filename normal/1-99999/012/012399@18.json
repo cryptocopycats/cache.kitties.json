@@ -1,0 +1,19 @@
+{
+  "id": 12399,
+  "name": "P.Kitty",
+  "generation": 18,
+  "created_at": "2017-11-29T17:55:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm P.Kitty. In high school, I was voted biggest teacher's pet. I put wasabi on everything. Like, everything: hot dogs, cereal—everything! Our friendship will be petulant, hairy, and full of salad.",
+  "language": "en",
+  "matron": "9523@17",
+  "sire": "10402@5",
+  "children": [
+    "16200@19",
+    "25030@19",
+    "114278@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

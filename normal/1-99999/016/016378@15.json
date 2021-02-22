@@ -1,0 +1,20 @@
+{
+  "id": 16378,
+  "name": "Voluptuous Kitty",
+  "generation": 15,
+  "created_at": "2017-11-30T10:10:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! Voluptuous Kitty here. I'm here to enjoy eating lasagna and grooming. I like to listen to Justin Bieber while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "7035@14",
+  "sire": "3960@8",
+  "children": [
+    "45301@16",
+    "63158@16",
+    "135012@16",
+    "247322@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

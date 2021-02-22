@@ -1,0 +1,20 @@
+{
+  "id": 15271,
+  "name": "Ginger",
+  "generation": 15,
+  "created_at": "2017-11-30T05:58:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Ginger. I've never told anyone this, but I once loved a dog. I am 33% oracle, 93% Skydiving Instructor, and otherwise bad at math. Will you be the pickles to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "14225@14",
+  "sire": "6995@13",
+  "children": [
+    "17460@16",
+    "19557@16",
+    "22866@19",
+    "40181@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

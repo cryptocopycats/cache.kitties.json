@@ -1,0 +1,20 @@
+{
+  "id": 14252,
+  "name": "Downs cat",
+  "generation": 15,
+  "created_at": "2017-11-30T01:28:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Downs cat. I'm a professional Skydiving Instructor and I love lasagna. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "language": "en",
+  "matron": "14237@3",
+  "sire": "14216@14",
+  "children": [
+    "15105@16",
+    "26869@16",
+    "30102@16",
+    "51441@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

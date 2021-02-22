@@ -1,0 +1,18 @@
+{
+  "id": 14123,
+  "name": "KittaMean",
+  "generation": 15,
+  "created_at": "2017-11-30T00:58:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm KittaMean. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10712@4",
+  "sire": "13134@14",
+  "children": [
+    "27433@21",
+    "152004@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

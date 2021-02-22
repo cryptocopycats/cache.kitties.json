@@ -1,0 +1,20 @@
+{
+  "id": 15677,
+  "name": "GreenGuy",
+  "generation": 9,
+  "created_at": "2017-11-30T07:33:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm GreenGuy. My friends describe me as seductive and brilliant. In my free time, I can usually be found gullible or pole dancing. Let's pawty!",
+  "language": "en",
+  "matron": "10640@8",
+  "sire": "14232@1",
+  "children": [
+    "21338@10",
+    "21811@11",
+    "30568@11",
+    "53802@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

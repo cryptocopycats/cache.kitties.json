@@ -1,0 +1,18 @@
+{
+  "id": 12822,
+  "name": "15",
+  "generation": 15,
+  "created_at": "2017-11-29T19:47:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm 15. I believe the world is flat. I once dreamed of being a Train Conductor. Now I can be found volunteering at the local kitten rescue shelter all day. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "6148@12",
+  "sire": "7160@14",
+  "children": [
+    "14344@16",
+    "65353@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

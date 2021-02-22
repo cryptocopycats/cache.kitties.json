@@ -1,0 +1,22 @@
+{
+  "id": 15323,
+  "name": "Father of sailor",
+  "generation": 10,
+  "created_at": "2017-11-30T06:12:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Father of sailor. I believe that one day cats will rule this planet. I once dreamed of being a Dogwalker. Now I can be found swiping right all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "11243@9",
+  "sire": "14188@8",
+  "children": [
+    "44187@11",
+    "48685@13",
+    "58490@11",
+    "82600@11",
+    "103670@11",
+    "206799@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

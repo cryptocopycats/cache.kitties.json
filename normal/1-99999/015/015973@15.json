@@ -1,0 +1,19 @@
+{
+  "id": 15973,
+  "name": "Gen15/Slow",
+  "generation": 15,
+  "created_at": "2017-11-30T08:29:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen15/Slow. I've never told anyone this, but I once kissed a dog. I would give it all up for a Chanel purse. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "14903@14",
+  "sire": "14689@13",
+  "children": [
+    "16807@16",
+    "19553@16",
+    "24978@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

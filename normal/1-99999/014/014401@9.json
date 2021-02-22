@@ -1,0 +1,22 @@
+{
+  "id": 14401,
+  "name": "Truffles",
+  "generation": 9,
+  "created_at": "2017-11-30T02:01:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Truffles. I want to live in a world where people believe that one day cats will rule this planet. When I'm not riverdancing, I'm running a podcast! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14051@4",
+  "sire": "5453@8",
+  "children": [
+    "14550@15",
+    "14748@10",
+    "16690@13",
+    "17899@15",
+    "34894@19",
+    "59801@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

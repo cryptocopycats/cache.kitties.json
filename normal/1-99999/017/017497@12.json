@@ -1,0 +1,19 @@
+{
+  "id": 17497,
+  "name": "Friskittie",
+  "generation": 12,
+  "created_at": "2017-11-30T14:53:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Friskittie. My friends describe me as petulant and voluptuous. I once made a goose trot. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "16646@11",
+  "sire": "16472@8",
+  "children": [
+    "18714@13",
+    "21994@13",
+    "78595@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

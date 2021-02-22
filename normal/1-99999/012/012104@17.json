@@ -1,0 +1,19 @@
+{
+  "id": 12104,
+  "name": "Fluffy Tail",
+  "generation": 17,
+  "created_at": "2017-11-29T14:19:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Fluffy Tail. I'm often referred to as the Samwise Gamgee of the group. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, apple pie—everything! Will you be the garlic butter to my soy sauce?",
+  "language": "en",
+  "matron": "7520@11",
+  "sire": "11199@16",
+  "children": [
+    "14291@18",
+    "25807@18",
+    "61199@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

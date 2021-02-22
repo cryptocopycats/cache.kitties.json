@@ -1,0 +1,23 @@
+{
+  "id": 16284,
+  "name": "Green Striped Dali",
+  "generation": 7,
+  "created_at": "2017-11-30T09:44:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Green Striped Dali. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is cantaloupe. Let's pawty!",
+  "language": "en",
+  "matron": "15857@3",
+  "sire": "16049@6",
+  "children": [
+    "16384@8",
+    "23820@8",
+    "24398@14",
+    "24949@8",
+    "57489@8",
+    "70692@10",
+    "86601@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

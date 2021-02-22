@@ -1,0 +1,21 @@
+{
+  "id": 17447,
+  "name": "Vitalik Kitterin",
+  "generation": 14,
+  "created_at": "2017-11-30T14:43:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Vitalik Kitterin. I'm a Dogwalker by day, and I like siring for status by night. My secret indulgence is ice cream. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "14614@12",
+  "sire": "10965@13",
+  "children": [
+    "18338@15",
+    "25117@15",
+    "29406@16",
+    "41708@15",
+    "54916@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

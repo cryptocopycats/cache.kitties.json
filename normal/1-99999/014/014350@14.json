@@ -1,0 +1,22 @@
+{
+  "id": 14350,
+  "name": "7 pure breed",
+  "generation": 14,
+  "created_at": "2017-11-30T01:46:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm 7 pure breed. In high school, I was voted school jock. I was voted school jock in college. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "12440@13",
+  "sire": "11540@11",
+  "children": [
+    "15578@17",
+    "19187@15",
+    "88900@18",
+    "113805@15",
+    "184992@15",
+    "373611@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

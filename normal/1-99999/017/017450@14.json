@@ -1,0 +1,19 @@
+{
+  "id": 17450,
+  "name": "beard",
+  "generation": 14,
+  "created_at": "2017-11-30T14:44:45.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! My name's beard. I once peed on King Henry VIII's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11239@13",
+  "sire": "12605@10",
+  "children": [
+    "21399@19",
+    "41398@15",
+    "59165@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 12895,
+  "name": "G3",
+  "generation": 3,
+  "created_at": "2017-11-29T19:52:52.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm G3. I enjoy eating lasagna, reciting poetry, and riding dirty. I'm often described as stinky, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12838@2",
+  "sire": "10958@1",
+  "children": [
+    "12912@4",
+    "12967@4",
+    "13261@4",
+    "14103@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

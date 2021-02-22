@@ -1,0 +1,18 @@
+{
+  "id": 17415,
+  "name": "Scoop",
+  "generation": 18,
+  "created_at": "2017-11-30T14:32:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Scoop. I've never told anyone this, but I once headbutted a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. Let's get busy!",
+  "language": "en",
+  "matron": "11458@17",
+  "sire": "8466@10",
+  "children": [
+    "17922@19",
+    "56175@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

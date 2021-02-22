@@ -1,0 +1,23 @@
+{
+  "id": 13121,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-29T20:43:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #13121. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I like your face.",
+  "language": "en",
+  "matron": "2657@0",
+  "sire": "6484@12",
+  "children": [
+    "15633@14",
+    "16656@15",
+    "19583@14",
+    "20455@18",
+    "30393@16",
+    "70297@16",
+    "83864@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

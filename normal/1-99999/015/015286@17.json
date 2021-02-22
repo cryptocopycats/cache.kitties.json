@@ -1,0 +1,20 @@
+{
+  "id": 15286,
+  "name": "Shally",
+  "generation": 17,
+  "created_at": "2017-11-30T06:02:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Shally. I want to live in a world where people believe the world is flat. My secret indulgence is lasagna. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12759@16",
+  "sire": "12773@7",
+  "children": [
+    "17913@18",
+    "21900@18",
+    "27742@18",
+    "96543@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

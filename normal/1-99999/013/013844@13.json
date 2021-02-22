@@ -1,0 +1,22 @@
+{
+  "id": 13844,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-29T23:52:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #13844. I'm often referred to as the Samwise Gamgee of the group. I am 65% troll, 37% Mad Scientist, and otherwise bad at math. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "12762@1",
+  "sire": "11671@12",
+  "children": [
+    "14917@14",
+    "15768@17",
+    "19567@14",
+    "24292@14",
+    "108610@15",
+    "274849@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

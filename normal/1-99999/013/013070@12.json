@@ -1,0 +1,23 @@
+{
+  "id": 13070,
+  "name": "Orange",
+  "generation": 12,
+  "created_at": "2017-11-29T20:34:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Orange. I'm often referred to as the Michael Scott of the group. I once made a rhino trot. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5421@10",
+  "sire": "7144@11",
+  "children": [
+    "13588@16",
+    "14513@15",
+    "16476@17",
+    "59653@13",
+    "108446@15",
+    "174925@13",
+    "247717@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

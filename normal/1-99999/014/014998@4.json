@@ -1,0 +1,27 @@
+{
+  "id": 14998,
+  "name": "Basic",
+  "generation": 4,
+  "created_at": "2017-11-30T04:46:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Basic. All you need to know about me is I hate cantaloupe with a passion. In my free time, I can usually be found hairy or mocking dogs. Will you be the peanut butter to my ranch dressing?",
+  "language": "en",
+  "matron": "14232@1",
+  "sire": "14179@3",
+  "children": [
+    "16108@15",
+    "17233@16",
+    "20771@16",
+    "21014@16",
+    "21523@20",
+    "28735@16",
+    "29913@19",
+    "33384@5",
+    "53627@5",
+    "81062@5",
+    "289680@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

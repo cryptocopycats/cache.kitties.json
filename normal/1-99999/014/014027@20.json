@@ -1,0 +1,19 @@
+{
+  "id": 14027,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-11-30T00:37:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! My name's Kitty #14027. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Marge Simpson of the group. Let's get busy!",
+  "language": "en",
+  "matron": "10661@3",
+  "sire": "10301@19",
+  "children": [
+    "20772@21",
+    "47242@21",
+    "451720@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

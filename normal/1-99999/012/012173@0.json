@@ -1,0 +1,28 @@
+{
+  "id": 12173,
+  "name": "Kitty #12173",
+  "generation": 0,
+  "created_at": "2017-11-29T14:46:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #12173. I'm often referred to as the Lisa Simpson of the group. When no one's home, I invite my pals over and we listen to Aretha Franklin. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "13859@1",
+    "13876@1",
+    "13938@1",
+    "14005@1",
+    "14152@1",
+    "14398@3",
+    "16897@1",
+    "17915@17",
+    "21363@7",
+    "26231@9",
+    "65304@6",
+    "86327@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

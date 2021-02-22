@@ -1,0 +1,18 @@
+{
+  "id": 14664,
+  "name": "Alegría 2",
+  "generation": 12,
+  "created_at": "2017-11-30T03:09:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Alegría 2. I believe that one day cats will rule this planet. I'm often described as smelly, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10675@2",
+  "sire": "14538@11",
+  "children": [
+    "15018@13",
+    "88559@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

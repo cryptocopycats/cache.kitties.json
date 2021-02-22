@@ -1,0 +1,21 @@
+{
+  "id": 12459,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-29T18:05:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #12459. My friends describe me as stinky and ridiculous. Sometimes I daydream of a life full of taking selfies, steak, and prank-calling celebrities. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10547@11",
+  "sire": "12034@9",
+  "children": [
+    "13394@13",
+    "13853@13",
+    "15623@13",
+    "21091@15",
+    "29326@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

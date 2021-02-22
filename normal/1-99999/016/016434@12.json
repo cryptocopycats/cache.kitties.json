@@ -1,0 +1,21 @@
+{
+  "id": 16434,
+  "name": "Chestnut w Sailor Parent",
+  "generation": 12,
+  "created_at": "2017-11-30T10:23:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Chestnut w Sailor Parent. I'm often referred to as the Samwise Gamgee of the group. Sometimes I daydream of a life full of riding unicorns, hamburgers, and pole dancing. Let's get busy!",
+  "language": "en",
+  "matron": "6198@11",
+  "sire": "6321@9",
+  "children": [
+    "21470@13",
+    "21901@13",
+    "29679@15",
+    "45745@13",
+    "70461@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

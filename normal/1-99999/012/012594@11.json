@@ -1,0 +1,24 @@
+{
+  "id": 12594,
+  "name": "Salmon Jerky",
+  "generation": 11,
+  "created_at": "2017-11-29T18:31:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Salmon Jerky. I'm a Private Dancer  by day, and I like swiping right by night. In my free time, I can usually be found tantalizing or summoning ghosts. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5427@10",
+  "sire": "6862@3",
+  "children": [
+    "13964@15",
+    "14079@12",
+    "55128@15",
+    "61693@13",
+    "136497@12",
+    "220167@12",
+    "230786@12",
+    "375343@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

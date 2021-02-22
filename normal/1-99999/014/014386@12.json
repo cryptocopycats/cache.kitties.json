@@ -1,0 +1,21 @@
+{
+  "id": 14386,
+  "name": "Gen 12 | Marley",
+  "generation": 12,
+  "created_at": "2017-11-30T01:54:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Gen 12 | Marley. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Coldplay while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "12107@11",
+  "sire": "13440@11",
+  "children": [
+    "16831@21",
+    "17170@15",
+    "19743@13",
+    "25538@14",
+    "82277@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

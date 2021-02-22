@@ -1,0 +1,23 @@
+{
+  "id": 14580,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T02:54:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #14580. In high school, I was voted most likely to work at NASA. I once made a moose ignore. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "13689@14",
+  "sire": "4933@12",
+  "children": [
+    "19015@18",
+    "20644@16",
+    "21308@17",
+    "29764@16",
+    "33510@17",
+    "105812@16",
+    "357504@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

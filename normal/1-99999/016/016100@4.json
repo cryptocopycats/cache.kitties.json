@@ -1,0 +1,25 @@
+{
+  "id": 16100,
+  "name": "Mr Minty",
+  "generation": 4,
+  "created_at": "2017-11-30T08:58:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Mr Minty. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. I am 1% troll, 23% Dogwalker, and otherwise bad at math. Our friendship will be wondrous, smelly, and full of cereal.",
+  "language": "en",
+  "matron": "15921@3",
+  "sire": "16065@3",
+  "children": [
+    "17992@9",
+    "20413@12",
+    "21622@12",
+    "21834@10",
+    "22016@12",
+    "70757@10",
+    "86681@5",
+    "103121@5",
+    "122754@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

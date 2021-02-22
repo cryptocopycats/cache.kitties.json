@@ -1,0 +1,19 @@
+{
+  "id": 16026,
+  "name": "Gen 10",
+  "generation": 10,
+  "created_at": "2017-11-30T08:43:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Gen 10. I'm often referred to as the Ron Weasley of the group. I put marmalade on everything. Like, everything: hot dogs, wet food—everything! Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "15594@5",
+  "sire": "15428@9",
+  "children": [
+    "16331@11",
+    "66904@19",
+    "109072@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

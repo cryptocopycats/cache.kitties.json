@@ -1,0 +1,20 @@
+{
+  "id": 15052,
+  "name": "SalmonDanzer",
+  "generation": 16,
+  "created_at": "2017-11-30T05:01:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm SalmonDanzer. I'm often referred to as the Jon Snow of the group. When no one's home, I invite my pals over and we listen to Aretha Franklin. Will you be the cinammon to my pickles?",
+  "language": "en",
+  "matron": "13905@15",
+  "sire": "7691@11",
+  "children": [
+    "17496@17",
+    "21201@17",
+    "28943@17",
+    "72321@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

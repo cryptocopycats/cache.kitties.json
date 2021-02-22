@@ -1,0 +1,22 @@
+{
+  "id": 15077,
+  "name": "Miso Soup",
+  "generation": 13,
+  "created_at": "2017-11-30T05:09:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Miso Soup. My friends describe me as despicable and annoying. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Let's get busy!",
+  "language": "en",
+  "matron": "14856@10",
+  "sire": "14691@12",
+  "children": [
+    "17265@15",
+    "20063@14",
+    "23167@14",
+    "28764@17",
+    "66776@16",
+    "134410@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

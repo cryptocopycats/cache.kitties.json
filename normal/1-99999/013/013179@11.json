@@ -1,0 +1,22 @@
+{
+  "id": 13179,
+  "name": "Second",
+  "generation": 11,
+  "created_at": "2017-11-29T21:04:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Second. My friends describe me as gorgeous and ridiculous. I am 26% hobbit, 9% Dogwalker, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12411@10",
+  "sire": "7974@10",
+  "children": [
+    "15947@13",
+    "16142@12",
+    "17272@12",
+    "18191@15",
+    "31462@14",
+    "79065@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

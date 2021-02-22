@@ -1,0 +1,24 @@
+{
+  "id": 16834,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-11-30T12:01:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! G4 here. I'm here to enjoy glaring at the neighbour's cat and riding unicorns. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "16402@3",
+  "sire": "12760@2",
+  "children": [
+    "17160@6",
+    "17242@7",
+    "17385@5",
+    "17697@5",
+    "18842@6",
+    "27349@5",
+    "30501@5",
+    "53769@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

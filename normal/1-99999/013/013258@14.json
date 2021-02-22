@@ -1,0 +1,21 @@
+{
+  "id": 13258,
+  "name": "Space Dictator",
+  "generation": 14,
+  "created_at": "2017-11-29T21:23:19.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Space Dictator. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "12894@5",
+  "sire": "7245@13",
+  "children": [
+    "14247@15",
+    "14698@15",
+    "83455@17",
+    "105790@17",
+    "215084@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

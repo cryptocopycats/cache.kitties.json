@@ -1,0 +1,19 @@
+{
+  "id": 15595,
+  "name": "Fluffcheeks",
+  "generation": 8,
+  "created_at": "2017-11-30T07:16:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Fluffcheeks. I'm often referred to as the Frodo Baggins of the group. My secret indulgence is ice cream. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4663@7",
+  "sire": "15450@6",
+  "children": [
+    "17718@15",
+    "18909@9",
+    "19540@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

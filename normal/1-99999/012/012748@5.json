@@ -1,0 +1,23 @@
+{
+  "id": 12748,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-29T19:08:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! My name's Kitty #12748. I once peed on King Henry VIII's cat. They had it coming. It's not common knowledge, but my ancestry connects me to King Henry VIII. I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "10144@2",
+  "sire": "10192@4",
+  "children": [
+    "12839@6",
+    "18094@16",
+    "23597@11",
+    "25124@11",
+    "133089@6",
+    "146402@6",
+    "193661@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

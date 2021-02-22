@@ -1,0 +1,25 @@
+{
+  "id": 14148,
+  "name": "Rocky horreur picture show",
+  "generation": 5,
+  "created_at": "2017-11-30T01:03:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Rocky horreur picture show. In high school, I was voted school jock. My friends describe me as \"wondrous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "13032@4",
+  "sire": "6115@4",
+  "children": [
+    "14587@6",
+    "21505@6",
+    "21654@6",
+    "22933@6",
+    "25552@6",
+    "39845@6",
+    "45995@9",
+    "69003@15",
+    "286734@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

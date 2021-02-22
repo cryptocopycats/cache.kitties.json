@@ -1,0 +1,22 @@
+{
+  "id": 12210,
+  "name": "MiautzGenau",
+  "generation": 11,
+  "created_at": "2017-11-29T14:57:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm MiautzGenau. I believe that one day cats will rule this planet. I am 9% gremlin, 43% Spin Instructor , and otherwise bad at math. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "11974@10",
+  "sire": "10929@1",
+  "children": [
+    "12314@12",
+    "12635@18",
+    "14642@12",
+    "17732@14",
+    "110148@12",
+    "230190@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

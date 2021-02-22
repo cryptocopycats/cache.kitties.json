@@ -1,0 +1,21 @@
+{
+  "id": 13305,
+  "name": "Gen15 Sluggish",
+  "generation": 15,
+  "created_at": "2017-11-29T21:36:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Gen15 Sluggish. I want to live in a world where people believe the world is flat. I was voted biggest teacher's pet in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11605@14",
+  "sire": "6305@1",
+  "children": [
+    "14290@16",
+    "17451@16",
+    "21495@17",
+    "27800@16",
+    "63227@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

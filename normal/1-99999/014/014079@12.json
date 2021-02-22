@@ -1,0 +1,21 @@
+{
+  "id": 14079,
+  "name": "Jelly Bean",
+  "generation": 12,
+  "created_at": "2017-11-30T00:50:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Jelly Bean. I believe the world is flat. I'm often described as gullible, and I own it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10707@3",
+  "sire": "12594@11",
+  "children": [
+    "14606@17",
+    "33974@13",
+    "42408@19",
+    "60273@20",
+    "73270@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15998,
+  "name": "Gen 12 Stripes Starter",
+  "generation": 12,
+  "created_at": "2017-11-30T08:36:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen 12 Stripes Starter. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Frank Sinatra. Our friendship will be stinky, despicable, and full of hamburgers.",
+  "language": "en",
+  "matron": "15700@6",
+  "sire": "15870@11",
+  "children": [
+    "17712@13",
+    "17848@13",
+    "22028@13",
+    "61323@17",
+    "113024@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

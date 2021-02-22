@@ -1,0 +1,19 @@
+{
+  "id": 16554,
+  "name": "Floof",
+  "generation": 16,
+  "created_at": "2017-11-30T11:03:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Floof. I'm a professional Dogwalker and I love salad. When I'm not people-watching, I'm jump-roping! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "6655@15",
+  "sire": "6144@10",
+  "children": [
+    "18172@17",
+    "32380@17",
+    "92538@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 13097,
+  "name": "Shamurat",
+  "generation": 11,
+  "created_at": "2017-11-29T20:36:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Shamurat. I've never told anyone this, but I once cleaned a dog. I like to listen to Wutang while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6164@5",
+  "sire": "7497@10",
+  "children": [
+    "13406@13",
+    "15456@13",
+    "15613@14",
+    "20853@18",
+    "22984@18",
+    "29671@18",
+    "80985@19",
+    "179833@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

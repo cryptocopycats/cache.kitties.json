@@ -1,0 +1,18 @@
+{
+  "id": 15162,
+  "name": "Gen 14 - Slow",
+  "generation": 14,
+  "created_at": "2017-11-30T05:29:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen 14 - Slow. All you need to know about me is I hate hamburgers with a passion. I was voted most likely to work at NASA in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "13386@10",
+  "sire": "12897@13",
+  "children": [
+    "16294@15",
+    "21978@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

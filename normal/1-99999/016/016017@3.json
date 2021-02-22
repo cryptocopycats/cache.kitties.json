@@ -1,0 +1,29 @@
+{
+  "id": 16017,
+  "name": "Gen 3 Aqua T",
+  "generation": 3,
+  "created_at": "2017-11-30T08:41:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 3 Aqua T. I'm a professional Spin Instructor  and I love lasagna. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "15848@2",
+  "sire": "15908@2",
+  "children": [
+    "16500@7",
+    "18197@16",
+    "20353@20",
+    "20522@4",
+    "20973@14",
+    "23772@17",
+    "25091@20",
+    "28298@18",
+    "39774@4",
+    "50210@7",
+    "117623@7",
+    "119864@7",
+    "481533@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

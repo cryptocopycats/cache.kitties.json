@@ -1,0 +1,23 @@
+{
+  "id": 12989,
+  "name": "peos",
+  "generation": 12,
+  "created_at": "2017-11-29T20:14:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm peos. I enjoy picking flowers, hitting on yo' man, and tripping my owner. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12345@8",
+  "sire": "12471@11",
+  "children": [
+    "13242@13",
+    "14377@13",
+    "16245@13",
+    "20986@14",
+    "26559@15",
+    "69635@16",
+    "168288@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

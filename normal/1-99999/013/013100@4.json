@@ -1,0 +1,17 @@
+{
+  "id": 13100,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-11-29T20:38:05.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's G4. I once peed on Princess Diana's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12817@3",
+  "sire": "11220@3",
+  "children": [
+    "13996@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

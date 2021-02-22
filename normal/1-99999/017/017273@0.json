@@ -1,0 +1,28 @@
+{
+  "id": 17273,
+  "name": "Zues",
+  "generation": 0,
+  "created_at": "2017-11-30T13:53:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Zues. I believe that one day cats will rule this planet. I like to listen to Gloria Estefan while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "21335@11",
+    "21418@5",
+    "27504@8",
+    "30093@15",
+    "37321@1",
+    "52825@1",
+    "68172@1",
+    "76290@1",
+    "104297@1",
+    "317489@1",
+    "331589@15",
+    "360707@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

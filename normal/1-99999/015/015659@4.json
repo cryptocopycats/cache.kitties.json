@@ -1,0 +1,27 @@
+{
+  "id": 15659,
+  "name": "Wei",
+  "generation": 4,
+  "created_at": "2017-11-30T07:30:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Wei. I'm often referred to as the Steve Urkel of the group. Some people say I'm the Steve Urkel of the group. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "4614@3",
+  "sire": "15585@3",
+  "children": [
+    "15732@6",
+    "37200@5",
+    "37670@8",
+    "38982@5",
+    "40462@5",
+    "43794@5",
+    "50190@5",
+    "65065@5",
+    "68310@5",
+    "98644@5",
+    "260662@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

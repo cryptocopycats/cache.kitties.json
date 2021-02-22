@@ -1,0 +1,21 @@
+{
+  "id": 12151,
+  "name": "Chestnut (rare)",
+  "generation": 15,
+  "created_at": "2017-11-29T14:35:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Chestnut (rare). In high school, I was voted most likely to work at NASA. I once dreamed of being a Private Dancer . Now I can be found practicing witchcraft all day. Let's pawty!",
+  "language": "en",
+  "matron": "12111@7",
+  "sire": "8586@14",
+  "children": [
+    "13148@16",
+    "16980@16",
+    "19228@16",
+    "28620@16",
+    "36400@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

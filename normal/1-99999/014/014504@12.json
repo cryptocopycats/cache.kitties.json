@@ -1,0 +1,19 @@
+{
+  "id": 14504,
+  "name": "Bunchie",
+  "generation": 12,
+  "created_at": "2017-11-30T02:33:14.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Bunchie. I'm often referred to as the Neville Longbottom of the group. I once clawed a goose. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "9317@7",
+  "sire": "6088@11",
+  "children": [
+    "15345@13",
+    "19707@13",
+    "54722@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

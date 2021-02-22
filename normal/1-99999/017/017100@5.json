@@ -1,0 +1,18 @@
+{
+  "id": 17100,
+  "name": "Galacticat | Gen 5",
+  "generation": 5,
+  "created_at": "2017-11-30T13:20:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Galacticat | Gen 5. I believe the world is flat. When I'm not tricking babies, I'm jump-roping! I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "16605@4",
+  "sire": "17057@4",
+  "children": [
+    "17183@6",
+    "17313@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

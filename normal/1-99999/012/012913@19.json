@@ -1,0 +1,18 @@
+{
+  "id": 12913,
+  "name": "Bushy",
+  "generation": 19,
+  "created_at": "2017-11-29T19:58:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Bushy. I'm a professional Foreign Film Director and I love chocolate. I once got in a fight with a moose, and won. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "12835@5",
+  "sire": "12879@18",
+  "children": [
+    "16811@20",
+    "23649@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

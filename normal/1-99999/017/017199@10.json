@@ -1,0 +1,23 @@
+{
+  "id": 17199,
+  "name": "Aquaswamp",
+  "generation": 10,
+  "created_at": "2017-11-30T13:39:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Aquaswamp. I believe the world is flat. When I'm not volunteering at the local kitten rescue shelter, I'm running a podcast! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10144@2",
+  "sire": "13343@9",
+  "children": [
+    "17403@11",
+    "26159@16",
+    "79063@15",
+    "83147@20",
+    "107454@11",
+    "158328@11",
+    "254762@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 13292,
+  "name": "Skyblue Bubblegum",
+  "generation": 9,
+  "created_at": "2017-11-29T21:32:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Skyblue Bubblegum. I believe that one day cats will rule this planet. I'm often described as gorgeous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13230@7",
+  "sire": "4095@8",
+  "children": [
+    "13463@10",
+    "17379@18",
+    "18084@18",
+    "21142@10",
+    "58773@16",
+    "78562@11",
+    "90829@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

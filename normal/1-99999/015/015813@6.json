@@ -1,0 +1,19 @@
+{
+  "id": 15813,
+  "name": "Galicia - Gen 6 - Brisk",
+  "generation": 6,
+  "created_at": "2017-11-30T07:58:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Galicia - Gen 6 - Brisk. I enjoy sweating through my feet, slappin' da bass, and glaring at the neighbour's cat. My secret indulgence is lasagna. Let's pawty!",
+  "language": "en",
+  "matron": "14897@5",
+  "sire": "14237@3",
+  "children": [
+    "15876@7",
+    "16061@15",
+    "16331@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

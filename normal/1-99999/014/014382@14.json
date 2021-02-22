@@ -1,0 +1,25 @@
+{
+  "id": 14382,
+  "name": "Iris",
+  "generation": 14,
+  "created_at": "2017-11-30T01:53:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Iris. My friends describe me as prickly and wondrous. I put peanut butter on everything. Like, everything: hot dogs, lasagna—everything! Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "11271@13",
+  "sire": "2187@0",
+  "children": [
+    "18329@18",
+    "20708@17",
+    "23503@15",
+    "43202@15",
+    "101005@15",
+    "108758@15",
+    "811606@15",
+    "816047@15",
+    "1475918@180"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

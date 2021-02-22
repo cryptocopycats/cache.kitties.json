@@ -1,0 +1,17 @@
+{
+  "id": 12769,
+  "name": "Inquisitive Tailor",
+  "generation": 17,
+  "created_at": "2017-11-29T19:18:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Inquisitive Tailor. I've never told anyone this, but I once groomed a dog. I once got in a fight with a moose, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11577@13",
+  "sire": "12093@16",
+  "children": [
+    "13714@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

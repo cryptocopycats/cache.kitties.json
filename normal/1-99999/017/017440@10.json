@@ -1,0 +1,22 @@
+{
+  "id": 17440,
+  "name": "Watermelon Cotton Candy",
+  "generation": 10,
+  "created_at": "2017-11-30T14:42:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Watermelon Cotton Candy. I believe that one day cats will rule this planet. I once got in a fight with a gecko, and won. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "17189@9",
+  "sire": "17326@9",
+  "children": [
+    "21747@14",
+    "24704@11",
+    "27101@15",
+    "28270@13",
+    "38151@11",
+    "68584@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

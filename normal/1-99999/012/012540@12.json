@@ -1,0 +1,20 @@
+{
+  "id": 12540,
+  "name": "Gnarly",
+  "generation": 12,
+  "created_at": "2017-11-29T18:25:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gnarly. I believe the world is flat. When I'm not people-watching, I'm practicing witchcraft! Let's get busy!",
+  "language": "en",
+  "matron": "3228@6",
+  "sire": "6441@11",
+  "children": [
+    "13090@13",
+    "14273@13",
+    "15277@13",
+    "22951@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

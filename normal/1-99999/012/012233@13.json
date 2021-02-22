@@ -1,0 +1,22 @@
+{
+  "id": 12233,
+  "name": "Snow",
+  "generation": 13,
+  "created_at": "2017-11-29T15:08:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Snow. I'm often referred to as the Steve Urkel of the group. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11166@9",
+  "sire": "11973@12",
+  "children": [
+    "12947@14",
+    "13933@14",
+    "15828@16",
+    "20491@15",
+    "45447@14",
+    "96542@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

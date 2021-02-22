@@ -1,0 +1,22 @@
+{
+  "id": 14575,
+  "name": "Microtransaction - Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-30T02:53:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Microtransaction - Gen 15. I believe the world is flat. I once got in a fight with a dolphin, and won. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "14263@11",
+  "sire": "14371@14",
+  "children": [
+    "15736@16",
+    "19801@16",
+    "33050@16",
+    "52227@16",
+    "80593@16",
+    "225439@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

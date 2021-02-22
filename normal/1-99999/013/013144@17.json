@@ -1,0 +1,19 @@
+{
+  "id": 13144,
+  "name": "Darknest",
+  "generation": 17,
+  "created_at": "2017-11-29T20:52:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Darknest. I believe that one day cats will rule this planet. In my free time, I can usually be found despicable or playing chess. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11418@15",
+  "sire": "12123@16",
+  "children": [
+    "26459@18",
+    "48704@18",
+    "72664@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

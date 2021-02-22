@@ -1,0 +1,21 @@
+{
+  "id": 13837,
+  "name": "Casual Cat",
+  "generation": 14,
+  "created_at": "2017-11-29T23:46:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Casual Cat. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Wutang. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "7675@13",
+  "sire": "7727@9",
+  "children": [
+    "15236@15",
+    "23509@15",
+    "28559@16",
+    "61962@15",
+    "75227@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

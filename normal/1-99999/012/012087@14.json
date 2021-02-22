@@ -1,0 +1,21 @@
+{
+  "id": 12087,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-29T14:10:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Gen 14. I'm a Private Dancer  by day, and I like braiding people's hair by night. In my free time, I can usually be found wondrous or riding the bus. Let's get busy!",
+  "language": "en",
+  "matron": "11146@13",
+  "sire": "4462@12",
+  "children": [
+    "12673@15",
+    "14524@15",
+    "20293@19",
+    "27554@16",
+    "71122@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

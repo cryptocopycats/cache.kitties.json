@@ -1,0 +1,19 @@
+{
+  "id": 14838,
+  "name": "tinkle",
+  "generation": 13,
+  "created_at": "2017-11-30T03:58:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm tinkle. I enjoy hitting on yo' man, watching Stranger Things, and picking flowers. I once got in a fight with a labradoodle, and won. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "14385@12",
+  "sire": "11158@11",
+  "children": [
+    "15382@14",
+    "21729@14",
+    "52367@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

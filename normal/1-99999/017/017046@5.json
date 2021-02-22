@@ -1,0 +1,21 @@
+{
+  "id": 17046,
+  "name": "Cat-man-do | Gen 5",
+  "generation": 5,
+  "created_at": "2017-11-30T13:00:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Cat-man-do | Gen 5. I once peed on Marie Antoinette's cat. They had it coming. My friends describe me as \"hairy.\" It's... accurate. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "16924@4",
+  "sire": "16999@4",
+  "children": [
+    "17099@6",
+    "17156@6",
+    "22046@6",
+    "22533@6",
+    "24103@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

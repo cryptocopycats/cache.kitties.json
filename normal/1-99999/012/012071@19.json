@@ -1,0 +1,18 @@
+{
+  "id": 12071,
+  "name": "doctor_strangely",
+  "generation": 19,
+  "created_at": "2017-11-29T14:01:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm doctor_strangely. I'm often referred to as the Homer Simpson of the group. In my free time, I can usually be found petulant or siring for status. I look forward to chasing string with you.",
+  "language": "en",
+  "matron": "8902@18",
+  "sire": "9246@18",
+  "children": [
+    "16991@20",
+    "23766@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

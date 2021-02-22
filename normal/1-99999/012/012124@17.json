@@ -1,0 +1,20 @@
+{
+  "id": 12124,
+  "name": "Professor Pudding Pants",
+  "generation": 17,
+  "created_at": "2017-11-29T14:27:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Professor Pudding Pants. I'm often referred to as the Chandler Bing of the group. I'm often described as hairy, and I own it. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "11198@16",
+  "sire": "3102@2",
+  "children": [
+    "13563@18",
+    "45385@18",
+    "73486@18",
+    "220269@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

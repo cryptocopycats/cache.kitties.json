@@ -1,0 +1,22 @@
+{
+  "id": 12793,
+  "name": "Lemondrop",
+  "generation": 4,
+  "created_at": "2017-11-29T19:29:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Lemondrop. I enjoy reciting poetry, eating lasagna, and fighting for the people. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12754@3",
+  "sire": "3405@2",
+  "children": [
+    "12894@5",
+    "13095@11",
+    "13321@7",
+    "64627@10",
+    "99765@18",
+    "111087@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

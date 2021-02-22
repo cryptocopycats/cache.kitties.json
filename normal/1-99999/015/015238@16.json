@@ -1,0 +1,21 @@
+{
+  "id": 15238,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-30T05:51:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #15238. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Confucius. I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "12047@15",
+  "sire": "6598@9",
+  "children": [
+    "40402@17",
+    "45898@18",
+    "57171@17",
+    "90081@17",
+    "251561@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

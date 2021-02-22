@@ -1,0 +1,24 @@
+{
+  "id": 15344,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-30T06:18:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #15344. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. I once got in a fight with a labradoodle, and won. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "9423@4",
+  "sire": "12892@10",
+  "children": [
+    "16397@12",
+    "18470@15",
+    "19458@12",
+    "22190@21",
+    "23880@16",
+    "30737@19",
+    "61965@17",
+    "137449@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

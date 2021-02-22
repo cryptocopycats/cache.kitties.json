@@ -1,0 +1,21 @@
+{
+  "id": 16651,
+  "name": "Mr. Furlime",
+  "generation": 18,
+  "created_at": "2017-11-30T11:23:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Mr. Furlime. I want to live in a world where people believe the world is flat. I am 1% gremlin, 45% Foreign Film Director, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "11474@7",
+  "sire": "16236@17",
+  "children": [
+    "21815@19",
+    "25251@19",
+    "48933@19",
+    "192586@20",
+    "534316@28"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

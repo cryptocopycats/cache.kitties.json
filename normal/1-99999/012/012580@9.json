@@ -1,0 +1,18 @@
+{
+  "id": 12580,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-29T18:30:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #12580. I'm a professional Skydiving Instructor and I love cereal. When no one's home, I invite my pals over and we listen to Justin Bieber. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "11911@0",
+  "sire": "11940@8",
+  "children": [
+    "45459@20",
+    "82563@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 15687,
+  "name": "Gen4 Emeraldgreen",
+  "generation": 4,
+  "created_at": "2017-11-30T07:35:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen4 Emeraldgreen. In high school, I was voted most likely to work at NASA. My friends describe me as \"annoying.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "15597@3",
+  "sire": "15511@3",
+  "children": [
+    "15991@7",
+    "16260@13",
+    "16298@13",
+    "16453@5",
+    "20864@5",
+    "24040@7",
+    "41483@5",
+    "55093@5",
+    "81643@5",
+    "140809@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

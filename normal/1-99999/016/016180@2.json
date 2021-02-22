@@ -1,0 +1,20 @@
+{
+  "id": 16180,
+  "name": "Kitty2-Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T09:17:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty2-Gen2. In high school, I was voted school jock. I put marmite on everything. Like, everything: hot dogs, cereal—everything! Will you be the peanut butter to my cinammon?",
+  "language": "en",
+  "matron": "3964@1",
+  "sire": "3955@1",
+  "children": [
+    "16849@5",
+    "42698@5",
+    "68464@5",
+    "86976@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

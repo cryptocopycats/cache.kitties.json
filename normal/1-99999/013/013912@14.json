@@ -1,0 +1,20 @@
+{
+  "id": 13912,
+  "name": "Spot",
+  "generation": 14,
+  "created_at": "2017-11-30T00:13:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Spot. I'm a Dispensary Clerk by day, and I like siring for status by night. I once pranced with a gecko. I don't like to talk about it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "12265@12",
+  "sire": "12219@13",
+  "children": [
+    "14489@15",
+    "16165@15",
+    "44197@18",
+    "79055@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

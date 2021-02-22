@@ -1,0 +1,22 @@
+{
+  "id": 16545,
+  "name": "LovelyKitty",
+  "generation": 10,
+  "created_at": "2017-11-30T11:00:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm LovelyKitty. I want to live in a world where people believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Our friendship will be stinky, fabulous, and full of chocolate.",
+  "language": "en",
+  "matron": "16328@8",
+  "sire": "14670@9",
+  "children": [
+    "17097@11",
+    "28069@11",
+    "36675@11",
+    "48730@19",
+    "265920@11",
+    "288840@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15279,
+  "name": "Kitty Kat",
+  "generation": 18,
+  "created_at": "2017-11-30T06:01:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Kitty Kat. I've never told anyone this, but I once kissed a dog. It's not common knowledge, but my ancestry connects me to King Henry VIII. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12751@17",
+  "sire": "7788@15",
+  "children": [
+    "20637@19",
+    "71647@19",
+    "123367@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

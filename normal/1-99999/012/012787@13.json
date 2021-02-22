@@ -1,0 +1,22 @@
+{
+  "id": 12787,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-29T19:25:48.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #12787. I've never told anyone this, but I once cleaned a dog. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10478@11",
+  "sire": "11417@12",
+  "children": [
+    "12931@14",
+    "14215@14",
+    "18429@17",
+    "22240@17",
+    "119725@19",
+    "639912@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

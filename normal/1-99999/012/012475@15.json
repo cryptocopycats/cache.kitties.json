@@ -1,0 +1,20 @@
+{
+  "id": 12475,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T18:15:57.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #12475. My friends describe me as fabulous and gullible. When I'm not watching reality tv, I'm people-watching! I like your face.",
+  "language": "en",
+  "matron": "9035@14",
+  "sire": "7345@14",
+  "children": [
+    "13444@16",
+    "26220@18",
+    "93453@19",
+    "252856@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 13840,
+  "name": "Purple Tiger",
+  "generation": 11,
+  "created_at": "2017-11-29T23:48:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Purple Tiger. My friends describe me as petulant and despicable. When no one's home, I invite my pals over and we listen to Beyoncé. Will you be the pickles to my peanut butter?",
+  "language": "en",
+  "matron": "13208@10",
+  "sire": "6100@9",
+  "children": [
+    "45127@12",
+    "48640@12",
+    "48903@12",
+    "54917@12",
+    "93349@12",
+    "117972@12",
+    "208406@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

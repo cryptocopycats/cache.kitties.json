@@ -1,0 +1,23 @@
+{
+  "id": 12817,
+  "name": "G3",
+  "generation": 3,
+  "created_at": "2017-11-29T19:44:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm G3. I'm often referred to as the Ron Weasley of the group. I would give it all up to star in a soap opera. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10958@1",
+  "sire": "12313@2",
+  "children": [
+    "12896@4",
+    "12974@4",
+    "13100@4",
+    "13373@4",
+    "14203@4",
+    "14330@4",
+    "20317@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

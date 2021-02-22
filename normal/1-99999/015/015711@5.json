@@ -1,0 +1,22 @@
+{
+  "id": 15711,
+  "name": "Wit",
+  "generation": 5,
+  "created_at": "2017-11-30T07:40:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! Wit here. I'm here to enjoy slappin' da bass and eating lasagna. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found practicing witchcraft all day. Let's get busy!",
+  "language": "en",
+  "matron": "4040@4",
+  "sire": "4002@2",
+  "children": [
+    "16896@16",
+    "17409@6",
+    "66759@6",
+    "75971@6",
+    "151827@6",
+    "251002@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

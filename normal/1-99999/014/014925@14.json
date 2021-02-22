@@ -1,0 +1,21 @@
+{
+  "id": 14925,
+  "name": "starter",
+  "generation": 14,
+  "created_at": "2017-11-30T04:25:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm starter. I enjoy fighting for the people, tripping my owner, and licking doorknobs. In my free time, I can usually be found tantalizing or reading Danielle Steele. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5862@10",
+  "sire": "12757@13",
+  "children": [
+    "26646@16",
+    "28996@17",
+    "32861@16",
+    "230427@18",
+    "508251@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

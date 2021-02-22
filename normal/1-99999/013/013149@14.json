@@ -1,0 +1,19 @@
+{
+  "id": 13149,
+  "name": "Cymrock",
+  "generation": 14,
+  "created_at": "2017-11-29T20:56:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Cymrock. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11596@12",
+  "sire": "5476@13",
+  "children": [
+    "17014@15",
+    "31546@18",
+    "111779@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 17394,
+  "name": "Polosatik",
+  "generation": 4,
+  "created_at": "2017-11-30T14:21:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Polosatik. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16652@3",
+  "sire": "17354@3",
+  "children": [
+    "17551@5",
+    "18050@5",
+    "23036@12",
+    "23228@5",
+    "23859@5",
+    "26428@5",
+    "28752@5",
+    "29129@5",
+    "37751@5",
+    "116198@6",
+    "215415@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

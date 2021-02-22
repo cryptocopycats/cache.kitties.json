@@ -1,0 +1,20 @@
+{
+  "id": 13680,
+  "name": "Luther",
+  "generation": 3,
+  "created_at": "2017-11-29T23:05:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's Luther. I once peed on Martin Luther King Jr.'s cat. They had it coming. I'm often described as wondrous, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "2034@0",
+  "sire": "3738@2",
+  "children": [
+    "13728@18",
+    "14519@4",
+    "14677@10",
+    "27405@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

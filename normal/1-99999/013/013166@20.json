@@ -1,0 +1,20 @@
+{
+  "id": 13166,
+  "name": "G20/Sluggish",
+  "generation": 20,
+  "created_at": "2017-11-29T20:58:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm G20/Sluggish. I'm often referred to as the Cersei Lannister of the group. I once got in a fight with a rooster, and won. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "9026@19",
+  "sire": "10045@18",
+  "children": [
+    "18634@21",
+    "34167@21",
+    "120745@21",
+    "248722@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

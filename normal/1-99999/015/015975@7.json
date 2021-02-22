@@ -1,0 +1,20 @@
+{
+  "id": 15975,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-30T08:29:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #15975. I'm a Foreign Film Director by day, and I like playing chess by night. I like to listen to Aretha Franklin while grooming. Don't judge me. Our friendship will be hairy, smelly, and full of wet food.",
+  "language": "en",
+  "matron": "10452@6",
+  "sire": "4925@5",
+  "children": [
+    "20741@10",
+    "36245@9",
+    "44649@10",
+    "72057@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13873,
+  "name": "Walter",
+  "generation": 10,
+  "created_at": "2017-11-30T00:06:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Walter. I'm a Dispensary Clerk by day, and I like prank-calling celebrities by night. I once got in a fight with a dog, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13751@9",
+  "sire": "13075@1",
+  "children": [
+    "53602@11",
+    "57707@16",
+    "75024@11",
+    "98951@12",
+    "179429@11",
+    "213971@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

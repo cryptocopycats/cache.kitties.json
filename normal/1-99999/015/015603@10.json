@@ -1,0 +1,21 @@
+{
+  "id": 15603,
+  "name": "27: G10",
+  "generation": 10,
+  "created_at": "2017-11-30T07:16:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm 27: G10. I believe the world is flat. I once made a dolphin play. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "15371@9",
+  "sire": "15101@3",
+  "children": [
+    "16407@13",
+    "21648@11",
+    "22492@12",
+    "26322@12",
+    "32873@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

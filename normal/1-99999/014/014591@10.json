@@ -1,0 +1,20 @@
+{
+  "id": 14591,
+  "name": "Skittles",
+  "generation": 10,
+  "created_at": "2017-11-30T02:54:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Skittles. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "14057@9",
+  "sire": "13555@9",
+  "children": [
+    "38135@11",
+    "58719@11",
+    "108666@13",
+    "113889@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

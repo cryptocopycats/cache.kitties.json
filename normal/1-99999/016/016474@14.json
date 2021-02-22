@@ -1,0 +1,22 @@
+{
+  "id": 16474,
+  "name": "Crazy Jalfrezi",
+  "generation": 14,
+  "created_at": "2017-11-30T10:38:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Crazy Jalfrezi. My friends describe me as ridiculous and despicable. Some people say I'm the Chandler Bing of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "1149@0",
+  "sire": "16086@13",
+  "children": [
+    "17040@15",
+    "58009@16",
+    "86849@15",
+    "113762@15",
+    "184707@15",
+    "242512@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

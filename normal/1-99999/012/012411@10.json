@@ -1,0 +1,21 @@
+{
+  "id": 12411,
+  "name": "Starter cat with Chocolate",
+  "generation": 10,
+  "created_at": "2017-11-29T17:56:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Starter cat with Chocolate. All you need to know about me is I hate apple pie with a passion. I once licked a chimpanzee. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "10566@9",
+  "sire": "11483@9",
+  "children": [
+    "13179@11",
+    "15950@12",
+    "16882@12",
+    "19244@12",
+    "24300@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

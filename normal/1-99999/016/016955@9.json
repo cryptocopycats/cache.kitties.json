@@ -1,0 +1,24 @@
+{
+  "id": 16955,
+  "name": "Gen 9 - Slow - limegreen",
+  "generation": 9,
+  "created_at": "2017-11-30T12:41:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Gen 9 - Slow - limegreen. I believe the world is flat. I am 26% gremlin, 11% Ventriloquist, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16832@8",
+  "sire": "16615@8",
+  "children": [
+    "17161@10",
+    "17525@12",
+    "18139@10",
+    "19229@11",
+    "39998@10",
+    "57313@10",
+    "99735@10",
+    "141478@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

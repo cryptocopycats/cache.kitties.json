@@ -1,0 +1,22 @@
+{
+  "id": 15411,
+  "name": "Liger",
+  "generation": 5,
+  "created_at": "2017-11-30T06:37:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Liger. In high school, I was voted most likely to work at NASA. I once pranced with a dog. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4036@4",
+  "sire": "4004@3",
+  "children": [
+    "15450@6",
+    "15619@7",
+    "18626@17",
+    "18954@6",
+    "19045@8",
+    "20653@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

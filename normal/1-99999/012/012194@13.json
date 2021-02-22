@@ -1,0 +1,24 @@
+{
+  "id": 12194,
+  "name": "Callie-Coconut",
+  "generation": 13,
+  "created_at": "2017-11-29T14:51:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Callie-Coconut. All you need to know about me is I hate lasagna with a passion. I am 72% oracle, 62% Mad Scientist, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10546@9",
+  "sire": "10667@12",
+  "children": [
+    "12354@14",
+    "13212@14",
+    "14985@17",
+    "22554@17",
+    "30263@20",
+    "79025@14",
+    "85686@14",
+    "177558@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

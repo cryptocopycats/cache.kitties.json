@@ -1,0 +1,20 @@
+{
+  "id": 17030,
+  "name": "HakyKitty",
+  "generation": 14,
+  "created_at": "2017-11-30T12:57:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm HakyKitty. I'm often referred to as the Lisa Simpson of the group. My secret indulgence is cereal. Let's pawty!",
+  "language": "en",
+  "matron": "12019@8",
+  "sire": "13225@13",
+  "children": [
+    "23593@16",
+    "26226@16",
+    "36235@18",
+    "71111@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

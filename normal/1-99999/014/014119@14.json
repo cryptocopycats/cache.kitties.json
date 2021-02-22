@@ -1,0 +1,23 @@
+{
+  "id": 14119,
+  "name": "Neo",
+  "generation": 14,
+  "created_at": "2017-11-30T00:57:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Neo. All you need to know about me is I hate wet food with a passion. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13372@13",
+  "sire": "6858@10",
+  "children": [
+    "19122@15",
+    "23051@16",
+    "24926@15",
+    "47521@15",
+    "71457@15",
+    "102894@20",
+    "344427@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

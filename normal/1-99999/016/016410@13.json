@@ -1,0 +1,20 @@
+{
+  "id": 16410,
+  "name": "Beep Gen 13",
+  "generation": 13,
+  "created_at": "2017-11-30T10:15:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Beep Gen 13. I'm often referred to as the Peter Griffin of the group. I am 83% gremlin, 47% Aerobics Athlete , and otherwise bad at math. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8871@12",
+  "sire": "3865@6",
+  "children": [
+    "19310@14",
+    "23681@14",
+    "27683@14",
+    "40740@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

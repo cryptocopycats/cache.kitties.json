@@ -1,0 +1,21 @@
+{
+  "id": 12508,
+  "name": "Lime",
+  "generation": 11,
+  "created_at": "2017-11-29T18:20:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Lime. I want to live in a world where people believe that one day cats will rule this planet. When I'm not swiping right, I'm talking about how much I lift! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "11980@10",
+  "sire": "12306@10",
+  "children": [
+    "13688@12",
+    "14197@12",
+    "22876@19",
+    "74456@16",
+    "98847@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

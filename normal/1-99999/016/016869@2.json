@@ -1,0 +1,21 @@
+{
+  "id": 16869,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T12:23:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Gen2. I want to live in a world where people believe the world is flat. I once dreamed of being a Private Dancer . Now I can be found pole dancing all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3964@1",
+  "sire": "3438@1",
+  "children": [
+    "204131@3",
+    "216259@3",
+    "249108@3",
+    "255766@3",
+    "276676@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

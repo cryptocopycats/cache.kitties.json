@@ -1,0 +1,23 @@
+{
+  "id": 12387,
+  "name": "Timmy",
+  "generation": 11,
+  "created_at": "2017-11-29T17:55:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Timmy. I enjoy reciting poetry, sweating through my feet, and fighting the patriarchy. In my free time, I can usually be found hairy or swiping left. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11035@10",
+  "sire": "11407@10",
+  "children": [
+    "12852@18",
+    "13404@17",
+    "13712@12",
+    "16838@14",
+    "59762@18",
+    "89383@14",
+    "197773@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13436,
+  "name": "Supergreen",
+  "generation": 1,
+  "created_at": "2017-11-29T22:07:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Supergreen. All you need to know about me is I hate apple pie with a passion. It's not common knowledge, but my ancestry connects me to King Henry VIII. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11333@0",
+  "sire": "2047@0",
+  "children": [
+    "13594@12",
+    "17276@19",
+    "57810@8",
+    "58869@6",
+    "267998@3",
+    "273309@12",
+    "284652@5",
+    "292292@2",
+    "303318@6",
+    "360486@9",
+    "375162@3",
+    "448529@7",
+    "474004@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

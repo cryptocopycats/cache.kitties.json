@@ -1,0 +1,27 @@
+{
+  "id": 17076,
+  "name": "Lucky Duckii",
+  "generation": 14,
+  "created_at": "2017-11-30T13:08:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Lucky Duckii. I'm a professional Spin Instructor  and I love wet food. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "17018@1",
+  "sire": "9224@13",
+  "children": [
+    "20281@15",
+    "20959@15",
+    "74643@15",
+    "101892@15",
+    "127786@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 12,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

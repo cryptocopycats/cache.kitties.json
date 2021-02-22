@@ -1,0 +1,18 @@
+{
+  "id": 13139,
+  "name": "Apple Pie",
+  "generation": 10,
+  "created_at": "2017-11-29T20:51:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Apple Pie. I believe the world is flat. I once dreamed of being a Foreign Film Director. Now I can be found summoning ghosts all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "12911@9",
+  "sire": "12654@8",
+  "children": [
+    "13387@11",
+    "23643@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

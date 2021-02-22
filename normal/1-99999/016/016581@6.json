@@ -1,0 +1,23 @@
+{
+  "id": 16581,
+  "name": "Gen6 Snappy Otaku Emerald",
+  "generation": 6,
+  "created_at": "2017-11-30T11:09:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen6 Snappy Otaku Emerald. I enjoy slappin' da bass, chasing string, and taking selfies. I would give it all up to star in a soap opera. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "13859@1",
+  "sire": "16530@5",
+  "children": [
+    "16927@16",
+    "19337@10",
+    "21363@7",
+    "22771@13",
+    "24172@7",
+    "28441@9",
+    "56914@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 12252,
+  "name": "Snow Flake | Gen 1 | Snappy",
+  "generation": 1,
+  "created_at": "2017-11-29T15:17:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Snow Flake | Gen 1 | Snappy. In high school, I was voted school jock. In my free time, I can usually be found fabulous or jump-roping. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "2487@0",
+  "sire": "2701@0",
+  "children": [
+    "14201@2",
+    "21619@3",
+    "22941@17",
+    "56847@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

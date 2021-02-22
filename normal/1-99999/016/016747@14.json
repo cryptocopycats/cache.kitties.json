@@ -1,0 +1,22 @@
+{
+  "id": 16747,
+  "name": "Salmon Steaks",
+  "generation": 14,
+  "created_at": "2017-11-30T11:39:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Salmon Steaks. My friends describe me as despicable and gorgeous. When no one's home, I invite my pals over and we listen to Coldplay. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "13797@7",
+  "sire": "14067@13",
+  "children": [
+    "20246@16",
+    "21069@15",
+    "45615@15",
+    "81901@16",
+    "123032@15",
+    "179166@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 12220,
+  "name": "family gilded x 2",
+  "generation": 9,
+  "created_at": "2017-11-29T15:02:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! family gilded x 2 here. I'm here to enjoy grooming and riding unicorns. I like to listen to Metallica while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11975@7",
+  "sire": "12143@8",
+  "children": [
+    "12306@10",
+    "12889@10",
+    "13478@10",
+    "14087@10",
+    "19052@10",
+    "21002@10",
+    "44488@10",
+    "68272@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

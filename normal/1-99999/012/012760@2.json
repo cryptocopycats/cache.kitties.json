@@ -1,0 +1,28 @@
+{
+  "id": 12760,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-11-29T19:14:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm G2. In high school, I was voted school jock. I like to listen to Rihanna while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "12000@1",
+  "sire": "12553@1",
+  "children": [
+    "16444@4",
+    "16751@6",
+    "16834@4",
+    "17228@4",
+    "17916@18",
+    "18772@4",
+    "20790@4",
+    "21800@13",
+    "27581@3",
+    "32116@3",
+    "119201@3",
+    "1019291@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

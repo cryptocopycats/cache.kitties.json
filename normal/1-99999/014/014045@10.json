@@ -1,0 +1,21 @@
+{
+  "id": 14045,
+  "name": "baloo_blue",
+  "generation": 10,
+  "created_at": "2017-11-30T00:44:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! baloo_blue here. I'm here to enjoy being a nevernude and riding unicorns. My friends describe me as \"ridiculous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "13909@7",
+  "sire": "13786@9",
+  "children": [
+    "14312@11",
+    "14589@12",
+    "18184@11",
+    "21711@11",
+    "71837@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

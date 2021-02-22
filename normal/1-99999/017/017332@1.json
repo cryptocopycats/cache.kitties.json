@@ -1,0 +1,29 @@
+{
+  "id": 17332,
+  "name": "Gen 1 Coffee",
+  "generation": 1,
+  "created_at": "2017-11-30T14:09:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen 1 Coffee. I believe the world is flat. I put ranch dressing on everything. Like, everything: hot dogs, cantaloupe—everything! Let's get busy!",
+  "language": "en",
+  "matron": "2701@0",
+  "sire": "2487@0",
+  "children": [
+    "17740@12",
+    "38948@2",
+    "39243@2",
+    "39959@2",
+    "40907@2",
+    "44837@2",
+    "45637@2",
+    "48332@2",
+    "62259@2",
+    "66223@2",
+    "110425@2",
+    "163489@2",
+    "335382@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

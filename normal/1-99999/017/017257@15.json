@@ -1,0 +1,19 @@
+{
+  "id": 17257,
+  "name": "Flanigan",
+  "generation": 15,
+  "created_at": "2017-11-30T13:51:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Flanigan here. I'm here to enjoy staying woke and eating until I loathe myself. I am 8% elf, 65% Train Conductor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10846@14",
+  "sire": "13627@14",
+  "children": [
+    "18447@16",
+    "20622@16",
+    "76302@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

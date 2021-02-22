@@ -1,0 +1,20 @@
+{
+  "id": 15354,
+  "name": "Steve Buscemi",
+  "generation": 12,
+  "created_at": "2017-11-30T06:24:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Steve Buscemi. I'm often referred to as the Hermione Granger of the group. I once headbutted a gecko. I don't like to talk about it. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "4290@11",
+  "sire": "4873@7",
+  "children": [
+    "18309@13",
+    "19809@14",
+    "23313@16",
+    "28633@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

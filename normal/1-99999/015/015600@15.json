@@ -1,0 +1,18 @@
+{
+  "id": 15600,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T07:16:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #15600. My friends describe me as wondrous and voluptuous. When I'm not reading Danielle Steele, I'm summoning ghosts! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3269@1",
+  "sire": "10343@14",
+  "children": [
+    "16611@16",
+    "18249@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

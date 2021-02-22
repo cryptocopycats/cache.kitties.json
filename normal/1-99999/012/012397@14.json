@@ -1,0 +1,21 @@
+{
+  "id": 12397,
+  "name": "Gray Big Cat",
+  "generation": 14,
+  "created_at": "2017-11-29T17:55:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! Gray Big Cat here. I'm here to enjoy picking on mice and tripping my owner. I like to listen to Ace of Base while grooming. Don't judge me. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "8022@13",
+  "sire": "10689@5",
+  "children": [
+    "16685@15",
+    "17424@15",
+    "21440@16",
+    "64518@19",
+    "125009@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

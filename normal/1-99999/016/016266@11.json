@@ -1,0 +1,22 @@
+{
+  "id": 16266,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-30T09:39:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #16266. I'm a Ventriloquist by day, and I like sleeping in fresh laundry by night. I would give it all up to be on Oprah. I like your face.",
+  "language": "en",
+  "matron": "15663@3",
+  "sire": "13238@10",
+  "children": [
+    "18030@17",
+    "18825@12",
+    "22319@12",
+    "25581@14",
+    "71786@19",
+    "115351@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

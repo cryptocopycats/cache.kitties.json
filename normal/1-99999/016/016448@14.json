@@ -1,0 +1,18 @@
+{
+  "id": 16448,
+  "name": "Big Night Out",
+  "generation": 14,
+  "created_at": "2017-11-30T10:33:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Big Night Out. My friends describe me as gullible and wondrous. My friends describe me as \"preposterous.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "15947@13",
+  "sire": "15950@12",
+  "children": [
+    "18500@17",
+    "20449@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

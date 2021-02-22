@@ -1,0 +1,20 @@
+{
+  "id": 13353,
+  "name": "kitty",
+  "generation": 16,
+  "created_at": "2017-11-29T21:51:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm kitty. In high school, I was voted biggest teacher's pet. Some people say I'm the Jon Snow of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10314@15",
+  "sire": "10057@12",
+  "children": [
+    "15138@17",
+    "20964@17",
+    "30602@17",
+    "109874@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

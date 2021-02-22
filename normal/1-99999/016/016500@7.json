@@ -1,0 +1,24 @@
+{
+  "id": 16500,
+  "name": "Zargham",
+  "generation": 7,
+  "created_at": "2017-11-30T10:45:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Zargham. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4583@6",
+  "sire": "16017@3",
+  "children": [
+    "19293@10",
+    "23400@18",
+    "23614@19",
+    "25266@18",
+    "27699@17",
+    "33022@9",
+    "43353@16",
+    "68554@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

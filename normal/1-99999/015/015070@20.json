@@ -1,0 +1,19 @@
+{
+  "id": 15070,
+  "name": "Red Mustachio G20",
+  "generation": 20,
+  "created_at": "2017-11-30T05:08:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Red Mustachio G20. In high school, I was voted school jock. In my free time, I can usually be found annoying or volunteering at the local kitten rescue shelter. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11195@19",
+  "sire": "10681@16",
+  "children": [
+    "18478@21",
+    "25093@21",
+    "70018@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

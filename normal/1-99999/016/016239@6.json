@@ -1,0 +1,19 @@
+{
+  "id": 16239,
+  "name": "Gen 6 | Brisk Aquamarine",
+  "generation": 6,
+  "created_at": "2017-11-30T09:28:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Gen 6 | Brisk Aquamarine. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "16173@5",
+  "sire": "16171@5",
+  "children": [
+    "27032@8",
+    "27118@7",
+    "27375@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

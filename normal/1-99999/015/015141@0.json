@@ -1,0 +1,17 @@
+{
+  "id": 15141,
+  "name": "Sanity Kitty",
+  "generation": 0,
+  "created_at": "2017-11-30T05:26:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Sanity Kitty. I'm a Culinary Sanitation Specialist by day, and I like volunteering at the local kitten rescue shelter by night. I like to listen to Rihanna while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20207@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

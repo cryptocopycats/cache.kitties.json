@@ -1,0 +1,17 @@
+{
+  "id": 14655,
+  "name": "Gen 14 spock",
+  "generation": 14,
+  "created_at": "2017-11-30T03:08:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen 14 spock. In high school, I was voted most likely to work at NASA. My friends describe me as \"stinky.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "12228@12",
+  "sire": "12615@13",
+  "children": [
+    "16632@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

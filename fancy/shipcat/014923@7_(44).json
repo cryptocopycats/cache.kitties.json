@@ -1,0 +1,28 @@
+{
+  "id": 14923,
+  "name": "Hey Sailor",
+  "generation": 7,
+  "created_at": "2017-11-30T04:25:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Hey Sailor. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "11125@6",
+  "sire": "3239@6",
+  "children": [
+    "24421@8",
+    "26849@8",
+    "31245@8",
+    "44564@19",
+    "50136@14",
+    "58370@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 44,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

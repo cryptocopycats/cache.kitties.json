@@ -1,0 +1,20 @@
+{
+  "id": 14006,
+  "name": "G3",
+  "generation": 3,
+  "created_at": "2017-11-30T00:32:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm G3. I'm a professional Skydiving Instructor and I love lasagna. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12838@2",
+  "sire": "10999@2",
+  "children": [
+    "14034@4",
+    "14224@5",
+    "45504@4",
+    "98503@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

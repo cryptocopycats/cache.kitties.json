@@ -1,0 +1,18 @@
+{
+  "id": 16045,
+  "name": "Catfordshire",
+  "generation": 15,
+  "created_at": "2017-11-30T08:49:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Catfordshire. I enjoy grooming, sitting on your computer, and licking doorknobs. When no one's home, I invite my pals over and we listen to Wutang. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "14795@14",
+  "sire": "11519@9",
+  "children": [
+    "68111@18",
+    "102906@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

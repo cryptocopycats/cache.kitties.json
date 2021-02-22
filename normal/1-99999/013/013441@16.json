@@ -1,0 +1,18 @@
+{
+  "id": 13441,
+  "name": "Squirrel",
+  "generation": 16,
+  "created_at": "2017-11-29T22:11:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Squirrel. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. I was voted school jock in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13151@11",
+  "sire": "13162@15",
+  "children": [
+    "78971@18",
+    "118375@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

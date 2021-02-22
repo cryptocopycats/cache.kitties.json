@@ -1,0 +1,20 @@
+{
+  "id": 16216,
+  "name": "Bumpy5-Gen5",
+  "generation": 5,
+  "created_at": "2017-11-30T09:23:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Bumpy5-Gen5. I enjoy reading garfield, sitting on your computer, and being a nevernude. When I'm not talking about how much I lift, I'm playing chess! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15895@3",
+  "sire": "16103@4",
+  "children": [
+    "16786@7",
+    "16910@6",
+    "18302@9",
+    "23505@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

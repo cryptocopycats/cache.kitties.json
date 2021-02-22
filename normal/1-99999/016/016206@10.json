@@ -1,0 +1,19 @@
+{
+  "id": 16206,
+  "name": "Kitty Purry",
+  "generation": 10,
+  "created_at": "2017-11-30T09:20:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Kitty Purry. I want to live in a world where people believe the world is flat. My secret indulgence is hamburgers. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15855@3",
+  "sire": "16098@9",
+  "children": [
+    "32328@11",
+    "49058@22",
+    "52781@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

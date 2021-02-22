@@ -1,0 +1,18 @@
+{
+  "id": 15036,
+  "name": "Simple Plodding Gen12",
+  "generation": 12,
+  "created_at": "2017-11-30T04:56:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Simple Plodding Gen12. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11140@9",
+  "sire": "5538@11",
+  "children": [
+    "41048@13",
+    "43254@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

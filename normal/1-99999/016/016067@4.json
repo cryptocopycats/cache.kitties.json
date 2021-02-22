@@ -1,0 +1,26 @@
+{
+  "id": 16067,
+  "name": "White & Yellow | G4",
+  "generation": 4,
+  "created_at": "2017-11-30T08:53:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm White & Yellow | G4. In high school, I was voted school jock. My friends describe me as \"raunchy.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "15895@3",
+  "sire": "16020@3",
+  "children": [
+    "16139@5",
+    "16376@7",
+    "16398@5",
+    "16629@5",
+    "17112@5",
+    "18151@5",
+    "23442@5",
+    "23816@5",
+    "28814@5",
+    "113432@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

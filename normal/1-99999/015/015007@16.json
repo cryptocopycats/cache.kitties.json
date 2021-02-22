@@ -1,0 +1,21 @@
+{
+  "id": 15007,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-30T04:48:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Kitty #15007. I once peed on Princess Diana's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "11850@14",
+  "sire": "10967@15",
+  "children": [
+    "17323@17",
+    "21782@17",
+    "27355@17",
+    "57663@17",
+    "161928@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

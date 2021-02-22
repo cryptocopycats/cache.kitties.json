@@ -1,0 +1,21 @@
+{
+  "id": 16295,
+  "name": "Woupet",
+  "generation": 10,
+  "created_at": "2017-11-30T09:46:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Woupet. I'm a professional Skydiving Instructor and I love ice cream. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4768@9",
+  "sire": "4554@5",
+  "children": [
+    "24413@11",
+    "25173@11",
+    "29536@11",
+    "50916@17",
+    "110857@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

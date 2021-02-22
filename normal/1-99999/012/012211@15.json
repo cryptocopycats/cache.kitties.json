@@ -1,0 +1,21 @@
+{
+  "id": 12211,
+  "name": "G15 Munchkin",
+  "generation": 15,
+  "created_at": "2017-11-29T14:57:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G15 Munchkin. I enjoy watching Stranger Things, eating lasagna, and glaring at the neighbour's cat. Sometimes I daydream of a life full of picking flowers, wet food, and summoning ghosts. I look forward to watching Stranger Things with you.",
+  "language": "en",
+  "matron": "11554@14",
+  "sire": "7188@14",
+  "children": [
+    "12746@16",
+    "14023@16",
+    "63919@16",
+    "108073@21",
+    "1977634@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16110,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-30T09:01:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #16110. I've never told anyone this, but I once clawed a dog. I once made a dog drink. I like your face.",
+  "language": "en",
+  "matron": "5801@9",
+  "sire": "6014@11",
+  "children": [
+    "16663@19",
+    "18795@15",
+    "20810@18",
+    "23925@16",
+    "30990@17",
+    "76141@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15586,
+  "name": "Chesty Beardkins",
+  "generation": 15,
+  "created_at": "2017-11-30T07:14:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Chesty Beardkins. My friends describe me as vegan and ridiculous. Some people say I'm the Dwight Schrute of the group. Our friendship will be vegan, ridiculous, and full of wet food.",
+  "language": "en",
+  "matron": "11918@10",
+  "sire": "11110@14",
+  "children": [
+    "20817@16",
+    "21430@16",
+    "52864@16",
+    "71685@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

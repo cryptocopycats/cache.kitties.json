@@ -1,0 +1,20 @@
+{
+  "id": 12946,
+  "name": "Stripy McStripeface",
+  "generation": 13,
+  "created_at": "2017-11-29T20:04:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Stripy McStripeface. I'm often referred to as the Ron Weasley of the group. I'm often described as smelly, and I own it. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "11876@10",
+  "sire": "11882@12",
+  "children": [
+    "13193@14",
+    "18693@14",
+    "143962@14",
+    "172439@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 16358,
+  "name": "BlindBrow",
+  "generation": 9,
+  "created_at": "2017-11-30T10:04:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm BlindBrow. I'm often referred to as the Peter Griffin of the group. When no one's home, I invite my pals over and we listen to Frank Sinatra. Let's get busy!",
+  "language": "en",
+  "matron": "16199@8",
+  "sire": "13539@4",
+  "children": [
+    "17227@10",
+    "19756@17",
+    "22609@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

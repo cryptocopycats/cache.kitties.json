@@ -1,0 +1,20 @@
+{
+  "id": 15913,
+  "name": "bri",
+  "generation": 8,
+  "created_at": "2017-11-30T08:16:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm bri. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "15839@7",
+  "sire": "15846@7",
+  "children": [
+    "16221@9",
+    "16340@9",
+    "18677@9",
+    "155899@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 14246,
+  "name": "☻ Gen 5 / Sluggish / Ducat ☻",
+  "generation": 5,
+  "created_at": "2017-11-30T01:25:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm ☻ Gen 5 / Sluggish / Ducat ☻. I believe that one day cats will rule this planet. I once cleaned a chimpanzee. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "3262@4",
+  "sire": "10994@0",
+  "children": [
+    "14410@14",
+    "15280@15",
+    "15658@12",
+    "18602@6",
+    "19689@14",
+    "20542@7",
+    "23595@19",
+    "28968@19",
+    "48641@10",
+    "106405@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

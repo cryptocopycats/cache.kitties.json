@@ -1,0 +1,20 @@
+{
+  "id": 14984,
+  "name": "Cleopatra",
+  "generation": 19,
+  "created_at": "2017-11-30T04:43:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Cleopatra. My friends describe me as raunchy and gullible. I once cleaned a goose. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11696@18",
+  "sire": "4534@10",
+  "children": [
+    "18779@20",
+    "25330@20",
+    "64244@20",
+    "293950@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

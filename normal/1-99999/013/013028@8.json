@@ -1,0 +1,24 @@
+{
+  "id": 13028,
+  "name": "Fred",
+  "generation": 8,
+  "created_at": "2017-11-29T20:24:48.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Fred. I'm a professional Mad Scientist and I love apple pie. I'm often described as annoying, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "12966@7",
+  "sire": "12590@7",
+  "children": [
+    "13186@10",
+    "13348@10",
+    "14527@9",
+    "19587@9",
+    "20470@9",
+    "48082@9",
+    "66522@9",
+    "517927@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

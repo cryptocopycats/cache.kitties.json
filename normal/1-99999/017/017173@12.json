@@ -1,0 +1,21 @@
+{
+  "id": 17173,
+  "name": "Meow",
+  "generation": 12,
+  "created_at": "2017-11-30T13:35:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Meow. I want to live in a world where people believe the world is flat. I like to listen to Michael Bolton while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "16884@11",
+  "sire": "16653@6",
+  "children": [
+    "17747@13",
+    "52076@13",
+    "93511@16",
+    "111888@17",
+    "254737@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

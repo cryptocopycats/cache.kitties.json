@@ -1,0 +1,19 @@
+{
+  "id": 15572,
+  "name": "Gen15/Plodding",
+  "generation": 15,
+  "created_at": "2017-11-30T07:12:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen15/Plodding. In high school, I was voted school jock. I am 64% troll, 51% Spin Instructor , and otherwise bad at math. I look forward to chasing red dots with you.",
+  "language": "en",
+  "matron": "15000@9",
+  "sire": "14960@14",
+  "children": [
+    "17485@16",
+    "20830@16",
+    "277982@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

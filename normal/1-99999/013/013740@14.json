@@ -1,0 +1,19 @@
+{
+  "id": 13740,
+  "name": "DisKat",
+  "generation": 14,
+  "created_at": "2017-11-29T23:19:33.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm DisKat. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "11388@11",
+  "sire": "12670@13",
+  "children": [
+    "14696@15",
+    "14876@15",
+    "21558@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

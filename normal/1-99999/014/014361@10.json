@@ -1,0 +1,21 @@
+{
+  "id": 14361,
+  "name": "Plasma",
+  "generation": 10,
+  "created_at": "2017-11-30T01:51:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Plasma. I enjoy taking selfies, hitting on yo' man, and picking flowers. I was voted most likely to work at NASA in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12320@9",
+  "sire": "14101@8",
+  "children": [
+    "16646@11",
+    "17943@11",
+    "18714@13",
+    "20768@13",
+    "203714@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

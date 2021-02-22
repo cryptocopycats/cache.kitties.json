@@ -1,0 +1,17 @@
+{
+  "id": 12890,
+  "name": "Feline Musk",
+  "generation": 20,
+  "created_at": "2017-11-29T19:51:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Feline Musk. I'm a professional Train Conductor and I love hamburgers. My friends describe me as \"seductive.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10690@19",
+  "sire": "9602@17",
+  "children": [
+    "23396@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

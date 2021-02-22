@@ -1,0 +1,19 @@
+{
+  "id": 17027,
+  "name": "Salmon",
+  "generation": 9,
+  "created_at": "2017-11-30T12:57:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Salmon. In high school, I was voted school jock. I am 71% oracle, 55% Skydiving Instructor, and otherwise bad at math. Our friendship will be preposterous, ridiculous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "4756@8",
+  "sire": "12802@2",
+  "children": [
+    "40630@10",
+    "53604@10",
+    "59139@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

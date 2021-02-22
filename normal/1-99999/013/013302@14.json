@@ -1,0 +1,25 @@
+{
+  "id": 13302,
+  "name": "Thoufeux",
+  "generation": 14,
+  "created_at": "2017-11-29T21:35:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Thoufeux. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12267@13",
+  "sire": "12281@13",
+  "children": [
+    "14260@15",
+    "16157@15",
+    "21087@17",
+    "28034@15",
+    "68983@18",
+    "234852@20",
+    "293517@20",
+    "431000@20",
+    "457473@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

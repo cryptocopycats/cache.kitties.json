@@ -1,0 +1,25 @@
+{
+  "id": 16068,
+  "name": "Gen 2 | Pavel",
+  "generation": 2,
+  "created_at": "2017-11-30T08:54:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 2 | Pavel. All you need to know about me is I hate salad with a passion. My secret indulgence is wet food. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3481@1",
+  "sire": "3952@1",
+  "children": [
+    "22448@3",
+    "22760@3",
+    "22843@3",
+    "22942@3",
+    "23208@3",
+    "24597@5",
+    "26502@4",
+    "27659@4",
+    "39179@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

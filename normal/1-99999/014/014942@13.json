@@ -1,0 +1,20 @@
+{
+  "id": 14942,
+  "name": "NASA G13 Starter",
+  "generation": 13,
+  "created_at": "2017-11-30T04:29:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm NASA G13 Starter. I'm often referred to as the Ron Weasley of the group. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10151@1",
+  "sire": "14262@12",
+  "children": [
+    "15399@14",
+    "19999@17",
+    "21088@14",
+    "140174@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13524,
+  "name": "Vampire | G4",
+  "generation": 4,
+  "created_at": "2017-11-29T22:28:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Vampire | G4. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. I like your face.",
+  "language": "en",
+  "matron": "10616@0",
+  "sire": "12675@3",
+  "children": [
+    "67170@6",
+    "74135@6",
+    "88296@6",
+    "96457@6",
+    "515589@6",
+    "518020@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

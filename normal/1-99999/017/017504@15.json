@@ -1,0 +1,20 @@
+{
+  "id": 17504,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T14:54:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #17504. I enjoy grooming, glaring at the neighbour's cat, and taking selfies. When no one's home, I invite my pals over and we listen to Beyoncé. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10930@14",
+  "sire": "10670@13",
+  "children": [
+    "18945@16",
+    "20742@16",
+    "23088@16",
+    "33293@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

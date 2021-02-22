@@ -1,0 +1,22 @@
+{
+  "id": 12101,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-29T14:19:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #12101. I've never told anyone this, but I once licked a dog. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "12056@1",
+  "sire": "12074@10",
+  "children": [
+    "12435@12",
+    "12587@13",
+    "13415@13",
+    "17049@13",
+    "24266@13",
+    "296435@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

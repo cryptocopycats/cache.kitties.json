@@ -1,0 +1,23 @@
+{
+  "id": 12109,
+  "name": "Wise Fire",
+  "generation": 13,
+  "created_at": "2017-11-29T14:20:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Wise Fire. In high school, I was voted school jock. My secret indulgence is ice cream. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "12023@9",
+  "sire": "9209@12",
+  "children": [
+    "12983@14",
+    "13947@14",
+    "20329@14",
+    "37064@14",
+    "64521@18",
+    "148888@15",
+    "228891@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 16565,
+  "name": "Gen5",
+  "generation": 5,
+  "created_at": "2017-11-30T11:05:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Gen5. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once dreamed of being a Aerobics Athlete . Now I can be found swiping right all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16126@4",
+  "sire": "16375@4",
+  "children": [
+    "16614@6",
+    "16809@6",
+    "17180@6",
+    "26878@6",
+    "41763@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

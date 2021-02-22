@@ -1,0 +1,21 @@
+{
+  "id": 13547,
+  "name": "Stuart Little",
+  "generation": 10,
+  "created_at": "2017-11-29T22:30:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Stuart Little. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. Our friendship will be despicable, voluptuous, and full of wet food.",
+  "language": "en",
+  "matron": "10339@9",
+  "sire": "12352@6",
+  "children": [
+    "13799@12",
+    "48610@11",
+    "57019@11",
+    "74378@18",
+    "107421@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

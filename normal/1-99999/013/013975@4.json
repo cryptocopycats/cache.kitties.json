@@ -1,0 +1,20 @@
+{
+  "id": 13975,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-30T00:25:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #13975. I enjoy eating until I loathe myself, picking flowers, and picking on mice. When no one's home, I invite my pals over and we listen to Rihanna. Our friendship will be raunchy, seductive, and full of cantaloupe.",
+  "language": "en",
+  "matron": "13935@3",
+  "sire": "13290@3",
+  "children": [
+    "25666@12",
+    "27164@12",
+    "29353@10",
+    "33664@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

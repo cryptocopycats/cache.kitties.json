@@ -1,0 +1,18 @@
+{
+  "id": 13207,
+  "name": "Teriyaki Sauce",
+  "generation": 17,
+  "created_at": "2017-11-29T21:10:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Teriyaki Sauce. I believe the world is flat. My secret indulgence is lasagna. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10684@16",
+  "sire": "10478@11",
+  "children": [
+    "14977@18",
+    "18081@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

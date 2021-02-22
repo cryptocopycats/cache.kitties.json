@@ -1,0 +1,18 @@
+{
+  "id": 13864,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T23:55:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #13864. My friends describe me as ridiculous and annoying. When no one's home, I invite my pals over and we listen to Rihanna. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12961@14",
+  "sire": "12337@13",
+  "children": [
+    "14858@16",
+    "15746@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

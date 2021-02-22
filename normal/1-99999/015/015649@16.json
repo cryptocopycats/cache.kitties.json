@@ -1,0 +1,19 @@
+{
+  "id": 15649,
+  "name": "Shefo",
+  "generation": 16,
+  "created_at": "2017-11-30T07:27:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Shefo. I'm often referred to as the Samwise Gamgee of the group. I like to listen to Ace of Base while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15120@13",
+  "sire": "8077@15",
+  "children": [
+    "17730@17",
+    "51831@17",
+    "227065@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

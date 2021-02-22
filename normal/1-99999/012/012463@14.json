@@ -1,0 +1,20 @@
+{
+  "id": 12463,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-29T18:05:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen 14. I enjoy licking doorknobs, spinning sick beats, and being a nevernude. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "8031@13",
+  "sire": "11425@0",
+  "children": [
+    "13608@16",
+    "16079@15",
+    "20122@18",
+    "35219@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

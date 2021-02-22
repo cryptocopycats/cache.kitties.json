@@ -1,0 +1,20 @@
+{
+  "id": 15499,
+  "name": "Tanuki",
+  "generation": 16,
+  "created_at": "2017-11-30T06:58:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Tanuki. My friends describe me as brilliant and petulant. I'm often described as gullible, and I own it. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "13543@11",
+  "sire": "8567@15",
+  "children": [
+    "74228@17",
+    "117555@17",
+    "138897@17",
+    "289706@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

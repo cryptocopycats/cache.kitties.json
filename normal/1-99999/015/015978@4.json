@@ -1,0 +1,26 @@
+{
+  "id": 15978,
+  "name": "Electabuzz",
+  "generation": 4,
+  "created_at": "2017-11-30T08:31:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's Electabuzz. I once peed on Marie Antoinette's cat. They had it coming. I once got in a fight with a gecko, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3812@3",
+  "sire": "15895@3",
+  "children": [
+    "16011@5",
+    "16088@5",
+    "16173@5",
+    "16535@5",
+    "17061@5",
+    "19747@5",
+    "24111@5",
+    "112681@6",
+    "114532@5",
+    "330486@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

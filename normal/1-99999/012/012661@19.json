@@ -1,0 +1,19 @@
+{
+  "id": 12661,
+  "name": "Minty",
+  "generation": 19,
+  "created_at": "2017-11-29T18:38:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Minty. In high school, I was voted school jock. Some people say I'm the Ross Geller of the group. Let's get busy!",
+  "language": "en",
+  "matron": "9892@17",
+  "sire": "9818@18",
+  "children": [
+    "18504@20",
+    "61278@20",
+    "146215@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

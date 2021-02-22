@@ -1,0 +1,23 @@
+{
+  "id": 16858,
+  "name": "Patch",
+  "generation": 6,
+  "created_at": "2017-11-30T12:23:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Patch. I've never told anyone this, but I once pranced with a dog. My great-great-great-great-great-great grandkitty lived with Cleopatra. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16742@5",
+  "sire": "16828@5",
+  "children": [
+    "17004@7",
+    "17138@7",
+    "17416@7",
+    "18722@7",
+    "37853@10",
+    "49464@7",
+    "112630@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

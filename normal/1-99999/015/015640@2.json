@@ -1,0 +1,25 @@
+{
+  "id": 15640,
+  "name": "Peapod",
+  "generation": 2,
+  "created_at": "2017-11-30T07:25:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! My name's Peapod. I once peed on John F. Kennedy Jr.'s cat. They had it coming. My secret indulgence is lasagna. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3227@1",
+  "sire": "3146@1",
+  "children": [
+    "15951@8",
+    "17559@12",
+    "21371@19",
+    "21412@18",
+    "27568@3",
+    "28148@3",
+    "33527@4",
+    "39253@3",
+    "65301@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

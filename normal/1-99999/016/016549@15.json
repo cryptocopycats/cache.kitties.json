@@ -1,0 +1,19 @@
+{
+  "id": 16549,
+  "name": "Spock",
+  "generation": 15,
+  "created_at": "2017-11-30T11:03:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Spock. I'm a professional Ventriloquist and I love steak. In my free time, I can usually be found petulant or playing chess. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "16437@7",
+  "sire": "12820@14",
+  "children": [
+    "16623@16",
+    "18496@16",
+    "22995@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

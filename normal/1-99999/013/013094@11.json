@@ -1,0 +1,23 @@
+{
+  "id": 13094,
+  "name": "Lucky Orangesoda",
+  "generation": 11,
+  "created_at": "2017-11-29T20:35:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Lucky Orangesoda. I've never told anyone this, but I once groomed a dog. I once made a rooster ignore. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10607@7",
+  "sire": "11366@10",
+  "children": [
+    "13332@16",
+    "13903@12",
+    "15976@12",
+    "51039@17",
+    "52385@12",
+    "103892@12",
+    "146689@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

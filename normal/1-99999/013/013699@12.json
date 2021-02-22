@@ -1,0 +1,20 @@
+{
+  "id": 13699,
+  "name": "The Marshmallow",
+  "generation": 12,
+  "created_at": "2017-11-29T23:15:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm The Marshmallow. In high school, I was voted most likely to work at NASA. My secret indulgence is hamburgers. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "12762@1",
+  "sire": "13340@11",
+  "children": [
+    "14191@17",
+    "15045@14",
+    "41503@13",
+    "104861@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

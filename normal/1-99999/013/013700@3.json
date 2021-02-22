@@ -1,0 +1,25 @@
+{
+  "id": 13700,
+  "name": "Brisk | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-29T23:15:52.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Brisk | Gen 3. In high school, I was voted most likely to work at NASA. Some people say I'm the Lisa Simpson of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13599@2",
+  "sire": "10783@1",
+  "children": [
+    "13750@4",
+    "13971@4",
+    "14051@4",
+    "14254@15",
+    "14393@4",
+    "19678@4",
+    "110158@4",
+    "119492@4",
+    "133191@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

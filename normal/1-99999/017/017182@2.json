@@ -1,0 +1,24 @@
+{
+  "id": 17182,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-30T13:36:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 2. I believe the world is flat. I put marmalade on everything. Like, everything: hot dogs, steak—everything! I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "14440@1",
+  "sire": "14651@1",
+  "children": [
+    "17299@4",
+    "17659@3",
+    "19463@4",
+    "19878@4",
+    "32379@3",
+    "136878@3",
+    "147278@3",
+    "195872@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

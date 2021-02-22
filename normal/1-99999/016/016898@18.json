@@ -1,0 +1,19 @@
+{
+  "id": 16898,
+  "name": "Miss Goldie",
+  "generation": 18,
+  "created_at": "2017-11-30T12:25:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Miss Goldie. I've never told anyone this, but I once tricked a dog. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "13666@17",
+  "sire": "13405@15",
+  "children": [
+    "18357@19",
+    "36568@19",
+    "117602@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

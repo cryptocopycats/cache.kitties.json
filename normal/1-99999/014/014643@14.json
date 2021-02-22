@@ -1,0 +1,21 @@
+{
+  "id": 14643,
+  "name": "Gen 14 - Lemonade",
+  "generation": 14,
+  "created_at": "2017-11-30T03:03:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Gen 14 - Lemonade. I want to live in a world where people believe the world is flat. I once made a labradoodle play. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "2042@0",
+  "sire": "13176@13",
+  "children": [
+    "15744@15",
+    "21989@15",
+    "52876@16",
+    "60213@15",
+    "145291@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

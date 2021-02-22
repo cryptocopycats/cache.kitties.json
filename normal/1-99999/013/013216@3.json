@@ -1,0 +1,18 @@
+{
+  "id": 13216,
+  "name": "Froggie - Spock",
+  "generation": 3,
+  "created_at": "2017-11-29T21:14:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Froggie - Spock. In high school, I was voted biggest teacher's pet. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "13122@2",
+  "sire": "9937@2",
+  "children": [
+    "13498@4",
+    "22531@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

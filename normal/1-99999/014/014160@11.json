@@ -1,0 +1,22 @@
+{
+  "id": 14160,
+  "name": "Sparkles",
+  "generation": 11,
+  "created_at": "2017-11-30T01:06:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's Sparkles. I once peed on Confucius's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "12115@10",
+  "sire": "4392@1",
+  "children": [
+    "16534@12",
+    "17556@15",
+    "99014@15",
+    "167460@12",
+    "208041@12",
+    "310386@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

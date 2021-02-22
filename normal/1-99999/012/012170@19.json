@@ -1,0 +1,19 @@
+{
+  "id": 12170,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-29T14:41:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #12170. My friends describe me as stinky and annoying. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Will you be the peanut butter to my ranch dressing?",
+  "language": "en",
+  "matron": "9659@18",
+  "sire": "10176@14",
+  "children": [
+    "16996@20",
+    "24080@20",
+    "57294@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

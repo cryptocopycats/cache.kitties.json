@@ -1,0 +1,18 @@
+{
+  "id": 16472,
+  "name": "Skysurfer",
+  "generation": 8,
+  "created_at": "2017-11-30T10:38:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Skysurfer. I'm a Skydiving Instructor by day, and I like prank-calling celebrities by night. Sometimes I daydream of a life full of breakdancing, lasagna, and swiping left. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "12318@1",
+  "sire": "3749@7",
+  "children": [
+    "16670@9",
+    "17497@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

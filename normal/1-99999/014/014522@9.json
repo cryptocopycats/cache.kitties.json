@@ -1,0 +1,22 @@
+{
+  "id": 14522,
+  "name": "Bright",
+  "generation": 9,
+  "created_at": "2017-11-30T02:37:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Bright. I've never told anyone this, but I once pawed at a dog. In my free time, I can usually be found raunchy or summoning ghosts. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12582@8",
+  "sire": "2095@0",
+  "children": [
+    "16163@11",
+    "44354@19",
+    "45526@18",
+    "59745@15",
+    "72950@19",
+    "92058@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

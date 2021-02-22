@@ -1,0 +1,22 @@
+{
+  "id": 14750,
+  "name": "Rolo Mustache",
+  "generation": 13,
+  "created_at": "2017-11-30T03:33:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Rolo Mustache. I'm a professional Train Conductor and I love steak. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11103@12",
+  "sire": "10943@11",
+  "children": [
+    "15183@14",
+    "36354@14",
+    "42320@14",
+    "60270@16",
+    "154918@14",
+    "1423471@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

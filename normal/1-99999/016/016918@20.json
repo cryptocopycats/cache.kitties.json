@@ -1,0 +1,18 @@
+{
+  "id": 16918,
+  "name": "Base",
+  "generation": 20,
+  "created_at": "2017-11-30T12:31:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Base. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Ace of Base. Let's pawty!",
+  "language": "en",
+  "matron": "12936@19",
+  "sire": "10933@17",
+  "children": [
+    "20130@21",
+    "25565@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

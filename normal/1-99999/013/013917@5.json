@@ -1,0 +1,17 @@
+{
+  "id": 13917,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-11-30T00:13:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm G5. All you need to know about me is I hate ice cream with a passion. I like to listen to Gloria Estefan while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13261@4",
+  "sire": "12723@4",
+  "children": [
+    "20999@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

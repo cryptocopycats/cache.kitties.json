@@ -1,0 +1,20 @@
+{
+  "id": 17093,
+  "name": "Chestnut",
+  "generation": 17,
+  "created_at": "2017-11-30T13:18:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Chestnut. I'm a Private Dancer  by day, and I like siring for status by night. When no one's home, I invite my pals over and we listen to Mariah Carey. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "14626@16",
+  "sire": "7251@4",
+  "children": [
+    "27058@18",
+    "30566@19",
+    "73094@19",
+    "121720@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

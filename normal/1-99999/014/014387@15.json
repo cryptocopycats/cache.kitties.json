@@ -1,0 +1,20 @@
+{
+  "id": 14387,
+  "name": "Melody",
+  "generation": 15,
+  "created_at": "2017-11-30T01:54:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Melody. I'm a Private Dancer  by day, and I like swiping left by night. When no one's home, I invite my pals over and we listen to Justin Bieber. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10157@14",
+  "sire": "11182@12",
+  "children": [
+    "22442@18",
+    "27636@16",
+    "70691@21",
+    "77440@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

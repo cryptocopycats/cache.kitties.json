@@ -1,0 +1,18 @@
+{
+  "id": 12341,
+  "name": "Gen 13 coffee",
+  "generation": 13,
+  "created_at": "2017-11-29T17:51:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen 13 coffee. I'm a Culinary Sanitation Specialist by day, and I like people-watching by night. I once kissed a rhino. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11328@9",
+  "sire": "12137@12",
+  "children": [
+    "14210@14",
+    "17639@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

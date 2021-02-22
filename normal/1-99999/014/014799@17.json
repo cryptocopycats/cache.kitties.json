@@ -1,0 +1,19 @@
+{
+  "id": 14799,
+  "name": "Graham",
+  "generation": 17,
+  "created_at": "2017-11-30T03:49:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Graham. I'm a professional Aerobics Athlete  and I love lasagna. I put marmite on everything. Like, everything: hot dogs, ice cream—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10594@14",
+  "sire": "11582@16",
+  "children": [
+    "55001@21",
+    "73165@18",
+    "280738@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

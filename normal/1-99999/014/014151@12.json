@@ -1,0 +1,22 @@
+{
+  "id": 14151,
+  "name": "Indep",
+  "generation": 12,
+  "created_at": "2017-11-30T01:04:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's Indep. I once peed on Amelia Earhart's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12418@10",
+  "sire": "12471@11",
+  "children": [
+    "14596@16",
+    "17792@13",
+    "62033@16",
+    "307588@13",
+    "376692@13",
+    "504065@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

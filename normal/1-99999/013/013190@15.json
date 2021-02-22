@@ -1,0 +1,20 @@
+{
+  "id": 13190,
+  "name": "Beaver",
+  "generation": 15,
+  "created_at": "2017-11-29T21:06:16.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! My name's Beaver. I once peed on Confucius's cat. They had it coming. In my free time, I can usually be found gorgeous or sleeping in fresh laundry. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11804@0",
+  "sire": "12785@14",
+  "children": [
+    "18175@16",
+    "18813@16",
+    "22766@19",
+    "29009@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

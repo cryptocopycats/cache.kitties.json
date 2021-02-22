@@ -1,0 +1,19 @@
+{
+  "id": 14338,
+  "name": "Spot",
+  "generation": 15,
+  "created_at": "2017-11-30T01:44:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Spot. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of reading garfield, cereal, and reading Danielle Steele. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "6669@14",
+  "sire": "5495@13",
+  "children": [
+    "14485@16",
+    "17140@16",
+    "29676@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

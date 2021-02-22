@@ -1,0 +1,23 @@
+{
+  "id": 14517,
+  "name": "Old Kitty 14517",
+  "generation": 8,
+  "created_at": "2017-11-30T02:36:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Old Kitty 14517. I'm a Ventriloquist by day, and I like reading Danielle Steele by night. I like to listen to Wutang while grooming. Don't judge me. Will you be the pickles to my soy sauce?",
+  "language": "en",
+  "matron": "3083@7",
+  "sire": "11916@7",
+  "children": [
+    "14670@9",
+    "16289@10",
+    "16851@9",
+    "17097@11",
+    "22901@9",
+    "30259@9",
+    "462715@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

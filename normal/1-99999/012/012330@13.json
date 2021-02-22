@@ -1,0 +1,20 @@
+{
+  "id": 12330,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-29T17:49:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #12330. I'm a professional Aerobics Athlete  and I love hamburgers. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1201@0",
+  "sire": "9909@12",
+  "children": [
+    "16805@14",
+    "18319@17",
+    "64633@14",
+    "273498@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

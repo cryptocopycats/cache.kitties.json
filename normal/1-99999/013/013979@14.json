@@ -1,0 +1,18 @@
+{
+  "id": 13979,
+  "name": "Hookfur",
+  "generation": 14,
+  "created_at": "2017-11-30T00:26:45.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Hookfur. I'm a Train Conductor by day, and I like riverdancing by night. I like to listen to Coldplay while grooming. Don't judge me. Our friendship will be petulant, vegan, and full of ice cream.",
+  "language": "en",
+  "matron": "12292@11",
+  "sire": "12694@13",
+  "children": [
+    "15812@15",
+    "17556@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

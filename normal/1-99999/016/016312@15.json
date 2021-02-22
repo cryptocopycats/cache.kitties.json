@@ -1,0 +1,21 @@
+{
+  "id": 16312,
+  "name": "Sirius",
+  "generation": 15,
+  "created_at": "2017-11-30T09:50:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Sirius. I'm often referred to as the Lisa Simpson of the group. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "13448@14",
+  "sire": "13651@9",
+  "children": [
+    "17304@16",
+    "37737@18",
+    "51708@16",
+    "110603@16",
+    "214639@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

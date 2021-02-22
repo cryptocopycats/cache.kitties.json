@@ -1,0 +1,20 @@
+{
+  "id": 12923,
+  "name": "Frank Lloyd Bite",
+  "generation": 10,
+  "created_at": "2017-11-29T20:00:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Frank Lloyd Bite. My friends describe me as vegan and gorgeous. I once made a moose dance. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "9196@4",
+  "sire": "10288@9",
+  "children": [
+    "13194@15",
+    "14111@14",
+    "14563@19",
+    "19138@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

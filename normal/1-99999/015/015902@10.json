@@ -1,0 +1,23 @@
+{
+  "id": 15902,
+  "name": "Simplet",
+  "generation": 10,
+  "created_at": "2017-11-30T08:15:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Simplet. I'm a professional Dogwalker and I love chocolate. Sometimes I daydream of a life full of slappin' da bass, salad, and people-watching. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14299@9",
+  "sire": "6066@9",
+  "children": [
+    "16471@11",
+    "16855@12",
+    "18706@11",
+    "34622@11",
+    "54119@11",
+    "134141@13",
+    "155766@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

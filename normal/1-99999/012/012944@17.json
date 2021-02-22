@@ -1,0 +1,20 @@
+{
+  "id": 12944,
+  "name": "Chocolate Strawberry",
+  "generation": 17,
+  "created_at": "2017-11-29T20:04:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Chocolate Strawberry. I enjoy reading garfield, taking selfies, and riding unicorns. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Our friendship will be gullible, prickly, and full of steak.",
+  "language": "en",
+  "matron": "11268@7",
+  "sire": "12743@16",
+  "children": [
+    "13427@18",
+    "15495@18",
+    "22442@18",
+    "36116@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

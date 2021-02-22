@@ -1,0 +1,18 @@
+{
+  "id": 15803,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-30T07:57:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #15803. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to King Henry VIII. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10123@8",
+  "sire": "14843@18",
+  "children": [
+    "23024@20",
+    "37312@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

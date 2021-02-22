@@ -1,0 +1,29 @@
+{
+  "id": 13682,
+  "name": "Bearded",
+  "generation": 4,
+  "created_at": "2017-11-29T23:05:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Bearded. I enjoy being a nevernude, sitting on your computer, and eating until I loathe myself. My secret indulgence is steak. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "13075@1",
+  "sire": "10707@3",
+  "children": [
+    "13802@5",
+    "13941@5",
+    "14701@14",
+    "14836@15",
+    "15115@15",
+    "15330@8",
+    "19884@16",
+    "23254@17",
+    "30494@5",
+    "33950@5",
+    "189946@8",
+    "210000@5",
+    "414599@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

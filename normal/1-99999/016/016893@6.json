@@ -1,0 +1,25 @@
+{
+  "id": 16893,
+  "name": "Gen 6 Slow",
+  "generation": 6,
+  "created_at": "2017-11-30T12:25:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 6 Slow. All you need to know about me is I hate hamburgers with a passion. I like to listen to Frank Sinatra while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "16530@5",
+  "sire": "13859@1",
+  "children": [
+    "17988@16",
+    "19104@9",
+    "19488@9",
+    "21997@7",
+    "23246@7",
+    "25750@7",
+    "40500@7",
+    "77640@7",
+    "151709@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13251,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-29T21:21:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #13251. I'm often referred to as the Ross Geller of the group. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12244@12",
+  "sire": "10347@8",
+  "children": [
+    "13731@14",
+    "17178@16",
+    "37890@16",
+    "267110@14",
+    "397837@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

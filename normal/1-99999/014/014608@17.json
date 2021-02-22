@@ -1,0 +1,21 @@
+{
+  "id": 14608,
+  "name": "Prescott Midas",
+  "generation": 17,
+  "created_at": "2017-11-30T02:57:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Prescott Midas. I'm a Skydiving Instructor by day, and I like braiding people's hair by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the cinammon to my wasabi?",
+  "language": "en",
+  "matron": "10550@16",
+  "sire": "11980@10",
+  "children": [
+    "41648@18",
+    "53072@18",
+    "93012@20",
+    "118671@18",
+    "243323@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

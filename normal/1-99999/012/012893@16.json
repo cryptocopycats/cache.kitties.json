@@ -1,0 +1,21 @@
+{
+  "id": 12893,
+  "name": "Tigerpunk Kitty",
+  "generation": 16,
+  "created_at": "2017-11-29T19:52:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Tigerpunk Kitty. In high school, I was voted biggest teacher's pet. I would give it all up to be on Oprah. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "9899@15",
+  "sire": "8199@12",
+  "children": [
+    "17688@17",
+    "38390@17",
+    "70433@18",
+    "273481@17",
+    "294693@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

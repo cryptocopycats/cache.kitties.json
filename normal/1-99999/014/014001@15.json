@@ -1,0 +1,20 @@
+{
+  "id": 14001,
+  "name": "g15 limegreen aquamarine",
+  "generation": 15,
+  "created_at": "2017-11-30T00:31:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm g15 limegreen aquamarine. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's get busy!",
+  "language": "en",
+  "matron": "12991@14",
+  "sire": "5973@11",
+  "children": [
+    "15113@16",
+    "55564@16",
+    "71044@17",
+    "154602@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

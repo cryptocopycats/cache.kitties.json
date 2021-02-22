@@ -1,0 +1,25 @@
+{
+  "id": 14405,
+  "name": "Kitty Smith",
+  "generation": 2,
+  "created_at": "2017-11-30T02:04:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Kitty Smith here. I'm here to enjoy watching Stranger Things and riding unicorns. In my free time, I can usually be found despicable or sleeping in fresh laundry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6182@1",
+  "sire": "14339@1",
+  "children": [
+    "26344@3",
+    "29631@3",
+    "29909@3",
+    "30753@3",
+    "33425@3",
+    "35746@3",
+    "36449@3",
+    "51093@3",
+    "74183@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

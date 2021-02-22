@@ -1,0 +1,19 @@
+{
+  "id": 13080,
+  "name": "McTeeth",
+  "generation": 13,
+  "created_at": "2017-11-29T20:34:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! My name's McTeeth. I once peed on Amelia Earhart's cat. They had it coming. I was voted school jock in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13001@6",
+  "sire": "12965@12",
+  "children": [
+    "13131@14",
+    "20295@14",
+    "21986@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

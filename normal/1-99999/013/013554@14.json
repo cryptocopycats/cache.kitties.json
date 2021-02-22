@@ -1,0 +1,20 @@
+{
+  "id": 13554,
+  "name": "starter",
+  "generation": 14,
+  "created_at": "2017-11-29T22:33:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm starter. I'm often referred to as the Michael Scott of the group. I like to listen to Aretha Franklin while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12856@11",
+  "sire": "13099@13",
+  "children": [
+    "14899@15",
+    "28775@15",
+    "35350@15",
+    "75034@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

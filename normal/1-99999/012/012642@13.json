@@ -1,0 +1,19 @@
+{
+  "id": 12642,
+  "name": "Dreamer",
+  "generation": 13,
+  "created_at": "2017-11-29T18:38:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! Dreamer here. I'm here to enjoy grooming and riding unicorns. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5757@9",
+  "sire": "11099@12",
+  "children": [
+    "18265@17",
+    "61846@14",
+    "81342@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

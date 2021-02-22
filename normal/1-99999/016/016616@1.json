@@ -1,0 +1,18 @@
+{
+  "id": 16616,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-30T11:15:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #16616. I've never told anyone this, but I once clawed a dog. Sometimes I daydream of a life full of grooming, wet food, and volunteering at the local kitten rescue shelter. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12460@0",
+  "sire": "1285@0",
+  "children": [
+    "16627@17",
+    "16659@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

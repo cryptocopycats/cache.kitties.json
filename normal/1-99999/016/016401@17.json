@@ -1,0 +1,19 @@
+{
+  "id": 16401,
+  "name": "Limey",
+  "generation": 17,
+  "created_at": "2017-11-30T10:13:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Limey. I enjoy chasing string, hitting on yo' man, and shakin' dat booty. I put marmalade on everything. Like, everything: hot dogs, cereal—everything! Our friendship will be hairy, seductive, and full of ice cream.",
+  "language": "en",
+  "matron": "15200@13",
+  "sire": "14628@16",
+  "children": [
+    "19460@18",
+    "81785@18",
+    "106637@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

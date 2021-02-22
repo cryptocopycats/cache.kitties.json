@@ -1,0 +1,29 @@
+{
+  "id": 15315,
+  "name": "Grandpa Trump",
+  "generation": 0,
+  "created_at": "2017-11-30T06:09:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Grandpa Trump. I'm a professional Train Conductor and I love salad. When no one's home, I invite my pals over and we listen to Beyoncé. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "100036@1",
+    "100440@1",
+    "100659@1",
+    "100908@1",
+    "102071@1",
+    "104850@1",
+    "106179@1",
+    "115420@1",
+    "123157@1",
+    "139581@1",
+    "140465@1",
+    "233718@1",
+    "335288@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

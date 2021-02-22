@@ -1,0 +1,23 @@
+{
+  "id": 12600,
+  "name": "Swampgreen | G8",
+  "generation": 8,
+  "created_at": "2017-11-29T18:35:05.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Swampgreen | G8. I want to live in a world where people believe the world is flat. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11964@6",
+  "sire": "11903@7",
+  "children": [
+    "12764@9",
+    "12911@9",
+    "14042@9",
+    "66460@17",
+    "82621@10",
+    "101328@9",
+    "288957@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

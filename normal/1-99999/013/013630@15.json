@@ -1,0 +1,19 @@
+{
+  "id": 13630,
+  "name": "Vladimir Putin",
+  "generation": 15,
+  "created_at": "2017-11-29T22:52:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Vladimir Putin. I believe the world is flat. Sometimes I daydream of a life full of riding dirty, hamburgers, and reading Danielle Steele. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11443@14",
+  "sire": "10779@6",
+  "children": [
+    "26098@16",
+    "29209@19",
+    "145253@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 17035,
+  "name": "Susan Spockauve",
+  "generation": 10,
+  "created_at": "2017-11-30T12:58:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Susan Spockauve. All you need to know about me is I hate cantaloupe with a passion. I once made a labradoodle play. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "16922@8",
+  "sire": "16851@9",
+  "children": [
+    "22536@13",
+    "22729@11",
+    "23248@11",
+    "26687@11",
+    "42917@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

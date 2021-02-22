@@ -1,0 +1,22 @@
+{
+  "id": 15948,
+  "name": "Revloc - Gen 8 - Brisk",
+  "generation": 8,
+  "created_at": "2017-11-30T08:26:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Revloc - Gen 8 - Brisk. I believe the world is flat. When no one's home, I invite my pals over and we listen to Aretha Franklin. Will you be the maple syrup to my wasabi?",
+  "language": "en",
+  "matron": "15876@7",
+  "sire": "15879@7",
+  "children": [
+    "16105@9",
+    "17802@9",
+    "18640@9",
+    "20177@13",
+    "21897@15",
+    "28405@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

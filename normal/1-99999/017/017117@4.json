@@ -1,0 +1,19 @@
+{
+  "id": 17117,
+  "name": "Just Kittin | Gen 4",
+  "generation": 4,
+  "created_at": "2017-11-30T13:22:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Just Kittin | Gen 4. I've never told anyone this, but I once tricked a dog. I once got in a fight with a dolphin, and won. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15822@3",
+  "sire": "16511@3",
+  "children": [
+    "17589@7",
+    "17908@5",
+    "24081@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

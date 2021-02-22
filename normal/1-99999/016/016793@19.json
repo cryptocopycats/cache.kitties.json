@@ -1,0 +1,21 @@
+{
+  "id": 16793,
+  "name": "Kitty McMustache",
+  "generation": 19,
+  "created_at": "2017-11-30T11:53:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty McMustache. I'm often referred to as the Cersei Lannister of the group. I like to listen to Michael Bolton while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "14851@16",
+  "sire": "14634@18",
+  "children": [
+    "20684@20",
+    "27996@20",
+    "68463@20",
+    "116768@21",
+    "359907@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

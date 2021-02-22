@@ -1,0 +1,17 @@
+{
+  "id": 17331,
+  "name": "Mr Sniffles",
+  "generation": 18,
+  "created_at": "2017-11-30T14:09:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mr Sniffles. In high school, I was voted school jock. I once made a rabbit pester. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "8843@17",
+  "sire": "4648@8",
+  "children": [
+    "24806@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

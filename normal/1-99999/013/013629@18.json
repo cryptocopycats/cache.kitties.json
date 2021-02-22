@@ -1,0 +1,19 @@
+{
+  "id": 13629,
+  "name": "pinky",
+  "generation": 18,
+  "created_at": "2017-11-29T22:52:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm pinky. I believe that one day cats will rule this planet. I once made a chimpanzee scare. Our friendship will be ridiculous, petulant, and full of hamburgers.",
+  "language": "en",
+  "matron": "10248@10",
+  "sire": "12222@17",
+  "children": [
+    "15413@19",
+    "18762@19",
+    "28432@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

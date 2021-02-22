@@ -1,0 +1,21 @@
+{
+  "id": 17465,
+  "name": "Sottapytty",
+  "generation": 9,
+  "created_at": "2017-11-30T14:46:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Sottapytty. I'm often referred to as the Peter Griffin of the group. I once got in a fight with a dolphin, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16267@7",
+  "sire": "16832@8",
+  "children": [
+    "20261@18",
+    "24206@10",
+    "24430@10",
+    "42566@20",
+    "99753@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

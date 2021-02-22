@@ -1,0 +1,19 @@
+{
+  "id": 17049,
+  "name": "LimeSoda",
+  "generation": 13,
+  "created_at": "2017-11-30T13:00:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm LimeSoda. I'm often referred to as the Cersei Lannister of the group. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I like your face.",
+  "language": "en",
+  "matron": "12101@11",
+  "sire": "5331@12",
+  "children": [
+    "35735@14",
+    "75434@14",
+    "88468@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

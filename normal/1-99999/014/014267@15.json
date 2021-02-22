@@ -1,0 +1,21 @@
+{
+  "id": 14267,
+  "name": "Rosy",
+  "generation": 15,
+  "created_at": "2017-11-30T01:30:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! Rosy here. I'm here to enjoy picking on mice and slappin' da bass. I once made a rhino enjoy. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8560@10",
+  "sire": "7322@14",
+  "children": [
+    "16415@16",
+    "19307@16",
+    "25342@17",
+    "86039@18",
+    "116552@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

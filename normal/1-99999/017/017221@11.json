@@ -1,0 +1,20 @@
+{
+  "id": 17221,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-30T13:43:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #17221. My friends describe me as petulant and seductive. I once cleaned a chimpanzee. I don't like to talk about it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "12325@10",
+  "sire": "10373@7",
+  "children": [
+    "17474@12",
+    "19047@14",
+    "20178@13",
+    "591691@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

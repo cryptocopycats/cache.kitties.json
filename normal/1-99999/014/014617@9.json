@@ -1,0 +1,22 @@
+{
+  "id": 14617,
+  "name": "Yellow Fever",
+  "generation": 9,
+  "created_at": "2017-11-30T03:01:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Yellow Fever. I've never told anyone this, but I once frolicked with a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "13906@7",
+  "sire": "12063@8",
+  "children": [
+    "16289@10",
+    "16865@10",
+    "17283@13",
+    "23625@10",
+    "26525@10",
+    "467642@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

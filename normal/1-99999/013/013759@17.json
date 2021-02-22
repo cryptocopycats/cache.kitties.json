@@ -1,0 +1,21 @@
+{
+  "id": 13759,
+  "name": "I'm Red-y",
+  "generation": 17,
+  "created_at": "2017-11-29T23:23:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm I'm Red-y. All you need to know about me is I hate hamburgers with a passion. When no one's home, I invite my pals over and we listen to Aretha Franklin. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "11030@2",
+  "sire": "11959@16",
+  "children": [
+    "15492@18",
+    "18715@18",
+    "38492@18",
+    "92802@18",
+    "316902@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

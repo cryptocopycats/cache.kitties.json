@@ -1,0 +1,22 @@
+{
+  "id": 12918,
+  "name": "Winx",
+  "generation": 13,
+  "created_at": "2017-11-29T19:59:56.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Winx. I'm a Private Dancer  by day, and I like running a podcast by night. My friends describe me as \"smelly.\" It's... accurate. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "12036@9",
+  "sire": "12588@12",
+  "children": [
+    "21414@18",
+    "66297@16",
+    "88734@14",
+    "90642@14",
+    "226867@14",
+    "298505@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

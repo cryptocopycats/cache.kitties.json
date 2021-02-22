@@ -1,0 +1,27 @@
+{
+  "id": 15321,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T06:12:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Gen2. I once peed on King Henry VIII's cat. They had it coming. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15264@1",
+  "sire": "2583@0",
+  "children": [
+    "15511@3",
+    "15568@3",
+    "15959@3",
+    "16166@3",
+    "19139@3",
+    "21774@3",
+    "25170@3",
+    "35644@3",
+    "52033@3",
+    "245624@3",
+    "314017@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

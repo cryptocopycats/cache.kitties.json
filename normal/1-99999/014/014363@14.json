@@ -1,0 +1,20 @@
+{
+  "id": 14363,
+  "name": "Gen14 Slow Squirrelish",
+  "generation": 14,
+  "created_at": "2017-11-30T01:51:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Gen14 Slow Squirrelish. I once peed on Amelia Earhart's cat. They had it coming. Some people say I'm the Cersei Lannister of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13838@13",
+  "sire": "8941@13",
+  "children": [
+    "17645@19",
+    "24155@16",
+    "29375@15",
+    "71806@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

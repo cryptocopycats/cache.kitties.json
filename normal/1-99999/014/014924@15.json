@@ -1,0 +1,19 @@
+{
+  "id": 14924,
+  "name": "Loki",
+  "generation": 15,
+  "created_at": "2017-11-30T04:25:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Loki. I enjoy reading garfield, breakdancing, and eating lasagna. In my free time, I can usually be found vegan or sleeping in fresh laundry. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "11585@14",
+  "sire": "12964@11",
+  "children": [
+    "20842@16",
+    "21440@16",
+    "48672@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

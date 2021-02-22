@@ -1,0 +1,21 @@
+{
+  "id": 13616,
+  "name": "Megatron",
+  "generation": 17,
+  "created_at": "2017-11-29T22:48:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Megatron. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Princess Diana. I like your face.",
+  "language": "en",
+  "matron": "10976@13",
+  "sire": "12624@16",
+  "children": [
+    "15364@18",
+    "20944@18",
+    "52137@18",
+    "53813@22",
+    "96984@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

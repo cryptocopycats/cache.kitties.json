@@ -1,0 +1,19 @@
+{
+  "id": 12589,
+  "name": "MeowMix",
+  "generation": 14,
+  "created_at": "2017-11-29T18:31:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm MeowMix. I want to live in a world where people believe that one day cats will rule this planet. I once headbutted a dolphin. I don't like to talk about it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "12278@13",
+  "sire": "10624@1",
+  "children": [
+    "13942@15",
+    "17041@15",
+    "26361@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

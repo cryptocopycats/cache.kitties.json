@@ -1,0 +1,23 @@
+{
+  "id": 16339,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-30T09:56:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #16339. All you need to know about me is I hate wet food with a passion. My friends describe me as \"fabulous.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15703@5",
+  "sire": "16015@7",
+  "children": [
+    "18667@9",
+    "18844@9",
+    "19141@9",
+    "20297@16",
+    "36949@15",
+    "52380@11",
+    "157782@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

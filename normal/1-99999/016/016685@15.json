@@ -1,0 +1,21 @@
+{
+  "id": 16685,
+  "name": "Beefcake",
+  "generation": 15,
+  "created_at": "2017-11-30T11:28:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Beefcake. I'm a Spin Instructor  by day, and I like riverdancing by night. Some people say I'm the Neville Longbottom of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12397@14",
+  "sire": "12964@11",
+  "children": [
+    "17846@16",
+    "21450@16",
+    "48740@16",
+    "62237@16",
+    "88251@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

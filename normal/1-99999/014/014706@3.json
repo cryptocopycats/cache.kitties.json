@@ -1,0 +1,29 @@
+{
+  "id": 14706,
+  "name": "G3 - Jupiter",
+  "generation": 3,
+  "created_at": "2017-11-30T03:21:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm G3 - Jupiter. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's pawty!",
+  "language": "en",
+  "matron": "6810@1",
+  "sire": "12065@2",
+  "children": [
+    "19683@11",
+    "28410@6",
+    "30802@11",
+    "31116@6",
+    "31545@4",
+    "41580@12",
+    "45536@14",
+    "60882@17",
+    "79532@15",
+    "87405@10",
+    "127965@5",
+    "291476@4",
+    "324382@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

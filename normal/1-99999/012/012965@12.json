@@ -1,0 +1,21 @@
+{
+  "id": 12965,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-11-29T20:08:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 12. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"fabulous.\" It's... accurate. Will you be the cinammon to my marmite?",
+  "language": "en",
+  "matron": "12695@2",
+  "sire": "12909@11",
+  "children": [
+    "13080@13",
+    "20508@16",
+    "23767@13",
+    "32713@18",
+    "49460@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

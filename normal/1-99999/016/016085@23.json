@@ -1,0 +1,18 @@
+{
+  "id": 16085,
+  "name": "Gen 23",
+  "generation": 23,
+  "created_at": "2017-11-30T08:56:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Gen 23. I want to live in a world where people believe the world is flat. I once bit a rhino. I don't like to talk about it. Will you be the pickles to my cinammon?",
+  "language": "en",
+  "matron": "11262@17",
+  "sire": "12348@22",
+  "children": [
+    "21865@24",
+    "41531@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

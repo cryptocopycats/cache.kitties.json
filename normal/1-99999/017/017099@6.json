@@ -1,0 +1,19 @@
+{
+  "id": 17099,
+  "name": "Fuzzinator | Gen 6",
+  "generation": 6,
+  "created_at": "2017-11-30T13:20:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Fuzzinator | Gen 6. I'm a Spin Instructor  by day, and I like practicing witchcraft by night. I once got in a fight with a rooster, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "16923@5",
+  "sire": "17046@5",
+  "children": [
+    "17210@7",
+    "17484@7",
+    "29763@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

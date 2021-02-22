@@ -1,0 +1,23 @@
+{
+  "id": 16027,
+  "name": "Gen 6 | Brisk | Cream",
+  "generation": 6,
+  "created_at": "2017-11-30T08:43:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Gen 6 | Brisk | Cream. I'm a professional Foreign Film Director and I love ice cream. I once frolicked with a goose. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16010@2",
+  "sire": "16012@5",
+  "children": [
+    "19433@14",
+    "19832@10",
+    "74297@8",
+    "83653@8",
+    "107088@7",
+    "116129@7",
+    "186561@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

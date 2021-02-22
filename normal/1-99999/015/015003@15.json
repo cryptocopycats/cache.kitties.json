@@ -1,0 +1,23 @@
+{
+  "id": 15003,
+  "name": "Cake",
+  "generation": 15,
+  "created_at": "2017-11-30T04:47:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Cake. I believe the world is flat. My secret indulgence is cantaloupe. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "14201@2",
+  "sire": "14718@14",
+  "children": [
+    "16014@16",
+    "18012@16",
+    "105243@16",
+    "109692@16",
+    "124349@22",
+    "308872@20",
+    "322651@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

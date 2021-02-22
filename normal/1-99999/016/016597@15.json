@@ -1,0 +1,20 @@
+{
+  "id": 16597,
+  "name": "Furry Friend",
+  "generation": 15,
+  "created_at": "2017-11-30T11:11:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Furry Friend. I want to live in a world where people believe the world is flat. When I'm not swiping right, I'm riverdancing! I like your face.",
+  "language": "en",
+  "matron": "14739@12",
+  "sire": "14877@14",
+  "children": [
+    "31627@17",
+    "33987@16",
+    "48732@17",
+    "82028@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

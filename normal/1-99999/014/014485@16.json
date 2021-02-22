@@ -1,0 +1,20 @@
+{
+  "id": 14485,
+  "name": "Dali",
+  "generation": 16,
+  "created_at": "2017-11-30T02:28:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Dali. In high school, I was voted biggest teacher's pet. I like to listen to Ace of Base while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "13041@9",
+  "sire": "14338@15",
+  "children": [
+    "16360@17",
+    "21785@17",
+    "26338@17",
+    "85316@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

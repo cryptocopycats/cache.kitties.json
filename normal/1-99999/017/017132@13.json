@@ -1,0 +1,22 @@
+{
+  "id": 17132,
+  "name": "Otaku 13",
+  "generation": 13,
+  "created_at": "2017-11-30T13:23:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Otaku 13. I'm often referred to as the Ron Weasley of the group. I once got in a fight with a chimpanzee, and won. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "16580@10",
+  "sire": "16364@12",
+  "children": [
+    "17733@14",
+    "18733@14",
+    "23175@14",
+    "41526@14",
+    "72351@20",
+    "85910@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

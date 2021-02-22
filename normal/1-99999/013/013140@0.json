@@ -1,0 +1,18 @@
+{
+  "id": 13140,
+  "name": "Luke Skywhisker",
+  "generation": 0,
+  "created_at": "2017-11-29T20:52:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's Luke Skywhisker. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "136561@1",
+    "143498@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

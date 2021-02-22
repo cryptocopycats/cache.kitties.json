@@ -1,0 +1,24 @@
+{
+  "id": 14537,
+  "name": "Fabulous Gene",
+  "generation": 13,
+  "created_at": "2017-11-30T02:39:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Fabulous Gene. I'm often referred to as the Neville Longbottom of the group. It's not common knowledge, but my ancestry connects me to Princess Diana. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13880@12",
+  "sire": "3751@8",
+  "children": [
+    "15064@14",
+    "19016@15",
+    "20362@14",
+    "33973@20",
+    "45806@18",
+    "107116@14",
+    "287240@14",
+    "417116@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

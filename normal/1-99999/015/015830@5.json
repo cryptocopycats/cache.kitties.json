@@ -1,0 +1,24 @@
+{
+  "id": 15830,
+  "name": "BarkBrown | Gen 5",
+  "generation": 5,
+  "created_at": "2017-11-30T08:06:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! BarkBrown | Gen 5 here. I'm here to enjoy riding unicorns and taking selfies. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Let's pawty!",
+  "language": "en",
+  "matron": "15475@3",
+  "sire": "5205@4",
+  "children": [
+    "48700@6",
+    "51488@6",
+    "66721@6",
+    "72240@6",
+    "85726@6",
+    "86702@6",
+    "102369@6",
+    "112060@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15838,
+  "name": "Spock #14",
+  "generation": 4,
+  "created_at": "2017-11-30T08:06:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Spock #14. I once peed on Marie Antoinette's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "15807@3",
+  "sire": "15725@2",
+  "children": [
+    "15906@6",
+    "16006@5",
+    "16362@6",
+    "93726@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

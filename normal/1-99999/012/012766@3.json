@@ -1,0 +1,21 @@
+{
+  "id": 12766,
+  "name": "BORING",
+  "generation": 3,
+  "created_at": "2017-11-29T19:15:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm BORING. I'm a professional Train Conductor and I love apple pie. My secret indulgence is steak. Our friendship will be wondrous, prickly, and full of cereal.",
+  "language": "en",
+  "matron": "6169@2",
+  "sire": "7282@1",
+  "children": [
+    "15296@14",
+    "17631@4",
+    "20874@4",
+    "24663@10",
+    "24732@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

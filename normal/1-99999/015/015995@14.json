@@ -1,0 +1,20 @@
+{
+  "id": 15995,
+  "name": "Stripes",
+  "generation": 14,
+  "created_at": "2017-11-30T08:36:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Stripes. In high school, I was voted most likely to work at NASA. I once made a rooster scare. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "14377@13",
+  "sire": "2578@0",
+  "children": [
+    "17568@15",
+    "18807@15",
+    "82616@19",
+    "248919@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

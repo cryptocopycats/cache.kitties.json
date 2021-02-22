@@ -1,0 +1,23 @@
+{
+  "id": 12526,
+  "name": "Red Apple Eye",
+  "generation": 11,
+  "created_at": "2017-11-29T18:24:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Red Apple Eye. I'm a Skydiving Instructor by day, and I like riding the bus by night. When no one's home, I invite my pals over and we listen to Gloria Estefan. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6078@1",
+  "sire": "5637@10",
+  "children": [
+    "12994@12",
+    "40316@14",
+    "45499@14",
+    "52840@12",
+    "72361@21",
+    "111319@12",
+    "313145@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

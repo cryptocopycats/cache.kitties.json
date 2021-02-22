@@ -1,0 +1,19 @@
+{
+  "id": 12700,
+  "name": "Kilior Sizz",
+  "generation": 14,
+  "created_at": "2017-11-29T18:44:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kilior Sizz. I'm a professional Mad Scientist and I love cereal. My friends describe me as \"wondrous.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11721@11",
+  "sire": "11865@13",
+  "children": [
+    "13889@15",
+    "39508@17",
+    "56668@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

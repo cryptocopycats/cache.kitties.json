@@ -1,0 +1,20 @@
+{
+  "id": 12357,
+  "name": "Muffin Pants",
+  "generation": 12,
+  "created_at": "2017-11-29T17:51:33.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Muffin Pants. I enjoy riding dirty, hitting on yo' man, and breakdancing. When I'm not running a podcast, I'm tricking babies! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12188@11",
+  "sire": "8302@11",
+  "children": [
+    "13371@15",
+    "13856@13",
+    "14855@13",
+    "139536@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

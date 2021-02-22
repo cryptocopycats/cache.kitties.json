@@ -1,0 +1,29 @@
+{
+  "id": 13336,
+  "name": "Unicorn Rider",
+  "generation": 2,
+  "created_at": "2017-11-29T21:46:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Unicorn Rider. All you need to know about me is I hate cereal with a passion. Sometimes I daydream of a life full of riding unicorns, salad, and playing chess. Let's get busy!",
+  "language": "en",
+  "matron": "1157@0",
+  "sire": "6616@1",
+  "children": [
+    "34635@3",
+    "72418@4",
+    "73317@4",
+    "74576@4",
+    "80899@3",
+    "103308@3",
+    "219930@3",
+    "230905@3",
+    "262739@3",
+    "290285@3",
+    "359032@3",
+    "395835@3",
+    "436521@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

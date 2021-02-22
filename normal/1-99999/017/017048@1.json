@@ -1,0 +1,29 @@
+{
+  "id": 17048,
+  "name": "Gen 1 Saycheese Purple",
+  "generation": 1,
+  "created_at": "2017-11-30T13:00:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Gen 1 Saycheese Purple. All you need to know about me is I hate hamburgers with a passion. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "12596@0",
+  "sire": "12360@0",
+  "children": [
+    "17081@14",
+    "19331@15",
+    "28101@12",
+    "44770@2",
+    "45628@2",
+    "48332@2",
+    "60641@2",
+    "62259@2",
+    "132333@2",
+    "196043@2",
+    "223744@2",
+    "254484@2",
+    "310739@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

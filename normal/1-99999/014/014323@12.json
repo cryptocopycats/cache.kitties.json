@@ -1,0 +1,19 @@
+{
+  "id": 14323,
+  "name": "Gen 12 breeding cat, Brisk!",
+  "generation": 12,
+  "created_at": "2017-11-30T01:41:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 12 breeding cat, Brisk!. I enjoy tripping my owner, watching Stranger Things, and taking selfies. I was voted school jock in college. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "12356@11",
+  "sire": "4153@7",
+  "children": [
+    "55628@14",
+    "114070@21",
+    "143565@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

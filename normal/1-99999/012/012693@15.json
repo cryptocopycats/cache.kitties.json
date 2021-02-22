@@ -1,0 +1,20 @@
+{
+  "id": 12693,
+  "name": "Gramps | 15 | Sluggish",
+  "generation": 15,
+  "created_at": "2017-11-29T18:44:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gramps | 15 | Sluggish. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5725@14",
+  "sire": "4478@10",
+  "children": [
+    "13487@16",
+    "20838@20",
+    "21055@16",
+    "29684@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

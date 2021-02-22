@@ -1,0 +1,23 @@
+{
+  "id": 12911,
+  "name": "Mauveover | Swamp | Mint | G9",
+  "generation": 9,
+  "created_at": "2017-11-29T19:58:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Mauveover | Swamp | Mint | G9. I believe the world is flat. I once frolicked with a rabbit. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12776@8",
+  "sire": "12600@8",
+  "children": [
+    "13139@10",
+    "13461@10",
+    "14595@10",
+    "19656@10",
+    "21314@10",
+    "58491@16",
+    "93323@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

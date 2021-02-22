@@ -1,0 +1,21 @@
+{
+  "id": 17148,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T13:25:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #17148. All you need to know about me is I hate apple pie with a passion. I was voted biggest teacher's pet in college. I like your face.",
+  "language": "en",
+  "matron": "12691@14",
+  "sire": "6337@5",
+  "children": [
+    "21878@16",
+    "23173@16",
+    "80554@16",
+    "110484@16",
+    "111433@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14385,
+  "name": "Like Clockwork",
+  "generation": 12,
+  "created_at": "2017-11-30T01:54:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Like Clockwork. In high school, I was voted most likely to work at NASA. I once got in a fight with a goose, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14096@2",
+  "sire": "14326@11",
+  "children": [
+    "14838@13",
+    "15362@13",
+    "22460@13",
+    "60234@20",
+    "92817@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

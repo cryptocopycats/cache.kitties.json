@@ -1,0 +1,25 @@
+{
+  "id": 16732,
+  "name": "G6 | 0++",
+  "generation": 6,
+  "created_at": "2017-11-30T11:37:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm G6 | 0++. I'm often referred to as the Cersei Lannister of the group. I once made a labradoodle grimace. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16593@5",
+  "sire": "16241@2",
+  "children": [
+    "16812@7",
+    "16940@7",
+    "17213@9",
+    "17670@8",
+    "19002@7",
+    "21164@7",
+    "36786@7",
+    "66565@7",
+    "97861@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

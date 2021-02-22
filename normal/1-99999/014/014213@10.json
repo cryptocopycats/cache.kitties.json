@@ -1,0 +1,17 @@
+{
+  "id": 14213,
+  "name": "Emerald",
+  "generation": 10,
+  "created_at": "2017-11-30T01:16:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Emerald. I'm often referred to as the Bart Simpson of the group. Sometimes I daydream of a life full of watching Stranger Things, ice cream, and riverdancing. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "11066@9",
+  "sire": "10615@5",
+  "children": [
+    "15751@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

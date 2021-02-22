@@ -1,0 +1,23 @@
+{
+  "id": 16386,
+  "name": "fab kitty",
+  "generation": 12,
+  "created_at": "2017-11-30T10:10:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm fab kitty. I'm often referred to as the Chandler Bing of the group. Sometimes I daydream of a life full of breakdancing, wet food, and people-watching. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "15545@10",
+  "sire": "6286@11",
+  "children": [
+    "18252@17",
+    "19445@15",
+    "22844@14",
+    "29538@13",
+    "45602@20",
+    "51051@13",
+    "202440@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

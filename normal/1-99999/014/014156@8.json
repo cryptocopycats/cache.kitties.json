@@ -1,0 +1,19 @@
+{
+  "id": 14156,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-30T01:05:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #14156. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is cereal. Our friendship will be hairy, tantalizing, and full of lasagna.",
+  "language": "en",
+  "matron": "13913@2",
+  "sire": "13916@7",
+  "children": [
+    "14313@18",
+    "15088@9",
+    "21044@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

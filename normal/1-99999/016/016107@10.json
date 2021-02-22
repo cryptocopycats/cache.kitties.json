@@ -1,0 +1,21 @@
+{
+  "id": 16107,
+  "name": "Gen 10 | Plodding",
+  "generation": 10,
+  "created_at": "2017-11-30T08:59:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Gen 10 | Plodding. I'm often referred to as the Marge Simpson of the group. My great-great-great-great-great-great grandkitty lived with King Henry VIII. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12920@9",
+  "sire": "11962@8",
+  "children": [
+    "16911@11",
+    "17448@13",
+    "24985@11",
+    "29887@19",
+    "65582@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

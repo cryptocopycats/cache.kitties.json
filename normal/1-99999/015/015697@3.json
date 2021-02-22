@@ -1,0 +1,29 @@
+{
+  "id": 15697,
+  "name": "Hoe",
+  "generation": 3,
+  "created_at": "2017-11-30T07:35:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Hoe. In high school, I was voted biggest teacher's pet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5486@2",
+  "sire": "4043@2",
+  "children": [
+    "36580@4",
+    "36946@4",
+    "37291@4",
+    "37857@6",
+    "39102@4",
+    "40777@4",
+    "71514@4",
+    "77762@4",
+    "88798@4",
+    "105809@4",
+    "124958@4",
+    "189024@4",
+    "301497@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

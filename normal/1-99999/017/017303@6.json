@@ -1,0 +1,20 @@
+{
+  "id": 17303,
+  "name": "Gen 6 Skyblue",
+  "generation": 6,
+  "created_at": "2017-11-30T14:01:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen 6 Skyblue. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Let's pawty!",
+  "language": "en",
+  "matron": "16923@5",
+  "sire": "17137@5",
+  "children": [
+    "26997@7",
+    "32809@8",
+    "33534@9",
+    "71745@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

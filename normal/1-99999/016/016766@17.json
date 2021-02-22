@@ -1,0 +1,20 @@
+{
+  "id": 16766,
+  "name": "Ashley, the Nicest Cat",
+  "generation": 17,
+  "created_at": "2017-11-30T11:45:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Ashley, the Nicest Cat. I'm a professional Private Dancer  and I love apple pie. Sometimes I daydream of a life full of picking flowers, ice cream, and swiping left. Let's get busy!",
+  "language": "en",
+  "matron": "14315@12",
+  "sire": "14431@16",
+  "children": [
+    "19529@18",
+    "23257@18",
+    "48743@18",
+    "106021@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

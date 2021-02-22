@@ -1,0 +1,23 @@
+{
+  "id": 12129,
+  "name": "Duncan",
+  "generation": 13,
+  "created_at": "2017-11-29T14:29:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Duncan. I want to live in a world where people believe the world is flat. I like to listen to Rihanna while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5373@11",
+  "sire": "8755@12",
+  "children": [
+    "13389@15",
+    "13505@16",
+    "15171@15",
+    "17488@14",
+    "28918@14",
+    "86879@16",
+    "112939@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

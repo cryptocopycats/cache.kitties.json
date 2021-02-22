@@ -1,0 +1,22 @@
+{
+  "id": 12697,
+  "name": "Horatio",
+  "generation": 11,
+  "created_at": "2017-11-29T18:44:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! My name's Horatio. I once peed on Amelia Earhart's cat. They had it coming. I once got in a fight with a rabbit, and won. I look forward to hitting on yo' man with you.",
+  "language": "en",
+  "matron": "11525@10",
+  "sire": "11441@9",
+  "children": [
+    "14142@12",
+    "14691@12",
+    "16054@12",
+    "18505@12",
+    "23036@12",
+    "226730@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

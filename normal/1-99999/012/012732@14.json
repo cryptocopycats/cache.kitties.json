@@ -1,0 +1,21 @@
+{
+  "id": 12732,
+  "name": "David J",
+  "generation": 14,
+  "created_at": "2017-11-29T19:00:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm David J. I've never told anyone this, but I once groomed a dog. I once made a rhino sulk. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11375@8",
+  "sire": "12221@13",
+  "children": [
+    "40523@15",
+    "52504@18",
+    "70384@15",
+    "229515@20",
+    "325265@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 16241,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-11-30T09:30:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G2. I enjoy spinning sick beats, chasing red dots, and sitting on your computer. In my free time, I can usually be found fabulous or running a podcast. I like your face.",
+  "language": "en",
+  "matron": "14651@1",
+  "sire": "14440@1",
+  "children": [
+    "16341@3",
+    "16402@3",
+    "16452@3",
+    "16664@5",
+    "16732@6",
+    "17536@5",
+    "18577@5",
+    "20394@3",
+    "42069@3",
+    "136767@3",
+    "195730@3",
+    "400977@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13490,
+  "name": "MewMew Oh Meow Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-29T22:21:58.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm MewMew Oh Meow Gen 1. I've never told anyone this, but I once loved a dog. In my free time, I can usually be found vegan or jump-roping. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "2756@0",
+  "sire": "2738@0",
+  "children": [
+    "13512@2",
+    "96076@2",
+    "97755@2",
+    "135248@7",
+    "276618@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

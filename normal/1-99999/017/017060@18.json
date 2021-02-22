@@ -1,0 +1,18 @@
+{
+  "id": 17060,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-30T13:03:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Kitty #17060. I once peed on Amelia Earhart's cat. They had it coming. I am 88% hobbit, 99% Dogwalker, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "8909@16",
+  "sire": "8821@17",
+  "children": [
+    "28803@19",
+    "28883@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

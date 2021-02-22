@@ -1,0 +1,18 @@
+{
+  "id": 16253,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-30T09:32:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kitty #16253. I've never told anyone this, but I once snuggled a dog. I once got in a fight with a chimpanzee, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11527@11",
+  "sire": "15667@15",
+  "children": [
+    "20197@17",
+    "23640@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

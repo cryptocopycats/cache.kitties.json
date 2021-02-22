@@ -1,0 +1,21 @@
+{
+  "id": 16165,
+  "name": "Alucard",
+  "generation": 15,
+  "created_at": "2017-11-30T09:15:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Alucard. I believe the world is flat. I like to listen to Ace of Base while grooming. Don't judge me. Will you be the maple syrup to my wasabi?",
+  "language": "en",
+  "matron": "14670@9",
+  "sire": "13912@14",
+  "children": [
+    "16610@16",
+    "22570@16",
+    "28707@16",
+    "45635@17",
+    "95525@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

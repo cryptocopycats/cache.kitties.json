@@ -1,0 +1,24 @@
+{
+  "id": 14955,
+  "name": "Old# Low Gen 10-Scarlet parent",
+  "generation": 10,
+  "created_at": "2017-11-30T04:32:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Old# Low Gen 10-Scarlet parent. I'm often referred to as the Samwise Gamgee of the group. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "14421@9",
+  "sire": "9421@8",
+  "children": [
+    "36858@11",
+    "38729@11",
+    "54593@16",
+    "59965@11",
+    "86469@11",
+    "92370@14",
+    "163088@13",
+    "377610@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

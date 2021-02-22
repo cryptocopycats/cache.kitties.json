@@ -1,0 +1,26 @@
+{
+  "id": 14662,
+  "name": "Slow | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T03:08:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Slow | Gen 3. I've never told anyone this, but I once groomed a dog. I once made a goose leap. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "14459@2",
+  "sire": "5364@2",
+  "children": [
+    "18684@4",
+    "20308@4",
+    "20649@4",
+    "25889@4",
+    "26272@4",
+    "26314@4",
+    "30778@4",
+    "32158@4",
+    "49273@4",
+    "105208@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

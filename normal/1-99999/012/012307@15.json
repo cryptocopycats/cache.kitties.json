@@ -1,0 +1,18 @@
+{
+  "id": 12307,
+  "name": "15",
+  "generation": 15,
+  "created_at": "2017-11-29T16:40:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm 15. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Will you be the pickles to my marmalade?",
+  "language": "en",
+  "matron": "11344@6",
+  "sire": "11512@14",
+  "children": [
+    "13338@16",
+    "42704@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

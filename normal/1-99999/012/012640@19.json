@@ -1,0 +1,18 @@
+{
+  "id": 12640,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-11-29T18:38:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 19. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Princess Diana. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10685@18",
+  "sire": "8139@11",
+  "children": [
+    "67318@20",
+    "112729@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

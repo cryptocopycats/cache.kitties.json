@@ -1,0 +1,20 @@
+{
+  "id": 16956,
+  "name": "Creamsicle",
+  "generation": 15,
+  "created_at": "2017-11-30T12:41:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Creamsicle. I want to live in a world where people believe the world is flat. I like to listen to Metallica while grooming. Don't judge me. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "12702@14",
+  "sire": "14950@14",
+  "children": [
+    "21448@16",
+    "38120@16",
+    "48753@18",
+    "74839@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

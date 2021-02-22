@@ -1,0 +1,22 @@
+{
+  "id": 15099,
+  "name": "Starter",
+  "generation": 7,
+  "created_at": "2017-11-30T05:14:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Starter. I'm a Dispensary Clerk by day, and I like jump-roping by night. Sometimes I daydream of a life full of grooming, cereal, and braiding people's hair. Will you be the marmite to my garlic butter?",
+  "language": "en",
+  "matron": "2731@0",
+  "sire": "3809@6",
+  "children": [
+    "15330@8",
+    "15579@12",
+    "16288@8",
+    "48676@8",
+    "55595@8",
+    "60204@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

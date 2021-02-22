@@ -1,0 +1,22 @@
+{
+  "id": 12573,
+  "name": "Alfred Lord Tennyson",
+  "generation": 13,
+  "created_at": "2017-11-29T18:30:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Alfred Lord Tennyson. All you need to know about me is I hate apple pie with a passion. Some people say I'm the Cersei Lannister of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10421@10",
+  "sire": "12237@12",
+  "children": [
+    "13120@14",
+    "13581@14",
+    "17251@14",
+    "21923@14",
+    "45458@16",
+    "98653@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

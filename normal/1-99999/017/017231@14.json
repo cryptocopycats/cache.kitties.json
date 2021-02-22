@@ -1,0 +1,21 @@
+{
+  "id": 17231,
+  "name": "Orthodontist",
+  "generation": 14,
+  "created_at": "2017-11-30T13:45:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! Orthodontist here. I'm here to enjoy tripping my owner and licking doorknobs. I was voted most likely to work at NASA in college. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "10004@12",
+  "sire": "9145@13",
+  "children": [
+    "18452@15",
+    "20622@16",
+    "25591@20",
+    "45633@15",
+    "73906@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

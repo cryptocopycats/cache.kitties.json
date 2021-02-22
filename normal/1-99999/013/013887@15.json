@@ -1,0 +1,21 @@
+{
+  "id": 13887,
+  "name": "Coffee",
+  "generation": 15,
+  "created_at": "2017-11-30T00:07:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Coffee. I'm a Spin Instructor  by day, and I like pole dancing by night. My secret indulgence is cantaloupe. Our friendship will be vegan, brilliant, and full of ice cream.",
+  "language": "en",
+  "matron": "12559@14",
+  "sire": "12445@13",
+  "children": [
+    "16314@16",
+    "22626@18",
+    "23120@16",
+    "43520@16",
+    "245771@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

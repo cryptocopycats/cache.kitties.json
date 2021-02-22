@@ -1,0 +1,18 @@
+{
+  "id": 17408,
+  "name": "Cue Ball | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T14:32:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Cue Ball | Gen 3. I've never told anyone this, but I once cleaned a dog. Some people say I'm the Hermione Granger of the group. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "15930@2",
+  "sire": "16943@2",
+  "children": [
+    "17546@4",
+    "18609@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

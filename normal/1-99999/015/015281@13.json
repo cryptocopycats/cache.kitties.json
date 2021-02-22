@@ -1,0 +1,19 @@
+{
+  "id": 15281,
+  "name": "13",
+  "generation": 13,
+  "created_at": "2017-11-30T06:01:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm 13. I've never told anyone this, but I once loved a dog. I like to listen to Frank Sinatra while grooming. Don't judge me. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "7858@12",
+  "sire": "13910@12",
+  "children": [
+    "24024@21",
+    "25428@14",
+    "65741@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13920,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-30T00:13:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Kitty #13920. I enjoy spinning sick beats, tricking babies, and glaring at the neighbour's cat. I put ranch dressing on everything. Like, everything: hot dogs, cantaloupe—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "11543@13",
+  "sire": "7864@10",
+  "children": [
+    "15113@16",
+    "66862@18",
+    "221033@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

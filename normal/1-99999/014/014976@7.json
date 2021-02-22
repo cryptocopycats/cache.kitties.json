@@ -1,0 +1,25 @@
+{
+  "id": 14976,
+  "name": "Elmira Gen 7",
+  "generation": 7,
+  "created_at": "2017-11-30T04:39:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Elmira Gen 7. My friends describe me as hairy and seductive. I like to listen to Ace of Base while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "14712@4",
+  "sire": "10843@6",
+  "children": [
+    "15018@13",
+    "15159@8",
+    "15388@16",
+    "15981@18",
+    "17773@10",
+    "20997@16",
+    "71369@8",
+    "188447@8",
+    "296033@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

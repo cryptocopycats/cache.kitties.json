@@ -1,0 +1,20 @@
+{
+  "id": 13569,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-29T22:36:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #13569. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I like your face.",
+  "language": "en",
+  "matron": "12070@16",
+  "sire": "1201@0",
+  "children": [
+    "18690@18",
+    "55896@20",
+    "96662@20",
+    "333364@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

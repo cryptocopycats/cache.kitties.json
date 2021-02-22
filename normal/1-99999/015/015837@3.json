@@ -1,0 +1,19 @@
+{
+  "id": 15837,
+  "name": "Bootie - Spock",
+  "generation": 3,
+  "created_at": "2017-11-30T08:06:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Bootie - Spock. All you need to know about me is I hate cereal with a passion. I once got in a fight with a dolphin, and won. Let's pawty!",
+  "language": "en",
+  "matron": "15799@2",
+  "sire": "13382@2",
+  "children": [
+    "15888@4",
+    "19083@4",
+    "19201@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

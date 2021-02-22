@@ -1,0 +1,23 @@
+{
+  "id": 15569,
+  "name": "gen 4",
+  "generation": 4,
+  "created_at": "2017-11-30T07:11:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm gen 4. All you need to know about me is I hate wet food with a passion. I once made a gecko sulk. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15465@3",
+  "sire": "4024@3",
+  "children": [
+    "15646@5",
+    "15889@5",
+    "18360@7",
+    "19023@6",
+    "29394@7",
+    "40037@5",
+    "52280@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

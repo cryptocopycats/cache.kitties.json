@@ -1,0 +1,22 @@
+{
+  "id": 16387,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-30T10:10:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #16387. I'm a Dispensary Clerk by day, and I like running a podcast by night. I put wasabi on everything. Like, everything: hot dogs, salad—everything! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16010@2",
+  "sire": "14967@11",
+  "children": [
+    "18940@15",
+    "20254@13",
+    "22842@18",
+    "110349@15",
+    "172501@17",
+    "241829@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 14520,
+  "name": "Harley's Kitty!",
+  "generation": 14,
+  "created_at": "2017-11-30T02:37:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Harley's Kitty!. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to be on Oprah. I like your face.",
+  "language": "en",
+  "matron": "11080@13",
+  "sire": "11406@12",
+  "children": [
+    "15898@15",
+    "51599@15",
+    "58594@15",
+    "92863@15",
+    "113052@16",
+    "745252@17",
+    "754119@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

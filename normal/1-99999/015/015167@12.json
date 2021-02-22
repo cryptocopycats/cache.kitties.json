@@ -1,0 +1,21 @@
+{
+  "id": 15167,
+  "name": "Simba (RARE)",
+  "generation": 12,
+  "created_at": "2017-11-30T05:30:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Simba (RARE). In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "9580@5",
+  "sire": "11208@11",
+  "children": [
+    "18056@15",
+    "55428@15",
+    "62863@13",
+    "72408@13",
+    "115619@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

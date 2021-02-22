@@ -1,0 +1,29 @@
+{
+  "id": 13075,
+  "name": "Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-29T20:34:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Gen 1. All you need to know about me is I hate hamburgers with a passion. I put garlic butter on everything. Like, everything: hot dogs, chocolate—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1392@0",
+  "sire": "1127@0",
+  "children": [
+    "13104@14",
+    "13174@2",
+    "13448@14",
+    "13682@4",
+    "13873@10",
+    "14000@8",
+    "15121@16",
+    "17360@7",
+    "20425@11",
+    "21692@11",
+    "41344@7",
+    "72827@2",
+    "279520@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

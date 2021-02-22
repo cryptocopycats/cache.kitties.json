@@ -1,0 +1,19 @@
+{
+  "id": 16790,
+  "name": "Starter Kitty",
+  "generation": 13,
+  "created_at": "2017-11-30T11:52:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Starter Kitty. All you need to know about me is I hate cereal with a passion. In my free time, I can usually be found ridiculous or reading Danielle Steele. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14882@12",
+  "sire": "4467@9",
+  "children": [
+    "17813@14",
+    "50275@14",
+    "74931@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

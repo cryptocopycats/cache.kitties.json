@@ -1,0 +1,21 @@
+{
+  "id": 12657,
+  "name": "Ronnie",
+  "generation": 15,
+  "created_at": "2017-11-29T18:38:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Ronnie. I enjoy sweating through my feet, sitting on your computer, and tricking babies. Some people say I'm the Ron Weasley of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5833@12",
+  "sire": "8582@14",
+  "children": [
+    "17945@17",
+    "18558@16",
+    "49410@19",
+    "88165@19",
+    "103051@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

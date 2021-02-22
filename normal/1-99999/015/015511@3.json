@@ -1,0 +1,26 @@
+{
+  "id": 15511,
+  "name": "Gen3 Emeraldgreen",
+  "generation": 3,
+  "created_at": "2017-11-30T07:00:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen3 Emeraldgreen. I believe the world is flat. When I'm not reading Danielle Steele, I'm swiping right! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15321@2",
+  "sire": "15489@2",
+  "children": [
+    "15617@4",
+    "15687@4",
+    "15765@4",
+    "16018@4",
+    "16297@4",
+    "18904@4",
+    "20657@4",
+    "33529@4",
+    "67952@8",
+    "89961@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

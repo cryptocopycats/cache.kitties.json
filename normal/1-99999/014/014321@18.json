@@ -1,0 +1,18 @@
+{
+  "id": 14321,
+  "name": "Yellowbrow",
+  "generation": 18,
+  "created_at": "2017-11-30T01:41:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Yellowbrow. I've never told anyone this, but I once bit a dog. My friends describe me as \"preposterous.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "6944@14",
+  "sire": "9721@17",
+  "children": [
+    "74006@19",
+    "125677@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

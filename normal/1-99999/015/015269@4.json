@@ -1,0 +1,21 @@
+{
+  "id": 15269,
+  "name": "Schrödinger",
+  "generation": 4,
+  "created_at": "2017-11-30T05:58:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Schrödinger. I'm a professional Skydiving Instructor and I love hamburgers. I like to listen to Rihanna while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "3863@2",
+  "sire": "4004@3",
+  "children": [
+    "15357@14",
+    "15484@5",
+    "15650@8",
+    "18886@9",
+    "23669@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

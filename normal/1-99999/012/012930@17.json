@@ -1,0 +1,21 @@
+{
+  "id": 12930,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-29T20:02:47.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #12930. I'm a Aerobics Athlete  by day, and I like riding the bus by night. My secret indulgence is steak. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "11850@14",
+  "sire": "11732@16",
+  "children": [
+    "15016@18",
+    "19121@18",
+    "24792@18",
+    "57554@18",
+    "161937@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

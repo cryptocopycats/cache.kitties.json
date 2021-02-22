@@ -1,0 +1,18 @@
+{
+  "id": 12504,
+  "name": "Starter Kitty",
+  "generation": 19,
+  "created_at": "2017-11-29T18:20:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Starter Kitty. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "9616@18",
+  "sire": "9618@15",
+  "children": [
+    "35543@20",
+    "279313@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17254,
+  "name": "Cat Face Killah",
+  "generation": 8,
+  "created_at": "2017-11-30T13:51:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! I'm Cat Face Killah. I'm a professional Skydiving Instructor and I love apple pie. In my free time, I can usually be found prickly or running a podcast. Let's pawty!",
+  "language": "en",
+  "matron": "16781@7",
+  "sire": "17004@7",
+  "children": [
+    "17398@9",
+    "19043@10",
+    "37533@9",
+    "43781@11",
+    "48899@11",
+    "73296@17",
+    "95032@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

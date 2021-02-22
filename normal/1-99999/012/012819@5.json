@@ -1,0 +1,22 @@
+{
+  "id": 12819,
+  "name": "Cat",
+  "generation": 5,
+  "created_at": "2017-11-29T19:47:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! Cat here. I'm here to enjoy reading garfield and chasing red dots. I would give it all up to star in a soap opera. Will you be the ranch dressing to my maple syrup?",
+  "language": "en",
+  "matron": "12675@3",
+  "sire": "12723@4",
+  "children": [
+    "12988@7",
+    "13088@6",
+    "13254@6",
+    "14031@6",
+    "44333@6",
+    "49444@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

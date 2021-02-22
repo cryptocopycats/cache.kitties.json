@@ -1,0 +1,21 @@
+{
+  "id": 13238,
+  "name": "GenTen",
+  "generation": 10,
+  "created_at": "2017-11-29T21:17:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! GenTen here. I'm here to enjoy fighting the patriarchy and taking selfies. I once groomed a rooster. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13092@9",
+  "sire": "12019@8",
+  "children": [
+    "13762@11",
+    "14136@11",
+    "16082@15",
+    "16266@11",
+    "60796@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

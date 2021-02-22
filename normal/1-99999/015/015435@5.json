@@ -1,0 +1,20 @@
+{
+  "id": 15435,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-30T06:44:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! My name's Kitty #15435. I once peed on Amelia Earhart's cat. They had it coming. I once made a rooster scare. I like your face.",
+  "language": "en",
+  "matron": "12730@4",
+  "sire": "6865@2",
+  "children": [
+    "16002@7",
+    "16608@15",
+    "19486@12",
+    "20260@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

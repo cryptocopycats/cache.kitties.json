@@ -1,0 +1,20 @@
+{
+  "id": 15377,
+  "name": "Gen 14 Aquamarine Lemonade",
+  "generation": 14,
+  "created_at": "2017-11-30T06:28:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 14 Aquamarine Lemonade. I've never told anyone this, but I once pranced with a dog. My secret indulgence is chocolate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "11435@13",
+  "sire": "1432@0",
+  "children": [
+    "39633@15",
+    "51194@15",
+    "58078@15",
+    "131826@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

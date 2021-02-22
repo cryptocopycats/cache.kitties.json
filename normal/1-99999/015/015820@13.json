@@ -1,0 +1,20 @@
+{
+  "id": 15820,
+  "name": "Cattitude",
+  "generation": 13,
+  "created_at": "2017-11-30T08:01:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Cattitude. My friends describe me as voluptuous and ridiculous. I once got in a fight with a rooster, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10671@12",
+  "sire": "13862@1",
+  "children": [
+    "16969@14",
+    "17923@14",
+    "20188@14",
+    "52604@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15471,
+  "name": "Cumberbatch",
+  "generation": 7,
+  "created_at": "2017-11-30T06:49:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Cumberbatch. I'm often referred to as the Marge Simpson of the group. I once made a gecko drink. Our friendship will be prickly, ridiculous, and full of hamburgers.",
+  "language": "en",
+  "matron": "4036@4",
+  "sire": "15415@6",
+  "children": [
+    "15650@8",
+    "17722@16",
+    "19741@16",
+    "292768@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

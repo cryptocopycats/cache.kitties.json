@@ -1,0 +1,19 @@
+{
+  "id": 16227,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-30T09:27:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #16227. I've never told anyone this, but I once tricked a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. I like your face.",
+  "language": "en",
+  "matron": "11631@7",
+  "sire": "14696@15",
+  "children": [
+    "20240@17",
+    "23410@17",
+    "51157@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

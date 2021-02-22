@@ -1,0 +1,19 @@
+{
+  "id": 15922,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-30T08:19:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #15922. I enjoy reciting poetry, tripping my owner, and chasing string. When no one's home, I invite my pals over and we listen to Metallica. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "10707@3",
+  "sire": "12730@4",
+  "children": [
+    "16053@7",
+    "21979@18",
+    "86840@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

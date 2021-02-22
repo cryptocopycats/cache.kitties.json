@@ -1,0 +1,18 @@
+{
+  "id": 17124,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-11-30T13:23:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #17124. All you need to know about me is I hate apple pie with a passion. I like to listen to Michael Bolton while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15635@13",
+  "sire": "16203@19",
+  "children": [
+    "19921@21",
+    "39426@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 13636,
+  "name": "Breed to Jaguar",
+  "generation": 6,
+  "created_at": "2017-11-29T22:52:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Breed to Jaguar. All you need to know about me is I hate ice cream with a passion. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "8436@5",
+  "sire": "7903@5",
+  "children": [
+    "17768@12",
+    "17960@15",
+    "25259@10",
+    "26013@7",
+    "55018@19",
+    "62292@7",
+    "72719@7",
+    "123711@8",
+    "184236@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

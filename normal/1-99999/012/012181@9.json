@@ -1,0 +1,24 @@
+{
+  "id": 12181,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-29T14:46:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! Kitty #12181 here. I'm here to enjoy eating until I loathe myself and picking on mice. I once made a chimpanzee leap. I like your face.",
+  "language": "en",
+  "matron": "12089@8",
+  "sire": "12037@6",
+  "children": [
+    "12544@10",
+    "12685@10",
+    "13534@10",
+    "13755@10",
+    "15634@14",
+    "28504@19",
+    "34920@14",
+    "66897@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

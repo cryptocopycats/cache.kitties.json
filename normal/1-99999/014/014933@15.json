@@ -1,0 +1,19 @@
+{
+  "id": 14933,
+  "name": "Mint Cocoa",
+  "generation": 15,
+  "created_at": "2017-11-30T04:26:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Mint Cocoa. I believe the world is flat. Some people say I'm the Jon Snow of the group. Let's get busy!",
+  "language": "en",
+  "matron": "9850@12",
+  "sire": "6540@14",
+  "children": [
+    "16246@16",
+    "22003@19",
+    "48906@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

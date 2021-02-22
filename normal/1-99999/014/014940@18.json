@@ -1,0 +1,21 @@
+{
+  "id": 14940,
+  "name": "After Dinner Mint",
+  "generation": 18,
+  "created_at": "2017-11-30T04:28:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm After Dinner Mint. I'm often referred to as the Frodo Baggins of the group. My secret indulgence is ice cream. Our friendship will be gorgeous, seductive, and full of chocolate.",
+  "language": "en",
+  "matron": "11064@12",
+  "sire": "10142@17",
+  "children": [
+    "15493@19",
+    "25015@19",
+    "50975@19",
+    "65573@19",
+    "167345@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

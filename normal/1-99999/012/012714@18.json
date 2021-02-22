@@ -1,0 +1,19 @@
+{
+  "id": 12714,
+  "name": "Sweetie",
+  "generation": 18,
+  "created_at": "2017-11-29T18:54:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Sweetie. I believe the world is flat. Some people say I'm the Peter Griffin of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8664@17",
+  "sire": "9893@17",
+  "children": [
+    "16760@19",
+    "22766@19",
+    "24486@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

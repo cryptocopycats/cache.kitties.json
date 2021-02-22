@@ -1,0 +1,17 @@
+{
+  "id": 17311,
+  "name": "'; DROP TABLE students;--",
+  "generation": 14,
+  "created_at": "2017-11-30T14:02:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm '; DROP TABLE students;--. I've never told anyone this, but I once clawed a dog. When no one's home, I invite my pals over and we listen to Ace of Base. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "12318@1",
+  "sire": "17116@13",
+  "children": [
+    "19619@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12412,
+  "name": "12412",
+  "generation": 14,
+  "created_at": "2017-11-29T17:56:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm 12412. I'm often referred to as the Frodo Baggins of the group. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Let's pawty!",
+  "language": "en",
+  "matron": "11701@4",
+  "sire": "6852@13",
+  "children": [
+    "13405@15",
+    "13757@15",
+    "19140@17",
+    "31280@16",
+    "55578@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

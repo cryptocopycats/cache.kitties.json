@@ -1,0 +1,18 @@
+{
+  "id": 13986,
+  "name": "Marla",
+  "generation": 19,
+  "created_at": "2017-11-30T00:28:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Marla. I'm often referred to as the Samwise Gamgee of the group. When I'm not swiping right, I'm reading Danielle Steele! Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "9685@18",
+  "sire": "8836@13",
+  "children": [
+    "18246@20",
+    "51797@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

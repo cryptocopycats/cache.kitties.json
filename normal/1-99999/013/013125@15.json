@@ -1,0 +1,20 @@
+{
+  "id": 13125,
+  "name": "Gen15 Slow",
+  "generation": 15,
+  "created_at": "2017-11-29T20:45:57.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Gen15 Slow. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found prank-calling celebrities all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11999@6",
+  "sire": "12770@14",
+  "children": [
+    "14049@16",
+    "18486@16",
+    "60295@16",
+    "91990@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

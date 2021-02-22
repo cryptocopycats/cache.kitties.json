@@ -1,0 +1,19 @@
+{
+  "id": 16098,
+  "name": "Lime and Lemon",
+  "generation": 9,
+  "created_at": "2017-11-30T08:57:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! My name's Lime and Lemon. I once peed on Cleopatra's cat. They had it coming. I am 61% oracle, 99% Mad Scientist, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12026@8",
+  "sire": "12029@8",
+  "children": [
+    "16206@10",
+    "37018@12",
+    "77990@10"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

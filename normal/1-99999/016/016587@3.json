@@ -1,0 +1,19 @@
+{
+  "id": 16587,
+  "name": "Tounge G3",
+  "generation": 3,
+  "created_at": "2017-11-30T11:09:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Tounge G3. I'm often referred to as the Michael Scott of the group. I am 76% sphinx, 51% Ventriloquist, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10260@2",
+  "sire": "10262@2",
+  "children": [
+    "16631@12",
+    "23117@4",
+    "48963@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

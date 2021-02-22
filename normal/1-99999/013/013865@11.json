@@ -1,0 +1,22 @@
+{
+  "id": 13865,
+  "name": "Biscuits G11",
+  "generation": 11,
+  "created_at": "2017-11-29T23:55:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Biscuits G11. In high school, I was voted school jock. I put cinammon on everything. Like, everything: hot dogs, wet food—everything! Let's pawty!",
+  "language": "en",
+  "matron": "4086@8",
+  "sire": "12662@10",
+  "children": [
+    "16853@12",
+    "17569@12",
+    "18751@12",
+    "21050@12",
+    "45502@12",
+    "74888@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

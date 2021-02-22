@@ -1,0 +1,27 @@
+{
+  "id": 13539,
+  "name": "Gen4 | Plod",
+  "generation": 4,
+  "created_at": "2017-11-29T22:29:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Gen4 | Plod. I believe the world is flat. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13289@2",
+  "sire": "13290@3",
+  "children": [
+    "13669@5",
+    "15800@5",
+    "16358@9",
+    "17334@9",
+    "17926@7",
+    "42211@5",
+    "53469@5",
+    "64151@5",
+    "76732@5",
+    "106660@5",
+    "223623@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

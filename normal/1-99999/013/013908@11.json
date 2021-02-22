@@ -1,0 +1,18 @@
+{
+  "id": 13908,
+  "name": "Gen 11",
+  "generation": 11,
+  "created_at": "2017-11-30T00:13:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Gen 11. I've never told anyone this, but I once frolicked with a dog. In my free time, I can usually be found gorgeous or pole dancing. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13093@10",
+  "sire": "11881@5",
+  "children": [
+    "16544@13",
+    "16976@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

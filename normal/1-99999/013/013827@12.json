@@ -1,0 +1,19 @@
+{
+  "id": 13827,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-29T23:44:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #13827. My friends describe me as brilliant and seductive. My friends describe me as \"smelly.\" It's... accurate. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "1392@0",
+  "sire": "13347@11",
+  "children": [
+    "14310@13",
+    "15369@13",
+    "64337@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

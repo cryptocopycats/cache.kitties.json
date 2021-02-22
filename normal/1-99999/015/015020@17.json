@@ -1,0 +1,20 @@
+{
+  "id": 15020,
+  "name": "Bazsalikom",
+  "generation": 17,
+  "created_at": "2017-11-30T04:50:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Bazsalikom. I'm a professional Private Dancer  and I love lasagna. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "12701@11",
+  "sire": "13788@16",
+  "children": [
+    "19556@18",
+    "53930@18",
+    "61336@18",
+    "110647@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

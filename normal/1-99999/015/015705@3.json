@@ -1,0 +1,25 @@
+{
+  "id": 15705,
+  "name": "B15",
+  "generation": 3,
+  "created_at": "2017-11-30T07:39:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm B15. I've never told anyone this, but I once pawed at a dog. Some people say I'm the Homer Simpson of the group. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "15580@2",
+  "sire": "15593@2",
+  "children": [
+    "17014@15",
+    "17395@7",
+    "17560@14",
+    "66368@4",
+    "69612@5",
+    "159612@4",
+    "165535@4",
+    "197871@4",
+    "254787@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

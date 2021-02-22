@@ -1,0 +1,22 @@
+{
+  "id": 13599,
+  "name": "Robert Downey Jr.",
+  "generation": 2,
+  "created_at": "2017-11-29T22:48:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Robert Downey Jr.. I enjoy sweating through my feet, watching Stranger Things, and taking selfies. I once got in a fight with a rooster, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11799@1",
+  "sire": "9227@1",
+  "children": [
+    "13645@15",
+    "13700@3",
+    "13802@5",
+    "20214@3",
+    "102304@3",
+    "159667@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 15674,
+  "name": "Groost",
+  "generation": 6,
+  "created_at": "2017-11-30T07:33:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! Groost here. I'm here to enjoy hitting on yo' man and breakdancing. I once made a chimpanzee kiss. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12908@0",
+  "sire": "15598@5",
+  "children": [
+    "15839@7",
+    "16738@14",
+    "18013@14",
+    "21830@13",
+    "44877@21",
+    "55067@19",
+    "68415@21",
+    "200776@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

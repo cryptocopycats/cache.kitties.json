@@ -1,0 +1,22 @@
+{
+  "id": 15735,
+  "name": "Bella",
+  "generation": 6,
+  "created_at": "2017-11-30T07:42:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Bella. My friends describe me as vegan and wondrous. I once made a labradoodle sulk. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "13175@3",
+  "sire": "13669@5",
+  "children": [
+    "15824@7",
+    "16271@7",
+    "19168@10",
+    "32195@7",
+    "63222@19",
+    "70845@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

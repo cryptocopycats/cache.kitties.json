@@ -1,0 +1,21 @@
+{
+  "id": 16582,
+  "name": "Gen 5 - Luckystripe [RARE]",
+  "generation": 13,
+  "created_at": "2017-11-30T11:09:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 5 - Luckystripe [RARE]. In high school, I was voted most likely to work at NASA. Some people say I'm the Samwise Gamgee of the group. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "12503@12",
+  "sire": "14574@10",
+  "children": [
+    "17833@20",
+    "36341@14",
+    "58075@14",
+    "94654@16",
+    "117916@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

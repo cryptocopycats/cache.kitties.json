@@ -1,0 +1,21 @@
+{
+  "id": 14464,
+  "name": "Hercule Purrot",
+  "generation": 16,
+  "created_at": "2017-11-30T02:23:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Hercule Purrot. All you need to know about me is I hate chocolate with a passion. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "5308@13",
+  "sire": "11329@15",
+  "children": [
+    "25928@17",
+    "31042@17",
+    "62978@17",
+    "92929@17",
+    "242084@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

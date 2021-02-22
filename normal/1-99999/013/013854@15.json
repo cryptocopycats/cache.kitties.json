@@ -1,0 +1,20 @@
+{
+  "id": 13854,
+  "name": "El Fantastico",
+  "generation": 15,
+  "created_at": "2017-11-29T23:53:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm El Fantastico. My friends describe me as prickly and preposterous. I once got in a fight with a labradoodle, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "11857@9",
+  "sire": "10622@14",
+  "children": [
+    "19155@16",
+    "19943@16",
+    "49203@16",
+    "73266@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

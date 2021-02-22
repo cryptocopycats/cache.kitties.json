@@ -1,0 +1,23 @@
+{
+  "id": 16348,
+  "name": "Gen Neuf Scarlet",
+  "generation": 9,
+  "created_at": "2017-11-30T09:57:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! My name's Gen Neuf Scarlet. I once peed on King Henry VIII's cat. They had it coming. When I'm not playing chess, I'm sleeping in fresh laundry! Let's get busy!",
+  "language": "en",
+  "matron": "15778@6",
+  "sire": "16087@8",
+  "children": [
+    "18343@10",
+    "19094@10",
+    "20437@11",
+    "21867@14",
+    "27190@11",
+    "86527@17",
+    "281987@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

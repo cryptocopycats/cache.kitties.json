@@ -1,0 +1,17 @@
+{
+  "id": 13374,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-11-29T21:58:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm G5. I enjoy glaring at the neighbour's cat, sweating through my feet, and reading garfield. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "13261@4",
+  "sire": "12723@4",
+  "children": [
+    "48601@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

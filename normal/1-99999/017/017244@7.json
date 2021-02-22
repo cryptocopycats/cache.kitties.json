@@ -1,0 +1,26 @@
+{
+  "id": 17244,
+  "name": "Alberto",
+  "generation": 7,
+  "created_at": "2017-11-30T13:50:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Alberto. All you need to know about me is I hate wet food with a passion. I am 24% wizard, 18% Ventriloquist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12666@2",
+  "sire": "12319@6",
+  "children": [
+    "18245@16",
+    "22105@10",
+    "22668@20",
+    "41466@16",
+    "45159@8",
+    "50910@8",
+    "81343@8",
+    "138309@8",
+    "227940@8",
+    "320137@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

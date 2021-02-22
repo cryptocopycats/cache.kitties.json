@@ -1,0 +1,21 @@
+{
+  "id": 13372,
+  "name": "Kittylicious",
+  "generation": 13,
+  "created_at": "2017-11-29T21:58:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kittylicious. I'm a Train Conductor by day, and I like people-watching by night. I would give it all up to star in a soap opera. Our friendship will be preposterous, wondrous, and full of cereal.",
+  "language": "en",
+  "matron": "4077@8",
+  "sire": "8182@12",
+  "children": [
+    "14119@14",
+    "16878@14",
+    "19624@14",
+    "27566@14",
+    "90685@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

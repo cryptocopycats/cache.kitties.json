@@ -1,0 +1,25 @@
+{
+  "id": 16781,
+  "name": "Gen7",
+  "generation": 7,
+  "created_at": "2017-11-30T11:46:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Gen7. I'm a professional Foreign Film Director and I love lasagna. I'm often described as gorgeous, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "16678@6",
+  "sire": "16735@6",
+  "children": [
+    "16879@8",
+    "17033@8",
+    "17254@8",
+    "18117@8",
+    "24693@8",
+    "25078@11",
+    "33081@8",
+    "51125@8",
+    "70003@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

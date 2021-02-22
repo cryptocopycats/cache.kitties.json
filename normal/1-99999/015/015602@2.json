@@ -1,0 +1,27 @@
+{
+  "id": 15602,
+  "name": "G2 Plodding Mauveover",
+  "generation": 2,
+  "created_at": "2017-11-30T07:16:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's G2 Plodding Mauveover. I once peed on Amelia Earhart's cat. They had it coming. In my free time, I can usually be found despicable or tricking babies. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12126@0",
+  "sire": "15565@1",
+  "children": [
+    "15647@3",
+    "15676@3",
+    "15807@3",
+    "15853@5",
+    "16259@8",
+    "16714@7",
+    "18544@5",
+    "22577@3",
+    "41504@11",
+    "85057@12",
+    "110567@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 12154,
+  "name": "AerobicsAthlete",
+  "generation": 13,
+  "created_at": "2017-11-29T14:36:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm AerobicsAthlete. I'm a Aerobics Athlete  by day, and I like pole dancing by night. In my free time, I can usually be found smelly or riding the bus. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10069@8",
+  "sire": "10091@12",
+  "children": [
+    "12527@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

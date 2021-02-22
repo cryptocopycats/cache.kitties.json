@@ -1,0 +1,18 @@
+{
+  "id": 12620,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-29T18:38:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #12620. I enjoy reciting poetry, glaring at the neighbour's cat, and eating lasagna. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1146@0",
+  "sire": "10153@3",
+  "children": [
+    "129536@5",
+    "216102@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

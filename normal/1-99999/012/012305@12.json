@@ -1,0 +1,20 @@
+{
+  "id": 12305,
+  "name": "Plug",
+  "generation": 12,
+  "created_at": "2017-11-29T16:40:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Plug. I believe the world is flat. I once got in a fight with a gecko, and won. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "6323@8",
+  "sire": "6926@11",
+  "children": [
+    "16712@14",
+    "18234@14",
+    "45448@20",
+    "1175104@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

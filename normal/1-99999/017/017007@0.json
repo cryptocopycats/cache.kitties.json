@@ -1,0 +1,30 @@
+{
+  "id": 17007,
+  "name": "I produce delicious kittens.",
+  "generation": 0,
+  "created_at": "2017-11-30T12:53:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm I produce delicious kittens.. I'm a professional Train Conductor and I love hamburgers. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20988@1",
+    "29938@6",
+    "45626@5",
+    "51674@1",
+    "58671@1",
+    "72464@1",
+    "84622@1",
+    "101012@1",
+    "115002@1",
+    "125891@1",
+    "198325@1",
+    "260045@1",
+    "334823@1",
+    "402524@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

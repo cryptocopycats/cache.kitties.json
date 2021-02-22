@@ -1,0 +1,23 @@
+{
+  "id": 13348,
+  "name": "Tails G10",
+  "generation": 10,
+  "created_at": "2017-11-29T21:48:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Tails G10. I'm a Foreign Film Director by day, and I like running a podcast by night. I like to listen to Beyoncé while grooming. Don't judge me. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "13229@9",
+  "sire": "13028@8",
+  "children": [
+    "14578@13",
+    "14730@14",
+    "17142@11",
+    "19402@11",
+    "22782@11",
+    "45824@16",
+    "105399@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

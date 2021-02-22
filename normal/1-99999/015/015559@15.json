@@ -1,0 +1,17 @@
+{
+  "id": 15559,
+  "name": "Megatron",
+  "generation": 15,
+  "created_at": "2017-11-30T07:10:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Megatron. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Beyoncé. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14100@14",
+  "sire": "6307@14",
+  "children": [
+    "21108@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

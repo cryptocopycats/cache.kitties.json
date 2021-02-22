@@ -1,0 +1,20 @@
+{
+  "id": 16709,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T11:31:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #16709. I'm often referred to as the Neville Longbottom of the group. I put pickles on everything. Like, everything: hot dogs, lasagna—everything! I like your face.",
+  "language": "en",
+  "matron": "13550@14",
+  "sire": "14559@14",
+  "children": [
+    "18491@16",
+    "19899@16",
+    "27955@16",
+    "35476@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

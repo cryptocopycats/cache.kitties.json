@@ -1,0 +1,28 @@
+{
+  "id": 14831,
+  "name": "Mr. Paws",
+  "generation": 1,
+  "created_at": "2017-11-30T03:57:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Mr. Paws. I'm a Private Dancer  by day, and I like jump-roping by night. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12208@0",
+  "sire": "2579@0",
+  "children": [
+    "14886@3",
+    "14921@2",
+    "51516@4",
+    "53146@3",
+    "53284@2",
+    "55137@4",
+    "69746@4",
+    "84809@4",
+    "111205@3",
+    "111999@4",
+    "153941@2",
+    "249010@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

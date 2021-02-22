@@ -1,0 +1,19 @@
+{
+  "id": 13283,
+  "name": "Gen12 Slow",
+  "generation": 12,
+  "created_at": "2017-11-29T21:29:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen12 Slow. I've never told anyone this, but I once clawed a dog. Sometimes I daydream of a life full of riding dirty, hamburgers, and running a podcast. Let's get busy!",
+  "language": "en",
+  "matron": "12075@11",
+  "sire": "7678@11",
+  "children": [
+    "13838@13",
+    "17368@17",
+    "32305@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

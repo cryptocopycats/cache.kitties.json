@@ -1,0 +1,21 @@
+{
+  "id": 13481,
+  "name": "Lapis Tongue",
+  "generation": 6,
+  "created_at": "2017-11-29T22:21:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Lapis Tongue. In high school, I was voted school jock. I once kissed a chimpanzee. I don't like to talk about it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "1249@0",
+  "sire": "11179@5",
+  "children": [
+    "13551@18",
+    "13741@7",
+    "13916@7",
+    "16508@7",
+    "20592@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

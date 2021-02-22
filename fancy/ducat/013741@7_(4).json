@@ -1,0 +1,30 @@
+{
+  "id": 13741,
+  "name": "Mewllard",
+  "generation": 7,
+  "created_at": "2017-11-29T23:19:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Mewllard. I enjoy reading garfield, sitting on your computer, and eating lasagna. It's not common knowledge, but my ancestry connects me to Marie Antoinette. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "13481@6",
+  "sire": "13467@3",
+  "children": [
+    "14982@8",
+    "15095@8",
+    "15218@10",
+    "16127@15",
+    "19654@10",
+    "22259@10",
+    "26137@13",
+    "580135@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

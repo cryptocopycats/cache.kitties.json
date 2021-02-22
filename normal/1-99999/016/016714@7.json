@@ -1,0 +1,21 @@
+{
+  "id": 16714,
+  "name": "RARE CHARTREUX",
+  "generation": 7,
+  "created_at": "2017-11-30T11:32:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm RARE CHARTREUX. I'm a professional Train Conductor and I love cereal. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "15602@2",
+  "sire": "15906@6",
+  "children": [
+    "18137@8",
+    "18194@8",
+    "18541@11",
+    "19141@9",
+    "83460@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

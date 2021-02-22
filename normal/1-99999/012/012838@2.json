@@ -1,0 +1,20 @@
+{
+  "id": 12838,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-11-29T19:48:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm G2. My friends describe me as raunchy and prickly. I'm convinced that the world is flat. One day I'll prove it. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "12240@1",
+  "sire": "10659@1",
+  "children": [
+    "12895@3",
+    "12995@5",
+    "14006@3",
+    "14301@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

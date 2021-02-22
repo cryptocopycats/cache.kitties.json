@@ -1,0 +1,21 @@
+{
+  "id": 15360,
+  "name": "Dat Mew Mew",
+  "generation": 16,
+  "created_at": "2017-11-30T06:24:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Dat Mew Mew. In high school, I was voted biggest teacher's pet. My secret indulgence is chocolate. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "10761@15",
+  "sire": "3931@7",
+  "children": [
+    "21165@17",
+    "21214@17",
+    "27045@17",
+    "113019@17",
+    "288387@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

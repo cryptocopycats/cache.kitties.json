@@ -1,0 +1,19 @@
+{
+  "id": 15193,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-11-30T05:37:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Gen 4. I'm a professional Mad Scientist and I love apple pie. I once bit a goose. I don't like to talk about it. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "5646@3",
+  "sire": "14994@3",
+  "children": [
+    "16249@5",
+    "225945@5",
+    "1958812@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

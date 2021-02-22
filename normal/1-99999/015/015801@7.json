@@ -1,0 +1,22 @@
+{
+  "id": 15801,
+  "name": "Sterns - Gen7",
+  "generation": 7,
+  "created_at": "2017-11-30T07:57:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Sterns - Gen7. I've never told anyone this, but I once frolicked with a dog. I once frolicked with a rooster. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "13970@6",
+  "sire": "3191@6",
+  "children": [
+    "35397@8",
+    "37578@8",
+    "38009@8",
+    "39294@18",
+    "58322@8",
+    "70868@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

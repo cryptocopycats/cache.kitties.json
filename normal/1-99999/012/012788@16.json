@@ -1,0 +1,22 @@
+{
+  "id": 12788,
+  "name": "JoJo",
+  "generation": 16,
+  "created_at": "2017-11-29T19:25:48.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm JoJo. I'm a professional Dispensary Clerk and I love steak. I once made a rooster leap. I like your face.",
+  "language": "en",
+  "matron": "5302@11",
+  "sire": "8020@15",
+  "children": [
+    "14892@18",
+    "17755@17",
+    "57935@17",
+    "224464@17",
+    "345233@18",
+    "436898@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

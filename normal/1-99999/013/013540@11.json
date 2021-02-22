@@ -1,0 +1,19 @@
+{
+  "id": 13540,
+  "name": "Tyger",
+  "generation": 11,
+  "created_at": "2017-11-29T22:30:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Tyger. I believe the world is flat. I put pickles on everything. Like, everything: hot dogs, steak—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10479@10",
+  "sire": "10107@7",
+  "children": [
+    "13790@12",
+    "16287@14",
+    "20325@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

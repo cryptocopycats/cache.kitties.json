@@ -1,0 +1,20 @@
+{
+  "id": 13613,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-29T22:48:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #13613. I've never told anyone this, but I once headbutted a dog. I once made a rabbit lay. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10034@16",
+  "sire": "10776@15",
+  "children": [
+    "19206@20",
+    "19638@22",
+    "25127@18",
+    "49039@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

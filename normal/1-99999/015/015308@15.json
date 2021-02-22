@@ -1,0 +1,23 @@
+{
+  "id": 15308,
+  "name": "California",
+  "generation": 15,
+  "created_at": "2017-11-30T06:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm California. I'm often referred to as the Peter Griffin of the group. I am 24% elf, 25% Culinary Sanitation Specialist, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "10546@9",
+  "sire": "5761@14",
+  "children": [
+    "27602@16",
+    "33209@16",
+    "44014@17",
+    "67214@16",
+    "113653@16",
+    "221347@17",
+    "254854@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

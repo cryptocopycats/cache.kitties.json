@@ -1,0 +1,21 @@
+{
+  "id": 14652,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-30T03:06:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #14652. I want to live in a world where people believe the world is flat. I like to listen to Metallica while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4268@10",
+  "sire": "4587@11",
+  "children": [
+    "15710@14",
+    "17998@14",
+    "23216@13",
+    "32352@13",
+    "79175@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

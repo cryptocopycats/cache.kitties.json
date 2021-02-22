@@ -1,0 +1,22 @@
+{
+  "id": 14551,
+  "name": "Spocky",
+  "generation": 14,
+  "created_at": "2017-11-30T02:44:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Spocky. I'm often referred to as the Frodo Baggins of the group. My friends describe me as \"annoying.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "13693@9",
+  "sire": "14089@13",
+  "children": [
+    "16588@15",
+    "20143@15",
+    "23437@15",
+    "48662@15",
+    "90966@15",
+    "285584@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

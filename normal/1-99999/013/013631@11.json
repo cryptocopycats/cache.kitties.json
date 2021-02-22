@@ -1,0 +1,21 @@
+{
+  "id": 13631,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-29T22:52:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #13631. I've never told anyone this, but I once clawed a dog. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "12892@10",
+  "sire": "11988@5",
+  "children": [
+    "15925@12",
+    "16230@12",
+    "17575@14",
+    "18019@12",
+    "39882@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

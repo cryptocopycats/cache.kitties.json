@@ -1,0 +1,23 @@
+{
+  "id": 13095,
+  "name": "Marshmallow",
+  "generation": 11,
+  "created_at": "2017-11-29T20:36:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Marshmallow. I've never told anyone this, but I once headbutted a dog. I once got in a fight with a platypus, and won. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "12793@4",
+  "sire": "12260@10",
+  "children": [
+    "45476@14",
+    "52023@12",
+    "61355@12",
+    "72930@12",
+    "130250@18",
+    "276431@17",
+    "1013599@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 16071,
+  "name": "MandarinCat",
+  "generation": 19,
+  "created_at": "2017-11-30T08:56:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm MandarinCat. I'm often referred to as the Steve Urkel of the group. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I look forward to chasing red dots with you.",
+  "language": "en",
+  "matron": "10750@18",
+  "sire": "8192@1",
+  "children": [
+    "22131@20",
+    "30914@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

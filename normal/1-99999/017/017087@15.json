@@ -1,0 +1,20 @@
+{
+  "id": 17087,
+  "name": "Jonjon",
+  "generation": 15,
+  "created_at": "2017-11-30T13:17:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Jonjon. I'm often referred to as the Ron Weasley of the group. I would give it all up to star in a soap opera. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "16093@14",
+  "sire": "16217@6",
+  "children": [
+    "36470@16",
+    "44326@16",
+    "65005@16",
+    "94654@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

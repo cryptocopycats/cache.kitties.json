@@ -1,0 +1,18 @@
+{
+  "id": 15993,
+  "name": "Tongue Kitty",
+  "generation": 18,
+  "created_at": "2017-11-30T08:35:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Tongue Kitty. I'm a Dispensary Clerk by day, and I like mocking dogs by night. In my free time, I can usually be found annoying or talking about how much I lift. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "9468@17",
+  "sire": "9140@14",
+  "children": [
+    "26103@19",
+    "50360@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

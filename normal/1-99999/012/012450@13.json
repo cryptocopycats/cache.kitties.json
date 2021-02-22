@@ -1,0 +1,22 @@
+{
+  "id": 12450,
+  "name": "Wednesday",
+  "generation": 13,
+  "created_at": "2017-11-29T18:04:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Wednesday. I've never told anyone this, but I once kissed a dog. My friends describe me as \"hairy.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11791@12",
+  "sire": "4293@7",
+  "children": [
+    "13754@14",
+    "17222@22",
+    "18234@14",
+    "34909@14",
+    "44471@16",
+    "406795@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

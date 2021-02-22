@@ -1,0 +1,20 @@
+{
+  "id": 12251,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-29T15:16:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #12251. All you need to know about me is I hate salad with a passion. I put marmalade on everything. Like, everything: hot dogs, chocolate—everything! Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "11241@12",
+  "sire": "9979@17",
+  "children": [
+    "12984@19",
+    "22569@19",
+    "31482@19",
+    "145540@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

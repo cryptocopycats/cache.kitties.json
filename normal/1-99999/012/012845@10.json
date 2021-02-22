@@ -1,0 +1,19 @@
+{
+  "id": 12845,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T19:48:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #12845. I'm often referred to as the Ross Geller of the group. I was voted school jock in college. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "6860@7",
+  "sire": "4766@9",
+  "children": [
+    "21910@14",
+    "48468@14",
+    "101060@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

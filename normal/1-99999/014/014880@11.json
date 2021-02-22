@@ -1,0 +1,20 @@
+{
+  "id": 14880,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-30T04:11:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #14880. I've never told anyone this, but I once snuggled a dog. When I'm not running a podcast, I'm talking about how much I lift! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "14077@6",
+  "sire": "14114@10",
+  "children": [
+    "15139@12",
+    "18028@12",
+    "19283@12",
+    "33144@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

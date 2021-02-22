@@ -1,0 +1,22 @@
+{
+  "id": 12457,
+  "name": "Graceful Smiles",
+  "generation": 15,
+  "created_at": "2017-11-29T18:04:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Graceful Smiles. I'm often referred to as the Michael Scott of the group. I'm often described as tantalizing, and I own it. Our friendship will be despicable, brilliant, and full of lasagna.",
+  "language": "en",
+  "matron": "10287@1",
+  "sire": "7350@14",
+  "children": [
+    "14851@16",
+    "16762@16",
+    "28474@16",
+    "70297@16",
+    "108397@17",
+    "304108@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

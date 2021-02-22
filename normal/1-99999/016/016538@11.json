@@ -1,0 +1,19 @@
+{
+  "id": 16538,
+  "name": "Brown Blood",
+  "generation": 11,
+  "created_at": "2017-11-30T10:58:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Brown Blood. I'm a Dogwalker by day, and I like sleeping in fresh laundry by night. My secret indulgence is cantaloupe. I like your face.",
+  "language": "en",
+  "matron": "16321@10",
+  "sire": "13311@3",
+  "children": [
+    "20643@17",
+    "24750@12",
+    "34431@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

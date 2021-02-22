@@ -1,0 +1,23 @@
+{
+  "id": 15475,
+  "name": "gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T06:49:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm gen 3. I'm often referred to as the Lisa Simpson of the group. I put wasabi on everything. Like, everything: hot dogs, lasagna—everything! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3502@2",
+  "sire": "4011@2",
+  "children": [
+    "15666@4",
+    "15669@5",
+    "15830@5",
+    "18155@5",
+    "18392@5",
+    "48798@4",
+    "64258@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

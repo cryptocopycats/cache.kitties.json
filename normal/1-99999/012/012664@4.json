@@ -1,0 +1,21 @@
+{
+  "id": 12664,
+  "name": "Lucifer",
+  "generation": 4,
+  "created_at": "2017-11-29T18:38:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Lucifer. I've never told anyone this, but I once pawed at a dog. When I'm not swiping left, I'm sleeping in fresh laundry! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10272@3",
+  "sire": "6865@2",
+  "children": [
+    "14777@10",
+    "14916@14",
+    "16140@14",
+    "17312@16",
+    "18738@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

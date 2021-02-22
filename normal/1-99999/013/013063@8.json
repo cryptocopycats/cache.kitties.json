@@ -1,0 +1,20 @@
+{
+  "id": 13063,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-29T20:34:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #13063. All you need to know about me is I hate ice cream with a passion. In my free time, I can usually be found tantalizing or prank-calling celebrities. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "5384@5",
+  "sire": "5104@7",
+  "children": [
+    "13236@10",
+    "13529@9",
+    "13815@9",
+    "20282@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 12281,
+  "name": "gen 13 beard",
+  "generation": 13,
+  "created_at": "2017-11-29T15:27:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm gen 13 beard. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "10896@12",
+  "sire": "10645@9",
+  "children": [
+    "12821@15",
+    "13302@14",
+    "15081@14",
+    "20921@15",
+    "30552@14",
+    "44486@14",
+    "304811@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

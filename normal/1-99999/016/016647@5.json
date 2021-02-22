@@ -1,0 +1,26 @@
+{
+  "id": 16647,
+  "name": "G5 Slow",
+  "generation": 5,
+  "created_at": "2017-11-30T11:22:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm G5 Slow. I'm a professional Skydiving Instructor and I love apple pie. I once made a rhino scare. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "15895@3",
+  "sire": "16247@4",
+  "children": [
+    "17387@6",
+    "17466@6",
+    "17665@8",
+    "22233@7",
+    "22768@6",
+    "34471@12",
+    "52450@12",
+    "83780@7",
+    "111032@6",
+    "241696@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

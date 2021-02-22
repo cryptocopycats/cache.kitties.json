@@ -1,0 +1,21 @@
+{
+  "id": 13358,
+  "name": "Yellow Spots (RARE)",
+  "generation": 17,
+  "created_at": "2017-11-29T21:51:58.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Yellow Spots (RARE). All you need to know about me is I hate apple pie with a passion. Some people say I'm the Chandler Bing of the group. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "10815@16",
+  "sire": "6083@10",
+  "children": [
+    "17021@18",
+    "20944@18",
+    "36819@18",
+    "88828@18",
+    "194344@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

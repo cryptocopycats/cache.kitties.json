@@ -1,0 +1,30 @@
+{
+  "id": 15476,
+  "name": "Rock Silver",
+  "generation": 1,
+  "created_at": "2017-11-30T06:49:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Rock Silver. My friends describe me as raunchy and brilliant. When I'm not riding the bus, I'm practicing witchcraft! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12042@0",
+  "sire": "2096@0",
+  "children": [
+    "15489@2",
+    "15538@2",
+    "19868@2",
+    "24109@2",
+    "31892@2",
+    "45019@2",
+    "45560@3",
+    "60777@2",
+    "68020@2",
+    "93243@2",
+    "115542@2",
+    "183706@2",
+    "287475@2",
+    "973726@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 12166,
+  "name": "Bailey",
+  "generation": 12,
+  "created_at": "2017-11-29T14:39:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Bailey. All you need to know about me is I hate lasagna with a passion. Sometimes I daydream of a life full of riding dirty, steak, and siring for status. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6451@11",
+  "sire": "2658@0",
+  "children": [
+    "13590@13",
+    "45341@13",
+    "129807@22",
+    "275135@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

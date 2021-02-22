@@ -1,0 +1,21 @@
+{
+  "id": 13234,
+  "name": "Aloha | Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-29T21:17:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Aloha | Gen 14. I'm a Foreign Film Director by day, and I like talking about how much I lift by night. My great-great-great-great-great-great grandkitty lived with Cleopatra. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "12606@13",
+  "sire": "10726@11",
+  "children": [
+    "14343@15",
+    "16102@15",
+    "19167@15",
+    "42899@17",
+    "89432@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

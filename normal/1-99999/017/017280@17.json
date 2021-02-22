@@ -1,0 +1,20 @@
+{
+  "id": 17280,
+  "name": "Kendra",
+  "generation": 17,
+  "created_at": "2017-11-30T13:56:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kendra. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "14426@15",
+  "sire": "14364@16",
+  "children": [
+    "19529@18",
+    "23236@18",
+    "48768@18",
+    "113627@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

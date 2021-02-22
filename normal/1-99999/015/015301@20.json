@@ -1,0 +1,20 @@
+{
+  "id": 15301,
+  "name": "G20 Calicool Laperm",
+  "generation": 20,
+  "created_at": "2017-11-30T06:05:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm G20 Calicool Laperm. I enjoy eating lasagna, spinning sick beats, and breakdancing. Sometimes I daydream of a life full of picking flowers, salad, and riverdancing. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "15101@3",
+  "sire": "15259@19",
+  "children": [
+    "16899@21",
+    "27152@21",
+    "111785@21",
+    "234074@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

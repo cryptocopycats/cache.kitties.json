@@ -1,0 +1,23 @@
+{
+  "id": 14624,
+  "name": "Casper",
+  "generation": 14,
+  "created_at": "2017-11-30T03:01:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Casper. I'm a Mad Scientist by day, and I like reading Danielle Steele by night. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Will you be the wasabi to my ranch dressing?",
+  "language": "en",
+  "matron": "13182@13",
+  "sire": "8868@6",
+  "children": [
+    "15554@17",
+    "19286@15",
+    "21416@15",
+    "32683@15",
+    "74849@20",
+    "244116@19",
+    "339179@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

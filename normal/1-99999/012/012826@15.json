@@ -1,0 +1,19 @@
+{
+  "id": 12826,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T19:47:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Kitty #12826 here. I'm here to enjoy reciting poetry and taking selfies. I once got in a fight with a labradoodle, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6181@14",
+  "sire": "5998@13",
+  "children": [
+    "13956@18",
+    "14847@16",
+    "22856@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

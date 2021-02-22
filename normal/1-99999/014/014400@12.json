@@ -1,0 +1,18 @@
+{
+  "id": 14400,
+  "name": "Gen12 Plod",
+  "generation": 12,
+  "created_at": "2017-11-30T02:01:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Gen12 Plod. I believe the world is flat. I once dreamed of being a Dispensary Clerk. Now I can be found volunteering at the local kitten rescue shelter all day. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "13923@8",
+  "sire": "5215@11",
+  "children": [
+    "16406@13",
+    "17348@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

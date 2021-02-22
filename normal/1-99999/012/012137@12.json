@@ -1,0 +1,19 @@
+{
+  "id": 12137,
+  "name": "Gen 12 laperm",
+  "generation": 12,
+  "created_at": "2017-11-29T14:35:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Gen 12 laperm. I've never told anyone this, but I once bit a dog. My friends describe me as \"ridiculous.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "11031@11",
+  "sire": "11814@8",
+  "children": [
+    "12341@13",
+    "14680@14",
+    "17736@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

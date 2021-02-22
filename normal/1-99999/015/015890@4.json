@@ -1,0 +1,26 @@
+{
+  "id": 15890,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T08:12:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen4. I want to live in a world where people believe the world is flat. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "15855@3",
+  "sire": "15868@3",
+  "children": [
+    "15977@5",
+    "16123@5",
+    "16881@5",
+    "25496@11",
+    "26078@11",
+    "31336@5",
+    "48702@13",
+    "100260@5",
+    "246920@5",
+    "418473@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

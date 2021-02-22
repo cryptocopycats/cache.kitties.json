@@ -1,0 +1,17 @@
+{
+  "id": 13961,
+  "name": "Mr. Meowsley",
+  "generation": 13,
+  "created_at": "2017-11-30T00:22:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Mr. Meowsley. I'm often referred to as the Ron Weasley of the group. When no one's home, I invite my pals over and we listen to Michael Bolton. Let's get busy!",
+  "language": "en",
+  "matron": "6426@10",
+  "sire": "5810@12",
+  "children": [
+    "168923@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

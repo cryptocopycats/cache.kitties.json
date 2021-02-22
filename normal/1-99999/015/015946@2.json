@@ -1,0 +1,18 @@
+{
+  "id": 15946,
+  "name": "Snake - Teeth",
+  "generation": 2,
+  "created_at": "2017-11-30T08:26:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Snake - Teeth. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Marge Simpson of the group. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "11332@1",
+  "sire": "9889@1",
+  "children": [
+    "16231@3",
+    "19099@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

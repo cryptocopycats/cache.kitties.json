@@ -1,0 +1,19 @@
+{
+  "id": 16650,
+  "name": "Gandalf, the Grey",
+  "generation": 12,
+  "created_at": "2017-11-30T11:23:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gandalf, the Grey. All you need to know about me is I hate cantaloupe with a passion. I once dreamed of being a Foreign Film Director. Now I can be found running a podcast all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "14101@8",
+  "sire": "14202@11",
+  "children": [
+    "17116@13",
+    "18100@13",
+    "22954@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

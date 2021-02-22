@@ -1,0 +1,19 @@
+{
+  "id": 15326,
+  "name": "Hershey",
+  "generation": 5,
+  "created_at": "2017-11-30T06:13:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Hershey. All you need to know about me is I hate steak with a passion. My secret indulgence is ice cream. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5927@1",
+  "sire": "5307@4",
+  "children": [
+    "20291@8",
+    "136624@10",
+    "143951@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15342,
+  "name": "Gen 13 Swift",
+  "generation": 13,
+  "created_at": "2017-11-30T06:18:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 13 Swift. I'm often referred to as the Ross Geller of the group. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "14895@12",
+  "sire": "2582@0",
+  "children": [
+    "15423@14",
+    "20168@18",
+    "21880@14",
+    "28914@15",
+    "115946@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

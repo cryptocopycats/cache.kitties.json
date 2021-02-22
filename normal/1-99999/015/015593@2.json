@@ -1,0 +1,27 @@
+{
+  "id": 15593,
+  "name": "Shallan",
+  "generation": 2,
+  "created_at": "2017-11-30T07:16:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Shallan. In high school, I was voted school jock. Some people say I'm the Homer Simpson of the group. Will you be the maple syrup to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "3353@1",
+  "sire": "3941@1",
+  "children": [
+    "15705@3",
+    "17613@9",
+    "66045@3",
+    "86930@3",
+    "95673@3",
+    "113759@3",
+    "116693@3",
+    "124294@3",
+    "128844@3",
+    "184284@3",
+    "238807@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

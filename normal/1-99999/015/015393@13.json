@@ -1,0 +1,19 @@
+{
+  "id": 15393,
+  "name": "25: G13",
+  "generation": 13,
+  "created_at": "2017-11-30T06:32:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm 25: G13. I'm often referred to as the Cersei Lannister of the group. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15101@3",
+  "sire": "15153@12",
+  "children": [
+    "15483@14",
+    "25954@14",
+    "31569@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

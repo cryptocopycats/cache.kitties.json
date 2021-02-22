@@ -1,0 +1,19 @@
+{
+  "id": 16839,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-11-30T12:06:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen 19. I've never told anyone this, but I once clawed a dog. I once made a rhino jump. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "11275@14",
+  "sire": "13184@18",
+  "children": [
+    "21317@20",
+    "28787@20",
+    "41508@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

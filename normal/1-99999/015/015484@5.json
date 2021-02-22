@@ -1,0 +1,22 @@
+{
+  "id": 15484,
+  "name": "Marie Curie",
+  "generation": 5,
+  "created_at": "2017-11-30T06:52:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Marie Curie. I've never told anyone this, but I once loved a dog. When I'm not sleeping in fresh laundry, I'm running a podcast! Let's get busy!",
+  "language": "en",
+  "matron": "15269@4",
+  "sire": "4623@3",
+  "children": [
+    "15512@6",
+    "15695@7",
+    "18620@8",
+    "18954@6",
+    "27177@7",
+    "420970@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

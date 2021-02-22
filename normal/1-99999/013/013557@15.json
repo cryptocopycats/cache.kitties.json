@@ -1,0 +1,20 @@
+{
+  "id": 13557,
+  "name": "James Bonding",
+  "generation": 15,
+  "created_at": "2017-11-29T22:33:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm James Bonding. I enjoy watching Stranger Things, fighting the patriarchy, and staying woke. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Will you be the peanut butter to my pickles?",
+  "language": "en",
+  "matron": "10004@12",
+  "sire": "12038@14",
+  "children": [
+    "14043@16",
+    "17845@16",
+    "22260@17",
+    "70415@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

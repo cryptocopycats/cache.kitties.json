@@ -1,0 +1,21 @@
+{
+  "id": 15470,
+  "name": "Jimmy",
+  "generation": 12,
+  "created_at": "2017-11-30T06:48:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Jimmy. I once peed on King Henry VIII's cat. They had it coming. I put maple syrup on everything. Like, everything: hot dogs, cereal—everything! Let's pawty!",
+  "language": "en",
+  "matron": "9823@1",
+  "sire": "15429@11",
+  "children": [
+    "16086@13",
+    "16485@13",
+    "25321@16",
+    "50849@13",
+    "91283@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

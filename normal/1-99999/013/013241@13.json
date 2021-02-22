@@ -1,0 +1,18 @@
+{
+  "id": 13241,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-11-29T21:18:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Gen 13. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Confucius. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11487@12",
+  "sire": "11095@3",
+  "children": [
+    "14343@15",
+    "17562@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

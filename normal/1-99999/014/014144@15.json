@@ -1,0 +1,21 @@
+{
+  "id": 14144,
+  "name": "Sydney Warshaw",
+  "generation": 15,
+  "created_at": "2017-11-30T01:03:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! Sydney Warshaw here. I'm here to enjoy fighting the patriarchy and breakdancing. When I'm not riding the bus, I'm people-watching! Let's get busy!",
+  "language": "en",
+  "matron": "13159@13",
+  "sire": "13663@14",
+  "children": [
+    "15004@16",
+    "22086@17",
+    "55470@16",
+    "114677@16",
+    "175256@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

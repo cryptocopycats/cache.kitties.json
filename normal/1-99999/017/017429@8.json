@@ -1,0 +1,25 @@
+{
+  "id": 17429,
+  "name": "Fancy Milka",
+  "generation": 8,
+  "created_at": "2017-11-30T14:42:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! Fancy Milka here. I'm here to enjoy picking flowers and riding dirty. My friends describe me as \"tantalizing.\" It's... accurate. Our friendship will be smelly, gullible, and full of lasagna.",
+  "language": "en",
+  "matron": "17210@7",
+  "sire": "17243@7",
+  "children": [
+    "17695@9",
+    "18111@9",
+    "20093@18",
+    "22209@17",
+    "54476@20",
+    "69577@21",
+    "176194@9",
+    "275736@9",
+    "372624@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

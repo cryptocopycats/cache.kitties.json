@@ -1,0 +1,23 @@
+{
+  "id": 14758,
+  "name": "Lemon Stache Pitty Kitty",
+  "generation": 12,
+  "created_at": "2017-11-30T03:37:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Lemon Stache Pitty Kitty. All you need to know about me is I hate hamburgers with a passion. When no one's home, I invite my pals over and we listen to Mariah Carey. I like your face.",
+  "language": "en",
+  "matron": "14096@2",
+  "sire": "14326@11",
+  "children": [
+    "14862@13",
+    "16555@13",
+    "39653@13",
+    "68452@14",
+    "101975@13",
+    "227180@18",
+    "551376@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

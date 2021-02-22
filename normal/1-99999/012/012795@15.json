@@ -1,0 +1,23 @@
+{
+  "id": 12795,
+  "name": "G15/Plodding",
+  "generation": 15,
+  "created_at": "2017-11-29T19:29:30.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm G15/Plodding. I'm a Mad Scientist by day, and I like volunteering at the local kitten rescue shelter by night. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6807@14",
+  "sire": "10950@10",
+  "children": [
+    "13809@16",
+    "26953@18",
+    "279103@16",
+    "304433@16",
+    "358511@21",
+    "364421@16",
+    "413747@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

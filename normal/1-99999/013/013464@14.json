@@ -1,0 +1,19 @@
+{
+  "id": 13464,
+  "name": "Gen 14, Slow",
+  "generation": 14,
+  "created_at": "2017-11-29T22:15:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 14, Slow. I'm a Dogwalker by day, and I like swiping right by night. I am 18% elf, 50% Private Dancer , and otherwise bad at math. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "10269@9",
+  "sire": "10470@13",
+  "children": [
+    "21665@15",
+    "45472@15",
+    "49487@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16376,
+  "name": "Gen7 & brisk",
+  "generation": 7,
+  "created_at": "2017-11-30T10:10:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen7 & brisk. I enjoy riding dirty, tripping my owner, and hitting on yo' man. My secret indulgence is steak. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "16067@4",
+  "sire": "16234@6",
+  "children": [
+    "16687@8",
+    "17074@8",
+    "17098@8",
+    "33440@11",
+    "77976@8",
+    "484651@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

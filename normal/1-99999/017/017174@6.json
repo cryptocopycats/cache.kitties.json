@@ -1,0 +1,23 @@
+{
+  "id": 17174,
+  "name": "Alain Chabat",
+  "generation": 6,
+  "created_at": "2017-11-30T13:35:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Alain Chabat. I'm a professional Skydiving Instructor and I love salad. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "16742@5",
+  "sire": "16398@5",
+  "children": [
+    "17422@7",
+    "17438@7",
+    "17678@8",
+    "19215@7",
+    "21463@7",
+    "24924@7",
+    "53223@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

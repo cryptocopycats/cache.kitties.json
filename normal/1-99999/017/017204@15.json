@@ -1,0 +1,21 @@
+{
+  "id": 17204,
+  "name": "Kim Jong Un",
+  "generation": 15,
+  "created_at": "2017-11-30T13:40:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kim Jong Un. I want to live in a world where people believe that one day cats will rule this planet. I am 21% oracle, 52% Spin Instructor , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "15983@14",
+  "sire": "16042@9",
+  "children": [
+    "18375@16",
+    "20508@16",
+    "25338@16",
+    "64326@16",
+    "116814@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 12936,
+  "name": "Oracle",
+  "generation": 19,
+  "created_at": "2017-11-29T20:04:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Oracle. My friends describe me as brilliant and despicable. I am 24% oracle, 40% Ventriloquist, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10732@0",
+  "sire": "10926@18",
+  "children": [
+    "16918@20",
+    "57762@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

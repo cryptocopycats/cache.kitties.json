@@ -1,0 +1,23 @@
+{
+  "id": 13047,
+  "name": "coffee",
+  "generation": 4,
+  "created_at": "2017-11-29T20:28:15.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! coffee here. I'm here to enjoy eating lasagna and reading garfield. I was voted most likely to work at NASA in college. Let's pawty!",
+  "language": "en",
+  "matron": "3082@3",
+  "sire": "4449@1",
+  "children": [
+    "84627@6",
+    "84720@5",
+    "151267@5",
+    "162932@6",
+    "176198@6",
+    "227912@6",
+    "233041@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

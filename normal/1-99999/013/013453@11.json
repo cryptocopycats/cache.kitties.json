@@ -1,0 +1,21 @@
+{
+  "id": 13453,
+  "name": "Cantaloupe",
+  "generation": 11,
+  "created_at": "2017-11-29T22:13:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Cantaloupe. I'm a professional Dogwalker and I love cantaloupe. In my free time, I can usually be found tantalizing or riding the bus. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11951@8",
+  "sire": "8389@10",
+  "children": [
+    "24507@17",
+    "24577@18",
+    "33329@15",
+    "69749@22",
+    "219754@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

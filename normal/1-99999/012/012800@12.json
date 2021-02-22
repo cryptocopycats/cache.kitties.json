@@ -1,0 +1,19 @@
+{
+  "id": 12800,
+  "name": "Gatsby",
+  "generation": 12,
+  "created_at": "2017-11-29T19:30:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gatsby. I'm a professional Dispensary Clerk and I love hamburgers. I once dreamed of being a Skydiving Instructor. Now I can be found sleeping in fresh laundry all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12619@9",
+  "sire": "10910@11",
+  "children": [
+    "28840@13",
+    "62746@13",
+    "227698@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

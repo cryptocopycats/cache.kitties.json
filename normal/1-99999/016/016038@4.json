@@ -1,0 +1,19 @@
+{
+  "id": 16038,
+  "name": "Gem (4)",
+  "generation": 4,
+  "created_at": "2017-11-30T08:48:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Gem (4). I enjoy slappin' da bass, staying woke, and licking doorknobs. I like to listen to Justin Bieber while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4034@3",
+  "sire": "3143@1",
+  "children": [
+    "18392@5",
+    "18435@5",
+    "37671@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

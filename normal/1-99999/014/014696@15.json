@@ -1,0 +1,19 @@
+{
+  "id": 14696,
+  "name": "Skitch",
+  "generation": 15,
+  "created_at": "2017-11-30T03:16:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Skitch. I enjoy staying woke, glaring at the neighbour's cat, and licking doorknobs. When I'm not playing chess, I'm swiping right! I like your face.",
+  "language": "en",
+  "matron": "13099@13",
+  "sire": "13740@14",
+  "children": [
+    "14958@16",
+    "16227@16",
+    "70755@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

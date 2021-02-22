@@ -1,0 +1,19 @@
+{
+  "id": 16912,
+  "name": "Petunia",
+  "generation": 11,
+  "created_at": "2017-11-30T12:31:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! Petunia here. I'm here to enjoy reading garfield and staying woke. Sometimes I daydream of a life full of spinning sick beats, cantaloupe, and pole dancing. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11400@7",
+  "sire": "11521@10",
+  "children": [
+    "17951@12",
+    "21750@12",
+    "120128@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

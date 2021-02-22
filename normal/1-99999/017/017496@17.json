@@ -1,0 +1,20 @@
+{
+  "id": 17496,
+  "name": "Mikey",
+  "generation": 17,
+  "created_at": "2017-11-30T14:53:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Mikey. I've never told anyone this, but I once snuggled a dog. I am 83% fairy, 80% Dogwalker, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14503@14",
+  "sire": "15052@16",
+  "children": [
+    "18380@18",
+    "53454@18",
+    "85132@18",
+    "104348@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

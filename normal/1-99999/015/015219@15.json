@@ -1,0 +1,22 @@
+{
+  "id": 15219,
+  "name": "Curious George",
+  "generation": 15,
+  "created_at": "2017-11-30T05:44:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Curious George. I want to live in a world where people believe the world is flat. My friends describe me as \"raunchy.\" It's... accurate. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "14395@14",
+  "sire": "13142@8",
+  "children": [
+    "40505@16",
+    "68049@19",
+    "89078@19",
+    "225658@17",
+    "291968@16",
+    "378559@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

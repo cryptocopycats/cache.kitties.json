@@ -1,0 +1,23 @@
+{
+  "id": 16087,
+  "name": "Brisk Huit",
+  "generation": 8,
+  "created_at": "2017-11-30T08:56:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Brisk Huit. I believe the world is flat. When no one's home, I invite my pals over and we listen to Metallica. Let's pawty!",
+  "language": "en",
+  "matron": "15881@6",
+  "sire": "15931@7",
+  "children": [
+    "16348@9",
+    "18465@11",
+    "18977@9",
+    "37007@16",
+    "42907@18",
+    "107932@18",
+    "344618@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

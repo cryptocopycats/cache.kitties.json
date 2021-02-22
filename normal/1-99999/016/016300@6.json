@@ -1,0 +1,24 @@
+{
+  "id": 16300,
+  "name": "Cali Gen6 fab/calicool",
+  "generation": 6,
+  "created_at": "2017-11-30T09:49:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Cali Gen6 fab/calicool. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15939@3",
+  "sire": "16171@5",
+  "children": [
+    "16440@7",
+    "16536@7",
+    "17243@7",
+    "24514@8",
+    "25748@9",
+    "35754@15",
+    "62256@9",
+    "73852@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

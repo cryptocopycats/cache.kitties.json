@@ -1,0 +1,21 @@
+{
+  "id": 14483,
+  "name": "Jim Halpert 👦",
+  "generation": 16,
+  "created_at": "2017-11-30T02:28:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Jim Halpert 👦. I've never told anyone this, but I once loved a dog. I once dreamed of being a Train Conductor. Now I can be found swiping right all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "9746@15",
+  "sire": "9595@13",
+  "children": [
+    "45162@17",
+    "64281@17",
+    "98659@17",
+    "138515@19",
+    "289631@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

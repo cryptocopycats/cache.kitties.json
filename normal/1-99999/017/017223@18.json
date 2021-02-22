@@ -1,0 +1,18 @@
+{
+  "id": 17223,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-30T13:44:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #17223. I'm often referred to as the Chandler Bing of the group. My friends describe me as \"wondrous.\" It's... accurate. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "12186@17",
+  "sire": "2602@0",
+  "children": [
+    "21300@19",
+    "91545@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

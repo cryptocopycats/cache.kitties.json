@@ -1,0 +1,23 @@
+{
+  "id": 14844,
+  "name": "Jack Torrance",
+  "generation": 12,
+  "created_at": "2017-11-30T03:58:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Jack Torrance. I'm a Skydiving Instructor by day, and I like siring for status by night. It's not common knowledge, but my ancestry connects me to Princess Diana. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "9192@11",
+  "sire": "2582@0",
+  "children": [
+    "15274@13",
+    "16966@13",
+    "19172@13",
+    "20290@13",
+    "30893@15",
+    "70049@13",
+    "168629@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

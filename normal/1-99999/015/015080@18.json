@@ -1,0 +1,20 @@
+{
+  "id": 15080,
+  "name": "Hit by Car",
+  "generation": 18,
+  "created_at": "2017-11-30T05:09:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Hit by Car. I'm a Mad Scientist by day, and I like playing chess by night. Sometimes I daydream of a life full of fighting the patriarchy, hamburgers, and practicing witchcraft. I like your face.",
+  "language": "en",
+  "matron": "13276@17",
+  "sire": "3698@1",
+  "children": [
+    "18903@19",
+    "24606@19",
+    "114209@19",
+    "159794@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

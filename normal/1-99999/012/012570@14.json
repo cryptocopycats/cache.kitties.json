@@ -1,0 +1,18 @@
+{
+  "id": 12570,
+  "name": "Emeraldgreen",
+  "generation": 14,
+  "created_at": "2017-11-29T18:30:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Emeraldgreen. I once peed on John F. Kennedy Jr.'s cat. They had it coming. My friends describe me as \"vegan.\" It's... accurate. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "12280@13",
+  "sire": "12287@12",
+  "children": [
+    "14126@15",
+    "17245@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 14479,
+  "name": "BabySweet",
+  "generation": 15,
+  "created_at": "2017-11-30T02:27:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm BabySweet. I want to live in a world where people believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11614@12",
+  "sire": "11557@14",
+  "children": [
+    "14990@16",
+    "29469@16",
+    "33528@16",
+    "60272@16",
+    "234123@23",
+    "341320@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

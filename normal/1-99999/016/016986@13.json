@@ -1,0 +1,20 @@
+{
+  "id": 16986,
+  "name": "Dik",
+  "generation": 13,
+  "created_at": "2017-11-30T12:47:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Dik. I'm often referred to as the Ross Geller of the group. I once got in a fight with a rhino, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "13939@12",
+  "sire": "10479@10",
+  "children": [
+    "17703@14",
+    "40749@15",
+    "42884@14",
+    "53882@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

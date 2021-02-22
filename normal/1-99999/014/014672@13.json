@@ -1,0 +1,19 @@
+{
+  "id": 14672,
+  "name": "Aligator",
+  "generation": 13,
+  "created_at": "2017-11-30T03:10:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Aligator. I'm a professional Spin Instructor  and I love chocolate. I once headbutted a rabbit. I don't like to talk about it. Will you be the marmite to my maple syrup?",
+  "language": "en",
+  "matron": "5149@4",
+  "sire": "11973@12",
+  "children": [
+    "15983@14",
+    "16745@15",
+    "53882@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

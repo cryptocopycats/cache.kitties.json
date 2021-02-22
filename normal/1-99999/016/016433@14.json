@@ -1,0 +1,19 @@
+{
+  "id": 16433,
+  "name": "Jag Gene 6",
+  "generation": 14,
+  "created_at": "2017-11-30T10:23:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Jag Gene 6. I believe that one day cats will rule this planet. I put wasabi on everything. Like, everything: hot dogs, ice cream—everything! I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "15277@13",
+  "sire": "14710@8",
+  "children": [
+    "18666@15",
+    "21357@15",
+    "75747@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

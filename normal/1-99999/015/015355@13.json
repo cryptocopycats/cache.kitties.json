@@ -1,0 +1,19 @@
+{
+  "id": 15355,
+  "name": "Robin",
+  "generation": 13,
+  "created_at": "2017-11-30T06:24:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! Robin here. I'm here to enjoy eating until I loathe myself and tricking babies. When I'm not braiding people's hair, I'm swiping right! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "11889@12",
+  "sire": "12495@1",
+  "children": [
+    "16723@16",
+    "19155@16",
+    "78299@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

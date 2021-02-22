@@ -1,0 +1,19 @@
+{
+  "id": 17282,
+  "name": "coffee",
+  "generation": 15,
+  "created_at": "2017-11-30T13:56:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's coffee. I once peed on Cleopatra's cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12927@14",
+  "sire": "15348@14",
+  "children": [
+    "19783@19",
+    "23131@16",
+    "33530@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

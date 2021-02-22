@@ -1,0 +1,19 @@
+{
+  "id": 16000,
+  "name": "Timmy | Purrfect Starter",
+  "generation": 19,
+  "created_at": "2017-11-30T08:36:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Timmy | Purrfect Starter. I'm a professional Spin Instructor  and I love apple pie. Some people say I'm the Michael Scott of the group. Let's get busy!",
+  "language": "en",
+  "matron": "11733@18",
+  "sire": "11734@17",
+  "children": [
+    "54446@20",
+    "85081@22",
+    "105811@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

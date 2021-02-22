@@ -1,0 +1,24 @@
+{
+  "id": 17293,
+  "name": "Gen 7 Purple Beard",
+  "generation": 7,
+  "created_at": "2017-11-30T13:59:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 7 Purple Beard. My friends describe me as wondrous and annoying. Sometimes I daydream of a life full of licking doorknobs, wet food, and practicing witchcraft. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "16902@5",
+  "sire": "17183@6",
+  "children": [
+    "17414@8",
+    "17534@8",
+    "36576@8",
+    "37578@8",
+    "42705@15",
+    "54244@8",
+    "74201@8",
+    "101500@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

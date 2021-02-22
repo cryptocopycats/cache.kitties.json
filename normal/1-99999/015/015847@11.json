@@ -1,0 +1,20 @@
+{
+  "id": 15847,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-30T08:06:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Kitty #15847. I'm a Skydiving Instructor by day, and I like talking about how much I lift by night. I once got in a fight with a dog, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15226@9",
+  "sire": "5999@10",
+  "children": [
+    "18851@12",
+    "19479@12",
+    "20682@13",
+    "43061@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 16371,
+  "name": "Oscar",
+  "generation": 15,
+  "created_at": "2017-11-30T10:06:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! Oscar here. I'm here to enjoy watching Stranger Things and breakdancing. When no one's home, I invite my pals over and we listen to Coldplay. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "15294@14",
+  "sire": "14300@7",
+  "children": [
+    "42950@16",
+    "54075@16",
+    "148785@25",
+    "362334@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

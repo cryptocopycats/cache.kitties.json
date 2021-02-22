@@ -1,0 +1,19 @@
+{
+  "id": 16631,
+  "name": "cool squirrel",
+  "generation": 12,
+  "created_at": "2017-11-30T11:20:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm cool squirrel. My friends describe me as vegan and gullible. When no one's home, I invite my pals over and we listen to Beyoncé. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "16587@3",
+  "sire": "14476@11",
+  "children": [
+    "20475@14",
+    "22961@14",
+    "55136@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

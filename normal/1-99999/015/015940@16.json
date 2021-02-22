@@ -1,0 +1,20 @@
+{
+  "id": 15940,
+  "name": "StreetCat",
+  "generation": 16,
+  "created_at": "2017-11-30T08:25:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm StreetCat. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7235@10",
+  "sire": "11966@15",
+  "children": [
+    "45577@18",
+    "71539@17",
+    "142367@17",
+    "204611@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

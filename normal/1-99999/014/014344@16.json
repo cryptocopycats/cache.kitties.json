@@ -1,0 +1,20 @@
+{
+  "id": 14344,
+  "name": "Picatchu",
+  "generation": 16,
+  "created_at": "2017-11-30T01:44:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Picatchu. I'm often referred to as the Dwight Schrute of the group. I'm often described as petulant, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "12543@12",
+  "sire": "12822@15",
+  "children": [
+    "18336@17",
+    "26412@17",
+    "40093@21",
+    "123110@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

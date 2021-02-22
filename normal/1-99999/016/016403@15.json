@@ -1,0 +1,19 @@
+{
+  "id": 16403,
+  "name": "Space Gecko",
+  "generation": 15,
+  "created_at": "2017-11-30T10:14:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Space Gecko. In high school, I was voted most likely to work at NASA. I once pawed at a gecko. I don't like to talk about it. Let's pawty!",
+  "language": "en",
+  "matron": "6667@14",
+  "sire": "9665@12",
+  "children": [
+    "22015@16",
+    "23829@18",
+    "84341@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

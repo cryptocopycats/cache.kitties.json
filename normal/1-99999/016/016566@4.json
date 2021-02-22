@@ -1,0 +1,20 @@
+{
+  "id": 16566,
+  "name": "Gen 4 Snappy",
+  "generation": 4,
+  "created_at": "2017-11-30T11:05:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 4 Snappy. My friends describe me as voluptuous and gullible. Sometimes I daydream of a life full of licking doorknobs, cantaloupe, and pole dancing. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14275@3",
+  "sire": "2584@0",
+  "children": [
+    "17435@5",
+    "18660@12",
+    "230191@21",
+    "1153865@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

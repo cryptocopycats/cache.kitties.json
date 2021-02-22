@@ -1,0 +1,20 @@
+{
+  "id": 15732,
+  "name": "GREEN SHINE G6",
+  "generation": 6,
+  "created_at": "2017-11-30T07:42:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm GREEN SHINE G6. My friends describe me as petulant and smelly. I put marmalade on everything. Like, everything: hot dogs, ice cream—everything! Let's pawty!",
+  "language": "en",
+  "matron": "15659@4",
+  "sire": "15669@5",
+  "children": [
+    "18238@9",
+    "18585@7",
+    "18876@8",
+    "40615@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

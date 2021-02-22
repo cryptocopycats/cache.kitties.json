@@ -1,0 +1,21 @@
+{
+  "id": 13000,
+  "name": "💎",
+  "generation": 12,
+  "created_at": "2017-11-29T20:19:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm 💎. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "5205@4",
+  "sire": "6836@11",
+  "children": [
+    "13936@13",
+    "15745@13",
+    "19248@16",
+    "22487@17",
+    "43823@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

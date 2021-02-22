@@ -1,0 +1,20 @@
+{
+  "id": 14234,
+  "name": "Purple Tiger | G10",
+  "generation": 10,
+  "created_at": "2017-11-30T01:22:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Purple Tiger | G10. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13280@9",
+  "sire": "12992@9",
+  "children": [
+    "48640@12",
+    "54013@11",
+    "60365@11",
+    "69686@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

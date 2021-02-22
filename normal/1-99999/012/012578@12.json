@@ -1,0 +1,20 @@
+{
+  "id": 12578,
+  "name": "Jamocha",
+  "generation": 12,
+  "created_at": "2017-11-29T18:30:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Jamocha here. I'm here to enjoy riding unicorns and fighting the patriarchy. When I'm not people-watching, I'm riding the bus! Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "6568@9",
+  "sire": "5168@11",
+  "children": [
+    "48568@16",
+    "57002@13",
+    "90107@22",
+    "111329@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 16569,
+  "name": "Kitty #16569",
+  "generation": 11,
+  "created_at": "2017-11-30T11:05:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #16569. I believe the world is flat. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "13014@10",
+  "sire": "13041@9",
+  "children": [
+    "34751@12",
+    "35530@12",
+    "38047@23",
+    "48731@12",
+    "69820@17",
+    "74238@12",
+    "210024@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

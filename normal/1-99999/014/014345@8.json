@@ -1,0 +1,25 @@
+{
+  "id": 14345,
+  "name": "Patch",
+  "generation": 8,
+  "created_at": "2017-11-30T01:44:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Patch. My friends describe me as wondrous and smelly. My secret indulgence is salad. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14107@7",
+  "sire": "14012@7",
+  "children": [
+    "14481@9",
+    "18760@9",
+    "19726@9",
+    "20926@9",
+    "44044@9",
+    "54444@9",
+    "299749@9",
+    "1276789@9",
+    "1295428@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

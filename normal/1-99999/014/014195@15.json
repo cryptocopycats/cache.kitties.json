@@ -1,0 +1,19 @@
+{
+  "id": 14195,
+  "name": "House Trained",
+  "generation": 15,
+  "created_at": "2017-11-30T01:12:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! My name's House Trained. I once peed on Amelia Earhart's cat. They had it coming. My friends describe me as \"smelly.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10889@1",
+  "sire": "12448@14",
+  "children": [
+    "15098@16",
+    "22383@16",
+    "26799@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

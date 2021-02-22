@@ -1,0 +1,22 @@
+{
+  "id": 17395,
+  "name": "Triforce",
+  "generation": 7,
+  "created_at": "2017-11-30T14:21:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Triforce. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Cleopatra. I like your face.",
+  "language": "en",
+  "matron": "15705@3",
+  "sire": "17350@6",
+  "children": [
+    "17526@13",
+    "17720@8",
+    "18049@10",
+    "19845@13",
+    "72215@9",
+    "109168@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

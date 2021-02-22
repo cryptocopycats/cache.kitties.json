@@ -1,0 +1,24 @@
+{
+  "id": 12352,
+  "name": "Daddy Gen 6",
+  "generation": 6,
+  "created_at": "2017-11-29T17:51:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Daddy Gen 6. In high school, I was voted biggest teacher's pet. My secret indulgence is cereal. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10924@4",
+  "sire": "9580@5",
+  "children": [
+    "13547@10",
+    "44106@9",
+    "48563@15",
+    "56026@19",
+    "66582@20",
+    "75380@17",
+    "116995@14",
+    "367691@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

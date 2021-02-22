@@ -1,0 +1,26 @@
+{
+  "id": 14275,
+  "name": "Mexico City Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T01:31:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Mexico City Gen 3. I want to live in a world where people believe the world is flat. I am 0% sphinx, 91% Ventriloquist, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14096@2",
+  "sire": "10675@2",
+  "children": [
+    "14326@11",
+    "14383@16",
+    "14455@4",
+    "14574@10",
+    "14895@12",
+    "15349@4",
+    "16566@4",
+    "19420@11",
+    "20718@10",
+    "80578@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

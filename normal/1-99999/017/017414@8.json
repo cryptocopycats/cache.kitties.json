@@ -1,0 +1,21 @@
+{
+  "id": 17414,
+  "name": "Doggie | Gen 8",
+  "generation": 8,
+  "created_at": "2017-11-30T14:32:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Doggie | Gen 8. I'm a professional Ventriloquist and I love hamburgers. My friends describe me as \"prickly.\" It's... accurate. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "17209@7",
+  "sire": "17293@7",
+  "children": [
+    "17671@9",
+    "17839@9",
+    "18181@9",
+    "19816@9",
+    "29588@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

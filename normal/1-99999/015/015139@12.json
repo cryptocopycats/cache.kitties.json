@@ -1,0 +1,19 @@
+{
+  "id": 15139,
+  "name": "Professor Gazoo",
+  "generation": 12,
+  "created_at": "2017-11-30T05:26:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Professor Gazoo. I'm often referred to as the Homer Simpson of the group. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found watching reality tv all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "14880@11",
+  "sire": "9195@5",
+  "children": [
+    "25714@13",
+    "45548@18",
+    "83266@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13044,
+  "name": "Blues Clues",
+  "generation": 17,
+  "created_at": "2017-11-29T20:27:56.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Blues Clues. I enjoy riding dirty, eating lasagna, and hitting on yo' man. I was voted biggest teacher's pet in college. Our friendship will be vegan, ridiculous, and full of apple pie.",
+  "language": "en",
+  "matron": "11485@16",
+  "sire": "11407@10",
+  "children": [
+    "15175@18",
+    "21804@18",
+    "50673@18",
+    "79476@18",
+    "118939@18",
+    "307777@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

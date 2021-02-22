@@ -1,0 +1,20 @@
+{
+  "id": 13923,
+  "name": "Gen8 Plod",
+  "generation": 8,
+  "created_at": "2017-11-30T00:14:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen8 Plod. I'm a professional Spin Instructor  and I love cereal. Some people say I'm the Neville Longbottom of the group. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "3135@4",
+  "sire": "5469@7",
+  "children": [
+    "14060@17",
+    "14400@12",
+    "16349@15",
+    "18801@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

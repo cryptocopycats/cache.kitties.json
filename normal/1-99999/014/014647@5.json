@@ -1,0 +1,17 @@
+{
+  "id": 14647,
+  "name": "GEN 5",
+  "generation": 5,
+  "created_at": "2017-11-30T03:04:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm GEN 5. In high school, I was voted school jock. I once made a chimpanzee play. Our friendship will be vegan, annoying, and full of apple pie.",
+  "language": "en",
+  "matron": "7411@4",
+  "sire": "1262@0",
+  "children": [
+    "63402@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15730,
+  "name": "Mindy",
+  "generation": 14,
+  "created_at": "2017-11-30T07:42:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Mindy. All you need to know about me is I hate salad with a passion. I once clawed a dog. I don't like to talk about it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "11334@11",
+  "sire": "10166@13",
+  "children": [
+    "19016@15",
+    "19644@15",
+    "24962@15",
+    "59971@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

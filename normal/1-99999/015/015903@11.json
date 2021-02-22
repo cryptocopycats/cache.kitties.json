@@ -1,0 +1,22 @@
+{
+  "id": 15903,
+  "name": "Swirl",
+  "generation": 11,
+  "created_at": "2017-11-30T08:15:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Swirl. I'm a Culinary Sanitation Specialist by day, and I like riding the bus by night. I was voted school jock in college. I like your face.",
+  "language": "en",
+  "matron": "15474@1",
+  "sire": "8466@10",
+  "children": [
+    "18121@18",
+    "19944@19",
+    "54741@21",
+    "210323@16",
+    "247146@12",
+    "281055@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 16331,
+  "name": "Kakao",
+  "generation": 11,
+  "created_at": "2017-11-30T09:55:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kakao. I'm a professional Private Dancer  and I love cantaloupe. Some people say I'm the Bart Simpson of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15813@6",
+  "sire": "16026@10",
+  "children": [
+    "19095@12",
+    "21005@12",
+    "27365@18",
+    "45599@14",
+    "65019@13",
+    "76414@13",
+    "285396@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

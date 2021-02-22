@@ -1,0 +1,23 @@
+{
+  "id": 13507,
+  "name": "nuclear energy",
+  "generation": 12,
+  "created_at": "2017-11-29T22:25:33.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm nuclear energy. I'm a Train Conductor by day, and I like riding the bus by night. I once got in a fight with a rabbit, and won. Let's get busy!",
+  "language": "en",
+  "matron": "10578@11",
+  "sire": "6083@10",
+  "children": [
+    "13962@13",
+    "15206@18",
+    "18975@18",
+    "23626@14",
+    "24185@16",
+    "102727@18",
+    "163292@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

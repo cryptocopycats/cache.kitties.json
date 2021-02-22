@@ -1,0 +1,23 @@
+{
+  "id": 13755,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T23:22:16.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #13755. I believe the world is flat. When no one's home, I invite my pals over and we listen to Mariah Carey. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12181@9",
+  "sire": "12238@8",
+  "children": [
+    "14649@12",
+    "15202@14",
+    "21797@14",
+    "26063@14",
+    "31526@14",
+    "48609@14",
+    "65293@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

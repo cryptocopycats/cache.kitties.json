@@ -1,0 +1,25 @@
+{
+  "id": 15263,
+  "name": "Gen 4 | Chestnut",
+  "generation": 4,
+  "created_at": "2017-11-30T05:58:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Gen 4 | Chestnut. In high school, I was voted most likely to work at NASA. I like to listen to Wutang while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "5646@3",
+  "sire": "14994@3",
+  "children": [
+    "45554@5",
+    "60233@5",
+    "71330@5",
+    "75784@5",
+    "86718@5",
+    "100720@5",
+    "121730@5",
+    "122210@5",
+    "199794@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

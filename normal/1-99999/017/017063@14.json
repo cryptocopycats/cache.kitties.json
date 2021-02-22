@@ -1,0 +1,19 @@
+{
+  "id": 17063,
+  "name": "Peppermint",
+  "generation": 14,
+  "created_at": "2017-11-30T13:03:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Peppermint here. I'm here to enjoy spinning sick beats and taking selfies. I like to listen to Aretha Franklin while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "10057@12",
+  "sire": "12905@13",
+  "children": [
+    "17955@19",
+    "21119@17",
+    "79065@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

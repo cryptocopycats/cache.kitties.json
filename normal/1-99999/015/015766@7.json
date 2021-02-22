@@ -1,0 +1,19 @@
+{
+  "id": 15766,
+  "name": "Woodburn - Gen 7 - Brisk",
+  "generation": 7,
+  "created_at": "2017-11-30T07:52:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Woodburn - Gen 7 - Brisk. I'm often referred to as the Ross Geller of the group. I am 98% wizard, 66% Skydiving Instructor, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "15700@6",
+  "sire": "15688@5",
+  "children": [
+    "15864@17",
+    "16160@8",
+    "16968@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

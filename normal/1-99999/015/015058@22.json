@@ -1,0 +1,18 @@
+{
+  "id": 15058,
+  "name": "Bonza",
+  "generation": 22,
+  "created_at": "2017-11-30T05:02:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Bonza. I enjoy reading garfield, licking doorknobs, and tricking babies. I once made a platypus sulk. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11236@21",
+  "sire": "6754@5",
+  "children": [
+    "31493@23",
+    "92579@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

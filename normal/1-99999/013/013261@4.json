@@ -1,0 +1,19 @@
+{
+  "id": 13261,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-11-29T21:24:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's G4. I once peed on Amelia Earhart's cat. They had it coming. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12675@3",
+  "sire": "12895@3",
+  "children": [
+    "13374@5",
+    "13917@5",
+    "14355@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

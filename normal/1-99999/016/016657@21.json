@@ -1,0 +1,19 @@
+{
+  "id": 16657,
+  "name": "Zebra Ghost",
+  "generation": 21,
+  "created_at": "2017-11-30T11:24:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Zebra Ghost. All you need to know about me is I hate hamburgers with a passion. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "7837@9",
+  "sire": "11442@20",
+  "children": [
+    "22538@22",
+    "55221@22",
+    "95283@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

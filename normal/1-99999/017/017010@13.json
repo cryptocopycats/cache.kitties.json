@@ -1,0 +1,18 @@
+{
+  "id": 17010,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-30T12:54:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #17010. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6679@12",
+  "sire": "4670@8",
+  "children": [
+    "21639@15",
+    "27786@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

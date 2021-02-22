@@ -1,0 +1,23 @@
+{
+  "id": 13782,
+  "name": "Spooky",
+  "generation": 10,
+  "created_at": "2017-11-29T23:29:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Spooky. I'm a Foreign Film Director by day, and I like summoning ghosts by night. In my free time, I can usually be found wondrous or riding the bus. I like your face.",
+  "language": "en",
+  "matron": "4270@8",
+  "sire": "5021@9",
+  "children": [
+    "38126@14",
+    "57443@11",
+    "76261@11",
+    "99316@11",
+    "260145@11",
+    "281998@11",
+    "323580@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

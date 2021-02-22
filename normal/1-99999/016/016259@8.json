@@ -1,0 +1,20 @@
+{
+  "id": 16259,
+  "name": "Kim Kardashian",
+  "generation": 8,
+  "created_at": "2017-11-30T09:36:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kim Kardashian. I'm a Train Conductor by day, and I like jump-roping by night. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15602@2",
+  "sire": "15839@7",
+  "children": [
+    "16416@9",
+    "18524@9",
+    "246255@20",
+    "310989@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

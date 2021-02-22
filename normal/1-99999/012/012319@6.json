@@ -1,0 +1,26 @@
+{
+  "id": 12319,
+  "name": "Dr. Beardface | Beard",
+  "generation": 6,
+  "created_at": "2017-11-29T17:37:05.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Dr. Beardface | Beard. I've never told anyone this, but I once cleaned a dog. Some people say I'm the Hermione Granger of the group. Our friendship will be tantalizing, preposterous, and full of steak.",
+  "language": "en",
+  "matron": "7103@1",
+  "sire": "10340@5",
+  "children": [
+    "12662@10",
+    "13775@11",
+    "17229@10",
+    "17244@7",
+    "21487@18",
+    "25845@9",
+    "34269@7",
+    "69014@14",
+    "105726@7",
+    "224223@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16802,
+  "name": "Mustard",
+  "generation": 13,
+  "created_at": "2017-11-30T11:53:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Mustard. I'm a professional Spin Instructor  and I love hamburgers. It's not common knowledge, but my ancestry connects me to Confucius. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "16344@12",
+  "sire": "12091@7",
+  "children": [
+    "17258@14",
+    "17753@14",
+    "20368@14",
+    "28629@15",
+    "43098@14",
+    "91168@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

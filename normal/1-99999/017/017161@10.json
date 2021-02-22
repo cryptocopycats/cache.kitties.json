@@ -1,0 +1,21 @@
+{
+  "id": 17161,
+  "name": "BoshKash",
+  "generation": 10,
+  "created_at": "2017-11-30T13:31:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm BoshKash. I've never told anyone this, but I once tricked a dog. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16955@9",
+  "sire": "16990@5",
+  "children": [
+    "18060@15",
+    "18384@11",
+    "52372@11",
+    "81622@15",
+    "224335@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

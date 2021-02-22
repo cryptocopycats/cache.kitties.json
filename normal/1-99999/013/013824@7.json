@@ -1,0 +1,20 @@
+{
+  "id": 13824,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-29T23:44:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #13824. I want to live in a world where people believe that one day cats will rule this planet. I once made a gecko drink. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11911@0",
+  "sire": "10535@6",
+  "children": [
+    "32967@19",
+    "34204@19",
+    "48618@21",
+    "83158@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

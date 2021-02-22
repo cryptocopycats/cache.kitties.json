@@ -1,0 +1,22 @@
+{
+  "id": 13695,
+  "name": "Jared",
+  "generation": 12,
+  "created_at": "2017-11-29T23:14:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Jared. My friends describe me as ridiculous and voluptuous. I like to listen to Frank Sinatra while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5974@8",
+  "sire": "6441@11",
+  "children": [
+    "14811@13",
+    "17460@16",
+    "19557@16",
+    "22936@19",
+    "41435@18",
+    "95102@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

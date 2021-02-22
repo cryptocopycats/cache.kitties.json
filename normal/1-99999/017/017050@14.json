@@ -1,0 +1,19 @@
+{
+  "id": 17050,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-30T13:00:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #17050. I'm a Dogwalker by day, and I like mocking dogs by night. In my free time, I can usually be found brilliant or pole dancing. I like your face.",
+  "language": "en",
+  "matron": "16544@13",
+  "sire": "13566@12",
+  "children": [
+    "18205@18",
+    "36407@15",
+    "92145@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 12606,
+  "name": "Aretha",
+  "generation": 13,
+  "created_at": "2017-11-29T18:38:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! Aretha here. I'm here to enjoy riding unicorns and eating lasagna. When no one's home, I invite my pals over and we listen to Aretha Franklin. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "11058@12",
+  "sire": "11375@8",
+  "children": [
+    "13234@14",
+    "14389@14",
+    "15479@14",
+    "44258@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15211,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-30T05:43:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #15211. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Confucius. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "11307@6",
+  "sire": "10939@1",
+  "children": [
+    "15533@11",
+    "18851@12",
+    "19479@12",
+    "20934@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

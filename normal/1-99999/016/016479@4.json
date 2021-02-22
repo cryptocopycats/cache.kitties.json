@@ -1,0 +1,18 @@
+{
+  "id": 16479,
+  "name": "Kitty4-Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T10:40:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty4-Gen4. All you need to know about me is I hate salad with a passion. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16065@3",
+  "sire": "16020@3",
+  "children": [
+    "16849@5",
+    "68464@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

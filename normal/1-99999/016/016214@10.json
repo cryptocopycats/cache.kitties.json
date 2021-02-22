@@ -1,0 +1,25 @@
+{
+  "id": 16214,
+  "name": "Tigrou",
+  "generation": 10,
+  "created_at": "2017-11-30T09:23:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Tigrou. I want to live in a world where people believe the world is flat. I'm often described as voluptuous, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "14299@9",
+  "sire": "4982@9",
+  "children": [
+    "16395@11",
+    "16945@11",
+    "18702@12",
+    "22420@15",
+    "25351@15",
+    "31423@14",
+    "93568@11",
+    "196760@11",
+    "351328@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

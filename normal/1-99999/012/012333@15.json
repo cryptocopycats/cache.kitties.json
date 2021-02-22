@@ -1,0 +1,18 @@
+{
+  "id": 12333,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T17:49:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Kitty #12333 here. I'm here to enjoy reciting poetry and eating lasagna. I am 87% sphinx, 67% Culinary Sanitation Specialist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4360@6",
+  "sire": "9565@14",
+  "children": [
+    "16462@17",
+    "20663@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

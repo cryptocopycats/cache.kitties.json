@@ -1,0 +1,25 @@
+{
+  "id": 12929,
+  "name": "Blue Dream",
+  "generation": 7,
+  "created_at": "2017-11-29T20:02:47.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! My name's Blue Dream. I once peed on Nelson Mandela's cat. They had it coming. I put ranch dressing on everything. Like, everything: hot dogs, wet food—everything! Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "12774@4",
+  "sire": "12839@6",
+  "children": [
+    "12999@8",
+    "13206@8",
+    "68473@8",
+    "89548@8",
+    "91826@8",
+    "135128@9",
+    "154004@9",
+    "196880@8",
+    "263282@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

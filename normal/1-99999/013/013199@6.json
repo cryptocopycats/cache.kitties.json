@@ -1,0 +1,22 @@
+{
+  "id": 13199,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-29T21:07:42.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #13199. I enjoy grooming, chasing red dots, and spinning sick beats. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "10364@5",
+  "sire": "3664@3",
+  "children": [
+    "13428@20",
+    "24344@20",
+    "24900@22",
+    "53477@16",
+    "72387@22",
+    "85927@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

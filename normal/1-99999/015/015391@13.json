@@ -1,0 +1,21 @@
+{
+  "id": 15391,
+  "name": "Astro",
+  "generation": 13,
+  "created_at": "2017-11-30T06:32:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Astro. I'm a Skydiving Instructor by day, and I like riverdancing by night. I was voted most likely to work at NASA in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6280@12",
+  "sire": "7952@9",
+  "children": [
+    "16013@15",
+    "21170@17",
+    "28681@14",
+    "36066@14",
+    "58311@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

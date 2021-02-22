@@ -1,0 +1,23 @@
+{
+  "id": 15657,
+  "name": "Gen 13 Luckystripe",
+  "generation": 13,
+  "created_at": "2017-11-30T07:30:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen 13 Luckystripe. All you need to know about me is I hate salad with a passion. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11699@12",
+  "sire": "10561@10",
+  "children": [
+    "16776@14",
+    "17675@14",
+    "19890@21",
+    "45167@14",
+    "70337@14",
+    "218405@14",
+    "341655@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

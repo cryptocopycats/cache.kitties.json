@@ -1,0 +1,19 @@
+{
+  "id": 12809,
+  "name": "Mad Queen Cersei",
+  "generation": 10,
+  "created_at": "2017-11-29T19:35:30.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Mad Queen Cersei. I'm often referred to as the Cersei Lannister of the group. I am 96% wizard, 56% Aerobics Athlete , and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "12687@9",
+  "sire": "4524@7",
+  "children": [
+    "13340@11",
+    "13590@13",
+    "42650@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

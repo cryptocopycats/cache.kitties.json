@@ -1,0 +1,18 @@
+{
+  "id": 13112,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-11-29T20:43:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen 21. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "9869@20",
+  "sire": "7030@15",
+  "children": [
+    "18740@22",
+    "31702@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

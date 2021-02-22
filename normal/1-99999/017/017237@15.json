@@ -1,0 +1,21 @@
+{
+  "id": 17237,
+  "name": "Dolph",
+  "generation": 15,
+  "created_at": "2017-11-30T13:48:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Dolph. I'm a professional Foreign Film Director and I love wet food. I put pickles on everything. Like, everything: hot dogs, apple pie—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15909@14",
+  "sire": "12574@12",
+  "children": [
+    "18419@16",
+    "23515@16",
+    "30096@17",
+    "59715@16",
+    "113325@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

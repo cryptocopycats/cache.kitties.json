@@ -1,0 +1,20 @@
+{
+  "id": 17201,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-30T13:39:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! My name's Kitty #17201. I once peed on Martin Luther King Jr.'s cat. They had it coming. When I'm not reading Danielle Steele, I'm running a podcast! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5650@13",
+  "sire": "10201@13",
+  "children": [
+    "22495@15",
+    "29387@15",
+    "31328@15",
+    "42522@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

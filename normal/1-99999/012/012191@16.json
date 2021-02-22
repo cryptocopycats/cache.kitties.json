@@ -1,0 +1,22 @@
+{
+  "id": 12191,
+  "name": "Donatella Drogba",
+  "generation": 16,
+  "created_at": "2017-11-29T14:51:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Donatella Drogba. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10530@8",
+  "sire": "10234@15",
+  "children": [
+    "13638@17",
+    "17286@17",
+    "23012@19",
+    "26136@17",
+    "135499@18",
+    "350788@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

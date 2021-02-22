@@ -1,0 +1,24 @@
+{
+  "id": 16269,
+  "name": "RARE GEN 6",
+  "generation": 6,
+  "created_at": "2017-11-30T09:39:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm RARE GEN 6. I'm often referred to as the Marge Simpson of the group. I once got in a fight with a rabbit, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16088@5",
+  "sire": "16123@5",
+  "children": [
+    "16414@7",
+    "16449@7",
+    "16888@7",
+    "17181@7",
+    "30930@14",
+    "33035@12",
+    "75925@20",
+    "102813@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

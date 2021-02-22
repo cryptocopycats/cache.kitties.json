@@ -1,0 +1,22 @@
+{
+  "id": 15390,
+  "name": "King Mustard",
+  "generation": 14,
+  "created_at": "2017-11-30T06:32:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm King Mustard. My friends describe me as brilliant and preposterous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "6105@13",
+  "sire": "6428@10",
+  "children": [
+    "16586@15",
+    "30740@19",
+    "32496@15",
+    "56748@15",
+    "92661@15",
+    "140857@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

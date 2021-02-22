@@ -1,0 +1,19 @@
+{
+  "id": 14297,
+  "name": "Weston",
+  "generation": 19,
+  "created_at": "2017-11-30T01:36:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Weston. I'm a professional Train Conductor and I love cereal. My great-great-great-great-great-great grandkitty lived with Confucius. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "5106@14",
+  "sire": "8286@18",
+  "children": [
+    "20123@20",
+    "93892@20",
+    "256348@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 14075,
+  "name": "Starter Kitty",
+  "generation": 10,
+  "created_at": "2017-11-30T00:49:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Starter Kitty. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be raunchy, smelly, and full of salad.",
+  "language": "en",
+  "matron": "4467@9",
+  "sire": "10120@6",
+  "children": [
+    "45505@12",
+    "74259@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

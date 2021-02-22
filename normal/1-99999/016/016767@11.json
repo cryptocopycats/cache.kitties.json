@@ -1,0 +1,23 @@
+{
+  "id": 16767,
+  "name": "Garfield",
+  "generation": 11,
+  "created_at": "2017-11-30T11:45:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! Garfield here. I'm here to enjoy licking doorknobs and eating lasagna. I once headbutted a labradoodle. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6372@10",
+  "sire": "6185@5",
+  "children": [
+    "18595@14",
+    "18853@16",
+    "20046@15",
+    "23924@15",
+    "27333@14",
+    "57958@16",
+    "66190@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

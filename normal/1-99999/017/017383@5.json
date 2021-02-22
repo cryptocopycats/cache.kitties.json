@@ -1,0 +1,25 @@
+{
+  "id": 17383,
+  "name": "Gen 5 | Swampgreen | Lucky",
+  "generation": 5,
+  "created_at": "2017-11-30T14:19:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 5 | Swampgreen | Lucky. In high school, I was voted biggest teacher's pet. I'm often described as tantalizing, and I own it. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "14555@4",
+  "sire": "16056@2",
+  "children": [
+    "32123@6",
+    "32960@11",
+    "34767@6",
+    "35724@6",
+    "39313@6",
+    "47007@6",
+    "70824@6",
+    "82822@6",
+    "186007@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

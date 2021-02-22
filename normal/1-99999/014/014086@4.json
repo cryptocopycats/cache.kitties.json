@@ -1,0 +1,18 @@
+{
+  "id": 14086,
+  "name": "Iggy",
+  "generation": 4,
+  "created_at": "2017-11-30T00:50:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Iggy. I enjoy picking on mice, chasing string, and breakdancing. My great-great-great-great-great-great grandkitty lived with Cleopatra. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "2579@0",
+  "sire": "14030@3",
+  "children": [
+    "14105@5",
+    "25813@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 14995,
+  "name": "GGD",
+  "generation": 4,
+  "created_at": "2017-11-30T04:45:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm GGD. I'm a Dispensary Clerk by day, and I like prank-calling celebrities by night. Some people say I'm the Samwise Gamgee of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "11060@0",
+  "sire": "13467@3",
+  "children": [
+    "15088@9",
+    "15155@5",
+    "15672@9",
+    "18745@19",
+    "21036@8",
+    "34968@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

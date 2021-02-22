@@ -1,0 +1,19 @@
+{
+  "id": 15407,
+  "name": "Moth",
+  "generation": 13,
+  "created_at": "2017-11-30T06:36:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! Moth here. I'm here to enjoy reading garfield and fighting the patriarchy. In my free time, I can usually be found wondrous or prank-calling celebrities. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "14568@12",
+  "sire": "14193@12",
+  "children": [
+    "19699@14",
+    "84062@15",
+    "196065@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

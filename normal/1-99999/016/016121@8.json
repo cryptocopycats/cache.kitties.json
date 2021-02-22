@@ -1,0 +1,20 @@
+{
+  "id": 16121,
+  "name": "Dance Socadance",
+  "generation": 8,
+  "created_at": "2017-11-30T09:02:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Dance Socadance. My friends describe me as gullible and raunchy. Sometimes I daydream of a life full of glaring at the neighbour's cat, cereal, and swiping left. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "15876@7",
+  "sire": "15680@6",
+  "children": [
+    "17328@9",
+    "45588@16",
+    "113047@13",
+    "183960@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

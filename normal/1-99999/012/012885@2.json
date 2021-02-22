@@ -1,0 +1,27 @@
+{
+  "id": 12885,
+  "name": "Mousekerville",
+  "generation": 2,
+  "created_at": "2017-11-29T19:50:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Mousekerville. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "10710@1",
+  "sire": "6810@1",
+  "children": [
+    "13291@4",
+    "13591@4",
+    "13878@9",
+    "16695@14",
+    "19924@11",
+    "31658@11",
+    "45471@10",
+    "48591@11",
+    "76489@3",
+    "103218@3",
+    "213718@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 15414,
+  "name": "Inspector Meow",
+  "generation": 4,
+  "created_at": "2017-11-30T06:37:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Inspector Meow. I'm often referred to as the Dwight Schrute of the group. I am 51% elf, 28% Train Conductor, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "14179@3",
+  "sire": "15198@1",
+  "children": [
+    "16586@15",
+    "26674@5",
+    "32496@15",
+    "56748@15",
+    "89195@15",
+    "94707@5",
+    "108419@16",
+    "226279@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

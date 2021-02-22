@@ -1,0 +1,19 @@
+{
+  "id": 13761,
+  "name": "Garfield",
+  "generation": 17,
+  "created_at": "2017-11-29T23:23:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! My name's Garfield. I once peed on Princess Diana's cat. They had it coming. I'm often described as hairy, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12955@11",
+  "sire": "10610@16",
+  "children": [
+    "71082@20",
+    "93215@18",
+    "118071@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

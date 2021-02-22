@@ -1,0 +1,25 @@
+{
+  "id": 16095,
+  "name": "A2 Gen 2 | Gen2 | 5K",
+  "generation": 2,
+  "created_at": "2017-11-30T08:56:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm A2 Gen 2 | Gen2 | 5K. My friends describe me as brilliant and hairy. I am 51% sphinx, 15% Train Conductor, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14232@1",
+  "sire": "6037@1",
+  "children": [
+    "17401@3",
+    "17421@3",
+    "38911@3",
+    "45586@3",
+    "53280@3",
+    "60829@3",
+    "77727@3",
+    "315090@3",
+    "334629@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

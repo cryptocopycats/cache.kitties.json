@@ -1,0 +1,20 @@
+{
+  "id": 15078,
+  "name": "Teachers Pet",
+  "generation": 14,
+  "created_at": "2017-11-30T05:09:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Teachers Pet. I enjoy being a nevernude, picking on mice, and fighting for the people. I was voted biggest teacher's pet in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11427@8",
+  "sire": "12413@13",
+  "children": [
+    "17597@15",
+    "28841@15",
+    "35792@15",
+    "71159@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

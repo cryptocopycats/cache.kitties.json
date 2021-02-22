@@ -1,0 +1,19 @@
+{
+  "id": 13852,
+  "name": "Gen18 Sluggish",
+  "generation": 18,
+  "created_at": "2017-11-29T23:53:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen18 Sluggish. I'm often referred to as the Niles Crane of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "11273@15",
+  "sire": "10084@17",
+  "children": [
+    "17527@19",
+    "23385@19",
+    "43388@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

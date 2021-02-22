@@ -1,0 +1,28 @@
+{
+  "id": 12846,
+  "name": "Sundae",
+  "generation": 3,
+  "created_at": "2017-11-29T19:48:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Sundae. I'm a Culinary Sanitation Specialist by day, and I like running a podcast by night. When no one's home, I invite my pals over and we listen to Beyoncé. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "12065@2",
+  "sire": "12245@2",
+  "children": [
+    "13153@15",
+    "13291@4",
+    "13460@17",
+    "13918@5",
+    "16291@17",
+    "19784@5",
+    "39594@4",
+    "52166@4",
+    "71066@4",
+    "72949@4",
+    "120346@4",
+    "263185@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

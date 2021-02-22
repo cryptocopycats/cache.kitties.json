@@ -1,0 +1,19 @@
+{
+  "id": 15115,
+  "name": "Donkey Kong",
+  "generation": 15,
+  "created_at": "2017-11-30T05:16:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's Donkey Kong. I once peed on Martin Luther King Jr.'s cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "13682@4",
+  "sire": "9016@14",
+  "children": [
+    "17047@17",
+    "18305@16",
+    "21738@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

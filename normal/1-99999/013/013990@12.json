@@ -1,0 +1,18 @@
+{
+  "id": 13990,
+  "name": "Bruce Lee",
+  "generation": 12,
+  "created_at": "2017-11-30T00:30:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! Bruce Lee here. I'm here to enjoy slappin' da bass and picking flowers. It's not common knowledge, but my ancestry connects me to Confucius. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8274@11",
+  "sire": "8668@11",
+  "children": [
+    "14865@16",
+    "15971@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

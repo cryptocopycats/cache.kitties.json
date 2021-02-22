@@ -1,0 +1,20 @@
+{
+  "id": 13581,
+  "name": "Butters",
+  "generation": 14,
+  "created_at": "2017-11-29T22:40:22.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Butters. I'm a Mad Scientist by day, and I like pole dancing by night. I put marmite on everything. Like, everything: hot dogs, cereal—everything! I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "12891@12",
+  "sire": "12573@13",
+  "children": [
+    "20099@18",
+    "69988@15",
+    "314203@20",
+    "319517@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

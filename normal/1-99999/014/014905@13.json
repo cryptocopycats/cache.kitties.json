@@ -1,0 +1,21 @@
+{
+  "id": 14905,
+  "name": "Aurora",
+  "generation": 13,
+  "created_at": "2017-11-30T04:20:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Aurora. I've never told anyone this, but I once tricked a dog. I'm often described as gorgeous, and I own it. I like your face.",
+  "language": "en",
+  "matron": "11915@12",
+  "sire": "11141@7",
+  "children": [
+    "15337@14",
+    "20126@14",
+    "22749@19",
+    "26162@16",
+    "85179@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 17018,
+  "name": "X Soda",
+  "generation": 1,
+  "created_at": "2017-11-30T12:56:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm X Soda. All you need to know about me is I hate lasagna with a passion. I once made a platypus enjoy. Our friendship will be petulant, preposterous, and full of apple pie.",
+  "language": "en",
+  "matron": "12596@0",
+  "sire": "12360@0",
+  "children": [
+    "17076@14",
+    "19297@14",
+    "23102@19",
+    "28909@2",
+    "65263@2",
+    "77303@2",
+    "90008@2",
+    "103685@2",
+    "125747@2",
+    "166807@2",
+    "215282@2",
+    "416308@2",
+    "462471@2",
+    "505568@2",
+    "561435@2",
+    "625219@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

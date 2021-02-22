@@ -1,0 +1,26 @@
+{
+  "id": 16593,
+  "name": "G5 | 0++",
+  "generation": 5,
+  "created_at": "2017-11-30T11:10:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's G5 | 0++. I once peed on King Henry VIII's cat. They had it coming. I once made a moose leap. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16317@2",
+  "sire": "16444@4",
+  "children": [
+    "16732@6",
+    "16751@6",
+    "16833@8",
+    "17285@7",
+    "17786@7",
+    "19041@6",
+    "20423@6",
+    "31195@6",
+    "66779@6",
+    "98191@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

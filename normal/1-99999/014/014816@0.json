@@ -1,0 +1,23 @@
+{
+  "id": 14816,
+  "name": "Hector",
+  "generation": 0,
+  "created_at": "2017-11-30T03:55:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Hector. I enjoy picking on mice, eating lasagna, and riding dirty. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24188@1",
+    "24200@1",
+    "24275@1",
+    "24474@1",
+    "24550@1",
+    "68154@1",
+    "70889@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

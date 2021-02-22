@@ -1,0 +1,22 @@
+{
+  "id": 14136,
+  "name": "Miss Ninny",
+  "generation": 11,
+  "created_at": "2017-11-30T01:02:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Miss Ninny. I've never told anyone this, but I once pranced with a dog. I like to listen to Justin Bieber while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "13238@10",
+  "sire": "7750@10",
+  "children": [
+    "14766@12",
+    "17758@14",
+    "19236@12",
+    "19865@13",
+    "35425@17",
+    "75384@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

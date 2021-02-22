@@ -1,0 +1,19 @@
+{
+  "id": 16872,
+  "name": "G4 | Trash Panda",
+  "generation": 4,
+  "created_at": "2017-11-30T12:23:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm G4 | Trash Panda. I'm a professional Ventriloquist and I love cantaloupe. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16065@3",
+  "sire": "16652@3",
+  "children": [
+    "17137@5",
+    "44749@5",
+    "48750@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

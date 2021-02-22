@@ -1,0 +1,26 @@
+{
+  "id": 15639,
+  "name": "Mudkip",
+  "generation": 2,
+  "created_at": "2017-11-30T07:25:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Mudkip here. I'm here to enjoy shakin' dat booty and sweating through my feet. I like to listen to Coldplay while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3501@1",
+  "sire": "3670@1",
+  "children": [
+    "15681@3",
+    "27189@3",
+    "27399@3",
+    "27628@4",
+    "32009@4",
+    "38686@3",
+    "41179@3",
+    "55983@3",
+    "71158@3",
+    "324932@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 15679,
+  "name": "DNS G3 Good Genes",
+  "generation": 3,
+  "created_at": "2017-11-30T07:33:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm DNS G3 Good Genes. My friends describe me as raunchy and brilliant. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15538@2",
+  "sire": "15566@2",
+  "children": [
+    "15719@4",
+    "15765@4",
+    "16025@4",
+    "16297@4",
+    "16447@4",
+    "18904@4",
+    "20657@4",
+    "21336@4",
+    "45567@4",
+    "77541@4",
+    "139899@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

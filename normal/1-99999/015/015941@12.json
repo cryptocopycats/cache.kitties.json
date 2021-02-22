@@ -1,0 +1,20 @@
+{
+  "id": 15941,
+  "name": "Honeydew",
+  "generation": 12,
+  "created_at": "2017-11-30T08:25:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Honeydew here. I'm here to enjoy picking flowers and grooming. When no one's home, I invite my pals over and we listen to Aretha Franklin. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "5969@11",
+  "sire": "3071@5",
+  "children": [
+    "18396@13",
+    "57545@17",
+    "533187@13",
+    "548837@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

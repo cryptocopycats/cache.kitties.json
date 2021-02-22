@@ -1,0 +1,17 @@
+{
+  "id": 13499,
+  "name": "GEN 2 SWIFT",
+  "generation": 2,
+  "created_at": "2017-11-29T22:25:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm GEN 2 SWIFT. I've never told anyone this, but I once snuggled a dog. I put marmite on everything. Like, everything: hot dogs, cantaloupe—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10359@1",
+  "sire": "13408@1",
+  "children": [
+    "13531@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

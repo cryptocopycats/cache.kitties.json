@@ -1,0 +1,21 @@
+{
+  "id": 12362,
+  "name": "Fur-tunate",
+  "generation": 13,
+  "created_at": "2017-11-29T17:53:21.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Fur-tunate. I believe the world is flat. I once got in a fight with a moose, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4175@11",
+  "sire": "5831@12",
+  "children": [
+    "12956@14",
+    "27443@17",
+    "39082@16",
+    "48812@14",
+    "95809@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

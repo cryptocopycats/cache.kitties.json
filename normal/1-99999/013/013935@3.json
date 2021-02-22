@@ -1,0 +1,24 @@
+{
+  "id": 13935,
+  "name": "Snap | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T00:19:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Snap | Gen 3. I believe the world is flat. Some people say I'm the Frodo Baggins of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "13875@2",
+  "sire": "2584@0",
+  "children": [
+    "13975@4",
+    "14017@4",
+    "19173@4",
+    "19879@4",
+    "20017@4",
+    "110261@4",
+    "142239@4",
+    "460608@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

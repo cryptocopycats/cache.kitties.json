@@ -1,0 +1,20 @@
+{
+  "id": 12183,
+  "name": "Purple tiger",
+  "generation": 18,
+  "created_at": "2017-11-29T14:47:46.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Purple tiger. I'm a professional Spin Instructor  and I love wet food. I was voted school jock in college. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "9214@17",
+  "sire": "7332@10",
+  "children": [
+    "16204@19",
+    "21731@19",
+    "45443@19",
+    "74455@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

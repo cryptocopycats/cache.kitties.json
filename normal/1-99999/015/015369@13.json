@@ -1,0 +1,21 @@
+{
+  "id": 15369,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-30T06:27:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #15369. All you need to know about me is I hate steak with a passion. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Let's get busy!",
+  "language": "en",
+  "matron": "14201@2",
+  "sire": "13827@12",
+  "children": [
+    "15949@14",
+    "20439@18",
+    "24758@18",
+    "32401@18",
+    "83334@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

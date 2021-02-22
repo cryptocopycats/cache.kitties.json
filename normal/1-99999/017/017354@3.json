@@ -1,0 +1,18 @@
+{
+  "id": 17354,
+  "name": "Catserole | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T14:15:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Catserole | Gen 3. I'm often referred to as the Frodo Baggins of the group. When no one's home, I invite my pals over and we listen to Gloria Estefan. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15896@2",
+  "sire": "15725@2",
+  "children": [
+    "17394@4",
+    "19284@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

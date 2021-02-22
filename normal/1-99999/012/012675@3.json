@@ -1,0 +1,22 @@
+{
+  "id": 12675,
+  "name": "G3",
+  "generation": 3,
+  "created_at": "2017-11-29T18:39:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G3. All you need to know about me is I hate lasagna with a passion. I once groomed a labradoodle. I don't like to talk about it. Will you be the wasabi to my marmite?",
+  "language": "en",
+  "matron": "12240@1",
+  "sire": "10999@2",
+  "children": [
+    "12736@4",
+    "12819@5",
+    "12896@4",
+    "13261@4",
+    "13524@4",
+    "14103@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

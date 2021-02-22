@@ -1,0 +1,23 @@
+{
+  "id": 15655,
+  "name": "Brisk",
+  "generation": 4,
+  "created_at": "2017-11-30T07:30:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! My name's Brisk. I once peed on Princess Diana's cat. They had it coming. When I'm not summoning ghosts, I'm prank-calling celebrities! I like your face.",
+  "language": "en",
+  "matron": "12621@0",
+  "sire": "15555@3",
+  "children": [
+    "15853@5",
+    "16006@5",
+    "16509@5",
+    "18544@5",
+    "53424@5",
+    "106249@7",
+    "211471@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

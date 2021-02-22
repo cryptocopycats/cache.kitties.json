@@ -1,0 +1,19 @@
+{
+  "id": 17167,
+  "name": "Slugger",
+  "generation": 17,
+  "created_at": "2017-11-30T13:31:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! Slugger here. I'm here to enjoy eating lasagna and grooming. When no one's home, I invite my pals over and we listen to Beyoncé. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "14819@16",
+  "sire": "15225@14",
+  "children": [
+    "21102@18",
+    "23390@18",
+    "59979@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

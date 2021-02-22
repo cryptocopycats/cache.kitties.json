@@ -1,0 +1,19 @@
+{
+  "id": 14446,
+  "name": "Milli",
+  "generation": 16,
+  "created_at": "2017-11-30T02:16:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Milli. I'm a professional Private Dancer  and I love salad. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "13118@15",
+  "sire": "13448@14",
+  "children": [
+    "15305@17",
+    "20292@17",
+    "52156@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

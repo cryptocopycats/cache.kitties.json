@@ -1,0 +1,33 @@
+{
+  "id": 12772,
+  "name": "Le Catmachine",
+  "generation": 1,
+  "created_at": "2017-11-29T19:18:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Le Catmachine. I enjoy eating until I loathe myself, sitting on your computer, and being a nevernude. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Let's pawty!",
+  "language": "en",
+  "matron": "2395@0",
+  "sire": "2434@0",
+  "children": [
+    "12990@12",
+    "13440@11",
+    "13532@11",
+    "13675@17",
+    "13955@10",
+    "15609@20",
+    "16757@12",
+    "19743@13",
+    "26960@2",
+    "29961@2",
+    "40979@2",
+    "69082@2",
+    "218876@2",
+    "254804@2",
+    "418701@2",
+    "450933@2",
+    "1614876@2"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 16321,
+  "name": "Red Stripe",
+  "generation": 10,
+  "created_at": "2017-11-30T09:52:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Red Stripe. I believe that one day cats will rule this planet. My friends describe me as \"ridiculous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "13843@9",
+  "sire": "13575@7",
+  "children": [
+    "16538@11",
+    "20721@11",
+    "29710@15",
+    "58973@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14873,
+  "name": "Goggles",
+  "generation": 10,
+  "created_at": "2017-11-30T04:11:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Goggles. I'm a Skydiving Instructor by day, and I like people-watching by night. I am 29% troll, 21% Foreign Film Director, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3698@1",
+  "sire": "8556@9",
+  "children": [
+    "16988@11",
+    "21089@11",
+    "430520@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

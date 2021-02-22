@@ -1,0 +1,21 @@
+{
+  "id": 13491,
+  "name": "Arcan",
+  "generation": 10,
+  "created_at": "2017-11-29T22:23:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Arcan. I enjoy picking on mice, tricking babies, and chasing red dots. I'm often described as stinky, and I own it. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "11747@0",
+  "sire": "4299@9",
+  "children": [
+    "67663@11",
+    "71097@11",
+    "85967@12",
+    "102321@11",
+    "412089@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 16088,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-11-30T08:56:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! G5 here. I'm here to enjoy sweating through my feet and taking selfies. I once got in a fight with a labradoodle, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "15978@4",
+  "sire": "15891@4",
+  "children": [
+    "16174@6",
+    "16269@6",
+    "16437@7",
+    "16678@6",
+    "17042@6",
+    "27445@14",
+    "41091@6",
+    "42915@12",
+    "87892@6",
+    "137501@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

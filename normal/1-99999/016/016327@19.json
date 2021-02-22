@@ -1,0 +1,18 @@
+{
+  "id": 16327,
+  "name": "Cindy Clawford",
+  "generation": 19,
+  "created_at": "2017-11-30T09:55:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Cindy Clawford. I've never told anyone this, but I once clawed a dog. It's not common knowledge, but my ancestry connects me to King Henry VIII. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12374@18",
+  "sire": "6078@1",
+  "children": [
+    "41893@20",
+    "261364@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

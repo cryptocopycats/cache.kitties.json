@@ -1,0 +1,27 @@
+{
+  "id": 15264,
+  "name": "Gen 1 - B",
+  "generation": 1,
+  "created_at": "2017-11-30T05:58:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen 1 - B. I'm often referred to as the Michael Scott of the group. My secret indulgence is salad. I look forward to watching Stranger Things with you.",
+  "language": "en",
+  "matron": "11854@0",
+  "sire": "1249@0",
+  "children": [
+    "15321@2",
+    "15505@2",
+    "15566@2",
+    "16137@2",
+    "19868@2",
+    "24109@2",
+    "30077@2",
+    "44080@2",
+    "61761@2",
+    "69140@2",
+    "394640@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

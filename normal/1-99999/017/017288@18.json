@@ -1,0 +1,20 @@
+{
+  "id": 17288,
+  "name": "Orange Kitty",
+  "generation": 18,
+  "created_at": "2017-11-30T13:57:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Orange Kitty. I'm often referred to as the Homer Simpson of the group. When I'm not watching reality tv, I'm mocking dogs! I like your face.",
+  "language": "en",
+  "matron": "10248@10",
+  "sire": "12222@17",
+  "children": [
+    "21376@19",
+    "116271@23",
+    "180441@19",
+    "265741@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

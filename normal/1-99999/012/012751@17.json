@@ -1,0 +1,19 @@
+{
+  "id": 12751,
+  "name": "Proserpine",
+  "generation": 17,
+  "created_at": "2017-11-29T19:08:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Proserpine. I want to live in a world where people believe the world is flat. I am 22% fairy, 57% Skydiving Instructor, and otherwise bad at math. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "11479@16",
+  "sire": "4131@5",
+  "children": [
+    "15279@18",
+    "21279@18",
+    "70009@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

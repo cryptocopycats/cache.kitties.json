@@ -1,0 +1,18 @@
+{
+  "id": 12348,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-11-29T17:51:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #12348. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of tricking babies, chocolate, and mocking dogs. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "10079@21",
+  "sire": "10080@18",
+  "children": [
+    "16085@23",
+    "31486@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

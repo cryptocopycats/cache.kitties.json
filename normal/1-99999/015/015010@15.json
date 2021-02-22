@@ -1,0 +1,20 @@
+{
+  "id": 15010,
+  "name": "Oak",
+  "generation": 15,
+  "created_at": "2017-11-30T04:48:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Oak. I'm a professional Aerobics Athlete  and I love apple pie. I was voted school jock in college. I look forward to fighting the patriarchy with you.",
+  "language": "en",
+  "matron": "14797@3",
+  "sire": "14016@14",
+  "children": [
+    "15388@16",
+    "20587@16",
+    "76593@19",
+    "103801@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

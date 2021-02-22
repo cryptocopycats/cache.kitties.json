@@ -1,0 +1,18 @@
+{
+  "id": 12569,
+  "name": "Gen 12 chestnus",
+  "generation": 12,
+  "created_at": "2017-11-29T18:29:22.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Gen 12 chestnus. My friends describe me as voluptuous and petulant. My secret indulgence is hamburgers. Will you be the ghost pepper hot sauce to my maple syrup?",
+  "language": "en",
+  "matron": "10920@11",
+  "sire": "10886@11",
+  "children": [
+    "14221@13",
+    "16660@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

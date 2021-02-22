@@ -1,0 +1,18 @@
+{
+  "id": 13248,
+  "name": "MauMau",
+  "generation": 16,
+  "created_at": "2017-11-29T21:20:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm MauMau. I'm a professional Ventriloquist and I love apple pie. I once made a rooster ignore. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "8301@6",
+  "sire": "6877@15",
+  "children": [
+    "15554@17",
+    "81997@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13009,
+  "name": "Sir Charles 0",
+  "generation": 9,
+  "created_at": "2017-11-29T20:22:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Sir Charles 0. I'm a professional Dispensary Clerk and I love hamburgers. Some people say I'm the Chandler Bing of the group. Our friendship will be preposterous, smelly, and full of apple pie.",
+  "language": "en",
+  "matron": "4775@5",
+  "sire": "5177@8",
+  "children": [
+    "13236@10",
+    "151059@10",
+    "156888@10",
+    "169700@10",
+    "203951@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

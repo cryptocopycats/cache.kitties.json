@@ -1,0 +1,23 @@
+{
+  "id": 13984,
+  "name": "Mad Scientist",
+  "generation": 15,
+  "created_at": "2017-11-30T00:28:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mad Scientist. I'm a professional Mad Scientist and I love salad. My secret indulgence is steak. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12947@14",
+  "sire": "6075@1",
+  "children": [
+    "15406@16",
+    "15828@16",
+    "17987@16",
+    "84684@19",
+    "95057@16",
+    "254517@20",
+    "292612@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

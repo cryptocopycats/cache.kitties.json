@@ -1,0 +1,22 @@
+{
+  "id": 14172,
+  "name": "Mentos",
+  "generation": 13,
+  "created_at": "2017-11-30T01:09:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! Mentos here. I'm here to enjoy shakin' dat booty and taking selfies. I was voted school jock in college. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "12430@10",
+  "sire": "8128@12",
+  "children": [
+    "16527@17",
+    "28643@14",
+    "48650@14",
+    "60493@16",
+    "85658@19",
+    "192127@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 12543,
+  "name": "Gen12 Sluggish Green Monster",
+  "generation": 12,
+  "created_at": "2017-11-29T18:25:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen12 Sluggish Green Monster. I'm a professional Dogwalker and I love cantaloupe. I would give it all up to be on Oprah. I like your face.",
+  "language": "en",
+  "matron": "12075@11",
+  "sire": "2584@0",
+  "children": [
+    "13383@13",
+    "14344@16",
+    "17477@13",
+    "21492@13",
+    "22503@15",
+    "29342@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

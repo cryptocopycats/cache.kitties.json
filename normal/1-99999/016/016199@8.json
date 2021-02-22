@@ -1,0 +1,18 @@
+{
+  "id": 16199,
+  "name": "Brownies",
+  "generation": 8,
+  "created_at": "2017-11-30T09:20:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Brownies. I enjoy eating until I loathe myself, shakin' dat booty, and reciting poetry. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15787@6",
+  "sire": "15824@7",
+  "children": [
+    "16358@9",
+    "58012@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

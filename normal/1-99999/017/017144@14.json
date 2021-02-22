@@ -1,0 +1,21 @@
+{
+  "id": 17144,
+  "name": "BBQ",
+  "generation": 14,
+  "created_at": "2017-11-30T13:25:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm BBQ. I'm a professional Mad Scientist and I love chocolate. Sometimes I daydream of a life full of riding unicorns, hamburgers, and jump-roping. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "5253@10",
+  "sire": "12445@13",
+  "children": [
+    "18115@15",
+    "20338@15",
+    "42850@15",
+    "114589@19",
+    "244138@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

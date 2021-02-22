@@ -1,0 +1,25 @@
+{
+  "id": 15194,
+  "name": "Psycat",
+  "generation": 9,
+  "created_at": "2017-11-30T05:39:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Psycat. I once peed on Amelia Earhart's cat. They had it coming. I once got in a fight with a rhino, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "13916@7",
+  "sire": "14982@8",
+  "children": [
+    "15648@10",
+    "24816@10",
+    "26002@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

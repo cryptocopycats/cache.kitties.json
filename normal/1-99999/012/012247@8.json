@@ -1,0 +1,21 @@
+{
+  "id": 12247,
+  "name": "Skid-Mark Steve",
+  "generation": 8,
+  "created_at": "2017-11-29T15:15:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Skid-Mark Steve. In high school, I was voted most likely to work at NASA. Some people say I'm the Ross Geller of the group. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "3221@3",
+  "sire": "4945@7",
+  "children": [
+    "13454@10",
+    "14815@9",
+    "19311@10",
+    "29150@16",
+    "56682@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

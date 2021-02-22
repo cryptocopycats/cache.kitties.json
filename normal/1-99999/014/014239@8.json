@@ -1,0 +1,20 @@
+{
+  "id": 14239,
+  "name": "Snark",
+  "generation": 8,
+  "created_at": "2017-11-30T01:23:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Snark. I'm a Aerobics Athlete  by day, and I like jump-roping by night. In my free time, I can usually be found fabulous or prank-calling celebrities. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12901@7",
+  "sire": "12988@7",
+  "children": [
+    "20466@9",
+    "21191@9",
+    "47914@9",
+    "53554@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

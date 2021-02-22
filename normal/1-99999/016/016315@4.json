@@ -1,0 +1,27 @@
+{
+  "id": 16315,
+  "name": "L - GEN 4",
+  "generation": 4,
+  "created_at": "2017-11-30T09:52:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm L - GEN 4. I'm a Aerobics Athlete  by day, and I like volunteering at the local kitten rescue shelter by night. My great-great-great-great-great-great grandkitty lived with Princess Diana. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "15597@3",
+  "sire": "15721@3",
+  "children": [
+    "18767@5",
+    "21884@20",
+    "23841@19",
+    "27646@20",
+    "36434@5",
+    "44436@5",
+    "50864@5",
+    "57502@7",
+    "79515@5",
+    "232648@13",
+    "363528@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

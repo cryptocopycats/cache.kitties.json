@@ -1,0 +1,22 @@
+{
+  "id": 16789,
+  "name": "Gen 10",
+  "generation": 10,
+  "created_at": "2017-11-30T11:50:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 10. I enjoy tricking babies, sitting on your computer, and reading garfield. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13137@9",
+  "sire": "10733@9",
+  "children": [
+    "17683@17",
+    "20827@19",
+    "21113@16",
+    "59512@12",
+    "59979@18",
+    "87420@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

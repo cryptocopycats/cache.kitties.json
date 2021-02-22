@@ -1,0 +1,17 @@
+{
+  "id": 17029,
+  "name": "Catapult | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T12:57:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Catapult | Gen3. In high school, I was voted most likely to work at NASA. I once dreamed of being a Dogwalker. Now I can be found riding the bus all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15829@2",
+  "sire": "16592@2",
+  "children": [
+    "17057@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

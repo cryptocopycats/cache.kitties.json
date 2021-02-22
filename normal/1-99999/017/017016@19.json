@@ -1,0 +1,20 @@
+{
+  "id": 17016,
+  "name": "Dark Mountain",
+  "generation": 19,
+  "created_at": "2017-11-30T12:55:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Dark Mountain. I'm a Train Conductor by day, and I like sleeping in fresh laundry by night. My friends describe me as \"despicable.\" It's... accurate. Will you be the garlic butter to my marmite?",
+  "language": "en",
+  "matron": "9733@15",
+  "sire": "9841@18",
+  "children": [
+    "20953@20",
+    "32883@20",
+    "99061@20",
+    "253137@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

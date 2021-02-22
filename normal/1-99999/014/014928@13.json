@@ -1,0 +1,18 @@
+{
+  "id": 14928,
+  "name": "13",
+  "generation": 13,
+  "created_at": "2017-11-30T04:25:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 13. I'm a Skydiving Instructor by day, and I like riding the bus by night. I'm often described as petulant, and I own it. I like your face.",
+  "language": "en",
+  "matron": "7816@9",
+  "sire": "8532@12",
+  "children": [
+    "15375@14",
+    "50897@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

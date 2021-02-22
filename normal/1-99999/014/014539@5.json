@@ -1,0 +1,19 @@
+{
+  "id": 14539,
+  "name": "Pi",
+  "generation": 5,
+  "created_at": "2017-11-30T02:39:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Pi. I've never told anyone this, but I once kissed a dog. My friends describe me as \"brilliant.\" It's... accurate. Our friendship will be tantalizing, voluptuous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "11233@3",
+  "sire": "14318@4",
+  "children": [
+    "14572@6",
+    "20471@14",
+    "236779@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 12168,
+  "name": "Greenoid",
+  "generation": 1,
+  "created_at": "2017-11-29T14:39:46.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Greenoid. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "1037@0",
+  "sire": "1073@0",
+  "children": [
+    "16240@16",
+    "18014@19",
+    "19466@17",
+    "21536@20",
+    "21920@17",
+    "151149@2",
+    "154957@2",
+    "183615@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

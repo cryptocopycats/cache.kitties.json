@@ -1,0 +1,23 @@
+{
+  "id": 16787,
+  "name": "Vladimir Lenin",
+  "generation": 13,
+  "created_at": "2017-11-30T11:49:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Vladimir Lenin. I've never told anyone this, but I once cleaned a dog. I was voted most likely to work at NASA in college. Will you be the maple syrup to my wasabi?",
+  "language": "en",
+  "matron": "13671@6",
+  "sire": "14150@12",
+  "children": [
+    "17236@14",
+    "18152@14",
+    "19047@14",
+    "27686@14",
+    "50954@18",
+    "122970@14",
+    "158458@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 16998,
+  "name": "Fluff",
+  "generation": 10,
+  "created_at": "2017-11-30T12:48:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Fluff. I believe the world is flat. I once made a rabbit ignore. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "4712@8",
+  "sire": "6321@9",
+  "children": [
+    "34414@11",
+    "43888@11",
+    "48755@17",
+    "74078@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

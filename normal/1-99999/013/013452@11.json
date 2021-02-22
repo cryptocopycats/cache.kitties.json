@@ -1,0 +1,20 @@
+{
+  "id": 13452,
+  "name": "Kittiesville #13452 G11",
+  "generation": 11,
+  "created_at": "2017-11-29T22:13:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kittiesville #13452 G11. I've never told anyone this, but I once pawed at a dog. Some people say I'm the Hermione Granger of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11710@0",
+  "sire": "13074@10",
+  "children": [
+    "35600@13",
+    "117953@12",
+    "173826@12",
+    "257267@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

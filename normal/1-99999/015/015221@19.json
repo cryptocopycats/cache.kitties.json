@@ -1,0 +1,18 @@
+{
+  "id": 15221,
+  "name": "Ash",
+  "generation": 19,
+  "created_at": "2017-11-30T05:45:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Ash. All you need to know about me is I hate chocolate with a passion. I put maple syrup on everything. Like, everything: hot dogs, cantaloupe—everything! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "6721@10",
+  "sire": "14322@18",
+  "children": [
+    "20977@20",
+    "26681@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

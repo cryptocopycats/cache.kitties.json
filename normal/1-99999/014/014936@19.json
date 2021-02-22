@@ -1,0 +1,19 @@
+{
+  "id": 14936,
+  "name": "Gen 19 Spots",
+  "generation": 19,
+  "created_at": "2017-11-30T04:28:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 19 Spots. I've never told anyone this, but I once headbutted a dog. My friends describe me as \"smelly.\" It's... accurate. Our friendship will be seductive, brilliant, and full of wet food.",
+  "language": "en",
+  "matron": "11798@18",
+  "sire": "11275@14",
+  "children": [
+    "18789@21",
+    "19110@20",
+    "36259@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

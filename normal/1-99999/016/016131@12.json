@@ -1,0 +1,20 @@
+{
+  "id": 16131,
+  "name": "Mr. Brow",
+  "generation": 12,
+  "created_at": "2017-11-30T09:05:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Mr. Brow. I'm a Skydiving Instructor by day, and I like people-watching by night. I once got in a fight with a platypus, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15134@7",
+  "sire": "10315@11",
+  "children": [
+    "20250@13",
+    "40332@13",
+    "251856@13",
+    "313035@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16544,
+  "name": "Meowy",
+  "generation": 13,
+  "created_at": "2017-11-30T10:58:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Meowy. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Michael Bolton. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "13908@11",
+  "sire": "16034@12",
+  "children": [
+    "17050@14",
+    "20021@18",
+    "21769@16",
+    "25100@14",
+    "38932@20",
+    "306356@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 15455,
+  "name": "Duck Walk",
+  "generation": 18,
+  "created_at": "2017-11-30T06:46:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Duck Walk. My friends describe me as prickly and preposterous. I once cleaned a chimpanzee. I don't like to talk about it. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "9660@17",
+  "sire": "11398@0",
+  "children": [
+    "25103@20",
+    "26587@19",
+    "56974@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 10,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

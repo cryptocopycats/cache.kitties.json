@@ -1,0 +1,18 @@
+{
+  "id": 16203,
+  "name": "Blondie",
+  "generation": 19,
+  "created_at": "2017-11-30T09:20:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Blondie. I'm often referred to as the Ross Geller of the group. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "9963@18",
+  "sire": "6218@13",
+  "children": [
+    "17124@20",
+    "33372@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

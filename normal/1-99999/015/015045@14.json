@@ -1,0 +1,23 @@
+{
+  "id": 15045,
+  "name": "Meowkola Tesla 1",
+  "generation": 14,
+  "created_at": "2017-11-30T04:59:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Meowkola Tesla 1. In high school, I was voted school jock. I once dreamed of being a Mad Scientist. Now I can be found volunteering at the local kitten rescue shelter all day. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "13699@12",
+  "sire": "12709@13",
+  "children": [
+    "41001@15",
+    "126757@18",
+    "147548@16",
+    "187592@22",
+    "293967@15",
+    "357771@15",
+    "400867@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

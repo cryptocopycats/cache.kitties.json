@@ -1,0 +1,20 @@
+{
+  "id": 14677,
+  "name": "Gen 10 #1 B",
+  "generation": 10,
+  "created_at": "2017-11-30T03:11:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's Gen 10 #1 B. I once peed on Cleopatra's cat. They had it coming. I am 21% fairy, 7% Dogwalker, and otherwise bad at math. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "13624@9",
+  "sire": "13680@3",
+  "children": [
+    "26383@11",
+    "27864@13",
+    "33961@22",
+    "43687@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

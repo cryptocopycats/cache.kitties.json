@@ -1,0 +1,18 @@
+{
+  "id": 14795,
+  "name": "Ashford Gen 14 Striped Parents",
+  "generation": 14,
+  "created_at": "2017-11-30T03:48:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Ashford Gen 14 Striped Parents. I believe the world is flat. My friends describe me as \"vegan.\" It's... accurate. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "11057@13",
+  "sire": "1485@0",
+  "children": [
+    "16045@15",
+    "52845@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

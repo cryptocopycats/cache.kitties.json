@@ -1,0 +1,21 @@
+{
+  "id": 13617,
+  "name": "G16 - Happy Go Lucky",
+  "generation": 16,
+  "created_at": "2017-11-29T22:48:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm G16 - Happy Go Lucky. I'm a Foreign Film Director by day, and I like running a podcast by night. My friends describe me as \"stinky.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10579@10",
+  "sire": "10979@15",
+  "children": [
+    "15364@18",
+    "19848@17",
+    "48260@17",
+    "78247@20",
+    "259182@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

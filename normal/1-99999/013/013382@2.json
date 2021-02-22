@@ -1,0 +1,23 @@
+{
+  "id": 13382,
+  "name": "Lantern - Otaku+Spock",
+  "generation": 2,
+  "created_at": "2017-11-29T21:59:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Lantern - Otaku+Spock. I enjoy chasing string, eating until I loathe myself, and licking doorknobs. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11332@1",
+  "sire": "9500@1",
+  "children": [
+    "13501@3",
+    "14110@3",
+    "15837@3",
+    "16069@3",
+    "20119@3",
+    "22597@3",
+    "27212@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

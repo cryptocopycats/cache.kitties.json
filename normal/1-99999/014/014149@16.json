@@ -1,0 +1,20 @@
+{
+  "id": 14149,
+  "name": "Gan16 slow",
+  "generation": 16,
+  "created_at": "2017-11-30T01:04:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gan16 slow. I want to live in a world where people believe the world is flat. My secret indulgence is cereal. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "10256@3",
+  "sire": "13964@15",
+  "children": [
+    "16059@17",
+    "18353@17",
+    "48634@17",
+    "110162@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

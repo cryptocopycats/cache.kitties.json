@@ -1,0 +1,18 @@
+{
+  "id": 12308,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-29T16:40:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #12308. I've never told anyone this, but I once pawed at a dog. When no one's home, I invite my pals over and we listen to Mariah Carey. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "2159@0",
+  "sire": "2197@0",
+  "children": [
+    "16805@14",
+    "17277@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

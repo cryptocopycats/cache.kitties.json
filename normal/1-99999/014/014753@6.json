@@ -1,0 +1,25 @@
+{
+  "id": 14753,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-30T03:33:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #14753. I'm often referred to as the Niles Crane of the group. In my free time, I can usually be found annoying or mocking dogs. Let's pawty!",
+  "language": "en",
+  "matron": "5384@5",
+  "sire": "5864@1",
+  "children": [
+    "64854@7",
+    "65566@17",
+    "78860@7",
+    "86100@7",
+    "90015@7",
+    "94480@7",
+    "119922@7",
+    "151573@7",
+    "420464@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

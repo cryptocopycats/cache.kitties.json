@@ -1,0 +1,19 @@
+{
+  "id": 12375,
+  "name": "Salvia G17C1",
+  "generation": 17,
+  "created_at": "2017-11-29T17:55:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Salvia G17C1. I enjoy picking flowers, being a nevernude, and chasing red dots. Some people say I'm the Homer Simpson of the group. Our friendship will be despicable, petulant, and full of lasagna.",
+  "language": "en",
+  "matron": "11742@1",
+  "sire": "9460@16",
+  "children": [
+    "18776@18",
+    "36003@18",
+    "73671@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

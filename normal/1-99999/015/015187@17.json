@@ -1,0 +1,19 @@
+{
+  "id": 15187,
+  "name": "Alvin",
+  "generation": 17,
+  "created_at": "2017-11-30T05:35:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Alvin. I'm a professional Train Conductor and I love hamburgers. I put wasabi on everything. Like, everything: hot dogs, apple pie—everything! I like your face.",
+  "language": "en",
+  "matron": "11197@16",
+  "sire": "4303@5",
+  "children": [
+    "22365@18",
+    "35228@18",
+    "58786@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

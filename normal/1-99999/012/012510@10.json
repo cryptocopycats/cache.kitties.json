@@ -1,0 +1,22 @@
+{
+  "id": 12510,
+  "name": "Rocket Munchkin Sire",
+  "generation": 10,
+  "created_at": "2017-11-29T18:20:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Rocket Munchkin Sire. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found raunchy or mocking dogs. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "11431@7",
+  "sire": "11316@9",
+  "children": [
+    "14381@12",
+    "15972@12",
+    "57680@13",
+    "94851@11",
+    "147752@17",
+    "226879@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

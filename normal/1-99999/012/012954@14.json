@@ -1,0 +1,22 @@
+{
+  "id": 12954,
+  "name": "Milicia",
+  "generation": 14,
+  "created_at": "2017-11-29T20:06:42.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Milicia. I'm often referred to as the Marge Simpson of the group. Some people say I'm the Marge Simpson of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7691@11",
+  "sire": "6665@13",
+  "children": [
+    "13905@15",
+    "17034@15",
+    "22697@18",
+    "136416@15",
+    "227072@17",
+    "377296@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

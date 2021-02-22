@@ -1,0 +1,19 @@
+{
+  "id": 12708,
+  "name": "Catlethic",
+  "generation": 14,
+  "created_at": "2017-11-29T18:48:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Catlethic. All you need to know about me is I hate chocolate with a passion. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10674@13",
+  "sire": "9164@9",
+  "children": [
+    "13424@15",
+    "16952@17",
+    "801802@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

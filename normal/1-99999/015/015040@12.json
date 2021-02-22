@@ -1,0 +1,21 @@
+{
+  "id": 15040,
+  "name": "Hank",
+  "generation": 12,
+  "created_at": "2017-11-30T04:59:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Hank here. I'm here to enjoy sweating through my feet and grooming. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11135@6",
+  "sire": "5187@11",
+  "children": [
+    "17363@13",
+    "20569@16",
+    "22390@17",
+    "49183@16",
+    "74357@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

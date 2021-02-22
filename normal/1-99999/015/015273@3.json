@@ -1,0 +1,23 @@
+{
+  "id": 15273,
+  "name": "Telford - Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T05:59:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Telford - Gen 3. My friends describe me as tantalizing and despicable. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "14096@2",
+  "sire": "10675@2",
+  "children": [
+    "15408@17",
+    "15688@5",
+    "16005@4",
+    "16052@7",
+    "16114@4",
+    "35147@10",
+    "97644@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

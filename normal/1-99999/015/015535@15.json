@@ -1,0 +1,20 @@
+{
+  "id": 15535,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T07:03:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #15535. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10447@14",
+  "sire": "8381@14",
+  "children": [
+    "16564@16",
+    "20081@16",
+    "23305@16",
+    "31217@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

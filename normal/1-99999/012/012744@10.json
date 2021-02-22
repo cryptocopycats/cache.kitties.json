@@ -1,0 +1,24 @@
+{
+  "id": 12744,
+  "name": "GenTen",
+  "generation": 10,
+  "created_at": "2017-11-29T19:02:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm GenTen. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of slappin' da bass, cantaloupe, and riding the bus. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10712@4",
+  "sire": "10971@9",
+  "children": [
+    "12981@12",
+    "13621@14",
+    "14725@15",
+    "20457@16",
+    "31953@17",
+    "32066@11",
+    "91302@11",
+    "314448@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

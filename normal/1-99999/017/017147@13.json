@@ -1,0 +1,17 @@
+{
+  "id": 17147,
+  "name": "Ensalada",
+  "generation": 13,
+  "created_at": "2017-11-30T13:25:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Ensalada. I've never told anyone this, but I once loved a dog. I am 75% fairy, 80% Aerobics Athlete , and otherwise bad at math. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "2556@0",
+  "sire": "12437@12",
+  "children": [
+    "50842@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

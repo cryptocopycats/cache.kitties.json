@@ -1,0 +1,19 @@
+{
+  "id": 15224,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-30T05:46:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #15224. I'm often referred to as the Ron Weasley of the group. I once made a dolphin sulk. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "14896@11",
+  "sire": "7286@1",
+  "children": [
+    "17511@14",
+    "59380@13",
+    "63141@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 16733,
+  "name": "Lucky Tongue Coffee",
+  "generation": 17,
+  "created_at": "2017-11-30T11:37:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Lucky Tongue Coffee. All you need to know about me is I hate chocolate with a passion. When I'm not watching reality tv, I'm volunteering at the local kitten rescue shelter! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14536@16",
+  "sire": "10759@7",
+  "children": [
+    "19566@18",
+    "24291@18",
+    "78384@20",
+    "126757@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

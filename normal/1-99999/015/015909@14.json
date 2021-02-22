@@ -1,0 +1,22 @@
+{
+  "id": 15909,
+  "name": "Lisa",
+  "generation": 14,
+  "created_at": "2017-11-30T08:16:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Lisa. I'm often referred to as the Lisa Simpson of the group. I'm often described as stinky, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11617@11",
+  "sire": "11612@13",
+  "children": [
+    "17237@15",
+    "19535@15",
+    "24955@16",
+    "33350@15",
+    "46590@19",
+    "321528@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

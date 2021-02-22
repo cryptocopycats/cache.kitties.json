@@ -1,0 +1,19 @@
+{
+  "id": 14996,
+  "name": "Enzo Ferrari",
+  "generation": 14,
+  "created_at": "2017-11-30T04:45:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Enzo Ferrari. I once peed on Cleopatra's cat. They had it coming. Some people say I'm the Chandler Bing of the group. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "14956@6",
+  "sire": "13552@13",
+  "children": [
+    "18979@15",
+    "45449@17",
+    "67174@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

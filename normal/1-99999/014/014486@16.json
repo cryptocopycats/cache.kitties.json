@@ -1,0 +1,20 @@
+{
+  "id": 14486,
+  "name": "Full Eczema",
+  "generation": 16,
+  "created_at": "2017-11-30T02:28:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Full Eczema. I enjoy eating lasagna, fighting the patriarchy, and watching Stranger Things. My secret indulgence is apple pie. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "11954@15",
+  "sire": "11793@13",
+  "children": [
+    "17796@17",
+    "22241@17",
+    "28276@17",
+    "68713@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

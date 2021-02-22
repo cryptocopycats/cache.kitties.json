@@ -1,0 +1,19 @@
+{
+  "id": 13615,
+  "name": "Dunn",
+  "generation": 13,
+  "created_at": "2017-11-29T22:48:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Dunn. My friends describe me as petulant and annoying. In my free time, I can usually be found gullible or pole dancing. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10226@12",
+  "sire": "10151@1",
+  "children": [
+    "14061@14",
+    "14969@14",
+    "16933@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

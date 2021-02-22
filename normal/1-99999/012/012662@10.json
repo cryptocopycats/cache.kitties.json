@@ -1,0 +1,20 @@
+{
+  "id": 12662,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T18:38:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Kitty #12662. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Let's pawty!",
+  "language": "en",
+  "matron": "12319@6",
+  "sire": "9463@9",
+  "children": [
+    "13865@11",
+    "17224@11",
+    "19195@13",
+    "23511@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

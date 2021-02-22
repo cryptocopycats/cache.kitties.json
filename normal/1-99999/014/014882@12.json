@@ -1,0 +1,21 @@
+{
+  "id": 14882,
+  "name": "Starter kitty",
+  "generation": 12,
+  "created_at": "2017-11-30T04:12:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! Starter kitty here. I'm here to enjoy being a nevernude and sweating through my feet. When no one's home, I invite my pals over and we listen to Gloria Estefan. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "5609@11",
+  "sire": "4153@7",
+  "children": [
+    "16790@13",
+    "44779@17",
+    "67207@13",
+    "90158@17",
+    "115813@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15257,
+  "name": "Brown Angry Kitty (Gen 15)",
+  "generation": 15,
+  "created_at": "2017-11-30T05:57:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Brown Angry Kitty (Gen 15). In high school, I was voted school jock. I am 12% wizard, 40% Train Conductor, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "14425@14",
+  "sire": "14409@5",
+  "children": [
+    "59713@18",
+    "91176@16",
+    "108250@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

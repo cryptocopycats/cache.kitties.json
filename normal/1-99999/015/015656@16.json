@@ -1,0 +1,18 @@
+{
+  "id": 15656,
+  "name": "Kat",
+  "generation": 16,
+  "created_at": "2017-11-30T07:30:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kat. I believe that one day cats will rule this planet. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15577@6",
+  "sire": "12177@15",
+  "children": [
+    "15864@17",
+    "18163@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

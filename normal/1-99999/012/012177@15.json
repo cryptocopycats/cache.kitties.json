@@ -1,0 +1,21 @@
+{
+  "id": 12177,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-29T14:46:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 15. In high school, I was voted school jock. Some people say I'm the Bart Simpson of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11359@14",
+  "sire": "11662@13",
+  "children": [
+    "12216@16",
+    "15174@16",
+    "15656@16",
+    "38920@18",
+    "99214@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 15412,
+  "name": "green Gen 5",
+  "generation": 5,
+  "created_at": "2017-11-30T06:37:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! green Gen 5 here. I'm here to enjoy being a nevernude and eating lasagna. I once headbutted a rhino. I don't like to talk about it. Let's pawty!",
+  "language": "en",
+  "matron": "4667@4",
+  "sire": "3143@1",
+  "children": [
+    "15528@6",
+    "15651@7",
+    "18077@6",
+    "18585@7",
+    "38429@6",
+    "75574@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

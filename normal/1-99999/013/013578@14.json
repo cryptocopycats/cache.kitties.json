@@ -1,0 +1,20 @@
+{
+  "id": 13578,
+  "name": "Pippa",
+  "generation": 14,
+  "created_at": "2017-11-29T22:40:22.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Pippa. My friends describe me as gorgeous and stinky. My friends describe me as \"gullible.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11005@11",
+  "sire": "10984@13",
+  "children": [
+    "14658@15",
+    "23270@18",
+    "61013@18",
+    "283280@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

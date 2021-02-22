@@ -1,0 +1,24 @@
+{
+  "id": 13085,
+  "name": "Yamcha",
+  "generation": 13,
+  "created_at": "2017-11-29T20:34:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Yamcha. I once peed on John F. Kennedy Jr.'s cat. They had it coming. In my free time, I can usually be found vegan or watching reality tv. I like your face.",
+  "language": "en",
+  "matron": "10667@12",
+  "sire": "12248@10",
+  "children": [
+    "13104@14",
+    "15272@16",
+    "18070@15",
+    "20612@16",
+    "27536@20",
+    "54261@20",
+    "173989@23",
+    "254487@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

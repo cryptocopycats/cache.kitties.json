@@ -1,0 +1,20 @@
+{
+  "id": 13829,
+  "name": "PurpleBeard",
+  "generation": 16,
+  "created_at": "2017-11-29T23:44:58.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! My name's PurpleBeard. I once peed on King Henry VIII's cat. They had it coming. My friends describe me as \"preposterous.\" It's... accurate. Will you be the ranch dressing to my marmalade?",
+  "language": "en",
+  "matron": "12631@9",
+  "sire": "13130@15",
+  "children": [
+    "15641@17",
+    "20134@17",
+    "67195@17",
+    "119647@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

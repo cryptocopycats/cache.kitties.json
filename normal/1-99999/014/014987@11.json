@@ -1,0 +1,23 @@
+{
+  "id": 14987,
+  "name": "Yang",
+  "generation": 11,
+  "created_at": "2017-11-30T04:43:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Yang. I'm a professional Private Dancer  and I love ice cream. I would give it all up for a Chanel purse. Let's pawty!",
+  "language": "en",
+  "matron": "10756@10",
+  "sire": "13237@4",
+  "children": [
+    "15919@12",
+    "16890@13",
+    "17962@15",
+    "20588@12",
+    "24295@15",
+    "29412@13",
+    "196469@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

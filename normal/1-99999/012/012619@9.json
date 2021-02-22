@@ -1,0 +1,24 @@
+{
+  "id": 12619,
+  "name": "Meowlord Purrwich",
+  "generation": 9,
+  "created_at": "2017-11-29T18:38:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Meowlord Purrwich. I enjoy grooming, reading garfield, and breakdancing. My secret indulgence is cantaloupe. I like your face.",
+  "language": "en",
+  "matron": "10850@8",
+  "sire": "8669@1",
+  "children": [
+    "12800@12",
+    "13208@10",
+    "55679@10",
+    "275577@11",
+    "283422@12",
+    "291086@12",
+    "311585@14",
+    "358510@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

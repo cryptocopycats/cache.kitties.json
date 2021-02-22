@@ -1,0 +1,21 @@
+{
+  "id": 16752,
+  "name": "Captain Fruitloop",
+  "generation": 15,
+  "created_at": "2017-11-30T11:40:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Captain Fruitloop. I want to live in a world where people believe that one day cats will rule this planet. I once made a moose scare. Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "8044@6",
+  "sire": "13656@14",
+  "children": [
+    "20668@16",
+    "45616@16",
+    "57134@16",
+    "96020@16",
+    "204778@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

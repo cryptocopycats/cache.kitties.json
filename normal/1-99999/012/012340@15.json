@@ -1,0 +1,19 @@
+{
+  "id": 12340,
+  "name": "FC/G2",
+  "generation": 15,
+  "created_at": "2017-11-29T17:51:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm FC/G2. My friends describe me as tantalizing and annoying. I put marmalade on everything. Like, everything: hot dogs, wet food—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "7389@14",
+  "sire": "5938@13",
+  "children": [
+    "15180@16",
+    "15714@16",
+    "62416@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

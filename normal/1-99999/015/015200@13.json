@@ -1,0 +1,21 @@
+{
+  "id": 15200,
+  "name": "Salad",
+  "generation": 13,
+  "created_at": "2017-11-30T05:40:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Salad. I've never told anyone this, but I once frolicked with a dog. My secret indulgence is salad. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11487@12",
+  "sire": "11095@3",
+  "children": [
+    "16401@17",
+    "19484@17",
+    "40351@14",
+    "48479@16",
+    "80653@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

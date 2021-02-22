@@ -1,0 +1,19 @@
+{
+  "id": 12243,
+  "name": "Mostacho",
+  "generation": 19,
+  "created_at": "2017-11-29T15:15:05.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's Mostacho. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"stinky.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "10150@18",
+  "sire": "10206@11",
+  "children": [
+    "17068@20",
+    "19585@20",
+    "159405@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

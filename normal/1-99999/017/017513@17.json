@@ -1,0 +1,19 @@
+{
+  "id": 17513,
+  "name": "RARE",
+  "generation": 17,
+  "created_at": "2017-11-30T14:56:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm RARE. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a goose, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14884@16",
+  "sire": "12565@15",
+  "children": [
+    "20219@18",
+    "30779@18",
+    "81851@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

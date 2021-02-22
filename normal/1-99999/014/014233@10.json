@@ -1,0 +1,23 @@
+{
+  "id": 14233,
+  "name": "Cindy",
+  "generation": 10,
+  "created_at": "2017-11-30T01:22:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Cindy. I'm a professional Culinary Sanitation Specialist and I love cereal. I once made a goose trot. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "9790@9",
+  "sire": "7774@7",
+  "children": [
+    "14723@11",
+    "16799@12",
+    "17706@17",
+    "19900@15",
+    "26759@15",
+    "37125@19",
+    "64469@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13425,
+  "name": "G11 Kittencream",
+  "generation": 11,
+  "created_at": "2017-11-29T22:06:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm G11 Kittencream. I've never told anyone this, but I once licked a dog. I like to listen to Ace of Base while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "3736@4",
+  "sire": "12488@10",
+  "children": [
+    "14062@12",
+    "14569@12",
+    "136715@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

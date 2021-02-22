@@ -1,0 +1,21 @@
+{
+  "id": 13370,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-29T21:53:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Kitty #13370. I'm a Foreign Film Director by day, and I like riding the bus by night. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "9839@15",
+  "sire": "9991@15",
+  "children": [
+    "59625@17",
+    "68849@17",
+    "99141@17",
+    "162550@17",
+    "243478@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

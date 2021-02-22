@@ -1,0 +1,19 @@
+{
+  "id": 13124,
+  "name": "Fluttersky",
+  "generation": 13,
+  "created_at": "2017-11-29T20:45:57.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Fluttersky. I'm a Train Conductor by day, and I like prank-calling celebrities by night. I once kissed a rhino. I don't like to talk about it. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "10151@1",
+  "sire": "6612@12",
+  "children": [
+    "14622@14",
+    "15523@14",
+    "17904@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

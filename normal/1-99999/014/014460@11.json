@@ -1,0 +1,22 @@
+{
+  "id": 14460,
+  "name": "Sphynx",
+  "generation": 11,
+  "created_at": "2017-11-30T02:22:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Sphynx. My friends describe me as tantalizing and hairy. Sometimes I daydream of a life full of spinning sick beats, apple pie, and sleeping in fresh laundry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "12345@8",
+  "sire": "11860@10",
+  "children": [
+    "14937@14",
+    "17746@18",
+    "18923@13",
+    "39970@15",
+    "157141@14",
+    "1910847@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

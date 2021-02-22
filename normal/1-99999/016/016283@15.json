@@ -1,0 +1,19 @@
+{
+  "id": 16283,
+  "name": "Phil the Destroyer",
+  "generation": 15,
+  "created_at": "2017-11-30T09:44:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Phil the Destroyer. I'm a Mad Scientist by day, and I like talking about how much I lift by night. Some people say I'm the Niles Crane of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "13361@13",
+  "sire": "7537@14",
+  "children": [
+    "17975@16",
+    "41831@19",
+    "59058@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

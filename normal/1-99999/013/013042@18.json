@@ -1,0 +1,20 @@
+{
+  "id": 13042,
+  "name": "Bloodred #5",
+  "generation": 18,
+  "created_at": "2017-11-29T20:27:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Bloodred #5. I'm often referred to as the Bart Simpson of the group. I once dreamed of being a Dispensary Clerk. Now I can be found volunteering at the local kitten rescue shelter all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12789@6",
+  "sire": "12733@17",
+  "children": [
+    "16761@19",
+    "17446@19",
+    "26178@19",
+    "74923@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

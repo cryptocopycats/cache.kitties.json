@@ -1,0 +1,19 @@
+{
+  "id": 13039,
+  "name": "ColorBlind",
+  "generation": 12,
+  "created_at": "2017-11-29T20:27:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm ColorBlind. I'm often referred to as the Peter Griffin of the group. In my free time, I can usually be found prickly or people-watching. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "3851@4",
+  "sire": "9868@11",
+  "children": [
+    "25371@14",
+    "92700@19",
+    "159745@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

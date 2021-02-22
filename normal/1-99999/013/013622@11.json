@@ -1,0 +1,23 @@
+{
+  "id": 13622,
+  "name": "Grizzly",
+  "generation": 11,
+  "created_at": "2017-11-29T22:49:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Grizzly. All you need to know about me is I hate ice cream with a passion. I once dreamed of being a Mad Scientist. Now I can be found swiping right all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11652@10",
+  "sire": "11526@8",
+  "children": [
+    "14074@14",
+    "14499@12",
+    "20567@20",
+    "22313@16",
+    "29347@16",
+    "44729@16",
+    "92021@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

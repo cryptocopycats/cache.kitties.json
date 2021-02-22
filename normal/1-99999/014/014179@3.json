@@ -1,0 +1,19 @@
+{
+  "id": 14179,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-30T01:09:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #14179. I'm often referred to as the Neville Longbottom of the group. I am 48% sphinx, 49% Culinary Sanitation Specialist, and otherwise bad at math. Will you be the pickles to my marmite?",
+  "language": "en",
+  "matron": "5388@2",
+  "sire": "5897@1",
+  "children": [
+    "14998@4",
+    "15414@4",
+    "31542@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

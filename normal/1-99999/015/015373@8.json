@@ -1,0 +1,26 @@
+{
+  "id": 15373,
+  "name": "Francis G8",
+  "generation": 8,
+  "created_at": "2017-11-30T06:28:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Francis G8. I enjoy picking flowers, tricking babies, and reciting poetry. I once got in a fight with a platypus, and won. Let's get busy!",
+  "language": "en",
+  "matron": "8236@7",
+  "sire": "11228@4",
+  "children": [
+    "17654@9",
+    "19093@9",
+    "20197@17",
+    "25489@9",
+    "34504@16",
+    "35655@9",
+    "90966@15",
+    "111481@9",
+    "177393@9",
+    "377635@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

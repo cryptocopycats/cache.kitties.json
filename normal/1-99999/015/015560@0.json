@@ -1,0 +1,28 @@
+{
+  "id": 15560,
+  "name": "Gen 0 Father of bird",
+  "generation": 0,
+  "created_at": "2017-11-30T07:10:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 0 Father of bird. I'm often referred to as the Ron Weasley of the group. My secret indulgence is cantaloupe. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20195@16",
+    "20411@1",
+    "20461@1",
+    "21956@1",
+    "22081@1",
+    "22308@1",
+    "22718@1",
+    "24748@1",
+    "27823@1",
+    "33758@1",
+    "65080@1",
+    "250075@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

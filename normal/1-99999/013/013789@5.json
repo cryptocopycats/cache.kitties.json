@@ -1,0 +1,25 @@
+{
+  "id": 13789,
+  "name": "Meowgi G5",
+  "generation": 5,
+  "created_at": "2017-11-29T23:31:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Meowgi G5. I've never told anyone this, but I once frolicked with a dog. I once got in a fight with a moose, and won. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "11747@0",
+  "sire": "3736@4",
+  "children": [
+    "13977@12",
+    "21528@7",
+    "24051@17",
+    "40138@15",
+    "48617@7",
+    "55031@7",
+    "55686@19",
+    "80740@7",
+    "122426@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

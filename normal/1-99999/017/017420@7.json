@@ -1,0 +1,25 @@
+{
+  "id": 17420,
+  "name": "Ewok Seven",
+  "generation": 7,
+  "created_at": "2017-11-30T14:34:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Ewok Seven. I've never told anyone this, but I once tricked a dog. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "16618@6",
+  "sire": "17163@6",
+  "children": [
+    "17579@14",
+    "17812@17",
+    "18119@13",
+    "18736@16",
+    "19941@15",
+    "26433@18",
+    "42998@18",
+    "65117@19",
+    "116762@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17000,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-30T12:51:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Kitty #17000. I once peed on Amelia Earhart's cat. They had it coming. When no one's home, I invite my pals over and we listen to Ace of Base. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "8972@15",
+  "sire": "9218@16",
+  "children": [
+    "20265@21",
+    "25299@18",
+    "36240@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

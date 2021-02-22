@@ -1,0 +1,21 @@
+{
+  "id": 16492,
+  "name": "Purpleton",
+  "generation": 13,
+  "created_at": "2017-11-30T10:44:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Purpleton. I'm a Private Dancer  by day, and I like watching reality tv by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14036@12",
+  "sire": "7782@10",
+  "children": [
+    "16695@14",
+    "20113@14",
+    "24166@14",
+    "53449@18",
+    "71478@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

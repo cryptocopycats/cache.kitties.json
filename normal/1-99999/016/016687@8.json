@@ -1,0 +1,19 @@
+{
+  "id": 16687,
+  "name": "Bumpy9-Gen8",
+  "generation": 8,
+  "created_at": "2017-11-30T11:28:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Bumpy9-Gen8. I believe the world is flat. I once got in a fight with a rhino, and won. Let's get busy!",
+  "language": "en",
+  "matron": "16558@7",
+  "sire": "16376@7",
+  "children": [
+    "16836@9",
+    "18302@9",
+    "31194@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

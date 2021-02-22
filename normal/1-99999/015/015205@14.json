@@ -1,0 +1,19 @@
+{
+  "id": 15205,
+  "name": "This Kitty is Fire",
+  "generation": 14,
+  "created_at": "2017-11-30T05:42:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm This Kitty is Fire. I enjoy fighting for the people, slappin' da bass, and picking on mice. When no one's home, I invite my pals over and we listen to Ace of Base. Will you be the ghost pepper hot sauce to my cinammon?",
+  "language": "en",
+  "matron": "9290@12",
+  "sire": "10711@13",
+  "children": [
+    "48681@15",
+    "62074@15",
+    "71547@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

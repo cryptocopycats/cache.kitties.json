@@ -1,0 +1,23 @@
+{
+  "id": 15825,
+  "name": "Hercules",
+  "generation": 2,
+  "created_at": "2017-11-30T08:04:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's Hercules. I once peed on Confucius's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Confucius. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3964@1",
+  "sire": "4710@1",
+  "children": [
+    "15855@3",
+    "16652@3",
+    "206499@3",
+    "207728@3",
+    "208875@3",
+    "232792@3",
+    "239303@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

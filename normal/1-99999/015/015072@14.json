@@ -1,0 +1,20 @@
+{
+  "id": 15072,
+  "name": "Sir-Pur-A-Lot",
+  "generation": 14,
+  "created_at": "2017-11-30T05:08:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Sir-Pur-A-Lot. I'm often referred to as the Chandler Bing of the group. My friends describe me as \"smelly.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13807@13",
+  "sire": "11817@12",
+  "children": [
+    "66767@15",
+    "81636@15",
+    "240552@15",
+    "636906@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

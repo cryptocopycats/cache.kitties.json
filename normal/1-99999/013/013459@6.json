@@ -1,0 +1,24 @@
+{
+  "id": 13459,
+  "name": "Gen 6 SpockReg",
+  "generation": 6,
+  "created_at": "2017-11-29T22:14:21.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Gen 6 SpockReg. I'm often referred to as the Neville Longbottom of the group. I'm often described as vegan, and I own it. I look forward to grooming with you.",
+  "language": "en",
+  "matron": "11881@5",
+  "sire": "13032@4",
+  "children": [
+    "13550@14",
+    "13797@7",
+    "14222@10",
+    "15496@18",
+    "16779@14",
+    "19899@16",
+    "25375@16",
+    "39575@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

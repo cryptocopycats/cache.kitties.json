@@ -1,0 +1,19 @@
+{
+  "id": 15950,
+  "name": "Starter cat with Chocolate",
+  "generation": 12,
+  "created_at": "2017-11-30T08:26:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Starter cat with Chocolate. I'm a professional Dispensary Clerk and I love steak. My secret indulgence is cantaloupe. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "12264@11",
+  "sire": "12411@10",
+  "children": [
+    "16448@14",
+    "17164@13",
+    "19213@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

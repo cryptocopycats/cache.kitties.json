@@ -1,0 +1,21 @@
+{
+  "id": 12257,
+  "name": "Mother Of Fancy Duck",
+  "generation": 10,
+  "created_at": "2017-11-29T15:19:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mother Of Fancy Duck. I'm a professional Skydiving Instructor and I love ice cream. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11939@7",
+  "sire": "12180@9",
+  "children": [
+    "12453@15",
+    "13868@17",
+    "17883@13",
+    "68642@11",
+    "109657@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

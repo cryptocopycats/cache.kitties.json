@@ -1,0 +1,22 @@
+{
+  "id": 17350,
+  "name": "Maria G6 Snappy",
+  "generation": 6,
+  "created_at": "2017-11-30T14:14:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Maria G6 Snappy. My friends describe me as petulant and seductive. I put ranch dressing on everything. Like, everything: hot dogs, lasagna—everything! Let's get busy!",
+  "language": "en",
+  "matron": "17240@3",
+  "sire": "16994@5",
+  "children": [
+    "17395@7",
+    "17906@10",
+    "17989@14",
+    "23465@17",
+    "24208@21",
+    "173993@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

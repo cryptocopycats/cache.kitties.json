@@ -1,0 +1,28 @@
+{
+  "id": 15880,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T08:11:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen2. I'm often referred to as the Frodo Baggins of the group. I am 89% oracle, 88% Mad Scientist, and otherwise bad at math. I look forward to being a nevernude with you.",
+  "language": "en",
+  "matron": "3952@1",
+  "sire": "3457@1",
+  "children": [
+    "15921@3",
+    "15968@3",
+    "16020@3",
+    "16184@3",
+    "24941@10",
+    "25727@10",
+    "31336@5",
+    "51262@3",
+    "89935@3",
+    "212952@3",
+    "323664@3",
+    "429988@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

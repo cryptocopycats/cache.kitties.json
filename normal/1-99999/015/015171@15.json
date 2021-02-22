@@ -1,0 +1,20 @@
+{
+  "id": 15171,
+  "name": "Beverly",
+  "generation": 15,
+  "created_at": "2017-11-30T05:30:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Beverly. I'm often referred to as the Samwise Gamgee of the group. I put cinammon on everything. Like, everything: hot dogs, salad—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12129@13",
+  "sire": "12350@14",
+  "children": [
+    "17241@18",
+    "19497@16",
+    "23232@18",
+    "75441@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

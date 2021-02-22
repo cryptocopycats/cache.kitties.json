@@ -1,0 +1,22 @@
+{
+  "id": 16055,
+  "name": "Happy Cat Don't Panic",
+  "generation": 13,
+  "created_at": "2017-11-30T08:50:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Happy Cat Don't Panic. I've never told anyone this, but I once kissed a dog. I'm often described as smelly, and I own it. Our friendship will be hairy, despicable, and full of hamburgers.",
+  "language": "en",
+  "matron": "14142@12",
+  "sire": "11603@8",
+  "children": [
+    "16801@14",
+    "17281@14",
+    "18316@14",
+    "23446@18",
+    "27680@17",
+    "315118@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

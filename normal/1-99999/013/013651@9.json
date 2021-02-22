@@ -1,0 +1,24 @@
+{
+  "id": 13651,
+  "name": "Kartoffel GEN9",
+  "generation": 9,
+  "created_at": "2017-11-29T22:56:49.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kartoffel GEN9. I'm often referred to as the Hermione Granger of the group. My friends describe me as \"petulant.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13471@8",
+  "sire": "12238@8",
+  "children": [
+    "14785@16",
+    "15430@14",
+    "16312@15",
+    "18169@14",
+    "19367@17",
+    "22870@16",
+    "29381@18",
+    "118448@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 16791,
+  "name": "District",
+  "generation": 3,
+  "created_at": "2017-11-30T11:53:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm District. All you need to know about me is I hate hamburgers with a passion. When I'm not mocking dogs, I'm playing chess! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15930@2",
+  "sire": "16689@2",
+  "children": [
+    "17057@4",
+    "17145@4",
+    "18884@5",
+    "19179@4",
+    "22291@4",
+    "26799@16",
+    "27408@13",
+    "30402@8",
+    "40933@19",
+    "387369@9",
+    "455177@9",
+    "636906@15",
+    "762194@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

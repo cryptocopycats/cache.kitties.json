@@ -1,0 +1,20 @@
+{
+  "id": 14291,
+  "name": "Kitty",
+  "generation": 18,
+  "created_at": "2017-11-30T01:36:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kitty. I enjoy tricking babies, breakdancing, and fighting for the people. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Our friendship will be annoying, seductive, and full of cantaloupe.",
+  "language": "en",
+  "matron": "12104@17",
+  "sire": "8629@17",
+  "children": [
+    "25887@19",
+    "34201@19",
+    "65862@19",
+    "254071@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

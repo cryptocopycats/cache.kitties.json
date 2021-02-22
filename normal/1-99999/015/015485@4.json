@@ -1,0 +1,27 @@
+{
+  "id": 15485,
+  "name": "GreyGhost",
+  "generation": 4,
+  "created_at": "2017-11-30T06:52:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm GreyGhost. All you need to know about me is I hate steak with a passion. I'm often described as raunchy, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "4034@3",
+  "sire": "4614@3",
+  "children": [
+    "15516@11",
+    "15646@5",
+    "15889@5",
+    "17654@9",
+    "18211@5",
+    "19093@9",
+    "25489@9",
+    "33505@5",
+    "69081@5",
+    "207835@5",
+    "410800@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

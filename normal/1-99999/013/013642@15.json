@@ -1,0 +1,21 @@
+{
+  "id": 13642,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T22:55:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #13642. My friends describe me as ridiculous and stinky. My secret indulgence is salad. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13340@11",
+  "sire": "7712@14",
+  "children": [
+    "14637@16",
+    "15810@16",
+    "25298@19",
+    "34119@19",
+    "58573@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

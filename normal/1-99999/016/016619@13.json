@@ -1,0 +1,19 @@
+{
+  "id": 16619,
+  "name": "Scruffy",
+  "generation": 13,
+  "created_at": "2017-11-30T11:15:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Scruffy. I'm often referred to as the Samwise Gamgee of the group. I once dreamed of being a Mad Scientist. Now I can be found people-watching all day. I like your face.",
+  "language": "en",
+  "matron": "15266@12",
+  "sire": "12265@12",
+  "children": [
+    "17133@14",
+    "27136@14",
+    "41892@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

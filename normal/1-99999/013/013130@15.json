@@ -1,0 +1,20 @@
+{
+  "id": 13130,
+  "name": "Patchwork",
+  "generation": 15,
+  "created_at": "2017-11-29T20:48:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Patchwork. I'm often referred to as the Steve Urkel of the group. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12665@13",
+  "sire": "8415@14",
+  "children": [
+    "13829@16",
+    "18035@16",
+    "21888@16",
+    "30892@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

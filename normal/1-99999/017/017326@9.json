@@ -1,0 +1,23 @@
+{
+  "id": 17326,
+  "name": "Catillac | Gen 9",
+  "generation": 9,
+  "created_at": "2017-11-30T14:07:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Catillac | Gen 9. I'm a professional Mad Scientist and I love salad. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16832@8",
+  "sire": "17074@8",
+  "children": [
+    "17440@10",
+    "17696@10",
+    "18262@10",
+    "22975@10",
+    "23505@10",
+    "31637@10",
+    "34586@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 12948,
+  "name": "Mister Mister",
+  "generation": 10,
+  "created_at": "2017-11-29T20:04:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Mister Mister. I've never told anyone this, but I once headbutted a dog. I put marmite on everything. Like, everything: hot dogs, cantaloupe—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11932@8",
+  "sire": "12190@9",
+  "children": [
+    "14056@13",
+    "31658@11",
+    "42740@11",
+    "48591@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

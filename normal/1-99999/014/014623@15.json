@@ -1,0 +1,21 @@
+{
+  "id": 14623,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T03:01:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Kitty #14623. I once peed on Amelia Earhart's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Let's pawty!",
+  "language": "en",
+  "matron": "13731@14",
+  "sire": "13739@13",
+  "children": [
+    "18753@17",
+    "21673@16",
+    "23191@18",
+    "25467@16",
+    "44765@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15823,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-30T08:03:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #15823. I'm a Spin Instructor  by day, and I like swiping left by night. Some people say I'm the Cersei Lannister of the group. Will you be the garlic butter to my marmite?",
+  "language": "en",
+  "matron": "14183@12",
+  "sire": "14855@13",
+  "children": [
+    "18902@15",
+    "20912@15",
+    "30700@15",
+    "53184@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

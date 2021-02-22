@@ -1,0 +1,20 @@
+{
+  "id": 12503,
+  "name": "Alegría 1",
+  "generation": 12,
+  "created_at": "2017-11-29T18:20:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Alegría 1. I'm a Private Dancer  by day, and I like practicing witchcraft by night. I'm often described as wondrous, and I own it. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "10844@11",
+  "sire": "11408@2",
+  "children": [
+    "13729@17",
+    "14654@15",
+    "16582@13",
+    "21259@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

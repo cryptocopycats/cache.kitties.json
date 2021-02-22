@@ -1,0 +1,19 @@
+{
+  "id": 15589,
+  "name": "Sir Chaz",
+  "generation": 7,
+  "created_at": "2017-11-30T07:14:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Sir Chaz. My friends describe me as hairy and wondrous. I once dreamed of being a Spin Instructor . Now I can be found pole dancing all day. Let's pawty!",
+  "language": "en",
+  "matron": "15512@6",
+  "sire": "4004@3",
+  "children": [
+    "17636@8",
+    "18620@8",
+    "18958@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

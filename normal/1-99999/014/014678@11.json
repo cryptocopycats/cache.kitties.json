@@ -1,0 +1,20 @@
+{
+  "id": 14678,
+  "name": "Spinster",
+  "generation": 11,
+  "created_at": "2017-11-30T03:12:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Spinster. I want to live in a world where people believe that one day cats will rule this planet. I am 67% troll, 4% Spin Instructor , and otherwise bad at math. Our friendship will be annoying, smelly, and full of salad.",
+  "language": "en",
+  "matron": "11150@4",
+  "sire": "12910@10",
+  "children": [
+    "26346@13",
+    "27136@14",
+    "77840@15",
+    "96168@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

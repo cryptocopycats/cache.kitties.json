@@ -1,0 +1,19 @@
+{
+  "id": 13835,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-11-29T23:46:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 20. I'm often referred to as the Chandler Bing of the group. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found mocking dogs all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11384@19",
+  "sire": "10082@18",
+  "children": [
+    "22974@21",
+    "24456@22",
+    "91584@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

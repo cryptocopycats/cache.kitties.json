@@ -1,0 +1,20 @@
+{
+  "id": 16914,
+  "name": "Meemers",
+  "generation": 14,
+  "created_at": "2017-11-30T12:31:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! My name's Meemers. I once peed on Confucius's cat. They had it coming. My secret indulgence is hamburgers. Our friendship will be smelly, vegan, and full of ice cream.",
+  "language": "en",
+  "matron": "15106@12",
+  "sire": "15498@13",
+  "children": [
+    "41418@16",
+    "42300@15",
+    "65576@15",
+    "119399@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

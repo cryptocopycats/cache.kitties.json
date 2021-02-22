@@ -1,0 +1,22 @@
+{
+  "id": 14489,
+  "name": "Frodo",
+  "generation": 15,
+  "created_at": "2017-11-30T02:29:14.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Frodo. I'm often referred to as the Dwight Schrute of the group. I am 80% hobbit, 14% Train Conductor, and otherwise bad at math. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "13906@7",
+  "sire": "13912@14",
+  "children": [
+    "20656@16",
+    "28878@16",
+    "45740@16",
+    "231937@16",
+    "299474@16",
+    "361658@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

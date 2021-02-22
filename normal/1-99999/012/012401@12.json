@@ -1,0 +1,22 @@
+{
+  "id": 12401,
+  "name": "Boomy",
+  "generation": 12,
+  "created_at": "2017-11-29T17:55:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Boomy. I enjoy hitting on yo' man, chasing red dots, and tricking babies. When I'm not volunteering at the local kitten rescue shelter, I'm braiding people's hair! I like your face.",
+  "language": "en",
+  "matron": "7884@11",
+  "sire": "5098@1",
+  "children": [
+    "14621@13",
+    "17104@17",
+    "70397@13",
+    "111354@13",
+    "143049@13",
+    "293667@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

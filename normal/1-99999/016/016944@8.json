@@ -1,0 +1,20 @@
+{
+  "id": 16944,
+  "name": "G8 | 2",
+  "generation": 8,
+  "created_at": "2017-11-30T12:38:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm G8 | 2. I'm often referred to as the Dwight Schrute of the group. I was voted biggest teacher's pet in college. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "16664@5",
+  "sire": "16812@7",
+  "children": [
+    "17213@9",
+    "18682@9",
+    "28664@9",
+    "51685@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

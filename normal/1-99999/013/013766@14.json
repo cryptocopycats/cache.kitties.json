@@ -1,0 +1,18 @@
+{
+  "id": 13766,
+  "name": "Sour",
+  "generation": 14,
+  "created_at": "2017-11-29T23:25:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Sour. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of slappin' da bass, steak, and riding the bus. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10732@0",
+  "sire": "8917@13",
+  "children": [
+    "14776@15",
+    "22022@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

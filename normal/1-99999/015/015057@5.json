@@ -1,0 +1,21 @@
+{
+  "id": 15057,
+  "name": "15057",
+  "generation": 5,
+  "created_at": "2017-11-30T05:02:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm 15057. I'm a professional Mad Scientist and I love cereal. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I like your face.",
+  "language": "en",
+  "matron": "14455@4",
+  "sire": "10394@2",
+  "children": [
+    "16981@16",
+    "19069@20",
+    "30252@19",
+    "36568@19",
+    "45545@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

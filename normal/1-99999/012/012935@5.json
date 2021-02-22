@@ -1,0 +1,21 @@
+{
+  "id": 12935,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-29T20:04:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #12935. I've never told anyone this, but I once licked a dog. In my free time, I can usually be found gorgeous or practicing witchcraft. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10626@4",
+  "sire": "10792@4",
+  "children": [
+    "13222@13",
+    "13309@7",
+    "13867@10",
+    "15181@14",
+    "18226@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 15798,
+  "name": "Cloudwhite Amethyst Mewtation",
+  "generation": 2,
+  "created_at": "2017-11-30T07:56:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Cloudwhite Amethyst Mewtation. I'm often referred to as the Cersei Lannister of the group. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "3955@1",
+  "sire": "3438@1",
+  "children": [
+    "15822@3",
+    "15868@3",
+    "15895@3",
+    "16111@3",
+    "16398@5",
+    "16902@5",
+    "17889@3",
+    "26013@7",
+    "70304@3",
+    "99028@3",
+    "142678@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

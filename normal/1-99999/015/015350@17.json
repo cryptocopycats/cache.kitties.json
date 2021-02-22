@@ -1,0 +1,18 @@
+{
+  "id": 15350,
+  "name": "Truebitnik",
+  "generation": 17,
+  "created_at": "2017-11-30T06:19:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Truebitnik. I'm a professional Train Conductor and I love ice cream. My secret indulgence is chocolate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11740@16",
+  "sire": "11333@0",
+  "children": [
+    "34077@18",
+    "380797@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14218,
+  "name": "Purrmione Granger",
+  "generation": 18,
+  "created_at": "2017-11-30T01:17:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Purrmione Granger. I once peed on Amelia Earhart's cat. They had it coming. Some people say I'm the Dwight Schrute of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11552@17",
+  "sire": "10795@16",
+  "children": [
+    "59172@19",
+    "82566@19",
+    "94194@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

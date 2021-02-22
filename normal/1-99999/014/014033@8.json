@@ -1,0 +1,23 @@
+{
+  "id": 14033,
+  "name": "Smirk",
+  "generation": 8,
+  "created_at": "2017-11-30T00:39:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Smirk. My friends describe me as annoying and prickly. Some people say I'm the Peter Griffin of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "13914@5",
+  "sire": "4452@7",
+  "children": [
+    "16969@14",
+    "17923@14",
+    "20188@14",
+    "20367@12",
+    "22292@17",
+    "36763@12",
+    "86805@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

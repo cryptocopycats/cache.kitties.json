@@ -1,0 +1,25 @@
+{
+  "id": 16184,
+  "name": "Lemonade",
+  "generation": 3,
+  "created_at": "2017-11-30T09:17:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Lemonade. I'm a Train Conductor by day, and I like playing chess by night. I put marmite on everything. Like, everything: hot dogs, lasagna—everything! Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "15829@2",
+  "sire": "15880@2",
+  "children": [
+    "16404@4",
+    "16417@4",
+    "16605@4",
+    "16895@4",
+    "21499@4",
+    "25200@4",
+    "32105@14",
+    "37972@4",
+    "61571@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

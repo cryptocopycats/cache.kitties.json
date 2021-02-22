@@ -1,0 +1,22 @@
+{
+  "id": 13895,
+  "name": "Murder Monroe",
+  "generation": 14,
+  "created_at": "2017-11-30T00:08:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Murder Monroe. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "12454@13",
+  "sire": "12982@11",
+  "children": [
+    "15691@15",
+    "18777@15",
+    "28028@18",
+    "41215@15",
+    "204080@15",
+    "302936@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

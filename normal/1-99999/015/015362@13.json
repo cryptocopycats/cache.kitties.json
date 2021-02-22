@@ -1,0 +1,22 @@
+{
+  "id": 15362,
+  "name": "Mouse JR",
+  "generation": 13,
+  "created_at": "2017-11-30T06:25:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Mouse JR. I enjoy fighting the patriarchy, being a nevernude, and sweating through my feet. My secret indulgence is lasagna. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11158@11",
+  "sire": "14385@12",
+  "children": [
+    "21289@15",
+    "61493@16",
+    "75923@16",
+    "129836@19",
+    "131977@16",
+    "212838@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

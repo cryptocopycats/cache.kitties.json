@@ -1,0 +1,26 @@
+{
+  "id": 15505,
+  "name": "Luna",
+  "generation": 2,
+  "created_at": "2017-11-30T06:59:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Luna. I believe that one day cats will rule this planet. I am 68% hobbit, 46% Private Dancer , and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15396@1",
+  "sire": "15264@1",
+  "children": [
+    "15553@3",
+    "15597@3",
+    "16195@3",
+    "35390@3",
+    "42074@4",
+    "46542@4",
+    "48497@3",
+    "60076@3",
+    "66653@3",
+    "296729@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

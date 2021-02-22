@@ -1,0 +1,22 @@
+{
+  "id": 16256,
+  "name": "Snappy G5",
+  "generation": 5,
+  "created_at": "2017-11-30T09:33:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Snappy G5. I enjoy taking selfies, staying woke, and picking on mice. Sometimes I daydream of a life full of shakin' dat booty, hamburgers, and reading Danielle Steele. Let's get busy!",
+  "language": "en",
+  "matron": "3493@2",
+  "sire": "6248@4",
+  "children": [
+    "16276@15",
+    "23605@6",
+    "25329@6",
+    "25639@6",
+    "59495@6",
+    "102037@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

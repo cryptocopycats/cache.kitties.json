@@ -1,0 +1,22 @@
+{
+  "id": 13542,
+  "name": "Sluggo",
+  "generation": 15,
+  "created_at": "2017-11-29T22:30:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Sluggo. I enjoy reading garfield, glaring at the neighbour's cat, and watching Stranger Things. I once made a dog leap. Let's pawty!",
+  "language": "en",
+  "matron": "10788@7",
+  "sire": "10608@14",
+  "children": [
+    "14452@16",
+    "16319@16",
+    "18812@16",
+    "30536@17",
+    "36105@16",
+    "272744@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

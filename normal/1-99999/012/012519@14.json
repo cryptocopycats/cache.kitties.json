@@ -1,0 +1,20 @@
+{
+  "id": 12519,
+  "name": "sea of sapphire",
+  "generation": 14,
+  "created_at": "2017-11-29T18:20:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm sea of sapphire. My friends describe me as prickly and raunchy. I once dreamed of being a Mad Scientist. Now I can be found running a podcast all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12046@13",
+  "sire": "11016@9",
+  "children": [
+    "13577@15",
+    "15319@15",
+    "63882@15",
+    "670143@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

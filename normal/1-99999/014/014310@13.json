@@ -1,0 +1,20 @@
+{
+  "id": 14310,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-30T01:38:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #14310. I'm often referred to as the Jon Snow of the group. My secret indulgence is salad. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "13534@10",
+  "sire": "13827@12",
+  "children": [
+    "14792@14",
+    "15056@14",
+    "18025@14",
+    "72885@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

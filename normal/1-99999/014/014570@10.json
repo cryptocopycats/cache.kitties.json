@@ -1,0 +1,22 @@
+{
+  "id": 14570,
+  "name": "Plodding",
+  "generation": 10,
+  "created_at": "2017-11-30T02:53:14.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Plodding. I enjoy eating until I loathe myself, shakin' dat booty, and chasing string. I once made a rhino lay. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3992@2",
+  "sire": "14244@9",
+  "children": [
+    "26445@15",
+    "27172@15",
+    "27404@11",
+    "31070@12",
+    "40728@22",
+    "70378@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

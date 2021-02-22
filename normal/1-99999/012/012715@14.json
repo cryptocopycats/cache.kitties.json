@@ -1,0 +1,21 @@
+{
+  "id": 12715,
+  "name": "Casanova",
+  "generation": 14,
+  "created_at": "2017-11-29T18:54:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Casanova. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12486@8",
+  "sire": "12462@13",
+  "children": [
+    "13162@15",
+    "14579@16",
+    "19777@15",
+    "29863@15",
+    "90776@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

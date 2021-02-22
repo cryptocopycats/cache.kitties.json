@@ -1,0 +1,21 @@
+{
+  "id": 12355,
+  "name": "Gen 14 Slow",
+  "generation": 14,
+  "created_at": "2017-11-29T17:51:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen 14 Slow. I'm often referred to as the Dwight Schrute of the group. It's not common knowledge, but my ancestry connects me to Mother Theresa. Will you be the marmite to my maple syrup?",
+  "language": "en",
+  "matron": "12056@1",
+  "sire": "12267@13",
+  "children": [
+    "13371@15",
+    "13645@15",
+    "37932@15",
+    "58791@15",
+    "109905@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

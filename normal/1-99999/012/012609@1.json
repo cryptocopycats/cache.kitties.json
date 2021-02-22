@@ -1,0 +1,27 @@
+{
+  "id": 12609,
+  "name": "Catsper",
+  "generation": 1,
+  "created_at": "2017-11-29T18:38:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Catsper. I enjoy picking flowers, breakdancing, and riding dirty. I like to listen to Aretha Franklin while grooming. Don't judge me. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "11226@0",
+  "sire": "2492@0",
+  "children": [
+    "12704@21",
+    "12780@11",
+    "12835@5",
+    "13079@7",
+    "14258@19",
+    "14832@8",
+    "17336@19",
+    "39253@3",
+    "54231@3",
+    "309416@6",
+    "375856@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

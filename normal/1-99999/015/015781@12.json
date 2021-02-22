@@ -1,0 +1,20 @@
+{
+  "id": 15781,
+  "name": "James Catfield",
+  "generation": 12,
+  "created_at": "2017-11-30T07:54:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm James Catfield. In high school, I was voted most likely to work at NASA. I like to listen to Metallica while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "15304@10",
+  "sire": "15379@11",
+  "children": [
+    "16967@13",
+    "30765@13",
+    "41516@17",
+    "390858@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

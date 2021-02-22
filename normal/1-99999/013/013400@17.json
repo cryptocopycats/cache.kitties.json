@@ -1,0 +1,21 @@
+{
+  "id": 13400,
+  "name": "Fredgar",
+  "generation": 17,
+  "created_at": "2017-11-29T22:02:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Fredgar. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6782@7",
+  "sire": "8693@16",
+  "children": [
+    "17262@18",
+    "45486@18",
+    "82314@19",
+    "112091@19",
+    "223760@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 13141,
+  "name": "Jerry",
+  "generation": 8,
+  "created_at": "2017-11-29T20:52:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! Jerry here. I'm here to enjoy fighting the patriarchy and picking flowers. When no one's home, I invite my pals over and we listen to Justin Bieber. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "11150@4",
+  "sire": "11423@7",
+  "children": [
+    "13624@9",
+    "24226@16",
+    "25487@9",
+    "419901@9",
+    "435501@9",
+    "452520@15",
+    "549541@9",
+    "607327@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 40,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

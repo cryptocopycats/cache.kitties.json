@@ -1,0 +1,20 @@
+{
+  "id": 15196,
+  "name": "Geraldo",
+  "generation": 16,
+  "created_at": "2017-11-30T05:39:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Geraldo. I believe that one day cats will rule this planet. I am 64% oracle, 79% Ventriloquist, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12976@15",
+  "sire": "13089@15",
+  "children": [
+    "17118@17",
+    "21791@17",
+    "36866@17",
+    "60347@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

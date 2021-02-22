@@ -1,0 +1,21 @@
+{
+  "id": 13775,
+  "name": "Cigarette",
+  "generation": 11,
+  "created_at": "2017-11-29T23:27:46.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Cigarette. I'm often referred to as the Homer Simpson of the group. Some people say I'm the Homer Simpson of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12319@6",
+  "sire": "12325@10",
+  "children": [
+    "16788@12",
+    "17569@12",
+    "18040@12",
+    "72805@22",
+    "150381@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

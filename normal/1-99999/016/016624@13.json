@@ -1,0 +1,19 @@
+{
+  "id": 16624,
+  "name": "Mr. Mustache",
+  "generation": 13,
+  "created_at": "2017-11-30T11:19:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Mr. Mustache. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of breakdancing, salad, and swiping right. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12813@12",
+  "sire": "10673@10",
+  "children": [
+    "33309@14",
+    "44200@14",
+    "256904@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

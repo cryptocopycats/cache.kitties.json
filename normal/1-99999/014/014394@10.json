@@ -1,0 +1,17 @@
+{
+  "id": 14394,
+  "name": "Cereal",
+  "generation": 10,
+  "created_at": "2017-11-30T01:58:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Cereal. All you need to know about me is I hate cereal with a passion. My great-great-great-great-great-great grandkitty lived with Confucius. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10889@1",
+  "sire": "11822@9",
+  "children": [
+    "15094@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

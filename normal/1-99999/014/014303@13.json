@@ -1,0 +1,23 @@
+{
+  "id": 14303,
+  "name": "Mr. Wiggles",
+  "generation": 13,
+  "created_at": "2017-11-30T01:37:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Mr. Wiggles. I want to live in a world where people believe the world is flat. When I'm not people-watching, I'm pole dancing! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12671@12",
+  "sire": "10458@8",
+  "children": [
+    "39739@18",
+    "51571@17",
+    "62685@14",
+    "89996@14",
+    "102430@14",
+    "175560@14",
+    "333070@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

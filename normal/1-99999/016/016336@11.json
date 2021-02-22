@@ -1,0 +1,18 @@
+{
+  "id": 16336,
+  "name": "baba",
+  "generation": 11,
+  "created_at": "2017-11-30T09:56:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm baba. All you need to know about me is I hate apple pie with a passion. I once made a rhino jump. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11325@7",
+  "sire": "13831@10",
+  "children": [
+    "17799@12",
+    "20348@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

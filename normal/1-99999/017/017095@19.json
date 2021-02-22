@@ -1,0 +1,18 @@
+{
+  "id": 17095,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-30T13:18:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #17095. I'm a Ventriloquist by day, and I like siring for status by night. It's not common knowledge, but my ancestry connects me to Amelia Earhart. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12741@18",
+  "sire": "12783@14",
+  "children": [
+    "20088@20",
+    "83595@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

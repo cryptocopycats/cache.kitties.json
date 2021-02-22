@@ -1,0 +1,22 @@
+{
+  "id": 13562,
+  "name": "G3 | Brisk",
+  "generation": 3,
+  "created_at": "2017-11-29T22:34:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm G3 | Brisk. I'm often referred to as the Bart Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "1458@0",
+  "sire": "7765@2",
+  "children": [
+    "41795@14",
+    "44204@12",
+    "50535@7",
+    "59138@4",
+    "120827@18",
+    "159230@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

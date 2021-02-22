@@ -1,0 +1,21 @@
+{
+  "id": 16040,
+  "name": "Good Fella | Brisk",
+  "generation": 11,
+  "created_at": "2017-11-30T08:48:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Good Fella | Brisk. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "11722@10",
+  "sire": "11689@10",
+  "children": [
+    "20123@20",
+    "23344@15",
+    "60500@12",
+    "142654@15",
+    "275163@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

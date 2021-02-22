@@ -1,0 +1,26 @@
+{
+  "id": 16832,
+  "name": "Gen8",
+  "generation": 8,
+  "created_at": "2017-11-30T12:00:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen8. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Rihanna. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "16558@7",
+  "sire": "16719@7",
+  "children": [
+    "16955@9",
+    "17326@9",
+    "17465@9",
+    "19975@11",
+    "29739@15",
+    "44566@15",
+    "71070@18",
+    "137939@16",
+    "329190@20",
+    "408864@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

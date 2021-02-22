@@ -1,0 +1,18 @@
+{
+  "id": 12491,
+  "name": "Suzuki",
+  "generation": 14,
+  "created_at": "2017-11-29T18:18:56.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! My name's Suzuki. I once peed on Martin Luther King Jr.'s cat. They had it coming. When no one's home, I invite my pals over and we listen to Beyoncé. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "11861@13",
+  "sire": "11224@9",
+  "children": [
+    "19664@15",
+    "63577@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

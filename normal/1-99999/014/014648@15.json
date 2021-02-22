@@ -1,0 +1,18 @@
+{
+  "id": 14648,
+  "name": "Sami",
+  "generation": 15,
+  "created_at": "2017-11-30T03:04:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Sami. In high school, I was voted school jock. My friends describe me as \"vegan.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "13702@14",
+  "sire": "13692@7",
+  "children": [
+    "15808@16",
+    "52876@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

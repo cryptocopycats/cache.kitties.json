@@ -1,0 +1,21 @@
+{
+  "id": 16328,
+  "name": "Santa's Little Helper",
+  "generation": 8,
+  "created_at": "2017-11-30T09:55:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Santa's Little Helper. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "3083@7",
+  "sire": "11916@7",
+  "children": [
+    "16545@10",
+    "16987@9",
+    "23625@10",
+    "24026@9",
+    "25707@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

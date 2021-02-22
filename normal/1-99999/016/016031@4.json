@@ -1,0 +1,28 @@
+{
+  "id": 16031,
+  "name": "Clayton Kershaw",
+  "generation": 4,
+  "created_at": "2017-11-30T08:46:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Clayton Kershaw. I've never told anyone this, but I once headbutted a dog. I once dreamed of being a Dogwalker. Now I can be found volunteering at the local kitten rescue shelter all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15568@3",
+  "sire": "15960@3",
+  "children": [
+    "16308@5",
+    "18128@10",
+    "18680@6",
+    "30922@19",
+    "40768@5",
+    "52866@5",
+    "63435@5",
+    "89152@10",
+    "205559@12",
+    "276412@5",
+    "346713@5",
+    "409384@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

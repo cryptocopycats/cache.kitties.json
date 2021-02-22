@@ -1,0 +1,21 @@
+{
+  "id": 16520,
+  "name": "Kitty #16520",
+  "generation": 13,
+  "created_at": "2017-11-30T10:53:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #16520. My friends describe me as wondrous and stinky. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "15265@12",
+  "sire": "14629@10",
+  "children": [
+    "16804@14",
+    "18101@15",
+    "20405@15",
+    "23665@14",
+    "31499@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

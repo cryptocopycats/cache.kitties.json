@@ -1,0 +1,18 @@
+{
+  "id": 13413,
+  "name": "Ability",
+  "generation": 14,
+  "created_at": "2017-11-29T22:04:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Ability. My friends describe me as brilliant and fabulous. When no one's home, I invite my pals over and we listen to Metallica. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "6702@13",
+  "sire": "4859@9",
+  "children": [
+    "39892@15",
+    "259563@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

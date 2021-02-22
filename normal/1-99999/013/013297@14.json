@@ -1,0 +1,19 @@
+{
+  "id": 13297,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T21:33:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Kitty #13297. I'm a professional Dogwalker and I love apple pie. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11389@13",
+  "sire": "7146@12",
+  "children": [
+    "14465@15",
+    "16983@15",
+    "28233@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

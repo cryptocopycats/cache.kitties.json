@@ -1,0 +1,19 @@
+{
+  "id": 13194,
+  "name": "Brown Trout",
+  "generation": 15,
+  "created_at": "2017-11-29T21:06:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Brown Trout. I'm often referred to as the Frodo Baggins of the group. In my free time, I can usually be found ridiculous or watching reality tv. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12923@10",
+  "sire": "12931@14",
+  "children": [
+    "15276@16",
+    "21426@16",
+    "23174@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

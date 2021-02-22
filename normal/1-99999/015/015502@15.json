@@ -1,0 +1,21 @@
+{
+  "id": 15502,
+  "name": "Gen 15 Virgin",
+  "generation": 15,
+  "created_at": "2017-11-30T06:58:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Gen 15 Virgin. All you need to know about me is I hate chocolate with a passion. I would give it all up to star in a soap opera. Let's get busy!",
+  "language": "en",
+  "matron": "12200@14",
+  "sire": "12164@13",
+  "children": [
+    "16633@16",
+    "84201@16",
+    "108258@16",
+    "129070@16",
+    "186663@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

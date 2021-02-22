@@ -1,0 +1,21 @@
+{
+  "id": 16001,
+  "name": "Brisk",
+  "generation": 5,
+  "created_at": "2017-11-30T08:36:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! My name's Brisk. I once peed on Cleopatra's cat. They had it coming. My friends describe me as \"seductive.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12126@0",
+  "sire": "15818@4",
+  "children": [
+    "16032@8",
+    "16330@6",
+    "16489@8",
+    "18514@6",
+    "1413825@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

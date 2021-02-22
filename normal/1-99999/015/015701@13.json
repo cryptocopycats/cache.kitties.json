@@ -1,0 +1,19 @@
+{
+  "id": 15701,
+  "name": "Mrs el Gato",
+  "generation": 13,
+  "created_at": "2017-11-30T07:35:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Mrs el Gato. All you need to know about me is I hate wet food with a passion. I once made a dolphin dance. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15111@10",
+  "sire": "15334@12",
+  "children": [
+    "21186@15",
+    "270328@18",
+    "313206@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

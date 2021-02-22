@@ -1,0 +1,20 @@
+{
+  "id": 12228,
+  "name": "Gen 12 spock",
+  "generation": 12,
+  "created_at": "2017-11-29T15:07:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gen 12 spock. I'm a Aerobics Athlete  by day, and I like watching reality tv by night. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Let's get busy!",
+  "language": "en",
+  "matron": "11893@11",
+  "sire": "11957@5",
+  "children": [
+    "12520@13",
+    "14655@14",
+    "17639@14",
+    "52063@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

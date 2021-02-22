@@ -1,0 +1,20 @@
+{
+  "id": 13500,
+  "name": "Pixel",
+  "generation": 14,
+  "created_at": "2017-11-29T22:25:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Pixel. I enjoy reciting poetry, tricking babies, and being a nevernude. My secret indulgence is lasagna. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1182@0",
+  "sire": "11348@13",
+  "children": [
+    "15065@17",
+    "19039@17",
+    "75233@20",
+    "105348@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

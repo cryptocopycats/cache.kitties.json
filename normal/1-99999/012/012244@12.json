@@ -1,0 +1,21 @@
+{
+  "id": 12244,
+  "name": "Tiger",
+  "generation": 12,
+  "created_at": "2017-11-29T15:15:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Tiger. I'm a Ventriloquist by day, and I like prank-calling celebrities by night. Some people say I'm the Niles Crane of the group. Let's pawty!",
+  "language": "en",
+  "matron": "3215@3",
+  "sire": "9192@11",
+  "children": [
+    "12336@13",
+    "13251@13",
+    "15347@13",
+    "19429@13",
+    "53520@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

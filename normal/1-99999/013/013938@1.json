@@ -1,0 +1,20 @@
+{
+  "id": 13938,
+  "name": "Luminous Kit (GEN 1 SWIFT)",
+  "generation": 1,
+  "created_at": "2017-11-30T00:19:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Luminous Kit (GEN 1 SWIFT). I'm a Mad Scientist by day, and I like reading Danielle Steele by night. I put marmite on everything. Like, everything: hot dogs, cantaloupe—everything! Let's pawty!",
+  "language": "en",
+  "matron": "12173@0",
+  "sire": "12003@0",
+  "children": [
+    "22286@5",
+    "22362@10",
+    "29734@2",
+    "70012@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

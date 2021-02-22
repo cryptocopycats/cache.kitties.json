@@ -1,0 +1,19 @@
+{
+  "id": 15405,
+  "name": "Lapis Tongue",
+  "generation": 10,
+  "created_at": "2017-11-30T06:36:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Lapis Tongue. I'm a Train Conductor by day, and I like swiping left by night. My secret indulgence is steak. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "15155@5",
+  "sire": "15226@9",
+  "children": [
+    "15533@11",
+    "20933@11",
+    "49224@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

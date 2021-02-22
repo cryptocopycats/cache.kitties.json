@@ -1,0 +1,22 @@
+{
+  "id": 12602,
+  "name": "Green Peach",
+  "generation": 15,
+  "created_at": "2017-11-29T18:35:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Green Peach. I enjoy staying woke, shakin' dat booty, and eating until I loathe myself. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I like your face.",
+  "language": "en",
+  "matron": "6880@14",
+  "sire": "11594@10",
+  "children": [
+    "13548@16",
+    "15285@16",
+    "16675@16",
+    "34517@21",
+    "56241@17",
+    "115939@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

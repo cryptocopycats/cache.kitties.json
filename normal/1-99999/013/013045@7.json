@@ -1,0 +1,21 @@
+{
+  "id": 13045,
+  "name": "Orange Strawberry Munchkin",
+  "generation": 7,
+  "created_at": "2017-11-29T20:27:56.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Orange Strawberry Munchkin. I want to live in a world where people believe the world is flat. I am 62% elf, 4% Foreign Film Director, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "6078@1",
+  "sire": "5489@6",
+  "children": [
+    "13111@15",
+    "13466@8",
+    "14008@15",
+    "14052@17",
+    "16518@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

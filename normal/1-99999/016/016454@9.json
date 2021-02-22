@@ -1,0 +1,24 @@
+{
+  "id": 16454,
+  "name": "G9 wriggler",
+  "generation": 9,
+  "created_at": "2017-11-30T10:35:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm G9 wriggler. I'm a Private Dancer  by day, and I like running a podcast by night. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "10342@4",
+  "sire": "11047@8",
+  "children": [
+    "24013@12",
+    "24767@10",
+    "25564@10",
+    "27641@17",
+    "30019@11",
+    "40910@15",
+    "67275@11",
+    "119237@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

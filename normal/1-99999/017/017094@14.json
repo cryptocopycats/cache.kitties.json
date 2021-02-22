@@ -1,0 +1,20 @@
+{
+  "id": 17094,
+  "name": "Kevin",
+  "generation": 14,
+  "created_at": "2017-11-30T13:18:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! My name's Kevin. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Chandler Bing of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6869@10",
+  "sire": "11793@13",
+  "children": [
+    "18045@16",
+    "20623@18",
+    "25361@18",
+    "70618@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

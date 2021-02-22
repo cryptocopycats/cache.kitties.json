@@ -1,0 +1,21 @@
+{
+  "id": 15693,
+  "name": "Swift",
+  "generation": 4,
+  "created_at": "2017-11-30T07:35:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Swift. All you need to know about me is I hate salad with a passion. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": "15555@3",
+  "sire": "15565@1",
+  "children": [
+    "16994@5",
+    "53600@10",
+    "93299@10",
+    "135561@8",
+    "170102@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12945,
+  "name": "Grey",
+  "generation": 11,
+  "created_at": "2017-11-29T20:04:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Grey. I want to live in a world where people believe that one day cats will rule this planet. I once made a rhino ignore. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11400@7",
+  "sire": "11900@10",
+  "children": [
+    "14514@12",
+    "20113@14",
+    "24166@14",
+    "32584@12",
+    "42514@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

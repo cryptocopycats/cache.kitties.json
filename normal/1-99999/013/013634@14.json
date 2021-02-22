@@ -1,0 +1,21 @@
+{
+  "id": 13634,
+  "name": "Dali Coffee",
+  "generation": 14,
+  "created_at": "2017-11-29T22:52:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Dali Coffee. I want to live in a world where people believe the world is flat. My secret indulgence is cantaloupe. Let's get busy!",
+  "language": "en",
+  "matron": "12762@1",
+  "sire": "13590@13",
+  "children": [
+    "13857@15",
+    "16739@16",
+    "27547@19",
+    "81019@15",
+    "178940@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

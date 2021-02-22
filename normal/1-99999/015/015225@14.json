@@ -1,0 +1,21 @@
+{
+  "id": 15225,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-30T05:46:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Gen 14. In high school, I was voted most likely to work at NASA. I am 24% fairy, 3% Mad Scientist, and otherwise bad at math. Will you be the marmalade to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "12430@10",
+  "sire": "10166@13",
+  "children": [
+    "17167@17",
+    "45232@15",
+    "91802@15",
+    "180418@15",
+    "308100@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

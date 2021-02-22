@@ -1,0 +1,20 @@
+{
+  "id": 16476,
+  "name": "Dab Cat",
+  "generation": 17,
+  "created_at": "2017-11-30T10:40:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Dab Cat. I believe that one day cats will rule this planet. I am 13% wizard, 44% Ventriloquist, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "13070@12",
+  "sire": "14424@16",
+  "children": [
+    "19609@18",
+    "24797@18",
+    "45606@18",
+    "225722@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

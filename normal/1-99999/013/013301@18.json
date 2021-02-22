@@ -1,0 +1,19 @@
+{
+  "id": 13301,
+  "name": "Gen 18 Otaku",
+  "generation": 18,
+  "created_at": "2017-11-29T21:34:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 18 Otaku. My friends describe me as annoying and vegan. In my free time, I can usually be found voluptuous or watching reality tv. Will you be the cinammon to my ranch dressing?",
+  "language": "en",
+  "matron": "8455@17",
+  "sire": "5661@14",
+  "children": [
+    "45482@19",
+    "74980@19",
+    "120873@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

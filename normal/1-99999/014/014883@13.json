@@ -1,0 +1,22 @@
+{
+  "id": 14883,
+  "name": "gen13 limegreen",
+  "generation": 13,
+  "created_at": "2017-11-30T04:12:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm gen13 limegreen. I'm often referred to as the Lisa Simpson of the group. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Let's get busy!",
+  "language": "en",
+  "matron": "14378@8",
+  "sire": "7735@12",
+  "children": [
+    "16551@14",
+    "18109@14",
+    "20430@14",
+    "23652@14",
+    "30832@14",
+    "69772@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

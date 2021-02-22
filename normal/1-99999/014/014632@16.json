@@ -1,0 +1,19 @@
+{
+  "id": 14632,
+  "name": "Cleocatra",
+  "generation": 16,
+  "created_at": "2017-11-30T03:02:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Cleocatra. I enjoy taking selfies, fighting the patriarchy, and staying woke. I once dreamed of being a Train Conductor. Now I can be found running a podcast all day. I like your face.",
+  "language": "en",
+  "matron": "9094@15",
+  "sire": "12041@15",
+  "children": [
+    "17940@17",
+    "51231@17",
+    "54625@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

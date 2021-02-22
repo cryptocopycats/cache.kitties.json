@@ -1,0 +1,20 @@
+{
+  "id": 16413,
+  "name": "Ribbit",
+  "generation": 14,
+  "created_at": "2017-11-30T10:15:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Ribbit. My friends describe me as ridiculous and raunchy. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "9923@1",
+  "sire": "12552@13",
+  "children": [
+    "16666@15",
+    "48221@15",
+    "82048@15",
+    "294255@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

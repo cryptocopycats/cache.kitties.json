@@ -1,0 +1,21 @@
+{
+  "id": 16580,
+  "name": "Gen 10 | Brisk",
+  "generation": 10,
+  "created_at": "2017-11-30T11:09:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 10 | Brisk. I'm often referred to as the Cersei Lannister of the group. Sometimes I daydream of a life full of glaring at the neighbour's cat, cereal, and talking about how much I lift. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "14682@9",
+  "sire": "12920@9",
+  "children": [
+    "17132@13",
+    "42341@19",
+    "71462@19",
+    "106644@19",
+    "231121@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13763,
+  "name": "Doopy",
+  "generation": 13,
+  "created_at": "2017-11-29T23:23:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Doopy. I'm often referred to as the Dwight Schrute of the group. When I'm not mocking dogs, I'm jump-roping! Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "12994@12",
+  "sire": "1225@0",
+  "children": [
+    "16109@14",
+    "120283@14",
+    "268524@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

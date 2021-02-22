@@ -1,0 +1,22 @@
+{
+  "id": 17145,
+  "name": "Lickers | Gen 4",
+  "generation": 4,
+  "created_at": "2017-11-30T13:25:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Lickers | Gen 4. I enjoy eating lasagna, spinning sick beats, and eating until I loathe myself. My friends describe me as \"hairy.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "16791@3",
+  "sire": "16252@3",
+  "children": [
+    "17389@5",
+    "17532@5",
+    "17825@5",
+    "19035@5",
+    "22438@5",
+    "25018@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

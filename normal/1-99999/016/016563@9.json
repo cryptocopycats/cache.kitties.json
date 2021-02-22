@@ -1,0 +1,21 @@
+{
+  "id": 16563,
+  "name": "Bahamut",
+  "generation": 9,
+  "created_at": "2017-11-30T11:04:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Bahamut. I enjoy picking on mice, reading garfield, and slappin' da bass. When no one's home, I invite my pals over and we listen to Aretha Franklin. I like your face.",
+  "language": "en",
+  "matron": "15840@7",
+  "sire": "15809@8",
+  "children": [
+    "20741@10",
+    "31360@18",
+    "45611@16",
+    "75187@18",
+    "96890@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 16671,
+  "name": "Gen4 +white",
+  "generation": 4,
+  "created_at": "2017-11-30T11:25:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Gen4 +white. I once peed on Marie Antoinette's cat. They had it coming. I once made a rabbit grimace. Will you be the ranch dressing to my garlic butter?",
+  "language": "en",
+  "matron": "16642@3",
+  "sire": "16111@3",
+  "children": [
+    "16923@5",
+    "17112@5",
+    "17676@5",
+    "19898@5",
+    "22469@5",
+    "26245@9",
+    "28751@9",
+    "36845@9",
+    "65272@17",
+    "311154@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

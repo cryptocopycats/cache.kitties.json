@@ -1,0 +1,25 @@
+{
+  "id": 17442,
+  "name": "Gen 4 | Brisk | Gen4 | Lucky",
+  "generation": 4,
+  "created_at": "2017-11-30T14:43:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Gen 4 | Brisk | Gen4 | Lucky here. I'm here to enjoy eating until I loathe myself and sweating through my feet. I'm often described as smelly, and I own it. I like your face.",
+  "language": "en",
+  "matron": "16262@3",
+  "sire": "5646@3",
+  "children": [
+    "19480@5",
+    "45640@5",
+    "54077@5",
+    "59340@5",
+    "77478@5",
+    "85659@5",
+    "96930@5",
+    "158176@5",
+    "225980@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

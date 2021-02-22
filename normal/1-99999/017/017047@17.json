@@ -1,0 +1,19 @@
+{
+  "id": 17047,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-30T13:00:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #17047. I believe that one day cats will rule this planet. Some people say I'm the Peter Griffin of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15121@16",
+  "sire": "15115@15",
+  "children": [
+    "18998@18",
+    "25981@19",
+    "53782@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

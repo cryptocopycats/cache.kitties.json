@@ -1,0 +1,19 @@
+{
+  "id": 14030,
+  "name": "Marvin",
+  "generation": 3,
+  "created_at": "2017-11-30T00:38:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Marvin. I'm often referred to as the Hermione Granger of the group. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "2097@0",
+  "sire": "13960@2",
+  "children": [
+    "14086@4",
+    "14140@4",
+    "27373@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

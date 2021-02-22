@@ -1,0 +1,20 @@
+{
+  "id": 17297,
+  "name": "General Meow",
+  "generation": 11,
+  "created_at": "2017-11-30T14:00:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's General Meow. I once peed on Cleopatra's cat. They had it coming. I'm often described as gorgeous, and I own it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "16226@10",
+  "sire": "16497@9",
+  "children": [
+    "27161@12",
+    "27872@12",
+    "80967@19",
+    "97065@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

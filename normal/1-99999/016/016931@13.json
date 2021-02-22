@@ -1,0 +1,22 @@
+{
+  "id": 16931,
+  "name": "Limegreen Swampgreen",
+  "generation": 13,
+  "created_at": "2017-11-30T12:34:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Limegreen Swampgreen. I'm often referred to as the Cersei Lannister of the group. Some people say I'm the Cersei Lannister of the group. Let's pawty!",
+  "language": "en",
+  "matron": "14777@10",
+  "sire": "11046@12",
+  "children": [
+    "19471@15",
+    "37427@14",
+    "52124@18",
+    "99954@19",
+    "122694@19",
+    "140388@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

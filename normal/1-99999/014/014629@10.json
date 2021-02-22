@@ -1,0 +1,23 @@
+{
+  "id": 14629,
+  "name": "Tony Stark GEN10 [VENDER]",
+  "generation": 10,
+  "created_at": "2017-11-30T03:02:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Tony Stark GEN10 [VENDER]. I enjoy breakdancing, riding dirty, and sweating through my feet. I am 31% sphinx, 76% Spin Instructor , and otherwise bad at math. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "10324@4",
+  "sire": "13907@9",
+  "children": [
+    "14834@11",
+    "16520@13",
+    "17002@11",
+    "20440@11",
+    "23653@14",
+    "28624@16",
+    "48276@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

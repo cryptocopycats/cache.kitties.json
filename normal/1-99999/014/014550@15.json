@@ -1,0 +1,21 @@
+{
+  "id": 14550,
+  "name": "SwampGreen",
+  "generation": 15,
+  "created_at": "2017-11-30T02:44:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm SwampGreen. I'm a professional Mad Scientist and I love salad. I once made a dolphin trot. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "14401@9",
+  "sire": "6880@14",
+  "children": [
+    "26746@16",
+    "57610@18",
+    "75179@16",
+    "101494@16",
+    "158438@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

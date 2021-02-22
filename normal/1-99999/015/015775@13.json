@@ -1,0 +1,20 @@
+{
+  "id": 15775,
+  "name": "Green Spots",
+  "generation": 13,
+  "created_at": "2017-11-30T07:53:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Green Spots. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of eating lasagna, hamburgers, and summoning ghosts. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "15217@12",
+  "sire": "12802@2",
+  "children": [
+    "20668@16",
+    "31830@19",
+    "39002@15",
+    "53980@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

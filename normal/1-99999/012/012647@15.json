@@ -1,0 +1,20 @@
+{
+  "id": 12647,
+  "name": "Gerald",
+  "generation": 15,
+  "created_at": "2017-11-29T18:38:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gerald. My friends describe me as wondrous and preposterous. I put marmalade on everything. Like, everything: hot dogs, cantaloupe—everything! Our friendship will be wondrous, preposterous, and full of wet food.",
+  "language": "en",
+  "matron": "12345@8",
+  "sire": "12354@14",
+  "children": [
+    "13664@18",
+    "15410@18",
+    "20642@16",
+    "40526@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

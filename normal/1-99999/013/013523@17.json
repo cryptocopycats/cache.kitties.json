@@ -1,0 +1,21 @@
+{
+  "id": 13523,
+  "name": "Bob Meowerly",
+  "generation": 17,
+  "created_at": "2017-11-29T22:28:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Bob Meowerly. I'm often referred to as the Ross Geller of the group. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6078@1",
+  "sire": "12968@16",
+  "children": [
+    "45489@19",
+    "68059@18",
+    "77066@18",
+    "137684@18",
+    "324451@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

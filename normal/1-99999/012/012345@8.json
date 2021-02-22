@@ -1,0 +1,23 @@
+{
+  "id": 12345,
+  "name": "Gen 8 C6 | Tongue & Mintgreen",
+  "generation": 8,
+  "created_at": "2017-11-29T17:51:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 8 C6 | Tongue & Mintgreen. In high school, I was voted biggest teacher's pet. When I'm not mocking dogs, I'm siring for status! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10107@7",
+  "sire": "10178@6",
+  "children": [
+    "12647@15",
+    "12989@12",
+    "13470@11",
+    "14460@11",
+    "16567@16",
+    "19187@15",
+    "88088@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

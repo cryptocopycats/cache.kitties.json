@@ -1,0 +1,20 @@
+{
+  "id": 17405,
+  "name": "Charli",
+  "generation": 15,
+  "created_at": "2017-11-30T14:32:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Charli. In high school, I was voted school jock. My secret indulgence is steak. Let's get busy!",
+  "language": "en",
+  "matron": "14790@11",
+  "sire": "12414@14",
+  "children": [
+    "38627@16",
+    "58100@16",
+    "84835@16",
+    "109086@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

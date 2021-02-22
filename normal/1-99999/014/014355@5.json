@@ -1,0 +1,23 @@
+{
+  "id": 14355,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-11-30T01:47:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm G5. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "13261@4",
+  "sire": "12886@4",
+  "children": [
+    "14384@6",
+    "18922@6",
+    "19659@6",
+    "21110@6",
+    "43584@6",
+    "55721@6",
+    "66605@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

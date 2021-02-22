@@ -1,0 +1,18 @@
+{
+  "id": 12207,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T14:56:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #12207. I enjoy fighting the patriarchy, riding unicorns, and taking selfies. I once clawed a labradoodle. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3421@5",
+  "sire": "4052@9",
+  "children": [
+    "29750@13",
+    "153587@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

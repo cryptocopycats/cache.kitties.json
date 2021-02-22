@@ -1,0 +1,26 @@
+{
+  "id": 13281,
+  "name": "Ren - Gen 3 - Slug",
+  "generation": 3,
+  "created_at": "2017-11-29T21:28:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Ren - Gen 3 - Slug. I've never told anyone this, but I once pawed at a dog. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12802@2",
+  "sire": "10423@2",
+  "children": [
+    "13386@10",
+    "13794@10",
+    "14046@8",
+    "14356@15",
+    "14553@15",
+    "14684@8",
+    "16765@15",
+    "22707@4",
+    "29109@4",
+    "45481@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

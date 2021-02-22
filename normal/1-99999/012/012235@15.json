@@ -1,0 +1,20 @@
+{
+  "id": 12235,
+  "name": "Travis Bickle (G15)",
+  "generation": 15,
+  "created_at": "2017-11-29T15:08:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Travis Bickle (G15). I'm a Foreign Film Director by day, and I like tricking babies by night. I like to listen to Mariah Carey while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "10625@14",
+  "sire": "5054@10",
+  "children": [
+    "12758@16",
+    "17269@16",
+    "20372@17",
+    "29956@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

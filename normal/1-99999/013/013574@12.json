@@ -1,0 +1,21 @@
+{
+  "id": 13574,
+  "name": "Flufflebub",
+  "generation": 12,
+  "created_at": "2017-11-29T22:38:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Flufflebub. My friends describe me as seductive and stinky. I like to listen to Ace of Base while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12780@11",
+  "sire": "5009@10",
+  "children": [
+    "14512@13",
+    "20315@13",
+    "29790@13",
+    "41660@13",
+    "375650@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

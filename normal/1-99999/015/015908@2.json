@@ -1,0 +1,29 @@
+{
+  "id": 15908,
+  "name": "Willy",
+  "generation": 2,
+  "created_at": "2017-11-30T08:16:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Willy. I've never told anyone this, but I once groomed a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "5828@1",
+  "sire": "5690@1",
+  "children": [
+    "15936@3",
+    "16017@3",
+    "17129@8",
+    "17779@10",
+    "17951@12",
+    "20444@10",
+    "86681@5",
+    "88716@8",
+    "103121@5",
+    "122754@5",
+    "183990@3",
+    "223275@3",
+    "322653@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

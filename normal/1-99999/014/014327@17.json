@@ -1,0 +1,20 @@
+{
+  "id": 14327,
+  "name": "GrayDough",
+  "generation": 17,
+  "created_at": "2017-11-30T01:42:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm GrayDough. I'm often referred to as the Ron Weasley of the group. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "13330@15",
+  "sire": "13359@16",
+  "children": [
+    "18000@18",
+    "22555@20",
+    "79983@18",
+    "198720@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

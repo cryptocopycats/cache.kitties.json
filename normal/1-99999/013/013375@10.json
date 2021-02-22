@@ -1,0 +1,21 @@
+{
+  "id": 13375,
+  "name": "B. Purrdie",
+  "generation": 10,
+  "created_at": "2017-11-29T21:58:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm B. Purrdie. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "13280@9",
+  "sire": "12764@9",
+  "children": [
+    "14793@11",
+    "19034@19",
+    "65495@16",
+    "115309@19",
+    "130185@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

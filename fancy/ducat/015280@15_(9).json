@@ -1,0 +1,28 @@
+{
+  "id": 15280,
+  "name": "Vitalik Buterin",
+  "generation": 15,
+  "created_at": "2017-11-30T06:01:24.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Vitalik Buterin. I enjoy tricking babies, picking on mice, and taking selfies. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "14024@14",
+  "sire": "14246@5",
+  "children": [
+    "21068@16",
+    "21137@19",
+    "139531@19",
+    "202882@19",
+    "330467@19",
+    "533323@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 9,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 15428,
+  "name": "Tesla",
+  "generation": 9,
+  "created_at": "2017-11-30T06:40:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! My name's Tesla. I once peed on King Henry VIII's cat. They had it coming. In my free time, I can usually be found brilliant or watching reality tv. Our friendship will be fabulous, ridiculous, and full of steak.",
+  "language": "en",
+  "matron": "14797@3",
+  "sire": "15159@8",
+  "children": [
+    "15590@19",
+    "15793@10",
+    "16026@10",
+    "18042@10",
+    "21625@10",
+    "48686@16",
+    "82208@19",
+    "91675@10",
+    "193300@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

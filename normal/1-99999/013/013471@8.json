@@ -1,0 +1,26 @@
+{
+  "id": 13471,
+  "name": "Banane GEN8",
+  "generation": 8,
+  "created_at": "2017-11-29T22:19:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Banane GEN8. I enjoy riding unicorns, tricking babies, and sitting on your computer. I am 35% hobbit, 29% Ventriloquist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12762@1",
+  "sire": "10759@7",
+  "children": [
+    "13651@9",
+    "14839@14",
+    "15305@17",
+    "15437@14",
+    "20285@16",
+    "22002@17",
+    "29025@18",
+    "117492@9",
+    "227099@9",
+    "372537@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

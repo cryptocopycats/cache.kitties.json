@@ -1,0 +1,26 @@
+{
+  "id": 16922,
+  "name": "Pirouette",
+  "generation": 8,
+  "created_at": "2017-11-30T12:31:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Pirouette. My friends describe me as preposterous and smelly. I'm often described as ridiculous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14152@1",
+  "sire": "14694@7",
+  "children": [
+    "17035@10",
+    "22193@9",
+    "22631@9",
+    "23836@9",
+    "27669@10",
+    "28940@9",
+    "65164@9",
+    "465334@9",
+    "469622@15",
+    "1254498@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

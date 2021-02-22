@@ -1,0 +1,20 @@
+{
+  "id": 13387,
+  "name": "Meyer",
+  "generation": 11,
+  "created_at": "2017-11-29T21:59:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Meyer. I believe that one day cats will rule this planet. I am 82% fairy, 94% Private Dancer , and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "12999@8",
+  "sire": "13139@10",
+  "children": [
+    "23244@12",
+    "25070@12",
+    "48605@12",
+    "64058@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

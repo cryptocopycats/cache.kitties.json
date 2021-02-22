@@ -1,0 +1,20 @@
+{
+  "id": 16890,
+  "name": "Kernel",
+  "generation": 13,
+  "created_at": "2017-11-30T12:25:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kernel. I want to live in a world where people believe the world is flat. I would give it all up for a Chanel purse. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12367@12",
+  "sire": "14987@11",
+  "children": [
+    "17492@14",
+    "33484@17",
+    "39910@16",
+    "85831@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

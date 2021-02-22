@@ -1,0 +1,28 @@
+{
+  "id": 15497,
+  "name": "The Donald",
+  "generation": 2,
+  "created_at": "2017-11-30T06:58:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm The Donald. My friends describe me as gorgeous and hairy. Some people say I'm the Chandler Bing of the group. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "12908@0",
+  "sire": "15397@1",
+  "children": [
+    "15520@3",
+    "15647@3",
+    "20673@3",
+    "21577@4",
+    "27593@14",
+    "42843@11",
+    "43787@6",
+    "55181@14",
+    "87087@4",
+    "91457@3",
+    "124380@3",
+    "188001@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

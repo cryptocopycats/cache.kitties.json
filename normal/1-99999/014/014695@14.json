@@ -1,0 +1,20 @@
+{
+  "id": 14695,
+  "name": "abe_froman",
+  "generation": 14,
+  "created_at": "2017-11-30T03:16:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm abe_froman. I believe that one day cats will rule this planet. I once made a rhino dance. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8177@13",
+  "sire": "10948@0",
+  "children": [
+    "15092@15",
+    "24992@15",
+    "54055@15",
+    "91845@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

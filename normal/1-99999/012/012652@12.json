@@ -1,0 +1,21 @@
+{
+  "id": 12652,
+  "name": "Greedo",
+  "generation": 12,
+  "created_at": "2017-11-29T18:38:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! Greedo here. I'm here to enjoy riding unicorns and shakin' dat booty. My great-great-great-great-great-great grandkitty lived with Princess Diana. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5609@11",
+  "sire": "3689@9",
+  "children": [
+    "13691@13",
+    "19368@16",
+    "54111@17",
+    "88032@13",
+    "284509@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17218,
+  "name": "EtherCat",
+  "generation": 17,
+  "created_at": "2017-11-30T13:43:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm EtherCat. My friends describe me as seductive and smelly. In my free time, I can usually be found ridiculous or people-watching. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "7524@16",
+  "sire": "11226@0",
+  "children": [
+    "29128@20",
+    "50888@18",
+    "76481@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

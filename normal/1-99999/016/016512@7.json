@@ -1,0 +1,25 @@
+{
+  "id": 16512,
+  "name": "fancy Bird parent B1 G7",
+  "generation": 7,
+  "created_at": "2017-11-30T10:50:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm fancy Bird parent B1 G7. I believe that one day cats will rule this planet. In my free time, I can usually be found voluptuous or sleeping in fresh laundry. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14298@6",
+  "sire": "13859@1",
+  "children": [
+    "27978@16",
+    "28319@15",
+    "29438@16",
+    "32608@15",
+    "35272@16",
+    "52301@15",
+    "60459@16",
+    "89573@15",
+    "292540@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

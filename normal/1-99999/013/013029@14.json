@@ -1,0 +1,21 @@
+{
+  "id": 13029,
+  "name": "Bag Lady",
+  "generation": 14,
+  "created_at": "2017-11-29T20:24:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Bag Lady. I believe the world is flat. I am 91% elf, 42% Foreign Film Director, and otherwise bad at math. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "6983@13",
+  "sire": "9321@13",
+  "children": [
+    "65237@18",
+    "79996@18",
+    "112773@16",
+    "129977@20",
+    "199494@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

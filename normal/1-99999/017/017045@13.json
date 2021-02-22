@@ -1,0 +1,22 @@
+{
+  "id": 17045,
+  "name": "Lord Lucan",
+  "generation": 13,
+  "created_at": "2017-11-30T13:00:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Lord Lucan. I enjoy tripping my owner, being a nevernude, and taking selfies. Sometimes I daydream of a life full of breakdancing, apple pie, and riding the bus. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5233@11",
+  "sire": "12637@12",
+  "children": [
+    "19298@17",
+    "19826@18",
+    "21360@15",
+    "31736@17",
+    "57213@14",
+    "197601@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

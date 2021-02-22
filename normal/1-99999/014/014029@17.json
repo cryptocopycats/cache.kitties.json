@@ -1,0 +1,19 @@
+{
+  "id": 14029,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-30T00:37:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 17. I'm often referred to as the Homer Simpson of the group. I once bit a dolphin. I don't like to talk about it. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "13195@11",
+  "sire": "12906@16",
+  "children": [
+    "17748@18",
+    "21535@18",
+    "39448@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

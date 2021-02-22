@@ -1,0 +1,19 @@
+{
+  "id": 16061,
+  "name": "goose",
+  "generation": 15,
+  "created_at": "2017-11-30T08:51:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm goose. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "15813@6",
+  "sire": "5740@14",
+  "children": [
+    "39982@17",
+    "58675@17",
+    "100294@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

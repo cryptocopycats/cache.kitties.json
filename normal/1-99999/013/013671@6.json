@@ -1,0 +1,18 @@
+{
+  "id": 13671,
+  "name": "Gen 6 - Brisk",
+  "generation": 6,
+  "created_at": "2017-11-29T23:04:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Gen 6 - Brisk. I enjoy picking on mice, eating lasagna, and reciting poetry. I once made a rabbit kiss. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "7103@1",
+  "sire": "10340@5",
+  "children": [
+    "16787@13",
+    "17347@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

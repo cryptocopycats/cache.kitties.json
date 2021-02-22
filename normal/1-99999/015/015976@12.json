@@ -1,0 +1,19 @@
+{
+  "id": 15976,
+  "name": "Pickles | Apple Pie | Dogs",
+  "generation": 12,
+  "created_at": "2017-11-30T08:29:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Pickles | Apple Pie | Dogs. In high school, I was voted biggest teacher's pet. I put pickles on everything. Like, everything: hot dogs, apple pie—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11506@9",
+  "sire": "13094@11",
+  "children": [
+    "17031@13",
+    "17974@13",
+    "48613@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14863,
+  "name": "GreenString",
+  "generation": 17,
+  "created_at": "2017-11-30T04:07:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm GreenString. I enjoy picking flowers, chasing string, and breakdancing. I once got in a fight with a gecko, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13407@13",
+  "sire": "10463@16",
+  "children": [
+    "18080@18",
+    "26637@18",
+    "52015@18",
+    "136207@18",
+    "288541@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

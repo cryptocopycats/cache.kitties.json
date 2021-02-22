@@ -1,0 +1,19 @@
+{
+  "id": 15331,
+  "name": "Barkbrown Bearded Kitty",
+  "generation": 18,
+  "created_at": "2017-11-30T06:18:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Barkbrown Bearded Kitty. I'm often referred to as the Chandler Bing of the group. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10924@4",
+  "sire": "13460@17",
+  "children": [
+    "21772@19",
+    "62873@19",
+    "77739@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

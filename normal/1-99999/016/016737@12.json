@@ -1,0 +1,25 @@
+{
+  "id": 16737,
+  "name": "Bob",
+  "generation": 12,
+  "created_at": "2017-11-30T11:38:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Bob. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16395@11",
+  "sire": "10069@8",
+  "children": [
+    "18546@13",
+    "20579@16",
+    "24341@16",
+    "29435@15",
+    "43928@14",
+    "50473@16",
+    "189983@19",
+    "224545@13",
+    "430991@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

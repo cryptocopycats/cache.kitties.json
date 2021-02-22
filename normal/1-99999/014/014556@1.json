@@ -1,0 +1,30 @@
+{
+  "id": 14556,
+  "name": "Rock Ashes",
+  "generation": 1,
+  "created_at": "2017-11-30T02:50:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Rock Ashes. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Metallica. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1033@0",
+  "sire": "1040@0",
+  "children": [
+    "15440@2",
+    "68455@2",
+    "75172@2",
+    "84298@2",
+    "150931@2",
+    "152550@2",
+    "154910@2",
+    "165057@2",
+    "179875@2",
+    "287475@2",
+    "793005@2",
+    "973702@2",
+    "1002919@2",
+    "1511798@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

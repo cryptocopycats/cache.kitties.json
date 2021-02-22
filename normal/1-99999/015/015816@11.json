@@ -1,0 +1,18 @@
+{
+  "id": 15816,
+  "name": "Stormious",
+  "generation": 11,
+  "created_at": "2017-11-30T08:01:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Stormious. I'm a Mad Scientist by day, and I like tricking babies by night. When no one's home, I invite my pals over and we listen to Metallica. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "3854@7",
+  "sire": "7026@10",
+  "children": [
+    "228274@16",
+    "241857@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

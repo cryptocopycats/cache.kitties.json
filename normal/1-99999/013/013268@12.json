@@ -1,0 +1,20 @@
+{
+  "id": 13268,
+  "name": "Gogis",
+  "generation": 12,
+  "created_at": "2017-11-29T21:24:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gogis. I enjoy taking selfies, being a nevernude, and shakin' dat booty. I put marmalade on everything. Like, everything: hot dogs, apple pie—everything! Let's get busy!",
+  "language": "en",
+  "matron": "12687@9",
+  "sire": "5969@11",
+  "children": [
+    "14100@14",
+    "15209@15",
+    "20006@14",
+    "24808@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

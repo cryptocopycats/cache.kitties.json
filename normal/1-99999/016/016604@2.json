@@ -1,0 +1,21 @@
+{
+  "id": 16604,
+  "name": "Koshka",
+  "generation": 2,
+  "created_at": "2017-11-30T11:12:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's Koshka. I once peed on Mother Theresa's cat. They had it coming. I once dreamed of being a Mad Scientist. Now I can be found jump-roping all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3956@1",
+  "sire": "3462@1",
+  "children": [
+    "16728@3",
+    "1162359@3",
+    "1185779@5",
+    "1192207@9",
+    "1728856@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

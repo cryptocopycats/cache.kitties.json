@@ -1,0 +1,22 @@
+{
+  "id": 12258,
+  "name": "D",
+  "generation": 13,
+  "created_at": "2017-11-29T15:22:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm D. I'm a Culinary Sanitation Specialist by day, and I like practicing witchcraft by night. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Our friendship will be petulant, annoying, and full of steak.",
+  "language": "en",
+  "matron": "11912@12",
+  "sire": "11813@9",
+  "children": [
+    "13405@15",
+    "13736@14",
+    "15241@14",
+    "17261@14",
+    "26020@14",
+    "53145@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17435,
+  "name": "Gen 5",
+  "generation": 5,
+  "created_at": "2017-11-30T14:42:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Gen 5. I once peed on Confucius's cat. They had it coming. I once made a dog lay. Our friendship will be tantalizing, vegan, and full of wet food.",
+  "language": "en",
+  "matron": "16566@4",
+  "sire": "12395@0",
+  "children": [
+    "17585@11",
+    "17802@9",
+    "18720@12",
+    "19966@10",
+    "24588@19",
+    "35271@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14244,
+  "name": "Kitty",
+  "generation": 9,
+  "created_at": "2017-11-30T01:25:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty. In high school, I was voted school jock. I once pranced with a chimpanzee. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "14051@4",
+  "sire": "5453@8",
+  "children": [
+    "14480@16",
+    "14570@10",
+    "16675@16",
+    "18220@16",
+    "18273@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

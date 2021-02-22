@@ -1,0 +1,20 @@
+{
+  "id": 13193,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T21:06:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #13193. All you need to know about me is I hate cantaloupe with a passion. I once dreamed of being a Train Conductor. Now I can be found jump-roping all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11881@5",
+  "sire": "12946@13",
+  "children": [
+    "14270@15",
+    "16768@15",
+    "31867@17",
+    "55212@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

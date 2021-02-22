@@ -1,0 +1,19 @@
+{
+  "id": 13488,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-29T22:21:58.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #13488. I'm often referred to as the Steve Urkel of the group. Sometimes I daydream of a life full of spinning sick beats, wet food, and summoning ghosts. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1278@0",
+  "sire": "12713@16",
+  "children": [
+    "13551@18",
+    "16119@18",
+    "25009@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

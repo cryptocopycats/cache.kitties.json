@@ -1,0 +1,26 @@
+{
+  "id": 12688,
+  "name": "Spike",
+  "generation": 0,
+  "created_at": "2017-11-29T18:41:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! Spike here. I'm here to enjoy tripping my owner and slappin' da bass. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "13264@1",
+    "19649@1",
+    "19876@1",
+    "20862@1",
+    "45463@1",
+    "52751@1",
+    "54214@4",
+    "61984@1",
+    "79170@1",
+    "155453@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

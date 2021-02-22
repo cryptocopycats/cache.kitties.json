@@ -1,0 +1,19 @@
+{
+  "id": 16873,
+  "name": "G16 Ju",
+  "generation": 16,
+  "created_at": "2017-11-30T12:23:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm G16 Ju. I'm a professional Mad Scientist and I love cantaloupe. My friends describe me as \"wondrous.\" It's... accurate. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "16352@13",
+  "sire": "13101@15",
+  "children": [
+    "23727@17",
+    "56723@17",
+    "88931@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 16058,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-30T08:50:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #16058. In high school, I was voted biggest teacher's pet. I would give it all up to star in a soap opera. Will you be the soy sauce to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "11168@16",
+  "sire": "7570@11",
+  "children": [
+    "65984@18",
+    "87439@18",
+    "249210@20",
+    "329427@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

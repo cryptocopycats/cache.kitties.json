@@ -1,0 +1,18 @@
+{
+  "id": 16504,
+  "name": "Gen 12 Cutie",
+  "generation": 12,
+  "created_at": "2017-11-30T10:45:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 12 Cutie. I enjoy being a nevernude, reading garfield, and chasing red dots. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, salad—everything! Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "14599@10",
+  "sire": "12356@11",
+  "children": [
+    "19369@13",
+    "34392@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

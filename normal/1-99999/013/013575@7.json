@@ -1,0 +1,22 @@
+{
+  "id": 13575,
+  "name": "G7 Scarlet",
+  "generation": 7,
+  "created_at": "2017-11-29T22:39:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm G7 Scarlet. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13001@6",
+  "sire": "11000@2",
+  "children": [
+    "16321@10",
+    "62707@8",
+    "64348@9",
+    "82167@16",
+    "142603@8",
+    "196911@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 15669,
+  "name": "Gen 5",
+  "generation": 5,
+  "created_at": "2017-11-30T07:33:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Gen 5. I'm often referred to as the Michael Scott of the group. When no one's home, I invite my pals over and we listen to Wutang. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "15475@3",
+  "sire": "15521@4",
+  "children": [
+    "15732@6",
+    "19602@6",
+    "105808@17",
+    "145679@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15069,
+  "name": "Whipple Slow",
+  "generation": 14,
+  "created_at": "2017-11-30T05:08:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Whipple Slow. I believe the world is flat. When no one's home, I invite my pals over and we listen to Aretha Franklin. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4593@10",
+  "sire": "11358@13",
+  "children": [
+    "21052@17",
+    "40637@15",
+    "51283@18",
+    "116447@19",
+    "139343@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

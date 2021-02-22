@@ -1,0 +1,19 @@
+{
+  "id": 14259,
+  "name": "Aquamarine",
+  "generation": 15,
+  "created_at": "2017-11-30T01:29:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Aquamarine. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10990@8",
+  "sire": "13204@14",
+  "children": [
+    "38040@16",
+    "55007@16",
+    "75089@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

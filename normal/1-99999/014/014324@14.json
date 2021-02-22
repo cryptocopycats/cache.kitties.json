@@ -1,0 +1,19 @@
+{
+  "id": 14324,
+  "name": "Mr. Sanchez",
+  "generation": 14,
+  "created_at": "2017-11-30T01:41:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Mr. Sanchez. I'm a professional Dogwalker and I love lasagna. I once made a dolphin enjoy. Let's get busy!",
+  "language": "en",
+  "matron": "14131@3",
+  "sire": "11097@13",
+  "children": [
+    "16427@15",
+    "19731@15",
+    "23441@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

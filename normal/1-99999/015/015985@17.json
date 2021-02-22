@@ -1,0 +1,18 @@
+{
+  "id": 15985,
+  "name": "G17",
+  "generation": 17,
+  "created_at": "2017-11-30T08:34:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm G17. In high school, I was voted biggest teacher's pet. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5211@11",
+  "sire": "13296@16",
+  "children": [
+    "20122@18",
+    "36835@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 17133,
+  "name": "AstroCat",
+  "generation": 14,
+  "created_at": "2017-11-30T13:23:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm AstroCat. I'm often referred to as the Ross Geller of the group. I was voted most likely to work at NASA in college. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "16865@10",
+  "sire": "16619@13",
+  "children": [
+    "73334@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

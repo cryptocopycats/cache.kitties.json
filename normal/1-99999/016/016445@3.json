@@ -1,0 +1,26 @@
+{
+  "id": 16445,
+  "name": "Gen 3 | Slow",
+  "generation": 3,
+  "created_at": "2017-11-30T10:29:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 3 | Slow. In high school, I was voted most likely to work at NASA. My secret indulgence is chocolate. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "5838@1",
+  "sire": "15955@2",
+  "children": [
+    "16605@4",
+    "16727@4",
+    "25891@5",
+    "26502@4",
+    "26508@5",
+    "26598@4",
+    "27659@4",
+    "44516@5",
+    "57005@4",
+    "256511@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

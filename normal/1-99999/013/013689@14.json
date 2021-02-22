@@ -1,0 +1,22 @@
+{
+  "id": 13689,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T23:06:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! Kitty #13689 here. I'm here to enjoy glaring at the neighbour's cat and grooming. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cereal—everything! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "13180@12",
+  "sire": "12225@13",
+  "children": [
+    "14580@15",
+    "17139@17",
+    "21321@17",
+    "26677@17",
+    "59161@17",
+    "169069@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

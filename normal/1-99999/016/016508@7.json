@@ -1,0 +1,20 @@
+{
+  "id": 16508,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-30T10:48:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Kitty #16508 here. I'm here to enjoy slappin' da bass and glaring at the neighbour's cat. When no one's home, I invite my pals over and we listen to Michael Bolton. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "13467@3",
+  "sire": "13481@6",
+  "children": [
+    "18467@21",
+    "19327@10",
+    "20705@8",
+    "36192@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

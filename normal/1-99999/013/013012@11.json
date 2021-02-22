@@ -1,0 +1,20 @@
+{
+  "id": 13012,
+  "name": "Bearded Lady",
+  "generation": 11,
+  "created_at": "2017-11-29T20:23:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Bearded Lady. My friends describe me as despicable and prickly. I am 83% wizard, 54% Foreign Film Director, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "4740@5",
+  "sire": "8386@10",
+  "children": [
+    "14193@12",
+    "14560@13",
+    "15416@12",
+    "76890@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

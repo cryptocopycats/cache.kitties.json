@@ -1,0 +1,19 @@
+{
+  "id": 15034,
+  "name": "Gen 12-Brisk-Recessive Stripe",
+  "generation": 12,
+  "created_at": "2017-11-30T04:55:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 12-Brisk-Recessive Stripe. All you need to know about me is I hate steak with a passion. My friends describe me as \"despicable.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14897@5",
+  "sire": "14326@11",
+  "children": [
+    "15176@13",
+    "40835@13",
+    "51657@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

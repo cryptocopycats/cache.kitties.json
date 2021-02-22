@@ -1,0 +1,19 @@
+{
+  "id": 13533,
+  "name": "Simba",
+  "generation": 20,
+  "created_at": "2017-11-29T22:29:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Simba. I'm often referred to as the Jon Snow of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "3139@1",
+  "sire": "12921@19",
+  "children": [
+    "19530@21",
+    "22908@21",
+    "32899@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

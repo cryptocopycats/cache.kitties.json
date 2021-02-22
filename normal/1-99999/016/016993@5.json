@@ -1,0 +1,26 @@
+{
+  "id": 16993,
+  "name": "Picatso | G5",
+  "generation": 5,
+  "created_at": "2017-11-30T12:48:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Picatso | G5. I'm a Dogwalker by day, and I like reading Danielle Steele by night. My great-great-great-great-great-great grandkitty lived with Confucius. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16727@4",
+  "sire": "16924@4",
+  "children": [
+    "17023@6",
+    "21475@9",
+    "21521@9",
+    "21718@6",
+    "23129@6",
+    "24693@8",
+    "27188@6",
+    "38836@8",
+    "75945@6",
+    "122799@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

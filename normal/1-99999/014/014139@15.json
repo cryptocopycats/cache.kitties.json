@@ -1,0 +1,21 @@
+{
+  "id": 14139,
+  "name": "Grisou",
+  "generation": 15,
+  "created_at": "2017-11-30T01:02:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Grisou. I enjoy picking on mice, slappin' da bass, and taking selfies. I once got in a fight with a chimpanzee, and won. Let's get busy!",
+  "language": "en",
+  "matron": "12980@14",
+  "sire": "12716@8",
+  "children": [
+    "21550@16",
+    "85489@16",
+    "111119@17",
+    "189311@16",
+    "278144@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

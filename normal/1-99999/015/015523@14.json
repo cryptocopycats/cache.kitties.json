@@ -1,0 +1,22 @@
+{
+  "id": 15523,
+  "name": "The Coolest Kitty",
+  "generation": 14,
+  "created_at": "2017-11-30T07:02:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm The Coolest Kitty. I've never told anyone this, but I once pawed at a dog. Some people say I'm the Niles Crane of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5363@7",
+  "sire": "13124@13",
+  "children": [
+    "17553@18",
+    "37711@15",
+    "40689@15",
+    "80587@15",
+    "262905@15",
+    "360228@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

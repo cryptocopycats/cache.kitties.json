@@ -1,0 +1,19 @@
+{
+  "id": 17227,
+  "name": "Bark Rare 10",
+  "generation": 10,
+  "created_at": "2017-11-30T13:44:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Bark Rare 10. I want to live in a world where people believe the world is flat. I'm often described as annoying, and I own it. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "16358@9",
+  "sire": "16372@6",
+  "children": [
+    "17918@11",
+    "19818@11",
+    "48766@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

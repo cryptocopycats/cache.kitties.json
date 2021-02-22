@@ -1,0 +1,22 @@
+{
+  "id": 13099,
+  "name": "Pink Tongue",
+  "generation": 13,
+  "created_at": "2017-11-29T20:37:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Pink Tongue. My friends describe me as ridiculous and smelly. It's not common knowledge, but my ancestry connects me to Nelson Mandela. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12798@9",
+  "sire": "8597@12",
+  "children": [
+    "13554@14",
+    "14696@15",
+    "18559@14",
+    "21753@20",
+    "53846@14",
+    "110850@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

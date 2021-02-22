@@ -1,0 +1,22 @@
+{
+  "id": 12443,
+  "name": "Purple rain",
+  "generation": 12,
+  "created_at": "2017-11-29T18:03:21.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Purple rain. All you need to know about me is I hate cantaloupe with a passion. My friends describe me as \"gullible.\" It's... accurate. I look forward to watching Stranger Things with you.",
+  "language": "en",
+  "matron": "11809@9",
+  "sire": "6794@11",
+  "children": [
+    "14578@13",
+    "16690@13",
+    "17177@17",
+    "38690@13",
+    "66329@13",
+    "79252@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

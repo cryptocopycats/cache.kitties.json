@@ -1,0 +1,20 @@
+{
+  "id": 13902,
+  "name": "Gen 11 skypeblue",
+  "generation": 11,
+  "created_at": "2017-11-30T00:09:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 11 skypeblue. I've never told anyone this, but I once pranced with a dog. My friends describe me as \"hairy.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11957@5",
+  "sire": "12121@10",
+  "children": [
+    "14204@13",
+    "17558@13",
+    "48621@12",
+    "74949@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

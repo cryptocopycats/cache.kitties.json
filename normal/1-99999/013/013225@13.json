@@ -1,0 +1,22 @@
+{
+  "id": 13225,
+  "name": "MintKitty Stud",
+  "generation": 13,
+  "created_at": "2017-11-29T21:15:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm MintKitty Stud. I believe the world is flat. When no one's home, I invite my pals over and we listen to Coldplay. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12190@9",
+  "sire": "12951@12",
+  "children": [
+    "14302@14",
+    "17030@14",
+    "19105@14",
+    "24945@14",
+    "51004@14",
+    "273577@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 17022,
+  "name": "barnicles",
+  "generation": 12,
+  "created_at": "2017-11-30T12:57:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm barnicles. I believe that one day cats will rule this planet. I was voted school jock in college. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "16725@11",
+  "sire": "13948@10",
+  "children": [
+    "34185@13",
+    "36160@13",
+    "43243@13",
+    "61861@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

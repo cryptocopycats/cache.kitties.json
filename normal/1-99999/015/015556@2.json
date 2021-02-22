@@ -1,0 +1,19 @@
+{
+  "id": 15556,
+  "name": "Apple | Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-30T07:07:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Apple | Gen 2. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Frank Sinatra. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15383@1",
+  "sire": "1179@0",
+  "children": [
+    "20412@17",
+    "59404@10",
+    "86675@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

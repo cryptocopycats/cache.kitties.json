@@ -1,0 +1,20 @@
+{
+  "id": 13323,
+  "name": "Smartie",
+  "generation": 8,
+  "created_at": "2017-11-29T21:41:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Smartie. I believe the world is flat. When I'm not running a podcast, I'm volunteering at the local kitten rescue shelter! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6919@1",
+  "sire": "13243@7",
+  "children": [
+    "13475@14",
+    "13843@9",
+    "15228@9",
+    "19526@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

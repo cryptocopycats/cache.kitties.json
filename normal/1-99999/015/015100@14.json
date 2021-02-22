@@ -1,0 +1,17 @@
+{
+  "id": 15100,
+  "name": "Kitty Slate",
+  "generation": 14,
+  "created_at": "2017-11-30T05:14:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty Slate. I'm a professional Aerobics Athlete  and I love lasagna. My friends describe me as \"preposterous.\" It's... accurate. Our friendship will be prickly, seductive, and full of cantaloupe.",
+  "language": "en",
+  "matron": "11153@11",
+  "sire": "11522@13",
+  "children": [
+    "16152@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 15688,
+  "name": "Bückie",
+  "generation": 5,
+  "created_at": "2017-11-30T07:35:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Bückie. I'm a professional Dogwalker and I love hamburgers. In my free time, I can usually be found preposterous or people-watching. Will you be the maple syrup to my wasabi?",
+  "language": "en",
+  "matron": "15273@3",
+  "sire": "15349@4",
+  "children": [
+    "15766@7",
+    "15876@7",
+    "16201@9",
+    "16238@6",
+    "17712@13",
+    "48695@6",
+    "55461@6",
+    "74893@6",
+    "103166@6",
+    "240316@6",
+    "312564@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

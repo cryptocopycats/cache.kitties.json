@@ -1,0 +1,21 @@
+{
+  "id": 16690,
+  "name": "Greygrey",
+  "generation": 13,
+  "created_at": "2017-11-30T11:29:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Greygrey. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Ace of Base. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "14401@9",
+  "sire": "12443@12",
+  "children": [
+    "41602@14",
+    "45112@15",
+    "55978@15",
+    "71877@15",
+    "99448@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13899,
+  "name": "14号 13代",
+  "generation": 13,
+  "created_at": "2017-11-30T00:08:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm 14号 13代. I'm a Spin Instructor  by day, and I like playing chess by night. Sometimes I daydream of a life full of shakin' dat booty, steak, and volunteering at the local kitten rescue shelter. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "8199@12",
+  "sire": "10431@11",
+  "children": [
+    "14701@14",
+    "18359@15",
+    "20723@15",
+    "30319@17",
+    "70401@17",
+    "81205@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

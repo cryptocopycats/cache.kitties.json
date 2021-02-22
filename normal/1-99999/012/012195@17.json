@@ -1,0 +1,19 @@
+{
+  "id": 12195,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-29T14:51:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 17. I'm a Spin Instructor  by day, and I like riding the bus by night. When I'm not mocking dogs, I'm summoning ghosts! Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "5211@11",
+  "sire": "11086@16",
+  "children": [
+    "13662@18",
+    "17701@18",
+    "29038@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

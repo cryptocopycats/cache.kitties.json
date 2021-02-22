@@ -1,0 +1,24 @@
+{
+  "id": 15288,
+  "name": "G12 Otaku Salmon",
+  "generation": 12,
+  "created_at": "2017-11-30T06:02:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm G12 Otaku Salmon. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11388@11",
+  "sire": "13327@10",
+  "children": [
+    "15894@13",
+    "17731@16",
+    "19582@13",
+    "21482@16",
+    "27752@15",
+    "95157@18",
+    "327862@13",
+    "407394@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

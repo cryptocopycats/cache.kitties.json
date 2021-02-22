@@ -1,0 +1,18 @@
+{
+  "id": 16856,
+  "name": "Gen 16",
+  "generation": 16,
+  "created_at": "2017-11-30T12:19:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! Gen 16 here. I'm here to enjoy reading garfield and chasing string. I would give it all up to be on Oprah. Let's pawty!",
+  "language": "en",
+  "matron": "10776@15",
+  "sire": "4919@12",
+  "children": [
+    "21318@17",
+    "41494@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

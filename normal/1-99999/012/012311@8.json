@@ -1,0 +1,25 @@
+{
+  "id": 12311,
+  "name": "Flo Rida (rare beard)",
+  "generation": 8,
+  "created_at": "2017-11-29T16:40:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Flo Rida (rare beard). My friends describe me as wondrous and prickly. My friends describe me as \"tantalizing.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10340@5",
+  "sire": "10373@7",
+  "children": [
+    "12325@10",
+    "12542@9",
+    "17274@12",
+    "18193@9",
+    "20541@14",
+    "23818@9",
+    "36395@11",
+    "50508@10",
+    "300950@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15002,
+  "name": "Ice Cream Sundae",
+  "generation": 13,
+  "created_at": "2017-11-30T04:47:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! My name's Ice Cream Sundae. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Peter Griffin of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12084@12",
+  "sire": "12150@11",
+  "children": [
+    "17252@18",
+    "17635@18",
+    "22302@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

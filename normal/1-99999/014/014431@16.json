@@ -1,0 +1,22 @@
+{
+  "id": 14431,
+  "name": "Brandon",
+  "generation": 16,
+  "created_at": "2017-11-30T02:10:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Brandon. I'm a Dogwalker by day, and I like swiping right by night. In my free time, I can usually be found voluptuous or playing chess. Will you be the cinammon to my pickles?",
+  "language": "en",
+  "matron": "11917@15",
+  "sire": "7900@13",
+  "children": [
+    "16766@17",
+    "23201@18",
+    "33374@17",
+    "96205@17",
+    "204092@17",
+    "368540@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

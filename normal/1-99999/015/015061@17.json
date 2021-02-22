@@ -1,0 +1,18 @@
+{
+  "id": 15061,
+  "name": "Kitty McSadface",
+  "generation": 17,
+  "created_at": "2017-11-30T05:04:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty McSadface. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12358@16",
+  "sire": "4971@11",
+  "children": [
+    "22623@18",
+    "48250@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

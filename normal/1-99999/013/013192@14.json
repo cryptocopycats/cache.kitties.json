@@ -1,0 +1,19 @@
+{
+  "id": 13192,
+  "name": "Gen 14 HappyTigerKitty",
+  "generation": 14,
+  "created_at": "2017-11-29T21:06:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 14 HappyTigerKitty. I want to live in a world where people believe the world is flat. I once made a rabbit dance. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "12740@13",
+  "sire": "12755@12",
+  "children": [
+    "26246@18",
+    "38832@15",
+    "60495@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

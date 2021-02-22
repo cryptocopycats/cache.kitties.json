@@ -1,0 +1,30 @@
+{
+  "id": 16897,
+  "name": "Gen1 Sailor Father",
+  "generation": 1,
+  "created_at": "2017-11-30T12:25:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen1 Sailor Father. In high school, I was voted school jock. Sometimes I daydream of a life full of glaring at the neighbour's cat, chocolate, and tricking babies. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12173@0",
+  "sire": "12003@0",
+  "children": [
+    "16932@4",
+    "17012@16",
+    "17165@9",
+    "17507@7",
+    "17643@6",
+    "17853@7",
+    "22676@6",
+    "24800@9",
+    "26380@7",
+    "51262@3",
+    "89935@3",
+    "212952@3",
+    "331954@6",
+    "1176507@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

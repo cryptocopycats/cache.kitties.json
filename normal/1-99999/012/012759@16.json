@@ -1,0 +1,20 @@
+{
+  "id": 12759,
+  "name": "Granity",
+  "generation": 16,
+  "created_at": "2017-11-29T19:14:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Granity. I believe the world is flat. I was voted most likely to work at NASA in college. Will you be the soy sauce to my peanut butter?",
+  "language": "en",
+  "matron": "12557@2",
+  "sire": "10551@15",
+  "children": [
+    "15286@17",
+    "16263@17",
+    "27526@17",
+    "93356@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

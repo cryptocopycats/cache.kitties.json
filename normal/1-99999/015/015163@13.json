@@ -1,0 +1,19 @@
+{
+  "id": 15163,
+  "name": "Strippy Strip",
+  "generation": 13,
+  "created_at": "2017-11-30T05:29:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Strippy Strip. In high school, I was voted most likely to work at NASA. I am 97% elf, 13% Spin Instructor , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10603@1",
+  "sire": "15106@12",
+  "children": [
+    "15303@14",
+    "16904@14",
+    "56810@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 12610,
+  "name": "Tiger Who",
+  "generation": 15,
+  "created_at": "2017-11-29T18:38:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Tiger Who. I'm a professional Foreign Film Director and I love ice cream. When I'm not mocking dogs, I'm pole dancing! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11334@11",
+  "sire": "9751@14",
+  "children": [
+    "21954@16",
+    "27779@18",
+    "36840@18",
+    "78476@18",
+    "210280@17",
+    "316736@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

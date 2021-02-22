@@ -1,0 +1,28 @@
+{
+  "id": 16592,
+  "name": "Gen 2 - B",
+  "generation": 2,
+  "created_at": "2017-11-30T11:10:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Gen 2 - B. In high school, I was voted biggest teacher's pet. My friends describe me as \"tantalizing.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3955@1",
+  "sire": "3438@1",
+  "children": [
+    "17029@3",
+    "18502@3",
+    "18665@3",
+    "25896@4",
+    "26319@3",
+    "26927@3",
+    "28108@3",
+    "30644@3",
+    "30807@3",
+    "40856@3",
+    "122801@3",
+    "221378@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

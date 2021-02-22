@@ -1,0 +1,21 @@
+{
+  "id": 15217,
+  "name": "Dulce de Leche",
+  "generation": 12,
+  "created_at": "2017-11-30T05:44:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Dulce de Leche. I enjoy chasing string, fighting for the people, and sweating through my feet. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14046@8",
+  "sire": "14615@11",
+  "children": [
+    "15775@13",
+    "21116@18",
+    "32073@13",
+    "41632@13",
+    "54780@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

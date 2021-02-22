@@ -1,0 +1,18 @@
+{
+  "id": 15015,
+  "name": "Derpy Nurples",
+  "generation": 18,
+  "created_at": "2017-11-30T04:49:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Derpy Nurples. In high school, I was voted most likely to work at NASA. I once got in a fight with a rhino, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12561@17",
+  "sire": "13257@16",
+  "children": [
+    "65858@19",
+    "210145@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12470,
+  "name": "Worrywart",
+  "generation": 11,
+  "created_at": "2017-11-29T18:06:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Worrywart. I'm often referred to as the Cersei Lannister of the group. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's get busy!",
+  "language": "en",
+  "matron": "10585@10",
+  "sire": "10788@7",
+  "children": [
+    "12755@12",
+    "13209@12",
+    "25257@12",
+    "42856@13",
+    "89163@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17382,
+  "name": "tyggi",
+  "generation": 4,
+  "created_at": "2017-11-30T14:19:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm tyggi. I believe that one day cats will rule this planet. When I'm not pole dancing, I'm riding the bus! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17134@3",
+  "sire": "17357@3",
+  "children": [
+    "24067@5",
+    "24130@5",
+    "29502@5",
+    "191464@5",
+    "196307@5",
+    "204736@5",
+    "315062@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

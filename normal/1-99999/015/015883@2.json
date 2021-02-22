@@ -1,0 +1,25 @@
+{
+  "id": 15883,
+  "name": "Gen2 & Swift",
+  "generation": 2,
+  "created_at": "2017-11-30T08:12:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen2 & Swift. I'm a Dogwalker by day, and I like watching reality tv by night. I'm often described as brilliant, and I own it. I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "3955@1",
+  "sire": "3438@1",
+  "children": [
+    "16065@3",
+    "193523@3",
+    "194176@3",
+    "194994@3",
+    "224955@3",
+    "232120@3",
+    "235828@3",
+    "365309@4",
+    "459915@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

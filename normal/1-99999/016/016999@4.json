@@ -1,0 +1,18 @@
+{
+  "id": 16999,
+  "name": "Santa Claws | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T12:48:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Santa Claws | Gen4. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of shakin' dat booty, cantaloupe, and summoning ghosts. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "16794@3",
+  "sire": "16642@3",
+  "children": [
+    "17046@5",
+    "19028@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

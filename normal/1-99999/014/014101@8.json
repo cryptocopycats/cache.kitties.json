@@ -1,0 +1,20 @@
+{
+  "id": 14101,
+  "name": "Garfield",
+  "generation": 8,
+  "created_at": "2017-11-30T00:53:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Garfield. I enjoy picking on mice, being a nevernude, and chasing string. My secret indulgence is lasagna. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6763@7",
+  "sire": "3749@7",
+  "children": [
+    "14361@10",
+    "16650@12",
+    "17115@10",
+    "22274@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

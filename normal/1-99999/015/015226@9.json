@@ -1,0 +1,19 @@
+{
+  "id": 15226,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-30T05:46:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #15226. I believe the world is flat. My secret indulgence is lasagna. Let's get busy!",
+  "language": "en",
+  "matron": "15095@8",
+  "sire": "1221@0",
+  "children": [
+    "15405@10",
+    "15847@11",
+    "20920@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

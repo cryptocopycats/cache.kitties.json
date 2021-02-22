@@ -1,0 +1,20 @@
+{
+  "id": 15378,
+  "name": "Coutelliere",
+  "generation": 18,
+  "created_at": "2017-11-30T06:28:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Coutelliere. I've never told anyone this, but I once licked a dog. My secret indulgence is ice cream. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "11263@13",
+  "sire": "12710@17",
+  "children": [
+    "21527@22",
+    "51555@20",
+    "124052@19",
+    "321454@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

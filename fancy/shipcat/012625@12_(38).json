@@ -1,0 +1,29 @@
+{
+  "id": 12625,
+  "name": "Sailor + STRONG BLOODLINE",
+  "generation": 12,
+  "created_at": "2017-11-29T18:38:15.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Sailor + STRONG BLOODLINE. I'm a Dogwalker by day, and I like siring for status by night. When no one's home, I invite my pals over and we listen to Wutang. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "4720@9",
+  "sire": "12116@11",
+  "children": [
+    "13274@16",
+    "14245@17",
+    "17053@13",
+    "17489@13",
+    "22530@13",
+    "36961@13",
+    "84178@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 38,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

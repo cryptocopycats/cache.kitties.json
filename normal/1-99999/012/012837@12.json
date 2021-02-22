@@ -1,0 +1,21 @@
+{
+  "id": 12837,
+  "name": "Gen 12 #12837 Slow",
+  "generation": 12,
+  "created_at": "2017-11-29T19:48:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen 12 #12837 Slow. I'm often referred to as the Homer Simpson of the group. In my free time, I can usually be found brilliant or running a podcast. Our friendship will be prickly, wondrous, and full of ice cream.",
+  "language": "en",
+  "matron": "2539@0",
+  "sire": "11782@11",
+  "children": [
+    "27911@18",
+    "29635@18",
+    "35246@17",
+    "45468@13",
+    "86542@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

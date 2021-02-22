@@ -1,0 +1,25 @@
+{
+  "id": 12171,
+  "name": "pp p1 p4 p5",
+  "generation": 8,
+  "created_at": "2017-11-29T14:41:15.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm pp p1 p4 p5. I enjoy shakin' dat booty, picking on mice, and watching Stranger Things. I once dreamed of being a Dispensary Clerk. Now I can be found reading Danielle Steele all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4830@6",
+  "sire": "4832@7",
+  "children": [
+    "12920@9",
+    "13240@10",
+    "13795@11",
+    "17973@14",
+    "22740@14",
+    "40465@12",
+    "73989@9",
+    "92037@11",
+    "277030@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

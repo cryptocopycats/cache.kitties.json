@@ -1,0 +1,21 @@
+{
+  "id": 13328,
+  "name": "Toother",
+  "generation": 13,
+  "created_at": "2017-11-29T21:44:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Toother. I've never told anyone this, but I once pawed at a dog. I'm often described as preposterous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13137@9",
+  "sire": "13187@12",
+  "children": [
+    "45664@17",
+    "72393@14",
+    "73393@20",
+    "80715@17",
+    "91037@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 12278,
+  "name": "Bubbly Paint Brush",
+  "generation": 13,
+  "created_at": "2017-11-29T15:25:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Bubbly Paint Brush. I'm a Train Conductor by day, and I like watching reality tv by night. I once got in a fight with a moose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3628@7",
+  "sire": "11725@12",
+  "children": [
+    "12589@14",
+    "13889@15",
+    "15637@14",
+    "21496@14",
+    "28839@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

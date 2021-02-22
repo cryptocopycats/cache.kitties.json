@@ -1,0 +1,23 @@
+{
+  "id": 15924,
+  "name": "Simple Dali",
+  "generation": 12,
+  "created_at": "2017-11-30T08:19:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Simple Dali. All you need to know about me is I hate apple pie with a passion. My friends describe me as \"seductive.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "12031@11",
+  "sire": "11878@10",
+  "children": [
+    "16480@16",
+    "17434@13",
+    "22082@13",
+    "74457@19",
+    "92685@15",
+    "117467@15",
+    "274578@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 14198,
+  "name": "Kitty #14198",
+  "generation": 17,
+  "created_at": "2017-11-30T01:13:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #14198. I'm often referred to as the Steve Urkel of the group. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13198@13",
+  "sire": "7255@16",
+  "children": [
+    "20080@18",
+    "32553@21",
+    "48637@18",
+    "99208@18",
+    "263519@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

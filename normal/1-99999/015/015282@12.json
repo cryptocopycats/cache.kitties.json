@@ -1,0 +1,21 @@
+{
+  "id": 15282,
+  "name": "Cutie Pie",
+  "generation": 12,
+  "created_at": "2017-11-30T06:01:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Cutie Pie. I want to live in a world where people believe the world is flat. When I'm not riverdancing, I'm volunteering at the local kitten rescue shelter! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6595@11",
+  "sire": "4013@9",
+  "children": [
+    "17582@20",
+    "21362@17",
+    "69006@16",
+    "90694@13",
+    "220006@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

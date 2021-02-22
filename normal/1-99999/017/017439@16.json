@@ -1,0 +1,22 @@
+{
+  "id": 17439,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-30T14:42:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! Kitty #17439 here. I'm here to enjoy chasing string and being a nevernude. I once got in a fight with a chimpanzee, and won. Will you be the ghost pepper hot sauce to my marmite?",
+  "language": "en",
+  "matron": "17337@9",
+  "sire": "17309@15",
+  "children": [
+    "19010@17",
+    "26085@17",
+    "32296@21",
+    "86527@17",
+    "367015@21",
+    "367890@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

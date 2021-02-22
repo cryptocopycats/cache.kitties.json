@@ -1,0 +1,19 @@
+{
+  "id": 16146,
+  "name": "Bleep Blop",
+  "generation": 17,
+  "created_at": "2017-11-30T09:10:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! My name's Bleep Blop. I once peed on Confucius's cat. They had it coming. My friends describe me as \"despicable.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10410@15",
+  "sire": "12110@16",
+  "children": [
+    "23058@18",
+    "23411@18",
+    "30892@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

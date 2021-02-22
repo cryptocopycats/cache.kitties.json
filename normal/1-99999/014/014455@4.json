@@ -1,0 +1,23 @@
+{
+  "id": 14455,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-11-30T02:20:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 4. I'm often referred to as the Jon Snow of the group. I once got in a fight with a rooster, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "14275@3",
+  "sire": "2583@0",
+  "children": [
+    "14482@5",
+    "14538@11",
+    "14794@16",
+    "15057@5",
+    "15594@5",
+    "16613@20",
+    "170053@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

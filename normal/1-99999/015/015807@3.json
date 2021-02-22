@@ -1,0 +1,25 @@
+{
+  "id": 15807,
+  "name": "Kim",
+  "generation": 3,
+  "created_at": "2017-11-30T07:57:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Kim. I once peed on Mother Theresa's cat. They had it coming. I put maple syrup on everything. Like, everything: hot dogs, cantaloupe—everything! I like your face.",
+  "language": "en",
+  "matron": "15602@2",
+  "sire": "12621@0",
+  "children": [
+    "15838@4",
+    "16145@4",
+    "16308@5",
+    "30444@4",
+    "31148@7",
+    "54158@4",
+    "64335@4",
+    "119155@6",
+    "144630@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

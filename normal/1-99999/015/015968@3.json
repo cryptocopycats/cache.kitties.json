@@ -1,0 +1,27 @@
+{
+  "id": 15968,
+  "name": "G3 Breed",
+  "generation": 3,
+  "created_at": "2017-11-30T08:29:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! G3 Breed here. I'm here to enjoy breakdancing and chasing string. I once got in a fight with a dolphin, and won. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "15880@2",
+  "sire": "15896@2",
+  "children": [
+    "16103@4",
+    "16251@4",
+    "16453@5",
+    "16727@4",
+    "25482@4",
+    "25698@5",
+    "26598@4",
+    "32477@6",
+    "45774@4",
+    "77541@4",
+    "139899@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

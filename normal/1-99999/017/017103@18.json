@@ -1,0 +1,19 @@
+{
+  "id": 17103,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-11-30T13:22:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Gen 18. I enjoy eating lasagna, grooming, and fighting for the people. I once pawed at a platypus. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8431@17",
+  "sire": "15182@16",
+  "children": [
+    "21305@20",
+    "28821@20",
+    "42606@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

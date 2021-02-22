@@ -1,0 +1,21 @@
+{
+  "id": 12413,
+  "name": "Snow Pink",
+  "generation": 13,
+  "created_at": "2017-11-29T17:56:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Snow Pink. I want to live in a world where people believe the world is flat. My secret indulgence is salad. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11999@6",
+  "sire": "11912@12",
+  "children": [
+    "12978@14",
+    "15078@14",
+    "24326@16",
+    "30554@15",
+    "49111@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 12521,
+  "name": "🍎 Starter Kitty 🍎",
+  "generation": 10,
+  "created_at": "2017-11-29T18:20:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm 🍎 Starter Kitty 🍎. My friends describe me as petulant and brilliant. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, chocolate—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10542@9",
+  "sire": "10546@9",
+  "children": [
+    "12813@12",
+    "13739@13",
+    "14215@14",
+    "16185@12",
+    "20984@13",
+    "30456@11",
+    "74921@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

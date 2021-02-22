@@ -1,0 +1,22 @@
+{
+  "id": 17042,
+  "name": "Gen 6 Salmon Brisk",
+  "generation": 6,
+  "created_at": "2017-11-30T12:59:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen 6 Salmon Brisk. All you need to know about me is I hate wet food with a passion. My friends describe me as \"prickly.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "16881@5",
+  "sire": "16088@5",
+  "children": [
+    "17175@7",
+    "46003@7",
+    "51183@7",
+    "70094@7",
+    "74025@7",
+    "359147@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

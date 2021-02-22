@@ -1,0 +1,21 @@
+{
+  "id": 12447,
+  "name": "TongueMan",
+  "generation": 12,
+  "created_at": "2017-11-29T18:04:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm TongueMan. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Cleopatra. Our friendship will be petulant, stinky, and full of wet food.",
+  "language": "en",
+  "matron": "10108@5",
+  "sire": "5824@11",
+  "children": [
+    "13722@13",
+    "16649@13",
+    "18223@13",
+    "21454@13",
+    "31082@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

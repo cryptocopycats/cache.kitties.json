@@ -1,0 +1,20 @@
+{
+  "id": 12095,
+  "name": "Pupuce G17V",
+  "generation": 17,
+  "created_at": "2017-11-29T14:15:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Pupuce G17V. I believe that one day cats will rule this planet. In my free time, I can usually be found brilliant or braiding people's hair. Let's get busy!",
+  "language": "en",
+  "matron": "9078@16",
+  "sire": "7632@13",
+  "children": [
+    "12466@18",
+    "14102@18",
+    "39294@18",
+    "115301@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

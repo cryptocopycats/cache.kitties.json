@@ -1,0 +1,22 @@
+{
+  "id": 15740,
+  "name": "Ocelot San",
+  "generation": 15,
+  "created_at": "2017-11-30T07:44:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Ocelot San. I enjoy spinning sick beats, reading garfield, and watching Stranger Things. I'm often described as hairy, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7360@10",
+  "sire": "12814@14",
+  "children": [
+    "19102@16",
+    "23308@18",
+    "28913@18",
+    "39417@20",
+    "74340@16",
+    "243607@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

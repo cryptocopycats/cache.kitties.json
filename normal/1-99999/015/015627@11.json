@@ -1,0 +1,22 @@
+{
+  "id": 15627,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-30T07:23:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #15627. I'm a Dispensary Clerk by day, and I like mocking dogs by night. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5021@9",
+  "sire": "14699@10",
+  "children": [
+    "20989@17",
+    "21349@15",
+    "31979@14",
+    "42933@17",
+    "88879@20",
+    "688048@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
