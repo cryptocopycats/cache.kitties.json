@@ -1,0 +1,24 @@
+{
+  "id": 10416,
+  "name": "Mustard Mustache",
+  "generation": 11,
+  "created_at": "2017-11-28T23:41:01.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! My name's Mustard Mustache. I once peed on Confucius's cat. They had it coming. When no one's home, I invite my pals over and we listen to Michael Bolton. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10367@7",
+  "sire": "7253@10",
+  "children": [
+    "10500@12",
+    "10822@12",
+    "11103@12",
+    "12933@12",
+    "15664@12",
+    "20036@14",
+    "28797@15",
+    "154918@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

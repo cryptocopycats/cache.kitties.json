@@ -1,0 +1,24 @@
+{
+  "id": 11878,
+  "name": "Hawaii",
+  "generation": 10,
+  "created_at": "2017-11-29T12:28:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Hawaii. My friends describe me as prickly and ridiculous. I was voted school jock in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11650@9",
+  "sire": "11752@9",
+  "children": [
+    "15924@12",
+    "16894@11",
+    "19306@13",
+    "26383@11",
+    "45376@11",
+    "61040@11",
+    "90292@14",
+    "283622@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

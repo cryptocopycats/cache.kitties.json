@@ -1,0 +1,20 @@
+{
+  "id": 11260,
+  "name": "Gen 17 | Ollie",
+  "generation": 17,
+  "created_at": "2017-11-29T06:41:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Gen 17 | Ollie. I've never told anyone this, but I once bit a dog. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10644@14",
+  "sire": "10654@16",
+  "children": [
+    "17963@18",
+    "20983@18",
+    "28658@18",
+    "80144@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

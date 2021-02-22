@@ -1,0 +1,20 @@
+{
+  "id": 10557,
+  "name": "fanny_may",
+  "generation": 12,
+  "created_at": "2017-11-29T00:54:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm fanny_may. All you need to know about me is I hate cantaloupe with a passion. My friends describe me as \"gullible.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10474@3",
+  "sire": "5744@11",
+  "children": [
+    "11239@13",
+    "11700@13",
+    "13807@13",
+    "15893@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10992,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T04:47:42.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Kitty #10992. I'm a Skydiving Instructor by day, and I like reading Danielle Steele by night. I'm often described as fabulous, and I own it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3883@9",
+  "sire": "4009@6",
+  "children": [
+    "11924@11",
+    "14457@11",
+    "14896@11",
+    "16937@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

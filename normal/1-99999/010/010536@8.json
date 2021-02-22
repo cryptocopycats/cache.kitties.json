@@ -1,0 +1,21 @@
+{
+  "id": 10536,
+  "name": "MrBiggles",
+  "generation": 8,
+  "created_at": "2017-11-29T00:40:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm MrBiggles. I'm a professional Culinary Sanitation Specialist and I love hamburgers. I'm often described as wondrous, and I own it. Our friendship will be tantalizing, despicable, and full of wet food.",
+  "language": "en",
+  "matron": "10501@6",
+  "sire": "7774@7",
+  "children": [
+    "10656@12",
+    "10886@11",
+    "11328@9",
+    "12010@9",
+    "13870@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

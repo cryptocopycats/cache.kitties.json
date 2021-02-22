@@ -1,0 +1,19 @@
+{
+  "id": 10157,
+  "name": "Fluffer",
+  "generation": 14,
+  "created_at": "2017-11-28T18:36:16.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's Fluffer. I once peed on Marie Antoinette's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2114@0",
+  "sire": "10148@13",
+  "children": [
+    "11590@15",
+    "14387@15",
+    "17985@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

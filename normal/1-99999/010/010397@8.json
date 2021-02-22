@@ -1,0 +1,24 @@
+{
+  "id": 10397,
+  "name": "Donger Alpha 1",
+  "generation": 8,
+  "created_at": "2017-11-28T23:34:50.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Donger Alpha 1. In high school, I was voted most likely to work at NASA. I'm often described as annoying, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8422@7",
+  "sire": "8470@5",
+  "children": [
+    "15546@12",
+    "16921@11",
+    "18404@11",
+    "33650@13",
+    "38746@14",
+    "63387@16",
+    "96078@12",
+    "283504@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

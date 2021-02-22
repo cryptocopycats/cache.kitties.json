@@ -1,0 +1,19 @@
+{
+  "id": 11905,
+  "name": "Red Cat",
+  "generation": 15,
+  "created_at": "2017-11-29T12:45:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Red Cat. I'm a professional Train Conductor and I love cantaloupe. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, steak—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11405@11",
+  "sire": "4943@14",
+  "children": [
+    "15459@16",
+    "20804@16",
+    "23051@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

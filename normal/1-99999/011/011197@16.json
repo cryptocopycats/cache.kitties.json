@@ -1,0 +1,20 @@
+{
+  "id": 11197,
+  "name": "Emerald",
+  "generation": 16,
+  "created_at": "2017-11-29T06:15:22.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Emerald. I've never told anyone this, but I once licked a dog. I once made a dog trot. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "5733@9",
+  "sire": "10995@15",
+  "children": [
+    "11510@17",
+    "15187@17",
+    "30366@17",
+    "250392@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

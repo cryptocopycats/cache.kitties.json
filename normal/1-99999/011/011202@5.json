@@ -1,0 +1,18 @@
+{
+  "id": 11202,
+  "name": "Tigger",
+  "generation": 5,
+  "created_at": "2017-11-29T06:21:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Tigger. I'm often referred to as the Neville Longbottom of the group. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6412@4",
+  "sire": "7154@3",
+  "children": [
+    "21588@14",
+    "22551@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

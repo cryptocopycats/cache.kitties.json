@@ -1,0 +1,19 @@
+{
+  "id": 10069,
+  "name": "Jock",
+  "generation": 8,
+  "created_at": "2017-11-28T15:20:49.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Jock. In high school, I was voted school jock. In my free time, I can usually be found raunchy or swiping left. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "9997@7",
+  "sire": "4711@7",
+  "children": [
+    "10088@9",
+    "12154@13",
+    "16737@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

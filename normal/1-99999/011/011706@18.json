@@ -1,0 +1,17 @@
+{
+  "id": 11706,
+  "name": "O'Malley",
+  "generation": 18,
+  "created_at": "2017-11-29T10:38:16.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm O'Malley. I've never told anyone this, but I once kissed a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "9496@17",
+  "sire": "10590@8",
+  "children": [
+    "13983@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

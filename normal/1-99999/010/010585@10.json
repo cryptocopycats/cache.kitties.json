@@ -1,0 +1,23 @@
+{
+  "id": 10585,
+  "name": "Sony",
+  "generation": 10,
+  "created_at": "2017-11-29T01:09:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! Sony here. I'm here to enjoy tripping my owner and reciting poetry. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "10502@9",
+  "sire": "10523@9",
+  "children": [
+    "12136@15",
+    "12470@11",
+    "13394@13",
+    "17009@12",
+    "49134@20",
+    "76981@11",
+    "165132@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

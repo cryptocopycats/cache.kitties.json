@@ -1,0 +1,18 @@
+{
+  "id": 11200,
+  "name": "Baby",
+  "generation": 14,
+  "created_at": "2017-11-29T06:16:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Baby. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Cleopatra. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "9576@13",
+  "sire": "5910@9",
+  "children": [
+    "15169@15",
+    "15926@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

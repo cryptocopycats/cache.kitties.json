@@ -1,0 +1,17 @@
+{
+  "id": 10987,
+  "name": "Frank",
+  "generation": 10,
+  "created_at": "2017-11-29T04:44:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Frank. I enjoy fighting for the people, tripping my owner, and breakdancing. I once dreamed of being a Aerobics Athlete . Now I can be found tricking babies all day. Let's pawty!",
+  "language": "en",
+  "matron": "10476@1",
+  "sire": "10823@9",
+  "children": [
+    "27065@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10430,
+  "name": "Seal",
+  "generation": 3,
+  "created_at": "2017-11-28T23:46:58.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Seal. I've never told anyone this, but I once licked a dog. I once licked a dolphin. I don't like to talk about it. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "10409@2",
+  "sire": "2713@0",
+  "children": [
+    "10524@4",
+    "10554@4",
+    "10563@4",
+    "10924@4",
+    "11125@6",
+    "25093@21",
+    "26849@8",
+    "43101@4",
+    "65513@10",
+    "73316@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

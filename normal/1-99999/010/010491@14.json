@@ -1,0 +1,22 @@
+{
+  "id": 10491,
+  "name": "Red Eye",
+  "generation": 14,
+  "created_at": "2017-11-29T00:20:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Red Eye. I've never told anyone this, but I once snuggled a dog. I put cinammon on everything. Like, everything: hot dogs, ice cream—everything! Our friendship will be preposterous, annoying, and full of wet food.",
+  "language": "en",
+  "matron": "7235@10",
+  "sire": "7494@13",
+  "children": [
+    "10959@15",
+    "11966@15",
+    "12881@15",
+    "62808@15",
+    "348481@15",
+    "355766@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

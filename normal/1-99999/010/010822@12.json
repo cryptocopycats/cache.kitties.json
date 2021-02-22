@@ -1,0 +1,21 @@
+{
+  "id": 10822,
+  "name": "Dijon Mustache",
+  "generation": 12,
+  "created_at": "2017-11-29T03:04:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Dijon Mustache. I'm a Foreign Film Director by day, and I like reading Danielle Steele by night. I like to listen to Wutang while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10416@11",
+  "sire": "10321@6",
+  "children": [
+    "10977@13",
+    "27073@13",
+    "36868@13",
+    "51184@16",
+    "70289@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

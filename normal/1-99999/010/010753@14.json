@@ -1,0 +1,19 @@
+{
+  "id": 10753,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T02:37:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Kitty #10753. I'm often referred to as the Marge Simpson of the group. Some people say I'm the Marge Simpson of the group. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "7460@13",
+  "sire": "7503@12",
+  "children": [
+    "11579@15",
+    "13767@15",
+    "71967@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

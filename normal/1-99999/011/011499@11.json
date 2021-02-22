@@ -1,0 +1,23 @@
+{
+  "id": 11499,
+  "name": "Leon Trotsky",
+  "generation": 11,
+  "created_at": "2017-11-29T08:42:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Leon Trotsky here. I'm here to enjoy sitting on your computer and licking doorknobs. I'm often described as gullible, and I own it. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "11141@7",
+  "sire": "11279@10",
+  "children": [
+    "11953@12",
+    "13772@12",
+    "15046@12",
+    "17606@12",
+    "27686@14",
+    "55186@12",
+    "66816@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

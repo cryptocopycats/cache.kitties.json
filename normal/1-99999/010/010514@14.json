@@ -1,0 +1,20 @@
+{
+  "id": 10514,
+  "name": "Justin",
+  "generation": 14,
+  "created_at": "2017-11-29T00:26:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! Justin here. I'm here to enjoy licking doorknobs and sitting on your computer. My friends describe me as \"petulant.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "7685@13",
+  "sire": "7299@10",
+  "children": [
+    "11010@15",
+    "11178@15",
+    "13518@15",
+    "51140@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

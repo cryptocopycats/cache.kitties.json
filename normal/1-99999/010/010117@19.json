@@ -1,0 +1,17 @@
+{
+  "id": 10117,
+  "name": "Leo",
+  "generation": 19,
+  "created_at": "2017-11-28T17:24:16.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Leo. I'm a Train Conductor by day, and I like watching reality tv by night. Sometimes I daydream of a life full of reading garfield, apple pie, and mocking dogs. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "8932@18",
+  "sire": "9269@13",
+  "children": [
+    "71061@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

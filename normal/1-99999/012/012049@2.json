@@ -1,0 +1,22 @@
+{
+  "id": 12049,
+  "name": "EhKitty",
+  "generation": 2,
+  "created_at": "2017-11-29T13:48:46.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm EhKitty. I'm a Private Dancer  by day, and I like riverdancing by night. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2754@0",
+  "sire": "10287@1",
+  "children": [
+    "22129@17",
+    "32145@3",
+    "32246@10",
+    "48547@18",
+    "464135@5",
+    "465177@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

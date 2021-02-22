@@ -1,0 +1,25 @@
+{
+  "id": 10971,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-29T04:33:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #10971. I'm often referred to as the Ron Weasley of the group. I once got in a fight with a rooster, and won. Our friendship will be raunchy, voluptuous, and full of lasagna.",
+  "language": "en",
+  "matron": "5785@8",
+  "sire": "10701@4",
+  "children": [
+    "11073@10",
+    "11261@10",
+    "11553@12",
+    "12639@12",
+    "12744@10",
+    "18247@12",
+    "24557@12",
+    "48229@12",
+    "144001@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

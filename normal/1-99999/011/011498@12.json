@@ -1,0 +1,24 @@
+{
+  "id": 11498,
+  "name": "Gen 12 Poutzie",
+  "generation": 12,
+  "created_at": "2017-11-29T08:42:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 12 Poutzie. In high school, I was voted school jock. My friends describe me as \"hairy.\" It's... accurate. Our friendship will be gorgeous, annoying, and full of salad.",
+  "language": "en",
+  "matron": "6960@11",
+  "sire": "10342@4",
+  "children": [
+    "12849@18",
+    "14428@18",
+    "16464@13",
+    "33888@17",
+    "45167@14",
+    "55062@14",
+    "298067@13",
+    "383071@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11730,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-29T11:00:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #11730. I've never told anyone this, but I once kissed a dog. I'm often described as ridiculous, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "2682@0",
+  "sire": "11026@5",
+  "children": [
+    "22598@13",
+    "40540@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

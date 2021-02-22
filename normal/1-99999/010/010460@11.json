@@ -1,0 +1,19 @@
+{
+  "id": 10460,
+  "name": "Not Yellow",
+  "generation": 11,
+  "created_at": "2017-11-29T00:00:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Not Yellow. I've never told anyone this, but I once cleaned a dog. I once got in a fight with a chimpanzee, and won. Let's pawty!",
+  "language": "en",
+  "matron": "3652@6",
+  "sire": "9695@10",
+  "children": [
+    "10597@12",
+    "10887@14",
+    "50930@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

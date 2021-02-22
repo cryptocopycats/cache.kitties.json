@@ -1,0 +1,20 @@
+{
+  "id": 11005,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-29T04:50:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #11005. All you need to know about me is I hate cereal with a passion. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5370@10",
+  "sire": "10759@7",
+  "children": [
+    "11255@14",
+    "13578@14",
+    "15127@18",
+    "20076@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

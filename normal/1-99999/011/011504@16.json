@@ -1,0 +1,21 @@
+{
+  "id": 11504,
+  "name": "Ocean",
+  "generation": 16,
+  "created_at": "2017-11-29T08:43:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Ocean. I've never told anyone this, but I once cleaned a dog. I once got in a fight with a rhino, and won. I like your face.",
+  "language": "en",
+  "matron": "3746@4",
+  "sire": "10938@15",
+  "children": [
+    "12556@17",
+    "12733@17",
+    "20856@17",
+    "85839@17",
+    "245721@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

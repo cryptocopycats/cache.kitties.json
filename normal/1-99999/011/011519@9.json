@@ -1,0 +1,22 @@
+{
+  "id": 11519,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-29T08:49:19.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #11519. My friends describe me as fabulous and hairy. My friends describe me as \"ridiculous.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "10830@7",
+  "sire": "10991@8",
+  "children": [
+    "11868@10",
+    "13772@12",
+    "15119@11",
+    "16045@15",
+    "52845@15",
+    "192368@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

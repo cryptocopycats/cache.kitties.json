@@ -1,0 +1,19 @@
+{
+  "id": 11866,
+  "name": "Vladdy Ice",
+  "generation": 12,
+  "created_at": "2017-11-29T12:19:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Vladdy Ice. My friends describe me as voluptuous and vegan. In my free time, I can usually be found stinky or mocking dogs. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10566@9",
+  "sire": "5609@11",
+  "children": [
+    "17125@13",
+    "53811@18",
+    "107485@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

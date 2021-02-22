@@ -1,0 +1,21 @@
+{
+  "id": 11100,
+  "name": "G14",
+  "generation": 14,
+  "created_at": "2017-11-29T05:36:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! G14 here. I'm here to enjoy fighting the patriarchy and tripping my owner. It's not common knowledge, but my ancestry connects me to Confucius. Our friendship will be gorgeous, vegan, and full of lasagna.",
+  "language": "en",
+  "matron": "11000@2",
+  "sire": "10071@13",
+  "children": [
+    "11613@18",
+    "14227@15",
+    "17957@15",
+    "21524@15",
+    "318523@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 11330,
+  "name": "Miss Lily",
+  "generation": 2,
+  "created_at": "2017-11-29T07:07:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Miss Lily. I'm a professional Mad Scientist and I love salad. When no one's home, I invite my pals over and we listen to Ace of Base. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "2561@0",
+  "sire": "10134@1",
+  "children": [
+    "11933@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

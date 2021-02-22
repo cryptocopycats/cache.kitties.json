@@ -1,0 +1,23 @@
+{
+  "id": 10906,
+  "name": "Blu",
+  "generation": 7,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Blu. I'm a professional Skydiving Instructor and I love apple pie. My friends describe me as \"despicable.\" It's... accurate. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "10712@4",
+  "sire": "10768@6",
+  "children": [
+    "11066@9",
+    "11092@8",
+    "11375@8",
+    "11624@8",
+    "12582@8",
+    "14609@8",
+    "48517@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10489,
+  "name": "Starter Kitteh",
+  "generation": 15,
+  "created_at": "2017-11-29T00:16:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Starter Kitteh. I'm a Culinary Sanitation Specialist by day, and I like riverdancing by night. Sometimes I daydream of a life full of slappin' da bass, cereal, and watching reality tv. Will you be the ranch dressing to my soy sauce?",
+  "language": "en",
+  "matron": "7526@11",
+  "sire": "7563@14",
+  "children": [
+    "10734@16",
+    "11199@16",
+    "16162@16",
+    "60776@16",
+    "115270@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

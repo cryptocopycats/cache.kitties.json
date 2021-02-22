@@ -1,0 +1,21 @@
+{
+  "id": 11792,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-29T11:35:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #11792. I'm often referred to as the Chandler Bing of the group. I once got in a fight with a gecko, and won. Let's pawty!",
+  "language": "en",
+  "matron": "11657@0",
+  "sire": "1467@0",
+  "children": [
+    "11806@2",
+    "11830@3",
+    "11894@4",
+    "12013@3",
+    "12496@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

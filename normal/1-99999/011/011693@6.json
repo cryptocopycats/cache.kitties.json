@@ -1,0 +1,24 @@
+{
+  "id": 11693,
+  "name": "DogCatDog",
+  "generation": 6,
+  "created_at": "2017-11-29T10:32:33.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm DogCatDog. I've never told anyone this, but I once groomed a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3522@5",
+  "sire": "3492@4",
+  "children": [
+    "12404@7",
+    "15570@7",
+    "15840@7",
+    "41430@12",
+    "45369@9",
+    "75689@10",
+    "337210@12",
+    "401448@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

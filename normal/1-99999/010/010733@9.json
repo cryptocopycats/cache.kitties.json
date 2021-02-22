@@ -1,0 +1,24 @@
+{
+  "id": 10733,
+  "name": "Lord Snuffles",
+  "generation": 9,
+  "created_at": "2017-11-29T02:27:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Lord Snuffles. All you need to know about me is I hate chocolate with a passion. I like to listen to Metallica while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "10662@7",
+  "sire": "10666@8",
+  "children": [
+    "11101@11",
+    "11334@11",
+    "11670@14",
+    "12430@10",
+    "14819@16",
+    "16789@10",
+    "59787@21",
+    "65851@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

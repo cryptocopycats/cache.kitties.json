@@ -1,0 +1,21 @@
+{
+  "id": 10296,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-28T22:35:01.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #10296. I enjoy watching Stranger Things, glaring at the neighbour's cat, and shakin' dat booty. I'm often described as ridiculous, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2665@0",
+  "sire": "10241@14",
+  "children": [
+    "12373@16",
+    "14534@16",
+    "17865@16",
+    "25140@16",
+    "70798@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

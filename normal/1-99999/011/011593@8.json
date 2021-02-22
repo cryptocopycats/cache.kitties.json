@@ -1,0 +1,24 @@
+{
+  "id": 11593,
+  "name": "G8 Cool Rec",
+  "generation": 8,
+  "created_at": "2017-11-29T09:28:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm G8 Cool Rec. I believe the world is flat. My secret indulgence is cantaloupe. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11491@7",
+  "sire": "3196@5",
+  "children": [
+    "11650@9",
+    "11768@11",
+    "12011@9",
+    "16497@9",
+    "26909@13",
+    "27316@12",
+    "52151@10",
+    "103649@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

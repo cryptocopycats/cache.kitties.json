@@ -1,0 +1,30 @@
+{
+  "id": 10879,
+  "name": "Spud : Gen 0 Cymric",
+  "generation": 0,
+  "created_at": "2017-11-29T03:32:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Spud : Gen 0 Cymric. My friends describe me as vegan and smelly. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "10905@1",
+    "11227@15",
+    "14529@13",
+    "17240@3",
+    "17699@19",
+    "33038@1",
+    "34191@1",
+    "39047@10",
+    "59778@1",
+    "134258@15",
+    "137312@9",
+    "283635@10",
+    "291578@6",
+    "408948@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

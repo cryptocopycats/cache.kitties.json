@@ -1,0 +1,19 @@
+{
+  "id": 11460,
+  "name": "Manny",
+  "generation": 13,
+  "created_at": "2017-11-29T08:18:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Manny. I believe the world is flat. I put peanut butter on everything. Like, everything: hot dogs, hamburgers—everything! Let's get busy!",
+  "language": "en",
+  "matron": "11375@8",
+  "sire": "11058@12",
+  "children": [
+    "12449@14",
+    "13733@14",
+    "14098@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

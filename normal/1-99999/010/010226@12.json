@@ -1,0 +1,19 @@
+{
+  "id": 10226,
+  "name": "Misschief",
+  "generation": 12,
+  "created_at": "2017-11-28T20:58:09.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Misschief. I enjoy sitting on your computer, eating until I loathe myself, and glaring at the neighbour's cat. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be voluptuous, tantalizing, and full of apple pie.",
+  "language": "en",
+  "matron": "5737@11",
+  "sire": "5125@11",
+  "children": [
+    "10627@15",
+    "13615@13",
+    "14808@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 10510,
+  "name": "Oreo Ice Cream",
+  "generation": 14,
+  "created_at": "2017-11-29T00:26:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Oreo Ice Cream. I'm often referred to as the Ross Geller of the group. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8123@13",
+  "sire": "4158@10",
+  "children": [
+    "10767@15",
+    "12133@15",
+    "17386@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 10705,
+  "name": "Pawsley",
+  "generation": 12,
+  "created_at": "2017-11-29T02:13:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Pawsley. My friends describe me as despicable and wondrous. I once made a rooster kiss. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "2495@0",
+  "sire": "8872@11",
+  "children": [
+    "11219@13",
+    "12854@13",
+    "15424@13",
+    "29139@18",
+    "424639@13",
+    "509188@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11075,
+  "name": "gen1 swift",
+  "generation": 1,
+  "created_at": "2017-11-29T05:21:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm gen1 swift. I want to live in a world where people believe the world is flat. My secret indulgence is cantaloupe. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "2162@0",
+  "sire": "1072@0",
+  "children": [
+    "11223@2",
+    "11322@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

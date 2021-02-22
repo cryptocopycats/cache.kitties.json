@@ -1,0 +1,17 @@
+{
+  "id": 10544,
+  "name": "Gecko Ice Cream",
+  "generation": 18,
+  "created_at": "2017-11-29T00:47:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gecko Ice Cream. I'm a Dispensary Clerk by day, and I like people-watching by night. I once made a gecko pester. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "9642@17",
+  "sire": "8032@16",
+  "children": [
+    "15969@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

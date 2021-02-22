@@ -1,0 +1,21 @@
+{
+  "id": 11146,
+  "name": "Gen 13 Brisk",
+  "generation": 13,
+  "created_at": "2017-11-29T05:59:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 13 Brisk. I'm a Private Dancer  by day, and I like swiping right by night. Sometimes I daydream of a life full of chasing red dots, cantaloupe, and swiping left. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6104@12",
+  "sire": "6949@10",
+  "children": [
+    "12087@14",
+    "12906@16",
+    "15901@16",
+    "20157@14",
+    "35219@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

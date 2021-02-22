@@ -1,0 +1,22 @@
+{
+  "id": 11652,
+  "name": "PeetiePaws",
+  "generation": 10,
+  "created_at": "2017-11-29T10:10:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm PeetiePaws. I enjoy fighting the patriarchy, licking doorknobs, and riding dirty. I'm often described as preposterous, and I own it. Our friendship will be brilliant, vegan, and full of cantaloupe.",
+  "language": "en",
+  "matron": "11078@8",
+  "sire": "11267@9",
+  "children": [
+    "11915@12",
+    "13622@11",
+    "14552@13",
+    "16819@13",
+    "18338@15",
+    "32523@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

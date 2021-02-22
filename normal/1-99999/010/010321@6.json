@@ -1,0 +1,26 @@
+{
+  "id": 10321,
+  "name": "Posie Mustache",
+  "generation": 6,
+  "created_at": "2017-11-28T22:51:05.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Posie Mustache. In high school, I was voted biggest teacher's pet. I once got in a fight with a dolphin, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7095@1",
+  "sire": "4963@5",
+  "children": [
+    "10367@7",
+    "10500@12",
+    "10822@12",
+    "11103@12",
+    "12933@12",
+    "15664@12",
+    "20738@12",
+    "21641@15",
+    "70731@9",
+    "168337@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

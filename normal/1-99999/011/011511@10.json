@@ -1,0 +1,20 @@
+{
+  "id": 11511,
+  "name": "Cathy",
+  "generation": 10,
+  "created_at": "2017-11-29T08:46:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Cathy. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Aretha Franklin. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "6771@6",
+  "sire": "11293@9",
+  "children": [
+    "32745@13",
+    "38622@11",
+    "45361@20",
+    "58096@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

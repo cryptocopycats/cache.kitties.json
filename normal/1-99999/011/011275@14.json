@@ -1,0 +1,21 @@
+{
+  "id": 11275,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T06:47:52.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Kitty #11275. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8227@13",
+  "sire": "7777@8",
+  "children": [
+    "11818@19",
+    "14936@19",
+    "16839@19",
+    "23530@19",
+    "28838@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

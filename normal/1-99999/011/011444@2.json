@@ -1,0 +1,24 @@
+{
+  "id": 11444,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-29T08:12:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 2. I'm often referred to as the Bart Simpson of the group. I'm often described as smelly, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "11042@1",
+  "sire": "6058@1",
+  "children": [
+    "11478@3",
+    "11520@3",
+    "11542@3",
+    "11592@3",
+    "13013@3",
+    "32802@3",
+    "34135@3",
+    "49586@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 10357,
+  "name": "Potong | Gen 8",
+  "generation": 8,
+  "created_at": "2017-11-28T23:12:32.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Potong | Gen 8. I'm a professional Dogwalker and I love cantaloupe. In my free time, I can usually be found ridiculous or volunteering at the local kitten rescue shelter. Let's get busy!",
+  "language": "en",
+  "matron": "3301@6",
+  "sire": "5104@7",
+  "children": [
+    "11834@12",
+    "12076@12",
+    "12663@12",
+    "14735@12",
+    "18213@12",
+    "25879@13",
+    "34612@14",
+    "74272@9",
+    "264692@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10112,
+  "name": "Snow White",
+  "generation": 2,
+  "created_at": "2017-11-28T17:17:08.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Snow White. I'm often referred to as the Hermione Granger of the group. My secret indulgence is cereal. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5419@1",
+  "sire": "5594@1",
+  "children": [
+    "10131@3",
+    "117525@3",
+    "144059@3",
+    "159264@3",
+    "201607@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 11628,
+  "name": "Trouble",
+  "generation": 18,
+  "created_at": "2017-11-29T09:54:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Trouble. I'm a Dogwalker by day, and I like jump-roping by night. My secret indulgence is salad. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "11281@13",
+  "sire": "11278@17",
+  "children": [
+    "13450@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

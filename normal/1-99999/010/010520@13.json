@@ -1,0 +1,21 @@
+{
+  "id": 10520,
+  "name": "Cacapouet",
+  "generation": 13,
+  "created_at": "2017-11-29T00:31:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Cacapouet. I've never told anyone this, but I once headbutted a dog. I am 0% oracle, 86% Skydiving Instructor, and otherwise bad at math. Our friendship will be seductive, gullible, and full of wet food.",
+  "language": "en",
+  "matron": "9931@1",
+  "sire": "9217@12",
+  "children": [
+    "12230@15",
+    "12518@14",
+    "16370@14",
+    "19834@14",
+    "61480@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

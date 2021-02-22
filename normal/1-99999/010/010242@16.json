@@ -1,0 +1,18 @@
+{
+  "id": 10242,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-28T21:37:38.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #10242. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8982@15",
+  "sire": "5639@13",
+  "children": [
+    "11458@17",
+    "17195@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

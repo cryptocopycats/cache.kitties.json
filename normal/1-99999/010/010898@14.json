@@ -1,0 +1,20 @@
+{
+  "id": 10898,
+  "name": "SpanishInquisition",
+  "generation": 14,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm SpanishInquisition. I enjoy tricking babies, tripping my owner, and spinning sick beats. When I'm not reading Danielle Steele, I'm running a podcast! Let's get busy!",
+  "language": "en",
+  "matron": "10661@3",
+  "sire": "10725@13",
+  "children": [
+    "11921@16",
+    "13749@15",
+    "39543@16",
+    "65563@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

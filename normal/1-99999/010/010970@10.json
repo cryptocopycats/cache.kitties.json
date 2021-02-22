@@ -1,0 +1,19 @@
+{
+  "id": 10970,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T04:33:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #10970. I'm often referred to as the Steve Urkel of the group. I once groomed a moose. I don't like to talk about it. Will you be the marmalade to my marmite?",
+  "language": "en",
+  "matron": "10922@5",
+  "sire": "10804@9",
+  "children": [
+    "11185@11",
+    "55422@12",
+    "130909@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

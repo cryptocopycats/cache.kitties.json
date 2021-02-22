@@ -1,0 +1,20 @@
+{
+  "id": 11703,
+  "name": "Amelia Earhart",
+  "generation": 20,
+  "created_at": "2017-11-29T10:38:16.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Amelia Earhart here. I'm here to enjoy taking selfies and riding unicorns. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7837@9",
+  "sire": "10070@19",
+  "children": [
+    "16603@21",
+    "36910@21",
+    "157955@21",
+    "362138@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

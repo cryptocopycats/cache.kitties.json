@@ -1,0 +1,18 @@
+{
+  "id": 10079,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-11-28T15:47:23.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #10079. I'm a Dispensary Clerk by day, and I like riding the bus by night. I would give it all up to be on Oprah. Our friendship will be petulant, prickly, and full of cereal.",
+  "language": "en",
+  "matron": "9446@19",
+  "sire": "9447@20",
+  "children": [
+    "12348@22",
+    "23187@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

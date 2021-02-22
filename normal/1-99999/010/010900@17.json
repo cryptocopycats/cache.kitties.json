@@ -1,0 +1,19 @@
+{
+  "id": 10900,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #10900. I'm a Spin Instructor  by day, and I like jump-roping by night. I was voted most likely to work at NASA in college. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "9671@15",
+  "sire": "10164@16",
+  "children": [
+    "12338@20",
+    "16357@19",
+    "23662@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

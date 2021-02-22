@@ -1,0 +1,17 @@
+{
+  "id": 10101,
+  "name": "Binary",
+  "generation": 15,
+  "created_at": "2017-11-28T16:43:41.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Binary. I'm a professional Ventriloquist and I love ice cream. My secret indulgence is wet food. Let's get busy!",
+  "language": "en",
+  "matron": "8004@12",
+  "sire": "9384@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

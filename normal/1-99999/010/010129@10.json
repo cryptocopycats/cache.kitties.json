@@ -1,0 +1,22 @@
+{
+  "id": 10129,
+  "name": "Sergey Brin",
+  "generation": 10,
+  "created_at": "2017-11-28T17:41:21.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Sergey Brin. I'm a professional Train Conductor and I love wet food. I once got in a fight with a rabbit, and won. Our friendship will be brilliant, prickly, and full of cantaloupe.",
+  "language": "en",
+  "matron": "7732@9",
+  "sire": "9645@1",
+  "children": [
+    "39501@13",
+    "41267@19",
+    "56493@11",
+    "65621@13",
+    "164685@11",
+    "207828@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

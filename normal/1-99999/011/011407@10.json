@@ -1,0 +1,24 @@
+{
+  "id": 11407,
+  "name": "Young Mula",
+  "generation": 10,
+  "created_at": "2017-11-29T07:46:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Young Mula. I enjoy eating lasagna, glaring at the neighbour's cat, and shakin' dat booty. It's not common knowledge, but my ancestry connects me to Amelia Earhart. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10339@9",
+  "sire": "5519@8",
+  "children": [
+    "12387@11",
+    "13044@17",
+    "13083@11",
+    "15310@16",
+    "22121@15",
+    "45355@14",
+    "94129@19",
+    "197029@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

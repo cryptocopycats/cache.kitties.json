@@ -1,0 +1,21 @@
+{
+  "id": 10864,
+  "name": "Henry \"Otaku\" Rollins",
+  "generation": 12,
+  "created_at": "2017-11-29T03:25:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Henry \"Otaku\" Rollins here. I'm here to enjoy watching Stranger Things and riding dirty. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5842@11",
+  "sire": "5767@6",
+  "children": [
+    "11432@14",
+    "21497@13",
+    "25604@13",
+    "32439@13",
+    "58977@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

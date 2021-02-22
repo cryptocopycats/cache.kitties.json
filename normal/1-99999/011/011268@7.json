@@ -1,0 +1,24 @@
+{
+  "id": 11268,
+  "name": "8: GEN 7",
+  "generation": 7,
+  "created_at": "2017-11-29T06:43:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm 8: GEN 7. I enjoy spinning sick beats, picking flowers, and shakin' dat booty. I am 2% oracle, 13% Train Conductor, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "6169@2",
+  "sire": "11137@6",
+  "children": [
+    "11580@13",
+    "12394@8",
+    "12944@17",
+    "15605@8",
+    "16638@8",
+    "19824@9",
+    "21095@8",
+    "26373@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

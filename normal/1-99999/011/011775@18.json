@@ -1,0 +1,20 @@
+{
+  "id": 11775,
+  "name": "Flirt",
+  "generation": 18,
+  "created_at": "2017-11-29T11:30:30.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Flirt. I'm a professional Dogwalker and I love lasagna. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10161@17",
+  "sire": "9142@16",
+  "children": [
+    "18635@19",
+    "19877@19",
+    "48926@20",
+    "146215@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

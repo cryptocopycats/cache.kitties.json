@@ -1,0 +1,19 @@
+{
+  "id": 10746,
+  "name": "Mr. Meowgi",
+  "generation": 10,
+  "created_at": "2017-11-29T02:32:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Mr. Meowgi. I'm a professional Foreign Film Director and I love hamburgers. My secret indulgence is salad. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "7041@9",
+  "sire": "10499@5",
+  "children": [
+    "11244@13",
+    "12937@17",
+    "14336@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

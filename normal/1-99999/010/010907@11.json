@@ -1,0 +1,21 @@
+{
+  "id": 10907,
+  "name": "Creme de Menthe",
+  "generation": 11,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Creme de Menthe. All you need to know about me is I hate apple pie with a passion. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10756@10",
+  "sire": "7392@4",
+  "children": [
+    "11335@12",
+    "11572@12",
+    "15811@14",
+    "68994@18",
+    "171491@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

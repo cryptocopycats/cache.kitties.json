@@ -1,0 +1,23 @@
+{
+  "id": 10930,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T03:59:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #10930. I want to live in a world where people believe the world is flat. I once got in a fight with a platypus, and won. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "8056@13",
+  "sire": "9939@13",
+  "children": [
+    "11447@15",
+    "13792@15",
+    "17504@15",
+    "23266@15",
+    "45346@15",
+    "141688@15",
+    "327238@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

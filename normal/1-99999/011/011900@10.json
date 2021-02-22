@@ -1,0 +1,22 @@
+{
+  "id": 11900,
+  "name": "Neptune",
+  "generation": 10,
+  "created_at": "2017-11-29T12:40:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Neptune. I'm a professional Dispensary Clerk and I love ice cream. My friends describe me as \"brilliant.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11755@9",
+  "sire": "4773@9",
+  "children": [
+    "12945@11",
+    "13610@11",
+    "18427@13",
+    "20589@17",
+    "27480@12",
+    "45379@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

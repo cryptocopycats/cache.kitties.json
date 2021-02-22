@@ -1,0 +1,26 @@
+{
+  "id": 10948,
+  "name": "First!",
+  "generation": 0,
+  "created_at": "2017-11-29T04:12:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm First!. I'm a Aerobics Athlete  by day, and I like riding the bus by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "10964@16",
+    "11699@12",
+    "11918@10",
+    "12646@20",
+    "12934@6",
+    "14456@11",
+    "14590@21",
+    "14695@14",
+    "14798@20",
+    "15293@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10278,
+  "name": "MARVIN GEN8",
+  "generation": 8,
+  "created_at": "2017-11-28T22:20:36.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm MARVIN GEN8. I'm often referred to as the Michael Scott of the group. When no one's home, I invite my pals over and we listen to Wutang. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4945@7",
+  "sire": "1093@0",
+  "children": [
+    "11404@9",
+    "13476@17",
+    "14094@9",
+    "14981@9",
+    "17946@15",
+    "28972@16",
+    "48505@15",
+    "63943@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

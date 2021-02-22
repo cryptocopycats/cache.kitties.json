@@ -1,0 +1,20 @@
+{
+  "id": 10284,
+  "name": "Happy-Go-Lucky",
+  "generation": 17,
+  "created_at": "2017-11-28T22:26:03.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! My name's Happy-Go-Lucky. I once peed on Cleopatra's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7357@16",
+  "sire": "8013@15",
+  "children": [
+    "11345@18",
+    "16800@18",
+    "24771@18",
+    "69333@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

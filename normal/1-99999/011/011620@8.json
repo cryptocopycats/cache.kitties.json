@@ -1,0 +1,24 @@
+{
+  "id": 11620,
+  "name": "Neeb",
+  "generation": 8,
+  "created_at": "2017-11-29T09:48:08.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Neeb here. I'm here to enjoy taking selfies and chasing string. My secret indulgence is lasagna. Our friendship will be gullible, hairy, and full of wet food.",
+  "language": "en",
+  "matron": "10329@7",
+  "sire": "5660@5",
+  "children": [
+    "15339@9",
+    "15685@9",
+    "24928@20",
+    "77186@9",
+    "104265@12",
+    "117248@12",
+    "301766@9",
+    "335506@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

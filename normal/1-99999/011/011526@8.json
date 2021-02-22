@@ -1,0 +1,20 @@
+{
+  "id": 11526,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-29T08:53:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #11526. My friends describe me as gorgeous and smelly. I was voted most likely to work at NASA in college. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "10709@4",
+  "sire": "11141@7",
+  "children": [
+    "11925@12",
+    "13622@11",
+    "14085@9",
+    "14761@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

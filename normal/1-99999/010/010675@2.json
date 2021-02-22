@@ -1,0 +1,29 @@
+{
+  "id": 10675,
+  "name": "Kitty #10675",
+  "generation": 2,
+  "created_at": "2017-11-29T01:53:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #10675. I'm a professional Ventriloquist and I love salad. Sometimes I daydream of a life full of fighting the patriarchy, apple pie, and riverdancing. Let's get busy!",
+  "language": "en",
+  "matron": "10062@1",
+  "sire": "2534@0",
+  "children": [
+    "14237@3",
+    "14275@3",
+    "14482@5",
+    "14664@12",
+    "15273@3",
+    "15605@8",
+    "16620@13",
+    "17537@10",
+    "25187@11",
+    "32214@16",
+    "69810@7",
+    "203137@3",
+    "393178@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10104,
+  "name": "John Danger Smith",
+  "generation": 17,
+  "created_at": "2017-11-28T16:59:00.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm John Danger Smith. I've never told anyone this, but I once pranced with a dog. I am 2% elf, 49% Spin Instructor , and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6848@1",
+  "sire": "9656@16",
+  "children": [
+    "10996@18",
+    "14747@18",
+    "20796@21",
+    "68330@18",
+    "207209@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

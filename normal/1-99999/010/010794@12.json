@@ -1,0 +1,21 @@
+{
+  "id": 10794,
+  "name": "Neo",
+  "generation": 12,
+  "created_at": "2017-11-29T02:55:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Neo. I want to live in a world where people believe the world is flat. I'm often described as raunchy, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "5499@11",
+  "sire": "5381@10",
+  "children": [
+    "11827@15",
+    "14582@16",
+    "15456@13",
+    "21084@15",
+    "27510@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

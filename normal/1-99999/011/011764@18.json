@@ -1,0 +1,19 @@
+{
+  "id": 11764,
+  "name": "11764",
+  "generation": 18,
+  "created_at": "2017-11-29T11:24:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm 11764. I want to live in a world where people believe that one day cats will rule this planet. I put ranch dressing on everything. Like, everything: hot dogs, lasagna—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10142@17",
+  "sire": "9837@16",
+  "children": [
+    "16857@19",
+    "64519@19",
+    "244255@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

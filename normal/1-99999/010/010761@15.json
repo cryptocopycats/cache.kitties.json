@@ -1,0 +1,20 @@
+{
+  "id": 10761,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T02:41:15.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #10761. I'm a Train Conductor by day, and I like prank-calling celebrities by night. Some people say I'm the Hermione Granger of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6526@6",
+  "sire": "7057@14",
+  "children": [
+    "11977@16",
+    "15360@16",
+    "47360@16",
+    "87259@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

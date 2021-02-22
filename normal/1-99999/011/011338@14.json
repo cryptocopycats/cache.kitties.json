@@ -1,0 +1,20 @@
+{
+  "id": 11338,
+  "name": "Pizza",
+  "generation": 14,
+  "created_at": "2017-11-29T07:17:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Pizza. All you need to know about me is I hate ice cream with a passion. I am 4% fairy, 10% Ventriloquist, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "8835@13",
+  "sire": "4231@3",
+  "children": [
+    "18897@18",
+    "66452@16",
+    "90035@17",
+    "116084@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

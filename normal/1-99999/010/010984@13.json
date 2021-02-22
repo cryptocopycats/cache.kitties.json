@@ -1,0 +1,20 @@
+{
+  "id": 10984,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-29T04:36:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Kitty #10984. In high school, I was voted most likely to work at NASA. I'm often described as prickly, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10694@12",
+  "sire": "3302@5",
+  "children": [
+    "11255@14",
+    "13390@14",
+    "13578@14",
+    "21733@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

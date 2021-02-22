@@ -1,0 +1,22 @@
+{
+  "id": 10272,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-28T22:15:25.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #10272. I'm a Ventriloquist by day, and I like reading Danielle Steele by night. I'm often described as brilliant, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6799@2",
+  "sire": "1264@0",
+  "children": [
+    "11112@15",
+    "12664@4",
+    "13322@14",
+    "28073@4",
+    "186303@4",
+    "592164@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

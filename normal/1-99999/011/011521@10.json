@@ -1,0 +1,24 @@
+{
+  "id": 11521,
+  "name": "Sandro",
+  "generation": 10,
+  "created_at": "2017-11-29T08:51:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Sandro. I'm a professional Foreign Film Director and I love cereal. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10858@6",
+  "sire": "11276@9",
+  "children": [
+    "11930@11",
+    "13704@11",
+    "15119@11",
+    "16912@11",
+    "23486@11",
+    "89679@13",
+    "164106@11",
+    "549842@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

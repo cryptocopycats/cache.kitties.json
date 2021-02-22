@@ -1,0 +1,22 @@
+{
+  "id": 11016,
+  "name": "Gen 9 So Fine",
+  "generation": 9,
+  "created_at": "2017-11-29T04:54:05.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Gen 9 So Fine. I'm often referred to as the Peter Griffin of the group. When no one's home, I invite my pals over and we listen to Frank Sinatra. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "9580@5",
+  "sire": "5519@8",
+  "children": [
+    "11035@10",
+    "11512@14",
+    "12519@14",
+    "13603@10",
+    "14185@13",
+    "57770@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

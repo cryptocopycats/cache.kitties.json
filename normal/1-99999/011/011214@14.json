@@ -1,0 +1,20 @@
+{
+  "id": 11214,
+  "name": "Marbles",
+  "generation": 14,
+  "created_at": "2017-11-29T06:23:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Marbles. I'm a Aerobics Athlete  by day, and I like swiping left by night. When I'm not talking about how much I lift, I'm pole dancing! I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "7505@13",
+  "sire": "8265@12",
+  "children": [
+    "11227@15",
+    "15154@18",
+    "26027@20",
+    "80096@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

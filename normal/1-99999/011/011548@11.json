@@ -1,0 +1,18 @@
+{
+  "id": 11548,
+  "name": "Beautiful Man",
+  "generation": 11,
+  "created_at": "2017-11-29T09:05:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Beautiful Man. I'm often referred to as the Lisa Simpson of the group. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Let's pawty!",
+  "language": "en",
+  "matron": "4770@10",
+  "sire": "8125@10",
+  "children": [
+    "11746@14",
+    "12084@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

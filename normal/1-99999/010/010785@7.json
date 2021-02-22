@@ -1,0 +1,23 @@
+{
+  "id": 10785,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-11-29T02:51:05.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen 7. I believe the world is flat. I once dreamed of being a Private Dancer . Now I can be found riding the bus all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10696@6",
+  "sire": "10599@3",
+  "children": [
+    "11441@9",
+    "11586@13",
+    "11622@9",
+    "12563@8",
+    "15682@9",
+    "21301@14",
+    "40711@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

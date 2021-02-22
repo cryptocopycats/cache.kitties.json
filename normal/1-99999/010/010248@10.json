@@ -1,0 +1,24 @@
+{
+  "id": 10248,
+  "name": "PoofBerry",
+  "generation": 10,
+  "created_at": "2017-11-28T21:43:02.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm PoofBerry. All you need to know about me is I hate salad with a passion. I like to listen to Beyoncé while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10236@1",
+  "sire": "6685@9",
+  "children": [
+    "10312@15",
+    "10578@11",
+    "10932@11",
+    "13629@18",
+    "17288@18",
+    "24516@15",
+    "92545@15",
+    "406087@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

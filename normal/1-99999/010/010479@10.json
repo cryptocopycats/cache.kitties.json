@@ -1,0 +1,23 @@
+{
+  "id": 10479,
+  "name": "Low Number",
+  "generation": 10,
+  "created_at": "2017-11-29T00:09:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Low Number. I enjoy eating until I loathe myself, slappin' da bass, and picking on mice. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "10288@9",
+  "sire": "10108@5",
+  "children": [
+    "10547@11",
+    "12471@11",
+    "13540@11",
+    "14461@13",
+    "16986@13",
+    "27767@13",
+    "34665@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

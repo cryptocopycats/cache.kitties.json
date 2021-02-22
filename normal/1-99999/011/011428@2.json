@@ -1,0 +1,18 @@
+{
+  "id": 11428,
+  "name": "Fizzle - Gen2",
+  "generation": 2,
+  "created_at": "2017-11-29T08:02:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Fizzle - Gen2. I've never told anyone this, but I once groomed a dog. I am 26% elf, 13% Spin Instructor , and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "11257@1",
+  "sire": "9889@1",
+  "children": [
+    "13054@3",
+    "13501@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

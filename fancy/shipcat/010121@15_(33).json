@@ -1,0 +1,27 @@
+{
+  "id": 10121,
+  "name": "Feline Musk",
+  "generation": 15,
+  "created_at": "2017-11-28T17:27:24.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Feline Musk. I want to live in a world where people believe the world is flat. I once got in a fight with a rhino, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "9375@14",
+  "sire": "4883@13",
+  "children": [
+    "10678@16",
+    "11735@16",
+    "14935@16",
+    "22267@16",
+    "40978@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 33,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

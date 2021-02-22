@@ -1,0 +1,20 @@
+{
+  "id": 10481,
+  "name": "19",
+  "generation": 19,
+  "created_at": "2017-11-29T00:10:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm 19. I enjoy eating until I loathe myself, licking doorknobs, and slappin' da bass. I once got in a fight with a rooster, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "9713@12",
+  "sire": "10155@18",
+  "children": [
+    "12632@20",
+    "19356@20",
+    "36111@20",
+    "69874@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

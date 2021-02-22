@@ -1,0 +1,19 @@
+{
+  "id": 11695,
+  "name": "Rilo | Gen 12",
+  "generation": 12,
+  "created_at": "2017-11-29T10:32:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Rilo | Gen 12. In high school, I was voted most likely to work at NASA. I once made a goose jump. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "11595@9",
+  "sire": "5538@11",
+  "children": [
+    "13061@13",
+    "14772@13",
+    "48536@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

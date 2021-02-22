@@ -1,0 +1,24 @@
+{
+  "id": 11441,
+  "name": "Socrates | Gen 9",
+  "generation": 9,
+  "created_at": "2017-11-29T08:12:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Socrates | Gen 9. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "7006@8",
+  "sire": "10785@7",
+  "children": [
+    "11528@10",
+    "11638@11",
+    "12697@11",
+    "14856@10",
+    "15904@13",
+    "21204@10",
+    "26555@13",
+    "29170@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

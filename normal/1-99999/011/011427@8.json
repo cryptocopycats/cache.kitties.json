@@ -1,0 +1,25 @@
+{
+  "id": 11427,
+  "name": "Gen8 Sluggish",
+  "generation": 8,
+  "created_at": "2017-11-29T08:01:47.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen8 Sluggish. All you need to know about me is I hate ice cream with a passion. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11145@6",
+  "sire": "10573@7",
+  "children": [
+    "11508@9",
+    "11919@9",
+    "12190@9",
+    "13204@14",
+    "15078@14",
+    "26520@9",
+    "40034@12",
+    "85785@9",
+    "194900@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

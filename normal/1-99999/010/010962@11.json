@@ -1,0 +1,19 @@
+{
+  "id": 10962,
+  "name": "ADHD Kitty",
+  "generation": 11,
+  "created_at": "2017-11-29T04:26:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm ADHD Kitty. In high school, I was voted school jock. I once made a moose grimace. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7235@10",
+  "sire": "7299@10",
+  "children": [
+    "11199@16",
+    "11356@12",
+    "12855@12"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10134,
+  "name": "Ivanka",
+  "generation": 1,
+  "created_at": "2017-11-28T17:56:58.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Ivanka. I'm a professional Foreign Film Director and I love cereal. I like to listen to Mariah Carey while grooming. Don't judge me. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "2187@0",
+  "sire": "1137@0",
+  "children": [
+    "11011@2",
+    "11330@2",
+    "12679@4",
+    "234920@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

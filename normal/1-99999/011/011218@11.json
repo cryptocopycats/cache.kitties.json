@@ -1,0 +1,21 @@
+{
+  "id": 11218,
+  "name": "Martha Trotdock",
+  "generation": 11,
+  "created_at": "2017-11-29T06:25:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Martha Trotdock. I'm often referred to as the Peter Griffin of the group. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found tricking babies all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10606@8",
+  "sire": "10845@10",
+  "children": [
+    "12005@12",
+    "12474@14",
+    "14210@14",
+    "55897@12",
+    "230086@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

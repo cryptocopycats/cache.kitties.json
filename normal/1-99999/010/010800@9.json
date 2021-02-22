@@ -1,0 +1,23 @@
+{
+  "id": 10800,
+  "name": "Ernest Punningwell",
+  "generation": 9,
+  "created_at": "2017-11-29T02:56:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Ernest Punningwell. I believe the world is flat. In my free time, I can usually be found voluptuous or volunteering at the local kitten rescue shelter. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "10540@1",
+  "sire": "10493@8",
+  "children": [
+    "10911@10",
+    "11044@10",
+    "11974@10",
+    "12121@10",
+    "13715@12",
+    "29643@12",
+    "158739@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

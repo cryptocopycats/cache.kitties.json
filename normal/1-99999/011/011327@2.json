@@ -1,0 +1,17 @@
+{
+  "id": 11327,
+  "name": "SQ - Gen2",
+  "generation": 2,
+  "created_at": "2017-11-29T07:06:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm SQ - Gen2. I'm a professional Foreign Film Director and I love steak. When no one's home, I invite my pals over and we listen to Frank Sinatra. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11297@1",
+  "sire": "9889@1",
+  "children": [
+    "11367@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

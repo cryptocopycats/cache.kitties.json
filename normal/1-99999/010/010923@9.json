@@ -1,0 +1,19 @@
+{
+  "id": 10923,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-29T03:54:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! My name's Kitty #10923. I once peed on King Henry VIII's cat. They had it coming. My friends describe me as \"ridiculous.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10779@6",
+  "sire": "4939@8",
+  "children": [
+    "12916@10",
+    "15549@13",
+    "28009@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

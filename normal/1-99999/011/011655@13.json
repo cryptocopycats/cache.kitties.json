@@ -1,0 +1,22 @@
+{
+  "id": 11655,
+  "name": "father",
+  "generation": 13,
+  "created_at": "2017-11-29T10:12:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's father. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Niles Crane of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "11430@12",
+  "sire": "5493@12",
+  "children": [
+    "14788@14",
+    "17973@14",
+    "18942@15",
+    "31649@14",
+    "51802@14",
+    "123111@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

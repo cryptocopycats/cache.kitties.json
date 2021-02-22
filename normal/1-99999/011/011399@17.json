@@ -1,0 +1,18 @@
+{
+  "id": 11399,
+  "name": "Gerbil",
+  "generation": 17,
+  "created_at": "2017-11-29T07:42:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! Gerbil here. I'm here to enjoy tricking babies and fighting for the people. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5830@12",
+  "sire": "8454@16",
+  "children": [
+    "12331@18",
+    "18370@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10957,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T04:21:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! Kitty #10957 here. I'm here to enjoy reading garfield and tricking babies. Some people say I'm the Neville Longbottom of the group. I like your face.",
+  "language": "en",
+  "matron": "10869@9",
+  "sire": "10882@8",
+  "children": [
+    "11101@11",
+    "11334@11",
+    "14070@15",
+    "21592@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

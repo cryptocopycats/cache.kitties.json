@@ -1,0 +1,20 @@
+{
+  "id": 10263,
+  "name": "Mittens",
+  "generation": 10,
+  "created_at": "2017-11-28T22:01:01.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Mittens. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Aretha Franklin. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4394@9",
+  "sire": "4621@5",
+  "children": [
+    "11397@12",
+    "25458@11",
+    "26803@16",
+    "51809@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

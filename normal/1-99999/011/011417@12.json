@@ -1,0 +1,23 @@
+{
+  "id": 11417,
+  "name": "Gen 12 Sluggish",
+  "generation": 12,
+  "created_at": "2017-11-29T07:54:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Gen 12 Sluggish. In high school, I was voted most likely to work at NASA. I once made a rooster play. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8379@11",
+  "sire": "3609@3",
+  "children": [
+    "12064@13",
+    "12787@13",
+    "13877@13",
+    "35501@13",
+    "70002@18",
+    "126952@13",
+    "235194@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

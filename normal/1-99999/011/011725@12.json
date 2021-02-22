@@ -1,0 +1,22 @@
+{
+  "id": 11725,
+  "name": "John McAfee",
+  "generation": 12,
+  "created_at": "2017-11-29T10:52:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm John McAfee. I'm often referred to as the Homer Simpson of the group. I put wasabi on everything. Like, everything: hot dogs, lasagna—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5940@11",
+  "sire": "11276@9",
+  "children": [
+    "11998@13",
+    "12278@13",
+    "18427@13",
+    "22220@17",
+    "42058@13",
+    "76356@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

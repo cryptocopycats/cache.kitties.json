@@ -1,0 +1,26 @@
+{
+  "id": 10634,
+  "name": "Gingy, 13 trait bugcat",
+  "generation": 7,
+  "created_at": "2017-11-29T01:33:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Gingy, 13 trait bugcat. My friends describe me as wondrous and vegan. I'm convinced that the world is flat. One day I'll prove it. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "3262@4",
+  "sire": "4022@6",
+  "children": [
+    "10740@10",
+    "10850@8",
+    "12605@10",
+    "12784@8",
+    "13208@10",
+    "14861@16",
+    "20877@18",
+    "26227@8",
+    "41750@17",
+    "104127@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

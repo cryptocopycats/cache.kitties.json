@@ -1,0 +1,18 @@
+{
+  "id": 10234,
+  "name": "Mahvic",
+  "generation": 15,
+  "created_at": "2017-11-28T21:17:15.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Mahvic. I want to live in a world where people believe the world is flat. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7915@4",
+  "sire": "10165@14",
+  "children": [
+    "10684@16",
+    "12191@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

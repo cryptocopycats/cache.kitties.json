@@ -1,0 +1,19 @@
+{
+  "id": 10444,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-28T23:53:30.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! My name's Kitty #10444. I once peed on Amelia Earhart's cat. They had it coming. I like to listen to Michael Bolton while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6928@11",
+  "sire": "5566@11",
+  "children": [
+    "12225@13",
+    "13646@13",
+    "23741@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

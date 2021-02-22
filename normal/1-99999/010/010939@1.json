@@ -1,0 +1,24 @@
+{
+  "id": 10939,
+  "name": "Cat Winslet",
+  "generation": 1,
+  "created_at": "2017-11-29T04:05:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Cat Winslet. I believe the world is flat. I'm often described as hairy, and I own it. I like your face.",
+  "language": "en",
+  "matron": "10928@0",
+  "sire": "1221@0",
+  "children": [
+    "10949@15",
+    "10955@13",
+    "11017@2",
+    "11189@2",
+    "11348@13",
+    "12874@16",
+    "15211@7",
+    "21488@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

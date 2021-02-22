@@ -1,0 +1,22 @@
+{
+  "id": 10418,
+  "name": "Goob",
+  "generation": 14,
+  "created_at": "2017-11-28T23:41:34.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Goob. I'm often referred to as the Dwight Schrute of the group. Sometimes I daydream of a life full of riding unicorns, lasagna, and summoning ghosts. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "10057@12",
+  "sire": "7153@13",
+  "children": [
+    "10979@15",
+    "13330@15",
+    "15233@15",
+    "23142@16",
+    "60271@15",
+    "82803@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

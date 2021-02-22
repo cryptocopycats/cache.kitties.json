@@ -1,0 +1,27 @@
+{
+  "id": 11515,
+  "name": "Back",
+  "generation": 2,
+  "created_at": "2017-11-29T08:48:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Back. My friends describe me as preposterous and smelly. My friends describe me as \"stinky.\" It's... accurate. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "11301@0",
+  "sire": "3138@1",
+  "children": [
+    "35157@3",
+    "45242@3",
+    "45603@3",
+    "47808@4",
+    "53499@3",
+    "55026@3",
+    "61630@3",
+    "64937@3",
+    "81152@3",
+    "115811@3",
+    "166089@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

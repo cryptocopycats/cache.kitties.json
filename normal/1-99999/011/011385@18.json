@@ -1,0 +1,22 @@
+{
+  "id": 11385,
+  "name": "Albino",
+  "generation": 18,
+  "created_at": "2017-11-29T07:35:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Albino. I believe that one day cats will rule this planet. I am 66% elf, 93% Train Conductor, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "9779@17",
+  "sire": "9978@16",
+  "children": [
+    "21546@19",
+    "48530@19",
+    "73197@19",
+    "285691@19",
+    "341426@19",
+    "1208515@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

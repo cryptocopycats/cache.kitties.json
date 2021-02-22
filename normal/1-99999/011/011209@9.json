@@ -1,0 +1,21 @@
+{
+  "id": 11209,
+  "name": "B - Gen 9",
+  "generation": 9,
+  "created_at": "2017-11-29T06:22:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm B - Gen 9. I'm a professional Dogwalker and I love cereal. It's not common knowledge, but my ancestry connects me to King Henry VIII. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "2421@0",
+  "sire": "11085@8",
+  "children": [
+    "12735@10",
+    "19785@10",
+    "23842@10",
+    "40859@10",
+    "352422@10"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

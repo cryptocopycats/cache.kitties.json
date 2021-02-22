@@ -1,0 +1,17 @@
+{
+  "id": 10193,
+  "name": "Squirrel",
+  "generation": 12,
+  "created_at": "2017-11-28T19:51:46.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Squirrel. I'm a Dogwalker by day, and I like practicing witchcraft by night. I once dreamed of being a Mad Scientist. Now I can be found pole dancing all day. Let's pawty!",
+  "language": "en",
+  "matron": "5995@5",
+  "sire": "8235@11",
+  "children": [
+    "129942@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

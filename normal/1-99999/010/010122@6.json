@@ -1,0 +1,20 @@
+{
+  "id": 10122,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-28T17:30:42.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #10122. My friends describe me as voluptuous and raunchy. I was voted biggest teacher's pet in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7903@5",
+  "sire": "3112@2",
+  "children": [
+    "10478@11",
+    "10607@7",
+    "10782@12",
+    "12274@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10844,
+  "name": "Milu",
+  "generation": 11,
+  "created_at": "2017-11-29T03:09:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Milu. I'm a professional Aerobics Athlete  and I love hamburgers. I once made a dolphin leap. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8389@10",
+  "sire": "10275@8",
+  "children": [
+    "10978@12",
+    "11304@17",
+    "12503@12",
+    "15606@12",
+    "19721@12",
+    "29980@15",
+    "66816@12",
+    "168289@16",
+    "343714@18",
+    "371880@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

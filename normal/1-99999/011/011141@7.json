@@ -1,0 +1,21 @@
+{
+  "id": 11141,
+  "name": "Donald Tramp",
+  "generation": 7,
+  "created_at": "2017-11-29T05:57:19.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Donald Tramp. I'm a professional Aerobics Athlete  and I love steak. Some people say I'm the Neville Longbottom of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10843@6",
+  "sire": "10862@6",
+  "children": [
+    "11276@9",
+    "11499@11",
+    "11526@8",
+    "14905@13",
+    "28537@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

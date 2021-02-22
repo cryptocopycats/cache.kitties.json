@@ -1,0 +1,19 @@
+{
+  "id": 10247,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-28T21:42:37.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 17. I've never told anyone this, but I once cleaned a dog. Sometimes I daydream of a life full of shakin' dat booty, apple pie, and siring for status. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8095@16",
+  "sire": "6850@14",
+  "children": [
+    "11931@18",
+    "67181@18",
+    "94675@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

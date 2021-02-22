@@ -1,0 +1,21 @@
+{
+  "id": 10061,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-28T15:07:19.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #10061. I'm often referred to as the Steve Urkel of the group. I like to listen to Gloria Estefan while grooming. Don't judge me. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "6506@12",
+  "sire": "8545@12",
+  "children": [
+    "12689@14",
+    "18138@16",
+    "21749@17",
+    "51751@17",
+    "210051@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

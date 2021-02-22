@@ -1,0 +1,18 @@
+{
+  "id": 11931,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-11-29T12:54:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 18. I want to live in a world where people believe the world is flat. I like to listen to Wutang while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10247@17",
+  "sire": "6461@12",
+  "children": [
+    "61395@19",
+    "81008@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

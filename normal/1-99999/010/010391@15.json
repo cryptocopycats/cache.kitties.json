@@ -1,0 +1,21 @@
+{
+  "id": 10391,
+  "name": "Reliable Starter Cat",
+  "generation": 15,
+  "created_at": "2017-11-28T23:29:13.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's Reliable Starter Cat. I once peed on Confucius's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Confucius. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "3029@1",
+  "sire": "6743@14",
+  "children": [
+    "10437@16",
+    "45277@16",
+    "68195@17",
+    "112297@19",
+    "226815@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

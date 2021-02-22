@@ -1,0 +1,21 @@
+{
+  "id": 10700,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T02:08:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #10700. I want to live in a world where people believe the world is flat. Some people say I'm the Homer Simpson of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "7820@14",
+  "sire": "4360@6",
+  "children": [
+    "11191@16",
+    "12093@16",
+    "16076@16",
+    "163369@16",
+    "175246@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

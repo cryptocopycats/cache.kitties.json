@@ -1,0 +1,21 @@
+{
+  "id": 11293,
+  "name": "Emilie Du Chatelet",
+  "generation": 9,
+  "created_at": "2017-11-29T06:54:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Emilie Du Chatelet. I believe that one day cats will rule this planet. I am 5% fairy, 94% Dogwalker, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "9754@5",
+  "sire": "8990@8",
+  "children": [
+    "11511@10",
+    "62307@20",
+    "71120@15",
+    "76819@20",
+    "86576@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

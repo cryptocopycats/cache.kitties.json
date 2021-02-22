@@ -1,0 +1,19 @@
+{
+  "id": 11448,
+  "name": "Nike G18C3",
+  "generation": 18,
+  "created_at": "2017-11-29T08:12:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Nike G18C3. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "8294@12",
+  "sire": "9079@17",
+  "children": [
+    "11978@19",
+    "17113@19",
+    "30523@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

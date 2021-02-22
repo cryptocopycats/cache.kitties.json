@@ -1,0 +1,18 @@
+{
+  "id": 11274,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-29T06:47:52.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #11274. I want to live in a world where people believe the world is flat. I am 94% gremlin, 97% Skydiving Instructor, and otherwise bad at math. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "8535@15",
+  "sire": "8222@18",
+  "children": [
+    "12339@20",
+    "19232@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

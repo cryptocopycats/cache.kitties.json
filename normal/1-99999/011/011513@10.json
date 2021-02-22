@@ -1,0 +1,22 @@
+{
+  "id": 11513,
+  "name": "Sailor Dady Gen10",
+  "generation": 10,
+  "created_at": "2017-11-29T08:46:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Sailor Dady Gen10. I believe that one day cats will rule this planet. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11066@9",
+  "sire": "11076@7",
+  "children": [
+    "11930@11",
+    "13704@11",
+    "14853@14",
+    "16797@14",
+    "19291@14",
+    "27229@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

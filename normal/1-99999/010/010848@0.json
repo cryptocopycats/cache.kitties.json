@@ -1,0 +1,27 @@
+{
+  "id": 10848,
+  "name": "Knock Knock",
+  "generation": 0,
+  "created_at": "2017-11-29T03:12:36.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Knock Knock. I'm a professional Spin Instructor  and I love cereal. I am 5% gremlin, 6% Dogwalker, and otherwise bad at math. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "10901@1",
+    "10929@1",
+    "11754@18",
+    "11786@11",
+    "11841@10",
+    "12018@13",
+    "12376@13",
+    "30385@1",
+    "30843@1",
+    "48515@1",
+    "249801@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

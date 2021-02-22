@@ -1,0 +1,19 @@
+{
+  "id": 11714,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-29T10:46:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #11714. All you need to know about me is I hate salad with a passion. Some people say I'm the Chandler Bing of the group. I look forward to tripping my owner with you.",
+  "language": "en",
+  "matron": "11657@0",
+  "sire": "1154@0",
+  "children": [
+    "11805@2",
+    "11831@3",
+    "11895@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

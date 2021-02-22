@@ -1,0 +1,18 @@
+{
+  "id": 11416,
+  "name": "Mint",
+  "generation": 21,
+  "created_at": "2017-11-29T07:54:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Mint. I'm a Ventriloquist by day, and I like prank-calling celebrities by night. I like to listen to Mariah Carey while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8093@8",
+  "sire": "11025@20",
+  "children": [
+    "12366@22",
+    "26699@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

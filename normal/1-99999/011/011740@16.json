@@ -1,0 +1,19 @@
+{
+  "id": 11740,
+  "name": "Eugene",
+  "generation": 16,
+  "created_at": "2017-11-29T11:05:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Eugene. I've never told anyone this, but I once clawed a dog. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "9493@11",
+  "sire": "9658@15",
+  "children": [
+    "15350@17",
+    "40186@17",
+    "69193@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

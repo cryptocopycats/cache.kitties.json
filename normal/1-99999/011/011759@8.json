@@ -1,0 +1,25 @@
+{
+  "id": 11759,
+  "name": "Market $1.50",
+  "generation": 8,
+  "created_at": "2017-11-29T11:22:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Market $1.50. All you need to know about me is I hate chocolate with a passion. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "4830@6",
+  "sire": "4832@7",
+  "children": [
+    "12016@10",
+    "13084@10",
+    "13570@10",
+    "15974@10",
+    "17764@10",
+    "21836@9",
+    "45373@17",
+    "107230@18",
+    "432307@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

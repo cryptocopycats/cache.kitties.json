@@ -1,0 +1,18 @@
+{
+  "id": 10725,
+  "name": "Leaper - Gen13",
+  "generation": 13,
+  "created_at": "2017-11-29T02:26:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Leaper - Gen13. In high school, I was voted most likely to work at NASA. I like to listen to Wutang while grooming. Don't judge me. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "9867@12",
+  "sire": "10171@12",
+  "children": [
+    "10898@14",
+    "74210@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

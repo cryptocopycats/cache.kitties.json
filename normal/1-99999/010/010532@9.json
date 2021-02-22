@@ -1,0 +1,24 @@
+{
+  "id": 10532,
+  "name": "beard, limegreen",
+  "generation": 9,
+  "created_at": "2017-11-29T00:36:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm beard, limegreen. My friends describe me as prickly and gullible. I once made a labradoodle trot. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8330@7",
+  "sire": "10458@8",
+  "children": [
+    "10758@10",
+    "12193@11",
+    "12597@10",
+    "13877@13",
+    "16430@16",
+    "35969@15",
+    "67299@16",
+    "76677@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

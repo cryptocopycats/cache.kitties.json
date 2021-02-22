@@ -1,0 +1,23 @@
+{
+  "id": 10779,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-29T02:49:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #10779. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of licking doorknobs, ice cream, and summoning ghosts. I like your face.",
+  "language": "en",
+  "matron": "10762@4",
+  "sire": "10757@5",
+  "children": [
+    "10851@12",
+    "10923@9",
+    "11183@14",
+    "13630@15",
+    "15507@15",
+    "28381@10",
+    "37335@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

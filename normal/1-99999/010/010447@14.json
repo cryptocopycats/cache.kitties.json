@@ -1,0 +1,22 @@
+{
+  "id": 10447,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-28T23:53:57.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #10447. All you need to know about me is I hate cereal with a passion. When no one's home, I invite my pals over and we listen to Ace of Base. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "9939@13",
+  "sire": "8056@13",
+  "children": [
+    "10967@15",
+    "11926@15",
+    "15535@15",
+    "21342@15",
+    "36818@15",
+    "140854@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

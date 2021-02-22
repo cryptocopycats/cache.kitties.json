@@ -1,0 +1,19 @@
+{
+  "id": 10790,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-29T02:55:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #10790. I believe the world is flat. Sometimes I daydream of a life full of glaring at the neighbour's cat, cereal, and reading Danielle Steele. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8526@13",
+  "sire": "8620@18",
+  "children": [
+    "12338@20",
+    "19206@20",
+    "19440@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

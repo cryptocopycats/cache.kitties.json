@@ -1,0 +1,20 @@
+{
+  "id": 10372,
+  "name": "RARE GEN 2",
+  "generation": 2,
+  "created_at": "2017-11-28T23:24:07.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm RARE GEN 2. I'm often referred to as the Dwight Schrute of the group. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "10359@1",
+  "sire": "2694@0",
+  "children": [
+    "13482@3",
+    "13549@3",
+    "96195@3",
+    "98197@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10466,
+  "name": "Brisk Bay",
+  "generation": 12,
+  "created_at": "2017-11-29T00:02:56.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Brisk Bay. My friends describe me as gullible and fabulous. I would give it all up to be on Oprah. Let's pawty!",
+  "language": "en",
+  "matron": "10394@2",
+  "sire": "10455@11",
+  "children": [
+    "10601@13",
+    "11057@13",
+    "16346@15",
+    "72844@15",
+    "94208@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

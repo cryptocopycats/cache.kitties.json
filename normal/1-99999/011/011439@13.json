@@ -1,0 +1,17 @@
+{
+  "id": 11439,
+  "name": "Gold",
+  "generation": 13,
+  "created_at": "2017-11-29T08:12:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gold. All you need to know about me is I hate chocolate with a passion. I once got in a fight with a rooster, and won. Our friendship will be ridiculous, tantalizing, and full of wet food.",
+  "language": "en",
+  "matron": "7339@12",
+  "sire": "3808@10",
+  "children": [
+    "21875@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 11961,
+  "name": "Lapremy",
+  "generation": 13,
+  "created_at": "2017-11-29T13:09:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Lapremy. I'm a Mad Scientist by day, and I like jump-roping by night. I was voted most likely to work at NASA in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10293@10",
+  "sire": "7346@12",
+  "children": [
+    "63699@20",
+    "73394@15",
+    "176998@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

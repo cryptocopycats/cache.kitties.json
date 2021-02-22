@@ -1,0 +1,18 @@
+{
+  "id": 10346,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-28T23:04:59.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #10346. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "1246@0",
+  "sire": "10307@15",
+  "children": [
+    "15478@17",
+    "29262@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 11077,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T05:22:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #11077. I'm often referred to as the Steve Urkel of the group. My friends describe me as \"stinky.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "10451@14",
+  "sire": "4273@5",
+  "children": [
+    "11808@16",
+    "18821@16",
+    "251471@16",
+    "290522@16",
+    "350019@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

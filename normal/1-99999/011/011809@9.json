@@ -1,0 +1,27 @@
+{
+  "id": 11809,
+  "name": "Musya Pusya",
+  "generation": 9,
+  "created_at": "2017-11-29T11:44:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Musya Pusya. I believe the world is flat. My friends describe me as \"raunchy.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "10722@5",
+  "sire": "10588@8",
+  "children": [
+    "11876@10",
+    "12138@12",
+    "12443@12",
+    "13548@16",
+    "15285@16",
+    "20089@12",
+    "57930@13",
+    "61602@10",
+    "183392@22",
+    "365658@22",
+    "1515071@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

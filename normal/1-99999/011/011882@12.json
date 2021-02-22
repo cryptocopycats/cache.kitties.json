@@ -1,0 +1,21 @@
+{
+  "id": 11882,
+  "name": "G12",
+  "generation": 12,
+  "created_at": "2017-11-29T12:28:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm G12. All you need to know about me is I hate wet food with a passion. I like to listen to Frank Sinatra while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11181@11",
+  "sire": "5149@4",
+  "children": [
+    "11991@13",
+    "12946@13",
+    "14878@13",
+    "18868@13",
+    "116085@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

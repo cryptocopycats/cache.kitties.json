@@ -1,0 +1,29 @@
+{
+  "id": 10624,
+  "name": "Father of a sailor",
+  "generation": 1,
+  "created_at": "2017-11-29T01:30:19.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Father of a sailor. I enjoy tricking babies, taking selfies, and riding dirty. I like to listen to Ace of Base while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "1033@0",
+  "sire": "2051@0",
+  "children": [
+    "11531@4",
+    "11680@12",
+    "11701@4",
+    "11898@4",
+    "12428@14",
+    "12445@13",
+    "12589@14",
+    "13890@13",
+    "17053@13",
+    "21538@2",
+    "57992@3",
+    "127978@2",
+    "129506@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

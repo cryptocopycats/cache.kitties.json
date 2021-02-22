@@ -1,0 +1,26 @@
+{
+  "id": 10329,
+  "name": "Shneebley",
+  "generation": 7,
+  "created_at": "2017-11-28T22:55:52.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Shneebley. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Cersei Lannister of the group. Will you be the peanut butter to my garlic butter?",
+  "language": "en",
+  "matron": "4177@6",
+  "sire": "2681@0",
+  "children": [
+    "10664@12",
+    "11620@8",
+    "28437@10",
+    "72604@10",
+    "106797@8",
+    "109018@12",
+    "116143@8",
+    "137196@8",
+    "174176@8",
+    "275035@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

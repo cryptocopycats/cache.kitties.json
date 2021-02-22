@@ -1,0 +1,19 @@
+{
+  "id": 10231,
+  "name": "Crunge",
+  "generation": 12,
+  "created_at": "2017-11-28T21:13:59.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Crunge. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I look forward to fighting the patriarchy with you.",
+  "language": "en",
+  "matron": "9852@6",
+  "sire": "5341@11",
+  "children": [
+    "20720@20",
+    "31445@13",
+    "63650@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

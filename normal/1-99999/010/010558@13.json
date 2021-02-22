@@ -1,0 +1,20 @@
+{
+  "id": 10558,
+  "name": "Old 10558",
+  "generation": 13,
+  "created_at": "2017-11-29T00:55:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Old 10558. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as wondrous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10499@5",
+  "sire": "10534@12",
+  "children": [
+    "11461@14",
+    "11660@14",
+    "49490@14",
+    "102773@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

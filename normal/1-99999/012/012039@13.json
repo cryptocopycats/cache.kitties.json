@@ -1,0 +1,17 @@
+{
+  "id": 12039,
+  "name": "Lisa",
+  "generation": 13,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Lisa. I'm often referred to as the Lisa Simpson of the group. Sometimes I daydream of a life full of glaring at the neighbour's cat, steak, and volunteering at the local kitten rescue shelter. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8060@12",
+  "sire": "6417@8",
+  "children": [
+    "15966@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 10895,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #10895. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "8436@5",
+  "sire": "10166@13",
+  "children": [
+    "12136@15",
+    "14359@15",
+    "20583@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

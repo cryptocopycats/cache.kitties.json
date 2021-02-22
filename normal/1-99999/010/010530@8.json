@@ -1,0 +1,21 @@
+{
+  "id": 10530,
+  "name": "www.kittyhats.co",
+  "generation": 8,
+  "created_at": "2017-11-29T00:36:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm www.kittyhats.co. My friends describe me as ridiculous and hairy. It's not common knowledge, but my ancestry connects me to Cleopatra. Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "9202@7",
+  "sire": "10108@5",
+  "children": [
+    "12191@16",
+    "12454@13",
+    "12511@11",
+    "13543@11",
+    "14183@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10932,
+  "name": "Sephora OTAKU",
+  "generation": 11,
+  "created_at": "2017-11-29T03:59:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Sephora OTAKU. I believe that one day cats will rule this planet. When I'm not playing chess, I'm pole dancing! Let's get busy!",
+  "language": "en",
+  "matron": "6083@10",
+  "sire": "10248@10",
+  "children": [
+    "12745@12",
+    "13330@15",
+    "14322@18",
+    "15138@17",
+    "20962@13",
+    "25490@18",
+    "116757@19",
+    "178268@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

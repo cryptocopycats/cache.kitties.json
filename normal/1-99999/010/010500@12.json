@@ -1,0 +1,22 @@
+{
+  "id": 10500,
+  "name": "Lorenzo Mustache",
+  "generation": 12,
+  "created_at": "2017-11-29T00:20:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Lorenzo Mustache. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "10321@6",
+  "sire": "10416@11",
+  "children": [
+    "11928@13",
+    "28845@13",
+    "35452@15",
+    "45331@15",
+    "76122@13",
+    "122641@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

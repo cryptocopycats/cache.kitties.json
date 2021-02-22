@@ -1,0 +1,19 @@
+{
+  "id": 10610,
+  "name": "16",
+  "generation": 16,
+  "created_at": "2017-11-29T01:25:19.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm 16. I'm a professional Dispensary Clerk and I love apple pie. I once dreamed of being a Dogwalker. Now I can be found jump-roping all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "9967@15",
+  "sire": "9977@14",
+  "children": [
+    "13761@17",
+    "24468@17",
+    "62000@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

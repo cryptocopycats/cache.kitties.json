@@ -1,0 +1,20 @@
+{
+  "id": 10513,
+  "name": "JonSnow",
+  "generation": 15,
+  "created_at": "2017-11-29T00:26:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm JonSnow. I'm a Dispensary Clerk by day, and I like jump-roping by night. I once kissed a moose. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "9552@13",
+  "sire": "5561@14",
+  "children": [
+    "19340@16",
+    "39196@16",
+    "59323@16",
+    "93727@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 10701,
+  "name": "Kitty #10701",
+  "generation": 4,
+  "created_at": "2017-11-29T02:12:30.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #10701. My friends describe me as petulant and despicable. I once got in a fight with a platypus, and won. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "10688@3",
+  "sire": "1260@0",
+  "children": [
+    "10829@9",
+    "10831@5",
+    "10971@9",
+    "11140@9",
+    "11431@7",
+    "13648@14",
+    "14133@15",
+    "18038@10",
+    "22174@7",
+    "40048@18",
+    "99797@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

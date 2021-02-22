@@ -1,0 +1,19 @@
+{
+  "id": 11671,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-29T10:18:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #11671. I enjoy shakin' dat booty, taking selfies, and watching Stranger Things. I once dreamed of being a Dispensary Clerk. Now I can be found mocking dogs all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8382@11",
+  "sire": "2753@0",
+  "children": [
+    "12052@13",
+    "13844@13",
+    "42314@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

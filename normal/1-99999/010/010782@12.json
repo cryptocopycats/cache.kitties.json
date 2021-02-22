@@ -1,0 +1,21 @@
+{
+  "id": 10782,
+  "name": "BeardedKitty",
+  "generation": 12,
+  "created_at": "2017-11-29T02:50:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm BeardedKitty. I'm a professional Dispensary Clerk and I love chocolate. It's not common knowledge, but my ancestry connects me to Princess Diana. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "9325@11",
+  "sire": "10122@6",
+  "children": [
+    "12279@14",
+    "19156@18",
+    "20716@13",
+    "25701@19",
+    "55191@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

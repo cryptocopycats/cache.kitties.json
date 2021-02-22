@@ -1,0 +1,19 @@
+{
+  "id": 10419,
+  "name": "Gru",
+  "generation": 3,
+  "created_at": "2017-11-28T23:41:52.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gru. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found despicable or pole dancing. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5883@2",
+  "sire": "2495@0",
+  "children": [
+    "10937@10",
+    "15336@4",
+    "26921@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

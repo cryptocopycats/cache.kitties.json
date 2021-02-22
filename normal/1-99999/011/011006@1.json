@@ -1,0 +1,30 @@
+{
+  "id": 11006,
+  "name": "G1-1A-10",
+  "generation": 1,
+  "created_at": "2017-11-29T04:50:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm G1-1A-10. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Metallica. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "2181@0",
+  "sire": "1299@0",
+  "children": [
+    "144525@2",
+    "144811@2",
+    "145020@2",
+    "145316@2",
+    "145908@2",
+    "146672@2",
+    "152329@2",
+    "153022@2",
+    "158796@2",
+    "180866@2",
+    "224877@2",
+    "227766@2",
+    "346877@2",
+    "381744@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

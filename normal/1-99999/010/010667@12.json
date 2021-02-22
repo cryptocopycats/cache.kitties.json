@@ -1,0 +1,23 @@
+{
+  "id": 10667,
+  "name": "Kate Katovichus",
+  "generation": 12,
+  "created_at": "2017-11-29T01:51:56.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kate Katovichus. I believe the world is flat. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8301@6",
+  "sire": "9192@11",
+  "children": [
+    "12194@13",
+    "13085@13",
+    "14864@15",
+    "20984@13",
+    "25169@15",
+    "65494@13",
+    "132083@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10364,
+  "name": "Kitty",
+  "generation": 5,
+  "created_at": "2017-11-28T23:19:02.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty. I believe that one day cats will rule this planet. My secret indulgence is steak. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10342@4",
+  "sire": "10258@1",
+  "children": [
+    "13199@6",
+    "13495@21",
+    "19559@23",
+    "23047@6",
+    "25768@24",
+    "29255@25",
+    "32841@6",
+    "53484@15",
+    "117986@23",
+    "279195@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

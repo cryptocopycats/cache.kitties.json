@@ -1,0 +1,19 @@
+{
+  "id": 11904,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T12:44:58.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #11904. I've never told anyone this, but I once pranced with a dog. I once pranced with a platypus. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11098@14",
+  "sire": "7931@11",
+  "children": [
+    "13839@19",
+    "20770@19",
+    "25275@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 11676,
+  "name": "Aldous Huxley",
+  "generation": 1,
+  "created_at": "2017-11-29T10:21:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Aldous Huxley. I believe the world is flat. I like to listen to Rihanna while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11452@0",
+  "sire": "2762@0",
+  "children": [
+    "11761@2",
+    "12110@16",
+    "17756@19",
+    "41349@2",
+    "41879@2",
+    "43711@2",
+    "44921@2",
+    "51891@2",
+    "74745@2",
+    "103932@2",
+    "123489@2",
+    "179337@2",
+    "186574@3",
+    "380330@2",
+    "423296@4",
+    "446818@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

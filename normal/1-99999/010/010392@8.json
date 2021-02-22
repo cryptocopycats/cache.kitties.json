@@ -1,0 +1,20 @@
+{
+  "id": 10392,
+  "name": "Chip Gaines G8",
+  "generation": 8,
+  "created_at": "2017-11-28T23:31:11.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Chip Gaines G8. My friends describe me as prickly and brilliant. I put pickles on everything. Like, everything: hot dogs, cereal—everything! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3074@2",
+  "sire": "8486@7",
+  "children": [
+    "10517@9",
+    "45278@12",
+    "48388@12",
+    "211790@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

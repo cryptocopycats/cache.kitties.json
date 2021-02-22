@@ -1,0 +1,26 @@
+{
+  "id": 10830,
+  "name": "Kitty King",
+  "generation": 7,
+  "created_at": "2017-11-29T03:04:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty King. All you need to know about me is I hate salad with a passion. I like to listen to Frank Sinatra while grooming. Don't judge me. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10768@6",
+  "sire": "10786@5",
+  "children": [
+    "10973@8",
+    "11074@9",
+    "11285@8",
+    "11519@9",
+    "14546@8",
+    "16594@10",
+    "18193@9",
+    "22846@16",
+    "58837@16",
+    "157049@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

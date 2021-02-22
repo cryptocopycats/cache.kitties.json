@@ -1,0 +1,18 @@
+{
+  "id": 11065,
+  "name": "Pawlette 02",
+  "generation": 2,
+  "created_at": "2017-11-29T05:15:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Pawlette 02. My friends describe me as smelly and stinky. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "10982@1",
+  "sire": "2591@0",
+  "children": [
+    "11177@5",
+    "11869@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

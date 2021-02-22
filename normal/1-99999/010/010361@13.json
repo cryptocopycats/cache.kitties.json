@@ -1,0 +1,17 @@
+{
+  "id": 10361,
+  "name": "ForeignFilmDirector",
+  "generation": 13,
+  "created_at": "2017-11-28T23:16:14.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm ForeignFilmDirector. I'm a professional Foreign Film Director and I love salad. Some people say I'm the Hermione Granger of the group. Let's pawty!",
+  "language": "en",
+  "matron": "3194@2",
+  "sire": "5697@12",
+  "children": [
+    "12641@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

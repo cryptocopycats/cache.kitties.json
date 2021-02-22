@@ -1,0 +1,20 @@
+{
+  "id": 12023,
+  "name": "Red Tiger",
+  "generation": 9,
+  "created_at": "2017-11-29T13:37:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Red Tiger. I want to live in a world where people believe that one day cats will rule this planet. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8397@8",
+  "sire": "2002@0",
+  "children": [
+    "12109@13",
+    "51228@10",
+    "71487@18",
+    "96834@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

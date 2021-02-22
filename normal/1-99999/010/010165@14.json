@@ -1,0 +1,22 @@
+{
+  "id": 10165,
+  "name": "Ploof",
+  "generation": 14,
+  "created_at": "2017-11-28T18:58:03.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Ploof. All you need to know about me is I hate chocolate with a passion. I was voted school jock in college. Will you be the ranch dressing to my pickles?",
+  "language": "en",
+  "matron": "9209@12",
+  "sire": "9183@13",
+  "children": [
+    "10234@15",
+    "11386@15",
+    "15252@15",
+    "22565@15",
+    "31026@17",
+    "115655@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

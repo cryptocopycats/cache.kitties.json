@@ -1,0 +1,25 @@
+{
+  "id": 11035,
+  "name": "Elisavetta  | Gen10",
+  "generation": 10,
+  "created_at": "2017-11-29T05:02:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Elisavetta  | Gen10. I believe the world is flat. My secret indulgence is chocolate. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "10924@4",
+  "sire": "11016@9",
+  "children": [
+    "11208@11",
+    "12387@11",
+    "13598@13",
+    "15463@13",
+    "29792@20",
+    "55472@19",
+    "74142@15",
+    "259483@11",
+    "369548@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

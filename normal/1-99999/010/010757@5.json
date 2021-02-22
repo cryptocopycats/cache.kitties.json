@@ -1,0 +1,22 @@
+{
+  "id": 10757,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-29T02:39:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #10757. I've never told anyone this, but I once loved a dog. When I'm not prank-calling celebrities, I'm jump-roping! Let's pawty!",
+  "language": "en",
+  "matron": "10556@2",
+  "sire": "10712@4",
+  "children": [
+    "10779@6",
+    "10858@6",
+    "10991@8",
+    "11163@9",
+    "14085@9",
+    "14789@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

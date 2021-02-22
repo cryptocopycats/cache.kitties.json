@@ -1,0 +1,25 @@
+{
+  "id": 10342,
+  "name": "Kitty #10342",
+  "generation": 4,
+  "created_at": "2017-11-28T23:02:19.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #10342. I believe the world is flat. I once clawed a chimpanzee. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3115@3",
+  "sire": "3011@1",
+  "children": [
+    "10364@5",
+    "10402@5",
+    "10499@5",
+    "10628@5",
+    "11176@9",
+    "11498@12",
+    "16454@9",
+    "31403@5",
+    "71119@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

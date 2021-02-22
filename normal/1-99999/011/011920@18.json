@@ -1,0 +1,19 @@
+{
+  "id": 11920,
+  "name": "Spots",
+  "generation": 18,
+  "created_at": "2017-11-29T12:50:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Spots. All you need to know about me is I hate hamburgers with a passion. I like to listen to Coldplay while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "11883@0",
+  "sire": "11845@17",
+  "children": [
+    "15028@19",
+    "17664@19",
+    "50662@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

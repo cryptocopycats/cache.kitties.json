@@ -1,0 +1,18 @@
+{
+  "id": 11539,
+  "name": "Snarky Furrybutt",
+  "generation": 16,
+  "created_at": "2017-11-29T09:03:19.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Snarky Furrybutt. In high school, I was voted school jock. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": "6682@15",
+  "sire": "10562@13",
+  "children": [
+    "13143@17",
+    "21079@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

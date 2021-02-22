@@ -1,0 +1,19 @@
+{
+  "id": 12033,
+  "name": "Catanova",
+  "generation": 13,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Catanova. I'm a Dogwalker by day, and I like practicing witchcraft by night. Some people say I'm the Jon Snow of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5275@12",
+  "sire": "5287@12",
+  "children": [
+    "59944@14",
+    "71535@14",
+    "245996@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

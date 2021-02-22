@@ -1,0 +1,22 @@
+{
+  "id": 11801,
+  "name": "Himalaya",
+  "generation": 10,
+  "created_at": "2017-11-29T11:43:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Himalaya. I've never told anyone this, but I once pranced with a dog. My friends describe me as \"brilliant.\" It's... accurate. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "6149@9",
+  "sire": "10438@9",
+  "children": [
+    "15131@15",
+    "45744@16",
+    "48538@20",
+    "69781@13",
+    "102909@14",
+    "133718@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 11180,
+  "name": "3/4 Shipcat",
+  "generation": 7,
+  "created_at": "2017-11-29T06:09:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm 3/4 Shipcat. I've never told anyone this, but I once clawed a dog. My great-great-great-great-great-great grandkitty lived with Confucius. Let's pawty!",
+  "language": "en",
+  "matron": "11137@6",
+  "sire": "6169@2",
+  "children": [
+    "11736@10",
+    "13074@10",
+    "13427@18",
+    "15495@18",
+    "18547@14",
+    "21126@9",
+    "24133@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

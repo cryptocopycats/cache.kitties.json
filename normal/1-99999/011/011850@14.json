@@ -1,0 +1,23 @@
+{
+  "id": 11850,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T12:08:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #11850. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8056@13",
+  "sire": "9939@13",
+  "children": [
+    "12930@17",
+    "15007@16",
+    "19075@17",
+    "24736@17",
+    "53270@17",
+    "159891@17",
+    "328748@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 10256,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-28T21:51:35.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Kitty #10256. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Hermione Granger of the group. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "1282@0",
+  "sire": "6865@2",
+  "children": [
+    "12730@4",
+    "14149@16",
+    "15434@14",
+    "15764@6",
+    "16141@6",
+    "86314@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

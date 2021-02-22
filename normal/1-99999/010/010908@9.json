@@ -1,0 +1,19 @@
+{
+  "id": 10908,
+  "name": "Gen 09, PLod",
+  "generation": 9,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 09, PLod. I'm a Aerobics Athlete  by day, and I like watching reality tv by night. I'm often described as gorgeous, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3805@6",
+  "sire": "5974@8",
+  "children": [
+    "11280@10",
+    "12410@13",
+    "14574@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

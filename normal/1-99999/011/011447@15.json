@@ -1,0 +1,22 @@
+{
+  "id": 11447,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T08:12:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #11447. My friends describe me as vegan and wondrous. I'm often described as stinky, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10930@14",
+  "sire": "10670@13",
+  "children": [
+    "12960@16",
+    "14997@16",
+    "19058@16",
+    "24765@16",
+    "57748@16",
+    "159923@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

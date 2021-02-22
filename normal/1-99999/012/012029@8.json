@@ -1,0 +1,21 @@
+{
+  "id": 12029,
+  "name": "Lemon Wiskers | Gen8 & Brisk",
+  "generation": 8,
+  "created_at": "2017-11-29T13:37:57.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Lemon Wiskers | Gen8 & Brisk. I've never told anyone this, but I once tricked a dog. I once got in a fight with a dolphin, and won. I like your face.",
+  "language": "en",
+  "matron": "11491@7",
+  "sire": "3626@3",
+  "children": [
+    "15782@9",
+    "16098@9",
+    "32179@9",
+    "36255@12",
+    "50887@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

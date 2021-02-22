@@ -1,0 +1,20 @@
+{
+  "id": 10152,
+  "name": "#10152 laperm sire",
+  "generation": 12,
+  "created_at": "2017-11-28T18:30:05.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm #10152 laperm sire. I've never told anyone this, but I once loved a dog. I once loved a rhino. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "9251@3",
+  "sire": "8478@11",
+  "children": [
+    "10162@13",
+    "12834@15",
+    "27889@13",
+    "91930@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

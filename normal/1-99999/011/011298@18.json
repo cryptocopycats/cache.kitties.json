@@ -1,0 +1,18 @@
+{
+  "id": 11298,
+  "name": "Rock Candy",
+  "generation": 18,
+  "created_at": "2017-11-29T06:55:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Rock Candy. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6060@10",
+  "sire": "8085@17",
+  "children": [
+    "13510@19",
+    "25865@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

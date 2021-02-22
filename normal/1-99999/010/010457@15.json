@@ -1,0 +1,19 @@
+{
+  "id": 10457,
+  "name": "Sour Cream",
+  "generation": 15,
+  "created_at": "2017-11-28T23:59:54.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Sour Cream. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Homer Simpson of the group. Our friendship will be smelly, prickly, and full of salad.",
+  "language": "en",
+  "matron": "6898@11",
+  "sire": "6909@14",
+  "children": [
+    "11004@16",
+    "11481@16",
+    "15591@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

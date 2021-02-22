@@ -1,0 +1,17 @@
+{
+  "id": 10365,
+  "name": "Fox",
+  "generation": 9,
+  "created_at": "2017-11-28T23:19:02.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Fox. I'm a Spin Instructor  by day, and I like summoning ghosts by night. When I'm not sleeping in fresh laundry, I'm swiping left! Our friendship will be ridiculous, annoying, and full of cereal.",
+  "language": "en",
+  "matron": "4148@8",
+  "sire": "8192@1",
+  "children": [
+    "13157@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

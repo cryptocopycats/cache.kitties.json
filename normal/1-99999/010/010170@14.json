@@ -1,0 +1,18 @@
+{
+  "id": 10170,
+  "name": "PartyAnimal",
+  "generation": 14,
+  "created_at": "2017-11-28T19:07:10.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm PartyAnimal. All you need to know about me is I hate cereal with a passion. I once made a rabbit ignore. Let's pawty!",
+  "language": "en",
+  "matron": "5687@10",
+  "sire": "8968@13",
+  "children": [
+    "10504@15",
+    "12163@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

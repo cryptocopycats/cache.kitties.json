@@ -1,0 +1,20 @@
+{
+  "id": 10205,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-28T20:08:38.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #10205. I'm a Foreign Film Director by day, and I like swiping left by night. In my free time, I can usually be found petulant or summoning ghosts. Will you be the garlic butter to my pickles?",
+  "language": "en",
+  "matron": "7689@8",
+  "sire": "9437@10",
+  "children": [
+    "10456@12",
+    "10617@12",
+    "12382@12",
+    "27113@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

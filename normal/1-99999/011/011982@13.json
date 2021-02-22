@@ -1,0 +1,23 @@
+{
+  "id": 11982,
+  "name": "Eliot",
+  "generation": 13,
+  "created_at": "2017-11-29T13:19:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Eliot. All you need to know about me is I hate salad with a passion. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "11594@10",
+  "sire": "7978@12",
+  "children": [
+    "12350@14",
+    "13381@14",
+    "14364@16",
+    "16777@14",
+    "28915@14",
+    "71338@14",
+    "174511@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

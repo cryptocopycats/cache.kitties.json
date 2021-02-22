@@ -1,0 +1,24 @@
+{
+  "id": 10572,
+  "name": "Gen 8 Shadowgrey Tigerpunk II",
+  "generation": 8,
+  "created_at": "2017-11-29T01:05:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 8 Shadowgrey Tigerpunk II. In high school, I was voted biggest teacher's pet. I like to listen to Ace of Base while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "4273@5",
+  "sire": "6726@7",
+  "children": [
+    "59752@9",
+    "61026@9",
+    "68372@9",
+    "73564@9",
+    "75963@9",
+    "90344@9",
+    "115676@10",
+    "142041@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

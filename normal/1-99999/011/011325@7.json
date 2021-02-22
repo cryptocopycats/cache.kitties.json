@@ -1,0 +1,21 @@
+{
+  "id": 11325,
+  "name": "Connie",
+  "generation": 7,
+  "created_at": "2017-11-29T07:05:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Connie. I'm often referred to as the Peter Griffin of the group. In my free time, I can usually be found tantalizing or reading Danielle Steele. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6153@6",
+  "sire": "2580@0",
+  "children": [
+    "11387@10",
+    "11535@8",
+    "12680@8",
+    "13602@9",
+    "16336@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

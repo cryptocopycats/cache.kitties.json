@@ -1,0 +1,20 @@
+{
+  "id": 11868,
+  "name": "Blue Jelly",
+  "generation": 10,
+  "created_at": "2017-11-29T12:20:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Blue Jelly. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Cleopatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11623@8",
+  "sire": "11519@9",
+  "children": [
+    "13687@12",
+    "14761@11",
+    "19100@17",
+    "21221@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

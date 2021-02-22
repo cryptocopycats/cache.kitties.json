@@ -1,0 +1,22 @@
+{
+  "id": 11793,
+  "name": "Cinnamon Latte",
+  "generation": 13,
+  "created_at": "2017-11-29T11:37:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! Cinnamon Latte here. I'm here to enjoy licking doorknobs and reading garfield. Some people say I'm the Samwise Gamgee of the group. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "9931@1",
+  "sire": "9217@12",
+  "children": [
+    "12038@14",
+    "14486@16",
+    "17094@14",
+    "19935@15",
+    "30097@18",
+    "91766@25"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

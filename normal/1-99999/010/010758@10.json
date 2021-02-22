@@ -1,0 +1,24 @@
+{
+  "id": 10758,
+  "name": "Garfield/ Gen 10/ Sluggish",
+  "generation": 10,
+  "created_at": "2017-11-29T02:39:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Garfield/ Gen 10/ Sluggish. I enjoy sitting on your computer, shakin' dat booty, and breakdancing. I once headbutted a gecko. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10178@6",
+  "sire": "10532@9",
+  "children": [
+    "12058@11",
+    "12435@12",
+    "12767@11",
+    "15157@14",
+    "22556@14",
+    "29427@20",
+    "42055@14",
+    "176195@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

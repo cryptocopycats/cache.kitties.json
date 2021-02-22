@@ -1,0 +1,20 @@
+{
+  "id": 10555,
+  "name": "Chimera",
+  "generation": 9,
+  "created_at": "2017-11-29T00:50:46.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Chimera. I want to live in a world where people believe the world is flat. In my free time, I can usually be found gullible or swiping left. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "9195@5",
+  "sire": "10347@8",
+  "children": [
+    "10673@10",
+    "12471@11",
+    "12685@10",
+    "13784@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

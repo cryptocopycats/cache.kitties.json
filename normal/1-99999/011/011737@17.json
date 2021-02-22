@@ -1,0 +1,21 @@
+{
+  "id": 11737,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-29T11:04:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! Kitty #11737 here. I'm here to enjoy chasing red dots and picking on mice. I once made a rhino drink. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2684@0",
+  "sire": "10814@16",
+  "children": [
+    "11766@18",
+    "25677@21",
+    "34649@18",
+    "193259@18",
+    "352771@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

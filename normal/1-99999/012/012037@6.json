@@ -1,0 +1,27 @@
+{
+  "id": 12037,
+  "name": "Missge GEN6",
+  "generation": 6,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Missge GEN6. I've never told anyone this, but I once licked a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4531@4",
+  "sire": "8436@5",
+  "children": [
+    "12074@10",
+    "12181@9",
+    "12690@7",
+    "13821@15",
+    "15253@11",
+    "15750@15",
+    "20304@9",
+    "25687@9",
+    "119552@15",
+    "151015@7",
+    "366527@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

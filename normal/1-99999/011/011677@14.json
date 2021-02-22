@@ -1,0 +1,21 @@
+{
+  "id": 11677,
+  "name": "Excellent Beginner Kitty",
+  "generation": 14,
+  "created_at": "2017-11-29T10:21:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Excellent Beginner Kitty. In high school, I was voted school jock. My secret indulgence is lasagna. Let's pawty!",
+  "language": "en",
+  "matron": "2617@0",
+  "sire": "9938@13",
+  "children": [
+    "15246@15",
+    "19757@15",
+    "27618@15",
+    "42528@15",
+    "357815@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

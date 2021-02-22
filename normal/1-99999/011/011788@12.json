@@ -1,0 +1,23 @@
+{
+  "id": 11788,
+  "name": "Salmon Chestnut Barkbrown",
+  "generation": 12,
+  "created_at": "2017-11-29T11:35:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Salmon Chestnut Barkbrown. I enjoy picking flowers, chasing red dots, and reciting poetry. I once dreamed of being a Mad Scientist. Now I can be found running a podcast all day. Will you be the soy sauce to my maple syrup?",
+  "language": "en",
+  "matron": "7300@10",
+  "sire": "6527@11",
+  "children": [
+    "14319@13",
+    "17864@18",
+    "21483@13",
+    "48537@18",
+    "78808@14",
+    "231039@20",
+    "327919@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

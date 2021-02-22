@@ -1,0 +1,23 @@
+{
+  "id": 11863,
+  "name": "11863",
+  "generation": 11,
+  "created_at": "2017-11-29T12:18:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 11863. I'm often referred to as the Marge Simpson of the group. I would give it all up for a Chanel purse. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "11722@10",
+  "sire": "3843@6",
+  "children": [
+    "16041@12",
+    "22845@13",
+    "26191@20",
+    "28524@19",
+    "43131@16",
+    "65609@16",
+    "171332@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

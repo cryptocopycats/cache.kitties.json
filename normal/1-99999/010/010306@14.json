@@ -1,0 +1,22 @@
+{
+  "id": 10306,
+  "name": "Chestnut",
+  "generation": 14,
+  "created_at": "2017-11-28T22:40:32.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Chestnut. I'm often referred to as the Cersei Lannister of the group. In my free time, I can usually be found voluptuous or riverdancing. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "8143@11",
+  "sire": "8229@13",
+  "children": [
+    "11112@15",
+    "14264@15",
+    "17985@15",
+    "21679@15",
+    "37490@15",
+    "174812@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

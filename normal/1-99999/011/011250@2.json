@@ -1,0 +1,23 @@
+{
+  "id": 11250,
+  "name": "gen2",
+  "generation": 2,
+  "created_at": "2017-11-29T06:38:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm gen2. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "2157@0",
+  "sire": "4427@1",
+  "children": [
+    "21681@15",
+    "30216@17",
+    "39056@18",
+    "48462@14",
+    "55588@18",
+    "73344@16",
+    "82523@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

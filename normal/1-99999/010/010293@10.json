@@ -1,0 +1,20 @@
+{
+  "id": 10293,
+  "name": "happy",
+  "generation": 10,
+  "created_at": "2017-11-28T22:33:56.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm happy. In high school, I was voted school jock. It's not common knowledge, but my ancestry connects me to Princess Diana. Let's pawty!",
+  "language": "en",
+  "matron": "9688@9",
+  "sire": "10255@9",
+  "children": [
+    "10470@13",
+    "11961@13",
+    "14476@11",
+    "19894@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

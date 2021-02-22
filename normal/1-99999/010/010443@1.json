@@ -1,0 +1,20 @@
+{
+  "id": 10443,
+  "name": "g1 boring",
+  "generation": 1,
+  "created_at": "2017-11-28T23:53:30.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm g1 boring. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Michael Bolton. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "2737@0",
+  "sire": "1404@0",
+  "children": [
+    "14320@5",
+    "14397@2",
+    "15146@12",
+    "30621@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

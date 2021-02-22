@@ -1,0 +1,20 @@
+{
+  "id": 11464,
+  "name": "Greeley",
+  "generation": 12,
+  "created_at": "2017-11-29T08:18:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Greeley here. I'm here to enjoy eating lasagna and watching Stranger Things. I was voted most likely to work at NASA in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10619@11",
+  "sire": "1285@0",
+  "children": [
+    "14274@13",
+    "19634@18",
+    "20325@13",
+    "112411@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 11773,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-11-29T11:30:30.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen 12. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Cleopatra. Let's get busy!",
+  "language": "en",
+  "matron": "10805@0",
+  "sire": "11591@11",
+  "children": [
+    "12021@13",
+    "12615@13",
+    "15425@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

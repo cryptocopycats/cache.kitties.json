@@ -1,0 +1,23 @@
+{
+  "id": 11125,
+  "name": "Sired a Sailor",
+  "generation": 6,
+  "created_at": "2017-11-29T05:52:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Sired a Sailor. All you need to know about me is I hate steak with a passion. I once frolicked with a chimpanzee. I don't like to talk about it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10430@3",
+  "sire": "3618@5",
+  "children": [
+    "11306@7",
+    "12202@16",
+    "14923@7",
+    "23429@7",
+    "25587@7",
+    "46530@7",
+    "81207@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

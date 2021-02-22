@@ -1,0 +1,31 @@
+{
+  "id": 11301,
+  "name": "Princess #Gen0",
+  "generation": 0,
+  "created_at": "2017-11-29T06:56:48.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Princess #Gen0. I'm a professional Aerobics Athlete  and I love cereal. I once tricked a rooster. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "11496@13",
+    "11515@2",
+    "11538@1",
+    "11569@1",
+    "11639@1",
+    "11742@1",
+    "11978@19",
+    "12500@19",
+    "19574@1",
+    "39908@1",
+    "79449@1",
+    "186083@1",
+    "293148@1",
+    "445454@1",
+    "494250@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

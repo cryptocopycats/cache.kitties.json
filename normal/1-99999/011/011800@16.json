@@ -1,0 +1,21 @@
+{
+  "id": 11800,
+  "name": "Marilyn",
+  "generation": 16,
+  "created_at": "2017-11-29T11:42:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's Marilyn. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When I'm not sleeping in fresh laundry, I'm pole dancing! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "8507@13",
+  "sire": "9667@15",
+  "children": [
+    "17530@18",
+    "21580@17",
+    "31024@18",
+    "69665@18",
+    "118337@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

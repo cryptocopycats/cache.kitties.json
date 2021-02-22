@@ -1,0 +1,20 @@
+{
+  "id": 10209,
+  "name": "Inspector Clouseau G17C2",
+  "generation": 17,
+  "created_at": "2017-11-28T20:23:34.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Inspector Clouseau G17C2. I enjoy chasing string, eating lasagna, and grooming. I'm often described as despicable, and I own it. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "7438@16",
+  "sire": "3335@1",
+  "children": [
+    "10266@18",
+    "14957@18",
+    "21866@19",
+    "41348@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

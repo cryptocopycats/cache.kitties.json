@@ -1,0 +1,18 @@
+{
+  "id": 10398,
+  "name": "Smelly Kat",
+  "generation": 8,
+  "created_at": "2017-11-28T23:34:50.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! Smelly Kat here. I'm here to enjoy breakdancing and slappin' da bass. I like to listen to Aretha Franklin while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3884@6",
+  "sire": "10292@7",
+  "children": [
+    "14308@13",
+    "60653@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

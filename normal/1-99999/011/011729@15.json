@@ -1,0 +1,19 @@
+{
+  "id": 11729,
+  "name": "The Scientist G15V",
+  "generation": 15,
+  "created_at": "2017-11-29T10:58:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm The Scientist G15V. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found wondrous or riding the bus. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "9527@14",
+  "sire": "6984@13",
+  "children": [
+    "13299@16",
+    "15055@16",
+    "22128@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

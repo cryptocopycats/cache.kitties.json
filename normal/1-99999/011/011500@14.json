@@ -1,0 +1,18 @@
+{
+  "id": 11500,
+  "name": "Winter Sunnybutt",
+  "generation": 14,
+  "created_at": "2017-11-29T08:42:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Winter Sunnybutt. My friends describe me as vegan and seductive. I was voted school jock in college. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "9483@13",
+  "sire": "7115@11",
+  "children": [
+    "15696@19",
+    "21934@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 10388,
+  "name": "Mike",
+  "generation": 2,
+  "created_at": "2017-11-28T23:29:13.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Mike. I'm often referred to as the Cersei Lannister of the group. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "2057@0",
+  "sire": "3019@1",
+  "children": [
+    "10535@6",
+    "35669@3",
+    "37153@3",
+    "37666@3",
+    "38521@3",
+    "40610@3",
+    "50950@3",
+    "62310@3",
+    "87714@3",
+    "117384@3",
+    "139412@3",
+    "416050@3",
+    "1804110@3",
+    "1819697@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

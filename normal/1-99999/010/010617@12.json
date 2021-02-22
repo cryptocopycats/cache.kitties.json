@@ -1,0 +1,20 @@
+{
+  "id": 10617,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-29T01:27:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Kitty #10617. I once peed on Princess Diana's cat. They had it coming. Sometimes I daydream of a life full of picking on mice, wet food, and volunteering at the local kitten rescue shelter. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10441@4",
+  "sire": "10205@11",
+  "children": [
+    "10968@13",
+    "15409@20",
+    "19423@19",
+    "30439@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

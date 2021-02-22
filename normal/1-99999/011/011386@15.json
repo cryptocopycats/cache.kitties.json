@@ -1,0 +1,20 @@
+{
+  "id": 11386,
+  "name": "Beard O",
+  "generation": 15,
+  "created_at": "2017-11-29T07:35:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Beard O. I'm a Ventriloquist by day, and I like sleeping in fresh laundry by night. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "2141@0",
+  "sire": "10165@14",
+  "children": [
+    "12131@16",
+    "14447@16",
+    "19328@16",
+    "72794@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

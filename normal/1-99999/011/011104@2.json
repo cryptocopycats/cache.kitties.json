@@ -1,0 +1,19 @@
+{
+  "id": 11104,
+  "name": "BreedMe",
+  "generation": 2,
+  "created_at": "2017-11-29T05:43:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm BreedMe. I believe that one day cats will rule this planet. I once got in a fight with a chimpanzee, and won. I like your face.",
+  "language": "en",
+  "matron": "11012@1",
+  "sire": "2682@0",
+  "children": [
+    "11118@3",
+    "11233@3",
+    "30471@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

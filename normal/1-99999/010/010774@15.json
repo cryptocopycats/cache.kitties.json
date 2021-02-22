@@ -1,0 +1,20 @@
+{
+  "id": 10774,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T02:48:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Kitty #10774. My friends describe me as annoying and despicable. I was voted school jock in college. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "8483@14",
+  "sire": "5127@11",
+  "children": [
+    "12550@16",
+    "14471@20",
+    "20940@18",
+    "97050@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

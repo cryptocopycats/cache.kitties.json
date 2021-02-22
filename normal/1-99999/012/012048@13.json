@@ -1,0 +1,23 @@
+{
+  "id": 12048,
+  "name": "Thinker",
+  "generation": 13,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Thinker. I believe the world is flat. I would give it all up to star in a soap opera. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "11750@12",
+  "sire": "11483@9",
+  "children": [
+    "13204@14",
+    "13770@14",
+    "24508@14",
+    "35207@15",
+    "43940@16",
+    "114444@19",
+    "159402@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

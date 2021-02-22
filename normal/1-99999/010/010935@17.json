@@ -1,0 +1,20 @@
+{
+  "id": 10935,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-29T04:01:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! My name's Kitty #10935. I once peed on Confucius's cat. They had it coming. In my free time, I can usually be found seductive or tricking babies. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10236@1",
+  "sire": "10681@16",
+  "children": [
+    "13326@18",
+    "17085@18",
+    "22865@19",
+    "116941@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

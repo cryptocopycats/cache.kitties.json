@@ -1,0 +1,23 @@
+{
+  "id": 11624,
+  "name": "Pinky G8",
+  "generation": 8,
+  "created_at": "2017-11-29T09:50:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Pinky G8. I want to live in a world where people believe the world is flat. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10906@7",
+  "sire": "11095@3",
+  "children": [
+    "12221@13",
+    "13733@14",
+    "13939@12",
+    "15054@12",
+    "38300@9",
+    "59478@9",
+    "313402@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 11371,
+  "name": "Snapacup",
+  "generation": 18,
+  "created_at": "2017-11-29T07:31:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Snapacup. I enjoy sitting on your computer, reading garfield, and eating until I loathe myself. I like to listen to Rihanna while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "10956@7",
+  "sire": "9468@17",
+  "children": [
+    "14187@19",
+    "257458@22",
+    "301260@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

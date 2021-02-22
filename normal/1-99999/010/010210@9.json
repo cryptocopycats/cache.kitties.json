@@ -1,0 +1,17 @@
+{
+  "id": 10210,
+  "name": "B - Gen 9",
+  "generation": 9,
+  "created_at": "2017-11-28T20:26:28.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm B - Gen 9. I'm a professional Train Conductor and I love steak. I was voted biggest teacher's pet in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "9712@8",
+  "sire": "2421@0",
+  "children": [
+    "10429@10"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

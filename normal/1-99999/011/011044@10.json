@@ -1,0 +1,24 @@
+{
+  "id": 11044,
+  "name": "Gen 10 | Eugene Bunwater",
+  "generation": 10,
+  "created_at": "2017-11-29T05:09:46.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 10 | Eugene Bunwater. I've never told anyone this, but I once pranced with a dog. I once made a dolphin sulk. I like your face.",
+  "language": "en",
+  "matron": "7774@7",
+  "sire": "10800@9",
+  "children": [
+    "11873@12",
+    "12164@13",
+    "12718@11",
+    "14642@12",
+    "20635@12",
+    "22515@11",
+    "28413@16",
+    "56608@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

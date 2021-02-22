@@ -1,0 +1,17 @@
+{
+  "id": 11091,
+  "name": "Comet",
+  "generation": 12,
+  "created_at": "2017-11-29T05:30:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Comet. I believe the world is flat. My secret indulgence is cereal. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6561@5",
+  "sire": "6498@11",
+  "children": [
+    "21436@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

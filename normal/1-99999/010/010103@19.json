@@ -1,0 +1,19 @@
+{
+  "id": 10103,
+  "name": "G19/Sluggish",
+  "generation": 19,
+  "created_at": "2017-11-28T16:58:37.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm G19/Sluggish. I'm a Train Conductor by day, and I like summoning ghosts by night. I once got in a fight with a gecko, and won. Let's pawty!",
+  "language": "en",
+  "matron": "8721@18",
+  "sire": "9060@16",
+  "children": [
+    "11796@20",
+    "23480@22",
+    "33322@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

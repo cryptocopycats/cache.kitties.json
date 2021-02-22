@@ -1,0 +1,18 @@
+{
+  "id": 11201,
+  "name": "Princess Paw 01",
+  "generation": 1,
+  "created_at": "2017-11-29T06:17:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Princess Paw 01. I'm a professional Mad Scientist and I love lasagna. I once made a moose jump. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2591@0",
+  "sire": "2501@0",
+  "children": [
+    "11853@3",
+    "12943@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

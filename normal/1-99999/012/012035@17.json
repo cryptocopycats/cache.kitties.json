@@ -1,0 +1,22 @@
+{
+  "id": 12035,
+  "name": "Himalayan Grey",
+  "generation": 17,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Himalayan Grey. My friends describe me as preposterous and tantalizing. It's not common knowledge, but my ancestry connects me to Confucius. Let's pawty!",
+  "language": "en",
+  "matron": "7991@16",
+  "sire": "3139@1",
+  "children": [
+    "13432@18",
+    "17426@18",
+    "23156@18",
+    "59567@18",
+    "64683@18",
+    "341486@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

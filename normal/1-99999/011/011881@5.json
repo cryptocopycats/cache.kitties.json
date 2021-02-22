@@ -1,0 +1,24 @@
+{
+  "id": 11881,
+  "name": "Gen 5",
+  "generation": 5,
+  "created_at": "2017-11-29T12:28:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 5. I enjoy slappin' da bass, eating until I loathe myself, and picking on mice. When no one's home, I invite my pals over and we listen to Michael Bolton. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7392@4",
+  "sire": "5947@2",
+  "children": [
+    "11991@13",
+    "12947@14",
+    "13193@14",
+    "13459@6",
+    "13908@11",
+    "18868@13",
+    "20759@13",
+    "21696@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

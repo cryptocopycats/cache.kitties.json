@@ -1,0 +1,20 @@
+{
+  "id": 12001,
+  "name": "Kittiesville #12001 G14",
+  "generation": 14,
+  "created_at": "2017-11-29T13:34:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kittiesville #12001 G14. I'm often referred to as the Dwight Schrute of the group. My friends describe me as \"fabulous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11707@13",
+  "sire": "11718@12",
+  "children": [
+    "18060@15",
+    "18307@15",
+    "25703@19",
+    "45383@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

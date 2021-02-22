@@ -1,0 +1,27 @@
+{
+  "id": 10783,
+  "name": "Gen 1 Beard",
+  "generation": 1,
+  "created_at": "2017-11-29T02:50:47.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen 1 Beard. I enjoy eating until I loathe myself, riding unicorns, and licking doorknobs. My secret indulgence is cantaloupe. Let's get busy!",
+  "language": "en",
+  "matron": "1056@0",
+  "sire": "2075@0",
+  "children": [
+    "13172@2",
+    "13221@2",
+    "13289@2",
+    "13420@2",
+    "13647@11",
+    "13700@3",
+    "14397@2",
+    "18908@2",
+    "109593@2",
+    "241390@2",
+    "270012@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

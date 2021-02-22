@@ -1,0 +1,23 @@
+{
+  "id": 10518,
+  "name": "White Poops",
+  "generation": 12,
+  "created_at": "2017-11-29T00:28:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm White Poops. My friends describe me as preposterous and prickly. In my free time, I can usually be found brilliant or playing chess. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "8389@10",
+  "sire": "10371@11",
+  "children": [
+    "10595@13",
+    "11097@13",
+    "13417@13",
+    "18979@15",
+    "24593@15",
+    "159369@13",
+    "261105@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

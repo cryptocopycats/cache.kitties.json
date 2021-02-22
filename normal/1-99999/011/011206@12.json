@@ -1,0 +1,19 @@
+{
+  "id": 11206,
+  "name": "Gen 12 Mintgreen",
+  "generation": 12,
+  "created_at": "2017-11-29T06:21:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 12 Mintgreen. All you need to know about me is I hate lasagna with a passion. Some people say I'm the Neville Longbottom of the group. Let's get busy!",
+  "language": "en",
+  "matron": "5193@11",
+  "sire": "5200@11",
+  "children": [
+    "55818@13",
+    "74092@16",
+    "85679@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

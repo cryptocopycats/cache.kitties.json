@@ -1,0 +1,22 @@
+{
+  "id": 10979,
+  "name": "lol",
+  "generation": 15,
+  "created_at": "2017-11-29T04:35:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm lol. I've never told anyone this, but I once cleaned a dog. I put cinammon on everything. Like, everything: hot dogs, hamburgers—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10418@14",
+  "sire": "10236@1",
+  "children": [
+    "12624@16",
+    "13617@16",
+    "20950@17",
+    "36265@19",
+    "74698@17",
+    "270024@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

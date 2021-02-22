@@ -1,0 +1,20 @@
+{
+  "id": 10600,
+  "name": "Orange Chubs",
+  "generation": 19,
+  "created_at": "2017-11-29T01:20:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Orange Chubs. I'm a professional Skydiving Instructor and I love ice cream. I was voted biggest teacher's pet in college. Our friendship will be ridiculous, preposterous, and full of wet food.",
+  "language": "en",
+  "matron": "8930@18",
+  "sire": "6158@1",
+  "children": [
+    "51200@20",
+    "63245@20",
+    "264912@20",
+    "297813@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10383,
+  "name": "Kitty #10383",
+  "generation": 12,
+  "created_at": "2017-11-28T23:26:54.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #10383. I enjoy reading garfield, tripping my owner, and hitting on yo' man. I'm often described as tantalizing, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6637@10",
+  "sire": "7271@11",
+  "children": [
+    "10658@13",
+    "12440@13",
+    "59484@13",
+    "82643@15",
+    "103011@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

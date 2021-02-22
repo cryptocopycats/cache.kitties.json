@@ -1,0 +1,21 @@
+{
+  "id": 10695,
+  "name": "Frankie Smokes",
+  "generation": 9,
+  "created_at": "2017-11-29T02:05:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Frankie Smokes. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Our friendship will be prickly, brilliant, and full of hamburgers.",
+  "language": "en",
+  "matron": "10588@8",
+  "sire": "5149@4",
+  "children": [
+    "10756@10",
+    "10931@13",
+    "15844@13",
+    "20821@17",
+    "105193@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

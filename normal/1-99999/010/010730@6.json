@@ -1,0 +1,20 @@
+{
+  "id": 10730,
+  "name": "Gen6 - Tongue",
+  "generation": 6,
+  "created_at": "2017-11-29T02:27:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen6 - Tongue. I believe that one day cats will rule this planet. Some people say I'm the Niles Crane of the group. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "7915@4",
+  "sire": "9195@5",
+  "children": [
+    "12034@9",
+    "12089@8",
+    "86842@8",
+    "91032@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

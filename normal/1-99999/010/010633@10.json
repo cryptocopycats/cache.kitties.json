@@ -1,0 +1,21 @@
+{
+  "id": 10633,
+  "name": "Bug Cat #1, 13 Cattributes",
+  "generation": 10,
+  "created_at": "2017-11-29T01:33:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Bug Cat #1, 13 Cattributes. I believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2196@0",
+  "sire": "5023@9",
+  "children": [
+    "10647@11",
+    "10777@11",
+    "13492@11",
+    "16970@15",
+    "21500@11"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

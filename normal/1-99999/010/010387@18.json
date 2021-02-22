@@ -1,0 +1,20 @@
+{
+  "id": 10387,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-28T23:29:13.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #10387. My friends describe me as gorgeous and brilliant. My secret indulgence is steak. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "9295@17",
+  "sire": "9739@11",
+  "children": [
+    "12433@19",
+    "18769@19",
+    "31145@19",
+    "120267@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

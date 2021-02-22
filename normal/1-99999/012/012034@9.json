@@ -1,0 +1,23 @@
+{
+  "id": 12034,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #12034. All you need to know about me is I hate lasagna with a passion. I once loved a rooster. I don't like to talk about it. Will you be the ranch dressing to my garlic butter?",
+  "language": "en",
+  "matron": "10730@6",
+  "sire": "10347@8",
+  "children": [
+    "12074@10",
+    "12459@12",
+    "13584@12",
+    "20203@13",
+    "23741@13",
+    "30099@15",
+    "30488@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

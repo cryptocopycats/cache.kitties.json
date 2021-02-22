@@ -1,0 +1,21 @@
+{
+  "id": 11373,
+  "name": "Jasmine",
+  "generation": 11,
+  "created_at": "2017-11-29T07:31:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Jasmine. I've never told anyone this, but I once snuggled a dog. My secret indulgence is cereal. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7369@10",
+  "sire": "10829@9",
+  "children": [
+    "12209@12",
+    "45354@14",
+    "62863@13",
+    "73371@12",
+    "82645@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

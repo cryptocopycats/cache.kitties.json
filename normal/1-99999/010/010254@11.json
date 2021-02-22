@@ -1,0 +1,22 @@
+{
+  "id": 10254,
+  "name": "Romeo",
+  "generation": 11,
+  "created_at": "2017-11-28T21:51:35.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Romeo. In high school, I was voted most likely to work at NASA. I once made a rhino grimace. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "10062@1",
+  "sire": "10160@10",
+  "children": [
+    "11167@15",
+    "13196@16",
+    "27643@13",
+    "28878@16",
+    "304736@20",
+    "332980@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

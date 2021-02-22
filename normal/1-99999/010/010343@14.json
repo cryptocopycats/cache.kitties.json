@@ -1,0 +1,18 @@
+{
+  "id": 10343,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-28T23:02:19.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #10343. In high school, I was voted school jock. In my free time, I can usually be found fabulous or talking about how much I lift. Will you be the peanut butter to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "9220@13",
+  "sire": "6318@1",
+  "children": [
+    "11102@16",
+    "15600@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

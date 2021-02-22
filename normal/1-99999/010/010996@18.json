@@ -1,0 +1,19 @@
+{
+  "id": 10996,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-29T04:47:42.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #10996. I enjoy fighting for the people, licking doorknobs, and picking on mice. I once got in a fight with a rabbit, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10104@17",
+  "sire": "5668@10",
+  "children": [
+    "12840@19",
+    "15469@19",
+    "101294@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

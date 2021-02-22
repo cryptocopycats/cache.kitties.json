@@ -1,0 +1,22 @@
+{
+  "id": 10528,
+  "name": "ScooterPie",
+  "generation": 11,
+  "created_at": "2017-11-29T00:34:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm ScooterPie. My friends describe me as brilliant and raunchy. In my free time, I can usually be found smelly or swiping right. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10118@10",
+  "sire": "2483@0",
+  "children": [
+    "10680@12",
+    "11699@12",
+    "12322@12",
+    "17032@19",
+    "18020@12",
+    "48606@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

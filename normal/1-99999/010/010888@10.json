@@ -1,0 +1,20 @@
+{
+  "id": 10888,
+  "name": "Socrates",
+  "generation": 10,
+  "created_at": "2017-11-29T03:49:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Socrates. I'm often referred to as the Michael Scott of the group. I once made a dolphin drink. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7392@4",
+  "sire": "7721@9",
+  "children": [
+    "11310@13",
+    "15433@13",
+    "15571@18",
+    "27010@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

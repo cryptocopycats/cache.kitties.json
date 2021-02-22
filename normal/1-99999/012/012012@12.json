@@ -1,0 +1,21 @@
+{
+  "id": 12012,
+  "name": "Caesar Salad",
+  "generation": 12,
+  "created_at": "2017-11-29T13:34:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Caesar Salad. In high school, I was voted most likely to work at NASA. I am 34% fairy, 42% Culinary Sanitation Specialist, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11598@11",
+  "sire": "11768@11",
+  "children": [
+    "30841@13",
+    "34275@19",
+    "49281@17",
+    "211122@13",
+    "342955@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

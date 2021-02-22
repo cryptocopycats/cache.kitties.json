@@ -1,0 +1,21 @@
+{
+  "id": 11967,
+  "name": "Mr Bigglesworth",
+  "generation": 17,
+  "created_at": "2017-11-29T13:10:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Mr Bigglesworth. I'm a Dispensary Clerk by day, and I like volunteering at the local kitten rescue shelter by night. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10592@16",
+  "sire": "4072@10",
+  "children": [
+    "28301@18",
+    "76442@18",
+    "103661@18",
+    "121519@18",
+    "181039@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

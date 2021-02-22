@@ -1,0 +1,22 @@
+{
+  "id": 10595,
+  "name": "Gen 13 Makes Great Kittens",
+  "generation": 13,
+  "created_at": "2017-11-29T01:15:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Gen 13 Makes Great Kittens. I'm a professional Train Conductor and I love steak. My great-great-great-great-great-great grandkitty lived with Mother Theresa. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10394@2",
+  "sire": "10518@12",
+  "children": [
+    "10863@14",
+    "11357@14",
+    "14216@14",
+    "20978@16",
+    "40862@18",
+    "47410@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

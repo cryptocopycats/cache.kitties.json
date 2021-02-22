@@ -1,0 +1,25 @@
+{
+  "id": 10965,
+  "name": "Gen13",
+  "generation": 13,
+  "created_at": "2017-11-29T04:27:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen13. My friends describe me as fabulous and prickly. My secret indulgence is salad. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "10672@12",
+  "sire": "6465@12",
+  "children": [
+    "13668@14",
+    "14901@14",
+    "17447@14",
+    "21018@16",
+    "32132@14",
+    "88095@14",
+    "335577@25",
+    "425593@25",
+    "450818@25"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

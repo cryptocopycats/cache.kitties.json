@@ -1,0 +1,19 @@
+{
+  "id": 11573,
+  "name": "Moriarty",
+  "generation": 17,
+  "created_at": "2017-11-29T09:17:57.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Moriarty. I'm a Private Dancer  by day, and I like running a podcast by night. My secret indulgence is salad. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "5261@7",
+  "sire": "11294@16",
+  "children": [
+    "17001@18",
+    "96023@18",
+    "106698@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

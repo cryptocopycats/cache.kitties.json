@@ -1,0 +1,19 @@
+{
+  "id": 12021,
+  "name": "Gen 13 sphynx",
+  "generation": 13,
+  "created_at": "2017-11-29T13:34:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 13 sphynx. I'm a professional Skydiving Instructor and I love cereal. I once got in a fight with a platypus, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11773@12",
+  "sire": "11782@11",
+  "children": [
+    "12474@14",
+    "14693@14",
+    "17869@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

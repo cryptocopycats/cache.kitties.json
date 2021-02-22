@@ -1,0 +1,19 @@
+{
+  "id": 11291,
+  "name": "Daphna",
+  "generation": 10,
+  "created_at": "2017-11-29T06:54:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Daphna. I enjoy picking flowers, spinning sick beats, and tripping my owner. I once got in a fight with a rabbit, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11136@9",
+  "sire": "11074@9",
+  "children": [
+    "11625@11",
+    "23387@15",
+    "51612@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

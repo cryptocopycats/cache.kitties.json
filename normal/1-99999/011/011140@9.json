@@ -1,0 +1,24 @@
+{
+  "id": 11140,
+  "name": "Snuggle",
+  "generation": 9,
+  "created_at": "2017-11-29T05:57:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Snuggle. I've never told anyone this, but I once snuggled a dog. I'm often described as petulant, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "10701@4",
+  "sire": "5785@8",
+  "children": [
+    "11247@10",
+    "11525@10",
+    "11633@10",
+    "13271@11",
+    "15036@12",
+    "48523@10",
+    "63777@14",
+    "176675@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

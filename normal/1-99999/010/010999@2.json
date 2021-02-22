@@ -1,0 +1,25 @@
+{
+  "id": 10999,
+  "name": "Brimaz | G2",
+  "generation": 2,
+  "created_at": "2017-11-29T04:50:05.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Brimaz | G2. In high school, I was voted school jock. I once got in a fight with a labradoodle, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10958@1",
+  "sire": "2526@0",
+  "children": [
+    "11019@3",
+    "11053@3",
+    "11095@3",
+    "11220@3",
+    "11980@10",
+    "12467@7",
+    "12675@3",
+    "14006@3",
+    "45565@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

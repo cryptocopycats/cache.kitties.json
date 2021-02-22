@@ -1,0 +1,19 @@
+{
+  "id": 10385,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-28T23:28:18.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #10385. I'm a Foreign Film Director by day, and I like practicing witchcraft by night. In my free time, I can usually be found petulant or siring for status. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "9490@17",
+  "sire": "9491@17",
+  "children": [
+    "12310@20",
+    "17321@19",
+    "23531@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

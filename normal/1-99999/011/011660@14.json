@@ -1,0 +1,19 @@
+{
+  "id": 11660,
+  "name": "Pintastic",
+  "generation": 14,
+  "created_at": "2017-11-29T10:13:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Pintastic. My friends describe me as petulant and brilliant. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "7494@13",
+  "sire": "10558@13",
+  "children": [
+    "13210@18",
+    "15136@15",
+    "204647@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10731,
+  "name": "Reese Witherspoon",
+  "generation": 10,
+  "created_at": "2017-11-29T02:27:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Reese Witherspoon. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Wutang while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10655@9",
+  "sire": "2421@0",
+  "children": [
+    "10995@15",
+    "53850@11",
+    "74711@11",
+    "92554@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

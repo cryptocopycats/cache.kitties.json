@@ -1,0 +1,25 @@
+{
+  "id": 10459,
+  "name": "Molla",
+  "generation": 6,
+  "created_at": "2017-11-28T23:59:54.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Molla. I'm a professional Mad Scientist and I love chocolate. I put wasabi on everything. Like, everything: hot dogs, salad—everything! I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "4161@5",
+  "sire": "4217@5",
+  "children": [
+    "10493@8",
+    "10728@9",
+    "11031@11",
+    "11591@11",
+    "12270@11",
+    "13018@7",
+    "23223@16",
+    "112535@7",
+    "190174@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

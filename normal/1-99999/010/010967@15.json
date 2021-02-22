@@ -1,0 +1,21 @@
+{
+  "id": 10967,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T04:29:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #10967. I'm often referred to as the Niles Crane of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10447@14",
+  "sire": "8381@14",
+  "children": [
+    "11732@16",
+    "15007@16",
+    "19594@19",
+    "24820@19",
+    "67149@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

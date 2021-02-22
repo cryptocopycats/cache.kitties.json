@@ -1,0 +1,23 @@
+{
+  "id": 10708,
+  "name": "mr_beards",
+  "generation": 10,
+  "created_at": "2017-11-29T02:13:11.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm mr_beards. In high school, I was voted most likely to work at NASA. I once pawed at a rooster. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8752@9",
+  "sire": "2572@0",
+  "children": [
+    "11886@17",
+    "12643@17",
+    "13188@14",
+    "14456@11",
+    "15093@12",
+    "25075@11",
+    "51179@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

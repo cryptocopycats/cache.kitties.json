@@ -1,0 +1,23 @@
+{
+  "id": 10673,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T01:52:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #10673. I'm a professional Foreign Film Director and I love salad. I once got in a fight with a dolphin, and won. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "8330@7",
+  "sire": "10555@9",
+  "children": [
+    "12188@11",
+    "12511@11",
+    "13212@14",
+    "15137@13",
+    "16624@13",
+    "28054@13",
+    "85926@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10136,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-11-28T17:58:58.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 13. I want to live in a world where people believe the world is flat. When I'm not playing chess, I'm prank-calling celebrities! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "8139@11",
+  "sire": "6461@12",
+  "children": [
+    "48503@14",
+    "61107@14",
+    "73904@14",
+    "107318@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

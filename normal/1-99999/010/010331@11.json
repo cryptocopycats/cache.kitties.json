@@ -1,0 +1,22 @@
+{
+  "id": 10331,
+  "name": "BetterThanThou",
+  "generation": 11,
+  "created_at": "2017-11-28T22:57:01.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm BetterThanThou. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "10304@7",
+  "sire": "5711@10",
+  "children": [
+    "10464@13",
+    "10714@17",
+    "11380@13",
+    "14293@19",
+    "18091@17",
+    "24510@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

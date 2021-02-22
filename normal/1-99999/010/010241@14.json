@@ -1,0 +1,22 @@
+{
+  "id": 10241,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-28T21:33:38.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #10241. I'm often referred to as the Homer Simpson of the group. When I'm not tricking babies, I'm riverdancing! Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "4828@13",
+  "sire": "8597@12",
+  "children": [
+    "10296@15",
+    "13472@18",
+    "17220@15",
+    "18274@15",
+    "48878@17",
+    "325325@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

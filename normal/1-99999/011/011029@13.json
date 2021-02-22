@@ -1,0 +1,18 @@
+{
+  "id": 11029,
+  "name": "Steve Young - Rare!",
+  "generation": 13,
+  "created_at": "2017-11-29T05:00:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Steve Young - Rare!. In high school, I was voted biggest teacher's pet. I once made a labradoodle grimace. Our friendship will be fabulous, voluptuous, and full of chocolate.",
+  "language": "en",
+  "matron": "7369@10",
+  "sire": "9030@12",
+  "children": [
+    "13046@17",
+    "40498@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

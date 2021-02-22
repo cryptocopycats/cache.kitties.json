@@ -1,0 +1,23 @@
+{
+  "id": 10166,
+  "name": "Georgina",
+  "generation": 13,
+  "created_at": "2017-11-28T18:58:03.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Georgina. I'm a Train Conductor by day, and I like jump-roping by night. I put marmite on everything. Like, everything: hot dogs, wet food—everything! I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "9314@12",
+  "sire": "9325@11",
+  "children": [
+    "10895@14",
+    "15225@14",
+    "15730@14",
+    "17854@14",
+    "37375@16",
+    "82513@17",
+    "1103155@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

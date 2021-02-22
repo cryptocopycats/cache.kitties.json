@@ -1,0 +1,21 @@
+{
+  "id": 11535,
+  "name": "dolly",
+  "generation": 8,
+  "created_at": "2017-11-29T09:03:19.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm dolly. My friends describe me as seductive and brilliant. Some people say I'm the Ross Geller of the group. I like your face.",
+  "language": "en",
+  "matron": "11325@7",
+  "sire": "2030@0",
+  "children": [
+    "12777@9",
+    "13582@9",
+    "13831@10",
+    "16345@9",
+    "20127@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

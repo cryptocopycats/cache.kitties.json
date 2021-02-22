@@ -1,0 +1,21 @@
+{
+  "id": 10223,
+  "name": "Kat",
+  "generation": 17,
+  "created_at": "2017-11-28T20:50:53.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kat. I'm a professional Train Conductor and I love chocolate. I once dreamed of being a Mad Scientist. Now I can be found swiping left all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8734@16",
+  "sire": "2561@0",
+  "children": [
+    "12004@18",
+    "17789@18",
+    "27058@18",
+    "107705@18",
+    "211429@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

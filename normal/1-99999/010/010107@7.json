@@ -1,0 +1,26 @@
+{
+  "id": 10107,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-28T17:10:57.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Kitty #10107. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "9196@4",
+  "sire": "9211@6",
+  "children": [
+    "10547@11",
+    "12345@8",
+    "13540@11",
+    "14000@8",
+    "15833@14",
+    "19050@8",
+    "20606@16",
+    "23282@16",
+    "57449@16",
+    "84830@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

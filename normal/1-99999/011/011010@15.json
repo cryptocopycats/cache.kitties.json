@@ -1,0 +1,18 @@
+{
+  "id": 11010,
+  "name": "Lollipop",
+  "generation": 15,
+  "created_at": "2017-11-29T04:52:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Lollipop. My friends describe me as despicable and seductive. I like to listen to Rihanna while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10514@14",
+  "sire": "7775@9",
+  "children": [
+    "11990@16",
+    "14223@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

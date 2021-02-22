@@ -1,0 +1,20 @@
+{
+  "id": 10910,
+  "name": "Meowlick",
+  "generation": 11,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Meowlick. In high school, I was voted biggest teacher's pet. I put peanut butter on everything. Like, everything: hot dogs, cantaloupe—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10740@10",
+  "sire": "4285@2",
+  "children": [
+    "12592@12",
+    "12800@12",
+    "14521@17",
+    "16606@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 11999,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-11-29T13:34:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Gen 6. I once peed on King Henry VIII's cat. They had it coming. Sometimes I daydream of a life full of picking flowers, steak, and practicing witchcraft. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "6075@1",
+  "sire": "10885@5",
+  "children": [
+    "12413@13",
+    "12414@14",
+    "13125@15",
+    "26215@7",
+    "29696@10",
+    "33085@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

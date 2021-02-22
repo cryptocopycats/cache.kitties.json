@@ -1,0 +1,19 @@
+{
+  "id": 11270,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-29T06:44:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #11270. I'm a Skydiving Instructor by day, and I like siring for status by night. I once dreamed of being a Ventriloquist. Now I can be found tricking babies all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "6772@15",
+  "sire": "9330@18",
+  "children": [
+    "11524@20",
+    "21536@20",
+    "51526@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

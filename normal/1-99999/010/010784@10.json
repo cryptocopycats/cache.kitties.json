@@ -1,0 +1,18 @@
+{
+  "id": 10784,
+  "name": "chris barnes",
+  "generation": 10,
+  "created_at": "2017-11-29T02:50:47.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm chris barnes. I'm a Mad Scientist by day, and I like riding the bus by night. My friends describe me as \"gullible.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "10356@6",
+  "sire": "4169@9",
+  "children": [
+    "14760@18",
+    "14920@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

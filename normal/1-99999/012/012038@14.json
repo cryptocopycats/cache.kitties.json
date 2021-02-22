@@ -1,0 +1,21 @@
+{
+  "id": 12038,
+  "name": "RED",
+  "generation": 14,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's RED. I once peed on Amelia Earhart's cat. They had it coming. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11793@13",
+  "sire": "2619@0",
+  "children": [
+    "13557@15",
+    "39924@15",
+    "55895@15",
+    "92090@16",
+    "178696@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

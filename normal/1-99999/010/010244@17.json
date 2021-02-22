@@ -1,0 +1,18 @@
+{
+  "id": 10244,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-28T21:39:21.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #10244. I've never told anyone this, but I once kissed a dog. I once got in a fight with a dolphin, and won. Our friendship will be fabulous, brilliant, and full of apple pie.",
+  "language": "en",
+  "matron": "7592@16",
+  "sire": "9428@9",
+  "children": [
+    "11789@18",
+    "16677@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 10601,
+  "name": "Superdad - King of ETH",
+  "generation": 13,
+  "created_at": "2017-11-29T01:20:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! My name's Superdad - King of ETH. I once peed on Princess Diana's cat. They had it coming. I once got in a fight with a rabbit, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10412@9",
+  "sire": "10466@12",
+  "children": [
+    "10639@14",
+    "11536@14",
+    "15353@14",
+    "20755@14",
+    "28905@20",
+    "64161@19",
+    "295207@14",
+    "1569662@14",
+    "1642647@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

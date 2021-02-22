@@ -1,0 +1,21 @@
+{
+  "id": 10461,
+  "name": "GEN 2 | BRISK | OTAKU",
+  "generation": 2,
+  "created_at": "2017-11-29T00:01:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm GEN 2 | BRISK | OTAKU. I believe the world is flat. I once got in a fight with a goose, and won. Let's get busy!",
+  "language": "en",
+  "matron": "3029@1",
+  "sire": "2569@0",
+  "children": [
+    "53650@7",
+    "55633@16",
+    "57401@7",
+    "60596@17",
+    "72280@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

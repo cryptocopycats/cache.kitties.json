@@ -1,0 +1,20 @@
+{
+  "id": 11503,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-29T08:42:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #11503. All you need to know about me is I hate ice cream with a passion. I once made a platypus grimace. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11339@10",
+  "sire": "11136@9",
+  "children": [
+    "11925@12",
+    "13687@12",
+    "14759@12",
+    "16698@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

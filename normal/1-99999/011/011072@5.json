@@ -1,0 +1,20 @@
+{
+  "id": 11072,
+  "name": "Pawprint 05",
+  "generation": 5,
+  "created_at": "2017-11-29T05:19:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Pawprint 05. I've never told anyone this, but I once kissed a dog. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10554@4",
+  "sire": "10982@1",
+  "children": [
+    "11230@7",
+    "12607@6",
+    "12782@6",
+    "45349@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

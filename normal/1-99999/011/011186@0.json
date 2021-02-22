@@ -1,0 +1,31 @@
+{
+  "id": 11186,
+  "name": "Tick",
+  "generation": 0,
+  "created_at": "2017-11-29T06:12:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Tick. I'm a Mad Scientist by day, and I like tricking babies by night. I like to listen to Frank Sinatra while grooming. Don't judge me. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "11257@1",
+    "11297@1",
+    "11332@1",
+    "11433@1",
+    "13259@1",
+    "15376@1",
+    "19709@1",
+    "23229@1",
+    "51693@1",
+    "77228@1",
+    "85293@1",
+    "104410@1",
+    "136706@1",
+    "273613@1",
+    "766479@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11205,
+  "name": "Cryptokitty | Rare Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-29T06:21:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Cryptokitty | Rare Gen 2. I want to live in a world where people believe the world is flat. I once got in a fight with a labradoodle, and won. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "2620@0",
+  "sire": "6775@1",
+  "children": [
+    "12206@17",
+    "12676@17",
+    "37211@3",
+    "38002@3",
+    "38881@3",
+    "46263@3",
+    "52139@3",
+    "60553@3",
+    "113119@3",
+    "244032@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

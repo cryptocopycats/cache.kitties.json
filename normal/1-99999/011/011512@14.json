@@ -1,0 +1,20 @@
+{
+  "id": 11512,
+  "name": "Cutie Patootie",
+  "generation": 14,
+  "created_at": "2017-11-29T08:46:43.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Cutie Patootie. I'm a professional Dogwalker and I love cereal. Some people say I'm the Michael Scott of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "11080@13",
+  "sire": "11016@9",
+  "children": [
+    "12307@15",
+    "54955@17",
+    "88543@18",
+    "119137@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

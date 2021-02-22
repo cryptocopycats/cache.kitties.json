@@ -1,0 +1,18 @@
+{
+  "id": 10752,
+  "name": "Agatha May",
+  "generation": 14,
+  "created_at": "2017-11-29T02:37:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Agatha May. I'm a Aerobics Athlete  by day, and I like tricking babies by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8822@10",
+  "sire": "8742@13",
+  "children": [
+    "37694@15",
+    "151777@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

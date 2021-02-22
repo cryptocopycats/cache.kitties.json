@@ -1,0 +1,20 @@
+{
+  "id": 10776,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T02:49:20.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #10776. I believe the world is flat. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8522@13",
+  "sire": "5126@14",
+  "children": [
+    "12550@16",
+    "13613@17",
+    "16856@16",
+    "23736@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 10964,
+  "name": "Frekja",
+  "generation": 16,
+  "created_at": "2017-11-29T04:26:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! Frekja here. I'm here to enjoy riding unicorns and fighting for the people. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be gullible, prickly, and full of apple pie.",
+  "language": "en",
+  "matron": "10948@0",
+  "sire": "10360@15",
+  "children": [
+    "11886@17",
+    "12643@17",
+    "57138@17",
+    "109073@18",
+    "272217@21",
+    "400148@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

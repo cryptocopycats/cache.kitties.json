@@ -1,0 +1,23 @@
+{
+  "id": 10650,
+  "name": "Tiger",
+  "generation": 15,
+  "created_at": "2017-11-29T01:41:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Tiger. I once peed on Princess Diana's cat. They had it coming. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "9181@12",
+  "sire": "10295@14",
+  "children": [
+    "12059@16",
+    "14159@16",
+    "17829@16",
+    "23170@16",
+    "44177@16",
+    "138797@16",
+    "334094@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

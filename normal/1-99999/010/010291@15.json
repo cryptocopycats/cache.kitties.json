@@ -1,0 +1,18 @@
+{
+  "id": 10291,
+  "name": "MISSIGNO",
+  "generation": 15,
+  "created_at": "2017-11-28T22:29:49.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm MISSIGNO. I've never told anyone this, but I once pawed at a dog. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2633@0",
+  "sire": "4943@14",
+  "children": [
+    "10384@16",
+    "40205@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

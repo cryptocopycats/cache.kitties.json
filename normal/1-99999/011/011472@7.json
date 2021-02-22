@@ -1,0 +1,20 @@
+{
+  "id": 11472,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-29T08:23:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #11472. I enjoy reciting poetry, reading garfield, and eating lasagna. My secret indulgence is cereal. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3200@2",
+  "sire": "3789@6",
+  "children": [
+    "13078@12",
+    "13842@8",
+    "15628@14",
+    "24909@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

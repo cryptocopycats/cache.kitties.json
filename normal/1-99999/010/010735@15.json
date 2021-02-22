@@ -1,0 +1,20 @@
+{
+  "id": 10735,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T02:27:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #10735. I'm often referred to as the Frodo Baggins of the group. I like to listen to Aretha Franklin while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6628@8",
+  "sire": "10490@14",
+  "children": [
+    "12201@16",
+    "14272@16",
+    "63669@18",
+    "86440@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10736,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-29T02:28:16.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #10736. In high school, I was voted school jock. I like to listen to Michael Bolton while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3301@6",
+  "sire": "5961@10",
+  "children": [
+    "12705@12",
+    "13182@13",
+    "14347@13",
+    "429492@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

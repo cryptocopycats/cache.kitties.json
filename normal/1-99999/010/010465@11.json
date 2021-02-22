@@ -1,0 +1,20 @@
+{
+  "id": 10465,
+  "name": "K Paddy | Gen 11",
+  "generation": 11,
+  "created_at": "2017-11-29T00:02:40.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm K Paddy | Gen 11. I'm a professional Train Conductor and I love hamburgers. Sometimes I daydream of a life full of picking flowers, lasagna, and playing chess. Let's get busy!",
+  "language": "en",
+  "matron": "5765@10",
+  "sire": "3644@2",
+  "children": [
+    "11843@12",
+    "11946@13",
+    "13211@12",
+    "14772@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

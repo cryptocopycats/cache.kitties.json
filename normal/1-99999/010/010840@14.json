@@ -1,0 +1,19 @@
+{
+  "id": 10840,
+  "name": "Don Jones",
+  "generation": 14,
+  "created_at": "2017-11-29T03:07:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Don Jones here. I'm here to enjoy fighting for the people and slappin' da bass. Sometimes I daydream of a life full of fighting the patriarchy, wet food, and braiding people's hair. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5244@13",
+  "sire": "5526@11",
+  "children": [
+    "71954@15",
+    "146522@15",
+    "158100@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 11663,
+  "name": "| Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-29T10:13:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm | Gen 3. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. Will you be the wasabi to my cinammon?",
+  "language": "en",
+  "matron": "3644@2",
+  "sire": "6889@1",
+  "children": [
+    "12599@11",
+    "12841@14",
+    "13123@12",
+    "13941@5",
+    "16543@4",
+    "40409@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

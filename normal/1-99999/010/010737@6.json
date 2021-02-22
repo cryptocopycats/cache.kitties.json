@@ -1,0 +1,26 @@
+{
+  "id": 10737,
+  "name": "Chocolate Sphinx (%0.1 Rarity)",
+  "generation": 6,
+  "created_at": "2017-11-29T02:28:16.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Chocolate Sphinx (%0.1 Rarity). I enjoy shakin' dat booty, chasing red dots, and chasing string. I once loved a rooster. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10688@3",
+  "sire": "10689@5",
+  "children": [
+    "10759@7",
+    "10871@7",
+    "11076@7",
+    "11474@7",
+    "17360@7",
+    "21815@19",
+    "45234@9",
+    "92724@7",
+    "117926@8",
+    "149570@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

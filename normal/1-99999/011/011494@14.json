@@ -1,0 +1,20 @@
+{
+  "id": 11494,
+  "name": "Daddy stash",
+  "generation": 14,
+  "created_at": "2017-11-29T08:38:42.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Daddy stash. In high school, I was voted school jock. Some people say I'm the Frodo Baggins of the group. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "7321@8",
+  "sire": "10167@13",
+  "children": [
+    "20896@15",
+    "22824@18",
+    "28651@15",
+    "64435@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

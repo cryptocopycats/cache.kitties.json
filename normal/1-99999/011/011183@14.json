@@ -1,0 +1,19 @@
+{
+  "id": 11183,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T06:11:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #11183. I've never told anyone this, but I once pawed at a dog. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10779@6",
+  "sire": "7226@13",
+  "children": [
+    "13446@15",
+    "16941@15",
+    "31240@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

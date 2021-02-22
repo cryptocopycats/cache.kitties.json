@@ -1,0 +1,23 @@
+{
+  "id": 11339,
+  "name": "Satoshi",
+  "generation": 10,
+  "created_at": "2017-11-29T07:17:29.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Satoshi. I'm often referred to as the Marge Simpson of the group. I like to listen to Metallica while grooming. Don't judge me. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "11267@9",
+  "sire": "10870@7",
+  "children": [
+    "11503@11",
+    "12088@11",
+    "12701@11",
+    "12797@11",
+    "18838@11",
+    "48740@16",
+    "108079@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

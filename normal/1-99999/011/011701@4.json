@@ -1,0 +1,24 @@
+{
+  "id": 11701,
+  "name": "Cutie",
+  "generation": 4,
+  "created_at": "2017-11-29T10:38:07.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Cutie here. I'm here to enjoy reading garfield and grooming. I would give it all up to star in a soap opera. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "10624@1",
+  "sire": "11482@3",
+  "children": [
+    "11813@9",
+    "12160@15",
+    "12412@14",
+    "13217@13",
+    "13779@17",
+    "16243@15",
+    "75942@6",
+    "241828@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 10960,
+  "name": "Cat-God (RARE)",
+  "generation": 16,
+  "created_at": "2017-11-29T04:25:52.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Cat-God (RARE). I'm a Culinary Sanitation Specialist by day, and I like swiping right by night. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "5519@8",
+  "sire": "6409@15",
+  "children": [
+    "11891@17",
+    "12383@17",
+    "40097@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 11036,
+  "name": "Mice Whisperer",
+  "generation": 11,
+  "created_at": "2017-11-29T05:02:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Mice Whisperer. I've never told anyone this, but I once loved a dog. Sometimes I daydream of a life full of shakin' dat booty, apple pie, and pole dancing. Our friendship will be gullible, seductive, and full of cereal.",
+  "language": "en",
+  "matron": "10911@10",
+  "sire": "10901@1",
+  "children": [
+    "11890@12",
+    "12266@12",
+    "14852@12",
+    "20073@14",
+    "29813@16",
+    "74836@20",
+    "154395@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

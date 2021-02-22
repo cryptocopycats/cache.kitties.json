@@ -1,0 +1,21 @@
+{
+  "id": 10260,
+  "name": "squirrel G2",
+  "generation": 2,
+  "created_at": "2017-11-28T21:57:55.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm squirrel G2. I'm a Spin Instructor  by day, and I like prank-calling celebrities by night. I once made a rhino scare. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "7397@1",
+  "sire": "3427@1",
+  "children": [
+    "12524@3",
+    "16587@3",
+    "30336@3",
+    "44705@3",
+    "48504@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

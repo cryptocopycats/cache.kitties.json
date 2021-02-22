@@ -1,0 +1,18 @@
+{
+  "id": 10750,
+  "name": "SassyCat",
+  "generation": 18,
+  "created_at": "2017-11-29T02:35:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! My name's SassyCat. I once peed on Amelia Earhart's cat. They had it coming. I like to listen to Beyoncé while grooming. Don't judge me. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "8941@13",
+  "sire": "8259@17",
+  "children": [
+    "16071@19",
+    "66390@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

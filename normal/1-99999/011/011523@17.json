@@ -1,0 +1,19 @@
+{
+  "id": 11523,
+  "name": "Joey Lubin",
+  "generation": 17,
+  "created_at": "2017-11-29T08:52:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Joey Lubin. My friends describe me as brilliant and vegan. I once groomed a rhino. I don't like to talk about it. Let's pawty!",
+  "language": "en",
+  "matron": "10740@10",
+  "sire": "10897@16",
+  "children": [
+    "13011@18",
+    "16754@18",
+    "57765@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

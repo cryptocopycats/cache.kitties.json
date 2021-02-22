@@ -1,0 +1,19 @@
+{
+  "id": 11415,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-29T07:52:15.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's Kitty #11415. I once peed on Nelson Mandela's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10081@18",
+  "sire": "10082@18",
+  "children": [
+    "14938@20",
+    "20803@20",
+    "28653@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

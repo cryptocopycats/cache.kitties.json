@@ -1,0 +1,20 @@
+{
+  "id": 11672,
+  "name": "Sandstone Sandy - G16",
+  "generation": 16,
+  "created_at": "2017-11-29T10:19:18.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Sandstone Sandy - G16. I've never told anyone this, but I once pranced with a dog. My secret indulgence is lasagna. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "7936@15",
+  "sire": "5508@9",
+  "children": [
+    "13416@17",
+    "17177@17",
+    "28951@18",
+    "56854@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

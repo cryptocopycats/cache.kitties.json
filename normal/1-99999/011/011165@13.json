@@ -1,0 +1,20 @@
+{
+  "id": 11165,
+  "name": "River Road",
+  "generation": 13,
+  "created_at": "2017-11-29T06:03:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm River Road. In high school, I was voted most likely to work at NASA. Some people say I'm the Niles Crane of the group. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "8689@8",
+  "sire": "10847@12",
+  "children": [
+    "11712@14",
+    "144116@14",
+    "434559@14",
+    "713563@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

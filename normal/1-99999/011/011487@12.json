@@ -1,0 +1,21 @@
+{
+  "id": 11487,
+  "name": "Ron",
+  "generation": 12,
+  "created_at": "2017-11-29T08:31:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Ron. I believe that one day cats will rule this planet. Some people say I'm the Ron Weasley of the group. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "10726@11",
+  "sire": "9226@11",
+  "children": [
+    "12221@13",
+    "13241@13",
+    "15200@13",
+    "45359@14",
+    "51315@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

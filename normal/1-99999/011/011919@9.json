@@ -1,0 +1,23 @@
+{
+  "id": 11919,
+  "name": "coffee rare",
+  "generation": 9,
+  "created_at": "2017-11-29T12:50:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! coffee rare here. I'm here to enjoy licking doorknobs and glaring at the neighbour's cat. I once tricked a chimpanzee. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10432@6",
+  "sire": "11427@8",
+  "children": [
+    "12169@10",
+    "12370@10",
+    "13113@10",
+    "16120@16",
+    "18711@19",
+    "22105@10",
+    "36386@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 10912,
+  "name": "Пушок",
+  "generation": 16,
+  "created_at": "2017-11-29T03:49:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Пушок. I'm a professional Skydiving Instructor and I love cantaloupe. It's not common knowledge, but my ancestry connects me to Confucius. Let's get busy!",
+  "language": "en",
+  "matron": "6965@13",
+  "sire": "7584@15",
+  "children": [
+    "12937@17",
+    "16236@17",
+    "22083@17",
+    "42260@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

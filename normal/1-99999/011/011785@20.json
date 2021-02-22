@@ -1,0 +1,19 @@
+{
+  "id": 11785,
+  "name": "Happy W",
+  "generation": 20,
+  "created_at": "2017-11-29T11:34:48.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Happy W. I enjoy tricking babies, shakin' dat booty, and chasing red dots. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2682@0",
+  "sire": "9880@19",
+  "children": [
+    "16861@21",
+    "25677@21",
+    "193278@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

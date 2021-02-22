@@ -1,0 +1,19 @@
+{
+  "id": 11669,
+  "name": "Muffins",
+  "generation": 15,
+  "created_at": "2017-11-29T10:15:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Muffins. All you need to know about me is I hate apple pie with a passion. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "11527@11",
+  "sire": "7108@14",
+  "children": [
+    "14884@16",
+    "17512@16",
+    "20845@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

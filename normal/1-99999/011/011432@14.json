@@ -1,0 +1,19 @@
+{
+  "id": 11432,
+  "name": "Dave Mustaine",
+  "generation": 14,
+  "created_at": "2017-11-29T08:08:10.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Dave Mustaine. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Frank Sinatra. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "10864@12",
+  "sire": "6765@13",
+  "children": [
+    "21632@15",
+    "43833@15",
+    "62671@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

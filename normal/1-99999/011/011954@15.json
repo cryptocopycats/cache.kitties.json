@@ -1,0 +1,21 @@
+{
+  "id": 11954,
+  "name": "Coffe & Milk",
+  "generation": 15,
+  "created_at": "2017-11-29T13:05:15.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Coffe & Milk. I believe the world is flat. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Our friendship will be preposterous, stinky, and full of cantaloupe.",
+  "language": "en",
+  "matron": "10174@13",
+  "sire": "10076@14",
+  "children": [
+    "12576@16",
+    "14486@16",
+    "20401@16",
+    "27498@19",
+    "57925@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

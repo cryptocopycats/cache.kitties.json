@@ -1,0 +1,21 @@
+{
+  "id": 11040,
+  "name": "Vampire",
+  "generation": 14,
+  "created_at": "2017-11-29T05:05:48.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Vampire. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4320@8",
+  "sire": "6202@13",
+  "children": [
+    "11599@15",
+    "58754@15",
+    "92993@15",
+    "244371@15",
+    "291866@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

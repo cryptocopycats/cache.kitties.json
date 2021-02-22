@@ -1,0 +1,18 @@
+{
+  "id": 12055,
+  "name": "Cat Damon",
+  "generation": 12,
+  "created_at": "2017-11-29T13:51:42.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Cat Damon. I'm a professional Dispensary Clerk and I love ice cream. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4861@6",
+  "sire": "11852@11",
+  "children": [
+    "13392@13",
+    "76722@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

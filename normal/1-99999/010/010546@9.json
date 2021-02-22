@@ -1,0 +1,24 @@
+{
+  "id": 10546,
+  "name": "Gen 9",
+  "generation": 9,
+  "created_at": "2017-11-29T00:47:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! My name's Gen 9. I once peed on King Henry VIII's cat. They had it coming. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7390@6",
+  "sire": "10186@8",
+  "children": [
+    "10609@10",
+    "12194@13",
+    "12521@10",
+    "14159@16",
+    "15308@15",
+    "22338@10",
+    "45333@16",
+    "56686@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

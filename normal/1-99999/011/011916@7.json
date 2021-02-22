@@ -1,0 +1,25 @@
+{
+  "id": 11916,
+  "name": "Old Cat",
+  "generation": 7,
+  "created_at": "2017-11-29T12:50:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Old Cat. I'm a professional Dogwalker and I love steak. My friends describe me as \"gullible.\" It's... accurate. Will you be the marmite to my cinammon?",
+  "language": "en",
+  "matron": "4861@6",
+  "sire": "10434@4",
+  "children": [
+    "11969@12",
+    "12063@8",
+    "12265@12",
+    "13948@10",
+    "14517@8",
+    "16328@8",
+    "22807@10",
+    "27023@8",
+    "476798@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

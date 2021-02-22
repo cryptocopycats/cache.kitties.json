@@ -1,0 +1,24 @@
+{
+  "id": 11724,
+  "name": "Stripy Saucisse",
+  "generation": 8,
+  "created_at": "2017-11-29T10:51:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Stripy Saucisse. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Justin Bieber. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11491@7",
+  "sire": "9522@4",
+  "children": [
+    "11815@9",
+    "16042@9",
+    "23016@9",
+    "26419@15",
+    "29953@11",
+    "37299@11",
+    "44664@11",
+    "117472@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

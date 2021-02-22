@@ -1,0 +1,19 @@
+{
+  "id": 10088,
+  "name": "Flatearther",
+  "generation": 9,
+  "created_at": "2017-11-28T15:56:55.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Flatearther. I believe the world is flat. Some people say I'm the Niles Crane of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "10069@8",
+  "sire": "7081@5",
+  "children": [
+    "10496@13",
+    "12417@10",
+    "12581@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

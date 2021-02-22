@@ -1,0 +1,19 @@
+{
+  "id": 11021,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T04:55:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #11021. I enjoy taking selfies, tricking babies, and shakin' dat booty. Sometimes I daydream of a life full of spinning sick beats, cereal, and playing chess. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10928@0",
+  "sire": "10983@14",
+  "children": [
+    "13553@16",
+    "16821@16",
+    "23757@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

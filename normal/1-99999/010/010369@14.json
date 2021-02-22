@@ -1,0 +1,21 @@
+{
+  "id": 10369,
+  "name": "Sporty Kitty",
+  "generation": 14,
+  "created_at": "2017-11-28T23:21:49.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Sporty Kitty. In high school, I was voted school jock. I am 31% fairy, 71% Private Dancer , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5352@7",
+  "sire": "5847@13",
+  "children": [
+    "28319@15",
+    "32608@15",
+    "52301@15",
+    "89573@15",
+    "150516@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

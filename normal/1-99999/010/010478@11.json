@@ -1,0 +1,20 @@
+{
+  "id": 10478,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-29T00:09:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #10478. In high school, I was voted most likely to work at NASA. I once dreamed of being a Private Dancer . Now I can be found swiping left all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10122@6",
+  "sire": "9141@10",
+  "children": [
+    "12787@13",
+    "13207@17",
+    "14729@12",
+    "19181@12"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

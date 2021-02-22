@@ -1,0 +1,25 @@
+{
+  "id": 10474,
+  "name": "Señor Mustard",
+  "generation": 3,
+  "created_at": "2017-11-29T00:06:47.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Señor Mustard. I've never told anyone this, but I once pranced with a dog. I once dreamed of being a Dispensary Clerk. Now I can be found swiping right all day. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "10409@2",
+  "sire": "2713@0",
+  "children": [
+    "10515@15",
+    "10557@12",
+    "10632@5",
+    "10704@4",
+    "50822@4",
+    "55313@4",
+    "62038@4",
+    "67403@4",
+    "91100@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

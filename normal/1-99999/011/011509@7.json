@@ -1,0 +1,26 @@
+{
+  "id": 11509,
+  "name": "Mashed Potato *",
+  "generation": 7,
+  "created_at": "2017-11-29T08:45:44.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mashed Potato *. My friends describe me as despicable and preposterous. I like to listen to Aretha Franklin while grooming. Don't judge me. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "10349@6",
+  "sire": "3241@3",
+  "children": [
+    "11567@8",
+    "11643@8",
+    "11758@9",
+    "12026@8",
+    "15782@9",
+    "31739@16",
+    "45360@14",
+    "78117@8",
+    "144164@8",
+    "393692@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

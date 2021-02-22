@@ -1,0 +1,24 @@
+{
+  "id": 10688,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-29T02:02:46.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #10688. I'm often referred to as the Samwise Gamgee of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Our friendship will be fabulous, preposterous, and full of apple pie.",
+  "language": "en",
+  "matron": "1233@0",
+  "sire": "10631@2",
+  "children": [
+    "10701@4",
+    "10737@6",
+    "10768@6",
+    "10862@6",
+    "11092@8",
+    "12679@4",
+    "17774@16",
+    "28013@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

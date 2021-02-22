@@ -1,0 +1,26 @@
+{
+  "id": 10339,
+  "name": "Creamer Lick 9",
+  "generation": 9,
+  "created_at": "2017-11-28T23:00:18.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Creamer Lick 9. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of glaring at the neighbour's cat, salad, and playing chess. Will you be the wasabi to my maple syrup?",
+  "language": "en",
+  "matron": "7722@8",
+  "sire": "3590@5",
+  "children": [
+    "11084@10",
+    "11407@10",
+    "12383@17",
+    "13547@10",
+    "15319@15",
+    "21510@19",
+    "52173@13",
+    "79328@18",
+    "196903@23",
+    "367691@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

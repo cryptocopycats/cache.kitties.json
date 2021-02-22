@@ -1,0 +1,18 @@
+{
+  "id": 10833,
+  "name": "TWEETY BIRD  | WANNA",
+  "generation": 14,
+  "created_at": "2017-11-29T03:05:04.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm TWEETY BIRD  | WANNA. My friends describe me as prickly and tantalizing. I once dreamed of being a Train Conductor. Now I can be found playing chess all day. I look forward to fighting the patriarchy with you.",
+  "language": "en",
+  "matron": "8565@13",
+  "sire": "8754@8",
+  "children": [
+    "36048@15",
+    "88578@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

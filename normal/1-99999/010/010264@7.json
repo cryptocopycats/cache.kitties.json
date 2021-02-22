@@ -1,0 +1,24 @@
+{
+  "id": 10264,
+  "name": "G7 Pearl",
+  "generation": 7,
+  "created_at": "2017-11-28T22:01:20.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm G7 Pearl. I believe the world is flat. I once dreamed of being a Private Dancer . Now I can be found mocking dogs all day. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "2034@0",
+  "sire": "5768@6",
+  "children": [
+    "10487@12",
+    "10649@13",
+    "11849@12",
+    "14073@17",
+    "16106@8",
+    "19875@10",
+    "32702@8",
+    "40439@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

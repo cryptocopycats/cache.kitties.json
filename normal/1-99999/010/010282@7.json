@@ -1,0 +1,22 @@
+{
+  "id": 10282,
+  "name": "Ab'marash",
+  "generation": 7,
+  "created_at": "2017-11-28T22:23:33.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Ab'marash here. I'm here to enjoy spinning sick beats and breakdancing. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "3301@6",
+  "sire": "1182@0",
+  "children": [
+    "10422@10",
+    "114860@12",
+    "116717@10",
+    "129443@8",
+    "132393@8",
+    "147225@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

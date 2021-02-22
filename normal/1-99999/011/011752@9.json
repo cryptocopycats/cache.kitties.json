@@ -1,0 +1,20 @@
+{
+  "id": 11752,
+  "name": "Naranđasta mace",
+  "generation": 9,
+  "created_at": "2017-11-29T11:17:24.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Naranđasta mace. I'm often referred to as the Bart Simpson of the group. I once loved a dog. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11567@8",
+  "sire": "3970@8",
+  "children": [
+    "11878@10",
+    "11935@10",
+    "16177@10",
+    "23688@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

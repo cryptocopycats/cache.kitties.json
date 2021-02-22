@@ -1,0 +1,20 @@
+{
+  "id": 11662,
+  "name": "Meowth",
+  "generation": 13,
+  "created_at": "2017-11-29T10:13:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Meowth. I'm often referred to as the Frodo Baggins of the group. I'm often described as hairy, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6217@12",
+  "sire": "9851@2",
+  "children": [
+    "12177@15",
+    "13513@14",
+    "49075@14",
+    "72151@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

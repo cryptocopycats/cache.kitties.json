@@ -1,0 +1,17 @@
+{
+  "id": 11409,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-29T07:48:03.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! My name's Gen 2. I once peed on Confucius's cat. They had it coming. I like to listen to Frank Sinatra while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11042@1",
+  "sire": "6093@1",
+  "children": [
+    "33877@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

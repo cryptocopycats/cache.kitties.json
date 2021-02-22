@@ -1,0 +1,28 @@
+{
+  "id": 10108,
+  "name": "Gen5 - Plodding",
+  "generation": 5,
+  "created_at": "2017-11-28T17:11:22.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Gen5 - Plodding. In high school, I was voted most likely to work at NASA. I once bit a labradoodle. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7904@2",
+  "sire": "7915@4",
+  "children": [
+    "10452@6",
+    "10479@10",
+    "10530@8",
+    "10788@7",
+    "12447@12",
+    "17220@15",
+    "17819@14",
+    "21715@17",
+    "23555@6",
+    "70798@16",
+    "206395@23",
+    "218719@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

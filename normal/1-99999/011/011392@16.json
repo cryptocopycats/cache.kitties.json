@@ -1,0 +1,19 @@
+{
+  "id": 11392,
+  "name": "Catman",
+  "generation": 16,
+  "created_at": "2017-11-29T07:39:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Catman. I believe that one day cats will rule this planet. I once made a gecko kiss. Our friendship will be fabulous, ridiculous, and full of cereal.",
+  "language": "en",
+  "matron": "9925@15",
+  "sire": "6522@14",
+  "children": [
+    "11994@17",
+    "55839@17",
+    "91736@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

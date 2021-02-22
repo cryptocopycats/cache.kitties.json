@@ -1,0 +1,26 @@
+{
+  "id": 10870,
+  "name": "Calicool",
+  "generation": 7,
+  "created_at": "2017-11-29T03:25:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Calicool. I'm a professional Aerobics Athlete  and I love ice cream. I once made a labradoodle scare. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10762@4",
+  "sire": "10843@6",
+  "children": [
+    "10991@8",
+    "11078@8",
+    "11254@8",
+    "11339@10",
+    "14743@8",
+    "20611@8",
+    "25819@8",
+    "43759@17",
+    "89592@13",
+    "121801@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

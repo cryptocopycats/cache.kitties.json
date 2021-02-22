@@ -1,0 +1,17 @@
+{
+  "id": 10439,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-28T23:51:41.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #10439. I'm a Skydiving Instructor by day, and I like watching reality tv by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "8370@10",
+  "sire": "4678@1",
+  "children": [
+    "10477@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

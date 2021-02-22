@@ -1,0 +1,21 @@
+{
+  "id": 10637,
+  "name": "Missy",
+  "generation": 13,
+  "created_at": "2017-11-29T01:34:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Missy. I'm a Ventriloquist by day, and I like mocking dogs by night. I would give it all up for a Chanel purse. Our friendship will be raunchy, brilliant, and full of ice cream.",
+  "language": "en",
+  "matron": "10310@12",
+  "sire": "7765@2",
+  "children": [
+    "13855@14",
+    "34981@14",
+    "58683@14",
+    "88620@17",
+    "116635@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

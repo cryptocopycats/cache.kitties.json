@@ -1,0 +1,22 @@
+{
+  "id": 11736,
+  "name": "Apollo",
+  "generation": 10,
+  "created_at": "2017-11-29T11:04:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Apollo. I'm often referred to as the Michael Scott of the group. Sometimes I daydream of a life full of chasing red dots, salad, and reading Danielle Steele. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "8405@9",
+  "sire": "11180@7",
+  "children": [
+    "13999@17",
+    "15452@13",
+    "16091@19",
+    "24014@14",
+    "43708@14",
+    "69194@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

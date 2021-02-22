@@ -1,0 +1,20 @@
+{
+  "id": 10583,
+  "name": "Strawberry Slush (G15)",
+  "generation": 15,
+  "created_at": "2017-11-29T01:07:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Strawberry Slush (G15). My friends describe me as vegan and petulant. I once got in a fight with a rabbit, and won. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "9796@10",
+  "sire": "6861@14",
+  "children": [
+    "22713@16",
+    "23496@21",
+    "413519@16",
+    "580288@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

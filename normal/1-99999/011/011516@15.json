@@ -1,0 +1,21 @@
+{
+  "id": 11516,
+  "name": "Choochoo",
+  "generation": 15,
+  "created_at": "2017-11-29T08:48:06.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Choochoo. All you need to know about me is I hate cantaloupe with a passion. Sometimes I daydream of a life full of hitting on yo' man, lasagna, and tricking babies. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10862@6",
+  "sire": "10724@14",
+  "children": [
+    "13650@16",
+    "15999@18",
+    "22762@20",
+    "44504@20",
+    "321206@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

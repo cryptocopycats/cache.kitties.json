@@ -1,0 +1,18 @@
+{
+  "id": 10639,
+  "name": "Kat",
+  "generation": 14,
+  "created_at": "2017-11-29T01:34:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kat. I believe the world is flat. I'm often described as vegan, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "10394@2",
+  "sire": "10601@13",
+  "children": [
+    "11493@15",
+    "16439@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

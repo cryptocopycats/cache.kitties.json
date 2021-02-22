@@ -1,0 +1,20 @@
+{
+  "id": 10218,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-28T20:44:05.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Gen 15. I believe that one day cats will rule this planet. I'm often described as seductive, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "8566@14",
+  "sire": "6821@14",
+  "children": [
+    "40814@16",
+    "57248@16",
+    "80914@16",
+    "108603@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

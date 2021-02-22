@@ -1,0 +1,18 @@
+{
+  "id": 10139,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-28T18:08:07.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #10139. I'm often referred to as the Ross Geller of the group. I'm convinced that the world is flat. One day I'll prove it. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "5892@14",
+  "sire": "7957@18",
+  "children": [
+    "18239@20",
+    "85457@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

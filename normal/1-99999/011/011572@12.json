@@ -1,0 +1,20 @@
+{
+  "id": 11572,
+  "name": "Nvidia",
+  "generation": 12,
+  "created_at": "2017-11-29T09:17:25.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Nvidia. In high school, I was voted most likely to work at NASA. When I'm not people-watching, I'm watching reality tv! Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "10907@11",
+  "sire": "2270@0",
+  "children": [
+    "16229@16",
+    "17055@13",
+    "21519@17",
+    "62880@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

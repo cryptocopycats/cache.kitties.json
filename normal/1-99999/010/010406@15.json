@@ -1,0 +1,20 @@
+{
+  "id": 10406,
+  "name": "Sniffles",
+  "generation": 15,
+  "created_at": "2017-11-28T23:36:02.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Sniffles. I've never told anyone this, but I once clawed a dog. Some people say I'm the Steve Urkel of the group. Our friendship will be seductive, preposterous, and full of lasagna.",
+  "language": "en",
+  "matron": "7727@9",
+  "sire": "10325@14",
+  "children": [
+    "10492@16",
+    "13654@16",
+    "19029@16",
+    "21438@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

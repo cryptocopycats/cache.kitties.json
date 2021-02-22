@@ -1,0 +1,21 @@
+{
+  "id": 10503,
+  "name": "Pink n' Cuddly",
+  "generation": 15,
+  "created_at": "2017-11-29T00:20:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Pink n' Cuddly. I've never told anyone this, but I once headbutted a dog. Some people say I'm the Frodo Baggins of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "9708@14",
+  "sire": "7984@7",
+  "children": [
+    "10988@16",
+    "12103@16",
+    "50105@16",
+    "73682@16",
+    "269829@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

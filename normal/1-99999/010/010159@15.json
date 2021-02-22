@@ -1,0 +1,19 @@
+{
+  "id": 10159,
+  "name": "sb",
+  "generation": 15,
+  "created_at": "2017-11-28T18:38:12.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm sb. My friends describe me as ridiculous and petulant. When no one's home, I invite my pals over and we listen to Coldplay. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "7024@14",
+  "sire": "7964@14",
+  "children": [
+    "12921@19",
+    "13991@19",
+    "28493@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

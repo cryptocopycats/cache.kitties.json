@@ -1,0 +1,20 @@
+{
+  "id": 10176,
+  "name": "Chairwoman Meow",
+  "generation": 14,
+  "created_at": "2017-11-28T19:25:17.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Chairwoman Meow. I believe that one day cats will rule this planet. I am 57% elf, 71% Foreign Film Director, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "8485@13",
+  "sire": "5851@8",
+  "children": [
+    "12170@19",
+    "15021@16",
+    "15210@15",
+    "25135@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

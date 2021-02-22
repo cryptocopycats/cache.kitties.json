@@ -1,0 +1,23 @@
+{
+  "id": 11306,
+  "name": "Puddin Cup",
+  "generation": 7,
+  "created_at": "2017-11-29T06:58:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Puddin Cup. I enjoy tripping my owner, tricking babies, and sitting on your computer. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "3239@6",
+  "sire": "11125@6",
+  "children": [
+    "35792@15",
+    "36304@22",
+    "37959@10",
+    "49673@10",
+    "60276@11",
+    "91171@23",
+    "91871@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

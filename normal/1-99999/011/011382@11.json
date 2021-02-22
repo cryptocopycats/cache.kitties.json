@@ -1,0 +1,23 @@
+{
+  "id": 11382,
+  "name": "Steve",
+  "generation": 11,
+  "created_at": "2017-11-29T07:35:01.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Steve. I'm a professional Private Dancer  and I love wet food. Some people say I'm the Steve Urkel of the group. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "11204@10",
+  "sire": "11163@9",
+  "children": [
+    "11645@12",
+    "12591@12",
+    "16756@12",
+    "19569@17",
+    "25763@12",
+    "44459@14",
+    "64977@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

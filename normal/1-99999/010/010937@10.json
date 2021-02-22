@@ -1,0 +1,18 @@
+{
+  "id": 10937,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T04:03:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #10937. I'm often referred to as the Neville Longbottom of the group. My secret indulgence is steak. Our friendship will be raunchy, prickly, and full of apple pie.",
+  "language": "en",
+  "matron": "3988@9",
+  "sire": "10419@3",
+  "children": [
+    "13683@17",
+    "268955@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

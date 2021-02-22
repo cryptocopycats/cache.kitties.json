@@ -1,0 +1,21 @@
+{
+  "id": 10161,
+  "name": "Horatio",
+  "generation": 17,
+  "created_at": "2017-11-28T18:50:50.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Horatio. I'm often referred to as the Neville Longbottom of the group. I put marmite on everything. Like, everything: hot dogs, cereal—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7944@16",
+  "sire": "7972@16",
+  "children": [
+    "11775@18",
+    "16857@19",
+    "62600@19",
+    "117792@19",
+    "167593@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

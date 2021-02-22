@@ -1,0 +1,20 @@
+{
+  "id": 11266,
+  "name": "Glider",
+  "generation": 7,
+  "created_at": "2017-11-29T06:43:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Glider. I'm a Skydiving Instructor by day, and I like playing chess by night. It's not common knowledge, but my ancestry connects me to Confucius. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "10413@6",
+  "sire": "6673@4",
+  "children": [
+    "50615@8",
+    "94510@13",
+    "205141@18",
+    "221818@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

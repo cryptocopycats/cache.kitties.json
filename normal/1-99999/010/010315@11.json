@@ -1,0 +1,21 @@
+{
+  "id": 10315,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-28T22:48:20.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #10315. I'm often referred to as the Ross Geller of the group. Sometimes I daydream of a life full of licking doorknobs, chocolate, and prank-calling celebrities. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6598@9",
+  "sire": "8704@10",
+  "children": [
+    "12120@12",
+    "16131@12",
+    "19530@21",
+    "19740@14",
+    "54624@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

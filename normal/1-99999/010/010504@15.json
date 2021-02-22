@@ -1,0 +1,17 @@
+{
+  "id": 10504,
+  "name": "Bit-a-dog",
+  "generation": 15,
+  "created_at": "2017-11-29T00:20:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Bit-a-dog. All you need to know about me is I hate wet food with a passion. I once bit a dog. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "10109@13",
+  "sire": "10170@14",
+  "children": [
+    "12298@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

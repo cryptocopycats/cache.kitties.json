@@ -1,0 +1,19 @@
+{
+  "id": 10547,
+  "name": "Justin Bieber",
+  "generation": 11,
+  "created_at": "2017-11-29T00:47:26.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Justin Bieber. My friends describe me as ridiculous and gorgeous. When no one's home, I invite my pals over and we listen to Rihanna. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "10107@7",
+  "sire": "10479@10",
+  "children": [
+    "10671@12",
+    "12459@12",
+    "16426@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

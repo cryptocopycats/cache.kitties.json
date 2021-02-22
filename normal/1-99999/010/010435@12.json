@@ -1,0 +1,19 @@
+{
+  "id": 10435,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-28T23:49:34.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #10435. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Let's get busy!",
+  "language": "en",
+  "matron": "8391@11",
+  "sire": "4711@7",
+  "children": [
+    "10586@13",
+    "18166@13",
+    "31925@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

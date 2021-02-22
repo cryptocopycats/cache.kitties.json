@@ -1,0 +1,20 @@
+{
+  "id": 10642,
+  "name": "Chocolate 13",
+  "generation": 13,
+  "created_at": "2017-11-29T01:36:09.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Chocolate 13. My friends describe me as smelly and despicable. Sometimes I daydream of a life full of hitting on yo' man, salad, and practicing witchcraft. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6203@12",
+  "sire": "3770@10",
+  "children": [
+    "11312@22",
+    "15652@22",
+    "39750@14",
+    "221192@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

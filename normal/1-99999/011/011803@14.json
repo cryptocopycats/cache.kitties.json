@@ -1,0 +1,19 @@
+{
+  "id": 11803,
+  "name": "Stripey",
+  "generation": 14,
+  "created_at": "2017-11-29T11:43:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Stripey. I've never told anyone this, but I once pranced with a dog. I would give it all up to be on Oprah. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7335@13",
+  "sire": "10985@2",
+  "children": [
+    "20722@15",
+    "41428@15",
+    "79409@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

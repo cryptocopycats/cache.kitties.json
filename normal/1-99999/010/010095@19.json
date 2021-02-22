@@ -1,0 +1,20 @@
+{
+  "id": 10095,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-28T16:43:26.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #10095. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Metallica. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8537@18",
+  "sire": "8546@17",
+  "children": [
+    "12684@20",
+    "16843@20",
+    "30520@20",
+    "77481@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10851,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-29T03:15:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #10851. I've never told anyone this, but I once headbutted a dog. My great-great-great-great-great-great grandkitty lived with Confucius. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10779@6",
+  "sire": "6668@11",
+  "children": [
+    "11159@13",
+    "14604@13",
+    "37045@20",
+    "41123@20",
+    "105453@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

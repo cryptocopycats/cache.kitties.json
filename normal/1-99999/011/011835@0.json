@@ -1,0 +1,19 @@
+{
+  "id": 11835,
+  "name": "Rockafeller",
+  "generation": 0,
+  "created_at": "2017-11-29T11:56:55.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Rockafeller. I'm a professional Dispensary Clerk and I love cereal. I'm often described as seductive, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "13781@11",
+    "14114@10",
+    "14171@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

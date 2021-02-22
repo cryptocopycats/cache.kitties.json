@@ -1,0 +1,20 @@
+{
+  "id": 10866,
+  "name": "Flight 1",
+  "generation": 12,
+  "created_at": "2017-11-29T03:25:23.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! Flight 1 here. I'm here to enjoy reciting poetry and breakdancing. I put cinammon on everything. Like, everything: hot dogs, wet food—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10442@11",
+  "sire": "10612@7",
+  "children": [
+    "38004@13",
+    "45341@13",
+    "62209@13",
+    "89151@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

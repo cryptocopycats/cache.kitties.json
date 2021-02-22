@@ -1,0 +1,18 @@
+{
+  "id": 10825,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T03:04:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #10825. I've never told anyone this, but I once bit a dog. Sometimes I daydream of a life full of picking on mice, ice cream, and swiping right. Let's get busy!",
+  "language": "en",
+  "matron": "6701@14",
+  "sire": "6032@13",
+  "children": [
+    "11745@16",
+    "16667@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

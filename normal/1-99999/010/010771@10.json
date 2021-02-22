@@ -1,0 +1,22 @@
+{
+  "id": 10771,
+  "name": "Bird Duck Gii",
+  "generation": 10,
+  "created_at": "2017-11-29T02:44:53.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Bird Duck Gii. I enjoy sweating through my feet, fighting the patriarchy, and riding dirty. When no one's home, I invite my pals over and we listen to Beyoncé. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "6108@3",
+  "sire": "10403@9",
+  "children": [
+    "12128@11",
+    "12919@11",
+    "20805@18",
+    "21684@11",
+    "27201@11",
+    "62705@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11335,
+  "name": "Leon",
+  "generation": 12,
+  "created_at": "2017-11-29T07:13:28.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Leon. I enjoy staying woke, sweating through my feet, and chasing red dots. In my free time, I can usually be found stinky or playing chess. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4249@8",
+  "sire": "10907@11",
+  "children": [
+    "11586@13",
+    "31008@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

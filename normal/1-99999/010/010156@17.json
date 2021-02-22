@@ -1,0 +1,19 @@
+{
+  "id": 10156,
+  "name": "Squire Squirrel",
+  "generation": 17,
+  "created_at": "2017-11-28T18:36:11.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Squire Squirrel. I believe that one day cats will rule this planet. I once kissed a gecko. I don't like to talk about it. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "8219@16",
+  "sire": "8307@15",
+  "children": [
+    "14340@18",
+    "18561@19",
+    "69849@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10360,
+  "name": "Morphine Now",
+  "generation": 15,
+  "created_at": "2017-11-28T23:15:57.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Morphine Now. In high school, I was voted most likely to work at NASA. I put peanut butter on everything. Like, everything: hot dogs, hamburgers—everything! Let's pawty!",
+  "language": "en",
+  "matron": "2713@0",
+  "sire": "8418@14",
+  "children": [
+    "10861@16",
+    "10964@16",
+    "15132@16",
+    "54032@16",
+    "123763@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

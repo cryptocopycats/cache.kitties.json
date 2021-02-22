@@ -1,0 +1,20 @@
+{
+  "id": 10411,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-28T23:39:41.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #10411. I enjoy chasing red dots, reading garfield, and riding dirty. I'm often described as preposterous, and I own it. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "7549@11",
+  "sire": "8138@12",
+  "children": [
+    "14264@15",
+    "14916@14",
+    "15434@14",
+    "21946@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

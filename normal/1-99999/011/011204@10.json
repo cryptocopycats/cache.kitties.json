@@ -1,0 +1,20 @@
+{
+  "id": 11204,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-29T06:21:34.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #11204. I've never told anyone this, but I once pranced with a dog. In my free time, I can usually be found petulant or siring for status. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10858@6",
+  "sire": "11066@9",
+  "children": [
+    "11382@11",
+    "11640@11",
+    "12390@17",
+    "37052@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

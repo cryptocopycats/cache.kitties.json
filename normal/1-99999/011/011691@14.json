@@ -1,0 +1,19 @@
+{
+  "id": 11691,
+  "name": "Gérard",
+  "generation": 14,
+  "created_at": "2017-11-29T10:32:30.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gérard. All you need to know about me is I hate cereal with a passion. I put maple syrup on everything. Like, everything: hot dogs, ice cream—everything! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "7900@13",
+  "sire": "6439@13",
+  "children": [
+    "11917@15",
+    "13565@15",
+    "52832@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

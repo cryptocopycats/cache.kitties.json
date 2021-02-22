@@ -1,0 +1,18 @@
+{
+  "id": 10332,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-28T22:59:28.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #10332. I'm a Private Dancer  by day, and I like siring for status by night. I once dreamed of being a Dogwalker. Now I can be found volunteering at the local kitten rescue shelter all day. Our friendship will be prickly, stinky, and full of salad.",
+  "language": "en",
+  "matron": "3411@1",
+  "sire": "7184@2",
+  "children": [
+    "10477@12",
+    "11315@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

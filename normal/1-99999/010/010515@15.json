@@ -1,0 +1,20 @@
+{
+  "id": 10515,
+  "name": "Orangey",
+  "generation": 15,
+  "created_at": "2017-11-29T00:26:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Orangey. I'm a Spin Instructor  by day, and I like jump-roping by night. In my free time, I can usually be found gorgeous or braiding people's hair. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "10474@3",
+  "sire": "8700@14",
+  "children": [
+    "10980@16",
+    "11927@16",
+    "16465@16",
+    "23029@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

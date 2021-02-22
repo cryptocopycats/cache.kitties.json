@@ -1,0 +1,21 @@
+{
+  "id": 10580,
+  "name": "GEN #0",
+  "generation": 12,
+  "created_at": "2017-11-29T01:06:14.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm GEN #0. I'm a professional Dogwalker and I love apple pie. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Will you be the ranch dressing to my wasabi?",
+  "language": "en",
+  "matron": "8883@11",
+  "sire": "5862@10",
+  "children": [
+    "54825@13",
+    "199140@13",
+    "1569662@14",
+    "1584260@13",
+    "1642647@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

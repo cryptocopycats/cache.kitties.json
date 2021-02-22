@@ -1,0 +1,19 @@
+{
+  "id": 11993,
+  "name": "13 Fanny Honeyville",
+  "generation": 13,
+  "created_at": "2017-11-29T13:25:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm 13 Fanny Honeyville. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. Will you be the cinammon to my pickles?",
+  "language": "en",
+  "matron": "11046@12",
+  "sire": "10414@10",
+  "children": [
+    "12384@14",
+    "14693@14",
+    "17741@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

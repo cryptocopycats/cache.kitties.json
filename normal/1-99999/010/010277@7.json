@@ -1,0 +1,20 @@
+{
+  "id": 10277,
+  "name": "Furball",
+  "generation": 7,
+  "created_at": "2017-11-28T22:18:10.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Furball. I've never told anyone this, but I once tricked a dog. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Will you be the marmite to my soy sauce?",
+  "language": "en",
+  "matron": "4702@6",
+  "sire": "1019@0",
+  "children": [
+    "51103@9",
+    "54469@9",
+    "68675@9",
+    "71524@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

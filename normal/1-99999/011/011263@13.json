@@ -1,0 +1,23 @@
+{
+  "id": 11263,
+  "name": "Welcome to the jungle",
+  "generation": 13,
+  "created_at": "2017-11-29T06:41:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Welcome to the jungle. All you need to know about me is I hate ice cream with a passion. I would give it all up to star in a soap opera. Can you make my gullible dreams come true?",
+  "language": "en",
+  "matron": "8545@12",
+  "sire": "3570@5",
+  "children": [
+    "11524@20",
+    "15378@18",
+    "15755@17",
+    "19800@16",
+    "26795@19",
+    "92779@21",
+    "253957@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

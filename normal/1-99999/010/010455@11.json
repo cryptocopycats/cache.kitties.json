@@ -1,0 +1,23 @@
+{
+  "id": 10455,
+  "name": "Green van Kat",
+  "generation": 11,
+  "created_at": "2017-11-28T23:58:59.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Green van Kat. I enjoy reciting poetry, slappin' da bass, and tricking babies. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8689@8",
+  "sire": "8682@10",
+  "children": [
+    "10466@12",
+    "10847@12",
+    "11536@14",
+    "18153@13",
+    "18746@15",
+    "64316@18",
+    "87458@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

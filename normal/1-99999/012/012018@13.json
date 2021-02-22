@@ -1,0 +1,22 @@
+{
+  "id": 12018,
+  "name": "Gen 13 | scarlet cymric",
+  "generation": 13,
+  "created_at": "2017-11-29T13:34:39.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Gen 13 | scarlet cymric. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Dwight Schrute of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10848@0",
+  "sire": "11873@12",
+  "children": [
+    "12156@14",
+    "18823@14",
+    "23150@18",
+    "58200@14",
+    "110144@15",
+    "278321@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

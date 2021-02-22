@@ -1,0 +1,21 @@
+{
+  "id": 10826,
+  "name": "Priscilla",
+  "generation": 14,
+  "created_at": "2017-11-29T03:04:54.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Priscilla. In high school, I was voted biggest teacher's pet. I once made a rooster trot. Let's pawty!",
+  "language": "en",
+  "matron": "6231@13",
+  "sire": "6243@12",
+  "children": [
+    "56244@16",
+    "59568@20",
+    "90662@15",
+    "99422@15",
+    "167472@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

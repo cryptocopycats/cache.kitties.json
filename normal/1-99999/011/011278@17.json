@@ -1,0 +1,19 @@
+{
+  "id": 11278,
+  "name": "Candy",
+  "generation": 17,
+  "created_at": "2017-11-29T06:52:27.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! Candy here. I'm here to enjoy tripping my owner and shakin' dat booty. I put peanut butter on everything. Like, everything: hot dogs, steak—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11000@2",
+  "sire": "11170@16",
+  "children": [
+    "11628@18",
+    "14403@18",
+    "26586@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

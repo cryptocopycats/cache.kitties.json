@@ -1,0 +1,23 @@
+{
+  "id": 10366,
+  "name": "Fleurie #10366",
+  "generation": 8,
+  "created_at": "2017-11-28T23:19:02.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Fleurie #10366. In high school, I was voted biggest teacher's pet. Some people say I'm the Homer Simpson of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7765@2",
+  "sire": "6455@7",
+  "children": [
+    "23722@9",
+    "25119@9",
+    "35837@10",
+    "38790@15",
+    "56178@9",
+    "75880@18",
+    "118790@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

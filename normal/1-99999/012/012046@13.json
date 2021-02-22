@@ -1,0 +1,22 @@
+{
+  "id": 12046,
+  "name": "Catspy",
+  "generation": 13,
+  "created_at": "2017-11-29T13:48:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! My name's Catspy. I once peed on Princess Diana's cat. They had it coming. I like to listen to Metallica while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "10924@4",
+  "sire": "11406@12",
+  "children": [
+    "12519@14",
+    "18079@16",
+    "51225@14",
+    "85657@14",
+    "110018@14",
+    "268380@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

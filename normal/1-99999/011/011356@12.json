@@ -1,0 +1,19 @@
+{
+  "id": 11356,
+  "name": "A simple grey cat",
+  "generation": 12,
+  "created_at": "2017-11-29T07:20:31.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm A simple grey cat. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. Will you be the marmalade to my ranch dressing?",
+  "language": "en",
+  "matron": "6870@2",
+  "sire": "10962@11",
+  "children": [
+    "12881@15",
+    "74760@16",
+    "92897@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

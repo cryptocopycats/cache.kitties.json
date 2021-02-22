@@ -1,0 +1,24 @@
+{
+  "id": 10905,
+  "name": "Fire | Cymric | Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-29T03:49:45.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Fire | Cymric | Gen 1. My friends describe me as petulant and seductive. I'm convinced that the world is flat. One day I'll prove it. Can you make my gullible dreams come true?",
+  "language": "en",
+  "matron": "10732@0",
+  "sire": "10879@0",
+  "children": [
+    "11000@2",
+    "11094@18",
+    "11284@16",
+    "11820@4",
+    "14037@17",
+    "14388@17",
+    "15440@2",
+    "26544@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

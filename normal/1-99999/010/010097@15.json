@@ -1,0 +1,21 @@
+{
+  "id": 10097,
+  "name": "Hansel",
+  "generation": 15,
+  "created_at": "2017-11-28T16:43:41.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Hansel. I'm a Skydiving Instructor by day, and I like practicing witchcraft by night. I once clawed a rooster. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "8595@13",
+  "sire": "6717@14",
+  "children": [
+    "39260@16",
+    "58488@18",
+    "66821@16",
+    "160312@17",
+    "240331@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

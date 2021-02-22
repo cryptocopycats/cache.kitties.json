@@ -1,0 +1,19 @@
+{
+  "id": 10798,
+  "name": "Cheese",
+  "generation": 7,
+  "created_at": "2017-11-29T02:55:02.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Cheese. I'm often referred to as the Homer Simpson of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "3652@6",
+  "sire": "10652@0",
+  "children": [
+    "10893@16",
+    "14128@13",
+    "60930@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

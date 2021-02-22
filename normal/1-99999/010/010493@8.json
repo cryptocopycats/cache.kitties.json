@@ -1,0 +1,24 @@
+{
+  "id": 10493,
+  "name": "8 ShadowGrey",
+  "generation": 8,
+  "created_at": "2017-11-29T00:20:50.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 8 ShadowGrey. I believe the world is flat. When no one's home, I invite my pals over and we listen to Justin Bieber. Will you be the garlic butter to my wasabi?",
+  "language": "en",
+  "matron": "10459@6",
+  "sire": "7774@7",
+  "children": [
+    "10574@9",
+    "10726@11",
+    "10800@9",
+    "12727@11",
+    "15689@15",
+    "19781@11",
+    "22092@14",
+    "75965@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

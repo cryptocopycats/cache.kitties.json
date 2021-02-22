@@ -1,0 +1,22 @@
+{
+  "id": 11261,
+  "name": "Linda",
+  "generation": 10,
+  "created_at": "2017-11-29T06:41:41.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Linda. In high school, I was voted most likely to work at NASA. I once got in a fight with a rooster, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10973@8",
+  "sire": "10971@9",
+  "children": [
+    "11401@11",
+    "11617@11",
+    "13181@11",
+    "14407@13",
+    "20642@16",
+    "60773@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

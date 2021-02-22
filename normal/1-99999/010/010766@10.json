@@ -1,0 +1,24 @@
+{
+  "id": 10766,
+  "name": "# 10766",
+  "generation": 10,
+  "created_at": "2017-11-29T02:42:35.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm # 10766. In high school, I was voted biggest teacher's pet. When I'm not watching reality tv, I'm sleeping in fresh laundry! Let's pawty!",
+  "language": "en",
+  "matron": "6072@8",
+  "sire": "8006@9",
+  "children": [
+    "17950@11",
+    "52671@11",
+    "107464@11",
+    "134803@11",
+    "153754@13",
+    "189253@11",
+    "259471@13",
+    "361047@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

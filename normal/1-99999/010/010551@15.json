@@ -1,0 +1,20 @@
+{
+  "id": 10551,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-29T00:49:00.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! My name's Kitty #10551. I once peed on Marie Antoinette's cat. They had it coming. I was voted school jock in college. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "7707@12",
+  "sire": "7869@14",
+  "children": [
+    "12759@16",
+    "17529@16",
+    "89283@17",
+    "299429@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

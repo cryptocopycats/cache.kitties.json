@@ -1,0 +1,22 @@
+{
+  "id": 11914,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-29T12:50:59.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 14. I'm often referred to as the Lisa Simpson of the group. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cereal—everything! Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "10649@13",
+  "sire": "3286@7",
+  "children": [
+    "14438@15",
+    "16679@18",
+    "29384@18",
+    "32400@15",
+    "62962@15",
+    "206388@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

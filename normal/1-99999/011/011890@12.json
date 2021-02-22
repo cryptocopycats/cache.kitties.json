@@ -1,0 +1,20 @@
+{
+  "id": 11890,
+  "name": "HadCat (12)",
+  "generation": 12,
+  "created_at": "2017-11-29T12:34:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! My name's HadCat (12). I once peed on John F. Kennedy Jr.'s cat. They had it coming. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11036@11",
+  "sire": "11052@9",
+  "children": [
+    "12164@13",
+    "12694@13",
+    "15567@13",
+    "47627@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

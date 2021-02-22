@@ -1,0 +1,25 @@
+{
+  "id": 10347,
+  "name": "Mr Kittles #10347",
+  "generation": 8,
+  "created_at": "2017-11-28T23:04:59.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Mr Kittles #10347. I'm a professional Train Conductor and I love cereal. Some people say I'm the Jon Snow of the group. I look forward to grooming with you.",
+  "language": "en",
+  "matron": "9211@6",
+  "sire": "9176@7",
+  "children": [
+    "10502@9",
+    "10555@9",
+    "10676@9",
+    "12034@9",
+    "13251@13",
+    "17817@9",
+    "23170@16",
+    "23919@9",
+    "74870@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

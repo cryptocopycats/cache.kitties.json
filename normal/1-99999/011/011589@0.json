@@ -1,0 +1,29 @@
+{
+  "id": 11589,
+  "name": "Brahmagupta",
+  "generation": 0,
+  "created_at": "2017-11-29T09:26:51.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Brahmagupta. I'm often referred to as the Cersei Lannister of the group. I once dreamed of being a Foreign Film Director. Now I can be found mocking dogs all day. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "12349@1",
+    "26876@7",
+    "27059@9",
+    "27167@1",
+    "32005@1",
+    "33848@4",
+    "34756@1",
+    "37095@7",
+    "50624@2",
+    "78969@16",
+    "124238@1",
+    "175988@1",
+    "209624@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

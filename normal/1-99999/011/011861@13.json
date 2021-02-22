@@ -1,0 +1,21 @@
+{
+  "id": 11861,
+  "name": "Muddy Buddy",
+  "generation": 13,
+  "created_at": "2017-11-29T12:18:38.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Muddy Buddy. All you need to know about me is I hate steak with a passion. I am 5% hobbit, 94% Foreign Film Director, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "7810@12",
+  "sire": "6514@5",
+  "children": [
+    "12491@14",
+    "23064@16",
+    "26438@16",
+    "74239@14",
+    "86943@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

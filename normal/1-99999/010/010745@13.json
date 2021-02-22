@@ -1,0 +1,20 @@
+{
+  "id": 10745,
+  "name": "Mike the Tiger",
+  "generation": 13,
+  "created_at": "2017-11-29T02:30:17.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Mike the Tiger. I'm often referred to as the Ron Weasley of the group. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Will you be the marmite to my soy sauce?",
+  "language": "en",
+  "matron": "7044@12",
+  "sire": "6887@11",
+  "children": [
+    "14257@15",
+    "71631@14",
+    "182001@14",
+    "210441@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 10405,
+  "name": "White Derp",
+  "generation": 9,
+  "created_at": "2017-11-28T23:36:02.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm White Derp. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Bart Simpson of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7203@8",
+  "sire": "7223@3",
+  "children": [
+    "11674@10",
+    "15216@10",
+    "15481@10",
+    "16202@10",
+    "20667@17",
+    "32884@15",
+    "48506@10",
+    "82688@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

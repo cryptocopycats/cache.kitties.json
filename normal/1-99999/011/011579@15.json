@@ -1,0 +1,21 @@
+{
+  "id": 11579,
+  "name": "To the Moon!",
+  "generation": 15,
+  "created_at": "2017-11-29T09:19:32.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm To the Moon!. All you need to know about me is I hate steak with a passion. I like to listen to Metallica while grooming. Don't judge me. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "10062@1",
+  "sire": "10753@14",
+  "children": [
+    "12497@16",
+    "15053@16",
+    "21288@16",
+    "30677@16",
+    "65330@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

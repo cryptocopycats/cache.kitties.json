@@ -1,0 +1,18 @@
+{
+  "id": 10337,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-28T23:00:04.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #10337. I'm a professional Spin Instructor  and I love apple pie. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I like your face.",
+  "language": "en",
+  "matron": "6910@9",
+  "sire": "10249@16",
+  "children": [
+    "10824@18",
+    "18334@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

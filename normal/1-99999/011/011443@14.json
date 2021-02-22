@@ -1,0 +1,18 @@
+{
+  "id": 11443,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-29T08:12:13.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #11443. I'm a Skydiving Instructor by day, and I like practicing witchcraft by night. When no one's home, I invite my pals over and we listen to Ace of Base. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "11159@13",
+  "sire": "4167@9",
+  "children": [
+    "13630@15",
+    "15507@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

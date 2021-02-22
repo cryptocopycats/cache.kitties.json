@@ -1,0 +1,19 @@
+{
+  "id": 10664,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-29T01:47:12.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #10664. I've never told anyone this, but I once snuggled a dog. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Let's pawty!",
+  "language": "en",
+  "matron": "10329@7",
+  "sire": "4101@11",
+  "children": [
+    "10947@13",
+    "11537@13",
+    "14068@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

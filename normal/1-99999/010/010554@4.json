@@ -1,0 +1,27 @@
+{
+  "id": 10554,
+  "name": "Julian",
+  "generation": 4,
+  "created_at": "2017-11-29T00:49:37.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! Julian here. I'm here to enjoy riding unicorns and sitting on your computer. I would give it all up to be on Oprah. Let's pawty!",
+  "language": "en",
+  "matron": "2657@0",
+  "sire": "10430@3",
+  "children": [
+    "10680@12",
+    "11072@5",
+    "11177@5",
+    "12077@7",
+    "14084@13",
+    "15320@13",
+    "20927@13",
+    "22550@16",
+    "64988@5",
+    "178592@5",
+    "183834@8"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 10425,
+  "name": "Claw",
+  "generation": 20,
+  "created_at": "2017-11-28T23:44:06.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Claw. I enjoy tricking babies, glaring at the neighbour's cat, and riding unicorns. My secret indulgence is chocolate. Will you be the wasabi to my soy sauce?",
+  "language": "en",
+  "matron": "6926@11",
+  "sire": "8267@19",
+  "children": [
+    "13849@21",
+    "27894@21",
+    "152175@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 11684,
+  "name": "Duck Cat | First Duck Cat",
+  "generation": 11,
+  "created_at": "2017-11-29T10:32:30.000Z",
+  "birthday": "2017-11-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Duck Cat | First Duck Cat. I enjoy taking selfies, slappin' da bass, and staying woke. My friends describe me as \"gullible.\" It's... accurate. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "10765@0",
+  "sire": "9695@10",
+  "children": [
+    "17886@14",
+    "20492@12",
+    "22689@12",
+    "26002@12",
+    "32311@15",
+    "33457@12",
+    "63812@12",
+    "186889@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
