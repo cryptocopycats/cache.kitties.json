@@ -1,0 +1,19 @@
+{
+  "id": 10039,
+  "name": "Scuba Diva",
+  "generation": 14,
+  "created_at": "2017-11-28T14:25:34.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Scuba Diva. I believe the world is flat. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7496@13",
+  "sire": "5743@9",
+  "children": [
+    "62495@15",
+    "74589@15",
+    "93176@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

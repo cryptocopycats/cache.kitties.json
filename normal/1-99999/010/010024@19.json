@@ -1,0 +1,19 @@
+{
+  "id": 10024,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-28T14:08:29.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #10024. In high school, I was voted most likely to work at NASA. I once dreamed of being a Dogwalker. Now I can be found watching reality tv all day. Will you be the soy sauce to my peanut butter?",
+  "language": "en",
+  "matron": "8547@16",
+  "sire": "8575@18",
+  "children": [
+    "11369@20",
+    "16847@20",
+    "28882@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

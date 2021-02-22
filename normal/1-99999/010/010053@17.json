@@ -1,0 +1,17 @@
+{
+  "id": 10053,
+  "name": "Pete - Gen17",
+  "generation": 17,
+  "created_at": "2017-11-28T14:49:28.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Pete - Gen17. I've never told anyone this, but I once licked a dog. When I'm not sleeping in fresh laundry, I'm tricking babies! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "9001@16",
+  "sire": "8965@16",
+  "children": [
+    "29445@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

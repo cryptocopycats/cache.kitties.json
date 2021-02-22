@@ -1,0 +1,19 @@
+{
+  "id": 10003,
+  "name": "Fluffz",
+  "generation": 18,
+  "created_at": "2017-11-28T13:34:48.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Fluffz. My friends describe me as voluptuous and despicable. I once dreamed of being a Mad Scientist. Now I can be found running a podcast all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7452@17",
+  "sire": "5613@11",
+  "children": [
+    "15900@19",
+    "16220@19",
+    "39291@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

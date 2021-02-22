@@ -1,0 +1,19 @@
+{
+  "id": 10018,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-28T13:59:17.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #10018. I'm a professional Ventriloquist and I love hamburgers. Some people say I'm the Niles Crane of the group. Let's pawty!",
+  "language": "en",
+  "matron": "3079@4",
+  "sire": "8272@8",
+  "children": [
+    "10160@10",
+    "44489@10",
+    "177895@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

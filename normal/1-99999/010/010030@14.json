@@ -1,0 +1,17 @@
+{
+  "id": 10030,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-28T14:10:01.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #10030. I'm a professional Mad Scientist and I love cantaloupe. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found volunteering at the local kitten rescue shelter all day. Will you be the marmalade to my soy sauce?",
+  "language": "en",
+  "matron": "8787@13",
+  "sire": "9175@13",
+  "children": [
+    "13769@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

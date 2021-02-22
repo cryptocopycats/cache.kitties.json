@@ -1,0 +1,22 @@
+{
+  "id": 10035,
+  "name": "Muddy Mitts Sailor parent",
+  "generation": 14,
+  "created_at": "2017-11-28T14:14:59.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Muddy Mitts Sailor parent. I enjoy licking doorknobs, riding unicorns, and glaring at the neighbour's cat. I am 55% sphinx, 94% Culinary Sanitation Specialist, and otherwise bad at math. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "8835@13",
+  "sire": "9645@1",
+  "children": [
+    "10312@15",
+    "26581@16",
+    "34499@15",
+    "74658@15",
+    "226573@21",
+    "361421@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

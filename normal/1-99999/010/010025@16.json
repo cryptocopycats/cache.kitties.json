@@ -1,0 +1,19 @@
+{
+  "id": 10025,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-28T14:09:55.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Kitty #10025. I want to live in a world where people believe the world is flat. I like to listen to Gloria Estefan while grooming. Don't judge me. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "6652@14",
+  "sire": "5959@15",
+  "children": [
+    "11369@20",
+    "17075@18",
+    "17096@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

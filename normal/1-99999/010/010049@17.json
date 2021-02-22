@@ -1,0 +1,18 @@
+{
+  "id": 10049,
+  "name": "Dally Wally",
+  "generation": 17,
+  "created_at": "2017-11-28T14:49:12.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Dally Wally. My friends describe me as vegan and wondrous. When no one's home, I invite my pals over and we listen to Aretha Franklin. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7456@16",
+  "sire": "7194@14",
+  "children": [
+    "10150@18",
+    "48499@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
