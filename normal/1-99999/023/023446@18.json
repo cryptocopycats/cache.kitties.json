@@ -1,0 +1,20 @@
+{
+  "id": 23446,
+  "name": "Michelle",
+  "generation": 18,
+  "created_at": "2017-12-01T18:04:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Michelle. My friends describe me as petulant and brilliant. I once got in a fight with a dog, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "17836@17",
+  "sire": "16055@13",
+  "children": [
+    "54069@19",
+    "82241@19",
+    "247431@19",
+    "350039@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

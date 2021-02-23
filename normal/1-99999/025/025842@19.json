@@ -1,0 +1,19 @@
+{
+  "id": 25842,
+  "name": "White Grandparents",
+  "generation": 19,
+  "created_at": "2017-12-02T01:21:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! White Grandparents here. I'm here to enjoy sweating through my feet and riding unicorns. I once made a moose dance. I like your face.",
+  "language": "en",
+  "matron": "25259@10",
+  "sire": "16211@18",
+  "children": [
+    "30587@20",
+    "93129@20",
+    "198942@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

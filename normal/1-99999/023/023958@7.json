@@ -1,0 +1,18 @@
+{
+  "id": 23958,
+  "name": "Gen7",
+  "generation": 7,
+  "created_at": "2017-12-01T19:10:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's Gen7. I once peed on Cleopatra's cat. They had it coming. I once got in a fight with a chimpanzee, and won. I like your face.",
+  "language": "en",
+  "matron": "23809@6",
+  "sire": "22284@6",
+  "children": [
+    "24741@8",
+    "25154@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

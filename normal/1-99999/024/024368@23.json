@@ -1,0 +1,18 @@
+{
+  "id": 24368,
+  "name": "Gen 23",
+  "generation": 23,
+  "created_at": "2017-12-01T20:45:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Gen 23. I once peed on Mother Theresa's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10380@20",
+  "sire": "13808@22",
+  "children": [
+    "25631@24",
+    "118046@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

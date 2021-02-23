@@ -1,0 +1,23 @@
+{
+  "id": 27910,
+  "name": "Sphynx Spock",
+  "generation": 2,
+  "created_at": "2017-12-02T08:44:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Sphynx Spock. I'm often referred to as the Cersei Lannister of the group. Sometimes I daydream of a life full of licking doorknobs, salad, and practicing witchcraft. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "27794@1",
+  "sire": "20461@1",
+  "children": [
+    "27938@3",
+    "28007@3",
+    "29664@3",
+    "43170@3",
+    "43600@3",
+    "49246@3",
+    "52999@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23526,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-12-01T18:09:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen 17. I'm a professional Dogwalker and I love apple pie. In my free time, I can usually be found prickly or riding the bus. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "17842@0",
+  "sire": "17070@16",
+  "children": [
+    "28459@20",
+    "30992@18",
+    "45867@20",
+    "98643@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 61,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

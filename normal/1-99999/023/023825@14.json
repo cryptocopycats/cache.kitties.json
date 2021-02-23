@@ -1,0 +1,18 @@
+{
+  "id": 23825,
+  "name": "Nermal",
+  "generation": 14,
+  "created_at": "2017-12-01T18:38:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Nermal. I enjoy eating lasagna, fighting the patriarchy, and tricking babies. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16870@13",
+  "sire": "1044@0",
+  "children": [
+    "26436@15",
+    "38869@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

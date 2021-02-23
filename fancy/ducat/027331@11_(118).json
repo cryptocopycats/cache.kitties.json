@@ -1,0 +1,24 @@
+{
+  "id": 27331,
+  "name": "Brisk Bird Rare Kitty",
+  "generation": 11,
+  "created_at": "2017-12-02T06:45:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Brisk Bird Rare Kitty. I've never told anyone this, but I once clawed a dog. My friends describe me as \"petulant.\" It's... accurate. I look forward to shakin' dat booty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "20597@7",
+  "sire": "4693@10",
+  "children": [
+    "29695@12",
+    "104158@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 118,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

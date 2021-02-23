@@ -1,0 +1,27 @@
+{
+  "id": 27039,
+  "name": "Low ID #27039",
+  "generation": 2,
+  "created_at": "2017-12-02T05:46:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Low ID #27039. I believe that one day cats will rule this planet. I am 81% gremlin, 46% Skydiving Instructor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26810@1",
+  "sire": "26222@1",
+  "children": [
+    "32582@3",
+    "32623@3",
+    "32859@3",
+    "33325@3",
+    "33629@3",
+    "35384@3",
+    "39281@3",
+    "39964@3",
+    "64278@3",
+    "95646@5",
+    "341472@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

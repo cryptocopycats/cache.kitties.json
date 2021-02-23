@@ -1,0 +1,17 @@
+{
+  "id": 28144,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T09:35:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Gen 6. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Will you be the ghost pepper hot sauce to my soy sauce?",
+  "language": "en",
+  "matron": "27944@5",
+  "sire": "23957@5",
+  "children": [
+    "28682@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

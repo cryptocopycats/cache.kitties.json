@@ -1,0 +1,17 @@
+{
+  "id": 24683,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T21:38:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen4. I'm often referred to as the Ron Weasley of the group. When I'm not tricking babies, I'm braiding people's hair! I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "23714@3",
+  "sire": "19234@3",
+  "children": [
+    "24882@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

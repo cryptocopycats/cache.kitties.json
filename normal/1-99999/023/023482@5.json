@@ -1,0 +1,23 @@
+{
+  "id": 23482,
+  "name": "Gen5 brisk",
+  "generation": 5,
+  "created_at": "2017-12-01T18:08:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen5 brisk. I'm a professional Dispensary Clerk and I love steak. Sometimes I daydream of a life full of eating until I loathe myself, chocolate, and jump-roping. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19483@4",
+  "sire": "15611@4",
+  "children": [
+    "23639@6",
+    "23989@6",
+    "24601@6",
+    "25012@6",
+    "33430@6",
+    "36126@6",
+    "45914@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

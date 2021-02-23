@@ -1,0 +1,20 @@
+{
+  "id": 25411,
+  "name": "You Will Buy This Cat",
+  "generation": 17,
+  "created_at": "2017-12-01T23:51:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm You Will Buy This Cat. I enjoy grooming, breakdancing, and picking on mice. I'm often described as stinky, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "23000@16",
+  "sire": "5378@12",
+  "children": [
+    "27746@19",
+    "50770@19",
+    "76061@19",
+    "122552@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

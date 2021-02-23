@@ -1,0 +1,19 @@
+{
+  "id": 23692,
+  "name": "Hellfire",
+  "generation": 16,
+  "created_at": "2017-12-01T18:27:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Hellfire. I want to live in a world where people believe that one day cats will rule this planet. I put marmalade on everything. Like, everything: hot dogs, apple pie—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "7038@15",
+  "sire": "6084@13",
+  "children": [
+    "95920@17",
+    "121379@17",
+    "287011@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

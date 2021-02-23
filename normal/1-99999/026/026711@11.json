@@ -1,0 +1,21 @@
+{
+  "id": 26711,
+  "name": "Doh",
+  "generation": 11,
+  "created_at": "2017-12-02T04:32:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Doh. I've never told anyone this, but I once tricked a dog. I once dreamed of being a Train Conductor. Now I can be found prank-calling celebrities all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11355@8",
+  "sire": "23122@10",
+  "children": [
+    "27348@12",
+    "32558@12",
+    "60078@17",
+    "70362@12",
+    "82106@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

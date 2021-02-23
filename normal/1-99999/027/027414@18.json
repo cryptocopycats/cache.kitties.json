@@ -1,0 +1,19 @@
+{
+  "id": 27414,
+  "name": "Chestnut",
+  "generation": 18,
+  "created_at": "2017-12-02T07:00:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Chestnut. I enjoy spinning sick beats, grooming, and riding unicorns. I put cinammon on everything. Like, everything: hot dogs, lasagna—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "26867@10",
+  "sire": "27064@17",
+  "children": [
+    "28047@19",
+    "56308@19",
+    "172275@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 26656,
+  "name": "Gen 18 Slow",
+  "generation": 18,
+  "created_at": "2017-12-02T04:21:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 18 Slow. I've never told anyone this, but I once clawed a dog. My friends describe me as \"despicable.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "21447@6",
+  "sire": "19298@17",
+  "children": [
+    "60129@19",
+    "114813@19",
+    "208384@19",
+    "307575@19",
+    "486059@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24963,
+  "name": "Gen8 Plodding Cooldow",
+  "generation": 8,
+  "created_at": "2017-12-01T22:45:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Gen8 Plodding Cooldow. I'm often referred to as the Bart Simpson of the group. In my free time, I can usually be found wondrous or jump-roping. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "24839@7",
+  "sire": "24193@7",
+  "children": [
+    "32107@9",
+    "33851@18",
+    "45986@13",
+    "75047@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

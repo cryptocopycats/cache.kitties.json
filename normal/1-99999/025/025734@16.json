@@ -1,0 +1,19 @@
+{
+  "id": 25734,
+  "name": "Angela",
+  "generation": 16,
+  "created_at": "2017-12-02T00:54:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Angela. My friends describe me as annoying and seductive. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "22845@13",
+  "sire": "21416@15",
+  "children": [
+    "35101@18",
+    "36859@17",
+    "72402@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

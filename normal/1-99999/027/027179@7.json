@@ -1,0 +1,22 @@
+{
+  "id": 27179,
+  "name": "Dastardly Dave",
+  "generation": 7,
+  "created_at": "2017-12-02T06:10:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Dastardly Dave. My friends describe me as brilliant and fabulous. I once dreamed of being a Foreign Film Director. Now I can be found prank-calling celebrities all day. Let's get busy!",
+  "language": "en",
+  "matron": "20198@5",
+  "sire": "19545@6",
+  "children": [
+    "38081@10",
+    "38234@8",
+    "39276@10",
+    "49131@10",
+    "61507@9",
+    "66924@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 27475,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-02T07:12:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #27475. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Princess Diana. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6335@15",
+  "sire": "8560@10",
+  "children": [
+    "35358@18",
+    "86927@17",
+    "231501@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 28040,
+  "name": "Grey Belly John",
+  "generation": 15,
+  "created_at": "2017-12-02T09:10:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Grey Belly John. In high school, I was voted biggest teacher's pet. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found practicing witchcraft all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16142@12",
+  "sire": "15858@14",
+  "children": [
+    "40197@16",
+    "46120@16",
+    "71973@20",
+    "252144@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

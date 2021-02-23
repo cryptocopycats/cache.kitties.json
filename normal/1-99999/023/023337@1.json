@@ -1,0 +1,22 @@
+{
+  "id": 23337,
+  "name": "ceri",
+  "generation": 1,
+  "created_at": "2017-12-01T17:51:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm ceri. All you need to know about me is I hate salad with a passion. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "12126@0",
+  "sire": "12908@0",
+  "children": [
+    "51146@9",
+    "52626@7",
+    "54247@6",
+    "231633@2",
+    "264192@2",
+    "282894@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

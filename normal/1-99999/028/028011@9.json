@@ -1,0 +1,18 @@
+{
+  "id": 28011,
+  "name": "G9 BR",
+  "generation": 9,
+  "created_at": "2017-12-02T09:05:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G9 BR. I'm a Ventriloquist by day, and I like watching reality tv by night. My secret indulgence is salad. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16977@8",
+  "sire": "25755@8",
+  "children": [
+    "28169@10",
+    "34235@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 24585,
+  "name": "Lumpy",
+  "generation": 10,
+  "created_at": "2017-12-01T21:20:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! My name's Lumpy. I once peed on Mother Theresa's cat. They had it coming. My friends describe me as \"hairy.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "23782@9",
+  "sire": "24379@9",
+  "children": [
+    "26973@13",
+    "27619@14",
+    "28845@13",
+    "35553@14",
+    "45967@23",
+    "76122@13",
+    "970177@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

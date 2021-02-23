@@ -1,0 +1,21 @@
+{
+  "id": 27398,
+  "name": "Lemon Dougy",
+  "generation": 8,
+  "created_at": "2017-12-02T06:58:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's Lemon Dougy. I once peed on Confucius's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Confucius. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8059@7",
+  "sire": "8079@7",
+  "children": [
+    "38868@15",
+    "38981@11",
+    "43044@17",
+    "73368@11",
+    "85059@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

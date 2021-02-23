@@ -1,0 +1,19 @@
+{
+  "id": 25004,
+  "name": "Gen 6 Brisk",
+  "generation": 6,
+  "created_at": "2017-12-01T22:56:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 6 Brisk. In high school, I was voted school jock. Sometimes I daydream of a life full of shakin' dat booty, steak, and talking about how much I lift. Will you be the ghost pepper hot sauce to my garlic butter?",
+  "language": "en",
+  "matron": "24848@5",
+  "sire": "24852@5",
+  "children": [
+    "25447@17",
+    "49023@7",
+    "50850@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

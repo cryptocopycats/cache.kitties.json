@@ -1,0 +1,19 @@
+{
+  "id": 23416,
+  "name": "Puffles",
+  "generation": 15,
+  "created_at": "2017-12-01T17:58:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Puffles. I enjoy fighting for the people, breakdancing, and taking selfies. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "17492@14",
+  "sire": "20249@12",
+  "children": [
+    "60395@16",
+    "73441@16",
+    "248566@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

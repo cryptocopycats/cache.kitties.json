@@ -1,0 +1,18 @@
+{
+  "id": 26330,
+  "name": "Mint",
+  "generation": 9,
+  "created_at": "2017-12-02T03:28:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Mint. I've never told anyone this, but I once frolicked with a dog. I am 75% elf, 96% Mad Scientist, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "24328@8",
+  "sire": "19642@8",
+  "children": [
+    "43664@10",
+    "72619@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

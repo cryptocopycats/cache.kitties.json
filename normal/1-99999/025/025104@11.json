@@ -1,0 +1,19 @@
+{
+  "id": 25104,
+  "name": "G11 Cymric",
+  "generation": 11,
+  "created_at": "2017-12-01T23:11:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm G11 Cymric. I enjoy tricking babies, picking flowers, and chasing string. When no one's home, I invite my pals over and we listen to Gloria Estefan. Let's pawty!",
+  "language": "en",
+  "matron": "24837@9",
+  "sire": "24859@10",
+  "children": [
+    "27042@14",
+    "50387@12",
+    "60577@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

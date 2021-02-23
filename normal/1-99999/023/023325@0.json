@@ -1,0 +1,24 @@
+{
+  "id": 23325,
+  "name": "Royal Purple Cheese | Gen0",
+  "generation": 0,
+  "created_at": "2017-12-01T17:47:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Royal Purple Cheese | Gen0. I once peed on Marie Antoinette's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "29013@15",
+    "32992@17",
+    "38766@1",
+    "108533@1",
+    "110520@1",
+    "111496@1",
+    "182240@2",
+    "280266@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

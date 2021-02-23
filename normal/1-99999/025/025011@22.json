@@ -1,0 +1,17 @@
+{
+  "id": 25011,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-01T22:56:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #25011. I'm often referred to as the Hermione Granger of the group. I am 20% wizard, 6% Dispensary Clerk, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "22355@14",
+  "sire": "22983@21",
+  "children": [
+    "49024@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

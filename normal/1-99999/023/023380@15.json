@@ -1,0 +1,17 @@
+{
+  "id": 23380,
+  "name": "Rich Genes",
+  "generation": 15,
+  "created_at": "2017-12-01T17:56:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Rich Genes. All you need to know about me is I hate lasagna with a passion. In my free time, I can usually be found preposterous or riverdancing. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "6324@14",
+  "sire": "17560@14",
+  "children": [
+    "278519@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

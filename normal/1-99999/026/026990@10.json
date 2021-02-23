@@ -1,0 +1,23 @@
+{
+  "id": 26990,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-02T05:35:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #26990. I'm a Ventriloquist by day, and I like running a podcast by night. I like to listen to Ace of Base while grooming. Don't judge me. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "3950@8",
+  "sire": "4749@9",
+  "children": [
+    "35776@12",
+    "41713@14",
+    "64142@19",
+    "82941@11",
+    "96941@11",
+    "224488@13",
+    "537976@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 25780,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-02T01:05:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm 8. I'm a Mad Scientist by day, and I like riding the bus by night. I am 56% fairy, 42% Aerobics Athlete , and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "25475@7",
+  "sire": "25025@6",
+  "children": [
+    "26475@9",
+    "27412@9",
+    "39280@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

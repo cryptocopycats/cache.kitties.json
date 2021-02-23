@@ -1,0 +1,23 @@
+{
+  "id": 23171,
+  "name": "Benihime",
+  "generation": 10,
+  "created_at": "2017-12-01T16:05:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Benihime. I enjoy spinning sick beats, grooming, and licking doorknobs. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "21233@9",
+  "sire": "21528@7",
+  "children": [
+    "24212@12",
+    "24655@11",
+    "25532@13",
+    "27904@16",
+    "44712@16",
+    "74126@16",
+    "139565@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

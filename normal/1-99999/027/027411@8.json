@@ -1,0 +1,18 @@
+{
+  "id": 27411,
+  "name": "Peter Griffin - Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-02T06:59:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Peter Griffin - Gen 8. In high school, I was voted biggest teacher's pet. Some people say I'm the Peter Griffin of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "27262@7",
+  "sire": "27264@6",
+  "children": [
+    "27559@9",
+    "52951@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

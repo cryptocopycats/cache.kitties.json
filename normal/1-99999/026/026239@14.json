@@ -1,0 +1,18 @@
+{
+  "id": 26239,
+  "name": "Gen 14 sphynx",
+  "generation": 14,
+  "created_at": "2017-12-02T03:12:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Gen 14 sphynx. In high school, I was voted school jock. I like to listen to Michael Bolton while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16867@13",
+  "sire": "22364@5",
+  "children": [
+    "50886@17",
+    "76499@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 28023,
+  "name": "Scarlet Emeraldgreen",
+  "generation": 2,
+  "created_at": "2017-12-02T09:08:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Scarlet Emeraldgreen. In high school, I was voted school jock. I like to listen to Wutang while grooming. Don't judge me. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "27853@1",
+  "sire": "22081@1",
+  "children": [
+    "33321@3",
+    "33518@3",
+    "34430@3",
+    "38855@3",
+    "49565@5",
+    "57331@3",
+    "83269@3",
+    "111554@3",
+    "164153@3",
+    "217498@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

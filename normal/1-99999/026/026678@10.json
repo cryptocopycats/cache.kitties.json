@@ -1,0 +1,20 @@
+{
+  "id": 26678,
+  "name": "111: G10",
+  "generation": 10,
+  "created_at": "2017-12-02T04:25:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm 111: G10. I believe the world is flat. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "22436@9",
+  "sire": "22207@9",
+  "children": [
+    "29621@11",
+    "37403@11",
+    "43479@11",
+    "68665@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

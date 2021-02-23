@@ -1,0 +1,20 @@
+{
+  "id": 23236,
+  "name": "Dar",
+  "generation": 18,
+  "created_at": "2017-12-01T16:27:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Dar. I'm a professional Spin Instructor  and I love apple pie. I once dreamed of being a Train Conductor. Now I can be found swiping left all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17280@17",
+  "sire": "12554@13",
+  "children": [
+    "29362@19",
+    "53960@19",
+    "123316@19",
+    "286942@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

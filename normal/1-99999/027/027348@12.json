@@ -1,0 +1,20 @@
+{
+  "id": 27348,
+  "name": "G12 Chartreux",
+  "generation": 12,
+  "created_at": "2017-12-02T06:51:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G12 Chartreux. I'm a Spin Instructor  by day, and I like mocking dogs by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "24479@9",
+  "sire": "26711@11",
+  "children": [
+    "31528@20",
+    "53806@13",
+    "112386@18",
+    "164263@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

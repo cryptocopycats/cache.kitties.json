@@ -1,0 +1,20 @@
+{
+  "id": 25015,
+  "name": "Candy Cane",
+  "generation": 19,
+  "created_at": "2017-12-01T22:56:40.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Candy Cane. I'm often referred to as the Niles Crane of the group. I am 90% troll, 68% Foreign Film Director, and otherwise bad at math. Will you be the peanut butter to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "14940@18",
+  "sire": "18881@5",
+  "children": [
+    "26175@20",
+    "49025@20",
+    "69054@20",
+    "922081@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

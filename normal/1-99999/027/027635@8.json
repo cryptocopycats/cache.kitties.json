@@ -1,0 +1,21 @@
+{
+  "id": 27635,
+  "name": "Gandalf",
+  "generation": 8,
+  "created_at": "2017-12-02T07:43:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gandalf. I'm often referred to as the Hermione Granger of the group. Sometimes I daydream of a life full of picking flowers, ice cream, and swiping left. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5298@7",
+  "sire": "21447@6",
+  "children": [
+    "28426@10",
+    "49449@9",
+    "54126@9",
+    "63025@9",
+    "73221@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

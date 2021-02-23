@@ -1,0 +1,19 @@
+{
+  "id": 23599,
+  "name": "LovelyKitty",
+  "generation": 15,
+  "created_at": "2017-12-01T18:17:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm LovelyKitty. I believe the world is flat. Some people say I'm the Niles Crane of the group. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "19105@14",
+  "sire": "17810@12",
+  "children": [
+    "26226@16",
+    "28759@17",
+    "42716@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

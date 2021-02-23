@@ -1,0 +1,23 @@
+{
+  "id": 24346,
+  "name": "G9 | Snappy | Fancy",
+  "generation": 9,
+  "created_at": "2017-12-01T20:43:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm G9 | Snappy | Fancy. In high school, I was voted most likely to work at NASA. I would give it all up for a Chanel purse. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "16490@8",
+  "sire": "19000@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 71,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

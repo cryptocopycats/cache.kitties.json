@@ -1,0 +1,18 @@
+{
+  "id": 24518,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T21:09:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! Kitty #24518 here. I'm here to enjoy reciting poetry and chasing red dots. I once got in a fight with a chimpanzee, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24320@1",
+  "sire": "24439@14",
+  "children": [
+    "26153@16",
+    "31597@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

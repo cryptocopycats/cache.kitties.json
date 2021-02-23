@@ -1,0 +1,20 @@
+{
+  "id": 23023,
+  "name": "MAMA",
+  "generation": 19,
+  "created_at": "2017-12-01T14:58:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm MAMA. I've never told anyone this, but I once pawed at a dog. Some people say I'm the Peter Griffin of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "19736@18",
+  "sire": "18309@13",
+  "children": [
+    "25645@20",
+    "176699@20",
+    "208456@20",
+    "349787@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

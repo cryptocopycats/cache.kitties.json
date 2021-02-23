@@ -1,0 +1,19 @@
+{
+  "id": 26902,
+  "name": "G15",
+  "generation": 15,
+  "created_at": "2017-12-02T05:18:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm G15. I believe that one day cats will rule this planet. I am 64% elf, 5% Spin Instructor , and otherwise bad at math. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "8984@14",
+  "sire": "18598@10",
+  "children": [
+    "33343@18",
+    "37564@21",
+    "94079@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

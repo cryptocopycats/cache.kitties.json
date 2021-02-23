@@ -1,0 +1,31 @@
+{
+  "id": 23336,
+  "name": "Pachito",
+  "generation": 1,
+  "created_at": "2017-12-01T17:51:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Pachito. My friends describe me as tantalizing and seductive. I am 16% oracle, 17% Ventriloquist, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21502@0",
+  "sire": "13480@0",
+  "children": [
+    "23601@2",
+    "23762@2",
+    "24501@2",
+    "24966@2",
+    "50621@2",
+    "230480@2",
+    "233648@2",
+    "244493@2",
+    "264753@2",
+    "276725@2",
+    "317781@2",
+    "1369547@3",
+    "1399242@3",
+    "1421766@3",
+    "1463059@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

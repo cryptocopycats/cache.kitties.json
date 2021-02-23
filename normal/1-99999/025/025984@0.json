@@ -1,0 +1,22 @@
+{
+  "id": 25984,
+  "name": "Bob",
+  "generation": 0,
+  "created_at": "2017-12-02T02:06:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Bob. I'm often referred to as the Bart Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "221885@1",
+    "222162@1",
+    "248925@1",
+    "257514@1",
+    "270007@1",
+    "272570@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

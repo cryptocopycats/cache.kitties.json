@@ -1,0 +1,21 @@
+{
+  "id": 26736,
+  "name": "Saycheese Bloodred",
+  "generation": 5,
+  "created_at": "2017-12-02T04:40:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Saycheese Bloodred. I enjoy chasing red dots, eating until I loathe myself, and breakdancing. I once got in a fight with a rabbit, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26679@4",
+  "sire": "26710@4",
+  "children": [
+    "26875@6",
+    "45743@14",
+    "46067@6",
+    "116578@6",
+    "118421@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

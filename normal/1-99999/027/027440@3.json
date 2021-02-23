@@ -1,0 +1,22 @@
+{
+  "id": 27440,
+  "name": "Gen3 Gold Spock",
+  "generation": 3,
+  "created_at": "2017-12-02T07:06:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Gen3 Gold Spock. All you need to know about me is I hate salad with a passion. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "27322@2",
+  "sire": "21138@2",
+  "children": [
+    "35871@4",
+    "36024@4",
+    "37277@4",
+    "41761@4",
+    "42781@4",
+    "64471@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

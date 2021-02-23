@@ -1,0 +1,28 @@
+{
+  "id": 27563,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-02T07:28:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! Kitty #27563 here. I'm here to enjoy reading garfield and riding dirty. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23745@7",
+  "sire": "24342@8",
+  "children": [
+    "35444@16",
+    "47833@11",
+    "71108@11",
+    "145216@10",
+    "150587@10",
+    "570645@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 120,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,18 @@
+{
+  "id": 26966,
+  "name": "Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-02T05:31:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen 10. My friends describe me as vegan and petulant. My friends describe me as \"despicable.\" It's... accurate. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "25675@6",
+  "sire": "26035@9",
+  "children": [
+    "27415@11",
+    "34009@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

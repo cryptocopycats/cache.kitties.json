@@ -1,0 +1,18 @@
+{
+  "id": 25233,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-01T23:18:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Gen 3. All you need to know about me is I hate wet food with a passion. I once kissed a dolphin. I don't like to talk about it. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "24052@2",
+  "sire": "23760@2",
+  "children": [
+    "25252@4",
+    "25643@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

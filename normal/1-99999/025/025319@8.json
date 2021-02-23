@@ -1,0 +1,19 @@
+{
+  "id": 25319,
+  "name": "G8 lemonade sizzurp",
+  "generation": 8,
+  "created_at": "2017-12-01T23:33:40.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm G8 lemonade sizzurp. I'm a professional Dogwalker and I love chocolate. When no one's home, I invite my pals over and we listen to Coldplay. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "20264@7",
+  "sire": "23866@1",
+  "children": [
+    "25570@11",
+    "26767@12",
+    "60547@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

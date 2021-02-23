@@ -1,0 +1,26 @@
+{
+  "id": 26865,
+  "name": "Gen 2 Skyblue Swift",
+  "generation": 2,
+  "created_at": "2017-12-02T05:13:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Gen 2 Skyblue Swift. I'm a Mad Scientist by day, and I like mocking dogs by night. I like to listen to Mariah Carey while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "26372@1",
+  "sire": "26810@1",
+  "children": [
+    "29481@3",
+    "31282@3",
+    "31523@3",
+    "31801@3",
+    "37306@3",
+    "38314@3",
+    "49114@3",
+    "56610@3",
+    "85097@3",
+    "115303@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

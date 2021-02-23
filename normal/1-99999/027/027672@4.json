@@ -1,0 +1,19 @@
+{
+  "id": 27672,
+  "name": "G4 Brisk Lime Bloodred Cymric",
+  "generation": 4,
+  "created_at": "2017-12-02T07:52:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm G4 Brisk Lime Bloodred Cymric. I've never told anyone this, but I once cleaned a dog. When no one's home, I invite my pals over and we listen to Metallica. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "27053@3",
+  "sire": "27392@3",
+  "children": [
+    "27768@6",
+    "37005@5",
+    "37568@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

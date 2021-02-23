@@ -1,0 +1,19 @@
+{
+  "id": 24267,
+  "name": "G3",
+  "generation": 3,
+  "created_at": "2017-12-01T20:26:40.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm G3. I'm a Dogwalker by day, and I like riverdancing by night. I was voted most likely to work at NASA in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "14651@1",
+  "sire": "23221@2",
+  "children": [
+    "24627@4",
+    "28932@4",
+    "35123@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

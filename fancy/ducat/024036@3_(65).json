@@ -1,0 +1,23 @@
+{
+  "id": 24036,
+  "name": "Gen3 Virgin Fancy Bird Duck",
+  "generation": 3,
+  "created_at": "2017-12-01T19:33:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Gen3 Virgin Fancy Bird Duck. I'm a professional Aerobics Athlete  and I love lasagna. I once got in a fight with a chimpanzee, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23762@2",
+  "sire": "18603@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 65,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

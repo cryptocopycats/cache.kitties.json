@@ -1,0 +1,28 @@
+{
+  "id": 25647,
+  "name": "Kelly",
+  "generation": 1,
+  "created_at": "2017-12-02T00:37:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kelly. I enjoy eating lasagna, licking doorknobs, and tripping my owner. I put soy sauce on everything. Like, everything: hot dogs, lasagna—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "24686@0",
+  "sire": "25464@0",
+  "children": [
+    "27016@2",
+    "39442@2",
+    "46116@2",
+    "48394@2",
+    "50915@2",
+    "55969@2",
+    "63789@2",
+    "78917@2",
+    "94242@2",
+    "117440@2",
+    "241390@2",
+    "270012@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

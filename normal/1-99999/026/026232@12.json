@@ -1,0 +1,18 @@
+{
+  "id": 26232,
+  "name": "Baby",
+  "generation": 12,
+  "created_at": "2017-12-02T03:11:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Baby here. I'm here to enjoy tricking babies and breakdancing. I'm often described as wondrous, and I own it. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "12940@11",
+  "sire": "21095@8",
+  "children": [
+    "27037@17",
+    "39802@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

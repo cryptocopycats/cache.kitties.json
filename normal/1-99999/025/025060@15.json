@@ -1,0 +1,19 @@
+{
+  "id": 25060,
+  "name": "LovelyCat",
+  "generation": 15,
+  "created_at": "2017-12-01T23:08:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's LovelyCat. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once made a dog jump. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "11877@10",
+  "sire": "20448@14",
+  "children": [
+    "53208@22",
+    "59552@16",
+    "82727@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

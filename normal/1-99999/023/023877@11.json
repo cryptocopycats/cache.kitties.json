@@ -1,0 +1,19 @@
+{
+  "id": 23877,
+  "name": "G11",
+  "generation": 11,
+  "created_at": "2017-12-01T18:52:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm G11. I'm a Dogwalker by day, and I like swiping left by night. I once dreamed of being a Private Dancer . Now I can be found sleeping in fresh laundry all day. Our friendship will be gullible, smelly, and full of cantaloupe.",
+  "language": "en",
+  "matron": "22972@10",
+  "sire": "21718@6",
+  "children": [
+    "24089@12",
+    "25293@12",
+    "27219@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

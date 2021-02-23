@@ -1,0 +1,20 @@
+{
+  "id": 24359,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-01T20:44:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! Gen 14 here. I'm here to enjoy riding dirty and chasing red dots. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Let's get busy!",
+  "language": "en",
+  "matron": "23431@9",
+  "sire": "20675@13",
+  "children": [
+    "26752@15",
+    "52605@15",
+    "71126@17",
+    "178913@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23333,
+  "name": "Gen 5 | Brisk | Starter Kitty",
+  "generation": 5,
+  "created_at": "2017-12-01T17:51:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Gen 5 | Brisk | Starter Kitty. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Frodo Baggins of the group. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "22869@4",
+  "sire": "18971@3",
+  "children": [
+    "23733@6",
+    "23896@6",
+    "29439@6",
+    "39024@6",
+    "48639@6",
+    "55701@6",
+    "68092@6",
+    "81224@6",
+    "104449@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 23457,
+  "name": "Rolnik",
+  "generation": 17,
+  "created_at": "2017-12-01T18:07:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Rolnik. My friends describe me as stinky and voluptuous. I once pranced with a chimpanzee. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "11884@16",
+  "sire": "14790@11",
+  "children": [
+    "64248@18",
+    "97491@18",
+    "116428@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

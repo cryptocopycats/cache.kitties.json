@@ -1,0 +1,18 @@
+{
+  "id": 25438,
+  "name": "Gen2 Swift",
+  "generation": 2,
+  "created_at": "2017-12-01T23:55:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen2 Swift. I'm a Dispensary Clerk by day, and I like riding the bus by night. I would give it all up to star in a soap opera. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "24327@1",
+  "sire": "24231@1",
+  "children": [
+    "77845@4",
+    "87875@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 25829,
+  "name": "Gen 1 | Strawberry | Aqua",
+  "generation": 1,
+  "created_at": "2017-12-02T01:18:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 1 | Strawberry | Aqua. I'm often referred to as the Niles Crane of the group. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "21889@0",
+  "sire": "21839@0",
+  "children": [
+    "26332@18",
+    "36422@2",
+    "39237@2",
+    "39318@2",
+    "55573@2",
+    "55942@2",
+    "60762@3",
+    "62829@2",
+    "88073@2",
+    "95959@2",
+    "112631@2",
+    "141890@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

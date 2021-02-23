@@ -1,0 +1,21 @@
+{
+  "id": 27010,
+  "name": "Eleos",
+  "generation": 13,
+  "created_at": "2017-12-02T05:40:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Eleos. I'm often referred to as the Marge Simpson of the group. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10888@10",
+  "sire": "8784@12",
+  "children": [
+    "34096@14",
+    "37384@14",
+    "40292@14",
+    "58090@14",
+    "103873@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

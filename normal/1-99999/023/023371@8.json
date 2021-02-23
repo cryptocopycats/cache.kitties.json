@@ -1,0 +1,18 @@
+{
+  "id": 23371,
+  "name": "Gen8 & Snappy",
+  "generation": 8,
+  "created_at": "2017-12-01T17:54:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Gen8 & Snappy. My friends describe me as fabulous and prickly. My friends describe me as \"ridiculous.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "22513@6",
+  "sire": "22511@7",
+  "children": [
+    "23862@9",
+    "75298@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

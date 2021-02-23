@@ -1,0 +1,26 @@
+{
+  "id": 26435,
+  "name": "Gen 4 Brisk Moustache",
+  "generation": 4,
+  "created_at": "2017-12-02T03:49:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 4 Brisk Moustache. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Confucius. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26214@3",
+  "sire": "6714@3",
+  "children": [
+    "26509@5",
+    "26605@5",
+    "30613@5",
+    "31900@5",
+    "34110@5",
+    "38751@9",
+    "40477@5",
+    "59355@5",
+    "167823@5",
+    "220586@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

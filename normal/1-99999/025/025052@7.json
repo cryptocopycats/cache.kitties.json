@@ -1,0 +1,18 @@
+{
+  "id": 25052,
+  "name": "Gen7",
+  "generation": 7,
+  "created_at": "2017-12-01T23:04:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Gen7 here. I'm here to enjoy licking doorknobs and breakdancing. I was voted biggest teacher's pet in college. Let's get busy!",
+  "language": "en",
+  "matron": "22513@6",
+  "sire": "24365@6",
+  "children": [
+    "25347@8",
+    "27999@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

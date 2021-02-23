@@ -1,0 +1,22 @@
+{
+  "id": 23158,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T16:01:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #23158. I'm a Skydiving Instructor by day, and I like reading Danielle Steele by night. In my free time, I can usually be found tantalizing or swiping right. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5786@13",
+  "sire": "8028@13",
+  "children": [
+    "29739@15",
+    "72254@15",
+    "110819@20",
+    "132582@25",
+    "329950@17",
+    "390524@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

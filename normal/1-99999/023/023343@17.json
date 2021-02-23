@@ -1,0 +1,18 @@
+{
+  "id": 23343,
+  "name": "Crop 3",
+  "generation": 17,
+  "created_at": "2017-12-01T17:53:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Crop 3. I've never told anyone this, but I once pranced with a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18853@16",
+  "sire": "1004@0",
+  "children": [
+    "47131@18",
+    "58959@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

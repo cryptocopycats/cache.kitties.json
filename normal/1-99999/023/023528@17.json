@@ -1,0 +1,21 @@
+{
+  "id": 23528,
+  "name": "Barney Sly",
+  "generation": 17,
+  "created_at": "2017-12-01T18:09:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Barney Sly. My friends describe me as brilliant and tantalizing. In my free time, I can usually be found petulant or sleeping in fresh laundry. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "11127@16",
+  "sire": "16151@14",
+  "children": [
+    "66862@18",
+    "320271@18",
+    "335817@18",
+    "366850@18",
+    "450380@25"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

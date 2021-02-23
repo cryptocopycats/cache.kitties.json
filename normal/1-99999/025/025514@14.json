@@ -1,0 +1,18 @@
+{
+  "id": 25514,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-02T00:12:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen 14. My friends describe me as fabulous and voluptuous. My secret indulgence is chocolate. I like your face.",
+  "language": "en",
+  "matron": "20816@13",
+  "sire": "19652@6",
+  "children": [
+    "48749@21",
+    "59922@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

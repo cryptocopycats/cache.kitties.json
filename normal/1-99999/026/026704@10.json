@@ -1,0 +1,20 @@
+{
+  "id": 26704,
+  "name": "10",
+  "generation": 10,
+  "created_at": "2017-12-02T04:31:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm 10. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is steak. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26490@9",
+  "sire": "26183@5",
+  "children": [
+    "27050@11",
+    "40060@11",
+    "49104@11",
+    "63854@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 27684,
+  "name": "Coco",
+  "generation": 17,
+  "created_at": "2017-12-02T07:55:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Coco. I'm a professional Skydiving Instructor and I love salad. Sometimes I daydream of a life full of sitting on your computer, ice cream, and riverdancing. Let's get busy!",
+  "language": "en",
+  "matron": "19767@14",
+  "sire": "21888@16",
+  "children": [
+    "128464@18",
+    "164122@24",
+    "192526@18",
+    "256626@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

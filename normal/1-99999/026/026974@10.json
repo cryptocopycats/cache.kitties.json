@@ -1,0 +1,20 @@
+{
+  "id": 26974,
+  "name": "Hiro",
+  "generation": 10,
+  "created_at": "2017-12-02T05:31:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Hiro. In high school, I was voted biggest teacher's pet. When I'm not sleeping in fresh laundry, I'm prank-calling celebrities! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "26351@8",
+  "sire": "26426@9",
+  "children": [
+    "28027@13",
+    "32031@18",
+    "38785@15",
+    "54960@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

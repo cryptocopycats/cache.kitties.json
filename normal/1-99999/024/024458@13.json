@@ -1,0 +1,20 @@
+{
+  "id": 24458,
+  "name": "Jeremy",
+  "generation": 13,
+  "created_at": "2017-12-01T20:59:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! My name's Jeremy. I once peed on Martin Luther King Jr.'s cat. They had it coming. When no one's home, I invite my pals over and we listen to Coldplay. I like your face.",
+  "language": "en",
+  "matron": "9636@4",
+  "sire": "13005@12",
+  "children": [
+    "25360@14",
+    "28088@14",
+    "169671@20",
+    "668427@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

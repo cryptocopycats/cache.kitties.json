@@ -1,0 +1,19 @@
+{
+  "id": 26463,
+  "name": "16",
+  "generation": 16,
+  "created_at": "2017-12-02T03:51:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm 16. I've never told anyone this, but I once groomed a dog. I'm often described as ridiculous, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16840@15",
+  "sire": "4024@3",
+  "children": [
+    "51793@17",
+    "74468@17",
+    "104034@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

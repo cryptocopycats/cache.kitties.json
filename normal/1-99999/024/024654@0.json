@@ -1,0 +1,28 @@
+{
+  "id": 24654,
+  "name": "Saycheese",
+  "generation": 0,
+  "created_at": "2017-12-01T21:34:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Saycheese. All you need to know about me is I hate apple pie with a passion. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "25837@1",
+    "27794@1",
+    "27846@1",
+    "27909@1",
+    "28080@1",
+    "43454@1",
+    "49012@1",
+    "165417@1",
+    "185784@1",
+    "206078@1",
+    "239860@1",
+    "292018@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

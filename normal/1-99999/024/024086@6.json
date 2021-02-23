@@ -1,0 +1,19 @@
+{
+  "id": 24086,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-01T19:43:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen6. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Mother Theresa. Will you be the marmite to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "23864@5",
+  "sire": "23816@5",
+  "children": [
+    "24179@7",
+    "24662@7",
+    "28547@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

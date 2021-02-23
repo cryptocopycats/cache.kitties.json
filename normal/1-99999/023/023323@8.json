@@ -1,0 +1,24 @@
+{
+  "id": 23323,
+  "name": "Gen 8 Jean Clawd Van Meow",
+  "generation": 8,
+  "created_at": "2017-12-01T17:47:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 8 Jean Clawd Van Meow. I'm a Culinary Sanitation Specialist by day, and I like watching reality tv by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "23246@7",
+  "sire": "23208@3",
+  "children": [
+    "25083@14",
+    "27732@14",
+    "35063@14",
+    "45440@14",
+    "65643@11",
+    "82306@9",
+    "123850@9",
+    "362836@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

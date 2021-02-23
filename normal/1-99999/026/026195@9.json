@@ -1,0 +1,20 @@
+{
+  "id": 26195,
+  "name": "Gen 9 | Snappy",
+  "generation": 9,
+  "created_at": "2017-12-02T03:09:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Gen 9 | Snappy. I'm often referred to as the Peter Griffin of the group. I once dreamed of being a Skydiving Instructor. Now I can be found mocking dogs all day. Will you be the pickles to my cinammon?",
+  "language": "en",
+  "matron": "15023@8",
+  "sire": "14743@8",
+  "children": [
+    "26408@10",
+    "29773@18",
+    "31277@19",
+    "37946@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

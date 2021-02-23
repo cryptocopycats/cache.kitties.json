@@ -1,0 +1,23 @@
+{
+  "id": 26321,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T03:26:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's Gen 3. I once peed on Amelia Earhart's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "19436@2",
+  "sire": "21148@2",
+  "children": [
+    "30986@4",
+    "33290@4",
+    "33580@4",
+    "42482@4",
+    "62869@4",
+    "68419@4",
+    "94880@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

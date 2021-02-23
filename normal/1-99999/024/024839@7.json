@@ -1,0 +1,18 @@
+{
+  "id": 24839,
+  "name": "Gen7",
+  "generation": 7,
+  "created_at": "2017-12-01T22:01:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen7. I want to live in a world where people believe the world is flat. I would give it all up to star in a soap opera. I like your face.",
+  "language": "en",
+  "matron": "24316@6",
+  "sire": "24160@6",
+  "children": [
+    "24963@8",
+    "25445@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

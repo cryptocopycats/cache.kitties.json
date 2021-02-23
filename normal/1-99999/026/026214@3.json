@@ -1,0 +1,26 @@
+{
+  "id": 26214,
+  "name": "Brisk Gen 3 Beard",
+  "generation": 3,
+  "created_at": "2017-12-02T03:11:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Brisk Gen 3 Beard. In high school, I was voted most likely to work at NASA. I once dreamed of being a Skydiving Instructor. Now I can be found mocking dogs all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "6196@2",
+  "sire": "17563@2",
+  "children": [
+    "26314@4",
+    "26435@4",
+    "26530@4",
+    "26913@4",
+    "27298@4",
+    "30210@4",
+    "31712@4",
+    "37317@4",
+    "60243@4",
+    "164187@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

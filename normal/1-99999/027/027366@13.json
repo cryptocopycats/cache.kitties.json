@@ -1,0 +1,19 @@
+{
+  "id": 27366,
+  "name": "PEZ",
+  "generation": 13,
+  "created_at": "2017-12-02T06:54:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm PEZ. My friends describe me as tantalizing and voluptuous. When no one's home, I invite my pals over and we listen to Ace of Base. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "26208@8",
+  "sire": "16756@12",
+  "children": [
+    "45598@17",
+    "57428@15",
+    "62385@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

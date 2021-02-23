@@ -1,0 +1,23 @@
+{
+  "id": 24191,
+  "name": "Slow | Gen 15 | Sherbert",
+  "generation": 15,
+  "created_at": "2017-12-01T20:08:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Slow | Gen 15 | Sherbert. I've never told anyone this, but I once frolicked with a dog. I'm convinced that the world is flat. One day I'll prove it. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "20363@10",
+  "sire": "12957@14",
+  "children": [
+    "44999@16",
+    "58215@16",
+    "69985@16",
+    "98116@17",
+    "151437@19",
+    "279244@16",
+    "404655@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

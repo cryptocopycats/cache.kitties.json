@@ -1,0 +1,26 @@
+{
+  "id": 25698,
+  "name": "Puddy Tat",
+  "generation": 5,
+  "created_at": "2017-12-02T00:46:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! I'm Puddy Tat. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is wet food. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16342@4",
+  "sire": "15968@3",
+  "children": [
+    "25747@6",
+    "25859@6",
+    "26117@6",
+    "27102@6",
+    "27328@6",
+    "28338@9",
+    "30575@6",
+    "45305@6",
+    "87112@9",
+    "124117@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

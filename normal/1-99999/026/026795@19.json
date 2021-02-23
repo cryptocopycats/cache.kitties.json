@@ -1,0 +1,19 @@
+{
+  "id": 26795,
+  "name": "Chairman Meow",
+  "generation": 19,
+  "created_at": "2017-12-02T04:52:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Chairman Meow. My friends describe me as prickly and gorgeous. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11263@13",
+  "sire": "12175@18",
+  "children": [
+    "76330@20",
+    "84028@20",
+    "245882@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

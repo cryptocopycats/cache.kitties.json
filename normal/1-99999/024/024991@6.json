@@ -1,0 +1,20 @@
+{
+  "id": 24991,
+  "name": "Cryptopuss",
+  "generation": 6,
+  "created_at": "2017-12-01T22:53:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Cryptopuss. In high school, I was voted biggest teacher's pet. My friends describe me as \"smelly.\" It's... accurate. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "22947@5",
+  "sire": "20522@4",
+  "children": [
+    "29391@7",
+    "30643@7",
+    "46124@7",
+    "51678@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

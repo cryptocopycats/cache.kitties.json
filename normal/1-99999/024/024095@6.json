@@ -1,0 +1,27 @@
+{
+  "id": 24095,
+  "name": "Sarcastic Salvador Dali",
+  "generation": 6,
+  "created_at": "2017-12-01T19:44:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Sarcastic Salvador Dali. All you need to know about me is I hate salad with a passion. I once got in a fight with a rhino, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "15932@5",
+  "sire": "15964@4",
+  "children": [
+    "25729@7",
+    "25937@7",
+    "29394@7",
+    "29659@7",
+    "32055@7",
+    "42129@7",
+    "66922@13",
+    "81462@15",
+    "140086@12",
+    "297163@11",
+    "455237@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

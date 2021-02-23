@@ -1,0 +1,17 @@
+{
+  "id": 26881,
+  "name": "Rufus the Naked Mole Rat",
+  "generation": 20,
+  "created_at": "2017-12-02T05:15:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Rufus the Naked Mole Rat. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "22970@4",
+  "sire": "26702@19",
+  "children": [
+    "175269@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

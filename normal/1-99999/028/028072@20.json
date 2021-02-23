@@ -1,0 +1,19 @@
+{
+  "id": 28072,
+  "name": "Munchkin",
+  "generation": 20,
+  "created_at": "2017-12-02T09:18:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm Munchkin. I'm a professional Private Dancer  and I love ice cream. In my free time, I can usually be found gullible or playing chess. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "23334@12",
+  "sire": "27538@19",
+  "children": [
+    "29464@21",
+    "56749@21",
+    "195570@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 26271,
+  "name": "WALL-E",
+  "generation": 16,
+  "created_at": "2017-12-02T03:14:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm WALL-E. I'm a Foreign Film Director by day, and I like riverdancing by night. My secret indulgence is wet food. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20227@15",
+  "sire": "20671@14",
+  "children": [
+    "31365@17",
+    "44919@17",
+    "74494@17",
+    "139555@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

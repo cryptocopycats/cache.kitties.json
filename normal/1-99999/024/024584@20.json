@@ -1,0 +1,17 @@
+{
+  "id": 24584,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-12-01T21:20:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 20. I'm often referred to as the Frodo Baggins of the group. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "23493@12",
+  "sire": "23549@19",
+  "children": [
+    "31838@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

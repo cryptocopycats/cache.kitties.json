@@ -1,0 +1,20 @@
+{
+  "id": 23121,
+  "name": "Sparky",
+  "generation": 15,
+  "created_at": "2017-12-01T15:32:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Sparky. I once peed on King Henry VIII's cat. They had it coming. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6530@14",
+  "sire": "16298@13",
+  "children": [
+    "24389@16",
+    "56465@17",
+    "63546@16",
+    "79576@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

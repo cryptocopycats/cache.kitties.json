@@ -1,0 +1,18 @@
+{
+  "id": 24975,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-12-01T22:47:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! Gen 21 here. I'm here to enjoy chasing string and being a nevernude. I once got in a fight with a moose, and won. Will you be the soy sauce to my maple syrup?",
+  "language": "en",
+  "matron": "19243@5",
+  "sire": "19206@20",
+  "children": [
+    "48820@22",
+    "65452@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

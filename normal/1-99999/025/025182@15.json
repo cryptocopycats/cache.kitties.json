@@ -1,0 +1,19 @@
+{
+  "id": 25182,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T23:12:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #25182. I'm often referred to as the Peter Griffin of the group. In my free time, I can usually be found despicable or summoning ghosts. Let's get busy!",
+  "language": "en",
+  "matron": "4885@14",
+  "sire": "12388@14",
+  "children": [
+    "26800@16",
+    "30166@16",
+    "70717@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

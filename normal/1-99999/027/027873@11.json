@@ -1,0 +1,22 @@
+{
+  "id": 27873,
+  "name": "Purple Brain",
+  "generation": 11,
+  "created_at": "2017-12-02T08:40:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Purple Brain. I've never told anyone this, but I once cleaned a dog. When no one's home, I invite my pals over and we listen to Wutang. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "27435@10",
+  "sire": "27483@10",
+  "children": [
+    "37253@16",
+    "40375@18",
+    "48756@18",
+    "56162@18",
+    "72169@20",
+    "106271@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

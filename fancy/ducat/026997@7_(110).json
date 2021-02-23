@@ -1,0 +1,29 @@
+{
+  "id": 26997,
+  "name": "G7 Fancy Bird Duck",
+  "generation": 7,
+  "created_at": "2017-12-02T05:37:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm G7 Fancy Bird Duck. My friends describe me as gullible and fabulous. I once dreamed of being a Ventriloquist. Now I can be found people-watching all day. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22090@6",
+  "sire": "17303@6",
+  "children": [
+    "33173@21",
+    "34226@8",
+    "35259@8",
+    "36411@9",
+    "38706@8",
+    "47018@11",
+    "75658@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 110,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 24006,
+  "name": "PirateCreator",
+  "generation": 14,
+  "created_at": "2017-12-01T19:26:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm PirateCreator. I'm often referred to as the Steve Urkel of the group. I once dreamed of being a Train Conductor. Now I can be found practicing witchcraft all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "5977@13",
+  "sire": "7566@10",
+  "children": [
+    "86782@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 89,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

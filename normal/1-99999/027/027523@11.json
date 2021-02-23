@@ -1,0 +1,19 @@
+{
+  "id": 27523,
+  "name": "Faye the Firetail",
+  "generation": 11,
+  "created_at": "2017-12-02T07:22:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Faye the Firetail. All you need to know about me is I hate steak with a passion. I'm often described as fabulous, and I own it. Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "22807@10",
+  "sire": "26347@9",
+  "children": [
+    "27925@12",
+    "64310@12",
+    "79208@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

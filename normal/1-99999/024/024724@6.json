@@ -1,0 +1,27 @@
+{
+  "id": 24724,
+  "name": "RARE Parents and Offspring",
+  "generation": 6,
+  "created_at": "2017-12-01T21:46:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm RARE Parents and Offspring. My friends describe me as smelly and annoying. I once made a moose pester. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23705@5",
+  "sire": "24573@5",
+  "children": [
+    "32278@7",
+    "32668@7",
+    "33398@10",
+    "34751@12",
+    "37283@11",
+    "43190@10",
+    "57941@7",
+    "81923@7",
+    "115404@7",
+    "216872@8",
+    "394357@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

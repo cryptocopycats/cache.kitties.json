@@ -1,0 +1,19 @@
+{
+  "id": 26785,
+  "name": "6",
+  "generation": 6,
+  "created_at": "2017-12-02T04:51:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm 6. I'm a Dogwalker by day, and I like volunteering at the local kitten rescue shelter by night. Sometimes I daydream of a life full of chasing red dots, ice cream, and tricking babies. Let's get busy!",
+  "language": "en",
+  "matron": "18067@5",
+  "sire": "25401@5",
+  "children": [
+    "27083@7",
+    "27649@9",
+    "38416@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

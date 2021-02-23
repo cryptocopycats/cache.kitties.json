@@ -1,0 +1,19 @@
+{
+  "id": 25833,
+  "name": "Gen 16",
+  "generation": 16,
+  "created_at": "2017-12-02T01:18:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 16. I'm a Private Dancer  by day, and I like siring for status by night. I like to listen to Justin Bieber while grooming. Don't judge me. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "23493@12",
+  "sire": "20616@15",
+  "children": [
+    "30992@18",
+    "36173@23",
+    "59922@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

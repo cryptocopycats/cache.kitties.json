@@ -1,0 +1,18 @@
+{
+  "id": 24709,
+  "name": "Petulant Princess",
+  "generation": 19,
+  "created_at": "2017-12-01T21:43:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Petulant Princess. My friends describe me as prickly and petulant. It's not common knowledge, but my ancestry connects me to Princess Diana. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "24433@4",
+  "sire": "24296@18",
+  "children": [
+    "32639@20",
+    "93903@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

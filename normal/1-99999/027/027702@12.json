@@ -1,0 +1,27 @@
+{
+  "id": 27702,
+  "name": "SAPPHIRE",
+  "generation": 12,
+  "created_at": "2017-12-02T07:59:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm SAPPHIRE. I'm often referred to as the Bart Simpson of the group. I'm often described as ridiculous, and I own it. I like your face.",
+  "language": "en",
+  "matron": "26593@9",
+  "sire": "27402@11",
+  "children": [
+    "27991@13",
+    "29528@13",
+    "33231@13",
+    "55361@13",
+    "89227@14",
+    "184516@13",
+    "353621@13",
+    "423874@13",
+    "430839@13",
+    "455009@13",
+    "465438@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

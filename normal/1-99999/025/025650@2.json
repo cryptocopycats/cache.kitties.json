@@ -1,0 +1,27 @@
+{
+  "id": 25650,
+  "name": "G2 Slow Chartreux Spock",
+  "generation": 2,
+  "created_at": "2017-12-02T00:37:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm G2 Slow Chartreux Spock. I believe that one day cats will rule this planet. I am 0% wizard, 67% Spin Instructor , and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "25310@1",
+  "sire": "25464@0",
+  "children": [
+    "27002@3",
+    "28089@6",
+    "28207@6",
+    "28393@6",
+    "29077@6",
+    "29718@6",
+    "31406@6",
+    "35866@6",
+    "52709@6",
+    "78784@6",
+    "140041@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

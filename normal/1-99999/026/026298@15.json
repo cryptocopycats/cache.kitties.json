@@ -1,0 +1,20 @@
+{
+  "id": 26298,
+  "name": "Purple Haze",
+  "generation": 15,
+  "created_at": "2017-12-02T03:21:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Purple Haze. I want to live in a world where people believe the world is flat. I'm often described as prickly, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "26068@8",
+  "sire": "5568@14",
+  "children": [
+    "30624@16",
+    "35927@16",
+    "59039@17",
+    "124469@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

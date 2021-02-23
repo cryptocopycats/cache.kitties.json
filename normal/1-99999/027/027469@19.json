@@ -1,0 +1,19 @@
+{
+  "id": 27469,
+  "name": "Caramelo",
+  "generation": 19,
+  "created_at": "2017-12-02T07:10:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Caramelo. I'm a Culinary Sanitation Specialist by day, and I like talking about how much I lift by night. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "20540@18",
+  "sire": "23013@17",
+  "children": [
+    "35542@20",
+    "66519@20",
+    "117856@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

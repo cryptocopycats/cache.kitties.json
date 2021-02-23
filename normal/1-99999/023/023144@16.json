@@ -1,0 +1,19 @@
+{
+  "id": 23144,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-01T15:51:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #23144. In high school, I was voted school jock. I am 98% hobbit, 7% Dispensary Clerk, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5946@15",
+  "sire": "4727@6",
+  "children": [
+    "24834@17",
+    "37700@17",
+    "65505@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

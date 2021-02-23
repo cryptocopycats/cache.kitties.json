@@ -1,0 +1,22 @@
+{
+  "id": 28231,
+  "name": "Bombur Marron",
+  "generation": 6,
+  "created_at": "2017-12-02T09:51:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! Bombur Marron here. I'm here to enjoy riding unicorns and eating lasagna. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4621@5",
+  "sire": "27506@3",
+  "children": [
+    "28710@7",
+    "28961@7",
+    "29377@9",
+    "30068@19",
+    "33296@7",
+    "48129@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

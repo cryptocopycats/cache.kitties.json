@@ -1,0 +1,18 @@
+{
+  "id": 26292,
+  "name": "Nurshin",
+  "generation": 18,
+  "created_at": "2017-12-02T03:17:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Nurshin. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "19181@12",
+  "sire": "21064@17",
+  "children": [
+    "31364@19",
+    "74460@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

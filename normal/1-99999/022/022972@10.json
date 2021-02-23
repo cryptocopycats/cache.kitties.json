@@ -1,0 +1,19 @@
+{
+  "id": 22972,
+  "name": "G10",
+  "generation": 10,
+  "created_at": "2017-12-01T14:11:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm G10. I want to live in a world where people believe the world is flat. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21475@9",
+  "sire": "21389@8",
+  "children": [
+    "23877@11",
+    "29363@15",
+    "59415@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

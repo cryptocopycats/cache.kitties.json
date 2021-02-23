@@ -1,0 +1,29 @@
+{
+  "id": 23601,
+  "name": "F1Cymric Mauveover",
+  "generation": 2,
+  "created_at": "2017-12-01T18:17:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm F1Cymric Mauveover. In high school, I was voted most likely to work at NASA. I like to listen to Wutang while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "23336@1",
+  "sire": "18466@1",
+  "children": [
+    "23714@3",
+    "24965@3",
+    "225457@6",
+    "226198@6",
+    "228410@5",
+    "231133@3",
+    "237815@3",
+    "257713@3",
+    "270880@3",
+    "298864@3",
+    "333971@3",
+    "385146@3",
+    "413176@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 25207,
+  "name": "Gen 23",
+  "generation": 23,
+  "created_at": "2017-12-01T23:13:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Gen 23. I'm a professional Aerobics Athlete  and I love hamburgers. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I like your face.",
+  "language": "en",
+  "matron": "23746@15",
+  "sire": "23807@22",
+  "children": [
+    "49039@24",
+    "96010@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

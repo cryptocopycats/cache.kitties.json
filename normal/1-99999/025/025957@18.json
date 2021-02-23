@@ -1,0 +1,19 @@
+{
+  "id": 25957,
+  "name": "Gen 18 | Slow",
+  "generation": 18,
+  "created_at": "2017-12-02T01:58:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen 18 | Slow. I've never told anyone this, but I once cleaned a dog. I'm often described as smelly, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "23303@17",
+  "sire": "23311@5",
+  "children": [
+    "29887@19",
+    "77586@20",
+    "112590@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

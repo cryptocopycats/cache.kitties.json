@@ -1,0 +1,23 @@
+{
+  "id": 28179,
+  "name": "Alley Cat's Cousin",
+  "generation": 10,
+  "created_at": "2017-12-02T09:40:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Alley Cat's Cousin. I enjoy fighting the patriarchy, tricking babies, and reciting poetry. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "27605@9",
+  "sire": "22631@9",
+  "children": [
+    "28241@11",
+    "29622@16",
+    "31225@13",
+    "42476@13",
+    "71050@11",
+    "115627@11",
+    "172272@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

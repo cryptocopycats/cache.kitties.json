@@ -1,0 +1,19 @@
+{
+  "id": 23549,
+  "name": "Morty",
+  "generation": 19,
+  "created_at": "2017-12-01T18:12:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Morty. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12172@17",
+  "sire": "10081@18",
+  "children": [
+    "24584@20",
+    "42567@21",
+    "116767@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

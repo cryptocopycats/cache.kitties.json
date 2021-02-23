@@ -1,0 +1,19 @@
+{
+  "id": 26486,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-12-02T03:55:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! G4 here. I'm here to enjoy tripping my owner and slappin' da bass. When no one's home, I invite my pals over and we listen to Wutang. Will you be the wasabi to my marmite?",
+  "language": "en",
+  "matron": "21007@3",
+  "sire": "19546@3",
+  "children": [
+    "26716@5",
+    "55227@5",
+    "64415@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

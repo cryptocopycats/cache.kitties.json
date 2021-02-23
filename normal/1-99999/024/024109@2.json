@@ -1,0 +1,26 @@
+{
+  "id": 24109,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-12-01T19:51:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen2. I've never told anyone this, but I once snuggled a dog. I'm often described as voluptuous, and I own it. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "15476@1",
+  "sire": "15264@1",
+  "children": [
+    "24201@3",
+    "34259@4",
+    "40401@3",
+    "40564@3",
+    "42600@3",
+    "42801@3",
+    "49888@3",
+    "60413@3",
+    "87409@3",
+    "113359@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

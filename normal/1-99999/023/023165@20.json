@@ -1,0 +1,18 @@
+{
+  "id": 23165,
+  "name": "Cali Otaku",
+  "generation": 20,
+  "created_at": "2017-12-01T16:03:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Cali Otaku. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I like your face.",
+  "language": "en",
+  "matron": "12585@19",
+  "sire": "13245@17",
+  "children": [
+    "24274@21",
+    "45569@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

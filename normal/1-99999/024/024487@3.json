@@ -1,0 +1,17 @@
+{
+  "id": 24487,
+  "name": "Galacticat",
+  "generation": 3,
+  "created_at": "2017-12-01T21:04:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Galacticat here. I'm here to enjoy eating lasagna and sweating through my feet. I am 38% sphinx, 54% Skydiving Instructor, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "24188@1",
+  "sire": "24454@2",
+  "children": [
+    "94040@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

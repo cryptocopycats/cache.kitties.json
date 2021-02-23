@@ -1,0 +1,23 @@
+{
+  "id": 27392,
+  "name": "Gen3 Gold Aquamarine",
+  "generation": 3,
+  "created_at": "2017-12-02T06:56:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Gen3 Gold Aquamarine. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as raunchy, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "25464@0",
+  "sire": "3209@2",
+  "children": [
+    "27541@4",
+    "27672@4",
+    "27957@4",
+    "30574@5",
+    "34143@4",
+    "40592@4",
+    "61733@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

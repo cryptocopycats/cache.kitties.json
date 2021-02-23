@@ -1,0 +1,24 @@
+{
+  "id": 27758,
+  "name": "\\Duck/ Cat! Gen13 BRISK",
+  "generation": 13,
+  "created_at": "2017-12-02T08:11:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm \\Duck/ Cat! Gen13 BRISK. In high school, I was voted most likely to work at NASA. I once made a rooster lay. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27020@12",
+  "sire": "27027@3",
+  "children": [
+    "43870@14",
+    "86607@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 122,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24492,
+  "name": "G4 | Cymric",
+  "generation": 4,
+  "created_at": "2017-12-01T21:04:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm G4 | Cymric. My friends describe me as despicable and brilliant. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "20777@1",
+  "sire": "23936@3",
+  "children": [
+    "24649@5",
+    "24744@5",
+    "24852@5",
+    "25333@5",
+    "40934@5",
+    "43738@5",
+    "47531@5",
+    "76395@5",
+    "80549@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27241,
+  "name": "Gen3 Gold Whixtensions",
+  "generation": 3,
+  "created_at": "2017-12-02T06:24:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gen3 Gold Whixtensions. My friends describe me as despicable and seductive. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Let's get busy!",
+  "language": "en",
+  "matron": "27165@1",
+  "sire": "26917@2",
+  "children": [
+    "35846@10",
+    "39175@8",
+    "41024@4",
+    "65780@9",
+    "67621@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

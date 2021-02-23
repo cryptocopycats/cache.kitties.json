@@ -1,0 +1,20 @@
+{
+  "id": 25214,
+  "name": "Mint (slow - 17)",
+  "generation": 17,
+  "created_at": "2017-12-01T23:18:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's Mint (slow - 17). I once peed on Martin Luther King Jr.'s cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "22399@14",
+  "sire": "20285@16",
+  "children": [
+    "59740@18",
+    "83495@20",
+    "352326@18",
+    "370360@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

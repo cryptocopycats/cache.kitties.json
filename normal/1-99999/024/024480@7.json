@@ -1,0 +1,22 @@
+{
+  "id": 24480,
+  "name": "G7 Brisk",
+  "generation": 7,
+  "created_at": "2017-12-01T21:02:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm G7 Brisk. I'm often referred to as the Hermione Granger of the group. I'm often described as brilliant, and I own it. Will you be the wasabi to my peanut butter?",
+  "language": "en",
+  "matron": "24369@4",
+  "sire": "24289@6",
+  "children": [
+    "39806@8",
+    "63776@8",
+    "79650@8",
+    "143961@8",
+    "187480@8",
+    "277139@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

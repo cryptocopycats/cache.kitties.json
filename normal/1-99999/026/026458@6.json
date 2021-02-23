@@ -1,0 +1,20 @@
+{
+  "id": 26458,
+  "name": "Gen6 PL Scarlet Spock",
+  "generation": 6,
+  "created_at": "2017-12-02T03:51:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen6 PL Scarlet Spock. I enjoy fighting the patriarchy, picking on mice, and chasing red dots. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "26004@5",
+  "sire": "22093@5",
+  "children": [
+    "26946@7",
+    "27436@7",
+    "38059@7",
+    "39858@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

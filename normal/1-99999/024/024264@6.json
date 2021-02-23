@@ -1,0 +1,21 @@
+{
+  "id": 24264,
+  "name": "Chatz",
+  "generation": 6,
+  "created_at": "2017-12-01T20:26:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Chatz. I'm a professional Private Dancer  and I love steak. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23945@5",
+  "sire": "22629@5",
+  "children": [
+    "25360@14",
+    "27133@9",
+    "27836@7",
+    "30283@18",
+    "522772@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

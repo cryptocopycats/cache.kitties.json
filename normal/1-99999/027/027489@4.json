@@ -1,0 +1,25 @@
+{
+  "id": 27489,
+  "name": "Charlie G4",
+  "generation": 4,
+  "created_at": "2017-12-02T07:15:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Charlie G4. I'm a Spin Instructor  by day, and I like playing chess by night. My friends describe me as \"petulant.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "9557@3",
+  "sire": "25775@3",
+  "children": [
+    "31172@5",
+    "32703@5",
+    "32896@6",
+    "34901@5",
+    "46098@5",
+    "111166@5",
+    "117575@5",
+    "214097@5",
+    "251362@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

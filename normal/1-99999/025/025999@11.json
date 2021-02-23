@@ -1,0 +1,19 @@
+{
+  "id": 25999,
+  "name": "G11 Albino",
+  "generation": 11,
+  "created_at": "2017-12-02T02:07:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm G11 Albino. In high school, I was voted most likely to work at NASA. I once made a dolphin enjoy. I like your face.",
+  "language": "en",
+  "matron": "21270@10",
+  "sire": "18326@9",
+  "children": [
+    "27940@12",
+    "31937@12",
+    "94416@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

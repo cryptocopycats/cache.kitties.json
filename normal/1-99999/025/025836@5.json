@@ -1,0 +1,18 @@
+{
+  "id": 25836,
+  "name": "Gen 5",
+  "generation": 5,
+  "created_at": "2017-12-02T01:19:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 5. In high school, I was voted school jock. I was voted school jock in college. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "25633@4",
+  "sire": "19763@4",
+  "children": [
+    "28163@6",
+    "28346@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

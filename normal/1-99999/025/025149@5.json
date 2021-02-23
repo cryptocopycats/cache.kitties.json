@@ -1,0 +1,25 @@
+{
+  "id": 25149,
+  "name": "Gen5 Peach Dali",
+  "generation": 5,
+  "created_at": "2017-12-01T23:11:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gen5 Peach Dali. I enjoy chasing red dots, tripping my owner, and reciting poetry. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "19092@4",
+  "sire": "24287@4",
+  "children": [
+    "25280@6",
+    "25404@6",
+    "25686@6",
+    "26151@6",
+    "28247@6",
+    "37433@11",
+    "48201@6",
+    "237662@6",
+    "311553@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

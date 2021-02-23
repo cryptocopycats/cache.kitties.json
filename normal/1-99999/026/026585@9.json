@@ -1,0 +1,23 @@
+{
+  "id": 26585,
+  "name": "G9 - Beard 6.5%",
+  "generation": 9,
+  "created_at": "2017-12-02T04:09:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm G9 - Beard 6.5%. I'm a Spin Instructor  by day, and I like playing chess by night. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": "10990@8",
+  "sire": "9829@1",
+  "children": [
+    "28679@10",
+    "29200@10",
+    "29696@10",
+    "34180@10",
+    "46058@18",
+    "69783@10",
+    "97492@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

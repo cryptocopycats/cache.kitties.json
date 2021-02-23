@@ -1,0 +1,23 @@
+{
+  "id": 24382,
+  "name": "Gen6 [] Brisk",
+  "generation": 6,
+  "created_at": "2017-12-01T20:47:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen6 [] Brisk. I've never told anyone this, but I once clawed a dog. My friends describe me as \"prickly.\" It's... accurate. Our friendship will be raunchy, smelly, and full of ice cream.",
+  "language": "en",
+  "matron": "24228@5",
+  "sire": "24028@5",
+  "children": [
+    "28168@9",
+    "35919@12",
+    "36635@13",
+    "44323@12",
+    "49000@12",
+    "61458@7",
+    "78292@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

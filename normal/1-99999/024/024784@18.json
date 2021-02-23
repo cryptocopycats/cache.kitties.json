@@ -1,0 +1,18 @@
+{
+  "id": 24784,
+  "name": "Salmon Limegreen",
+  "generation": 18,
+  "created_at": "2017-12-01T21:54:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Salmon Limegreen. I'm a Dogwalker by day, and I like sleeping in fresh laundry by night. I once snuggled a platypus. I don't like to talk about it. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "22292@17",
+  "sire": "21172@15",
+  "children": [
+    "68422@19",
+    "79696@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

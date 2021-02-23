@@ -1,0 +1,18 @@
+{
+  "id": 24403,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-01T20:51:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Kitty #24403. In high school, I was voted school jock. I'm often described as smelly, and I own it. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "24340@2",
+  "sire": "6783@2",
+  "children": [
+    "24439@14",
+    "24540@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

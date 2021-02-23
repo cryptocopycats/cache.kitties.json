@@ -1,0 +1,24 @@
+{
+  "id": 24310,
+  "name": "Gen5 Bloodred",
+  "generation": 5,
+  "created_at": "2017-12-01T20:34:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen5 Bloodred. My friends describe me as annoying and ridiculous. I like to listen to Michael Bolton while grooming. Don't judge me. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "16046@4",
+  "sire": "20657@4",
+  "children": [
+    "24635@6",
+    "36604@14",
+    "40823@8",
+    "40954@6",
+    "43267@6",
+    "45951@6",
+    "66356@6",
+    "69011@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

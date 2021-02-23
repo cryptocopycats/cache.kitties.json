@@ -1,0 +1,33 @@
+{
+  "id": 27027,
+  "name": "🦄GEN3 DuckSNAPPY",
+  "generation": 3,
+  "created_at": "2017-12-02T05:43:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's 🦄GEN3 DuckSNAPPY. I once peed on Marie Antoinette's cat. They had it coming. I put garlic butter on everything. Like, everything: hot dogs, apple pie—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23866@1",
+  "sire": "23847@2",
+  "children": [
+    "27758@13",
+    "40346@13",
+    "152250@4",
+    "171236@4",
+    "172189@4",
+    "173527@4",
+    "183440@4",
+    "188867@4",
+    "254243@4",
+    "355976@4",
+    "366894@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 113,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

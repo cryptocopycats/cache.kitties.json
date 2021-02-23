@@ -1,0 +1,23 @@
+{
+  "id": 24135,
+  "name": "Gen 3 | Calicool",
+  "generation": 3,
+  "created_at": "2017-12-01T19:55:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 3 | Calicool. I want to live in a world where people believe the world is flat. I once bit a rabbit. I don't like to talk about it. Let's get busy!",
+  "language": "en",
+  "matron": "3517@2",
+  "sire": "21031@2",
+  "children": [
+    "43697@4",
+    "44768@4",
+    "45096@4",
+    "45943@4",
+    "48395@4",
+    "65546@4",
+    "121478@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

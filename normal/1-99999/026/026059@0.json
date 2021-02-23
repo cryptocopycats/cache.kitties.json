@@ -1,0 +1,18 @@
+{
+  "id": 26059,
+  "name": "Dracatula",
+  "generation": 0,
+  "created_at": "2017-12-02T02:19:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Dracatula. I want to live in a world where people believe that one day cats will rule this planet. I once made a gecko enjoy. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "91865@1",
+    "92233@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

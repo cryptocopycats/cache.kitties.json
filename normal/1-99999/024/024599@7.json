@@ -1,0 +1,24 @@
+{
+  "id": 24599,
+  "name": "Gen 7 | Chartreux",
+  "generation": 7,
+  "created_at": "2017-12-01T21:24:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 7 | Chartreux. I've never told anyone this, but I once headbutted a dog. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be vegan, smelly, and full of ice cream.",
+  "language": "en",
+  "matron": "3446@4",
+  "sire": "22457@6",
+  "children": [
+    "24766@8",
+    "24981@8",
+    "25109@8",
+    "25850@8",
+    "42144@11",
+    "48799@17",
+    "62739@8",
+    "96560@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

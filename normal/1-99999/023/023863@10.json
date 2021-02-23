@@ -1,0 +1,24 @@
+{
+  "id": 23863,
+  "name": "Winston Peach",
+  "generation": 10,
+  "created_at": "2017-12-01T18:50:12.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Winston Peach. I enjoy tricking babies, eating lasagna, and watching Stranger Things. Some people say I'm the Cersei Lannister of the group. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "23447@9",
+  "sire": "18008@9",
+  "children": [
+    "24559@11",
+    "24793@11",
+    "26006@11",
+    "28328@11",
+    "42488@11",
+    "85692@19",
+    "137431@17",
+    "357021@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 25826,
+  "name": "ChooChooChocolate",
+  "generation": 10,
+  "created_at": "2017-12-02T01:17:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm ChooChooChocolate. I'm a professional Train Conductor and I love chocolate. My secret indulgence is wet food. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "23837@6",
+  "sire": "22290@9",
+  "children": [
+    "26341@11",
+    "30295@14",
+    "32045@11",
+    "34289@11",
+    "49267@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

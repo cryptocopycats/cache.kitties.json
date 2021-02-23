@@ -1,0 +1,18 @@
+{
+  "id": 23180,
+  "name": "Birdchild M500",
+  "generation": 15,
+  "created_at": "2017-12-01T16:08:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Birdchild M500 here. I'm here to enjoy spinning sick beats and slappin' da bass. When I'm not running a podcast, I'm tricking babies! Let's get busy!",
+  "language": "en",
+  "matron": "14427@0",
+  "sire": "17886@14",
+  "children": [
+    "29195@16",
+    "90984@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

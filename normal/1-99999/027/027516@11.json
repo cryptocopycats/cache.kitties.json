@@ -1,0 +1,21 @@
+{
+  "id": 27516,
+  "name": "Briskeby",
+  "generation": 11,
+  "created_at": "2017-12-02T07:20:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Briskeby. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Michael Bolton. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6757@10",
+  "sire": "3553@2",
+  "children": [
+    "28625@12",
+    "29894@15",
+    "59008@12",
+    "78263@17",
+    "307525@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 28198,
+  "name": "Puddin",
+  "generation": 19,
+  "created_at": "2017-12-02T09:44:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Puddin. In high school, I was voted biggest teacher's pet. I once licked a moose. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "21787@18",
+  "sire": "14419@16",
+  "children": [
+    "46130@20",
+    "81340@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

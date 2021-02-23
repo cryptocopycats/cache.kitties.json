@@ -1,0 +1,28 @@
+{
+  "id": 25296,
+  "name": "Kitty kitty bang bang",
+  "generation": 7,
+  "created_at": "2017-12-01T23:29:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Kitty kitty bang bang. I'm a professional Culinary Sanitation Specialist and I love wet food. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24958@5",
+  "sire": "25012@6",
+  "children": [
+    "26452@9",
+    "31693@8",
+    "32388@9",
+    "33613@11",
+    "42900@13",
+    "61810@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 86,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

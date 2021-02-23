@@ -1,0 +1,22 @@
+{
+  "id": 25404,
+  "name": "ARLECCHINO",
+  "generation": 6,
+  "created_at": "2017-12-01T23:49:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm ARLECCHINO. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. Let's get busy!",
+  "language": "en",
+  "matron": "25149@5",
+  "sire": "24028@5",
+  "children": [
+    "27834@7",
+    "37074@17",
+    "37145@7",
+    "56304@14",
+    "225913@11",
+    "342576@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 28275,
+  "name": "Sally",
+  "generation": 15,
+  "created_at": "2017-12-02T09:58:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Sally. I believe that one day cats will rule this planet. I once got in a fight with a rooster, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "21880@14",
+  "sire": "21695@14",
+  "children": [
+    "31218@16",
+    "35694@16",
+    "49183@16",
+    "73353@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

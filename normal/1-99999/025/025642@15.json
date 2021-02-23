@@ -1,0 +1,19 @@
+{
+  "id": 25642,
+  "name": "Smel",
+  "generation": 15,
+  "created_at": "2017-12-02T00:36:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Smel. I'm a professional Foreign Film Director and I love apple pie. I was voted biggest teacher's pet in college. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "10983@14",
+  "sire": "15788@4",
+  "children": [
+    "26957@16",
+    "33811@16",
+    "51535@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

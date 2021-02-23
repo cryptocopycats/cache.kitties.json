@@ -1,0 +1,19 @@
+{
+  "id": 25481,
+  "name": "Gen 2 Coffee",
+  "generation": 2,
+  "created_at": "2017-12-02T00:04:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen 2 Coffee. I'm a Aerobics Athlete  by day, and I like practicing witchcraft by night. I'm often described as petulant, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5825@1",
+  "sire": "5690@1",
+  "children": [
+    "30258@3",
+    "34316@3",
+    "45922@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

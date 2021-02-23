@@ -1,0 +1,20 @@
+{
+  "id": 24583,
+  "name": "Pon Kogane",
+  "generation": 19,
+  "created_at": "2017-12-01T21:20:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Pon Kogane. I enjoy reciting poetry, tripping my owner, and sitting on your computer. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "21115@18",
+  "sire": "18253@8",
+  "children": [
+    "35822@20",
+    "76090@20",
+    "130326@20",
+    "1023403@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 26663,
+  "name": "Perfect 10",
+  "generation": 10,
+  "created_at": "2017-12-02T04:22:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Perfect 10. I'm often referred to as the Chandler Bing of the group. I am 15% gremlin, 60% Mad Scientist, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "25391@9",
+  "sire": "25432@6",
+  "children": [
+    "27050@11",
+    "39743@11",
+    "54233@14",
+    "68079@14",
+    "88660@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

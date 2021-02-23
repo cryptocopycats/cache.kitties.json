@@ -1,0 +1,20 @@
+{
+  "id": 23756,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T18:34:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #23756. I'm often referred to as the Dwight Schrute of the group. I once got in a fight with a rhino, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "9016@14",
+  "sire": "17654@9",
+  "children": [
+    "43391@16",
+    "100513@18",
+    "123481@17",
+    "142047@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

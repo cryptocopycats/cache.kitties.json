@@ -1,0 +1,19 @@
+{
+  "id": 27376,
+  "name": "Gen4 SN",
+  "generation": 4,
+  "created_at": "2017-12-02T06:56:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen4 SN. In high school, I was voted most likely to work at NASA. I like to listen to Metallica while grooming. Don't judge me. Will you be the cinammon to my marmite?",
+  "language": "en",
+  "matron": "14358@3",
+  "sire": "9200@3",
+  "children": [
+    "34026@5",
+    "36489@5",
+    "63058@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

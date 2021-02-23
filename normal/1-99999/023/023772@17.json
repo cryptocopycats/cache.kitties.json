@@ -1,0 +1,21 @@
+{
+  "id": 23772,
+  "name": "Poddling",
+  "generation": 17,
+  "created_at": "2017-12-01T18:34:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Poddling. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Princess Diana. Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "16017@3",
+  "sire": "15673@16",
+  "children": [
+    "26044@19",
+    "30690@18",
+    "31566@18",
+    "51503@18",
+    "139343@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

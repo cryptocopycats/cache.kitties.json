@@ -1,0 +1,20 @@
+{
+  "id": 27130,
+  "name": "Peppermint",
+  "generation": 12,
+  "created_at": "2017-12-02T06:02:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Peppermint. I once peed on Nelson Mandela's cat. They had it coming. I put peanut butter on everything. Like, everything: hot dogs, cereal—everything! Let's get busy!",
+  "language": "en",
+  "matron": "26764@10",
+  "sire": "26099@11",
+  "children": [
+    "46083@16",
+    "147080@20",
+    "553909@13",
+    "601916@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

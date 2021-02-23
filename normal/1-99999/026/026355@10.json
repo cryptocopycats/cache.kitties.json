@@ -1,0 +1,20 @@
+{
+  "id": 26355,
+  "name": "Kolo",
+  "generation": 10,
+  "created_at": "2017-12-02T03:33:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kolo. I'm a professional Foreign Film Director and I love lasagna. I once pranced with a moose. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26093@7",
+  "sire": "26278@9",
+  "children": [
+    "26976@13",
+    "32042@11",
+    "166263@15",
+    "183722@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

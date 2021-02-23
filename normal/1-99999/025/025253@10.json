@@ -1,0 +1,23 @@
+{
+  "id": 25253,
+  "name": "Duck Child RARE Tiger",
+  "generation": 10,
+  "created_at": "2017-12-01T23:24:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Duck Child RARE Tiger here. I'm here to enjoy tricking babies and chasing red dots. I once made a goose grimace. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "23498@2",
+  "sire": "24258@9",
+  "children": [
+    "25570@11",
+    "27816@11",
+    "29246@13",
+    "37647@11",
+    "49045@14",
+    "79184@12",
+    "312733@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

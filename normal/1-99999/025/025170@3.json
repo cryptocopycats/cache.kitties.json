@@ -1,0 +1,20 @@
+{
+  "id": 25170,
+  "name": "Gen3",
+  "generation": 3,
+  "created_at": "2017-12-01T23:11:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen3. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of fighting the patriarchy, chocolate, and mocking dogs. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "15321@2",
+  "sire": "21578@2",
+  "children": [
+    "25244@4",
+    "25569@5",
+    "25683@5",
+    "39899@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 27141,
+  "name": "Vampire Recessive Gene",
+  "generation": 20,
+  "created_at": "2017-12-02T06:04:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Vampire Recessive Gene. All you need to know about me is I hate cereal with a passion. When I'm not mocking dogs, I'm tricking babies! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "22763@18",
+  "sire": "21646@19",
+  "children": [
+    "40908@21",
+    "95225@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

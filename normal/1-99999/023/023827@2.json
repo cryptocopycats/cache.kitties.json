@@ -1,0 +1,25 @@
+{
+  "id": 23827,
+  "name": "Gen2 Manny",
+  "generation": 2,
+  "created_at": "2017-12-01T18:41:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Gen2 Manny. I want to live in a world where people believe the world is flat. I once got in a fight with a rooster, and won. I like your face.",
+  "language": "en",
+  "matron": "18143@1",
+  "sire": "18494@1",
+  "children": [
+    "24023@3",
+    "24167@3",
+    "25238@3",
+    "33536@3",
+    "228721@3",
+    "230992@3",
+    "233827@3",
+    "249163@3",
+    "264588@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

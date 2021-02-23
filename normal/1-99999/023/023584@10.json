@@ -1,0 +1,19 @@
+{
+  "id": 23584,
+  "name": "Baby tricker",
+  "generation": 10,
+  "created_at": "2017-12-01T18:13:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Baby tricker. All you need to know about me is I hate cantaloupe with a passion. When I'm not tricking babies, I'm watching reality tv! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "3486@9",
+  "sire": "5064@4",
+  "children": [
+    "25096@15",
+    "26084@18",
+    "35462@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

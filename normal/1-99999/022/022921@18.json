@@ -1,0 +1,18 @@
+{
+  "id": 22921,
+  "name": "Platypus",
+  "generation": 18,
+  "created_at": "2017-12-01T13:59:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Platypus here. I'm here to enjoy eating lasagna and grooming. I once made a platypus leap. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16942@17",
+  "sire": "12870@13",
+  "children": [
+    "40925@19",
+    "59981@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

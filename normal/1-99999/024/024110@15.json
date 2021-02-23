@@ -1,0 +1,21 @@
+{
+  "id": 24110,
+  "name": "Blue Beard",
+  "generation": 15,
+  "created_at": "2017-12-01T19:51:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Blue Beard. I enjoy shakin' dat booty, chasing red dots, and eating lasagna. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "22189@14",
+  "sire": "17673@13",
+  "children": [
+    "36993@19",
+    "42991@20",
+    "68643@16",
+    "121580@16",
+    "194145@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

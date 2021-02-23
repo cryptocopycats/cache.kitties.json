@@ -1,0 +1,20 @@
+{
+  "id": 23836,
+  "name": "G9 PL",
+  "generation": 9,
+  "created_at": "2017-12-01T18:46:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G9 PL. I'm often referred to as the Jon Snow of the group. Sometimes I daydream of a life full of sitting on your computer, wet food, and running a podcast. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "16922@8",
+  "sire": "20307@7",
+  "children": [
+    "25715@10",
+    "26514@10",
+    "27285@10",
+    "28169@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

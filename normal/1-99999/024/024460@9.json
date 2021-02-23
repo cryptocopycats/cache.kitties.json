@@ -1,0 +1,19 @@
+{
+  "id": 24460,
+  "name": "G9",
+  "generation": 9,
+  "created_at": "2017-12-01T20:59:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm G9. I'm often referred to as the Niles Crane of the group. In my free time, I can usually be found ridiculous or siring for status. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "21302@8",
+  "sire": "20027@8",
+  "children": [
+    "24729@10",
+    "26465@10",
+    "45193@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

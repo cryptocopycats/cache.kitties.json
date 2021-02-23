@@ -1,0 +1,27 @@
+{
+  "id": 24614,
+  "name": "Gen10 Slow BIRDCAT COOL KIDS",
+  "generation": 10,
+  "created_at": "2017-12-01T21:28:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Gen10 Slow BIRDCAT COOL KIDS. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Justin Bieber. Will you be the ghost pepper hot sauce to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23847@2",
+  "sire": "24134@9",
+  "children": [
+    "25153@11",
+    "25700@11",
+    "27431@11",
+    "62987@12",
+    "80297@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 77,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

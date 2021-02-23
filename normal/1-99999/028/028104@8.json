@@ -1,0 +1,19 @@
+{
+  "id": 28104,
+  "name": "Gen8 Peach Spock",
+  "generation": 8,
+  "created_at": "2017-12-02T09:28:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen8 Peach Spock. I'm often referred to as the Samwise Gamgee of the group. I once bit a rooster. I don't like to talk about it. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "25562@7",
+  "sire": "27834@7",
+  "children": [
+    "30902@13",
+    "34001@9",
+    "75835@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

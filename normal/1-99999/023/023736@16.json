@@ -1,0 +1,18 @@
+{
+  "id": 23736,
+  "name": "Gen 16",
+  "generation": 16,
+  "created_at": "2017-12-01T18:34:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Gen 16. I'm often referred to as the Ross Geller of the group. When no one's home, I invite my pals over and we listen to Michael Bolton. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10776@15",
+  "sire": "17842@0",
+  "children": [
+    "26234@17",
+    "31102@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

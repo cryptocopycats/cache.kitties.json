@@ -1,0 +1,27 @@
+{
+  "id": 27784,
+  "name": "G4 | Scarlet",
+  "generation": 4,
+  "created_at": "2017-12-02T08:19:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G4 | Scarlet. I believe the world is flat. My secret indulgence is lasagna. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "24727@3",
+  "sire": "27748@3",
+  "children": [
+    "27954@5",
+    "36410@5",
+    "48897@5",
+    "49162@5",
+    "54484@5",
+    "69581@5",
+    "78722@5",
+    "107599@5",
+    "220551@5",
+    "272684@7",
+    "326558@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

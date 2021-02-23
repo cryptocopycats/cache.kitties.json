@@ -1,0 +1,25 @@
+{
+  "id": 26370,
+  "name": "Snappy Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T03:36:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! Snappy Gen 2 here. I'm here to enjoy staying woke and hitting on yo' man. I am 44% oracle, 36% Train Conductor, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6182@1",
+  "sire": "15383@1",
+  "children": [
+    "26505@3",
+    "29359@3",
+    "29481@3",
+    "31186@4",
+    "31971@3",
+    "34181@3",
+    "45328@3",
+    "171952@3",
+    "219818@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

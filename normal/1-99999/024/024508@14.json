@@ -1,0 +1,19 @@
+{
+  "id": 24508,
+  "name": "Frank",
+  "generation": 14,
+  "created_at": "2017-12-01T21:07:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Frank. In high school, I was voted most likely to work at NASA. I once loved a chimpanzee. I don't like to talk about it. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "12048@13",
+  "sire": "17727@6",
+  "children": [
+    "27354@15",
+    "30069@15",
+    "94418@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

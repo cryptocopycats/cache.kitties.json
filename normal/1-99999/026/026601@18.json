@@ -1,0 +1,19 @@
+{
+  "id": 26601,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-02T04:11:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #26601. I'm often referred to as the Cersei Lannister of the group. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20067@17",
+  "sire": "4565@3",
+  "children": [
+    "30565@19",
+    "65961@19",
+    "82838@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

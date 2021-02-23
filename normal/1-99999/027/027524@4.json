@@ -1,0 +1,19 @@
+{
+  "id": 27524,
+  "name": "Gen4 | Peach",
+  "generation": 4,
+  "created_at": "2017-12-02T07:22:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen4 | Peach. I'm a professional Dogwalker and I love salad. In my free time, I can usually be found tantalizing or sleeping in fresh laundry. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "23473@3",
+  "sire": "27189@3",
+  "children": [
+    "30562@14",
+    "41296@14",
+    "45212@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

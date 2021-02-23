@@ -1,0 +1,21 @@
+{
+  "id": 25509,
+  "name": "7",
+  "generation": 7,
+  "created_at": "2017-12-02T00:11:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm 7. I enjoy riding unicorns, chasing red dots, and reciting poetry. I once made a goose jump. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "18315@5",
+  "sire": "18415@6",
+  "children": [
+    "25751@8",
+    "26941@9",
+    "26964@11",
+    "38528@8",
+    "61983@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

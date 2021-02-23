@@ -1,0 +1,26 @@
+{
+  "id": 24564,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-12-01T21:18:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm G2. I want to live in a world where people believe the world is flat. My friends describe me as \"brilliant.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20516@1",
+  "sire": "24450@1",
+  "children": [
+    "24759@3",
+    "25872@3",
+    "30288@3",
+    "32610@3",
+    "43800@3",
+    "130220@3",
+    "137725@3",
+    "152676@3",
+    "215836@3",
+    "489297@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

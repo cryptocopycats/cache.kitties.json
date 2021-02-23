@@ -1,0 +1,19 @@
+{
+  "id": 26759,
+  "name": "Jennifer the Cat",
+  "generation": 15,
+  "created_at": "2017-12-02T04:46:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Jennifer the Cat. My friends describe me as tantalizing and gullible. My great-great-great-great-great-great grandkitty lived with Cleopatra. Let's get busy!",
+  "language": "en",
+  "matron": "16776@14",
+  "sire": "14233@10",
+  "children": [
+    "54745@21",
+    "76003@16",
+    "83710@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 25480,
+  "name": "Smitten Kitten",
+  "generation": 12,
+  "created_at": "2017-12-02T00:04:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Smitten Kitten. I believe that one day cats will rule this planet. I put garlic butter on everything. Like, everything: hot dogs, cereal—everything! Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "22589@11",
+  "sire": "23609@10",
+  "children": [
+    "26289@13",
+    "26397@13",
+    "57772@13",
+    "116939@23",
+    "236660@13",
+    "429341@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

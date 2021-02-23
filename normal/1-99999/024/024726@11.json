@@ -1,0 +1,19 @@
+{
+  "id": 24726,
+  "name": "G11",
+  "generation": 11,
+  "created_at": "2017-12-01T21:47:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm G11. In high school, I was voted school jock. I once snuggled a rhino. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "21597@10",
+  "sire": "23129@6",
+  "children": [
+    "25293@12",
+    "27219@12",
+    "62683@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

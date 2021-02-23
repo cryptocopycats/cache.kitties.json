@@ -1,0 +1,18 @@
+{
+  "id": 24996,
+  "name": "4",
+  "generation": 4,
+  "created_at": "2017-12-01T22:53:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm 4. I'm a Skydiving Instructor by day, and I like playing chess by night. In my free time, I can usually be found wondrous or practicing witchcraft. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18318@3",
+  "sire": "4696@2",
+  "children": [
+    "25192@6",
+    "39743@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

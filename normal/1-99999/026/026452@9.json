@@ -1,0 +1,21 @@
+{
+  "id": 26452,
+  "name": "Kitty 26452",
+  "generation": 9,
+  "created_at": "2017-12-02T03:50:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Kitty 26452. I want to live in a world where people believe that one day cats will rule this planet. I put soy sauce on everything. Like, everything: hot dogs, chocolate—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "25296@7",
+  "sire": "26297@8",
+  "children": [
+    "26643@10",
+    "27024@10",
+    "32423@10",
+    "203470@11",
+    "362962@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

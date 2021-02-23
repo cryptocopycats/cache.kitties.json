@@ -1,0 +1,20 @@
+{
+  "id": 25144,
+  "name": "FireStorm",
+  "generation": 15,
+  "created_at": "2017-12-01T23:11:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm FireStorm. I want to live in a world where people believe the world is flat. My friends describe me as \"ridiculous.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "18333@14",
+  "sire": "18431@13",
+  "children": [
+    "27364@18",
+    "31504@16",
+    "250852@16",
+    "294106@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

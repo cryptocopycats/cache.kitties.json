@@ -1,0 +1,18 @@
+{
+  "id": 27584,
+  "name": "Twinkle",
+  "generation": 3,
+  "created_at": "2017-12-02T07:33:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Twinkle. I enjoy breakdancing, slappin' da bass, and tricking babies. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "19436@2",
+  "sire": "21148@2",
+  "children": [
+    "30613@5",
+    "40362@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

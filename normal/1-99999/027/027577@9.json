@@ -1,0 +1,21 @@
+{
+  "id": 27577,
+  "name": "My First Kitten",
+  "generation": 9,
+  "created_at": "2017-12-02T07:32:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm My First Kitten. I enjoy hitting on yo' man, riding unicorns, and slappin' da bass. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found people-watching all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "27375@8",
+  "sire": "27142@7",
+  "children": [
+    "28229@10",
+    "29521@10",
+    "33842@19",
+    "49147@10",
+    "188019@10"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

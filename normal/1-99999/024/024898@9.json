@@ -1,0 +1,19 @@
+{
+  "id": 24898,
+  "name": "G9",
+  "generation": 9,
+  "created_at": "2017-12-01T22:21:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm G9. I'm a Ventriloquist by day, and I like siring for status by night. I put pickles on everything. Like, everything: hot dogs, cantaloupe—everything! I like your face.",
+  "language": "en",
+  "matron": "21341@8",
+  "sire": "20322@8",
+  "children": [
+    "26300@10",
+    "44488@10",
+    "51703@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

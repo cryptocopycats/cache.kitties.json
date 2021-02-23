@@ -1,0 +1,22 @@
+{
+  "id": 23244,
+  "name": "Vieux Laserbeam",
+  "generation": 12,
+  "created_at": "2017-12-01T16:28:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Vieux Laserbeam. I'm a Mad Scientist by day, and I like playing chess by night. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I like your face.",
+  "language": "en",
+  "matron": "13387@11",
+  "sire": "12889@10",
+  "children": [
+    "24035@13",
+    "46197@13",
+    "73237@23",
+    "99852@15",
+    "196378@15",
+    "325047@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

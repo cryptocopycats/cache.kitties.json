@@ -1,0 +1,20 @@
+{
+  "id": 27387,
+  "name": "Spectacles",
+  "generation": 17,
+  "created_at": "2017-12-02T06:56:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Spectacles. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up for a Chanel purse. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "25132@16",
+  "sire": "25175@16",
+  "children": [
+    "30300@18",
+    "51254@18",
+    "64217@18",
+    "143617@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

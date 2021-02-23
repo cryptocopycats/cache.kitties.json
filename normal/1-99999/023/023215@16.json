@@ -1,0 +1,20 @@
+{
+  "id": 23215,
+  "name": "G16 - Dali Momma",
+  "generation": 16,
+  "created_at": "2017-12-01T16:19:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm G16 - Dali Momma. I've never told anyone this, but I once tricked a dog. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "13381@14",
+  "sire": "13565@15",
+  "children": [
+    "33374@17",
+    "45899@17",
+    "103151@17",
+    "244763@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

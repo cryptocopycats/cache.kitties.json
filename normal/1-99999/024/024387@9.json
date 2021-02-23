@@ -1,0 +1,19 @@
+{
+  "id": 24387,
+  "name": "Bartholomew",
+  "generation": 9,
+  "created_at": "2017-12-01T20:48:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Bartholomew. I'm a professional Dogwalker and I love cereal. I once got in a fight with a rabbit, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "24218@7",
+  "sire": "23839@8",
+  "children": [
+    "24615@10",
+    "26374@10",
+    "51611@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 25423,
+  "name": "FURBALL G9",
+  "generation": 9,
+  "created_at": "2017-12-01T23:53:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm FURBALL G9. All you need to know about me is I hate ice cream with a passion. My friends describe me as \"ridiculous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "25217@8",
+  "sire": "25184@6",
+  "children": [
+    "25864@10",
+    "53255@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

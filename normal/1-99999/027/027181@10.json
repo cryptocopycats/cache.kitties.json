@@ -1,0 +1,22 @@
+{
+  "id": 27181,
+  "name": "G10",
+  "generation": 10,
+  "created_at": "2017-12-02T06:10:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm G10. I'm often referred to as the Ron Weasley of the group. When no one's home, I invite my pals over and we listen to Frank Sinatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "26359@4",
+  "sire": "17413@9",
+  "children": [
+    "27539@11",
+    "28098@11",
+    "29261@11",
+    "37813@17",
+    "49132@17",
+    "59685@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

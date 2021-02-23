@@ -1,0 +1,23 @@
+{
+  "id": 25124,
+  "name": "Hissy Spacek",
+  "generation": 11,
+  "created_at": "2017-12-01T23:11:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! My name's Hissy Spacek. I once peed on Mother Theresa's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Mother Theresa. Let's get busy!",
+  "language": "en",
+  "matron": "17039@10",
+  "sire": "12748@5",
+  "children": [
+    "26283@12",
+    "26574@12",
+    "28201@12",
+    "32839@12",
+    "35162@12",
+    "66451@14",
+    "123611@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

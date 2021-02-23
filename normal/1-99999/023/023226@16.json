@@ -1,0 +1,20 @@
+{
+  "id": 23226,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-01T16:21:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #23226. I want to live in a world where people believe that one day cats will rule this planet. When I'm not people-watching, I'm summoning ghosts! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20963@11",
+  "sire": "20982@15",
+  "children": [
+    "28124@18",
+    "30683@17",
+    "45900@17",
+    "83856@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

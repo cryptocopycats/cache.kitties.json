@@ -1,0 +1,19 @@
+{
+  "id": 25470,
+  "name": "Philip",
+  "generation": 13,
+  "created_at": "2017-12-02T00:03:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! Philip here. I'm here to enjoy glaring at the neighbour's cat and riding unicorns. When I'm not reading Danielle Steele, I'm mocking dogs! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "15972@12",
+  "sire": "9030@12",
+  "children": [
+    "30063@19",
+    "46010@14",
+    "72320@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

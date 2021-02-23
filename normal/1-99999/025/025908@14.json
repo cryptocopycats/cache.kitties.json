@@ -1,0 +1,20 @@
+{
+  "id": 25908,
+  "name": "Pumpkin Spice Latte",
+  "generation": 14,
+  "created_at": "2017-12-02T01:36:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Pumpkin Spice Latte. My friends describe me as annoying and vegan. Some people say I'm the Peter Griffin of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25335@13",
+  "sire": "23245@9",
+  "children": [
+    "26192@15",
+    "36376@15",
+    "75289@15",
+    "93517@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

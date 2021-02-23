@@ -1,0 +1,22 @@
+{
+  "id": 23072,
+  "name": "G10 green spock",
+  "generation": 10,
+  "created_at": "2017-12-01T15:14:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm G10 green spock. I'm a Foreign Film Director by day, and I like playing chess by night. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13693@9",
+  "sire": "17581@3",
+  "children": [
+    "26259@11",
+    "32381@18",
+    "33342@11",
+    "36061@11",
+    "47111@11",
+    "89499@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

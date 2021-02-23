@@ -1,0 +1,22 @@
+{
+  "id": 27501,
+  "name": "David Meowie",
+  "generation": 14,
+  "created_at": "2017-12-02T07:17:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm David Meowie. I believe the world is flat. I like to listen to Beyoncé while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26653@6",
+  "sire": "25512@13",
+  "children": [
+    "28684@15",
+    "31870@20",
+    "46099@15",
+    "53586@15",
+    "195766@15",
+    "246555@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 27308,
+  "name": "Meowgritte",
+  "generation": 12,
+  "created_at": "2017-12-02T06:38:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Meowgritte. I enjoy watching Stranger Things, sweating through my feet, and riding unicorns. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4631@8",
+  "sire": "18839@11",
+  "children": [
+    "27976@19",
+    "40233@13",
+    "156964@19",
+    "315958@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

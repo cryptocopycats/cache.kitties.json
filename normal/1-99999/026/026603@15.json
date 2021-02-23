@@ -1,0 +1,19 @@
+{
+  "id": 26603,
+  "name": "G15",
+  "generation": 15,
+  "created_at": "2017-12-02T04:12:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm G15. I'm often referred to as the Jon Snow of the group. Some people say I'm the Jon Snow of the group. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "20743@3",
+  "sire": "13104@14",
+  "children": [
+    "27892@16",
+    "38403@16",
+    "74139@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

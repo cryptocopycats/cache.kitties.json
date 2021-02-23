@@ -1,0 +1,19 @@
+{
+  "id": 28252,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-02T09:57:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #28252. I'm often referred to as the Cersei Lannister of the group. My secret indulgence is lasagna. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "1313@0",
+  "sire": "28125@6",
+  "children": [
+    "28307@8",
+    "28535@8",
+    "51848@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

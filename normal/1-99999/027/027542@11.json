@@ -1,0 +1,20 @@
+{
+  "id": 27542,
+  "name": "Gen 11 | G11 | Beard Lime",
+  "generation": 11,
+  "created_at": "2017-12-02T07:24:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Gen 11 | G11 | Beard Lime. I'm often referred to as the Samwise Gamgee of the group. In my free time, I can usually be found annoying or watching reality tv. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "27207@10",
+  "sire": "26523@8",
+  "children": [
+    "27963@12",
+    "32135@12",
+    "35064@12",
+    "66372@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

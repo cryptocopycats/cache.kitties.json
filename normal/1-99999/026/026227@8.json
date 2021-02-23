@@ -1,0 +1,19 @@
+{
+  "id": 26227,
+  "name": "The Salmon Baron",
+  "generation": 8,
+  "created_at": "2017-12-02T03:11:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm The Salmon Baron. I enjoy eating until I loathe myself, sweating through my feet, and spinning sick beats. When no one's home, I invite my pals over and we listen to Metallica. I like your face.",
+  "language": "en",
+  "matron": "10634@7",
+  "sire": "8669@1",
+  "children": [
+    "52246@19",
+    "64941@19",
+    "69838@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

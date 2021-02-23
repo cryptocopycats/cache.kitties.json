@@ -1,0 +1,21 @@
+{
+  "id": 24652,
+  "name": "Polo",
+  "generation": 4,
+  "created_at": "2017-12-01T21:34:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Polo. I've never told anyone this, but I once tricked a dog. It's not common knowledge, but my ancestry connects me to Cleopatra. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23916@3",
+  "sire": "3991@3",
+  "children": [
+    "25323@6",
+    "28239@6",
+    "30048@6",
+    "49339@5",
+    "63526@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

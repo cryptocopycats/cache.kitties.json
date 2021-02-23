@@ -1,0 +1,20 @@
+{
+  "id": 24431,
+  "name": "Himalayan Lemonade",
+  "generation": 10,
+  "created_at": "2017-12-01T20:56:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Himalayan Lemonade. I want to live in a world where people believe that one day cats will rule this planet. I put garlic butter on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "24216@9",
+  "sire": "23914@8",
+  "children": [
+    "47184@17",
+    "55113@11",
+    "56807@19",
+    "77870@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

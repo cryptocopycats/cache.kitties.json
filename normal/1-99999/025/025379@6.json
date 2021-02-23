@@ -1,0 +1,22 @@
+{
+  "id": 25379,
+  "name": "Bubblegum Burrrito G6",
+  "generation": 6,
+  "created_at": "2017-12-01T23:43:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Bubblegum Burrrito G6. In high school, I was voted biggest teacher's pet. I once got in a fight with a chimpanzee, and won. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "24848@5",
+  "sire": "24852@5",
+  "children": [
+    "37873@17",
+    "45408@7",
+    "48397@7",
+    "66447@7",
+    "100548@7",
+    "112044@11"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

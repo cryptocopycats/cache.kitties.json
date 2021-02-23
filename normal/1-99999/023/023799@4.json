@@ -1,0 +1,17 @@
+{
+  "id": 23799,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T18:36:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen4. I'm a Ventriloquist by day, and I like pole dancing by night. I was voted most likely to work at NASA in college. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "18424@3",
+  "sire": "20018@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

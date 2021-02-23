@@ -1,0 +1,26 @@
+{
+  "id": 26940,
+  "name": "Johnny Depp",
+  "generation": 2,
+  "created_at": "2017-12-02T05:27:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Johnny Depp. I'm a professional Skydiving Instructor and I love ice cream. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. Let's get busy!",
+  "language": "en",
+  "matron": "26193@1",
+  "sire": "21948@1",
+  "children": [
+    "27111@3",
+    "27511@3",
+    "32954@3",
+    "33325@3",
+    "35384@3",
+    "37605@3",
+    "40601@3",
+    "52941@3",
+    "89550@3",
+    "121229@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

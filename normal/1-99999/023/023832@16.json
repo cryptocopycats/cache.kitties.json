@@ -1,0 +1,21 @@
+{
+  "id": 23832,
+  "name": "G16 Lemon Cake",
+  "generation": 16,
+  "created_at": "2017-12-01T18:41:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm G16 Lemon Cake. I'm a Culinary Sanitation Specialist by day, and I like riverdancing by night. I'm often described as gullible, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "21142@10",
+  "sire": "9620@15",
+  "children": [
+    "26750@20",
+    "36551@17",
+    "69125@17",
+    "454563@17",
+    "1193863@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27649,
+  "name": "Turd Master",
+  "generation": 9,
+  "created_at": "2017-12-02T07:46:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Turd Master. I'm a professional Ventriloquist and I love salad. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26188@8",
+  "sire": "26785@6",
+  "children": [
+    "41936@10",
+    "49152@20",
+    "54342@10",
+    "60930@10",
+    "75241@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

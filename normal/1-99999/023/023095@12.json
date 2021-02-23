@@ -1,0 +1,17 @@
+{
+  "id": 23095,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-12-01T15:21:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Gen 12. My friends describe me as prickly and wondrous. Sometimes I daydream of a life full of tricking babies, cereal, and people-watching. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "22883@11",
+  "sire": "16201@9",
+  "children": [
+    "24794@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 27112,
+  "name": "Babu",
+  "generation": 20,
+  "created_at": "2017-12-02T05:58:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Babu. I'm often referred to as the Michael Scott of the group. I was voted school jock in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "22898@19",
+  "sire": "23003@18",
+  "children": [
+    "31361@21",
+    "95407@21",
+    "144295@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

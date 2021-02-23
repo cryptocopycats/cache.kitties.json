@@ -1,0 +1,20 @@
+{
+  "id": 26879,
+  "name": "G1 Catcoin Gold",
+  "generation": 1,
+  "created_at": "2017-12-02T05:14:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm G1 Catcoin Gold. All you need to know about me is I hate cantaloupe with a passion. I once made a dog jump. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "2715@0",
+  "sire": "2612@0",
+  "children": [
+    "28032@14",
+    "29331@17",
+    "34591@16",
+    "63912@2"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

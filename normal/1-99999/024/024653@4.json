@@ -1,0 +1,25 @@
+{
+  "id": 24653,
+  "name": "G4 RARE Sphynx Starter",
+  "generation": 4,
+  "created_at": "2017-12-01T21:34:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! G4 RARE Sphynx Starter here. I'm here to enjoy chasing string and riding dirty. When no one's home, I invite my pals over and we listen to Ace of Base. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "23903@3",
+  "sire": "23900@3",
+  "children": [
+    "45294@13",
+    "54887@8",
+    "56159@6",
+    "59410@5",
+    "64277@5",
+    "78724@13",
+    "102450@13",
+    "130671@13",
+    "203368@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

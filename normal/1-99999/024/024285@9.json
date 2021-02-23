@@ -1,0 +1,21 @@
+{
+  "id": 24285,
+  "name": "Gen9 & Snappy",
+  "generation": 9,
+  "created_at": "2017-12-01T20:31:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen9 & Snappy. I'm a professional Culinary Sanitation Specialist and I love lasagna. I like to listen to Coldplay while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "23721@8",
+  "sire": "23200@8",
+  "children": [
+    "25248@10",
+    "25978@10",
+    "28870@19",
+    "34499@15",
+    "49474@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 26534,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-02T04:02:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Kitty #26534. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Metallica. Let's pawty!",
+  "language": "en",
+  "matron": "4804@6",
+  "sire": "21912@11",
+  "children": [
+    "30065@15",
+    "37385@19",
+    "49098@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

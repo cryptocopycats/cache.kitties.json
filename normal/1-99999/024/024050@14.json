@@ -1,0 +1,20 @@
+{
+  "id": 24050,
+  "name": "Lettuce On A Taco",
+  "generation": 14,
+  "created_at": "2017-12-01T19:34:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Lettuce On A Taco. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Chandler Bing of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7215@8",
+  "sire": "19707@13",
+  "children": [
+    "28887@15",
+    "33220@15",
+    "43533@15",
+    "58531@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

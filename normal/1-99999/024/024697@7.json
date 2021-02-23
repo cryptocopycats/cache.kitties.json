@@ -1,0 +1,23 @@
+{
+  "id": 24697,
+  "name": "Gen 7 - Snappy Chestnut",
+  "generation": 7,
+  "created_at": "2017-12-01T21:39:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Gen 7 - Snappy Chestnut. I'm often referred to as the Hermione Granger of the group. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Let's get busy!",
+  "language": "en",
+  "matron": "17481@6",
+  "sire": "17268@5",
+  "children": [
+    "25189@15",
+    "25933@8",
+    "27427@8",
+    "47032@8",
+    "72925@8",
+    "91458@17",
+    "200493@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

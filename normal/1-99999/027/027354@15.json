@@ -1,0 +1,19 @@
+{
+  "id": 27354,
+  "name": "Gigi",
+  "generation": 15,
+  "created_at": "2017-12-02T06:51:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gigi. In high school, I was voted biggest teacher's pet. I once made a dolphin leap. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "24508@14",
+  "sire": "25612@11",
+  "children": [
+    "28890@16",
+    "62081@16",
+    "93801@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

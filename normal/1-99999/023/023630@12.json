@@ -1,0 +1,21 @@
+{
+  "id": 23630,
+  "name": "Amber",
+  "generation": 12,
+  "created_at": "2017-12-01T18:17:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Amber. I'm often referred to as the Ron Weasley of the group. I was voted biggest teacher's pet in college. I like your face.",
+  "language": "en",
+  "matron": "22169@11",
+  "sire": "21612@9",
+  "children": [
+    "24112@13",
+    "43021@13",
+    "53500@13",
+    "71697@13",
+    "107733@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

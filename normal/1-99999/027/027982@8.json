@@ -1,0 +1,19 @@
+{
+  "id": 27982,
+  "name": "G8 Bebop",
+  "generation": 8,
+  "created_at": "2017-12-02T08:57:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm G8 Bebop. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is hamburgers. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3339@4",
+  "sire": "4472@7",
+  "children": [
+    "49740@13",
+    "64609@10",
+    "70855@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

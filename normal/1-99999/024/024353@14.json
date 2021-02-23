@@ -1,0 +1,20 @@
+{
+  "id": 24353,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T20:44:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Kitty #24353. I'm often referred to as the Bart Simpson of the group. I once got in a fight with a rabbit, and won. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6083@10",
+  "sire": "13962@13",
+  "children": [
+    "26756@17",
+    "62368@18",
+    "97226@21",
+    "213882@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

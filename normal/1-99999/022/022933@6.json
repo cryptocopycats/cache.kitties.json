@@ -1,0 +1,24 @@
+{
+  "id": 22933,
+  "name": "beard, calicool",
+  "generation": 6,
+  "created_at": "2017-12-01T14:04:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm beard, calicool. I enjoy riding unicorns, glaring at the neighbour's cat, and tricking babies. I was voted biggest teacher's pet in college. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "14148@5",
+  "sire": "16994@5",
+  "children": [
+    "25098@8",
+    "26722@7",
+    "34890@10",
+    "38854@13",
+    "45884@14",
+    "56374@14",
+    "85398@7",
+    "116338@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

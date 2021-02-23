@@ -1,0 +1,19 @@
+{
+  "id": 28003,
+  "name": "Starter",
+  "generation": 18,
+  "created_at": "2017-12-02T09:04:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Starter. I'm often referred to as the Dwight Schrute of the group. I was voted most likely to work at NASA in college. I like your face.",
+  "language": "en",
+  "matron": "26398@4",
+  "sire": "27561@17",
+  "children": [
+    "29473@19",
+    "54236@19",
+    "112844@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

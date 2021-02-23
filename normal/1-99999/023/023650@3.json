@@ -1,0 +1,24 @@
+{
+  "id": 23650,
+  "name": "Gen 3 Scarlet",
+  "generation": 3,
+  "created_at": "2017-12-01T18:19:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 3 Scarlet. I'm a Foreign Film Director by day, and I like mocking dogs by night. I once tricked a rhino. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "23506@2",
+  "sire": "20645@0",
+  "children": [
+    "23893@4",
+    "23910@4",
+    "66180@7",
+    "66923@4",
+    "83099@4",
+    "89846@4",
+    "102920@4",
+    "108447@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

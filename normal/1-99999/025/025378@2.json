@@ -1,0 +1,20 @@
+{
+  "id": 25378,
+  "name": "Gen2 Swift Scarlet",
+  "generation": 2,
+  "created_at": "2017-12-01T23:43:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Gen2 Swift Scarlet. All you need to know about me is I hate chocolate with a passion. I once made a labradoodle ignore. Will you be the cinammon to my maple syrup?",
+  "language": "en",
+  "matron": "24327@1",
+  "sire": "24231@1",
+  "children": [
+    "75629@3",
+    "85067@3",
+    "86137@4",
+    "100675@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

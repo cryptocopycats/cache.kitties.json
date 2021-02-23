@@ -1,0 +1,25 @@
+{
+  "id": 23092,
+  "name": "G5 | Triple Red",
+  "generation": 5,
+  "created_at": "2017-12-01T15:21:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm G5 | Triple Red. I've never told anyone this, but I once licked a dog. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I like your face.",
+  "language": "en",
+  "matron": "22612@1",
+  "sire": "22694@4",
+  "children": [
+    "25040@6",
+    "28085@6",
+    "33432@6",
+    "35180@6",
+    "36886@6",
+    "38558@6",
+    "57167@6",
+    "143406@6",
+    "252822@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

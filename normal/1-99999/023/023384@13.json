@@ -1,0 +1,19 @@
+{
+  "id": 23384,
+  "name": "Emerlad Cali",
+  "generation": 13,
+  "created_at": "2017-12-01T17:56:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Emerlad Cali. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19727@8",
+  "sire": "22841@12",
+  "children": [
+    "28242@20",
+    "30744@20",
+    "73195@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 23073,
+  "name": "G4 Salmon Starter (RARE)",
+  "generation": 4,
+  "created_at": "2017-12-01T15:14:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G4 Salmon Starter (RARE). All you need to know about me is I hate wet food with a passion. I was voted biggest teacher's pet in college. I like your face.",
+  "language": "en",
+  "matron": "18971@3",
+  "sire": "18096@2",
+  "children": [
+    "23517@5",
+    "32368@5",
+    "32902@14",
+    "33004@7",
+    "35456@14",
+    "36020@10",
+    "44326@16",
+    "58075@14",
+    "116887@5",
+    "128351@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 26819,
+  "name": "11",
+  "generation": 11,
+  "created_at": "2017-12-02T04:59:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm 11. I'm often referred to as the Bart Simpson of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26007@8",
+  "sire": "26454@10",
+  "children": [
+    "27419@12",
+    "39279@12",
+    "49112@12",
+    "64899@12",
+    "83087@12",
+    "220693@12",
+    "433992@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27632,
+  "name": "Gen 11 | Brisk",
+  "generation": 11,
+  "created_at": "2017-12-02T07:42:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 11 | Brisk. I believe the world is flat. I'm often described as tantalizing, and I own it. I like your face.",
+  "language": "en",
+  "matron": "27350@10",
+  "sire": "27344@9",
+  "children": [
+    "28059@12",
+    "36343@12",
+    "41016@14",
+    "54548@14",
+    "84979@16",
+    "230179@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

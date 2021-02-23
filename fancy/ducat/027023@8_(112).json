@@ -1,0 +1,26 @@
+{
+  "id": 27023,
+  "name": "Gen8 Geoff",
+  "generation": 8,
+  "created_at": "2017-12-02T05:42:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen8 Geoff. I've never told anyone this, but I once licked a dog. I would give it all up to star in a soap opera. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26946@7",
+  "sire": "11916@7",
+  "children": [
+    "27211@10",
+    "28904@10",
+    "35755@9",
+    "57653@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 112,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

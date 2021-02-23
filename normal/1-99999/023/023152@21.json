@@ -1,0 +1,18 @@
+{
+  "id": 23152,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-12-01T15:58:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 21. I'm a Spin Instructor  by day, and I like tricking babies by night. I was voted school jock in college. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "9574@20",
+  "sire": "9672@20",
+  "children": [
+    "31838@22",
+    "77481@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

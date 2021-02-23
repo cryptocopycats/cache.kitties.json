@@ -1,0 +1,18 @@
+{
+  "id": 24115,
+  "name": "Crypto Zen Kitty",
+  "generation": 11,
+  "created_at": "2017-12-01T19:51:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Crypto Zen Kitty here. I'm here to enjoy shakin' dat booty and picking on mice. I once got in a fight with a gecko, and won. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "16420@10",
+  "sire": "16385@9",
+  "children": [
+    "25503@16",
+    "265264@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

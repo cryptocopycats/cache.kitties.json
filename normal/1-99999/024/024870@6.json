@@ -1,0 +1,26 @@
+{
+  "id": 24870,
+  "name": "Generation 6 kitty",
+  "generation": 6,
+  "created_at": "2017-12-01T22:10:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Generation 6 kitty. I believe the world is flat. I'm often described as raunchy, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13882@1",
+  "sire": "24513@5",
+  "children": [
+    "34403@7",
+    "34817@7",
+    "35540@7",
+    "36930@8",
+    "43989@7",
+    "49981@7",
+    "76392@7",
+    "88093@8",
+    "431035@7",
+    "457745@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

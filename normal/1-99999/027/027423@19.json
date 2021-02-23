@@ -1,0 +1,19 @@
+{
+  "id": 27423,
+  "name": "District Kitty",
+  "generation": 19,
+  "created_at": "2017-12-02T07:02:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm District Kitty. All you need to know about me is I hate cantaloupe with a passion. I once got in a fight with a rhino, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "10009@12",
+  "sire": "24771@18",
+  "children": [
+    "32928@20",
+    "221014@20",
+    "321292@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

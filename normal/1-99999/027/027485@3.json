@@ -1,0 +1,20 @@
+{
+  "id": 27485,
+  "name": "Gen 3 gold cymric",
+  "generation": 3,
+  "created_at": "2017-12-02T07:14:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Gen 3 gold cymric. My friends describe me as preposterous and brilliant. Some people say I'm the Chandler Bing of the group. Let's get busy!",
+  "language": "en",
+  "matron": "27056@2",
+  "sire": "26945@2",
+  "children": [
+    "29450@7",
+    "30073@4",
+    "32000@4",
+    "35563@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

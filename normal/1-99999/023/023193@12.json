@@ -1,0 +1,18 @@
+{
+  "id": 23193,
+  "name": "Meowser Muncher",
+  "generation": 12,
+  "created_at": "2017-12-01T16:15:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Meowser Muncher. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21335@11",
+  "sire": "21185@7",
+  "children": [
+    "40142@16",
+    "134461@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

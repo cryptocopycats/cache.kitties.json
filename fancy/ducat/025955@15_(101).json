@@ -1,0 +1,27 @@
+{
+  "id": 25955,
+  "name": "Gen 15 | Bird",
+  "generation": 15,
+  "created_at": "2017-12-02T01:56:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Gen 15 | Bird. I'm a Ventriloquist by day, and I like playing chess by night. I once made a rooster lay. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24815@14",
+  "sire": "24803@14",
+  "children": [
+    "27232@16",
+    "32012@16",
+    "49081@16",
+    "71049@16",
+    "127030@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 101,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

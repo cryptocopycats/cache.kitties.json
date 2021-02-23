@@ -1,0 +1,23 @@
+{
+  "id": 26880,
+  "name": "Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-02T05:15:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! Gen 8 here. I'm here to enjoy reciting poetry and spinning sick beats. I'm often described as tantalizing, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19901@4",
+  "sire": "22744@7",
+  "children": [
+    "27810@22",
+    "29196@20",
+    "31485@23",
+    "36417@25",
+    "42492@19",
+    "51563@22",
+    "86200@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

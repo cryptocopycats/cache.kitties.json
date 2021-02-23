@@ -1,0 +1,22 @@
+{
+  "id": 23515,
+  "name": "Neckbeard",
+  "generation": 16,
+  "created_at": "2017-12-01T18:09:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Neckbeard. I'm often referred to as the Frodo Baggins of the group. I would give it all up to be on Oprah. Our friendship will be despicable, wondrous, and full of steak.",
+  "language": "en",
+  "matron": "17237@15",
+  "sire": "20091@14",
+  "children": [
+    "29965@17",
+    "45401@17",
+    "60021@17",
+    "79998@17",
+    "246121@17",
+    "353851@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

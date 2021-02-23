@@ -1,0 +1,20 @@
+{
+  "id": 26530,
+  "name": "LOW GEN - Brisk,Rare Limegreen",
+  "generation": 4,
+  "created_at": "2017-12-02T04:02:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm LOW GEN - Brisk,Rare Limegreen. I'm a Dogwalker by day, and I like summoning ghosts by night. I am 28% wizard, 19% Spin Instructor , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "26344@3",
+  "sire": "26214@3",
+  "children": [
+    "26676@6",
+    "31569@14",
+    "73443@6",
+    "79615@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

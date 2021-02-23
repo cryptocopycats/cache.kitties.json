@@ -1,0 +1,32 @@
+{
+  "id": 25218,
+  "name": "Gen 3 + DUCK KITTIE",
+  "generation": 3,
+  "created_at": "2017-12-01T23:18:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen 3 + DUCK KITTIE. My friends describe me as prickly and preposterous. I was voted most likely to work at NASA in college. Will you be the ranch dressing to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25020@2",
+  "sire": "23762@2",
+  "children": [
+    "25250@4",
+    "25786@4",
+    "30757@5",
+    "379729@4",
+    "416563@4",
+    "421332@4",
+    "459518@4",
+    "460564@4",
+    "463341@7",
+    "463686@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 85,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

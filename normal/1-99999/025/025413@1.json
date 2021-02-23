@@ -1,0 +1,18 @@
+{
+  "id": 25413,
+  "name": "Gen 1 A2",
+  "generation": 1,
+  "created_at": "2017-12-01T23:52:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen 1 A2. All you need to know about me is I hate hamburgers with a passion. My great-great-great-great-great-great grandkitty lived with Confucius. Our friendship will be petulant, seductive, and full of lasagna.",
+  "language": "en",
+  "matron": "21745@0",
+  "sire": "22345@0",
+  "children": [
+    "52996@2",
+    "53619@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

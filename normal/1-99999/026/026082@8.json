@@ -1,0 +1,22 @@
+{
+  "id": 26082,
+  "name": "GEN 8 PLODDING KITTY",
+  "generation": 8,
+  "created_at": "2017-12-02T02:23:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm GEN 8 PLODDING KITTY. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Confucius. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "25779@6",
+  "sire": "16706@7",
+  "children": [
+    "35084@9",
+    "36890@9",
+    "37599@10",
+    "40871@9",
+    "80510@18",
+    "199331@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

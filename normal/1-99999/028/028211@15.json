@@ -1,0 +1,21 @@
+{
+  "id": 28211,
+  "name": "Purrotaki",
+  "generation": 15,
+  "created_at": "2017-12-02T09:47:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Purrotaki. I enjoy picking flowers, shakin' dat booty, and eating until I loathe myself. When I'm not volunteering at the local kitten rescue shelter, I'm playing chess! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "25097@14",
+  "sire": "19755@13",
+  "children": [
+    "29418@18",
+    "32737@16",
+    "93480@16",
+    "110040@17",
+    "304516@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

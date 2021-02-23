@@ -1,0 +1,24 @@
+{
+  "id": 25494,
+  "name": "G11 Plodding Mauv",
+  "generation": 11,
+  "created_at": "2017-12-02T00:06:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm G11 Plodding Mauv. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Princess Diana. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "23108@10",
+  "sire": "24551@8",
+  "children": [
+    "48366@12",
+    "62346@12",
+    "91774@18",
+    "1192503@12",
+    "1419242@12",
+    "1605662@12",
+    "1611161@12",
+    "1613711@12"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

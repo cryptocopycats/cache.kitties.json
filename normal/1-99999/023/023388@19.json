@@ -1,0 +1,18 @@
+{
+  "id": 23388,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-01T17:56:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #23388. In high school, I was voted school jock. I once dreamed of being a Dispensary Clerk. Now I can be found people-watching all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19593@18",
+  "sire": "3627@10",
+  "children": [
+    "55896@20",
+    "96662@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

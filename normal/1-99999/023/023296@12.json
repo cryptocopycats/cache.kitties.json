@@ -1,0 +1,17 @@
+{
+  "id": 23296,
+  "name": "Anakin",
+  "generation": 12,
+  "created_at": "2017-12-01T16:58:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's Anakin. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "10538@10",
+  "sire": "11768@11",
+  "children": [
+    "39217@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

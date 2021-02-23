@@ -1,0 +1,20 @@
+{
+  "id": 23100,
+  "name": "Flat Mars",
+  "generation": 13,
+  "created_at": "2017-12-01T15:25:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Flat Mars. I'm often referred to as the Samwise Gamgee of the group. It's not common knowledge, but my ancestry connects me to Princess Diana. Let's get busy!",
+  "language": "en",
+  "matron": "21173@12",
+  "sire": "22481@5",
+  "children": [
+    "23399@14",
+    "24851@14",
+    "30950@19",
+    "181497@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

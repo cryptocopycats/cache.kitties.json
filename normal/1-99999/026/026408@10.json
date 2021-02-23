@@ -1,0 +1,24 @@
+{
+  "id": 26408,
+  "name": "Hammock A1",
+  "generation": 10,
+  "created_at": "2017-12-02T03:42:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Hammock A1. I've never told anyone this, but I once groomed a dog. My great-great-great-great-great-great grandkitty lived with Confucius. Will you be the ghost pepper hot sauce to my peanut butter?",
+  "language": "en",
+  "matron": "6790@6",
+  "sire": "26195@9",
+  "children": [
+    "29903@20",
+    "31254@20",
+    "41517@16",
+    "52089@16",
+    "81256@16",
+    "109035@20",
+    "115102@11",
+    "278699@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

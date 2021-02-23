@@ -1,0 +1,20 @@
+{
+  "id": 25838,
+  "name": "New Cat (Gen 17)",
+  "generation": 17,
+  "created_at": "2017-12-02T01:21:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm New Cat (Gen 17). I enjoy grooming, picking flowers, and picking on mice. I once dreamed of being a Mad Scientist. Now I can be found talking about how much I lift all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "25774@7",
+  "sire": "16675@16",
+  "children": [
+    "26332@18",
+    "40136@18",
+    "68750@18",
+    "83502@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

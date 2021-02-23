@@ -1,0 +1,19 @@
+{
+  "id": 27492,
+  "name": "Eloise",
+  "generation": 17,
+  "created_at": "2017-12-02T07:15:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Eloise here. I'm here to enjoy shakin' dat booty and riding dirty. Sometimes I daydream of a life full of picking flowers, cantaloupe, and braiding people's hair. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "21641@15",
+  "sire": "15164@16",
+  "children": [
+    "35183@18",
+    "40640@18",
+    "77035@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

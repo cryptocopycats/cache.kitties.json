@@ -1,0 +1,19 @@
+{
+  "id": 25338,
+  "name": "Gen 16 Sluggish",
+  "generation": 16,
+  "created_at": "2017-12-01T23:35:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 16 Sluggish. I've never told anyone this, but I once pawed at a dog. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's get busy!",
+  "language": "en",
+  "matron": "17825@5",
+  "sire": "17204@15",
+  "children": [
+    "25447@17",
+    "37873@17",
+    "66379@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

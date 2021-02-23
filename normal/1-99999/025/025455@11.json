@@ -1,0 +1,19 @@
+{
+  "id": 25455,
+  "name": "Nick",
+  "generation": 11,
+  "created_at": "2017-12-01T23:59:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Nick. I believe the world is flat. I'm often described as fabulous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "21270@10",
+  "sire": "18326@9",
+  "children": [
+    "51770@13",
+    "57329@12",
+    "103122@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

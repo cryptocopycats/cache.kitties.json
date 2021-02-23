@@ -1,0 +1,19 @@
+{
+  "id": 25081,
+  "name": "Marla",
+  "generation": 19,
+  "created_at": "2017-12-01T23:10:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Marla. My friends describe me as annoying and gullible. I am 15% troll, 54% Skydiving Instructor, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "20820@16",
+  "sire": "19794@18",
+  "children": [
+    "25561@20",
+    "52881@20",
+    "277541@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

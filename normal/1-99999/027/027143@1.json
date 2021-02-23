@@ -1,0 +1,27 @@
+{
+  "id": 27143,
+  "name": "Purple Gen 1",
+  "generation": 1,
+  "created_at": "2017-12-02T06:05:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Purple Gen 1. My friends describe me as raunchy and despicable. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "25626@0",
+  "sire": "24682@0",
+  "children": [
+    "28903@15",
+    "38510@3",
+    "234399@12",
+    "537632@2",
+    "1101636@4",
+    "1101788@2",
+    "1102726@2",
+    "1104415@2",
+    "1105251@2",
+    "1108138@2",
+    "1432536@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

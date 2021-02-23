@@ -1,0 +1,18 @@
+{
+  "id": 27033,
+  "name": "Old Sourpuss",
+  "generation": 18,
+  "created_at": "2017-12-02T05:44:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's Old Sourpuss. I once peed on Marie Antoinette's cat. They had it coming. I once got in a fight with a gecko, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17502@6",
+  "sire": "24826@17",
+  "children": [
+    "37532@19",
+    "71680@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

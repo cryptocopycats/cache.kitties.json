@@ -1,0 +1,22 @@
+{
+  "id": 25644,
+  "name": "Mr. Pickle",
+  "generation": 11,
+  "created_at": "2017-12-02T00:36:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Mr. Pickle. I'm often referred to as the Cersei Lannister of the group. I once made a chimpanzee pester. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "25572@7",
+  "sire": "25576@10",
+  "children": [
+    "25930@12",
+    "28727@12",
+    "36815@15",
+    "39943@18",
+    "95418@19",
+    "120249@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

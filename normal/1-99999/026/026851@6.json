@@ -1,0 +1,26 @@
+{
+  "id": 26851,
+  "name": "Papi Snuggles",
+  "generation": 6,
+  "created_at": "2017-12-02T05:10:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Papi Snuggles. All you need to know about me is I hate hamburgers with a passion. My friends describe me as \"prickly.\" It's... accurate. Will you be the marmalade to my wasabi?",
+  "language": "en",
+  "matron": "26409@3",
+  "sire": "25802@5",
+  "children": [
+    "32467@17",
+    "36825@16",
+    "37122@7",
+    "40615@7",
+    "40905@7",
+    "46163@14",
+    "67272@7",
+    "118865@7",
+    "236755@9",
+    "324392@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

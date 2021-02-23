@@ -1,0 +1,19 @@
+{
+  "id": 25754,
+  "name": "G9",
+  "generation": 9,
+  "created_at": "2017-12-02T01:03:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm G9. I'm often referred to as the Ross Geller of the group. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18366@8",
+  "sire": "23280@8",
+  "children": [
+    "26852@10",
+    "28908@10",
+    "30900@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

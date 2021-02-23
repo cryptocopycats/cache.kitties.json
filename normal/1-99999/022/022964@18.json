@@ -1,0 +1,19 @@
+{
+  "id": 22964,
+  "name": "Elegant",
+  "generation": 18,
+  "created_at": "2017-12-01T14:10:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Elegant. I believe that one day cats will rule this planet. I would give it all up for a Chanel purse. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5757@9",
+  "sire": "10225@17",
+  "children": [
+    "30407@19",
+    "96251@19",
+    "276432@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

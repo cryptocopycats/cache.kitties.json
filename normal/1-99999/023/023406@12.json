@@ -1,0 +1,22 @@
+{
+  "id": 23406,
+  "name": "Just Kitten",
+  "generation": 12,
+  "created_at": "2017-12-01T17:56:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Just Kitten. I enjoy sitting on your computer, glaring at the neighbour's cat, and riding dirty. I once got in a fight with a chimpanzee, and won. Let's pawty!",
+  "language": "en",
+  "matron": "11571@8",
+  "sire": "17352@11",
+  "children": [
+    "68127@13",
+    "76322@13",
+    "92759@13",
+    "158914@13",
+    "213512@17",
+    "300512@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

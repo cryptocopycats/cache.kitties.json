@@ -1,0 +1,25 @@
+{
+  "id": 26519,
+  "name": "Sealcat mama",
+  "generation": 6,
+  "created_at": "2017-12-02T04:00:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Sealcat mama. I believe the world is flat. I once got in a fight with a labradoodle, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18834@5",
+  "sire": "19666@5",
+  "children": [
+    "39238@7",
+    "39704@7",
+    "40379@7",
+    "79278@7",
+    "87952@7",
+    "112556@7",
+    "127151@7",
+    "185985@16",
+    "249953@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

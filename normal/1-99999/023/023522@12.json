@@ -1,0 +1,19 @@
+{
+  "id": 23522,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-01T18:09:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! My name's Kitty #23522. I once peed on Mother Theresa's cat. They had it coming. I would give it all up to star in a soap opera. Let's get busy!",
+  "language": "en",
+  "matron": "12264@11",
+  "sire": "7277@5",
+  "children": [
+    "27396@14",
+    "49089@13",
+    "77215@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

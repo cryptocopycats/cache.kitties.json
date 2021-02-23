@@ -1,0 +1,22 @@
+{
+  "id": 27417,
+  "name": "#1 Mauve",
+  "generation": 11,
+  "created_at": "2017-12-02T07:00:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm #1 Mauve. My friends describe me as seductive and hairy. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "26376@9",
+  "sire": "4848@10",
+  "children": [
+    "27712@16",
+    "28355@14",
+    "29016@12",
+    "42265@16",
+    "64370@16",
+    "71592@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

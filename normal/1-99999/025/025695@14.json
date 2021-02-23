@@ -1,0 +1,18 @@
+{
+  "id": 25695,
+  "name": "Porg",
+  "generation": 14,
+  "created_at": "2017-12-02T00:46:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! Porg here. I'm here to enjoy grooming and fighting the patriarchy. Sometimes I daydream of a life full of chasing red dots, cereal, and riding the bus. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "25244@4",
+  "sire": "25474@13",
+  "children": [
+    "32989@18",
+    "34832@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

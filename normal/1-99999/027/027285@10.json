@@ -1,0 +1,19 @@
+{
+  "id": 27285,
+  "name": "Purrrrpy",
+  "generation": 10,
+  "created_at": "2017-12-02T06:34:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Purrrrpy. In high school, I was voted biggest teacher's pet. I like to listen to Rihanna while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "23836@9",
+  "sire": "26107@9",
+  "children": [
+    "27658@11",
+    "127324@19",
+    "134126@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

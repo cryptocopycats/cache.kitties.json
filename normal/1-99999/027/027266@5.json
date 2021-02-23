@@ -1,0 +1,24 @@
+{
+  "id": 27266,
+  "name": "G5 Bubble Mauven Beaard",
+  "generation": 5,
+  "created_at": "2017-12-02T06:30:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm G5 Bubble Mauven Beaard. In high school, I was voted most likely to work at NASA. Some people say I'm the Dwight Schrute of the group. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "20751@4",
+  "sire": "19483@4",
+  "children": [
+    "37325@6",
+    "37834@6",
+    "51562@8",
+    "62855@6",
+    "72142@6",
+    "172731@6",
+    "851296@6",
+    "1494657@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

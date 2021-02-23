@@ -1,0 +1,19 @@
+{
+  "id": 24675,
+  "name": "Bubblegum Spock G16",
+  "generation": 16,
+  "created_at": "2017-12-01T21:38:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Bubblegum Spock G16. All you need to know about me is I hate steak with a passion. I once made a moose lay. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "21679@15",
+  "sire": "14577@0",
+  "children": [
+    "26983@22",
+    "85383@17",
+    "532965@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

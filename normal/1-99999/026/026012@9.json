@@ -1,0 +1,23 @@
+{
+  "id": 26012,
+  "name": "Sandra",
+  "generation": 9,
+  "created_at": "2017-12-02T02:10:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Sandra. My friends describe me as raunchy and smelly. I'm often described as fabulous, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "24097@8",
+  "sire": "25108@7",
+  "children": [
+    "60411@10",
+    "65064@10",
+    "75044@12",
+    "85203@11",
+    "91863@19",
+    "213568@10",
+    "600448@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

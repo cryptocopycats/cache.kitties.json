@@ -1,0 +1,31 @@
+{
+  "id": 23028,
+  "name": "#56 Ducat",
+  "generation": 13,
+  "created_at": "2017-12-01T14:58:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm #56 Ducat. All you need to know about me is I hate salad with a passion. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "20648@12",
+  "sire": "11970@0",
+  "children": [
+    "23432@14",
+    "24803@14",
+    "27116@14",
+    "38717@15",
+    "240157@19",
+    "458956@14",
+    "543277@18",
+    "576490@18",
+    "638069@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 56,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

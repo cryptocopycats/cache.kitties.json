@@ -1,0 +1,21 @@
+{
+  "id": 28168,
+  "name": "G9 STAR",
+  "generation": 9,
+  "created_at": "2017-12-02T09:38:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm G9 STAR. I believe that one day cats will rule this planet. I put ranch dressing on everything. Like, everything: hot dogs, lasagna—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "28018@8",
+  "sire": "24382@6",
+  "children": [
+    "30510@10",
+    "45723@14",
+    "64990@14",
+    "75240@10",
+    "93398@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

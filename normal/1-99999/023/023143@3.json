@@ -1,0 +1,20 @@
+{
+  "id": 23143,
+  "name": "GEN 3 BRISK",
+  "generation": 3,
+  "created_at": "2017-12-01T15:51:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm GEN 3 BRISK. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "10423@2",
+  "sire": "3311@1",
+  "children": [
+    "32629@4",
+    "33599@4",
+    "35103@7",
+    "53544@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

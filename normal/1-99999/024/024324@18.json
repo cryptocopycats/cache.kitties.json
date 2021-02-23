@@ -1,0 +1,19 @@
+{
+  "id": 24324,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-12-01T20:37:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 18. My friends describe me as prickly and voluptuous. My friends describe me as \"gorgeous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21318@17",
+  "sire": "22409@12",
+  "children": [
+    "43620@20",
+    "45909@23",
+    "98666@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

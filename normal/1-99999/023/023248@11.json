@@ -1,0 +1,22 @@
+{
+  "id": 23248,
+  "name": "The Inquisitor",
+  "generation": 11,
+  "created_at": "2017-12-01T16:28:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm The Inquisitor. I'm a professional Skydiving Instructor and I love salad. My friends describe me as \"fabulous.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "22807@10",
+  "sire": "17035@10",
+  "children": [
+    "25684@12",
+    "27161@12",
+    "27447@12",
+    "28333@12",
+    "42232@12",
+    "102140@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

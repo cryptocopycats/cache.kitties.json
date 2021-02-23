@@ -1,0 +1,20 @@
+{
+  "id": 24573,
+  "name": "Gen5 & Swift",
+  "generation": 5,
+  "created_at": "2017-12-01T21:19:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen5 & Swift. I'm a professional Mad Scientist and I love cantaloupe. In my free time, I can usually be found despicable or sleeping in fresh laundry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "24440@4",
+  "sire": "23580@4",
+  "children": [
+    "24724@6",
+    "24959@6",
+    "25694@7",
+    "28130@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

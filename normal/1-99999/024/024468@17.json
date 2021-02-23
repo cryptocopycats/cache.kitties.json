@@ -1,0 +1,20 @@
+{
+  "id": 24468,
+  "name": "G17",
+  "generation": 17,
+  "created_at": "2017-12-01T21:00:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm G17. In high school, I was voted school jock. I once made a moose pester. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10610@16",
+  "sire": "16697@12",
+  "children": [
+    "27246@18",
+    "33343@18",
+    "72026@18",
+    "85087@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

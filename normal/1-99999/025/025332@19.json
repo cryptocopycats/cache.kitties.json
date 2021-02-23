@@ -1,0 +1,18 @@
+{
+  "id": 25332,
+  "name": "Red Mischief",
+  "generation": 19,
+  "created_at": "2017-12-01T23:34:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Red Mischief. I'm often referred to as the Hermione Granger of the group. When I'm not talking about how much I lift, I'm volunteering at the local kitten rescue shelter! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21844@18",
+  "sire": "21829@9",
+  "children": [
+    "29680@20",
+    "64404@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

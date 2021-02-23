@@ -1,0 +1,20 @@
+{
+  "id": 24926,
+  "name": "Scarlet Yellow Rare Cat",
+  "generation": 15,
+  "created_at": "2017-12-01T22:30:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Scarlet Yellow Rare Cat. I'm often referred to as the Samwise Gamgee of the group. I am 10% elf, 74% Foreign Film Director, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "13337@10",
+  "sire": "14119@14",
+  "children": [
+    "28733@16",
+    "29610@19",
+    "33209@16",
+    "67214@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

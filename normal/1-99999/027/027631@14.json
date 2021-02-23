@@ -1,0 +1,18 @@
+{
+  "id": 27631,
+  "name": "Ice Shard",
+  "generation": 14,
+  "created_at": "2017-12-02T07:41:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! My name's Ice Shard. I once peed on Marie Antoinette's cat. They had it coming. My secret indulgence is cantaloupe. Our friendship will be fabulous, tantalizing, and full of apple pie.",
+  "language": "en",
+  "matron": "27150@3",
+  "sire": "25857@13",
+  "children": [
+    "28798@20",
+    "253639@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

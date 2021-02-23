@@ -1,0 +1,26 @@
+{
+  "id": 25508,
+  "name": "Garnet Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T00:10:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Garnet Gen 2. I'm a professional Skydiving Instructor and I love chocolate. When I'm not running a podcast, I'm siring for status! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20344@1",
+  "sire": "2512@0",
+  "children": [
+    "25656@10",
+    "25675@6",
+    "31613@3",
+    "33067@6",
+    "34759@11",
+    "37864@3",
+    "60419@3",
+    "102235@3",
+    "199496@5",
+    "226518@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

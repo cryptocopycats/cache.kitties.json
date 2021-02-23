@@ -1,0 +1,23 @@
+{
+  "id": 26754,
+  "name": "Green Pea Gen 4 Swift (V)",
+  "generation": 4,
+  "created_at": "2017-12-02T04:44:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Green Pea Gen 4 Swift (V). All you need to know about me is I hate cereal with a passion. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "25032@3",
+  "sire": "26634@3",
+  "children": [
+    "27214@5",
+    "27282@5",
+    "34074@5",
+    "69197@5",
+    "71812@5",
+    "79481@5",
+    "188558@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

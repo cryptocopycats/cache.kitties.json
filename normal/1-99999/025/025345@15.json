@@ -1,0 +1,20 @@
+{
+  "id": 25345,
+  "name": "sausage",
+  "generation": 15,
+  "created_at": "2017-12-01T23:39:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! My name's sausage. I once peed on Mother Theresa's cat. They had it coming. In my free time, I can usually be found gullible or watching reality tv. Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "18475@14",
+  "sire": "17792@13",
+  "children": [
+    "26348@16",
+    "31503@18",
+    "34965@16",
+    "83818@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

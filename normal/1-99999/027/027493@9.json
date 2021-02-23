@@ -1,0 +1,26 @@
+{
+  "id": 27493,
+  "name": "Orange",
+  "generation": 9,
+  "created_at": "2017-12-02T07:16:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Orange. I'm a professional Skydiving Instructor and I love chocolate. I like to listen to Beyoncé while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3699@8",
+  "sire": "3302@5",
+  "children": [
+    "28937@10",
+    "35572@11",
+    "48664@10",
+    "54119@11",
+    "93584@10",
+    "105183@10",
+    "112624@10",
+    "134906@10",
+    "295842@19",
+    "347196@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

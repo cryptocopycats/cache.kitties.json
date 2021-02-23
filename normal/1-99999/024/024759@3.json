@@ -1,0 +1,20 @@
+{
+  "id": 24759,
+  "name": "G3 | BP Spock",
+  "generation": 3,
+  "created_at": "2017-12-01T21:50:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm G3 | BP Spock. I'm often referred to as the Neville Longbottom of the group. My secret indulgence is wet food. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20547@2",
+  "sire": "24564@2",
+  "children": [
+    "29772@4",
+    "29890@4",
+    "30105@4",
+    "30887@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

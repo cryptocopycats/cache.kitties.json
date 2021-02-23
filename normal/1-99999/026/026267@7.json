@@ -1,0 +1,20 @@
+{
+  "id": 26267,
+  "name": "G7 | Mauve Spock | Plod",
+  "generation": 7,
+  "created_at": "2017-12-02T03:13:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm G7 | Mauve Spock | Plod. I'm often referred to as the Dwight Schrute of the group. I once made a goose leap. Let's get busy!",
+  "language": "en",
+  "matron": "24958@5",
+  "sire": "25012@6",
+  "children": [
+    "26351@8",
+    "26717@8",
+    "27571@8",
+    "32190@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 26179,
+  "name": "Trepidatious",
+  "generation": 18,
+  "created_at": "2017-12-02T02:51:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Trepidatious. I believe the world is flat. My friends describe me as \"prickly.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18023@17",
+  "sire": "20490@17",
+  "children": [
+    "28524@19",
+    "49088@19",
+    "80514@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

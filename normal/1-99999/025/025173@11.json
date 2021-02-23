@@ -1,0 +1,18 @@
+{
+  "id": 25173,
+  "name": "Xander",
+  "generation": 11,
+  "created_at": "2017-12-01T23:12:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Xander. I'm a professional Skydiving Instructor and I love chocolate. I am 88% oracle, 42% Spin Instructor , and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "22843@3",
+  "sire": "16295@10",
+  "children": [
+    "70077@12",
+    "96854@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

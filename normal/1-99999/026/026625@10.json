@@ -1,0 +1,20 @@
+{
+  "id": 26625,
+  "name": "10",
+  "generation": 10,
+  "created_at": "2017-12-02T04:14:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm 10. All you need to know about me is I hate salad with a passion. I am 41% hobbit, 4% Ventriloquist, and otherwise bad at math. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "25628@9",
+  "sire": "25991@9",
+  "children": [
+    "26964@11",
+    "27681@11",
+    "39864@11",
+    "62672@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

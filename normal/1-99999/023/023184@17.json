@@ -1,0 +1,20 @@
+{
+  "id": 23184,
+  "name": "Derek 17",
+  "generation": 17,
+  "created_at": "2017-12-01T16:15:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Derek 17. I enjoy grooming, hitting on yo' man, and chasing red dots. I once clawed a dolphin. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6733@16",
+  "sire": "7586@10",
+  "children": [
+    "27877@18",
+    "39816@18",
+    "93006@18",
+    "329433@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

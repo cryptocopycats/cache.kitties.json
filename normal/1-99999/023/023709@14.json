@@ -1,0 +1,19 @@
+{
+  "id": 23709,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T18:27:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #23709. I'm often referred to as the Chandler Bing of the group. When no one's home, I invite my pals over and we listen to Frank Sinatra. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6491@13",
+  "sire": "6506@12",
+  "children": [
+    "51709@16",
+    "54395@17",
+    "76513@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

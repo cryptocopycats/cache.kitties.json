@@ -1,0 +1,19 @@
+{
+  "id": 25087,
+  "name": "Mouldy Mike",
+  "generation": 20,
+  "created_at": "2017-12-01T23:10:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Mouldy Mike. I'm often referred to as the Steve Urkel of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I look forward to fighting the patriarchy with you.",
+  "language": "en",
+  "matron": "19885@19",
+  "sire": "16694@15",
+  "children": [
+    "45428@21",
+    "108869@21",
+    "133718@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

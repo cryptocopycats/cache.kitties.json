@@ -1,0 +1,24 @@
+{
+  "id": 26848,
+  "name": "Emerald Parent",
+  "generation": 7,
+  "created_at": "2017-12-02T05:10:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Emerald Parent. I want to live in a world where people believe the world is flat. I put maple syrup on everything. Like, everything: hot dogs, cantaloupe—everything! I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "25482@4",
+  "sire": "26117@6",
+  "children": [
+    "26959@9",
+    "27416@9",
+    "28139@11",
+    "29497@8",
+    "32230@8",
+    "44494@8",
+    "87632@8",
+    "121777@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

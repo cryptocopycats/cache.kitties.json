@@ -1,0 +1,19 @@
+{
+  "id": 23360,
+  "name": "Ginger Ninja",
+  "generation": 17,
+  "created_at": "2017-12-01T17:54:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Ginger Ninja. I'm often referred to as the Bart Simpson of the group. My secret indulgence is chocolate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19307@16",
+  "sire": "19562@16",
+  "children": [
+    "26670@18",
+    "35358@18",
+    "86039@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

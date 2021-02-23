@@ -1,0 +1,20 @@
+{
+  "id": 25037,
+  "name": "Monsieur Beard | Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T22:58:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Monsieur Beard | Gen4. I'm a professional Skydiving Instructor and I love hamburgers. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "24880@3",
+  "sire": "23916@3",
+  "children": [
+    "25307@5",
+    "25498@5",
+    "25773@9",
+    "25802@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

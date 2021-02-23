@@ -1,0 +1,18 @@
+{
+  "id": 23232,
+  "name": "Sunflower",
+  "generation": 18,
+  "created_at": "2017-12-01T16:26:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Sunflower. I'm often referred to as the Steve Urkel of the group. It's not common knowledge, but my ancestry connects me to Mother Theresa. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15171@15",
+  "sire": "15306@17",
+  "children": [
+    "29362@19",
+    "107486@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

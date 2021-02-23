@@ -1,0 +1,22 @@
+{
+  "id": 24716,
+  "name": "DogLover Brisk G9",
+  "generation": 9,
+  "created_at": "2017-12-01T21:45:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm DogLover Brisk G9. I've never told anyone this, but I once loved a dog. I once loved a labradoodle. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24421@8",
+  "sire": "23429@7",
+  "children": [
+    "33068@10",
+    "48765@10",
+    "62557@15",
+    "75734@10",
+    "83959@11",
+    "92324@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

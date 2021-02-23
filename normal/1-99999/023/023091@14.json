@@ -1,0 +1,21 @@
+{
+  "id": 23091,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-01T15:21:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 14. I'm a Ventriloquist by day, and I like people-watching by night. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! I look forward to staying woke with you.",
+  "language": "en",
+  "matron": "20816@13",
+  "sire": "22264@11",
+  "children": [
+    "25506@22",
+    "41391@19",
+    "48679@19",
+    "59542@22",
+    "109733@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

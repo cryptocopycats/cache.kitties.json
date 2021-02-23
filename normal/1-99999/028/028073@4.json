@@ -1,0 +1,21 @@
+{
+  "id": 28073,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-02T09:19:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #28073. All you need to know about me is I hate ice cream with a passion. I once got in a fight with a dolphin, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "27988@2",
+  "sire": "10272@3",
+  "children": [
+    "28901@14",
+    "51835@5",
+    "100334@5",
+    "381459@14",
+    "389837@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

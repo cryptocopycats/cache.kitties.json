@@ -1,0 +1,19 @@
+{
+  "id": 23987,
+  "name": "G15",
+  "generation": 15,
+  "created_at": "2017-12-01T19:18:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm G15. I'm a Dispensary Clerk by day, and I like talking about how much I lift by night. I once pranced with a rooster. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "21867@14",
+  "sire": "18598@10",
+  "children": [
+    "31084@16",
+    "38105@17",
+    "97931@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

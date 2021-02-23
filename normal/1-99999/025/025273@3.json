@@ -1,0 +1,18 @@
+{
+  "id": 25273,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-01T23:26:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 3. My friends describe me as hairy and despicable. When no one's home, I invite my pals over and we listen to Michael Bolton. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "25020@2",
+  "sire": "18717@2",
+  "children": [
+    "25866@5",
+    "28740@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

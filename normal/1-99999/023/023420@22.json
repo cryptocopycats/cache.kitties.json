@@ -1,0 +1,18 @@
+{
+  "id": 23420,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-01T17:58:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Gen 22. My friends describe me as wondrous and seductive. It's not common knowledge, but my ancestry connects me to King Henry VIII. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "17859@21",
+  "sire": "18078@21",
+  "children": [
+    "45907@23",
+    "142268@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

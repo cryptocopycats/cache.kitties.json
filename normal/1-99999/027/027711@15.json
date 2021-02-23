@@ -1,0 +1,24 @@
+{
+  "id": 27711,
+  "name": "Rare(wingtips)",
+  "generation": 15,
+  "created_at": "2017-12-02T08:01:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Rare(wingtips). I'm a Skydiving Instructor by day, and I like jump-roping by night. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3496@8",
+  "sire": "20871@14",
+  "children": [
+    "42746@16",
+    "65234@17",
+    "92588@18",
+    "108971@20",
+    "130314@16",
+    "315882@16",
+    "388646@16",
+    "682642@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

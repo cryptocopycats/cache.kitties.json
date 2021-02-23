@@ -1,0 +1,23 @@
+{
+  "id": 24561,
+  "name": "Chocokin",
+  "generation": 8,
+  "created_at": "2017-12-01T21:18:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Chocokin. I enjoy fighting the patriarchy, picking on mice, and riding unicorns. I like to listen to Rihanna while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "24084@7",
+  "sire": "24245@6",
+  "children": [
+    "26331@12",
+    "27347@13",
+    "30069@15",
+    "54376@14",
+    "82551@18",
+    "133220@13",
+    "186218@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

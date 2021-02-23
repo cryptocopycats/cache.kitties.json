@@ -1,0 +1,19 @@
+{
+  "id": 27083,
+  "name": "7",
+  "generation": 7,
+  "created_at": "2017-12-02T05:55:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm 7. I believe that one day cats will rule this planet. Some people say I'm the Marge Simpson of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "25432@6",
+  "sire": "26785@6",
+  "children": [
+    "27412@9",
+    "37414@9",
+    "38327@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 27162,
+  "name": "Moo",
+  "generation": 2,
+  "created_at": "2017-12-02T06:08:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Moo. I enjoy picking on mice, watching Stranger Things, and reciting poetry. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "4704@1",
+  "sire": "3928@1",
+  "children": [
+    "27430@3",
+    "27673@3",
+    "27924@3",
+    "28312@3",
+    "28979@3",
+    "29781@3",
+    "30567@3",
+    "37273@3",
+    "49129@3",
+    "73333@3",
+    "124528@3",
+    "239291@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

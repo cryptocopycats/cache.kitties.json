@@ -1,0 +1,20 @@
+{
+  "id": 26815,
+  "name": "Cheese",
+  "generation": 15,
+  "created_at": "2017-12-02T04:58:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Cheese. I enjoy tripping my owner, taking selfies, and riding unicorns. I am 78% hobbit, 18% Foreign Film Director, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26138@12",
+  "sire": "18675@14",
+  "children": [
+    "29202@17",
+    "55691@16",
+    "109905@16",
+    "438042@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

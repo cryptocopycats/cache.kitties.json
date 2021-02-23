@@ -1,0 +1,18 @@
+{
+  "id": 24160,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-01T20:00:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen6. I enjoy eating until I loathe myself, reading garfield, and fighting the patriarchy. I would give it all up for a Chanel purse. Our friendship will be gullible, petulant, and full of salad.",
+  "language": "en",
+  "matron": "24081@5",
+  "sire": "20131@5",
+  "children": [
+    "24839@7",
+    "28495@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

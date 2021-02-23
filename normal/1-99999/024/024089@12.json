@@ -1,0 +1,19 @@
+{
+  "id": 24089,
+  "name": "Gen 12 | Plodding",
+  "generation": 12,
+  "created_at": "2017-12-01T19:43:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Gen 12 | Plodding. I want to live in a world where people believe the world is flat. I once got in a fight with a rhino, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23129@6",
+  "sire": "23877@11",
+  "children": [
+    "26639@13",
+    "32372@13",
+    "37303@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

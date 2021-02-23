@@ -1,0 +1,19 @@
+{
+  "id": 26379,
+  "name": "Gen 21 Orangie",
+  "generation": 21,
+  "created_at": "2017-12-02T03:37:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 21 Orangie. I'm a professional Train Conductor and I love chocolate. When no one's home, I invite my pals over and we listen to Justin Bieber. Our friendship will be hairy, tantalizing, and full of ice cream.",
+  "language": "en",
+  "matron": "17757@20",
+  "sire": "10630@3",
+  "children": [
+    "31635@22",
+    "83120@22",
+    "224087@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

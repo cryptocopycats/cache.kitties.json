@@ -1,0 +1,21 @@
+{
+  "id": 27012,
+  "name": "Qtum",
+  "generation": 14,
+  "created_at": "2017-12-02T05:40:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Qtum. My friends describe me as gorgeous and petulant. Sometimes I daydream of a life full of spinning sick beats, chocolate, and prank-calling celebrities. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6746@13",
+  "sire": "12951@12",
+  "children": [
+    "42746@16",
+    "52948@15",
+    "63225@15",
+    "92685@15",
+    "150170@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

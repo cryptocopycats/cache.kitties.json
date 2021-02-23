@@ -1,0 +1,23 @@
+{
+  "id": 27963,
+  "name": "General Meorawr",
+  "generation": 12,
+  "created_at": "2017-12-02T08:51:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm General Meorawr. I'm a professional Skydiving Instructor and I love cantaloupe. It's not common knowledge, but my ancestry connects me to Princess Diana. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "27542@11",
+  "sire": "27546@10",
+  "children": [
+    "29462@13",
+    "32068@13",
+    "43251@13",
+    "76933@13",
+    "101216@13",
+    "208728@13",
+    "293119@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 26386,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-02T03:38:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen4. I'm a professional Ventriloquist and I love apple pie. My friends describe me as \"vegan.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16020@3",
+  "sire": "20688@3",
+  "children": [
+    "26829@5",
+    "26995@5",
+    "27159@5",
+    "34026@5",
+    "64663@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

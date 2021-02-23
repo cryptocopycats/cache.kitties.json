@@ -1,0 +1,21 @@
+{
+  "id": 24586,
+  "name": "Lucy in the Sky",
+  "generation": 10,
+  "created_at": "2017-12-01T21:20:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! My name's Lucy in the Sky. I once peed on Marie Antoinette's cat. They had it coming. I'm often described as stinky, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16106@8",
+  "sire": "4394@9",
+  "children": [
+    "27147@11",
+    "27899@11",
+    "29294@13",
+    "38665@11",
+    "65208@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

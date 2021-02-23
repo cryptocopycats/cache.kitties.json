@@ -1,0 +1,19 @@
+{
+  "id": 24830,
+  "name": "Gen8",
+  "generation": 8,
+  "created_at": "2017-12-01T22:00:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen8. I've never told anyone this, but I once kissed a dog. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "24040@7",
+  "sire": "19835@7",
+  "children": [
+    "31582@10",
+    "51493@13",
+    "62556@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

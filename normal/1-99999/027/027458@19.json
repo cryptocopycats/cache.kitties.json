@@ -1,0 +1,18 @@
+{
+  "id": 27458,
+  "name": "Lemon Paws",
+  "generation": 19,
+  "created_at": "2017-12-02T07:08:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Lemon Paws. I believe the world is flat. I like to listen to Justin Bieber while grooming. Don't judge me. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "3526@7",
+  "sire": "27339@18",
+  "children": [
+    "28798@20",
+    "37241@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

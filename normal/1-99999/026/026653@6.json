@@ -1,0 +1,25 @@
+{
+  "id": 26653,
+  "name": "Tic | Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T04:20:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Tic | Gen 6. I'm a Dispensary Clerk by day, and I like pole dancing by night. I once licked a dolphin. I don't like to talk about it. Will you be the ghost pepper hot sauce to my soy sauce?",
+  "language": "en",
+  "matron": "23859@5",
+  "sire": "7288@5",
+  "children": [
+    "26877@9",
+    "27064@17",
+    "27501@14",
+    "28600@18",
+    "29866@16",
+    "30178@7",
+    "37319@7",
+    "73422@9",
+    "151367@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

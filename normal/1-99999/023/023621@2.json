@@ -1,0 +1,27 @@
+{
+  "id": 23621,
+  "name": "Mr. Kitto",
+  "generation": 2,
+  "created_at": "2017-12-01T18:17:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Mr. Kitto. I enjoy hitting on yo' man, reading garfield, and sweating through my feet. I'm often described as tantalizing, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13882@1",
+  "sire": "14339@1",
+  "children": [
+    "23936@3",
+    "24084@7",
+    "24192@3",
+    "24416@3",
+    "24848@5",
+    "26552@3",
+    "31425@3",
+    "38090@3",
+    "60593@3",
+    "89431@3",
+    "165387@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

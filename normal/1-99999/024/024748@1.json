@@ -1,0 +1,30 @@
+{
+  "id": 24748,
+  "name": "Gen 1 - C",
+  "generation": 1,
+  "created_at": "2017-12-01T21:50:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 1 - C. My friends describe me as voluptuous and gorgeous. I put marmite on everything. Like, everything: hot dogs, hamburgers—everything! Our friendship will be voluptuous, gorgeous, and full of steak.",
+  "language": "en",
+  "matron": "15560@0",
+  "sire": "16948@0",
+  "children": [
+    "25847@2",
+    "27809@2",
+    "27914@2",
+    "38319@2",
+    "39095@2",
+    "44080@2",
+    "45980@2",
+    "61838@2",
+    "76277@2",
+    "99054@2",
+    "124564@2",
+    "273819@2",
+    "361927@2",
+    "394640@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

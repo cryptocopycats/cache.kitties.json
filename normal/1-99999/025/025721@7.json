@@ -1,0 +1,19 @@
+{
+  "id": 25721,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-02T00:51:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Gen 7. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "24714@6",
+  "sire": "24316@6",
+  "children": [
+    "28741@8",
+    "29952@8",
+    "111228@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

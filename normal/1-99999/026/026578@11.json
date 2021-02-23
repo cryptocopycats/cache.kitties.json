@@ -1,0 +1,20 @@
+{
+  "id": 26578,
+  "name": "Mister Pistachio",
+  "generation": 11,
+  "created_at": "2017-12-02T04:07:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Mister Pistachio. My friends describe me as vegan and gullible. I like to listen to Coldplay while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "24911@9",
+  "sire": "25693@10",
+  "children": [
+    "36689@12",
+    "39585@12",
+    "52161@12",
+    "52835@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

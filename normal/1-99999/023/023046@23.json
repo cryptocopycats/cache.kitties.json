@@ -1,0 +1,18 @@
+{
+  "id": 23046,
+  "name": "brother_johnny",
+  "generation": 23,
+  "created_at": "2017-12-01T15:04:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm brother_johnny. I'm often referred to as the Homer Simpson of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "21711@11",
+  "sire": "20479@22",
+  "children": [
+    "44075@24",
+    "59059@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

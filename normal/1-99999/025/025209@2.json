@@ -1,0 +1,20 @@
+{
+  "id": 25209,
+  "name": "Gen 2 Vasilii",
+  "generation": 2,
+  "created_at": "2017-12-01T23:14:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! Gen 2 Vasilii here. I'm here to enjoy eating lasagna and staying woke. I once dreamed of being a Ventriloquist. Now I can be found practicing witchcraft all day. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "24029@1",
+  "sire": "18367@1",
+  "children": [
+    "25242@3",
+    "31374@3",
+    "251951@3",
+    "254086@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

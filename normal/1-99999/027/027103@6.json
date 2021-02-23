@@ -1,0 +1,20 @@
+{
+  "id": 27103,
+  "name": "Gen 6 Recessive Moustache",
+  "generation": 6,
+  "created_at": "2017-12-02T05:58:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! Gen 6 Recessive Moustache here. I'm here to enjoy sitting on your computer and shakin' dat booty. I am 74% gremlin, 53% Dogwalker, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "25678@5",
+  "sire": "26121@5",
+  "children": [
+    "27573@12",
+    "51449@9",
+    "58796@7",
+    "63092@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

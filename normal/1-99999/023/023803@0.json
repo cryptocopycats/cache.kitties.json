@@ -1,0 +1,22 @@
+{
+  "id": 23803,
+  "name": "Gen0 | g0 | Virgin | Rare",
+  "generation": 0,
+  "created_at": "2017-12-01T18:36:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen0 | g0 | Virgin | Rare. I'm a professional Train Conductor and I love hamburgers. My great-great-great-great-great-great grandkitty lived with Confucius. Our friendship will be fabulous, seductive, and full of salad.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "68324@1",
+    "92161@1",
+    "92672@1",
+    "98356@1",
+    "104613@1",
+    "178008@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

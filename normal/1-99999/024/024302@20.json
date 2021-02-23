@@ -1,0 +1,20 @@
+{
+  "id": 24302,
+  "name": "Gen 20 | Slow",
+  "generation": 20,
+  "created_at": "2017-12-01T20:32:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Gen 20 | Slow. My friends describe me as hairy and prickly. My secret indulgence is lasagna. Let's get busy!",
+  "language": "en",
+  "matron": "20985@19",
+  "sire": "20986@14",
+  "children": [
+    "28964@21",
+    "96609@21",
+    "248217@21",
+    "375092@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

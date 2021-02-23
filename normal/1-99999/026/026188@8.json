@@ -1,0 +1,20 @@
+{
+  "id": 26188,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-02T03:01:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 8. I believe the world is flat. I once pranced with a labradoodle. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21290@7",
+  "sire": "25184@6",
+  "children": [
+    "26446@9",
+    "26604@9",
+    "27649@9",
+    "40590@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

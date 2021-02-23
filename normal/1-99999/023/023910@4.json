@@ -1,0 +1,28 @@
+{
+  "id": 23910,
+  "name": "Mary",
+  "generation": 4,
+  "created_at": "2017-12-01T18:59:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Mary. My friends describe me as annoying and petulant. I like to listen to Rihanna while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "22249@1",
+  "sire": "23650@3",
+  "children": [
+    "23923@5",
+    "24766@8",
+    "25961@5",
+    "28005@13",
+    "29702@11",
+    "32302@5",
+    "33512@15",
+    "38700@5",
+    "61429@8",
+    "122703@15",
+    "242601@17",
+    "363719@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

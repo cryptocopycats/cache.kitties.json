@@ -1,0 +1,20 @@
+{
+  "id": 25130,
+  "name": "Spock | BubbleGum | G17",
+  "generation": 17,
+  "created_at": "2017-12-01T23:11:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Spock | BubbleGum | G17. I'm a Ventriloquist by day, and I like riverdancing by night. My secret indulgence is salad. Will you be the maple syrup to my cinammon?",
+  "language": "en",
+  "matron": "24812@9",
+  "sire": "24892@16",
+  "children": [
+    "27695@18",
+    "75043@18",
+    "82427@18",
+    "124651@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

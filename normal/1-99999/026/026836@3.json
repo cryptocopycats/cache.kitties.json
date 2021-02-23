@@ -1,0 +1,19 @@
+{
+  "id": 26836,
+  "name": "Gen 3 Gen3 G3 Snappy",
+  "generation": 3,
+  "created_at": "2017-12-02T05:03:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 3 Gen3 G3 Snappy. I've never told anyone this, but I once groomed a dog. When no one's home, I invite my pals over and we listen to Wutang. Let's pawty!",
+  "language": "en",
+  "matron": "21586@2",
+  "sire": "22114@2",
+  "children": [
+    "27256@6",
+    "32907@4",
+    "54743@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

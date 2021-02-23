@@ -1,0 +1,17 @@
+{
+  "id": 23361,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-12-01T17:54:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen 20. I've never told anyone this, but I once bit a dog. I put ranch dressing on everything. Like, everything: hot dogs, salad—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "9446@19",
+  "sire": "12550@16",
+  "children": [
+    "29176@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

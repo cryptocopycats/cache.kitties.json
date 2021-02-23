@@ -1,0 +1,19 @@
+{
+  "id": 24771,
+  "name": "Spot",
+  "generation": 18,
+  "created_at": "2017-12-01T21:52:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Spot. I'm a Foreign Film Director by day, and I like tricking babies by night. I once made a platypus enjoy. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "10284@17",
+  "sire": "8466@10",
+  "children": [
+    "27423@19",
+    "40933@19",
+    "145711@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

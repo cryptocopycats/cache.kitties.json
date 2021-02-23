@@ -1,0 +1,20 @@
+{
+  "id": 24363,
+  "name": "G17 Otaku",
+  "generation": 17,
+  "created_at": "2017-12-01T20:45:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm G17 Otaku. I'm a Dispensary Clerk by day, and I like volunteering at the local kitten rescue shelter by night. I once made a platypus grimace. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "22147@16",
+  "sire": "20755@14",
+  "children": [
+    "29434@18",
+    "38013@18",
+    "88790@22",
+    "112386@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

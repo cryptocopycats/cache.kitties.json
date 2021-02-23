@@ -1,0 +1,28 @@
+{
+  "id": 25899,
+  "name": "#100/10000 The True 1%",
+  "generation": 5,
+  "created_at": "2017-12-02T01:34:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm #100/10000 The True 1%. I believe that one day cats will rule this planet. I'm often described as tantalizing, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25624@4",
+  "sire": "18932@4",
+  "children": [
+    "28257@6",
+    "28328@11",
+    "31393@6",
+    "541159@7",
+    "548972@7",
+    "559090@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 100,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

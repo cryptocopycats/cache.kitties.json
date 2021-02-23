@@ -1,0 +1,21 @@
+{
+  "id": 28051,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-12-02T09:14:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm G4. I enjoy grooming, shakin' dat booty, and breakdancing. I once frolicked with a rabbit. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24987@3",
+  "sire": "27581@3",
+  "children": [
+    "28988@5",
+    "30501@5",
+    "46121@5",
+    "54308@5",
+    "64467@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 26487,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-12-02T03:55:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Gen 19. I've never told anyone this, but I once groomed a dog. I like to listen to Wutang while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "20940@18",
+  "sire": "19901@4",
+  "children": [
+    "35835@20",
+    "71195@22",
+    "94185@22",
+    "119557@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

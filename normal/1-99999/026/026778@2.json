@@ -1,0 +1,25 @@
+{
+  "id": 26778,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-12-02T04:50:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen2. I enjoy picking flowers, reading garfield, and riding dirty. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "25818@1",
+  "sire": "14005@1",
+  "children": [
+    "27096@3",
+    "27691@3",
+    "31248@3",
+    "31309@6",
+    "37855@3",
+    "49110@7",
+    "54361@3",
+    "65857@3",
+    "148570@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 28091,
+  "name": "G8 BR",
+  "generation": 8,
+  "created_at": "2017-12-02T09:23:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm G8 BR. I'm often referred to as the Ross Geller of the group. Sometimes I daydream of a life full of slappin' da bass, cantaloupe, and reading Danielle Steele. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "27436@7",
+  "sire": "13906@7",
+  "children": [
+    "28434@9",
+    "39022@9",
+    "63942@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

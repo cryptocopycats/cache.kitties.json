@@ -1,0 +1,26 @@
+{
+  "id": 24318,
+  "name": "Toothpaste",
+  "generation": 4,
+  "created_at": "2017-12-01T20:36:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Toothpaste. I've never told anyone this, but I once groomed a dog. When I'm not swiping left, I'm tricking babies! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "24192@3",
+  "sire": "24235@1",
+  "children": [
+    "24513@5",
+    "24785@8",
+    "24852@5",
+    "26399@5",
+    "30884@6",
+    "32851@5",
+    "59321@11",
+    "75931@6",
+    "93023@6",
+    "117129@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

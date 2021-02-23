@@ -1,0 +1,17 @@
+{
+  "id": 23412,
+  "name": "Earth",
+  "generation": 18,
+  "created_at": "2017-12-01T17:56:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Earth. I'm a professional Spin Instructor  and I love chocolate. I once dreamed of being a Skydiving Instructor. Now I can be found watching reality tv all day. I like your face.",
+  "language": "en",
+  "matron": "16431@17",
+  "sire": "13041@9",
+  "children": [
+    "61478@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

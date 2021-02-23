@@ -1,0 +1,22 @@
+{
+  "id": 27764,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-02T08:12:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #27764. I'm often referred to as the Steve Urkel of the group. I once got in a fight with a chimpanzee, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1324@0",
+  "sire": "3410@3",
+  "children": [
+    "27793@5",
+    "28122@5",
+    "28357@11",
+    "28619@5",
+    "30392@5",
+    "35975@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

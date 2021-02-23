@@ -1,0 +1,20 @@
+{
+  "id": 23300,
+  "name": "Kernel Sanders G13",
+  "generation": 13,
+  "created_at": "2017-12-01T17:00:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kernel Sanders G13. I'm often referred to as the Hermione Granger of the group. I once dreamed of being a Foreign Film Director. Now I can be found pole dancing all day. Let's get busy!",
+  "language": "en",
+  "matron": "19501@9",
+  "sire": "23030@12",
+  "children": [
+    "33716@14",
+    "42445@14",
+    "50160@16",
+    "141026@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

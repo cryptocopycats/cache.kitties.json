@@ -1,0 +1,24 @@
+{
+  "id": 26353,
+  "name": "Gen 4 Plodding",
+  "generation": 4,
+  "created_at": "2017-12-02T03:33:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen 4 Plodding. I'm often referred to as the Neville Longbottom of the group. I once bit a gecko. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6714@3",
+  "sire": "18678@3",
+  "children": [
+    "26396@5",
+    "29282@5",
+    "31258@5",
+    "32087@5",
+    "34924@5",
+    "37947@5",
+    "52275@5",
+    "271679@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

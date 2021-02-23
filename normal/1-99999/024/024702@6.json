@@ -1,0 +1,19 @@
+{
+  "id": 24702,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-01T21:39:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Gen6. I enjoy tripping my owner, chasing red dots, and being a nevernude. I once got in a fight with a goose, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "24246@5",
+  "sire": "23937@5",
+  "children": [
+    "24773@7",
+    "28322@7",
+    "28858@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

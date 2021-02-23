@@ -1,0 +1,18 @@
+{
+  "id": 28074,
+  "name": "Gen 4 Snappy (GOLD PARENT)",
+  "generation": 4,
+  "created_at": "2017-12-02T09:20:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 4 Snappy (GOLD PARENT). I enjoy slappin' da bass, sweating through my feet, and fighting the patriarchy. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "23900@3",
+  "sire": "25585@3",
+  "children": [
+    "28241@11",
+    "59660@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

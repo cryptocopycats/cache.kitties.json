@@ -1,0 +1,17 @@
+{
+  "id": 28119,
+  "name": "Starter",
+  "generation": 18,
+  "created_at": "2017-12-02T09:34:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Starter. I'm a Skydiving Instructor by day, and I like swiping left by night. My friends describe me as \"ridiculous.\" It's... accurate. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "26526@15",
+  "sire": "23563@17",
+  "children": [
+    "30780@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

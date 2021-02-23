@@ -1,0 +1,18 @@
+{
+  "id": 27193,
+  "name": "Alpha Kitty",
+  "generation": 17,
+  "created_at": "2017-12-02T06:12:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Alpha Kitty. My friends describe me as hairy and gorgeous. Sometimes I daydream of a life full of chasing red dots, steak, and riverdancing. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "26377@13",
+  "sire": "26269@16",
+  "children": [
+    "27647@18",
+    "126503@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

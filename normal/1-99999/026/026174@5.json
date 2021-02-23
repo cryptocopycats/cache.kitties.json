@@ -1,0 +1,19 @@
+{
+  "id": 26174,
+  "name": "Ro Gen5",
+  "generation": 5,
+  "created_at": "2017-12-02T02:50:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Ro Gen5. I'm a professional Private Dancer  and I love hamburgers. When no one's home, I invite my pals over and we listen to Mariah Carey. Our friendship will be tantalizing, brilliant, and full of chocolate.",
+  "language": "en",
+  "matron": "24961@4",
+  "sire": "21140@3",
+  "children": [
+    "27218@7",
+    "30512@7",
+    "51472@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

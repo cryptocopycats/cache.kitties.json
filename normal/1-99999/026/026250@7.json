@@ -1,0 +1,22 @@
+{
+  "id": 26250,
+  "name": "Gen 7 Snappy",
+  "generation": 7,
+  "created_at": "2017-12-02T03:12:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen 7 Snappy. All you need to know about me is I hate ice cream with a passion. I once dreamed of being a Private Dancer . Now I can be found jump-roping all day. Let's get busy!",
+  "language": "en",
+  "matron": "25861@6",
+  "sire": "22512@5",
+  "children": [
+    "30637@8",
+    "31389@8",
+    "31963@8",
+    "33040@8",
+    "35605@8",
+    "58020@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

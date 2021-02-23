@@ -1,0 +1,23 @@
+{
+  "id": 25786,
+  "name": "Gen 4 + DUCK KITTIE",
+  "generation": 4,
+  "created_at": "2017-12-02T01:08:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 4 + DUCK KITTIE. I'm often referred to as the Marge Simpson of the group. I am 96% wizard, 12% Skydiving Instructor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25218@3",
+  "sire": "19746@3",
+  "children": [
+    "28281@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 93,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

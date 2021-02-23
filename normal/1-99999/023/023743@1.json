@@ -1,0 +1,30 @@
+{
+  "id": 23743,
+  "name": "RoyalHimaCheese",
+  "generation": 1,
+  "created_at": "2017-12-01T18:34:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm RoyalHimaCheese. I'm often referred to as the Dwight Schrute of the group. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "11970@0",
+  "sire": "2554@0",
+  "children": [
+    "23936@3",
+    "24192@3",
+    "24289@6",
+    "24420@6",
+    "24744@5",
+    "26201@6",
+    "31137@4",
+    "35070@4",
+    "41484@2",
+    "55748@2",
+    "78876@3",
+    "139901@3",
+    "250840@2",
+    "319040@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

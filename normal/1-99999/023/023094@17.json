@@ -1,0 +1,19 @@
+{
+  "id": 23094,
+  "name": "Dali Dad",
+  "generation": 17,
+  "created_at": "2017-12-01T15:21:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm Dali Dad. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I like your face.",
+  "language": "en",
+  "matron": "21584@16",
+  "sire": "18312@13",
+  "children": [
+    "35370@18",
+    "54084@18",
+    "82064@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

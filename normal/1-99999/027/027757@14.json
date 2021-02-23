@@ -1,0 +1,20 @@
+{
+  "id": 27757,
+  "name": "Plodding",
+  "generation": 14,
+  "created_at": "2017-12-02T08:11:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Plodding. All you need to know about me is I hate wet food with a passion. I once pawed at a gecko. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26909@13",
+  "sire": "21661@10",
+  "children": [
+    "30100@15",
+    "34880@15",
+    "51763@16",
+    "91537@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

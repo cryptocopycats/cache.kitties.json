@@ -1,0 +1,25 @@
+{
+  "id": 26751,
+  "name": "Gen 1 | Swift | No Kid",
+  "generation": 1,
+  "created_at": "2017-12-02T04:44:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 1 | Swift | No Kid. I've never told anyone this, but I once kissed a dog. I'm often described as prickly, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "20408@0",
+  "sire": "19309@0",
+  "children": [
+    "26856@9",
+    "27060@3",
+    "27935@9",
+    "34542@2",
+    "34925@2",
+    "37070@2",
+    "39275@2",
+    "50682@2",
+    "85405@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

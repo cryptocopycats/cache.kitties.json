@@ -1,0 +1,21 @@
+{
+  "id": 25735,
+  "name": "Señor Fuzzytail",
+  "generation": 13,
+  "created_at": "2017-12-02T00:54:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Señor Fuzzytail. I'm often referred to as the Frodo Baggins of the group. My secret indulgence is hamburgers. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "23859@5",
+  "sire": "16774@12",
+  "children": [
+    "26221@18",
+    "27510@14",
+    "28355@14",
+    "41039@14",
+    "92342@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

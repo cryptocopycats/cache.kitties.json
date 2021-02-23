@@ -1,0 +1,19 @@
+{
+  "id": 27176,
+  "name": "Slow Ned",
+  "generation": 15,
+  "created_at": "2017-12-02T06:10:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Slow Ned. I enjoy eating until I loathe myself, reading garfield, and staying woke. I was voted school jock in college. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "26061@14",
+  "sire": "26073@11",
+  "children": [
+    "73275@16",
+    "82211@16",
+    "116552@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

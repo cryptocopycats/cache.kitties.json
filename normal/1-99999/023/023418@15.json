@@ -1,0 +1,21 @@
+{
+  "id": 23418,
+  "name": "Jaguar OG",
+  "generation": 15,
+  "created_at": "2017-12-01T17:58:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Jaguar OG. I believe the world is flat. Some people say I'm the Samwise Gamgee of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "19495@7",
+  "sire": "22305@14",
+  "children": [
+    "25142@16",
+    "46082@16",
+    "67936@16",
+    "81318@16",
+    "120215@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

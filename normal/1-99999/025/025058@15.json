@@ -1,0 +1,20 @@
+{
+  "id": 25058,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T23:06:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Kitty #25058 here. I'm here to enjoy slappin' da bass and taking selfies. Some people say I'm the Samwise Gamgee of the group. I like your face.",
+  "language": "en",
+  "matron": "16084@14",
+  "sire": "19429@13",
+  "children": [
+    "53520@16",
+    "82520@18",
+    "248670@16",
+    "273980@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

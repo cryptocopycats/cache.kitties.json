@@ -1,0 +1,22 @@
+{
+  "id": 23500,
+  "name": "Anderson Pooper",
+  "generation": 0,
+  "created_at": "2017-12-01T18:08:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Anderson Pooper. I enjoy tricking babies, breakdancing, and tripping my owner. I was voted school jock in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24438@1",
+    "24454@2",
+    "24474@1",
+    "24550@1",
+    "68154@1",
+    "94070@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

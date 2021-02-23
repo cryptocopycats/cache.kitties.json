@@ -1,0 +1,17 @@
+{
+  "id": 23790,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-01T18:36:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Gen6. I'm often referred to as the Marge Simpson of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23442@5",
+  "sire": "19358@5",
+  "children": [
+    "28661@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

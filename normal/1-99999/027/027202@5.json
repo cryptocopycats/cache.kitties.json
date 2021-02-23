@@ -1,0 +1,23 @@
+{
+  "id": 27202,
+  "name": "Gen 5 Patches",
+  "generation": 5,
+  "created_at": "2017-12-02T06:17:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen 5 Patches. I enjoy chasing red dots, riding dirty, and grooming. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "26272@4",
+  "sire": "16895@4",
+  "children": [
+    "27627@6",
+    "27689@6",
+    "35290@7",
+    "39174@6",
+    "43490@6",
+    "52843@6",
+    "71128@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

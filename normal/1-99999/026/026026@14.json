@@ -1,0 +1,20 @@
+{
+  "id": 26026,
+  "name": "Fluffy",
+  "generation": 14,
+  "created_at": "2017-12-02T02:13:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Fluffy. I'm often referred to as the Cersei Lannister of the group. I'm often described as seductive, and I own it. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "8022@13",
+  "sire": "11918@10",
+  "children": [
+    "36427@15",
+    "40963@15",
+    "64455@15",
+    "107948@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

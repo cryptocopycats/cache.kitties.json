@@ -1,0 +1,19 @@
+{
+  "id": 24316,
+  "name": "Gen6 +cerulian",
+  "generation": 6,
+  "created_at": "2017-12-01T20:36:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! Gen6 +cerulian here. I'm here to enjoy picking on mice and chasing red dots. I once got in a fight with a dolphin, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "24207@5",
+  "sire": "18151@5",
+  "children": [
+    "24839@7",
+    "25721@7",
+    "28467@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

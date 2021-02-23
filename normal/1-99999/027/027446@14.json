@@ -1,0 +1,21 @@
+{
+  "id": 27446,
+  "name": "Aqua",
+  "generation": 14,
+  "created_at": "2017-12-02T07:06:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Aqua. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"gullible.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "15549@13",
+  "sire": "6668@11",
+  "children": [
+    "28009@15",
+    "44413@17",
+    "63695@17",
+    "90425@15",
+    "247120@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

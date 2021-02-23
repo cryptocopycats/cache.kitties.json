@@ -1,0 +1,25 @@
+{
+  "id": 25119,
+  "name": "Nalita",
+  "generation": 9,
+  "created_at": "2017-12-01T23:11:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Nalita. All you need to know about me is I hate steak with a passion. When I'm not jump-roping, I'm summoning ghosts! Let's get busy!",
+  "language": "en",
+  "matron": "10366@8",
+  "sire": "7217@1",
+  "children": [
+    "26217@10",
+    "37071@10",
+    "49031@16",
+    "55194@10",
+    "61621@13",
+    "89976@14",
+    "199532@20",
+    "277983@14",
+    "362847@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

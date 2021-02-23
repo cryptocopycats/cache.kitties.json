@@ -1,0 +1,23 @@
+{
+  "id": 24021,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-12-01T19:27:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Gen2. I'm a Mad Scientist by day, and I like talking about how much I lift by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "23777@1",
+  "sire": "18367@1",
+  "children": [
+    "24313@3",
+    "24867@3",
+    "24979@3",
+    "249661@3",
+    "253911@3",
+    "291833@7",
+    "323146@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

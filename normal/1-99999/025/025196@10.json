@@ -1,0 +1,21 @@
+{
+  "id": 25196,
+  "name": "calicool gen10",
+  "generation": 10,
+  "created_at": "2017-12-01T23:13:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm calicool gen10. I'm a Private Dancer  by day, and I like playing chess by night. Sometimes I daydream of a life full of glaring at the neighbour's cat, salad, and riverdancing. Let's pawty!",
+  "language": "en",
+  "matron": "21549@9",
+  "sire": "21505@6",
+  "children": [
+    "26826@11",
+    "38353@11",
+    "39667@12",
+    "46014@11",
+    "70323@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

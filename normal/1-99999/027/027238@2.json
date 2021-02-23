@@ -1,0 +1,24 @@
+{
+  "id": 27238,
+  "name": "Cat Smith",
+  "generation": 2,
+  "created_at": "2017-12-02T06:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Cat Smith. I've never told anyone this, but I once licked a dog. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "20696@1",
+  "sire": "20862@1",
+  "children": [
+    "33027@3",
+    "33425@3",
+    "35746@3",
+    "36449@3",
+    "38068@4",
+    "45080@3",
+    "49137@3",
+    "55626@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

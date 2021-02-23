@@ -1,0 +1,22 @@
+{
+  "id": 26111,
+  "name": "Moto | Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-02T02:34:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Moto | Gen 8. I'm often referred to as the Jon Snow of the group. My secret indulgence is wet food. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "2376@0",
+  "sire": "22640@7",
+  "children": [
+    "30126@12",
+    "34549@11",
+    "39708@12",
+    "46943@14",
+    "60106@12",
+    "66105@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

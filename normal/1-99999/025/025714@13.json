@@ -1,0 +1,21 @@
+{
+  "id": 25714,
+  "name": "Bob | Brisk",
+  "generation": 13,
+  "created_at": "2017-12-02T00:49:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Bob | Brisk. I believe the world is flat. I like to listen to Gloria Estefan while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5477@7",
+  "sire": "15139@12",
+  "children": [
+    "93713@14",
+    "112508@16",
+    "149887@16",
+    "299911@14",
+    "444903@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

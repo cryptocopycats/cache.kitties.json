@@ -1,0 +1,22 @@
+{
+  "id": 26140,
+  "name": "G3 Grey",
+  "generation": 3,
+  "created_at": "2017-12-02T02:40:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm G3 Grey. I enjoy sweating through my feet, riding dirty, and grooming. I once made a dolphin grimace. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14807@2",
+  "sire": "22114@2",
+  "children": [
+    "26203@4",
+    "35238@6",
+    "39965@10",
+    "109316@4",
+    "117589@4",
+    "164392@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

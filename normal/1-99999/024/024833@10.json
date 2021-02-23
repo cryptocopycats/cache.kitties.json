@@ -1,0 +1,18 @@
+{
+  "id": 24833,
+  "name": "gen 10-brisk",
+  "generation": 10,
+  "created_at": "2017-12-01T22:01:40.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm gen 10-brisk. All you need to know about me is I hate wet food with a passion. I once got in a fight with a chimpanzee, and won. Can you make my stinky dreams come true?",
+  "language": "en",
+  "matron": "22440@1",
+  "sire": "24567@9",
+  "children": [
+    "25064@11",
+    "27569@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 28105,
+  "name": "Kinderkitty",
+  "generation": 20,
+  "created_at": "2017-12-02T09:28:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Kinderkitty here. I'm here to enjoy eating lasagna and tricking babies. I once dreamed of being a Mad Scientist. Now I can be found summoning ghosts all day. Let's get busy!",
+  "language": "en",
+  "matron": "19871@19",
+  "sire": "21951@19",
+  "children": [
+    "58859@21",
+    "114316@21",
+    "252995@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

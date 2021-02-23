@@ -1,0 +1,18 @@
+{
+  "id": 24435,
+  "name": "AB",
+  "generation": 10,
+  "created_at": "2017-12-01T20:56:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm AB. My friends describe me as gorgeous and gullible. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "24248@6",
+  "sire": "24213@9",
+  "children": [
+    "24576@11",
+    "96874@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

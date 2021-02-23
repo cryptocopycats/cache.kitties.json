@@ -1,0 +1,19 @@
+{
+  "id": 26722,
+  "name": "G",
+  "generation": 7,
+  "created_at": "2017-12-02T04:38:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm G. In high school, I was voted biggest teacher's pet. I once made a dog pester. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6440@5",
+  "sire": "22933@6",
+  "children": [
+    "26888@8",
+    "35024@10",
+    "55562@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 24630,
+  "name": "🔝 Rare Duckat Pure | G10 Rare",
+  "generation": 10,
+  "created_at": "2017-12-01T21:29:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm 🔝 Rare Duckat Pure | G10 Rare. In high school, I was voted school jock. My friends describe me as \"seductive.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "21099@8",
+  "sire": "13611@9",
+  "children": [
+    "27625@11",
+    "28256@11",
+    "30712@11",
+    "31646@14",
+    "116986@14",
+    "173938@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 78,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 26023,
+  "name": "[v] gen15",
+  "generation": 15,
+  "created_at": "2017-12-02T02:13:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm [v] gen15. I'm a Skydiving Instructor by day, and I like prank-calling celebrities by night. When no one's home, I invite my pals over and we listen to Michael Bolton. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "22021@12",
+  "sire": "22702@14",
+  "children": [
+    "29184@16",
+    "31698@17",
+    "41735@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 23578,
+  "name": "Janky Jarvis",
+  "generation": 20,
+  "created_at": "2017-12-01T18:12:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Janky Jarvis. I'm a professional Dispensary Clerk and I love ice cream. My friends describe me as \"annoying.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20428@19",
+  "sire": "13057@12",
+  "children": [
+    "32345@21",
+    "65090@21",
+    "270719@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

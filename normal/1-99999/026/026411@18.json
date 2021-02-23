@@ -1,0 +1,18 @@
+{
+  "id": 26411,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-12-02T03:42:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 18. I believe the world is flat. I once made a platypus dance. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "20417@12",
+  "sire": "23942@17",
+  "children": [
+    "105518@19",
+    "262536@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

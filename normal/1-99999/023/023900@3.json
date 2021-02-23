@@ -1,0 +1,20 @@
+{
+  "id": 23900,
+  "name": "Gen 3 Yellow Striper",
+  "generation": 3,
+  "created_at": "2017-12-01T18:57:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Gen 3 Yellow Striper. I believe the world is flat. I'm often described as wondrous, and I own it. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "23724@2",
+  "sire": "23824@2",
+  "children": [
+    "24222@4",
+    "24653@4",
+    "28074@4",
+    "30485@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

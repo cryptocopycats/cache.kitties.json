@@ -1,0 +1,22 @@
+{
+  "id": 26229,
+  "name": "Mi Blümchen",
+  "generation": 12,
+  "created_at": "2017-12-02T03:11:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Mi Blümchen. I'm often referred to as the Neville Longbottom of the group. I once got in a fight with a rooster, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23963@10",
+  "sire": "24137@11",
+  "children": [
+    "26976@13",
+    "28396@13",
+    "34825@13",
+    "127950@19",
+    "339728@15",
+    "371621@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 25041,
+  "name": "Euclide",
+  "generation": 17,
+  "created_at": "2017-12-01T22:59:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Euclide. I'm a professional Mad Scientist and I love salad. My friends describe me as \"hairy.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "11468@16",
+  "sire": "13462@10",
+  "children": [
+    "57020@18",
+    "90244@18",
+    "326435@18",
+    "371336@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

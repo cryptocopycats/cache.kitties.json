@@ -1,0 +1,23 @@
+{
+  "id": 26068,
+  "name": "Pistachio Tummy",
+  "generation": 8,
+  "created_at": "2017-12-02T02:21:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Pistachio Tummy. In high school, I was voted most likely to work at NASA. My secret indulgence is cantaloupe. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16570@6",
+  "sire": "24703@7",
+  "children": [
+    "26298@15",
+    "34916@9",
+    "46029@9",
+    "58087@18",
+    "259569@19",
+    "276164@17",
+    "309970@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

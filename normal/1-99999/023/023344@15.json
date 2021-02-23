@@ -1,0 +1,19 @@
+{
+  "id": 23344,
+  "name": "Darth Invade-Her",
+  "generation": 15,
+  "created_at": "2017-12-01T17:53:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Darth Invade-Her. I'm often referred to as the Dwight Schrute of the group. I put marmalade on everything. Like, everything: hot dogs, apple pie—everything! Let's get busy!",
+  "language": "en",
+  "matron": "5106@14",
+  "sire": "16040@11",
+  "children": [
+    "61848@22",
+    "157927@16",
+    "181181@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

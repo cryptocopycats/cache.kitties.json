@@ -1,0 +1,23 @@
+{
+  "id": 27102,
+  "name": "Dali",
+  "generation": 6,
+  "created_at": "2017-12-02T05:58:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Dali. I'm often referred to as the Hermione Granger of the group. My great-great-great-great-great-great grandkitty lived with Princess Diana. I like your face.",
+  "language": "en",
+  "matron": "25698@5",
+  "sire": "26508@5",
+  "children": [
+    "27724@7",
+    "28278@9",
+    "28302@9",
+    "29590@7",
+    "30718@8",
+    "35635@8",
+    "58211@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

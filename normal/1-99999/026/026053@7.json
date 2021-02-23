@@ -1,0 +1,18 @@
+{
+  "id": 26053,
+  "name": "G7",
+  "generation": 7,
+  "created_at": "2017-12-02T02:19:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm G7. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Frank Sinatra. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20330@6",
+  "sire": "25311@6",
+  "children": [
+    "28456@8",
+    "28755@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

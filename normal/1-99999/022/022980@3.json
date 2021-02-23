@@ -1,0 +1,19 @@
+{
+  "id": 22980,
+  "name": "G3 | BB trait",
+  "generation": 3,
+  "created_at": "2017-12-01T14:13:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G3 | BB trait. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Coldplay. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18090@2",
+  "sire": "22913@2",
+  "children": [
+    "23048@4",
+    "29890@4",
+    "379559@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

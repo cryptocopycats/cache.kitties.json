@@ -1,0 +1,23 @@
+{
+  "id": 26606,
+  "name": "Gen3 - Cymric",
+  "generation": 3,
+  "created_at": "2017-12-02T04:12:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen3 - Cymric. I'm a professional Ventriloquist and I love cantaloupe. I'm often described as raunchy, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12725@2",
+  "sire": "23381@2",
+  "children": [
+    "26659@4",
+    "26710@4",
+    "26912@4",
+    "95636@4",
+    "149705@4",
+    "174183@4",
+    "236749@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

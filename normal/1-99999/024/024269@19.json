@@ -1,0 +1,19 @@
+{
+  "id": 24269,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-01T20:27:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #24269. I want to live in a world where people believe that one day cats will rule this planet. I once made a moose ignore. Will you be the ranch dressing to my marmalade?",
+  "language": "en",
+  "matron": "5650@13",
+  "sire": "14843@18",
+  "children": [
+    "26102@20",
+    "48990@20",
+    "116942@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

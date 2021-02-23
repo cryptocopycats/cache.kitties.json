@@ -1,0 +1,20 @@
+{
+  "id": 24214,
+  "name": "Meowster Dali",
+  "generation": 14,
+  "created_at": "2017-12-01T20:15:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Meowster Dali. I'm often referred to as the Homer Simpson of the group. When I'm not riverdancing, I'm summoning ghosts! I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "17551@5",
+  "sire": "22954@13",
+  "children": [
+    "29279@15",
+    "56799@15",
+    "67939@15",
+    "109638@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

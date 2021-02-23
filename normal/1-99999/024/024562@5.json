@@ -1,0 +1,24 @@
+{
+  "id": 24562,
+  "name": "Gen5",
+  "generation": 5,
+  "created_at": "2017-12-01T21:18:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen5. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16311@4",
+  "sire": "19262@4",
+  "children": [
+    "26575@9",
+    "35357@6",
+    "35693@6",
+    "36636@6",
+    "38711@6",
+    "39201@6",
+    "52769@6",
+    "56000@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

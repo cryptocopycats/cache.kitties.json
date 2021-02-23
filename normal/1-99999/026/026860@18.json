@@ -1,0 +1,18 @@
+{
+  "id": 26860,
+  "name": "Lettuce",
+  "generation": 18,
+  "created_at": "2017-12-02T05:12:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Lettuce. I'm a professional Dogwalker and I love hamburgers. My secret indulgence is wet food. Our friendship will be wondrous, tantalizing, and full of salad.",
+  "language": "en",
+  "matron": "9388@17",
+  "sire": "20024@14",
+  "children": [
+    "53343@19",
+    "65664@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

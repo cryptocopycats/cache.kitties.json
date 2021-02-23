@@ -1,0 +1,18 @@
+{
+  "id": 27882,
+  "name": "Cori2",
+  "generation": 15,
+  "created_at": "2017-12-02T08:40:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Cori2. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the marmite to my soy sauce?",
+  "language": "en",
+  "matron": "26524@11",
+  "sire": "25960@14",
+  "children": [
+    "29473@19",
+    "35571@20"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

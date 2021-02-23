@@ -1,0 +1,19 @@
+{
+  "id": 26086,
+  "name": "Gen6 Snappy Bloodred",
+  "generation": 6,
+  "created_at": "2017-12-02T02:25:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Gen6 Snappy Bloodred. All you need to know about me is I hate apple pie with a passion. I once got in a fight with a goose, and won. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "22512@5",
+  "sire": "25911@5",
+  "children": [
+    "26134@7",
+    "46716@7",
+    "58958@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

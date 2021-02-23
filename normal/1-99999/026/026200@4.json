@@ -1,0 +1,22 @@
+{
+  "id": 26200,
+  "name": "Happy",
+  "generation": 4,
+  "created_at": "2017-12-02T03:09:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Happy here. I'm here to enjoy taking selfies and reciting poetry. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "23473@3",
+  "sire": "25775@3",
+  "children": [
+    "26468@7",
+    "32688@5",
+    "36309@6",
+    "38569@5",
+    "51860@5",
+    "53274@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

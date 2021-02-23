@@ -1,0 +1,19 @@
+{
+  "id": 24045,
+  "name": "Puss without Boots",
+  "generation": 20,
+  "created_at": "2017-12-01T19:34:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Puss without Boots. I'm a professional Train Conductor and I love cantaloupe. I would give it all up to star in a soap opera. Our friendship will be ridiculous, seductive, and full of ice cream.",
+  "language": "en",
+  "matron": "15190@19",
+  "sire": "16676@16",
+  "children": [
+    "29055@21",
+    "71136@21",
+    "82240@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

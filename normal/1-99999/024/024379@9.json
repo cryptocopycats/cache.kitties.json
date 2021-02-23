@@ -1,0 +1,24 @@
+{
+  "id": 24379,
+  "name": "Olivia-Duck",
+  "generation": 9,
+  "created_at": "2017-12-01T20:47:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Olivia-Duck. I believe that one day cats will rule this planet. I once kissed a rabbit. I don't like to talk about it. Let's get busy!",
+  "language": "en",
+  "matron": "23968@8",
+  "sire": "24220@8",
+  "children": [
+    "24585@10",
+    "25013@10",
+    "37538@16",
+    "48999@16",
+    "82716@13",
+    "94451@10",
+    "124801@15",
+    "182476@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

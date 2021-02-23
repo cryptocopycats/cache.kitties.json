@@ -1,0 +1,23 @@
+{
+  "id": 28106,
+  "name": "Jimminy",
+  "generation": 0,
+  "created_at": "2017-12-02T09:28:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Jimminy. I'm a Ventriloquist by day, and I like playing chess by night. When I'm not talking about how much I lift, I'm siring for status! I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "317498@1",
+    "317809@1",
+    "323543@1",
+    "326115@1",
+    "327437@1",
+    "330045@1",
+    "350703@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

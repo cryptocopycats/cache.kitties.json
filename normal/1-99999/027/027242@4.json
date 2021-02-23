@@ -1,0 +1,27 @@
+{
+  "id": 27242,
+  "name": "Gen 4 | Slow",
+  "generation": 4,
+  "created_at": "2017-12-02T06:24:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 4 | Slow. I believe that one day cats will rule this planet. When I'm not people-watching, I'm swiping left! Will you be the peanut butter to my cinammon?",
+  "language": "en",
+  "matron": "26927@3",
+  "sire": "22075@3",
+  "children": [
+    "27293@5",
+    "28583@5",
+    "28888@5",
+    "29235@5",
+    "29600@5",
+    "31894@5",
+    "35415@5",
+    "40879@5",
+    "84763@5",
+    "117204@5",
+    "146261@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

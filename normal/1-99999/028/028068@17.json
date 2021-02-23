@@ -1,0 +1,20 @@
+{
+  "id": 28068,
+  "name": "gen17",
+  "generation": 17,
+  "created_at": "2017-12-02T09:18:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm gen17. I'm a professional Train Conductor and I love salad. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Will you be the ranch dressing to my garlic butter?",
+  "language": "en",
+  "matron": "25909@14",
+  "sire": "26095@16",
+  "children": [
+    "31861@18",
+    "45038@19",
+    "69603@18",
+    "102571@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

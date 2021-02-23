@@ -1,0 +1,20 @@
+{
+  "id": 24058,
+  "name": "[v] gen14",
+  "generation": 14,
+  "created_at": "2017-12-01T19:36:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm [v] gen14. I've never told anyone this, but I once pawed at a dog. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "22785@13",
+  "sire": "23295@13",
+  "children": [
+    "25384@17",
+    "29413@15",
+    "40519@22",
+    "58836@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

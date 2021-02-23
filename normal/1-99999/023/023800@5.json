@@ -1,0 +1,18 @@
+{
+  "id": 23800,
+  "name": "Gen5",
+  "generation": 5,
+  "created_at": "2017-12-01T18:36:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen5. I'm often referred to as the Dwight Schrute of the group. Sometimes I daydream of a life full of picking on mice, apple pie, and braiding people's hair. I like your face.",
+  "language": "en",
+  "matron": "23112@4",
+  "sire": "19393@4",
+  "children": [
+    "24103@6",
+    "24259@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

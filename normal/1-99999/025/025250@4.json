@@ -1,0 +1,18 @@
+{
+  "id": 25250,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-01T23:23:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 4. I'm a Ventriloquist by day, and I like volunteering at the local kitten rescue shelter by night. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "25218@3",
+  "sire": "18591@3",
+  "children": [
+    "27944@5",
+    "28283@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

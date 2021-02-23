@@ -1,0 +1,19 @@
+{
+  "id": 23661,
+  "name": "Purrsephone",
+  "generation": 17,
+  "created_at": "2017-12-01T18:20:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Purrsephone. I'm often referred to as the Bart Simpson of the group. In my free time, I can usually be found gullible or practicing witchcraft. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "20864@5",
+  "sire": "23111@16",
+  "children": [
+    "23980@18",
+    "77284@20",
+    "77395@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

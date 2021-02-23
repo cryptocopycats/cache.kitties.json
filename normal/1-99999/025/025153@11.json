@@ -1,0 +1,21 @@
+{
+  "id": 25153,
+  "name": "G11 Duckfather",
+  "generation": 11,
+  "created_at": "2017-12-01T23:11:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! My name's G11 Duckfather. I once peed on Amelia Earhart's cat. They had it coming. When no one's home, I invite my pals over and we listen to Aretha Franklin. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "24614@10",
+  "sire": "24239@8",
+  "children": [
+    "25705@12",
+    "27020@12",
+    "38075@12",
+    "56729@12",
+    "124039@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

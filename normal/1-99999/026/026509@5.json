@@ -1,0 +1,21 @@
+{
+  "id": 26509,
+  "name": "Gen 5 Brisk Moustache",
+  "generation": 5,
+  "created_at": "2017-12-02T03:58:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 5 Brisk Moustache. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Jon Snow of the group. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "26435@4",
+  "sire": "26457@4",
+  "children": [
+    "26615@6",
+    "29073@6",
+    "34664@7",
+    "49096@6",
+    "202342@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

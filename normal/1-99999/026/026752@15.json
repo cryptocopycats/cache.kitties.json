@@ -1,0 +1,21 @@
+{
+  "id": 26752,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-12-02T04:44:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 15. In high school, I was voted biggest teacher's pet. When I'm not pole dancing, I'm riverdancing! I like your face.",
+  "language": "en",
+  "matron": "20387@13",
+  "sire": "24359@14",
+  "children": [
+    "37773@18",
+    "40137@16",
+    "51719@16",
+    "1145943@16",
+    "1913869@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

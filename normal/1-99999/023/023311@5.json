@@ -1,0 +1,22 @@
+{
+  "id": 23311,
+  "name": "Gen 5 | Brisk",
+  "generation": 5,
+  "created_at": "2017-12-01T17:00:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Gen 5 | Brisk. I'm a professional Dispensary Clerk and I love steak. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I look forward to watching Stranger Things with you.",
+  "language": "en",
+  "matron": "10473@4",
+  "sire": "22946@4",
+  "children": [
+    "24078@19",
+    "24985@11",
+    "25043@15",
+    "25957@18",
+    "65582@11",
+    "152979@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

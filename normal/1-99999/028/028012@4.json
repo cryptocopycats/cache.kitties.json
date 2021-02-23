@@ -1,0 +1,18 @@
+{
+  "id": 28012,
+  "name": "Gen 4 Swift CD Aquamarine",
+  "generation": 4,
+  "created_at": "2017-12-02T09:06:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen 4 Swift CD Aquamarine. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25810@3",
+  "sire": "25585@3",
+  "children": [
+    "60271@15",
+    "63800@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

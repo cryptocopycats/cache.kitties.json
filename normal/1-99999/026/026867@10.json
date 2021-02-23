@@ -1,0 +1,20 @@
+{
+  "id": 26867,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-02T05:13:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #26867. I've never told anyone this, but I once frolicked with a dog. Some people say I'm the Chandler Bing of the group. Let's pawty!",
+  "language": "en",
+  "matron": "26590@6",
+  "sire": "26018@9",
+  "children": [
+    "27414@18",
+    "27609@11",
+    "35517@16",
+    "37339@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

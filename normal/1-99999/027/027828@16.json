@@ -1,0 +1,20 @@
+{
+  "id": 27828,
+  "name": "CatBuu",
+  "generation": 16,
+  "created_at": "2017-12-02T08:28:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm CatBuu. I'm a professional Dogwalker and I love ice cream. I was voted school jock in college. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "24299@15",
+  "sire": "14744@10",
+  "children": [
+    "30815@19",
+    "40739@19",
+    "68922@17",
+    "160532@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

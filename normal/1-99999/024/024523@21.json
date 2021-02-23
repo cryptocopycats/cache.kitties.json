@@ -1,0 +1,18 @@
+{
+  "id": 24523,
+  "name": "Popcorn Ball",
+  "generation": 21,
+  "created_at": "2017-12-01T21:10:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Popcorn Ball. I'm a Dispensary Clerk by day, and I like braiding people's hair by night. In my free time, I can usually be found voluptuous or jump-roping. Let's get busy!",
+  "language": "en",
+  "matron": "20314@13",
+  "sire": "23243@20",
+  "children": [
+    "49004@22",
+    "100943@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

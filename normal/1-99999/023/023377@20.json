@@ -1,0 +1,18 @@
+{
+  "id": 23377,
+  "name": "Snow White",
+  "generation": 20,
+  "created_at": "2017-12-01T17:55:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Snow White. I enjoy slappin' da bass, sitting on your computer, and picking flowers. In my free time, I can usually be found gullible or sleeping in fresh laundry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "11320@19",
+  "sire": "10333@15",
+  "children": [
+    "31905@21",
+    "84075@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

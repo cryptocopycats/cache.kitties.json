@@ -1,0 +1,18 @@
+{
+  "id": 25610,
+  "name": "Autum",
+  "generation": 17,
+  "created_at": "2017-12-02T00:29:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Autum. I've never told anyone this, but I once loved a dog. I put cinammon on everything. Like, everything: hot dogs, ice cream—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "9096@16",
+  "sire": "12869@10",
+  "children": [
+    "28478@18",
+    "79414@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

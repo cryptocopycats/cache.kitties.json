@@ -1,0 +1,20 @@
+{
+  "id": 23893,
+  "name": "Great Starter Cat High Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-01T18:54:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! Great Starter Cat High Gen 4 here. I'm here to enjoy breakdancing and licking doorknobs. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "23267@2",
+  "sire": "23650@3",
+  "children": [
+    "23906@5",
+    "52535@6",
+    "82591@5",
+    "85342@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

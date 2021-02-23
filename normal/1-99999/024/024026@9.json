@@ -1,0 +1,19 @@
+{
+  "id": 24026,
+  "name": "G9 PL",
+  "generation": 9,
+  "created_at": "2017-12-01T19:28:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm G9 PL. I'm a professional Dogwalker and I love wet food. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "16328@8",
+  "sire": "22581@8",
+  "children": [
+    "25715@10",
+    "26525@10",
+    "27483@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

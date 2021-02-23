@@ -1,0 +1,20 @@
+{
+  "id": 23543,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T18:12:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Gen4. I enjoy being a nevernude, hitting on yo' man, and riding unicorns. Sometimes I daydream of a life full of taking selfies, wet food, and pole dancing. Our friendship will be stinky, despicable, and full of salad.",
+  "language": "en",
+  "matron": "21958@3",
+  "sire": "18974@3",
+  "children": [
+    "23945@5",
+    "24845@5",
+    "25797@5",
+    "29281@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

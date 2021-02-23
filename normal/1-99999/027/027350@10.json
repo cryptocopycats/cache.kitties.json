@@ -1,0 +1,23 @@
+{
+  "id": 27350,
+  "name": "Gen 10 | Slow/Fabulous Parent",
+  "generation": 10,
+  "created_at": "2017-12-02T06:51:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 10 | Slow/Fabulous Parent. I'm a Mad Scientist by day, and I like riverdancing by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "25859@6",
+  "sire": "26576@9",
+  "children": [
+    "27632@11",
+    "28566@11",
+    "30810@11",
+    "37827@16",
+    "55245@12",
+    "161305@15",
+    "201074@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

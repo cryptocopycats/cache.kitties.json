@@ -1,0 +1,19 @@
+{
+  "id": 26136,
+  "name": "Master Whitebelly",
+  "generation": 17,
+  "created_at": "2017-12-02T02:40:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Master Whitebelly. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20687@15",
+  "sire": "12191@16",
+  "children": [
+    "43169@18",
+    "60331@19",
+    "60665@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

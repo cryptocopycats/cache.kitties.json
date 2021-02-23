@@ -1,0 +1,18 @@
+{
+  "id": 26148,
+  "name": "Nermal",
+  "generation": 19,
+  "created_at": "2017-12-02T02:42:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Nermal. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "22221@18",
+  "sire": "22270@9",
+  "children": [
+    "53948@20",
+    "598714@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

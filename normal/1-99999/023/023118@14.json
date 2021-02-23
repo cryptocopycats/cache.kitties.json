@@ -1,0 +1,19 @@
+{
+  "id": 23118,
+  "name": "Red Pilot",
+  "generation": 14,
+  "created_at": "2017-12-01T15:30:02.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Red Pilot. All you need to know about me is I hate chocolate with a passion. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "21668@11",
+  "sire": "21901@13",
+  "children": [
+    "29680@20",
+    "64404@20",
+    "71875@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

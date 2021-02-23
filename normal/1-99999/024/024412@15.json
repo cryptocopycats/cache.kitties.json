@@ -1,0 +1,20 @@
+{
+  "id": 24412,
+  "name": "Plodding",
+  "generation": 15,
+  "created_at": "2017-12-01T20:52:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Plodding. I'm a Train Conductor by day, and I like reading Danielle Steele by night. I once got in a fight with a dog, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7824@14",
+  "sire": "3776@5",
+  "children": [
+    "28364@22",
+    "31222@16",
+    "32465@16",
+    "65010@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 26007,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-02T02:10:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 8. I'm often referred to as the Bart Simpson of the group. I once kissed a rabbit. I don't like to talk about it. Let's pawty!",
+  "language": "en",
+  "matron": "18875@7",
+  "sire": "19258@6",
+  "children": [
+    "26446@9",
+    "26819@11",
+    "39248@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 24895,
+  "name": "Sailor",
+  "generation": 4,
+  "created_at": "2017-12-01T22:20:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Sailor. I want to live in a world where people believe the world is flat. My secret indulgence is lasagna. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "24545@3",
+  "sire": "24498@2",
+  "children": [
+    "34336@5",
+    "38324@5",
+    "40842@5",
+    "44234@5",
+    "47108@5",
+    "51336@5",
+    "102681@8",
+    "125771@8",
+    "134987@7",
+    "180361@10",
+    "338936@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

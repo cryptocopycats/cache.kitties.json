@@ -1,0 +1,23 @@
+{
+  "id": 25749,
+  "name": "Chocolate",
+  "generation": 10,
+  "created_at": "2017-12-02T01:03:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Chocolate. I want to live in a world where people believe the world is flat. Some people say I'm the Steve Urkel of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "22658@9",
+  "sire": "22708@6",
+  "children": [
+    "28830@12",
+    "58419@16",
+    "59338@11",
+    "76380@11",
+    "93285@13",
+    "298795@11",
+    "1018787@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

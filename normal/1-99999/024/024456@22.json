@@ -1,0 +1,18 @@
+{
+  "id": 24456,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-01T20:59:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 22. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Ace of Base. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10378@21",
+  "sire": "13835@20",
+  "children": [
+    "31738@23",
+    "141984@27"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

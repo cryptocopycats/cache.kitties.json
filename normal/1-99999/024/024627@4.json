@@ -1,0 +1,20 @@
+{
+  "id": 24627,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-12-01T21:29:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm G4. I'm a Culinary Sanitation Specialist by day, and I like summoning ghosts by night. In my free time, I can usually be found smelly or swiping right. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "21025@3",
+  "sire": "24267@3",
+  "children": [
+    "25147@5",
+    "28805@5",
+    "29116@5",
+    "64628@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

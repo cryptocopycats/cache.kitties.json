@@ -1,0 +1,19 @@
+{
+  "id": 25618,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-12-02T00:31:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gen 18. I'm a professional Train Conductor and I love cereal. I once frolicked with a rabbit. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18489@3",
+  "sire": "9806@17",
+  "children": [
+    "25671@19",
+    "46015@19",
+    "98643@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

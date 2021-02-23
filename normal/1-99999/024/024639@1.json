@@ -1,0 +1,24 @@
+{
+  "id": 24639,
+  "name": "Gen 1 Brisk Coffe Vegan",
+  "generation": 1,
+  "created_at": "2017-12-01T21:31:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 1 Brisk Coffe Vegan. My friends describe me as vegan and voluptuous. I once headbutted a moose. I don't like to talk about it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "22666@0",
+  "sire": "22849@0",
+  "children": [
+    "24722@3",
+    "24917@3",
+    "25998@10",
+    "26680@7",
+    "28397@5",
+    "45138@2",
+    "55066@2",
+    "71480@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

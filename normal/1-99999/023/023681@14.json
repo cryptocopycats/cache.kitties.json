@@ -1,0 +1,20 @@
+{
+  "id": 23681,
+  "name": "Buttercup Gen14",
+  "generation": 14,
+  "created_at": "2017-12-01T18:26:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Buttercup Gen14. In high school, I was voted school jock. I once dreamed of being a Dogwalker. Now I can be found people-watching all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16410@13",
+  "sire": "18088@6",
+  "children": [
+    "35754@15",
+    "58035@15",
+    "84804@15",
+    "114661@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

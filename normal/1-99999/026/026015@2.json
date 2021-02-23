@@ -1,0 +1,25 @@
+{
+  "id": 26015,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-12-02T02:11:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen2. I believe the world is flat. I once cleaned a rabbit. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "20696@1",
+  "sire": "20862@1",
+  "children": [
+    "31248@3",
+    "31274@4",
+    "31461@6",
+    "37545@3",
+    "39936@3",
+    "54361@3",
+    "62299@3",
+    "75672@3",
+    "148570@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

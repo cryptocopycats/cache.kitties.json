@@ -1,0 +1,25 @@
+{
+  "id": 25896,
+  "name": "Gen 4 - A",
+  "generation": 4,
+  "created_at": "2017-12-02T01:34:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 4 - A. I'm a Dogwalker by day, and I like volunteering at the local kitten rescue shelter by night. When I'm not jump-roping, I'm siring for status! I like your face.",
+  "language": "en",
+  "matron": "16592@2",
+  "sire": "4903@3",
+  "children": [
+    "26124@5",
+    "26197@5",
+    "26469@5",
+    "27293@5",
+    "28752@5",
+    "29148@5",
+    "29310@5",
+    "37441@5",
+    "60479@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

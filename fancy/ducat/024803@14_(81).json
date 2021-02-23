@@ -1,0 +1,25 @@
+{
+  "id": 24803,
+  "name": "Ducat #81",
+  "generation": 14,
+  "created_at": "2017-12-01T21:57:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Ducat #81. I'm often referred to as the Cersei Lannister of the group. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23028@13",
+  "sire": "21506@6",
+  "children": [
+    "25955@15",
+    "37556@15",
+    "45868@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 81,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

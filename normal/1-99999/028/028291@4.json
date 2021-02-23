@@ -1,0 +1,19 @@
+{
+  "id": 28291,
+  "name": "Bob",
+  "generation": 4,
+  "created_at": "2017-12-02T10:01:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! Bob here. I'm here to enjoy sitting on your computer and being a nevernude. Some people say I'm the Cersei Lannister of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "28170@3",
+  "sire": "27506@3",
+  "children": [
+    "28525@5",
+    "28973@7",
+    "45021@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

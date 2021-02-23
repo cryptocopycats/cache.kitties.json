@@ -1,0 +1,19 @@
+{
+  "id": 27996,
+  "name": "Minimi",
+  "generation": 20,
+  "created_at": "2017-12-02T09:01:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Minimi. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "17711@16",
+  "sire": "16793@19",
+  "children": [
+    "39631@21",
+    "87950@21",
+    "137558@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

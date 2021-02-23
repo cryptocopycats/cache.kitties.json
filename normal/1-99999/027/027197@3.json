@@ -1,0 +1,18 @@
+{
+  "id": 27197,
+  "name": "Swifty",
+  "generation": 3,
+  "created_at": "2017-12-02T06:14:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Swifty. I'm a Culinary Sanitation Specialist by day, and I like siring for status by night. I once got in a fight with a chimpanzee, and won. I look forward to watching Stranger Things with you.",
+  "language": "en",
+  "matron": "21586@2",
+  "sire": "18461@2",
+  "children": [
+    "83995@6",
+    "699020@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

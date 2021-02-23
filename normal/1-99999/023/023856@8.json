@@ -1,0 +1,21 @@
+{
+  "id": 23856,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-01T18:49:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #23856. My friends describe me as tantalizing and voluptuous. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's pawty!",
+  "language": "en",
+  "matron": "2307@0",
+  "sire": "23668@7",
+  "children": [
+    "24270@9",
+    "26237@15",
+    "28253@18",
+    "62676@9",
+    "93859@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

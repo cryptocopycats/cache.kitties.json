@@ -1,0 +1,19 @@
+{
+  "id": 23383,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T17:56:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #23383. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as preposterous, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "17122@16",
+  "sire": "14419@16",
+  "children": [
+    "28206@18",
+    "39987@20",
+    "78306@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

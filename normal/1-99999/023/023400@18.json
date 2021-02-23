@@ -1,0 +1,21 @@
+{
+  "id": 23400,
+  "name": "Salvador Masala",
+  "generation": 18,
+  "created_at": "2017-12-01T17:56:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Salvador Masala. I'm a professional Skydiving Instructor and I love lasagna. I once got in a fight with a rooster, and won. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "9990@17",
+  "sire": "16500@7",
+  "children": [
+    "27830@19",
+    "51784@19",
+    "119908@19",
+    "135792@19",
+    "367921@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

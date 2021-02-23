@@ -1,0 +1,18 @@
+{
+  "id": 26230,
+  "name": "Miss Cleo",
+  "generation": 20,
+  "created_at": "2017-12-02T03:11:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Miss Cleo. In high school, I was voted biggest teacher's pet. I once dreamed of being a Mad Scientist. Now I can be found summoning ghosts all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21580@17",
+  "sire": "23017@19",
+  "children": [
+    "46038@21",
+    "196553@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 23767,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-12-01T18:34:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen 13. I enjoy chasing red dots, sitting on your computer, and riding dirty. I like to listen to Coldplay while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12965@12",
+  "sire": "7588@11",
+  "children": [
+    "29885@14",
+    "42060@20",
+    "61362@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

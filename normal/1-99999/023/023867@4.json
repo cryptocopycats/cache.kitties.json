@@ -1,0 +1,22 @@
+{
+  "id": 23867,
+  "name": "Gen4 Spock",
+  "generation": 4,
+  "created_at": "2017-12-01T18:51:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen4 Spock. My friends describe me as ridiculous and smelly. I once got in a fight with a goose, and won. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "22177@3",
+  "sire": "16111@3",
+  "children": [
+    "23932@5",
+    "23992@6",
+    "24158@11",
+    "24565@6",
+    "68721@5",
+    "190781@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

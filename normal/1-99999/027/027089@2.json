@@ -1,0 +1,31 @@
+{
+  "id": 27089,
+  "name": "Gold G2",
+  "generation": 2,
+  "created_at": "2017-12-02T05:57:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Gold G2. I'm often referred to as the Niles Crane of the group. When I'm not tricking babies, I'm swiping left! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "26222@1",
+  "sire": "26810@1",
+  "children": [
+    "29083@4",
+    "29308@4",
+    "29402@4",
+    "30172@5",
+    "31297@3",
+    "32420@3",
+    "36211@3",
+    "46081@3",
+    "56562@6",
+    "104519@8",
+    "131336@3",
+    "523143@5",
+    "656420@7",
+    "679716@4",
+    "710744@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 23557,
+  "name": "Meow | Gen12",
+  "generation": 12,
+  "created_at": "2017-12-01T18:12:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Meow | Gen12. I'm a professional Skydiving Instructor and I love steak. Some people say I'm the Jon Snow of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "23027@10",
+  "sire": "22532@11",
+  "children": [
+    "44683@13",
+    "48653@13",
+    "54289@13",
+    "87336@20"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 24894,
+  "name": "gen 9",
+  "generation": 9,
+  "created_at": "2017-12-01T22:19:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm gen 9. I enjoy picking flowers, staying woke, and riding unicorns. Sometimes I daydream of a life full of taking selfies, wet food, and volunteering at the local kitten rescue shelter. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "23970@8",
+  "sire": "24243@8",
+  "children": [
+    "25383@10",
+    "25669@10",
+    "38690@13",
+    "45950@10",
+    "71804@10",
+    "73926@12",
+    "100058@13",
+    "219067@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

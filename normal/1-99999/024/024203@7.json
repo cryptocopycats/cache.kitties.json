@@ -1,0 +1,25 @@
+{
+  "id": 24203,
+  "name": "SoTired",
+  "generation": 7,
+  "created_at": "2017-12-01T20:13:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm SoTired. I'm often referred to as the Chandler Bing of the group. When no one's home, I invite my pals over and we listen to Justin Bieber. I like your face.",
+  "language": "en",
+  "matron": "24141@6",
+  "sire": "24148@6",
+  "children": [
+    "35391@8",
+    "39165@10",
+    "65708@10",
+    "68555@12",
+    "77207@12",
+    "86896@12",
+    "125913@9",
+    "152198@9",
+    "187514@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

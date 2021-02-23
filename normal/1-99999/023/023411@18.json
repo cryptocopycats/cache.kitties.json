@@ -1,0 +1,18 @@
+{
+  "id": 23411,
+  "name": "Jasper",
+  "generation": 18,
+  "created_at": "2017-12-01T17:56:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Jasper. I'm often referred to as the Steve Urkel of the group. My friends describe me as \"ridiculous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "16146@17",
+  "sire": "10304@7",
+  "children": [
+    "62856@19",
+    "110774@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

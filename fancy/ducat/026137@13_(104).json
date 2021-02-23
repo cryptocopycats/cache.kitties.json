@@ -1,0 +1,29 @@
+{
+  "id": 26137,
+  "name": "Purebreed Bird Parents/Kids",
+  "generation": 13,
+  "created_at": "2017-12-02T02:40:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Purebreed Bird Parents/Kids. I'm a professional Culinary Sanitation Specialist and I love wet food. When I'm not swiping right, I'm pole dancing! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18851@12",
+  "sire": "13741@7",
+  "children": [
+    "34422@22",
+    "34915@14",
+    "37590@14",
+    "69759@14",
+    "102909@14",
+    "161899@14",
+    "331167@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 104,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

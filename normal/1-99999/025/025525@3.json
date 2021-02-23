@@ -1,0 +1,27 @@
+{
+  "id": 25525,
+  "name": "G3 - Mercury",
+  "generation": 3,
+  "created_at": "2017-12-02T00:13:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! G3 - Mercury here. I'm here to enjoy tricking babies and glaring at the neighbour's cat. I once made a dog jump. Let's get busy!",
+  "language": "en",
+  "matron": "21356@2",
+  "sire": "23045@2",
+  "children": [
+    "35845@9",
+    "35951@9",
+    "51277@11",
+    "59479@9",
+    "71512@11",
+    "85367@4",
+    "117648@4",
+    "125074@4",
+    "148952@4",
+    "183964@4",
+    "195070@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

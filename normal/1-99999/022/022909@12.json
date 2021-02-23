@@ -1,0 +1,23 @@
+{
+  "id": 22909,
+  "name": "starter",
+  "generation": 12,
+  "created_at": "2017-12-01T13:53:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm starter. I enjoy slappin' da bass, eating until I loathe myself, and shakin' dat booty. In my free time, I can usually be found despicable or running a podcast. I like your face.",
+  "language": "en",
+  "matron": "17051@11",
+  "sire": "22729@11",
+  "children": [
+    "24128@13",
+    "25409@16",
+    "27570@16",
+    "29945@17",
+    "66274@17",
+    "121720@18",
+    "171541@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

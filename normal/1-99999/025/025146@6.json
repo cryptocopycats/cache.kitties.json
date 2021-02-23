@@ -1,0 +1,19 @@
+{
+  "id": 25146,
+  "name": "6",
+  "generation": 6,
+  "created_at": "2017-12-01T23:11:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm 6. I've never told anyone this, but I once cleaned a dog. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Let's get busy!",
+  "language": "en",
+  "matron": "18865@5",
+  "sire": "22430@5",
+  "children": [
+    "25286@7",
+    "27535@8",
+    "38491@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

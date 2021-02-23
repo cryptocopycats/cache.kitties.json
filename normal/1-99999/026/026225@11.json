@@ -1,0 +1,25 @@
+{
+  "id": 26225,
+  "name": "Plodyy 11",
+  "generation": 11,
+  "created_at": "2017-12-02T03:11:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Plodyy 11. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of glaring at the neighbour's cat, apple pie, and siring for status. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "25654@8",
+  "sire": "25995@10",
+  "children": [
+    "29219@13",
+    "29541@12",
+    "38467@16",
+    "38735@13",
+    "58597@13",
+    "90639@18",
+    "327706@12",
+    "390537@12",
+    "400847@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

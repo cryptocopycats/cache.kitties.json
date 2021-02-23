@@ -1,0 +1,17 @@
+{
+  "id": 26345,
+  "name": "District 2",
+  "generation": 14,
+  "created_at": "2017-12-02T03:30:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm District 2. I'm often referred to as the Hermione Granger of the group. I once bit a gecko. I don't like to talk about it. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "20011@10",
+  "sire": "23113@13",
+  "children": [
+    "27326@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

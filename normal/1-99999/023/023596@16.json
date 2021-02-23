@@ -1,0 +1,19 @@
+{
+  "id": 23596,
+  "name": "Pocahontas (Rare genes)",
+  "generation": 16,
+  "created_at": "2017-12-01T18:15:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Pocahontas (Rare genes). I enjoy chasing red dots, hitting on yo' man, and eating lasagna. I am 85% hobbit, 31% Dogwalker, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "11406@12",
+  "sire": "15898@15",
+  "children": [
+    "29844@20",
+    "60302@17",
+    "98098@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

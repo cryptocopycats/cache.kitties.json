@@ -1,0 +1,23 @@
+{
+  "id": 26605,
+  "name": "Izoritil",
+  "generation": 5,
+  "created_at": "2017-12-02T04:12:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Izoritil. I enjoy tricking babies, sitting on your computer, and breakdancing. When no one's home, I invite my pals over and we listen to Coldplay. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "26435@4",
+  "sire": "26457@4",
+  "children": [
+    "26695@6",
+    "27462@6",
+    "30879@16",
+    "32738@15",
+    "35614@18",
+    "43649@17",
+    "62309@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 26376,
+  "name": "Kitty #26376",
+  "generation": 9,
+  "created_at": "2017-12-02T03:36:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #26376. I'm often referred to as the Frodo Baggins of the group. Sometimes I daydream of a life full of chasing red dots, wet food, and riding the bus. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "23619@8",
+  "sire": "25452@8",
+  "children": [
+    "26681@20",
+    "27417@11",
+    "28004@13",
+    "29707@10",
+    "35353@20",
+    "45468@13",
+    "86542@13",
+    "239355@10",
+    "264688@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

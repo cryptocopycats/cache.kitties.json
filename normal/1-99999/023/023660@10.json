@@ -1,0 +1,22 @@
+{
+  "id": 23660,
+  "name": "Magic Mike",
+  "generation": 10,
+  "created_at": "2017-12-01T18:20:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Magic Mike. I'm a Private Dancer  by day, and I like siring for status by night. I once got in a fight with a goose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "22296@9",
+  "sire": "10267@6",
+  "children": [
+    "39666@11",
+    "43199@15",
+    "69133@17",
+    "89741@17",
+    "92073@16",
+    "516031@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

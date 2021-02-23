@@ -1,0 +1,18 @@
+{
+  "id": 25270,
+  "name": "Hamlick",
+  "generation": 13,
+  "created_at": "2017-12-01T23:26:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Hamlick. I'm a Foreign Film Director by day, and I like summoning ghosts by night. It's not common knowledge, but my ancestry connects me to Mother Theresa. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "19304@12",
+  "sire": "4207@7",
+  "children": [
+    "74227@21",
+    "81549@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

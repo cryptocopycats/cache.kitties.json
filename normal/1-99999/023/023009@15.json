@@ -1,0 +1,17 @@
+{
+  "id": 23009,
+  "name": "Pikachu",
+  "generation": 15,
+  "created_at": "2017-12-01T14:33:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Pikachu. I want to live in a world where people believe the world is flat. I am 78% oracle, 36% Private Dancer , and otherwise bad at math. Our friendship will be petulant, hairy, and full of lasagna.",
+  "language": "en",
+  "matron": "20048@14",
+  "sire": "18829@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

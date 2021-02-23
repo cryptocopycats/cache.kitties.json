@@ -1,0 +1,24 @@
+{
+  "id": 23908,
+  "name": "Gen2 🍑",
+  "generation": 2,
+  "created_at": "2017-12-01T18:59:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen2 🍑. I'm a Skydiving Instructor by day, and I like running a podcast by night. I am 54% elf, 37% Mad Scientist, and otherwise bad at math. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "19500@1",
+  "sire": "23865@1",
+  "children": [
+    "24022@3",
+    "25225@3",
+    "243238@3",
+    "246135@3",
+    "460858@5",
+    "478136@3",
+    "505504@3",
+    "610281@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

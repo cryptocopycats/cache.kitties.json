@@ -1,0 +1,20 @@
+{
+  "id": 25861,
+  "name": "Gen6 Snappy Sally",
+  "generation": 6,
+  "created_at": "2017-12-02T01:23:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen6 Snappy Sally. I'm a professional Train Conductor and I love chocolate. Sometimes I daydream of a life full of slappin' da bass, cereal, and summoning ghosts. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "19666@5",
+  "sire": "21298@3",
+  "children": [
+    "26134@7",
+    "26250@7",
+    "27257@9",
+    "58958@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

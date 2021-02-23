@@ -1,0 +1,20 @@
+{
+  "id": 27068,
+  "name": "Gen 10 | Plod",
+  "generation": 10,
+  "created_at": "2017-12-02T05:54:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen 10 | Plod. All you need to know about me is I hate salad with a passion. When no one's home, I invite my pals over and we listen to Aretha Franklin. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "25747@6",
+  "sire": "26019@9",
+  "children": [
+    "27432@11",
+    "42053@11",
+    "52136@14",
+    "61535@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

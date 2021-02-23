@@ -1,0 +1,20 @@
+{
+  "id": 25312,
+  "name": "Mint",
+  "generation": 5,
+  "created_at": "2017-12-01T23:32:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Mint. All you need to know about me is I hate salad with a passion. I put soy sauce on everything. Like, everything: hot dogs, cantaloupe—everything! Let's pawty!",
+  "language": "en",
+  "matron": "25200@4",
+  "sire": "24372@2",
+  "children": [
+    "27826@6",
+    "34211@6",
+    "46002@6",
+    "254551@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

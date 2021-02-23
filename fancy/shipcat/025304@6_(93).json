@@ -1,0 +1,26 @@
+{
+  "id": 25304,
+  "name": "G6 | Purebred Sailor",
+  "generation": 6,
+  "created_at": "2017-12-01T23:30:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm G6 | Purebred Sailor. My friends describe me as tantalizing and fabulous. I put garlic butter on everything. Like, everything: hot dogs, wet food—everything! I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "22481@5",
+  "sire": "22304@3",
+  "children": [
+    "33705@7",
+    "34171@7",
+    "45083@7",
+    "57671@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 93,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

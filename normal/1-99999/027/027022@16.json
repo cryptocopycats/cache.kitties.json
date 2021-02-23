@@ -1,0 +1,19 @@
+{
+  "id": 27022,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-02T05:42:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #27022. I enjoy picking on mice, chasing string, and grooming. I am 65% sphinx, 38% Dogwalker, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18266@10",
+  "sire": "24512@15",
+  "children": [
+    "45421@18",
+    "69610@17",
+    "308710@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

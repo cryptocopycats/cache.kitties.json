@@ -1,0 +1,18 @@
+{
+  "id": 28141,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T09:35:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! Gen 6 here. I'm here to enjoy spinning sick beats and riding unicorns. It's not common knowledge, but my ancestry connects me to Cleopatra. I like your face.",
+  "language": "en",
+  "matron": "25980@5",
+  "sire": "24207@5",
+  "children": [
+    "28481@7",
+    "28771@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

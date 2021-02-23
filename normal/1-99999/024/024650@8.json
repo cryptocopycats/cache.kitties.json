@@ -1,0 +1,21 @@
+{
+  "id": 24650,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-01T21:33:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #24650. I've never told anyone this, but I once kissed a dog. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to hitting on yo' man with you.",
+  "language": "en",
+  "matron": "16024@7",
+  "sire": "16362@6",
+  "children": [
+    "42013@9",
+    "42508@9",
+    "44431@9",
+    "61305@19",
+    "103752@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

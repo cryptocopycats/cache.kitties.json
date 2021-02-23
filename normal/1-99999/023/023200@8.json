@@ -1,0 +1,23 @@
+{
+  "id": 23200,
+  "name": "G8 Spock with Duck Parent",
+  "generation": 8,
+  "created_at": "2017-12-01T16:16:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! G8 Spock with Duck Parent here. I'm here to enjoy grooming and picking flowers. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "22629@5",
+  "sire": "22511@7",
+  "children": [
+    "23447@9",
+    "24070@9",
+    "24285@9",
+    "25357@9",
+    "36915@10",
+    "39896@10",
+    "157173@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

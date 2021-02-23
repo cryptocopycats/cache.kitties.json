@@ -1,0 +1,18 @@
+{
+  "id": 23901,
+  "name": "WOW",
+  "generation": 12,
+  "created_at": "2017-12-01T18:57:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm WOW. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Princess Diana. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23007@0",
+  "sire": "4735@11",
+  "children": [
+    "40121@13",
+    "48976@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

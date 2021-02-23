@@ -1,0 +1,23 @@
+{
+  "id": 26818,
+  "name": "Derptron 9000",
+  "generation": 10,
+  "created_at": "2017-12-02T04:59:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Derptron 9000. I'm a professional Mad Scientist and I love hamburgers. I once cleaned a platypus. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16851@9",
+  "sire": "16977@8",
+  "children": [
+    "27243@14",
+    "27402@11",
+    "29164@11",
+    "30847@13",
+    "51463@15",
+    "82211@16",
+    "98261@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

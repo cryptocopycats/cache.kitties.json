@@ -1,0 +1,22 @@
+{
+  "id": 23267,
+  "name": "Gen 2 bloodred",
+  "generation": 2,
+  "created_at": "2017-12-01T16:40:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Gen 2 bloodred. I'm a professional Spin Instructor  and I love cantaloupe. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "20582@0",
+  "sire": "22249@1",
+  "children": [
+    "23609@10",
+    "23810@10",
+    "23893@4",
+    "25086@11",
+    "27292@6",
+    "66923@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

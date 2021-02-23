@@ -1,0 +1,30 @@
+{
+  "id": 27244,
+  "name": "Gen9 Snappy Ducky",
+  "generation": 9,
+  "created_at": "2017-12-02T06:24:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Gen9 Snappy Ducky. I believe the world is flat. I once kissed a dog. I don't like to talk about it. I look forward to picking flowers with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26527@8",
+  "sire": "26005@5",
+  "children": [
+    "39339@10",
+    "40949@12",
+    "49661@10",
+    "64825@10",
+    "69077@10",
+    "108179@10",
+    "206046@10",
+    "274794@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 117,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

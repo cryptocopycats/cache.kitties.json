@@ -1,0 +1,29 @@
+{
+  "id": 23915,
+  "name": "G6 Plodding Fancy Bird Duck",
+  "generation": 6,
+  "created_at": "2017-12-01T19:00:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! My name's G6 Plodding Fancy Bird Duck. I once peed on Mother Theresa's cat. They had it coming. I'm often described as tantalizing, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22459@5",
+  "sire": "16011@5",
+  "children": [
+    "24156@7",
+    "34226@8",
+    "35259@8",
+    "36223@7",
+    "37544@10",
+    "47175@11",
+    "89024@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 64,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

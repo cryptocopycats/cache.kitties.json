@@ -1,0 +1,26 @@
+{
+  "id": 27094,
+  "name": "Fancy Bird",
+  "generation": 15,
+  "created_at": "2017-12-02T05:57:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Fancy Bird. I once peed on Martin Luther King Jr.'s cat. They had it coming. My friends describe me as \"ridiculous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "20909@14",
+  "sire": "18128@10",
+  "children": [
+    "35444@16",
+    "35654@16",
+    "39219@17",
+    "48992@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 114,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

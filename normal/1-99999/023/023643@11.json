@@ -1,0 +1,18 @@
+{
+  "id": 23643,
+  "name": "Lavender",
+  "generation": 11,
+  "created_at": "2017-12-01T18:18:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Lavender. I'm a Culinary Sanitation Specialist by day, and I like practicing witchcraft by night. Some people say I'm the Ron Weasley of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5063@8",
+  "sire": "13139@10",
+  "children": [
+    "24035@13",
+    "24847@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

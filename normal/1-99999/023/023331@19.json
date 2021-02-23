@@ -1,0 +1,20 @@
+{
+  "id": 23331,
+  "name": "Fabulous Yoda",
+  "generation": 19,
+  "created_at": "2017-12-01T17:50:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Fabulous Yoda. I once peed on Mother Theresa's cat. They had it coming. I once dreamed of being a Train Conductor. Now I can be found volunteering at the local kitten rescue shelter all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "19900@15",
+  "sire": "18080@18",
+  "children": [
+    "32710@20",
+    "66292@20",
+    "117962@20",
+    "167914@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

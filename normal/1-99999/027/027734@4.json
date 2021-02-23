@@ -1,0 +1,21 @@
+{
+  "id": 27734,
+  "name": "Mr. Cat",
+  "generation": 4,
+  "created_at": "2017-12-02T08:05:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Mr. Cat. My friends describe me as raunchy and despicable. When I'm not riding the bus, I'm swiping left! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5621@2",
+  "sire": "22212@3",
+  "children": [
+    "52772@5",
+    "56727@7",
+    "62668@7",
+    "62838@6",
+    "68996@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

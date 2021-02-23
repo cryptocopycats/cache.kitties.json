@@ -1,0 +1,17 @@
+{
+  "id": 25105,
+  "name": "Meow Thu",
+  "generation": 20,
+  "created_at": "2017-12-01T23:11:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Meow Thu. All you need to know about me is I hate hamburgers with a passion. I put pickles on everything. Like, everything: hot dogs, steak—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "23519@15",
+  "sire": "23614@19",
+  "children": [
+    "50793@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

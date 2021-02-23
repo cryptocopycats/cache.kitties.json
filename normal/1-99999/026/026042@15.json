@@ -1,0 +1,21 @@
+{
+  "id": 26042,
+  "name": "G15 Bearded Lady",
+  "generation": 15,
+  "created_at": "2017-12-02T02:18:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm G15 Bearded Lady. All you need to know about me is I hate hamburgers with a passion. I am 58% wizard, 68% Dispensary Clerk, and otherwise bad at math. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "20155@13",
+  "sire": "21747@14",
+  "children": [
+    "28264@16",
+    "33381@16",
+    "60455@16",
+    "191095@16",
+    "297296@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

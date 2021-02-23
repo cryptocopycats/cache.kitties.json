@@ -1,0 +1,29 @@
+{
+  "id": 27268,
+  "name": "Gen 7 Brisk laperm",
+  "generation": 7,
+  "created_at": "2017-12-02T06:30:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Gen 7 Brisk laperm. I enjoy breakdancing, eating lasagna, and riding unicorns. I once tricked a rhino. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "25813@6",
+  "sire": "19064@6",
+  "children": [
+    "29100@8",
+    "39342@8",
+    "95298@8",
+    "414450@8",
+    "449149@23",
+    "450134@8",
+    "492599@8",
+    "539027@8",
+    "665627@8",
+    "1409095@8",
+    "1472623@8",
+    "1541391@13",
+    "1753193@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

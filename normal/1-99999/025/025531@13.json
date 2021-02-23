@@ -1,0 +1,20 @@
+{
+  "id": 25531,
+  "name": "slow gen13",
+  "generation": 13,
+  "created_at": "2017-12-02T00:14:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm slow gen13. I enjoy glaring at the neighbour's cat, reciting poetry, and licking doorknobs. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "22673@11",
+  "sire": "23663@12",
+  "children": [
+    "29277@16",
+    "30448@16",
+    "34658@16",
+    "46160@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

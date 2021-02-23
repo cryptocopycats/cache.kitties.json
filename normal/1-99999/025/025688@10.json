@@ -1,0 +1,25 @@
+{
+  "id": 25688,
+  "name": "Jasper",
+  "generation": 10,
+  "created_at": "2017-12-02T00:44:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Jasper. In high school, I was voted most likely to work at NASA. When I'm not riding the bus, I'm talking about how much I lift! Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "24476@8",
+  "sire": "24479@9",
+  "children": [
+    "27539@11",
+    "28098@11",
+    "29261@11",
+    "32714@16",
+    "37647@11",
+    "51626@14",
+    "92181@11",
+    "251497@11",
+    "371522@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27659,
+  "name": "Gen 4 | Plod",
+  "generation": 4,
+  "created_at": "2017-12-02T07:49:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 4 | Plod. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16445@3",
+  "sire": "16068@2",
+  "children": [
+    "27724@7",
+    "30575@6",
+    "34892@6",
+    "38561@7",
+    "43552@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

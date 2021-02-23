@@ -1,0 +1,21 @@
+{
+  "id": 25100,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T23:11:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #25100. In high school, I was voted school jock. My secret indulgence is cereal. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "10596@12",
+  "sire": "16544@13",
+  "children": [
+    "29629@19",
+    "34015@17",
+    "45996@17",
+    "65754@20",
+    "275314@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

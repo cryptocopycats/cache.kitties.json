@@ -1,0 +1,29 @@
+{
+  "id": 25804,
+  "name": "Satoshi",
+  "generation": 1,
+  "created_at": "2017-12-02T01:13:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Satoshi. My friends describe me as ridiculous and hairy. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "24656@0",
+  "sire": "24919@0",
+  "children": [
+    "25847@2",
+    "27792@2",
+    "27809@2",
+    "27843@2",
+    "28071@2",
+    "45194@2",
+    "47799@7",
+    "55026@3",
+    "61630@3",
+    "65258@3",
+    "118420@2",
+    "124807@2",
+    "176973@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

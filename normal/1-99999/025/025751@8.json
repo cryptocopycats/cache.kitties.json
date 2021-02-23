@@ -1,0 +1,19 @@
+{
+  "id": 25751,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-02T01:03:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm 8. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "25509@7",
+  "sire": "25444@7",
+  "children": [
+    "26490@9",
+    "26824@9",
+    "39314@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24721,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-01T21:46:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 3. I've never told anyone this, but I once cleaned a dog. It's not common knowledge, but my ancestry connects me to Princess Diana. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "23724@2",
+  "sire": "23824@2",
+  "children": [
+    "24961@4",
+    "25341@4",
+    "25674@4",
+    "30616@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

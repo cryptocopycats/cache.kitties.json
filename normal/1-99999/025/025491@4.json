@@ -1,0 +1,19 @@
+{
+  "id": 25491,
+  "name": "Laser Focus",
+  "generation": 4,
+  "created_at": "2017-12-02T00:06:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Laser Focus. I believe the world is flat. I once bit a moose. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "25367@3",
+  "sire": "15895@3",
+  "children": [
+    "25843@12",
+    "31751@12",
+    "35745@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

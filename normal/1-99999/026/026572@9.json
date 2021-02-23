@@ -1,0 +1,20 @@
+{
+  "id": 26572,
+  "name": "Gen9 Brisk Otaku",
+  "generation": 9,
+  "created_at": "2017-12-02T04:06:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen9 Brisk Otaku. In high school, I was voted most likely to work at NASA. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26219@8",
+  "sire": "26303@8",
+  "children": [
+    "54551@12",
+    "73253@10",
+    "85678@10",
+    "113990@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

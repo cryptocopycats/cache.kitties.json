@@ -1,0 +1,21 @@
+{
+  "id": 25789,
+  "name": "G7 Cerulian Otaku",
+  "generation": 7,
+  "created_at": "2017-12-02T01:08:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G7 Cerulian Otaku. I'm a Skydiving Instructor by day, and I like reading Danielle Steele by night. Some people say I'm the Steve Urkel of the group. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "24142@6",
+  "sire": "23768@6",
+  "children": [
+    "29222@8",
+    "40359@11",
+    "42743@17",
+    "52226@8",
+    "78660@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 26927,
+  "name": "Hulk",
+  "generation": 3,
+  "created_at": "2017-12-02T05:23:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Hulk. All you need to know about me is I hate wet food with a passion. It's not common knowledge, but my ancestry connects me to Mother Theresa. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "23398@2",
+  "sire": "16592@2",
+  "children": [
+    "27242@4",
+    "27715@4",
+    "28419@6",
+    "28766@6",
+    "29508@6",
+    "43582@6",
+    "46072@8",
+    "77563@6",
+    "274060@6",
+    "477490@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

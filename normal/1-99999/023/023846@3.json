@@ -1,0 +1,23 @@
+{
+  "id": 23846,
+  "name": "Gen 3 Topaz | Swift",
+  "generation": 3,
+  "created_at": "2017-12-01T18:46:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Gen 3 Topaz | Swift. I've never told anyone this, but I once licked a dog. My secret indulgence is apple pie. I like your face.",
+  "language": "en",
+  "matron": "23398@2",
+  "sire": "23724@2",
+  "children": [
+    "30801@4",
+    "31091@6",
+    "31729@4",
+    "36419@4",
+    "40509@4",
+    "42402@4",
+    "45931@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

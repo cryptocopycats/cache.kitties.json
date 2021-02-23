@@ -1,0 +1,20 @@
+{
+  "id": 24961,
+  "name": "gEN 4 Swift!",
+  "generation": 4,
+  "created_at": "2017-12-01T22:45:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm gEN 4 Swift!. I'm often referred to as the Dwight Schrute of the group. I once made a chimpanzee grimace. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "24723@3",
+  "sire": "24721@3",
+  "children": [
+    "26174@5",
+    "26682@5",
+    "29364@5",
+    "51128@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

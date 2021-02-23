@@ -1,0 +1,21 @@
+{
+  "id": 23451,
+  "name": "Noona",
+  "generation": 17,
+  "created_at": "2017-12-01T18:06:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Noona. My friends describe me as seductive and despicable. My secret indulgence is apple pie. Can you make my stinky dreams come true?",
+  "language": "en",
+  "matron": "10002@16",
+  "sire": "9809@14",
+  "children": [
+    "26220@18",
+    "46011@20",
+    "109805@20",
+    "146690@18",
+    "292723@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

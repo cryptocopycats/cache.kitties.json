@@ -1,0 +1,26 @@
+{
+  "id": 23079,
+  "name": "G4 | 23 079",
+  "generation": 4,
+  "created_at": "2017-12-01T15:16:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G4 | 23 079. My friends describe me as voluptuous and petulant. I once made a goose drink. Will you be the ghost pepper hot sauce to my marmalade?",
+  "language": "en",
+  "matron": "22843@3",
+  "sire": "22483@2",
+  "children": [
+    "23315@6",
+    "26733@11",
+    "27119@6",
+    "27558@11",
+    "28188@12",
+    "29862@5",
+    "36208@5",
+    "58072@5",
+    "65206@5",
+    "249644@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

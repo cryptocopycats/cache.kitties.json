@@ -1,0 +1,22 @@
+{
+  "id": 27671,
+  "name": "Thor",
+  "generation": 6,
+  "created_at": "2017-12-02T07:52:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Thor. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of tricking babies, lasagna, and swiping left. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "22051@5",
+  "sire": "25706@5",
+  "children": [
+    "27801@7",
+    "34334@8",
+    "41785@7",
+    "49154@7",
+    "182071@13",
+    "248834@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

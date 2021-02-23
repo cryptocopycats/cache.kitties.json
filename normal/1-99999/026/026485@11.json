@@ -1,0 +1,22 @@
+{
+  "id": 26485,
+  "name": "Catticus - Gen 11",
+  "generation": 11,
+  "created_at": "2017-12-02T03:55:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Catticus - Gen 11. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Samwise Gamgee of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7392@4",
+  "sire": "10756@10",
+  "children": [
+    "31182@12",
+    "33438@12",
+    "35998@12",
+    "38227@13",
+    "49758@12",
+    "284087@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

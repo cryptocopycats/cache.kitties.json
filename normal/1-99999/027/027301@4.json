@@ -1,0 +1,21 @@
+{
+  "id": 27301,
+  "name": "Gen 4 Cuddle Town",
+  "generation": 4,
+  "created_at": "2017-12-02T06:37:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's Gen 4 Cuddle Town. I once peed on Cleopatra's cat. They had it coming. When no one's home, I invite my pals over and we listen to Coldplay. Let's get busy!",
+  "language": "en",
+  "matron": "26307@1",
+  "sire": "10630@3",
+  "children": [
+    "32082@5",
+    "36101@9",
+    "53605@5",
+    "54550@6",
+    "60902@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

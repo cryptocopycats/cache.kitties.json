@@ -1,0 +1,18 @@
+{
+  "id": 23312,
+  "name": "Brownie16",
+  "generation": 16,
+  "created_at": "2017-12-01T17:00:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Brownie16. My friends describe me as stinky and gorgeous. I once got in a fight with a platypus, and won. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "20374@15",
+  "sire": "21649@0",
+  "children": [
+    "30786@18",
+    "55278@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

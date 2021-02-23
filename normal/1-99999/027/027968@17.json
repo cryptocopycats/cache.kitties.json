@@ -1,0 +1,18 @@
+{
+  "id": 27968,
+  "name": "TrainCat Gen 17 Slow",
+  "generation": 17,
+  "created_at": "2017-12-02T08:53:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm TrainCat Gen 17 Slow. I'm a Train Conductor by day, and I like swiping left by night. My secret indulgence is cantaloupe. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "27850@1",
+  "sire": "27892@16",
+  "children": [
+    "168219@23",
+    "519228@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

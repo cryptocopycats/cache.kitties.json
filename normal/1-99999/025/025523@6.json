@@ -1,0 +1,18 @@
+{
+  "id": 25523,
+  "name": "Gen 6 Snappy",
+  "generation": 6,
+  "created_at": "2017-12-02T00:13:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 6 Snappy. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Confucius. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "24852@5",
+  "sire": "24848@5",
+  "children": [
+    "46013@7",
+    "66379@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

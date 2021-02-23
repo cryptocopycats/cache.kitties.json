@@ -1,0 +1,17 @@
+{
+  "id": 25490,
+  "name": "Cutie Kitty 1",
+  "generation": 18,
+  "created_at": "2017-12-02T00:06:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Cutie Kitty 1. In high school, I was voted school jock. I once got in a fight with a platypus, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "20950@17",
+  "sire": "10932@11",
+  "children": [
+    "71142@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

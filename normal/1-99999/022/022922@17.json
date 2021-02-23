@@ -1,0 +1,18 @@
+{
+  "id": 22922,
+  "name": "Friendly Neighbor",
+  "generation": 17,
+  "created_at": "2017-12-01T13:59:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Friendly Neighbor here. I'm here to enjoy fighting the patriarchy and spinning sick beats. When I'm not volunteering at the local kitten rescue shelter, I'm swiping left! Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "22152@15",
+  "sire": "18748@16",
+  "children": [
+    "34558@18",
+    "70975@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

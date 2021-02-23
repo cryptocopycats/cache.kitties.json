@@ -1,0 +1,20 @@
+{
+  "id": 24031,
+  "name": "CloudWhite",
+  "generation": 10,
+  "created_at": "2017-12-01T19:29:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm CloudWhite. My friends describe me as gorgeous and ridiculous. I once got in a fight with a dolphin, and won. Will you be the wasabi to my soy sauce?",
+  "language": "en",
+  "matron": "4823@9",
+  "sire": "4331@8",
+  "children": [
+    "26105@11",
+    "32603@11",
+    "38769@11",
+    "57961@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

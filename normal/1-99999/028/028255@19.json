@@ -1,0 +1,21 @@
+{
+  "id": 28255,
+  "name": "My First Real Kitty",
+  "generation": 19,
+  "created_at": "2017-12-02T09:57:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm My First Real Kitty. I believe the world is flat. In my free time, I can usually be found wondrous or braiding people's hair. I look forward to breakdancing with you.",
+  "language": "en",
+  "matron": "10469@12",
+  "sire": "8886@18",
+  "children": [
+    "31040@20",
+    "95859@20",
+    "680454@20",
+    "945655@20",
+    "1020286@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

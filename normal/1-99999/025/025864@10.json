@@ -1,0 +1,23 @@
+{
+  "id": 25864,
+  "name": "NutnJoFace",
+  "generation": 10,
+  "created_at": "2017-12-02T01:23:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm NutnJoFace. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25285@6",
+  "sire": "25423@9",
+  "children": [
+    "60715@15",
+    "63024@11",
+    "72102@11",
+    "85952@15",
+    "100210@12",
+    "175810@11",
+    "384508@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

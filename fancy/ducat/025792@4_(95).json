@@ -1,0 +1,33 @@
+{
+  "id": 25792,
+  "name": "Fancy Duck",
+  "generation": 4,
+  "created_at": "2017-12-02T01:08:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Fancy Duck. I'm a professional Train Conductor and I love cereal. In my free time, I can usually be found prickly or reading Danielle Steele. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24710@3",
+  "sire": "21958@3",
+  "children": [
+    "25860@5",
+    "28250@5",
+    "31560@5",
+    "33644@5",
+    "34297@5",
+    "40038@5",
+    "46639@5",
+    "88077@5",
+    "142667@9",
+    "184068@9",
+    "241231@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 95,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 24268,
+  "name": "McFlufferson",
+  "generation": 18,
+  "created_at": "2017-12-01T20:27:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm McFlufferson. I'm often referred to as the Bart Simpson of the group. I once dreamed of being a Foreign Film Director. Now I can be found siring for status all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "15747@8",
+  "sire": "13747@17",
+  "children": [
+    "64941@19",
+    "112361@19",
+    "188211@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

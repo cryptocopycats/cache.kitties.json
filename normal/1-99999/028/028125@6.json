@@ -1,0 +1,18 @@
+{
+  "id": 28125,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-02T09:35:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #28125. I'm often referred to as the Lisa Simpson of the group. I put maple syrup on everything. Like, everything: hot dogs, salad—everything! I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "27851@5",
+  "sire": "28095@1",
+  "children": [
+    "28199@7",
+    "28252@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

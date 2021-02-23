@@ -1,0 +1,27 @@
+{
+  "id": 23332,
+  "name": "Fancy Bird Parent B3 G5",
+  "generation": 5,
+  "created_at": "2017-12-01T17:50:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Fancy Bird Parent B3 G5. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "20751@4",
+  "sire": "22058@0",
+  "children": [
+    "23639@6",
+    "23989@6",
+    "24601@6",
+    "25012@6",
+    "27194@9",
+    "33430@6",
+    "36126@6",
+    "61470@6",
+    "69069@6",
+    "138487@6",
+    "263543@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

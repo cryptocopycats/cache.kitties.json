@@ -1,0 +1,22 @@
+{
+  "id": 24216,
+  "name": "Ragamuffin Lemonade",
+  "generation": 9,
+  "created_at": "2017-12-01T20:17:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Ragamuffin Lemonade. In high school, I was voted biggest teacher's pet. I once made a goose kiss. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "23711@8",
+  "sire": "17891@8",
+  "children": [
+    "24431@10",
+    "25295@10",
+    "26812@10",
+    "43102@10",
+    "44360@15",
+    "64299@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

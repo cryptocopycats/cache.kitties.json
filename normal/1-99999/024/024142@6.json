@@ -1,0 +1,21 @@
+{
+  "id": 24142,
+  "name": "Gen6 Cerulian FancyBird parent",
+  "generation": 6,
+  "created_at": "2017-12-01T19:58:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen6 Cerulian FancyBird parent. I enjoy riding dirty, picking on mice, and fighting for the people. I once got in a fight with a rooster, and won. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "20276@5",
+  "sire": "18990@5",
+  "children": [
+    "24315@7",
+    "24476@8",
+    "25065@10",
+    "25789@7",
+    "55109@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

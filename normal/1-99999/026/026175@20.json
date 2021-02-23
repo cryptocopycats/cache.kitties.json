@@ -1,0 +1,18 @@
+{
+  "id": 26175,
+  "name": "Watermelon Popsicle",
+  "generation": 20,
+  "created_at": "2017-12-02T02:50:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Watermelon Popsicle. I'm often referred to as the Ron Weasley of the group. I'm often described as seductive, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "24704@11",
+  "sire": "25015@19",
+  "children": [
+    "37581@21",
+    "96425@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

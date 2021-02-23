@@ -1,0 +1,19 @@
+{
+  "id": 24576,
+  "name": "La Grande",
+  "generation": 11,
+  "created_at": "2017-12-01T21:19:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm La Grande. All you need to know about me is I hate chocolate with a passion. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "23624@6",
+  "sire": "24435@10",
+  "children": [
+    "106793@14",
+    "141086@14",
+    "145934@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

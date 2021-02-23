@@ -1,0 +1,20 @@
+{
+  "id": 27180,
+  "name": "Mavis (retire)",
+  "generation": 13,
+  "created_at": "2017-12-02T06:10:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Mavis (retire). My friends describe me as ridiculous and petulant. I like to listen to Michael Bolton while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "25387@4",
+  "sire": "26138@12",
+  "children": [
+    "27508@14",
+    "53276@14",
+    "69707@14",
+    "86302@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

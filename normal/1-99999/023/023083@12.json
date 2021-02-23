@@ -1,0 +1,18 @@
+{
+  "id": 23083,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-12-01T15:17:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Gen 12. I've never told anyone this, but I once tricked a dog. Sometimes I daydream of a life full of riding unicorns, lasagna, and talking about how much I lift. I look forward to chasing string with you.",
+  "language": "en",
+  "matron": "20864@5",
+  "sire": "16138@11",
+  "children": [
+    "23642@16",
+    "25141@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

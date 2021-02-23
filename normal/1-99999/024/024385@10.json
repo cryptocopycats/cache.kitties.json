@@ -1,0 +1,25 @@
+{
+  "id": 24385,
+  "name": "Lou Lu",
+  "generation": 10,
+  "created_at": "2017-12-01T20:48:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Lou Lu. I'm a professional Skydiving Instructor and I love hamburgers. Sometimes I daydream of a life full of fighting for the people, chocolate, and braiding people's hair. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "13882@1",
+  "sire": "19501@9",
+  "children": [
+    "27587@11",
+    "28427@12",
+    "35332@13",
+    "40466@13",
+    "63230@17",
+    "92886@19",
+    "159369@13",
+    "165145@14",
+    "291758@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

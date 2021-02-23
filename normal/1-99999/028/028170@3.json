@@ -1,0 +1,25 @@
+{
+  "id": 28170,
+  "name": "Curry with a Carrot",
+  "generation": 3,
+  "created_at": "2017-12-02T09:38:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Curry with a Carrot. I've never told anyone this, but I once licked a dog. When no one's home, I invite my pals over and we listen to Mariah Carey. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3974@2",
+  "sire": "20924@2",
+  "children": [
+    "28205@4",
+    "28291@4",
+    "28496@4",
+    "28944@4",
+    "29254@4",
+    "29949@6",
+    "31577@4",
+    "35484@4",
+    "61461@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

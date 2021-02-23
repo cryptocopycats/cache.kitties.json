@@ -1,0 +1,22 @@
+{
+  "id": 25774,
+  "name": "Chariman Meow",
+  "generation": 7,
+  "created_at": "2017-12-02T01:05:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Chariman Meow. I believe the world is flat. My friends describe me as \"voluptuous.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25150@6",
+  "sire": "10842@1",
+  "children": [
+    "25838@17",
+    "42390@8",
+    "58618@8",
+    "61787@8",
+    "72332@8",
+    "81043@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

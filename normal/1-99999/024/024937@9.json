@@ -1,0 +1,22 @@
+{
+  "id": 24937,
+  "name": "Smiley Jaguar",
+  "generation": 9,
+  "created_at": "2017-12-01T22:38:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Smiley Jaguar. I believe that one day cats will rule this planet. I like to listen to Rihanna while grooming. Don't judge me. Our friendship will be despicable, petulant, and full of hamburgers.",
+  "language": "en",
+  "matron": "2383@0",
+  "sire": "15550@8",
+  "children": [
+    "25197@10",
+    "27788@10",
+    "34729@10",
+    "39423@22",
+    "49965@10",
+    "74435@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

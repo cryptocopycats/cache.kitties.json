@@ -1,0 +1,22 @@
+{
+  "id": 24970,
+  "name": "Baby Stripes",
+  "generation": 15,
+  "created_at": "2017-12-01T22:46:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Baby Stripes. I'm often referred to as the Jon Snow of the group. Some people say I'm the Jon Snow of the group. I like your face.",
+  "language": "en",
+  "matron": "20692@13",
+  "sire": "23817@14",
+  "children": [
+    "27290@17",
+    "31010@16",
+    "65298@16",
+    "191497@20",
+    "918648@20",
+    "952352@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

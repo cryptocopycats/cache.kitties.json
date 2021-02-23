@@ -1,0 +1,18 @@
+{
+  "id": 24112,
+  "name": "Tigar",
+  "generation": 13,
+  "created_at": "2017-12-01T19:51:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Tigar. In high school, I was voted school jock. My secret indulgence is lasagna. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "16421@8",
+  "sire": "23630@12",
+  "children": [
+    "72526@14",
+    "85151@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

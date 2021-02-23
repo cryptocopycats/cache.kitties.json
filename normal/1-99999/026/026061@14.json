@@ -1,0 +1,19 @@
+{
+  "id": 26061,
+  "name": "Lil Bub",
+  "generation": 14,
+  "created_at": "2017-12-02T02:20:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! Lil Bub here. I'm here to enjoy spinning sick beats and chasing string. When no one's home, I invite my pals over and we listen to Frank Sinatra. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "21890@5",
+  "sire": "19765@13",
+  "children": [
+    "27176@15",
+    "51075@19",
+    "102738@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 24390,
+  "name": "basic",
+  "generation": 12,
+  "created_at": "2017-12-01T20:48:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm basic. I'm often referred to as the Dwight Schrute of the group. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "language": "en",
+  "matron": "14312@11",
+  "sire": "4602@6",
+  "children": [
+    "25241@19",
+    "43191@19",
+    "52715@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

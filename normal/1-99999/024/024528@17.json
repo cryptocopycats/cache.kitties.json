@@ -1,0 +1,17 @@
+{
+  "id": 24528,
+  "name": "Dr. Klawes",
+  "generation": 17,
+  "created_at": "2017-12-01T21:12:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Dr. Klawes. In high school, I was voted most likely to work at NASA. Some people say I'm the Cersei Lannister of the group. Let's pawty!",
+  "language": "en",
+  "matron": "14804@15",
+  "sire": "14081@16",
+  "children": [
+    "58596@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

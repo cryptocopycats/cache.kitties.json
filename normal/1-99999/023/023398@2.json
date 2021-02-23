@@ -1,0 +1,28 @@
+{
+  "id": 23398,
+  "name": "Gen 2 - A",
+  "generation": 2,
+  "created_at": "2017-12-01T17:56:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Gen 2 - A. I once peed on Cleopatra's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Cleopatra. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5693@1",
+  "sire": "5825@1",
+  "children": [
+    "23846@3",
+    "23903@3",
+    "24723@3",
+    "25143@3",
+    "26319@3",
+    "26927@3",
+    "28108@3",
+    "30644@3",
+    "30742@3",
+    "60585@3",
+    "122801@3",
+    "127211@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

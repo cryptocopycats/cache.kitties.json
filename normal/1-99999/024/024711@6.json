@@ -1,0 +1,26 @@
+{
+  "id": 24711,
+  "name": "Mr. Spock | Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-01T21:43:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Mr. Spock | Gen 6. I'm a Mad Scientist by day, and I like playing chess by night. When I'm not reading Danielle Steele, I'm braiding people's hair! Our friendship will be tantalizing, raunchy, and full of chocolate.",
+  "language": "en",
+  "matron": "24632@4",
+  "sire": "24649@5",
+  "children": [
+    "32789@7",
+    "32956@7",
+    "33735@12",
+    "35103@7",
+    "55698@12",
+    "63661@9",
+    "73257@7",
+    "107620@7",
+    "169567@19",
+    "393723@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

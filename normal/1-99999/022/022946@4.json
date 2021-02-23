@@ -1,0 +1,22 @@
+{
+  "id": 22946,
+  "name": "Gen4 PL",
+  "generation": 4,
+  "created_at": "2017-12-01T14:07:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen4 PL. My friends describe me as annoying and ridiculous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "22760@3",
+  "sire": "20688@3",
+  "children": [
+    "23061@5",
+    "23311@5",
+    "23320@5",
+    "24597@5",
+    "26004@5",
+    "36548@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

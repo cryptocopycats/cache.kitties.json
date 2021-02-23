@@ -1,0 +1,25 @@
+{
+  "id": 26961,
+  "name": "Gen 3 - Brown Zebra RARE",
+  "generation": 3,
+  "created_at": "2017-12-02T05:31:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Gen 3 - Brown Zebra RARE. I once peed on Princess Diana's cat. They had it coming. I once made a platypus dance. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "19436@2",
+  "sire": "21148@2",
+  "children": [
+    "27362@4",
+    "27936@4",
+    "46733@6",
+    "48399@5",
+    "52399@4",
+    "56639@7",
+    "62036@4",
+    "78471@4",
+    "101838@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

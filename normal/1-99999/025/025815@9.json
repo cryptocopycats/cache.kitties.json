@@ -1,0 +1,20 @@
+{
+  "id": 25815,
+  "name": "Snappy Stripes",
+  "generation": 9,
+  "created_at": "2017-12-02T01:14:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Snappy Stripes. I believe the world is flat. Sometimes I daydream of a life full of shakin' dat booty, salad, and running a podcast. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25654@8",
+  "sire": "18513@7",
+  "children": [
+    "25995@10",
+    "26043@10",
+    "36828@18",
+    "41974@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27380,
+  "name": "Gold Mauveover",
+  "generation": 0,
+  "created_at": "2017-12-02T06:56:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Gold Mauveover. My friends describe me as smelly and hairy. I would give it all up to star in a soap opera. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "29197@1",
+    "33972@1",
+    "34134@1",
+    "34897@1",
+    "43454@1",
+    "43939@1",
+    "49140@1",
+    "94069@1",
+    "1643811@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

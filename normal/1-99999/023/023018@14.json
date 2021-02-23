@@ -1,0 +1,21 @@
+{
+  "id": 23018,
+  "name": "DumbKitty",
+  "generation": 14,
+  "created_at": "2017-12-01T14:57:12.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm DumbKitty. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Princess Diana. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "17712@13",
+  "sire": "5584@12",
+  "children": [
+    "34899@18",
+    "35199@15",
+    "40438@15",
+    "94664@15",
+    "268122@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

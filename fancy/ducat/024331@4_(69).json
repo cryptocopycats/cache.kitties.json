@@ -1,0 +1,23 @@
+{
+  "id": 24331,
+  "name": "#69 Ducat",
+  "generation": 4,
+  "created_at": "2017-12-01T20:39:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! My name's #69 Ducat. I once peed on Amelia Earhart's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Amelia Earhart. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23850@3",
+  "sire": "19109@3",
+  "children": [
+    "24410@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 69,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

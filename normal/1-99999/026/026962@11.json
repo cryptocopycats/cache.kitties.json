@@ -1,0 +1,19 @@
+{
+  "id": 26962,
+  "name": "gen 11",
+  "generation": 11,
+  "created_at": "2017-12-02T05:31:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm gen 11. I'm a Skydiving Instructor by day, and I like prank-calling celebrities by night. I once made a chimpanzee leap. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "24554@8",
+  "sire": "25365@10",
+  "children": [
+    "27569@12",
+    "33497@12",
+    "46075@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

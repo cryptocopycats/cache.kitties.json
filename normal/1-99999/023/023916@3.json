@@ -1,0 +1,26 @@
+{
+  "id": 23916,
+  "name": "Monsieur Lucké | Gen3",
+  "generation": 3,
+  "created_at": "2017-12-01T19:00:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Monsieur Lucké | Gen3. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of sweating through my feet, salad, and swiping right. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "22483@2",
+  "sire": "15963@2",
+  "children": [
+    "24433@4",
+    "24652@4",
+    "25037@4",
+    "25174@4",
+    "25767@4",
+    "31872@4",
+    "34421@4",
+    "37781@4",
+    "66970@4",
+    "104568@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

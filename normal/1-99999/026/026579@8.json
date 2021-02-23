@@ -1,0 +1,19 @@
+{
+  "id": 26579,
+  "name": "G8 PL",
+  "generation": 8,
+  "created_at": "2017-12-02T04:07:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! G8 PL here. I'm here to enjoy reciting poetry and glaring at the neighbour's cat. When I'm not talking about how much I lift, I'm reading Danielle Steele! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "20307@7",
+  "sire": "15445@7",
+  "children": [
+    "27706@9",
+    "27958@9",
+    "34082@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

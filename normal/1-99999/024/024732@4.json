@@ -1,0 +1,22 @@
+{
+  "id": 24732,
+  "name": "Doggycat",
+  "generation": 4,
+  "created_at": "2017-12-01T21:47:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Doggycat. I'm often referred to as the Ross Geller of the group. I once made a rhino pester. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "15868@3",
+  "sire": "12766@3",
+  "children": [
+    "33358@5",
+    "63888@5",
+    "103118@5",
+    "114855@5",
+    "120130@5",
+    "148642@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

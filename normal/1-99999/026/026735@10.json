@@ -1,0 +1,23 @@
+{
+  "id": 26735,
+  "name": "G10 SLOW",
+  "generation": 10,
+  "created_at": "2017-12-02T04:40:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm G10 SLOW. I'm a professional Foreign Film Director and I love chocolate. My secret indulgence is apple pie. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "26576@9",
+  "sire": "26508@5",
+  "children": [
+    "27074@17",
+    "29070@11",
+    "37407@17",
+    "51324@19",
+    "87968@11",
+    "211122@13",
+    "342955@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

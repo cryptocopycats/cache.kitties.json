@@ -1,0 +1,20 @@
+{
+  "id": 23365,
+  "name": "Simple Guy",
+  "generation": 17,
+  "created_at": "2017-12-01T17:54:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Simple Guy. I enjoy breakdancing, glaring at the neighbour's cat, and picking on mice. In my free time, I can usually be found prickly or practicing witchcraft. I like your face.",
+  "language": "en",
+  "matron": "11842@16",
+  "sire": "15815@9",
+  "children": [
+    "38835@18",
+    "53994@18",
+    "94829@18",
+    "360077@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

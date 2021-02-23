@@ -1,0 +1,21 @@
+{
+  "id": 23013,
+  "name": "Govnyuk",
+  "generation": 17,
+  "created_at": "2017-12-01T14:53:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Govnyuk. My friends describe me as hairy and despicable. I once got in a fight with a dog, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19879@4",
+  "sire": "20206@16",
+  "children": [
+    "27469@19",
+    "31221@18",
+    "65893@19",
+    "94491@21",
+    "257314@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

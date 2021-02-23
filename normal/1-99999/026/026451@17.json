@@ -1,0 +1,19 @@
+{
+  "id": 26451,
+  "name": "Mr?",
+  "generation": 17,
+  "created_at": "2017-12-02T03:50:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Mr?. I enjoy reciting poetry, riding unicorns, and breakdancing. I would give it all up to star in a soap opera. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "16807@16",
+  "sire": "20947@14",
+  "children": [
+    "28951@18",
+    "35173@18",
+    "90264@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

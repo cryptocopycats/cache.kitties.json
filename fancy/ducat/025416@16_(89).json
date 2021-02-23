@@ -1,0 +1,26 @@
+{
+  "id": 25416,
+  "name": "☻ Gen 16 / Sluggish / Ducat ☻",
+  "generation": 16,
+  "created_at": "2017-12-01T23:52:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm ☻ Gen 16 / Sluggish / Ducat ☻. I want to live in a world where people believe the world is flat. Some people say I'm the Niles Crane of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "2448@0",
+  "sire": "24993@15",
+  "children": [
+    "26569@17",
+    "32797@17",
+    "91800@17",
+    "195424@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 89,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

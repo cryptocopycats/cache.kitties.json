@@ -1,0 +1,26 @@
+{
+  "id": 28102,
+  "name": "Gen 2 Emeraldgreen chestnut",
+  "generation": 2,
+  "created_at": "2017-12-02T09:25:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Gen 2 Emeraldgreen chestnut. I'm a Private Dancer  by day, and I like volunteering at the local kitten rescue shelter by night. I once got in a fight with a gecko, and won. Let's get busy!",
+  "language": "en",
+  "matron": "26810@1",
+  "sire": "26222@1",
+  "children": [
+    "31207@3",
+    "31521@4",
+    "31641@5",
+    "38305@3",
+    "38837@3",
+    "46123@12",
+    "54566@9",
+    "123152@3",
+    "214048@3",
+    "317608@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

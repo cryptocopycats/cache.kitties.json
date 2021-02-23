@@ -1,0 +1,19 @@
+{
+  "id": 26164,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-12-02T02:47:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 17. I'm a Mad Scientist by day, and I like siring for status by night. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "23637@16",
+  "sire": "23834@15",
+  "children": [
+    "26449@18",
+    "40057@18",
+    "68984@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

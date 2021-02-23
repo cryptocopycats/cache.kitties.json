@@ -1,0 +1,19 @@
+{
+  "id": 24998,
+  "name": "Spotsky",
+  "generation": 17,
+  "created_at": "2017-12-01T22:53:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Spotsky. My friends describe me as wondrous and raunchy. I once made a gecko jump. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8040@15",
+  "sire": "19328@16",
+  "children": [
+    "70369@22",
+    "81216@18",
+    "333260@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

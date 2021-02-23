@@ -1,0 +1,24 @@
+{
+  "id": 27038,
+  "name": "Snoopy Gen0",
+  "generation": 1,
+  "created_at": "2017-12-02T05:46:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Snoopy Gen0. I enjoy breakdancing, tricking babies, and licking doorknobs. I am 76% troll, 0% Train Conductor, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "20913@0",
+  "sire": "18054@0",
+  "children": [
+    "46077@9",
+    "46817@4",
+    "60617@9",
+    "63674@11",
+    "69543@2",
+    "72514@2",
+    "78210@12",
+    "84792@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

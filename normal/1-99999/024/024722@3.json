@@ -1,0 +1,25 @@
+{
+  "id": 24722,
+  "name": "Whiskers",
+  "generation": 3,
+  "created_at": "2017-12-01T21:46:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! Whiskers here. I'm here to enjoy tripping my owner and shakin' dat booty. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "24529@2",
+  "sire": "24639@1",
+  "children": [
+    "24884@10",
+    "26780@4",
+    "53142@4",
+    "54938@4",
+    "72678@4",
+    "78014@4",
+    "79862@4",
+    "93711@4",
+    "114460@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

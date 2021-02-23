@@ -1,0 +1,24 @@
+{
+  "id": 26987,
+  "name": "Bubblegum Salmon!",
+  "generation": 10,
+  "created_at": "2017-12-02T05:35:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Bubblegum Salmon!. I've never told anyone this, but I once loved a dog. I was voted school jock in college. Will you be the peanut butter to my marmalade?",
+  "language": "en",
+  "matron": "26288@4",
+  "sire": "26593@9",
+  "children": [
+    "27528@15",
+    "31013@15",
+    "35166@12",
+    "38831@13",
+    "49122@17",
+    "82158@17",
+    "116429@18",
+    "205758@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

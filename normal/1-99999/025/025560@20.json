@@ -1,0 +1,18 @@
+{
+  "id": 25560,
+  "name": "Supreme Pizza Overlord",
+  "generation": 20,
+  "created_at": "2017-12-02T00:20:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Supreme Pizza Overlord. I've never told anyone this, but I once pranced with a dog. I once got in a fight with a platypus, and won. Let's get busy!",
+  "language": "en",
+  "matron": "19071@18",
+  "sire": "21034@19",
+  "children": [
+    "87265@21",
+    "136900@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

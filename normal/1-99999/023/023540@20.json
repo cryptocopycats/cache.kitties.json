@@ -1,0 +1,19 @@
+{
+  "id": 23540,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-01T18:12:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #23540. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "22488@12",
+  "sire": "22479@19",
+  "children": [
+    "31743@21",
+    "93084@21",
+    "199544@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

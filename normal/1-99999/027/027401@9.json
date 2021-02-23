@@ -1,0 +1,19 @@
+{
+  "id": 27401,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-02T06:58:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #27401. I've never told anyone this, but I once snuggled a dog. When I'm not people-watching, I'm pole dancing! I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "10539@8",
+  "sire": "4822@7",
+  "children": [
+    "35795@11",
+    "51686@12",
+    "55572@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

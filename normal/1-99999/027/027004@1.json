@@ -1,0 +1,29 @@
+{
+  "id": 27004,
+  "name": "Gen 1 gold",
+  "generation": 1,
+  "created_at": "2017-12-02T05:37:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Gen 1 gold. I enjoy staying woke, being a nevernude, and taking selfies. I'm often described as annoying, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "26814@0",
+  "sire": "25392@0",
+  "children": [
+    "27056@2",
+    "31132@2",
+    "31293@2",
+    "34802@9",
+    "34826@5",
+    "36901@5",
+    "44857@5",
+    "46627@5",
+    "63116@5",
+    "73853@4",
+    "103504@4",
+    "123847@2",
+    "176286@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

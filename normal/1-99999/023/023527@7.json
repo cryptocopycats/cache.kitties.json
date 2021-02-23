@@ -1,0 +1,23 @@
+{
+  "id": 23527,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-01T18:09:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Gen 7. All you need to know about me is I hate hamburgers with a passion. I once loved a dolphin. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21544@6",
+  "sire": "14797@3",
+  "children": [
+    "23980@18",
+    "24314@17",
+    "25661@12",
+    "31016@13",
+    "37677@13",
+    "59376@9",
+    "184051@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

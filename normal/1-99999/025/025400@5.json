@@ -1,0 +1,20 @@
+{
+  "id": 25400,
+  "name": "Gen5 Emeraldgreen",
+  "generation": 5,
+  "created_at": "2017-12-01T23:48:02.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Gen5 Emeraldgreen. I believe that one day cats will rule this planet. I am 82% troll, 27% Foreign Film Director, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15788@4",
+  "sire": "21336@4",
+  "children": [
+    "27689@6",
+    "27747@6",
+    "35904@6",
+    "38756@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

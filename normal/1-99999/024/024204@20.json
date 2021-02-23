@@ -1,0 +1,17 @@
+{
+  "id": 24204,
+  "name": "Satoshi Nacatmoto",
+  "generation": 20,
+  "created_at": "2017-12-01T20:13:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Satoshi Nacatmoto. My friends describe me as petulant and brilliant. Sometimes I daydream of a life full of hitting on yo' man, ice cream, and swiping right. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "20978@16",
+  "sire": "22569@19",
+  "children": [
+    "68369@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

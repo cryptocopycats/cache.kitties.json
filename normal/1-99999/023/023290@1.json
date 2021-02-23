@@ -1,0 +1,30 @@
+{
+  "id": 23290,
+  "name": "Kelly",
+  "generation": 1,
+  "created_at": "2017-12-01T16:57:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kelly. All you need to know about me is I hate cereal with a passion. I once dreamed of being a Spin Instructor . Now I can be found people-watching all day. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "1203@0",
+  "sire": "2149@0",
+  "children": [
+    "28265@4",
+    "28669@11",
+    "40000@2",
+    "40196@2",
+    "45902@2",
+    "48394@2",
+    "55969@2",
+    "63789@2",
+    "78917@2",
+    "94242@2",
+    "117440@2",
+    "163911@2",
+    "239285@2",
+    "400095@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

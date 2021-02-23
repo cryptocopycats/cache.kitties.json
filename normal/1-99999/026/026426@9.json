@@ -1,0 +1,24 @@
+{
+  "id": 26426,
+  "name": "Cutie-Pie",
+  "generation": 9,
+  "created_at": "2017-12-02T03:46:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Cutie-Pie. I've never told anyone this, but I once pawed at a dog. I once made a chimpanzee pester. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "26212@8",
+  "sire": "18834@5",
+  "children": [
+    "26665@10",
+    "26974@10",
+    "27590@10",
+    "33661@15",
+    "36581@15",
+    "64804@10",
+    "185405@17",
+    "210362@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

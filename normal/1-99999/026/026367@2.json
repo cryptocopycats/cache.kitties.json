@@ -1,0 +1,25 @@
+{
+  "id": 26367,
+  "name": "Gen 2 | Catoshi Nakamoto",
+  "generation": 2,
+  "created_at": "2017-12-02T03:36:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 2 | Catoshi Nakamoto. I'm a Skydiving Instructor by day, and I like pole dancing by night. Some people say I'm the Frodo Baggins of the group. Our friendship will be smelly, hairy, and full of cereal.",
+  "language": "en",
+  "matron": "25904@1",
+  "sire": "20651@1",
+  "children": [
+    "26417@3",
+    "26531@3",
+    "32020@3",
+    "49172@3",
+    "70820@3",
+    "73490@3",
+    "101906@3",
+    "110123@3",
+    "113643@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

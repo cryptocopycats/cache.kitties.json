@@ -1,0 +1,21 @@
+{
+  "id": 23924,
+  "name": "Totes McGotes",
+  "generation": 15,
+  "created_at": "2017-12-01T19:04:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Totes McGotes. I'm often referred to as the Peter Griffin of the group. I like to listen to Coldplay while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "16093@14",
+  "sire": "16767@11",
+  "children": [
+    "28304@16",
+    "30828@23",
+    "40745@19",
+    "103215@16",
+    "202439@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 24373,
+  "name": "Gen3",
+  "generation": 3,
+  "created_at": "2017-12-01T20:46:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Gen3. My friends describe me as annoying and seductive. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found mocking dogs all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "24052@2",
+  "sire": "19204@2",
+  "children": [
+    "24440@4",
+    "24717@4",
+    "25685@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

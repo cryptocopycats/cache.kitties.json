@@ -1,0 +1,20 @@
+{
+  "id": 24892,
+  "name": "Gen 16 Bubblegum Spock",
+  "generation": 16,
+  "created_at": "2017-12-01T22:19:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Gen 16 Bubblegum Spock. I'm a professional Train Conductor and I love chocolate. I once made a chimpanzee ignore. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "19035@5",
+  "sire": "21679@15",
+  "children": [
+    "25130@17",
+    "91339@17",
+    "234820@19",
+    "335943@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

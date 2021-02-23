@@ -1,0 +1,19 @@
+{
+  "id": 26700,
+  "name": "Starter",
+  "generation": 17,
+  "created_at": "2017-12-02T04:31:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Starter. I've never told anyone this, but I once headbutted a dog. I'm often described as preposterous, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26018@9",
+  "sire": "20888@16",
+  "children": [
+    "29174@20",
+    "32763@18",
+    "138333@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

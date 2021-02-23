@@ -1,0 +1,22 @@
+{
+  "id": 23315,
+  "name": "skeet",
+  "generation": 6,
+  "created_at": "2017-12-01T17:32:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm skeet. In high school, I was voted biggest teacher's pet. I'm often described as wondrous, and I own it. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "23079@4",
+  "sire": "23061@5",
+  "children": [
+    "24976@10",
+    "26802@10",
+    "27155@14",
+    "28256@11",
+    "31000@18",
+    "37849@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

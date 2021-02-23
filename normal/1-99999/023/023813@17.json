@@ -1,0 +1,18 @@
+{
+  "id": 23813,
+  "name": "Gen17 Starter Kitty",
+  "generation": 17,
+  "created_at": "2017-12-01T18:37:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Gen17 Starter Kitty. I once peed on Princess Diana's cat. They had it coming. I put peanut butter on everything. Like, everything: hot dogs, lasagna—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "21675@13",
+  "sire": "21563@16",
+  "children": [
+    "26037@18",
+    "56499@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

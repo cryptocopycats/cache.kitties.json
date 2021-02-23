@@ -1,0 +1,26 @@
+{
+  "id": 28010,
+  "name": "Gen 3 | Bloodred",
+  "generation": 3,
+  "created_at": "2017-12-02T09:05:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 3 | Bloodred. I believe the world is flat. I once bit a rooster. I don't like to talk about it. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "27868@2",
+  "sire": "27993@2",
+  "children": [
+    "29104@4",
+    "29189@4",
+    "29285@4",
+    "29444@4",
+    "42335@4",
+    "44121@4",
+    "49178@11",
+    "53631@4",
+    "111872@4",
+    "194709@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

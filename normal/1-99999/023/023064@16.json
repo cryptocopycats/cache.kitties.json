@@ -1,0 +1,19 @@
+{
+  "id": 23064,
+  "name": "23",
+  "generation": 16,
+  "created_at": "2017-12-01T15:14:40.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm 23. My friends describe me as preposterous and hairy. I once dreamed of being a Private Dancer . Now I can be found riding the bus all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11861@13",
+  "sire": "19664@15",
+  "children": [
+    "68388@17",
+    "105910@17",
+    "160800@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

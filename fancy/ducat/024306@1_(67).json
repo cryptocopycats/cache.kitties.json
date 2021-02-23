@@ -1,0 +1,30 @@
+{
+  "id": 24306,
+  "name": "🥇 G1 Ducat 💯#67",
+  "generation": 1,
+  "created_at": "2017-12-01T20:33:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm 🥇 G1 Ducat 💯#67. I want to live in a world where people believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "20792@0",
+  "sire": "21810@0",
+  "children": [
+    "24501@2",
+    "24954@2",
+    "31581@2",
+    "33204@2",
+    "33948@2",
+    "34980@2",
+    "51596@2",
+    "163920@2"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 67,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

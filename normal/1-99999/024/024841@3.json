@@ -1,0 +1,23 @@
+{
+  "id": 24841,
+  "name": "g3 brisk",
+  "generation": 3,
+  "created_at": "2017-12-01T22:03:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm g3 brisk. I've never told anyone this, but I once clawed a dog. I once made a rhino jump. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "24372@2",
+  "sire": "3111@2",
+  "children": [
+    "25559@4",
+    "25636@4",
+    "34195@4",
+    "34895@4",
+    "35375@4",
+    "260934@4",
+    "591398@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

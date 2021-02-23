@@ -1,0 +1,21 @@
+{
+  "id": 24593,
+  "name": "Blue Kitty",
+  "generation": 15,
+  "created_at": "2017-12-01T21:24:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Blue Kitty. I believe the world is flat. I once got in a fight with a rooster, and won. Let's pawty!",
+  "language": "en",
+  "matron": "10518@12",
+  "sire": "14395@14",
+  "children": [
+    "37777@18",
+    "84024@16",
+    "149790@16",
+    "203325@16",
+    "257158@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

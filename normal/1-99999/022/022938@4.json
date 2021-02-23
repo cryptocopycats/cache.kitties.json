@@ -1,0 +1,21 @@
+{
+  "id": 22938,
+  "name": "G4 Orange Gecko",
+  "generation": 4,
+  "created_at": "2017-12-01T14:06:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's G4 Orange Gecko. I once peed on King Henry VIII's cat. They had it coming. I once got in a fight with a gecko, and won. Will you be the marmalade to my wasabi?",
+  "language": "en",
+  "matron": "22239@2",
+  "sire": "22810@3",
+  "children": [
+    "23002@5",
+    "23153@5",
+    "25161@5",
+    "102075@5",
+    "228211@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

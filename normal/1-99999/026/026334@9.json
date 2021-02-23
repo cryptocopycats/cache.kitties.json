@@ -1,0 +1,20 @@
+{
+  "id": 26334,
+  "name": "Rodney Thunderstomp",
+  "generation": 9,
+  "created_at": "2017-12-02T03:28:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Rodney Thunderstomp. I'm often referred to as the Bart Simpson of the group. My secret indulgence is ice cream. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "25850@8",
+  "sire": "24708@8",
+  "children": [
+    "32539@18",
+    "32609@15",
+    "51171@10",
+    "56927@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

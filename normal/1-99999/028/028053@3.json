@@ -1,0 +1,24 @@
+{
+  "id": 28053,
+  "name": "Gen3 Swift Grumpys",
+  "generation": 3,
+  "created_at": "2017-12-02T09:15:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen3 Swift Grumpys. I believe that one day cats will rule this planet. I'm often described as smelly, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "22595@2",
+  "sire": "26748@2",
+  "children": [
+    "29167@4",
+    "29245@4",
+    "35719@12",
+    "40844@16",
+    "42817@4",
+    "46100@4",
+    "71781@4",
+    "84355@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

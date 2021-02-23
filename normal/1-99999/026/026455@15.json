@@ -1,0 +1,22 @@
+{
+  "id": 26455,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-02T03:50:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #26455. I enjoy riding unicorns, staying woke, and hitting on yo' man. I put wasabi on everything. Like, everything: hot dogs, cantaloupe—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "19004@11",
+  "sire": "16473@14",
+  "children": [
+    "26561@16",
+    "28045@16",
+    "30599@16",
+    "40063@16",
+    "63841@16",
+    "147329@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 25374,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-01T23:43:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #25374. My friends describe me as seductive and gorgeous. When no one's home, I invite my pals over and we listen to Ace of Base. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15683@17",
+  "sire": "21406@19",
+  "children": [
+    "33651@21",
+    "96921@21",
+    "201183@21",
+    "357224@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

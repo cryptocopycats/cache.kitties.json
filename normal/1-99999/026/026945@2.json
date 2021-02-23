@@ -1,0 +1,22 @@
+{
+  "id": 26945,
+  "name": "Mishka",
+  "generation": 2,
+  "created_at": "2017-12-02T05:29:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Mishka. In high school, I was voted school jock. Some people say I'm the Homer Simpson of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "26810@1",
+  "sire": "26372@1",
+  "children": [
+    "27485@3",
+    "27555@3",
+    "27729@3",
+    "31305@3",
+    "31822@3",
+    "37343@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

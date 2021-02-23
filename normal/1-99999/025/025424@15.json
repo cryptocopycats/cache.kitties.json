@@ -1,0 +1,18 @@
+{
+  "id": 25424,
+  "name": "Home",
+  "generation": 15,
+  "created_at": "2017-12-01T23:53:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Home. I'm often referred to as the Marge Simpson of the group. I am 9% elf, 14% Skydiving Instructor, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "23399@14",
+  "sire": "22345@0",
+  "children": [
+    "30908@16",
+    "298281@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

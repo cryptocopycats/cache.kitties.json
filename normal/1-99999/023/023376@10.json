@@ -1,0 +1,24 @@
+{
+  "id": 23376,
+  "name": "Mr. Tigerpunk",
+  "generation": 10,
+  "created_at": "2017-12-01T17:55:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Mr. Tigerpunk. My friends describe me as annoying and petulant. My secret indulgence is wet food. Will you be the marmalade to my wasabi?",
+  "language": "en",
+  "matron": "21691@9",
+  "sire": "16134@4",
+  "children": [
+    "28469@13",
+    "29091@16",
+    "34654@16",
+    "44393@15",
+    "85191@16",
+    "92245@17",
+    "191484@11",
+    "442859@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

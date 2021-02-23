@@ -1,0 +1,19 @@
+{
+  "id": 26681,
+  "name": "Noodle",
+  "generation": 20,
+  "created_at": "2017-12-02T04:28:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Noodle. My friends describe me as seductive and voluptuous. I like to listen to Michael Bolton while grooming. Don't judge me. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "26376@9",
+  "sire": "15221@19",
+  "children": [
+    "36143@21",
+    "54485@21",
+    "281125@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

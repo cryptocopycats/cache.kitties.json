@@ -1,0 +1,21 @@
+{
+  "id": 25483,
+  "name": "Gandalf",
+  "generation": 15,
+  "created_at": "2017-12-02T00:04:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! My name's Gandalf. I once peed on Mother Theresa's cat. They had it coming. In my free time, I can usually be found prickly or siring for status. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "20659@13",
+  "sire": "23178@14",
+  "children": [
+    "31011@16",
+    "44246@16",
+    "93548@16",
+    "128710@16",
+    "138476@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

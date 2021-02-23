@@ -1,0 +1,23 @@
+{
+  "id": 23358,
+  "name": "Rothschild",
+  "generation": 12,
+  "created_at": "2017-12-01T17:54:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Rothschild. I'm a Culinary Sanitation Specialist by day, and I like people-watching by night. I once made a goose sulk. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "22935@11",
+  "sire": "21528@7",
+  "children": [
+    "23579@13",
+    "34293@14",
+    "45906@13",
+    "51172@13",
+    "92026@15",
+    "216430@13",
+    "353105@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

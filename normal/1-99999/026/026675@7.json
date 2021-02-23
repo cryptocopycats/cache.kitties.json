@@ -1,0 +1,21 @@
+{
+  "id": 26675,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-02T04:25:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #26675. I'm a professional Spin Instructor  and I love chocolate. Some people say I'm the Dwight Schrute of the group. Let's get busy!",
+  "language": "en",
+  "matron": "25871@6",
+  "sire": "25599@3",
+  "children": [
+    "31902@19",
+    "46065@10",
+    "75289@15",
+    "93517@15",
+    "108079@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

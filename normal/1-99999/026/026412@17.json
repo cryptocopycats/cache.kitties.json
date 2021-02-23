@@ -1,0 +1,18 @@
+{
+  "id": 26412,
+  "name": "Gen17 Slow",
+  "generation": 17,
+  "created_at": "2017-12-02T03:42:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen17 Slow. I'm a Train Conductor by day, and I like riverdancing by night. My friends describe me as \"seductive.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "14344@16",
+  "sire": "14640@8",
+  "children": [
+    "31334@21",
+    "44386@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

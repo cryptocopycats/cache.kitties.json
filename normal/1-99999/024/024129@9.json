@@ -1,0 +1,22 @@
+{
+  "id": 24129,
+  "name": "SalmonSmelly",
+  "generation": 9,
+  "created_at": "2017-12-01T19:54:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm SalmonSmelly. My friends describe me as brilliant and raunchy. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "22534@6",
+  "sire": "21941@8",
+  "children": [
+    "24494@10",
+    "24552@11",
+    "33496@11",
+    "69962@10",
+    "92302@10",
+    "305072@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

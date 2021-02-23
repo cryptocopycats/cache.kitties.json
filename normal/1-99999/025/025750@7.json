@@ -1,0 +1,21 @@
+{
+  "id": 25750,
+  "name": "Gen 7 Calicool",
+  "generation": 7,
+  "created_at": "2017-12-02T01:03:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 7 Calicool. My friends describe me as wondrous and seductive. My secret indulgence is apple pie. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "16893@6",
+  "sire": "3173@1",
+  "children": [
+    "47385@12",
+    "54977@8",
+    "62874@8",
+    "68987@8",
+    "286529@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

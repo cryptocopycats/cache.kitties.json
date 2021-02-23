@@ -1,0 +1,20 @@
+{
+  "id": 25567,
+  "name": "G17 Meow",
+  "generation": 17,
+  "created_at": "2017-12-02T00:21:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm G17 Meow. I want to live in a world where people believe the world is flat. My friends describe me as \"ridiculous.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "18045@16",
+  "sire": "11648@14",
+  "children": [
+    "31160@18",
+    "45524@18",
+    "72662@21",
+    "122551@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

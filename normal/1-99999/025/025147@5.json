@@ -1,0 +1,19 @@
+{
+  "id": 25147,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-12-01T23:11:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's G5. I once peed on Cleopatra's cat. They had it coming. Sometimes I daydream of a life full of reading garfield, hamburgers, and swiping right. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "17228@4",
+  "sire": "24627@4",
+  "children": [
+    "25918@6",
+    "26640@6",
+    "28464@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

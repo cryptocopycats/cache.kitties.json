@@ -1,0 +1,20 @@
+{
+  "id": 24256,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-01T20:26:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen6. In high school, I was voted school jock. I am 42% hobbit, 92% Private Dancer , and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "24081@5",
+  "sire": "22484@5",
+  "children": [
+    "24616@7",
+    "24628@7",
+    "28321@7",
+    "28866@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

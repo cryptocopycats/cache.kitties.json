@@ -1,0 +1,22 @@
+{
+  "id": 25745,
+  "name": "Chibi Kitty",
+  "generation": 14,
+  "created_at": "2017-12-02T01:03:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Chibi Kitty. In high school, I was voted most likely to work at NASA. I am 41% fairy, 1% Mad Scientist, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "17993@13",
+  "sire": "22155@9",
+  "children": [
+    "39634@15",
+    "80795@15",
+    "120492@15",
+    "149523@15",
+    "225849@15",
+    "336205@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

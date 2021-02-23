@@ -1,0 +1,25 @@
+{
+  "id": 27053,
+  "name": "Gen3 Gold Cymric, sired Whix",
+  "generation": 3,
+  "created_at": "2017-12-02T05:52:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gen3 Gold Cymric, sired Whix. I'm often referred to as the Frodo Baggins of the group. I once dreamed of being a Train Conductor. Now I can be found tricking babies all day. Our friendship will be smelly, preposterous, and full of hamburgers.",
+  "language": "en",
+  "matron": "26918@1",
+  "sire": "26917@2",
+  "children": [
+    "27329@4",
+    "27482@4",
+    "27672@4",
+    "27957@4",
+    "34143@4",
+    "37348@4",
+    "40672@4",
+    "49028@4",
+    "61733@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

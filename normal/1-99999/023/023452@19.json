@@ -1,0 +1,18 @@
+{
+  "id": 23452,
+  "name": "Tigerpunk",
+  "generation": 19,
+  "created_at": "2017-12-01T18:06:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Tigerpunk. I want to live in a world where people believe that one day cats will rule this planet. I put marmalade on everything. Like, everything: hot dogs, salad—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14404@18",
+  "sire": "18034@10",
+  "children": [
+    "58763@20",
+    "86538@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27510,
+  "name": "Lady Fluff",
+  "generation": 14,
+  "created_at": "2017-12-02T07:20:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Lady Fluff. I've never told anyone this, but I once loved a dog. Sometimes I daydream of a life full of reciting poetry, ice cream, and swiping right. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "25735@13",
+  "sire": "10794@12",
+  "children": [
+    "27668@15",
+    "31222@16",
+    "43348@15",
+    "89237@15",
+    "225837@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

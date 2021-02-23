@@ -1,0 +1,19 @@
+{
+  "id": 26329,
+  "name": "Gen 18 Scarlet Cheese",
+  "generation": 18,
+  "created_at": "2017-12-02T03:28:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 18 Scarlet Cheese. I enjoy riding unicorns, riding dirty, and chasing string. Some people say I'm the Jon Snow of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "25848@6",
+  "sire": "26034@17",
+  "children": [
+    "31288@19",
+    "48957@19",
+    "109733@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

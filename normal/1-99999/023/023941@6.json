@@ -1,0 +1,22 @@
+{
+  "id": 23941,
+  "name": "Vinny Vertcoin",
+  "generation": 6,
+  "created_at": "2017-12-01T19:07:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Vinny Vertcoin. I've never told anyone this, but I once frolicked with a dog. I would give it all up to star in a soap opera. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "23864@5",
+  "sire": "22010@5",
+  "children": [
+    "31143@11",
+    "45447@14",
+    "45933@8",
+    "46285@11",
+    "53588@14",
+    "72414@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

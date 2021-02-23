@@ -1,0 +1,19 @@
+{
+  "id": 24893,
+  "name": "Rare BubbleGum White",
+  "generation": 10,
+  "created_at": "2017-12-01T22:19:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Rare BubbleGum White. All you need to know about me is I hate cereal with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "24298@1",
+  "sire": "24780@9",
+  "children": [
+    "26935@11",
+    "30809@11",
+    "34435@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

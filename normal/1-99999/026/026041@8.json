@@ -1,0 +1,22 @@
+{
+  "id": 26041,
+  "name": "Fabulous",
+  "generation": 8,
+  "created_at": "2017-12-02T02:18:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Fabulous. I'm a Private Dancer  by day, and I like jump-roping by night. My friends describe me as \"raunchy.\" It's... accurate. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "16887@7",
+  "sire": "25482@4",
+  "children": [
+    "26425@9",
+    "26576@9",
+    "27081@9",
+    "28302@9",
+    "32150@9",
+    "44499@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

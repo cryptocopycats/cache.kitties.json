@@ -1,0 +1,20 @@
+{
+  "id": 25994,
+  "name": "Snowball",
+  "generation": 17,
+  "created_at": "2017-12-02T02:06:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Snowball. I'm a Foreign Film Director by day, and I like reading Danielle Steele by night. I was voted biggest teacher's pet in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23516@16",
+  "sire": "23525@16",
+  "children": [
+    "29162@18",
+    "33719@18",
+    "63066@18",
+    "222430@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

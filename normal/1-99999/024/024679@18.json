@@ -1,0 +1,19 @@
+{
+  "id": 24679,
+  "name": "Gatto",
+  "generation": 18,
+  "created_at": "2017-12-01T21:38:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gatto. I'm often referred to as the Ron Weasley of the group. I once got in a fight with a gecko, and won. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "8066@15",
+  "sire": "10138@17",
+  "children": [
+    "368879@19",
+    "430734@19",
+    "466778@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

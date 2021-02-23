@@ -1,0 +1,25 @@
+{
+  "id": 25817,
+  "name": "G4 ⚡ SCARLET C",
+  "generation": 4,
+  "created_at": "2017-12-02T01:14:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm G4 ⚡ SCARLET C. I'm often referred to as the Ron Weasley of the group. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "24022@3",
+  "sire": "20018@3",
+  "children": [
+    "28250@5",
+    "31323@5",
+    "34023@5",
+    "34487@5",
+    "39953@5",
+    "42507@5",
+    "55368@11",
+    "63738@7",
+    "111210@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

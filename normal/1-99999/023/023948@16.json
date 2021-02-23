@@ -1,0 +1,19 @@
+{
+  "id": 23948,
+  "name": "Shavy",
+  "generation": 16,
+  "created_at": "2017-12-01T19:10:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Shavy. I'm often referred to as the Frodo Baggins of the group. I was voted school jock in college. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "19085@15",
+  "sire": "19755@13",
+  "children": [
+    "28844@17",
+    "32724@17",
+    "285774@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

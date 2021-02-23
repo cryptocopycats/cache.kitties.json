@@ -1,0 +1,17 @@
+{
+  "id": 24074,
+  "name": "Gen17 Slow",
+  "generation": 17,
+  "created_at": "2017-12-01T19:42:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Gen17 Slow. My friends describe me as wondrous and fabulous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "22914@0",
+  "sire": "17451@16",
+  "children": [
+    "31850@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

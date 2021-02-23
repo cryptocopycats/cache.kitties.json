@@ -1,0 +1,19 @@
+{
+  "id": 25174,
+  "name": "Gen 4 | Gen4 | Shadow",
+  "generation": 4,
+  "created_at": "2017-12-01T23:12:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen 4 | Gen4 | Shadow. I'm a professional Train Conductor and I love ice cream. I like to listen to Rihanna while grooming. Don't judge me. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "24880@3",
+  "sire": "23916@3",
+  "children": [
+    "37961@5",
+    "41911@5",
+    "68350@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

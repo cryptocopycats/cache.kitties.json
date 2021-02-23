@@ -1,0 +1,22 @@
+{
+  "id": 24020,
+  "name": "Gen9 Plodding",
+  "generation": 9,
+  "created_at": "2017-12-01T19:27:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen9 Plodding. I've never told anyone this, but I once snuggled a dog. My friends describe me as \"voluptuous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "23971@2",
+  "sire": "21971@8",
+  "children": [
+    "24030@10",
+    "25210@16",
+    "29069@19",
+    "31134@10",
+    "34050@14",
+    "76626@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

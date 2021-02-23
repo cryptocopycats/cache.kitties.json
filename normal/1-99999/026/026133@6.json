@@ -1,0 +1,19 @@
+{
+  "id": 26133,
+  "name": "G6 Brisk",
+  "generation": 6,
+  "created_at": "2017-12-02T02:39:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm G6 Brisk. I'm often referred to as the Dwight Schrute of the group. When no one's home, I invite my pals over and we listen to Rihanna. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "19666@5",
+  "sire": "22512@5",
+  "children": [
+    "26219@8",
+    "33299@19",
+    "261468@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

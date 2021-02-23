@@ -1,0 +1,23 @@
+{
+  "id": 26212,
+  "name": "Page",
+  "generation": 8,
+  "created_at": "2017-12-02T03:11:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Page. All you need to know about me is I hate steak with a passion. When no one's home, I invite my pals over and we listen to Rihanna. Let's get busy!",
+  "language": "en",
+  "matron": "17243@7",
+  "sire": "17777@7",
+  "children": [
+    "26426@9",
+    "26891@9",
+    "29929@9",
+    "31650@9",
+    "36282@12",
+    "41774@9",
+    "72725@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

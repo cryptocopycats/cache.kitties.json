@@ -1,0 +1,18 @@
+{
+  "id": 23814,
+  "name": "Gen 19 | Cosmo",
+  "generation": 19,
+  "created_at": "2017-12-01T18:37:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 19 | Cosmo. I've never told anyone this, but I once licked a dog. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19330@18",
+  "sire": "18851@12",
+  "children": [
+    "62658@20",
+    "80144@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

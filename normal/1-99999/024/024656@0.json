@@ -1,0 +1,26 @@
+{
+  "id": 24656,
+  "name": "大吉大利",
+  "generation": 0,
+  "created_at": "2017-12-01T21:34:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 大吉大利. I'm often referred to as the Niles Crane of the group. Some people say I'm the Niles Crane of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "25804@1",
+    "25837@1",
+    "27853@1",
+    "27931@1",
+    "28055@1",
+    "29333@1",
+    "45061@1",
+    "65503@1",
+    "88515@1",
+    "114104@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24400,
+  "name": "G15 | Slow",
+  "generation": 15,
+  "created_at": "2017-12-01T20:49:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G15 | Slow. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "22012@14",
+  "sire": "21910@14",
+  "children": [
+    "34566@16",
+    "84778@17",
+    "85050@16",
+    "116850@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 26612,
+  "name": "Wilder",
+  "generation": 9,
+  "created_at": "2017-12-02T04:12:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Wilder. I'm a professional Private Dancer  and I love ice cream. My friends describe me as \"seductive.\" It's... accurate. Our friendship will be gorgeous, petulant, and full of wet food.",
+  "language": "en",
+  "matron": "26093@7",
+  "sire": "25528@8",
+  "children": [
+    "34825@13",
+    "43889@10",
+    "51008@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

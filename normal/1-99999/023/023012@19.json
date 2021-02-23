@@ -1,0 +1,20 @@
+{
+  "id": 23012,
+  "name": "First lotz kitty",
+  "generation": 19,
+  "created_at": "2017-12-01T14:53:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! First lotz kitty here. I'm here to enjoy tricking babies and chasing string. It's not common knowledge, but my ancestry connects me to Mother Theresa. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "12191@16",
+  "sire": "17615@18",
+  "children": [
+    "29427@20",
+    "38750@20",
+    "46025@20",
+    "181887@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

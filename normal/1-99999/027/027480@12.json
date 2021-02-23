@@ -1,0 +1,20 @@
+{
+  "id": 27480,
+  "name": "Meowly Cyrus",
+  "generation": 12,
+  "created_at": "2017-12-02T07:14:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Meowly Cyrus. All you need to know about me is I hate hamburgers with a passion. I am 50% hobbit, 47% Skydiving Instructor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "15379@11",
+  "sire": "11900@10",
+  "children": [
+    "28047@19",
+    "29498@19",
+    "37707@16",
+    "66288@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

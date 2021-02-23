@@ -1,0 +1,17 @@
+{
+  "id": 27665,
+  "name": "Gen4 SN",
+  "generation": 4,
+  "created_at": "2017-12-02T07:50:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen4 SN. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Niles Crane of the group. Our friendship will be preposterous, gullible, and full of chocolate.",
+  "language": "en",
+  "matron": "26939@3",
+  "sire": "20688@3",
+  "children": [
+    "34027@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

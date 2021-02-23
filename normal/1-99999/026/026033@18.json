@@ -1,0 +1,18 @@
+{
+  "id": 26033,
+  "name": "Cream Puff",
+  "generation": 18,
+  "created_at": "2017-12-02T02:14:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! Cream Puff here. I'm here to enjoy chasing red dots and eating lasagna. Some people say I'm the Homer Simpson of the group. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "23588@16",
+  "sire": "23615@17",
+  "children": [
+    "39245@19",
+    "76212@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

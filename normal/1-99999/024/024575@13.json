@@ -1,0 +1,24 @@
+{
+  "id": 24575,
+  "name": "Dirk",
+  "generation": 13,
+  "created_at": "2017-12-01T21:19:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Dirk. I enjoy eating lasagna, glaring at the neighbour's cat, and picking on mice. Some people say I'm the Jon Snow of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "23985@12",
+  "sire": "22376@8",
+  "children": [
+    "26459@18",
+    "26847@18",
+    "28339@14",
+    "32112@14",
+    "45999@14",
+    "275224@14",
+    "295770@14",
+    "461709@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

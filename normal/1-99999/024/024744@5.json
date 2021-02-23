@@ -1,0 +1,20 @@
+{
+  "id": 24744,
+  "name": "LemonBubble G5",
+  "generation": 5,
+  "created_at": "2017-12-01T21:49:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! My name's LemonBubble G5. I once peed on Nelson Mandela's cat. They had it coming. In my free time, I can usually be found seductive or pole dancing. Let's pawty!",
+  "language": "en",
+  "matron": "23743@1",
+  "sire": "24492@4",
+  "children": [
+    "25601@14",
+    "36841@20",
+    "57344@8",
+    "92351@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

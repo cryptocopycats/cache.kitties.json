@@ -1,0 +1,20 @@
+{
+  "id": 26365,
+  "name": "Yeezy",
+  "generation": 15,
+  "created_at": "2017-12-02T03:36:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Yeezy. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to be on Oprah. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25162@14",
+  "sire": "25256@13",
+  "children": [
+    "55350@16",
+    "57958@16",
+    "60711@16",
+    "219955@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

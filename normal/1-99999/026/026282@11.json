@@ -1,0 +1,18 @@
+{
+  "id": 26282,
+  "name": "Miss Blep",
+  "generation": 11,
+  "created_at": "2017-12-02T03:15:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Miss Blep. I enjoy sitting on your computer, riding dirty, and slappin' da bass. My friends describe me as \"annoying.\" It's... accurate. Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "25662@4",
+  "sire": "26056@10",
+  "children": [
+    "33482@21",
+    "114556@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

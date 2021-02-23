@@ -1,0 +1,23 @@
+{
+  "id": 22935,
+  "name": "Einstein",
+  "generation": 11,
+  "created_at": "2017-12-01T14:06:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Einstein. I'm a Mad Scientist by day, and I like pole dancing by night. My secret indulgence is salad. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "21661@10",
+  "sire": "22376@8",
+  "children": [
+    "23358@12",
+    "24173@12",
+    "25474@13",
+    "26126@12",
+    "35691@12",
+    "55578@15",
+    "106887@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 27729,
+  "name": "Leprechaun",
+  "generation": 3,
+  "created_at": "2017-12-02T08:03:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! My name's Leprechaun. I once peed on Amelia Earhart's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "27056@2",
+  "sire": "26945@2",
+  "children": [
+    "33387@4",
+    "37698@4",
+    "37965@4",
+    "58372@4",
+    "88087@16",
+    "107030@4",
+    "116591@11",
+    "187494@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

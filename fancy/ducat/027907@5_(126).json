@@ -1,0 +1,27 @@
+{
+  "id": 27907,
+  "name": "G5 Bird-2",
+  "generation": 5,
+  "created_at": "2017-12-02T08:44:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm G5 Bird-2. I'm often referred to as the Frodo Baggins of the group. I am 88% troll, 47% Skydiving Instructor, and otherwise bad at math. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26484@4",
+  "sire": "26000@4",
+  "children": [
+    "28035@7",
+    "28167@7",
+    "30253@6",
+    "33514@6",
+    "35886@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 126,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

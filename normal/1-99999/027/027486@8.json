@@ -1,0 +1,19 @@
+{
+  "id": 27486,
+  "name": "Hawaian Kitty - Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-02T07:14:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Hawaian Kitty - Gen 8. I'm often referred to as the Peter Griffin of the group. Sometimes I daydream of a life full of eating lasagna, ice cream, and swiping left. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "26582@6",
+  "sire": "27327@7",
+  "children": [
+    "32281@9",
+    "36788@9",
+    "55823@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

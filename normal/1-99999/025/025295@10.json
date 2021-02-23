@@ -1,0 +1,20 @@
+{
+  "id": 25295,
+  "name": "G10 - Ragamuffin Lemonade",
+  "generation": 10,
+  "created_at": "2017-12-01T23:29:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G10 - Ragamuffin Lemonade. I want to live in a world where people believe the world is flat. I once got in a fight with a gecko, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23914@8",
+  "sire": "24216@9",
+  "children": [
+    "28084@15",
+    "39196@16",
+    "54840@11",
+    "105168@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

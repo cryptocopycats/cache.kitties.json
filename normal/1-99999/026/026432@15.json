@@ -1,0 +1,19 @@
+{
+  "id": 26432,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-02T03:48:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #26432. I'm often referred to as the Peter Griffin of the group. I once got in a fight with a rooster, and won. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "8758@14",
+  "sire": "8014@12",
+  "children": [
+    "31509@16",
+    "46362@22",
+    "51108@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

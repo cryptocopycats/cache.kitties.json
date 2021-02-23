@@ -1,0 +1,21 @@
+{
+  "id": 27872,
+  "name": "Purry Pete",
+  "generation": 12,
+  "created_at": "2017-12-02T08:40:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Purry Pete. I enjoy picking on mice, hitting on yo' man, and fighting the patriarchy. When no one's home, I invite my pals over and we listen to Coldplay. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "17130@10",
+  "sire": "17297@11",
+  "children": [
+    "54461@13",
+    "70770@18",
+    "82528@18",
+    "128930@16",
+    "172269@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

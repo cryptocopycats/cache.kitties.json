@@ -1,0 +1,20 @@
+{
+  "id": 25151,
+  "name": "E - GEN 13",
+  "generation": 13,
+  "created_at": "2017-12-01T23:11:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm E - GEN 13. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "24348@8",
+  "sire": "12167@12",
+  "children": [
+    "27153@14",
+    "44251@14",
+    "54090@14",
+    "60887@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

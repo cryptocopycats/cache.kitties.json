@@ -1,0 +1,19 @@
+{
+  "id": 27172,
+  "name": "Plodding",
+  "generation": 15,
+  "created_at": "2017-12-02T06:09:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Plodding. I enjoy tripping my owner, slappin' da bass, and picking flowers. I put ranch dressing on everything. Like, everything: hot dogs, chocolate—everything! Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "14570@10",
+  "sire": "18109@14",
+  "children": [
+    "28296@16",
+    "29036@16",
+    "50900@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

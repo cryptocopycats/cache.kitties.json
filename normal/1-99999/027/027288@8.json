@@ -1,0 +1,20 @@
+{
+  "id": 27288,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-02T06:34:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm 8. I'm a professional Private Dancer  and I love cantaloupe. My secret indulgence is cereal. Let's pawty!",
+  "language": "en",
+  "matron": "26448@6",
+  "sire": "27000@7",
+  "children": [
+    "32374@9",
+    "33742@10",
+    "37215@10",
+    "40585@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

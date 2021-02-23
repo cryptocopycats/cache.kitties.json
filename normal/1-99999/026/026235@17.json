@@ -1,0 +1,17 @@
+{
+  "id": 26235,
+  "name": "Stinky Pete",
+  "generation": 17,
+  "created_at": "2017-12-02T03:12:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Stinky Pete. My friends describe me as stinky and ridiculous. My secret indulgence is hamburgers. Let's pawty!",
+  "language": "en",
+  "matron": "19105@14",
+  "sire": "23593@16",
+  "children": [
+    "83258@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 26710,
+  "name": "Gen 4 Snappy Saycheese",
+  "generation": 4,
+  "created_at": "2017-12-02T04:32:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 4 Snappy Saycheese. I enjoy glaring at the neighbour's cat, reciting poetry, and hitting on yo' man. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Let's pawty!",
+  "language": "en",
+  "matron": "26606@3",
+  "sire": "26257@3",
+  "children": [
+    "26736@5",
+    "26998@5",
+    "97668@5",
+    "114707@5",
+    "117208@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 25471,
+  "name": "BOSD C",
+  "generation": 17,
+  "created_at": "2017-12-02T00:03:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm BOSD C. I'm often referred to as the Samwise Gamgee of the group. I once groomed a goose. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "23125@16",
+  "sire": "13847@11",
+  "children": [
+    "42025@18",
+    "52489@18",
+    "90187@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

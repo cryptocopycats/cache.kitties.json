@@ -1,0 +1,23 @@
+{
+  "id": 26454,
+  "name": "CAPTAIN PURRCARD",
+  "generation": 10,
+  "created_at": "2017-12-02T03:50:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm CAPTAIN PURRCARD. I'm often referred to as the Jon Snow of the group. I am 42% wizard, 48% Private Dancer , and otherwise bad at math. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "25744@9",
+  "sire": "25965@9",
+  "children": [
+    "26819@11",
+    "39176@11",
+    "57115@12",
+    "63497@11",
+    "86050@11",
+    "263355@20",
+    "285727@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

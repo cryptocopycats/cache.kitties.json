@@ -1,0 +1,18 @@
+{
+  "id": 25736,
+  "name": "My Kitty",
+  "generation": 21,
+  "created_at": "2017-12-02T00:54:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm My Kitty. I'm often referred to as the Homer Simpson of the group. My secret indulgence is ice cream. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20215@20",
+  "sire": "19550@19",
+  "children": [
+    "27923@22",
+    "69513@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

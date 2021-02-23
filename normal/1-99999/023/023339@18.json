@@ -1,0 +1,18 @@
+{
+  "id": 23339,
+  "name": "Gen 18 | Slow",
+  "generation": 18,
+  "created_at": "2017-12-01T17:51:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Gen 18 | Slow. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Beyoncé. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "18179@9",
+  "sire": "21264@17",
+  "children": [
+    "28737@19",
+    "80029@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 23997,
+  "name": "14_Mr.Gray",
+  "generation": 14,
+  "created_at": "2017-12-01T19:20:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm 14_Mr.Gray. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is ice cream. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17337@9",
+  "sire": "15018@13",
+  "children": [
+    "32880@15",
+    "84062@15",
+    "102757@15",
+    "161306@16",
+    "246088@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

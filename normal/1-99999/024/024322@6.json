@@ -1,0 +1,24 @@
+{
+  "id": 24322,
+  "name": "Best",
+  "generation": 6,
+  "created_at": "2017-12-01T20:37:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Best. I'm a Dogwalker by day, and I like mocking dogs by night. When no one's home, I invite my pals over and we listen to Wutang. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16365@5",
+  "sire": "22051@5",
+  "children": [
+    "27147@11",
+    "45952@8",
+    "52209@7",
+    "55252@7",
+    "71024@7",
+    "80353@7",
+    "105681@7",
+    "142292@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

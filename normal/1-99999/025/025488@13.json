@@ -1,0 +1,23 @@
+{
+  "id": 25488,
+  "name": "Groestl",
+  "generation": 13,
+  "created_at": "2017-12-02T00:06:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Groestl. I believe that one day cats will rule this planet. I once dreamed of being a Mad Scientist. Now I can be found watching reality tv all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "7388@10",
+  "sire": "19948@12",
+  "children": [
+    "30391@14",
+    "31915@17",
+    "68646@15",
+    "72095@18",
+    "104660@17",
+    "204080@15",
+    "224849@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

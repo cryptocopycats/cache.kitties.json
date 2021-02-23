@@ -1,0 +1,20 @@
+{
+  "id": 24433,
+  "name": "Monsieur Béard | G4",
+  "generation": 4,
+  "created_at": "2017-12-01T20:56:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Monsieur Béard | G4 here. I'm here to enjoy grooming and staying woke. I once cleaned a platypus. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "23916@3",
+  "sire": "3991@3",
+  "children": [
+    "24707@9",
+    "24709@19",
+    "72530@5",
+    "136519@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

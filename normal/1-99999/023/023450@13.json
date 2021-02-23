@@ -1,0 +1,18 @@
+{
+  "id": 23450,
+  "name": "Bubbles",
+  "generation": 13,
+  "created_at": "2017-12-01T18:06:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Bubbles. I want to live in a world where people believe the world is flat. I put cinammon on everything. Like, everything: hot dogs, cereal—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4330@12",
+  "sire": "5069@8",
+  "children": [
+    "24157@14",
+    "109568@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

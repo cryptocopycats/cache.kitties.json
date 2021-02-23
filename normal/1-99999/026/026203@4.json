@@ -1,0 +1,22 @@
+{
+  "id": 26203,
+  "name": "G4 Scarletmaker",
+  "generation": 4,
+  "created_at": "2017-12-02T03:09:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm G4 Scarletmaker. My friends describe me as brilliant and fabulous. I once made a rooster leap. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "26140@3",
+  "sire": "23499@0",
+  "children": [
+    "36556@9",
+    "141569@7",
+    "141748@8",
+    "143119@5",
+    "144816@7",
+    "152745@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

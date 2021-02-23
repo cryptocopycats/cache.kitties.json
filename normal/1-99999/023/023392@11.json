@@ -1,0 +1,19 @@
+{
+  "id": 23392,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-01T17:56:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #23392. I'm often referred to as the Hermione Granger of the group. I am 77% elf, 80% Aerobics Athlete , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "17889@3",
+  "sire": "7256@10",
+  "children": [
+    "24700@12",
+    "28062@16",
+    "66320@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

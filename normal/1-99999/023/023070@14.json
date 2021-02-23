@@ -1,0 +1,18 @@
+{
+  "id": 23070,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T15:14:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Kitty #23070. I'm often referred to as the Hermione Granger of the group. It's not common knowledge, but my ancestry connects me to Princess Diana. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "19166@13",
+  "sire": "21555@10",
+  "children": [
+    "39091@15",
+    "71022@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

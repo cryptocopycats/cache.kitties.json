@@ -1,0 +1,19 @@
+{
+  "id": 23209,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T16:18:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #23209. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14381@12",
+  "sire": "18419@16",
+  "children": [
+    "24388@18",
+    "26221@18",
+    "45898@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

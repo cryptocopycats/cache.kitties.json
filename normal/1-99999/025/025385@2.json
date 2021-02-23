@@ -1,0 +1,29 @@
+{
+  "id": 25385,
+  "name": "Blue Pharaon",
+  "generation": 2,
+  "created_at": "2017-12-01T23:46:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Blue Pharaon. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23433@1",
+  "sire": "24352@1",
+  "children": [
+    "27511@3",
+    "27600@3",
+    "27676@3",
+    "27897@3",
+    "35390@3",
+    "36632@3",
+    "40422@3",
+    "40701@3",
+    "61857@3",
+    "89014@3",
+    "107046@3",
+    "197603@3",
+    "354373@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 26019,
+  "name": "Otaku Parent",
+  "generation": 9,
+  "created_at": "2017-12-02T02:11:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Otaku Parent. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "9700@8",
+  "sire": "17538@7",
+  "children": [
+    "26444@10",
+    "27068@10",
+    "27121@10",
+    "27303@10",
+    "34229@10",
+    "57719@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

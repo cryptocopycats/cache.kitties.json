@@ -1,0 +1,18 @@
+{
+  "id": 23479,
+  "name": "Gen6 +cerulian",
+  "generation": 6,
+  "created_at": "2017-12-01T18:08:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen6 +cerulian. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "22469@5",
+  "sire": "22615@5",
+  "children": [
+    "24661@7",
+    "28677@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

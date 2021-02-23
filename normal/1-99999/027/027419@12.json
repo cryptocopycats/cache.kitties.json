@@ -1,0 +1,21 @@
+{
+  "id": 27419,
+  "name": "Chad",
+  "generation": 12,
+  "created_at": "2017-12-02T07:01:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Chad. I'm a professional Spin Instructor  and I love ice cream. I once made a moose ignore. Our friendship will be smelly, brilliant, and full of chocolate.",
+  "language": "en",
+  "matron": "26819@11",
+  "sire": "26824@9",
+  "children": [
+    "37137@13",
+    "53541@13",
+    "56173@18",
+    "81579@16",
+    "117350@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

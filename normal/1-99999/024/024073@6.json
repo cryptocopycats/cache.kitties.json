@@ -1,0 +1,18 @@
+{
+  "id": 24073,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-01T19:42:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Gen6. In high school, I was voted biggest teacher's pet. My friends describe me as \"voluptuous.\" It's... accurate. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "22704@5",
+  "sire": "17061@5",
+  "children": [
+    "24221@7",
+    "28513@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 23196,
+  "name": "Sailor G10",
+  "generation": 10,
+  "created_at": "2017-12-01T16:15:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Sailor G10. I once peed on King Henry VIII's cat. They had it coming. I am 96% hobbit, 2% Spin Instructor , and otherwise bad at math. Will you be the pickles to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "17136@6",
+  "sire": "19517@9",
+  "children": [
+    "24407@12",
+    "32353@11",
+    "41373@11",
+    "62248@11",
+    "149111@11",
+    "190534@11",
+    "280998@11",
+    "356826@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 87,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

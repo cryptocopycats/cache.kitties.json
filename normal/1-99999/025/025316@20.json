@@ -1,0 +1,17 @@
+{
+  "id": 25316,
+  "name": "Mr.Kittens",
+  "generation": 20,
+  "created_at": "2017-12-01T23:33:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Mr.Kittens. I'm often referred to as the Ron Weasley of the group. My secret indulgence is cereal. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "20827@19",
+  "sire": "21621@18",
+  "children": [
+    "59787@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

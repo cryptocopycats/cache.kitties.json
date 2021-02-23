@@ -1,0 +1,23 @@
+{
+  "id": 28031,
+  "name": "CHEAPER OTAKU",
+  "generation": 6,
+  "created_at": "2017-12-02T09:09:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm CHEAPER OTAKU. I'm often referred to as the Cersei Lannister of the group. My secret indulgence is ice cream. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "22051@5",
+  "sire": "16365@5",
+  "children": [
+    "28638@8",
+    "28869@7",
+    "35799@7",
+    "36431@7",
+    "40849@7",
+    "46855@7",
+    "58043@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

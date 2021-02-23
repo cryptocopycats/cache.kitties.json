@@ -1,0 +1,18 @@
+{
+  "id": 26878,
+  "name": "Gen6 BR",
+  "generation": 6,
+  "created_at": "2017-12-02T05:14:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! Gen6 BR here. I'm here to enjoy picking flowers and riding dirty. It's not common knowledge, but my ancestry connects me to Princess Diana. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "26829@5",
+  "sire": "16565@5",
+  "children": [
+    "26946@7",
+    "28641@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

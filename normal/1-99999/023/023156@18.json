@@ -1,0 +1,20 @@
+{
+  "id": 23156,
+  "name": "Red Eye Ragamuffin",
+  "generation": 18,
+  "created_at": "2017-12-01T16:00:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Red Eye Ragamuffin. I'm a Mad Scientist by day, and I like jump-roping by night. I put pickles on everything. Like, everything: hot dogs, apple pie—everything! I like your face.",
+  "language": "en",
+  "matron": "12035@17",
+  "sire": "13128@11",
+  "children": [
+    "51186@19",
+    "76891@20",
+    "245255@21",
+    "360353@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

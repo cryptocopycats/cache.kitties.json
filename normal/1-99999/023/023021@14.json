@@ -1,0 +1,17 @@
+{
+  "id": 23021,
+  "name": "Pete Purr",
+  "generation": 14,
+  "created_at": "2017-12-01T14:58:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Pete Purr. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "10738@13",
+  "sire": "5941@13",
+  "children": [
+    "596199@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 28086,
+  "name": "Gen 1 No.2",
+  "generation": 1,
+  "created_at": "2017-12-02T09:22:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Gen 1 No.2. In high school, I was voted biggest teacher's pet. I would give it all up for a Chanel purse. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "21688@0",
+  "sire": "22206@0",
+  "children": [
+    "83977@2",
+    "84371@2",
+    "85630@2",
+    "88876@2",
+    "93097@2",
+    "100688@2",
+    "293195@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

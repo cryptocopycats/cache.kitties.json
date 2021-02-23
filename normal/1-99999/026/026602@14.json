@@ -1,0 +1,20 @@
+{
+  "id": 26602,
+  "name": "HonHon",
+  "generation": 14,
+  "created_at": "2017-12-02T04:12:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm HonHon. I'm a professional Culinary Sanitation Specialist and I love cereal. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23010@13",
+  "sire": "25022@11",
+  "children": [
+    "37196@15",
+    "43504@15",
+    "57312@15",
+    "68396@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

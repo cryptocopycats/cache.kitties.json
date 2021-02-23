@@ -1,0 +1,23 @@
+{
+  "id": 23872,
+  "name": "Little Pirate",
+  "generation": 10,
+  "created_at": "2017-12-01T18:52:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Little Pirate. All you need to know about me is I hate wet food with a passion. In my free time, I can usually be found gorgeous or mocking dogs. Will you be the marmite to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "6753@9",
+  "sire": "6499@8",
+  "children": [
+    "345048@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 88,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23936,
+  "name": "Bernard Werber - Les fourmis",
+  "generation": 3,
+  "created_at": "2017-12-01T19:07:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Bernard Werber - Les fourmis. In high school, I was voted school jock. I once dreamed of being a Mad Scientist. Now I can be found talking about how much I lift all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23743@1",
+  "sire": "23621@2",
+  "children": [
+    "24002@13",
+    "24199@4",
+    "24492@4",
+    "24513@5",
+    "24874@6",
+    "26731@4",
+    "31821@5",
+    "38925@4",
+    "41421@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

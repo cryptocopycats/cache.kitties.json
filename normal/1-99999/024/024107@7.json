@@ -1,0 +1,18 @@
+{
+  "id": 24107,
+  "name": "Gen7",
+  "generation": 7,
+  "created_at": "2017-12-01T19:51:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Gen7. I'm a professional Dispensary Clerk and I love chocolate. I like to listen to Frank Sinatra while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "23717@6",
+  "sire": "17110@6",
+  "children": [
+    "24337@8",
+    "24617@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

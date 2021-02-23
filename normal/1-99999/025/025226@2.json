@@ -1,0 +1,25 @@
+{
+  "id": 25226,
+  "name": "Purple Calico",
+  "generation": 2,
+  "created_at": "2017-12-01T23:18:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Purple Calico. My friends describe me as voluptuous and smelly. I was voted biggest teacher's pet in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "23777@1",
+  "sire": "18531@1",
+  "children": [
+    "25593@3",
+    "191374@3",
+    "191677@3",
+    "192515@3",
+    "199175@3",
+    "202684@3",
+    "223934@4",
+    "231859@13",
+    "263046@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

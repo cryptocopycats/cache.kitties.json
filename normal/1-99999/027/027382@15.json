@@ -1,0 +1,20 @@
+{
+  "id": 27382,
+  "name": "Katosu Kamano",
+  "generation": 15,
+  "created_at": "2017-12-02T06:56:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Katosu Kamano. I'm often referred to as the Marge Simpson of the group. I once licked a labradoodle. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "21425@14",
+  "sire": "23982@9",
+  "children": [
+    "56724@16",
+    "154746@16",
+    "199414@19",
+    "237186@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

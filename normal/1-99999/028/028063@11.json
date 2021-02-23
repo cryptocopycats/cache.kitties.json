@@ -1,0 +1,21 @@
+{
+  "id": 28063,
+  "name": "G11",
+  "generation": 11,
+  "created_at": "2017-12-02T09:17:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's G11. I once peed on King Henry VIII's cat. They had it coming. I would give it all up for a Chanel purse. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "19578@7",
+  "sire": "26404@10",
+  "children": [
+    "30300@18",
+    "32900@13",
+    "41113@15",
+    "65915@12",
+    "104291@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

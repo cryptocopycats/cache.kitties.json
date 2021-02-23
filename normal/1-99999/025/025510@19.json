@@ -1,0 +1,19 @@
+{
+  "id": 25510,
+  "name": "Dr. Indiana Meownes",
+  "generation": 19,
+  "created_at": "2017-12-02T00:11:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Dr. Indiana Meownes. I believe that one day cats will rule this planet. Some people say I'm the Steve Urkel of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19813@18",
+  "sire": "10609@10",
+  "children": [
+    "39747@20",
+    "81644@20",
+    "140605@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 24164,
+  "name": "83: G11",
+  "generation": 11,
+  "created_at": "2017-12-01T20:01:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm 83: G11. My friends describe me as raunchy and gorgeous. I once made a platypus jump. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "23718@10",
+  "sire": "22393@10",
+  "children": [
+    "24555@12",
+    "25269@12",
+    "25986@12",
+    "28519@12",
+    "31579@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 28139,
+  "name": "Gen 11 | Plod | Dali Parent",
+  "generation": 11,
+  "created_at": "2017-12-02T09:35:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen 11 | Plod | Dali Parent. I'm a professional Dogwalker and I love lasagna. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be brilliant, despicable, and full of wet food.",
+  "language": "en",
+  "matron": "26848@7",
+  "sire": "27601@10",
+  "children": [
+    "30731@12",
+    "31647@12",
+    "161394@12",
+    "177179@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 27322,
+  "name": "Gold Spock",
+  "generation": 2,
+  "created_at": "2017-12-02T06:42:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! My name's Gold Spock. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be voluptuous, despicable, and full of cereal.",
+  "language": "en",
+  "matron": "25818@1",
+  "sire": "5850@1",
+  "children": [
+    "27440@3",
+    "27549@3",
+    "27666@3",
+    "27924@3",
+    "28312@3",
+    "28979@3",
+    "35046@3",
+    "38389@3",
+    "73333@3",
+    "105734@3",
+    "147422@3",
+    "271310@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

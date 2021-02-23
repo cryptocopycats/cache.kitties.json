@@ -1,0 +1,29 @@
+{
+  "id": 27017,
+  "name": "Gen 0 Yellow Wind",
+  "generation": 0,
+  "created_at": "2017-12-02T05:41:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gen 0 Yellow Wind. I'm often referred to as the Marge Simpson of the group. I'm often described as smelly, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "28386@9",
+    "32147@1",
+    "34090@1",
+    "37722@3",
+    "37957@18",
+    "40596@1",
+    "56974@19",
+    "57226@18",
+    "57294@20",
+    "100221@1",
+    "134673@1",
+    "192057@1",
+    "507269@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

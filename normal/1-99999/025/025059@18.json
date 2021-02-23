@@ -1,0 +1,20 @@
+{
+  "id": 25059,
+  "name": "Crazy Bill",
+  "generation": 18,
+  "created_at": "2017-12-01T23:07:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Crazy Bill. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5182@10",
+  "sire": "10221@17",
+  "children": [
+    "27789@19",
+    "34400@19",
+    "98027@19",
+    "253006@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

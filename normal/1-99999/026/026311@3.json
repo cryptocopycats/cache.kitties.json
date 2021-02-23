@@ -1,0 +1,19 @@
+{
+  "id": 26311,
+  "name": "G3 | Cloudera",
+  "generation": 3,
+  "created_at": "2017-12-02T03:23:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm G3 | Cloudera. All you need to know about me is I hate cantaloupe with a passion. When no one's home, I invite my pals over and we listen to Aretha Franklin. I like your face.",
+  "language": "en",
+  "matron": "5364@2",
+  "sire": "14459@2",
+  "children": [
+    "26457@4",
+    "45575@4",
+    "49046@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 23162,
+  "name": "Cornelius",
+  "generation": 17,
+  "created_at": "2017-12-01T16:03:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Cornelius. I enjoy breakdancing, licking doorknobs, and sitting on your computer. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": "9279@16",
+  "sire": "7357@16",
+  "children": [
+    "25823@19",
+    "30307@18",
+    "77257@18",
+    "647079@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

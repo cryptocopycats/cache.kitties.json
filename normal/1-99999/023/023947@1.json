@@ -1,0 +1,25 @@
+{
+  "id": 23947,
+  "name": "Gen1 Evermauve",
+  "generation": 1,
+  "created_at": "2017-12-01T19:10:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Gen1 Evermauve. My friends describe me as vegan and prickly. My friends describe me as \"annoying.\" It's... accurate. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "11637@0",
+  "sire": "22058@0",
+  "children": [
+    "23971@2",
+    "24017@21",
+    "28387@20",
+    "29066@17",
+    "29221@20",
+    "30121@12",
+    "35838@5",
+    "113302@2",
+    "1000968@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

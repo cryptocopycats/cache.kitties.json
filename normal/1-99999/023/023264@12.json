@@ -1,0 +1,19 @@
+{
+  "id": 23264,
+  "name": "Andrew",
+  "generation": 12,
+  "created_at": "2017-12-01T16:40:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Andrew. I've never told anyone this, but I once loved a dog. My friends describe me as \"prickly.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10702@11",
+  "sire": "2658@0",
+  "children": [
+    "44415@13",
+    "72857@13",
+    "85981@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24686,
+  "name": "Gen0 Cymric Saycheese",
+  "generation": 0,
+  "created_at": "2017-12-01T21:38:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen0 Cymric Saycheese. I'm a Ventriloquist by day, and I like playing chess by night. It's not common knowledge, but my ancestry connects me to Cleopatra. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24776@2",
+    "25310@1",
+    "25544@1",
+    "25647@1",
+    "27226@1",
+    "30039@1",
+    "34531@1",
+    "41369@1",
+    "61541@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

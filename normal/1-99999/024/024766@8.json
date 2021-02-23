@@ -1,0 +1,20 @@
+{
+  "id": 24766,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-01T21:52:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #24766. I'm a professional Spin Instructor  and I love wet food. When no one's home, I invite my pals over and we listen to Metallica. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "24599@7",
+  "sire": "23910@4",
+  "children": [
+    "32121@15",
+    "49014@9",
+    "95679@9",
+    "105105@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

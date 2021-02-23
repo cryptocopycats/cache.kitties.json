@@ -1,0 +1,20 @@
+{
+  "id": 25870,
+  "name": "BRIQ",
+  "generation": 8,
+  "created_at": "2017-12-02T01:27:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! BRIQ here. I'm here to enjoy eating lasagna and tripping my owner. I like to listen to Coldplay while grooming. Don't judge me. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "25403@7",
+  "sire": "17552@7",
+  "children": [
+    "32934@9",
+    "44554@9",
+    "97264@11",
+    "132181@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

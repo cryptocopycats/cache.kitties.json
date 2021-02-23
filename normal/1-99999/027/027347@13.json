@@ -1,0 +1,20 @@
+{
+  "id": 27347,
+  "name": "Hussy",
+  "generation": 13,
+  "created_at": "2017-12-02T06:51:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Hussy. My friends describe me as gullible and seductive. When I'm not talking about how much I lift, I'm mocking dogs! I like your face.",
+  "language": "en",
+  "matron": "24561@8",
+  "sire": "26597@12",
+  "children": [
+    "28273@15",
+    "57947@14",
+    "70882@14",
+    "130232@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

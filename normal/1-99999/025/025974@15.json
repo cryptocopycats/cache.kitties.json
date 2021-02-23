@@ -1,0 +1,19 @@
+{
+  "id": 25974,
+  "name": "Kater/ Gen 15/ Slow",
+  "generation": 15,
+  "created_at": "2017-12-02T02:05:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kater/ Gen 15/ Slow. In high school, I was voted most likely to work at NASA. My friends describe me as \"annoying.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "14273@13",
+  "sire": "18444@14",
+  "children": [
+    "39587@16",
+    "46025@20",
+    "82786@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 25075,
+  "name": "Sunrise",
+  "generation": 11,
+  "created_at": "2017-12-01T23:09:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Sunrise. I'm often referred to as the Ross Geller of the group. In my free time, I can usually be found ridiculous or summoning ghosts. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "10708@10",
+  "sire": "13883@10",
+  "children": [
+    "37577@14",
+    "51470@14",
+    "55581@13",
+    "57160@16",
+    "85514@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 27166,
+  "name": "Mushroom",
+  "generation": 4,
+  "created_at": "2017-12-02T06:09:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Mushroom. I enjoy picking flowers, sweating through my feet, and picking on mice. My secret indulgence is ice cream. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "27111@3",
+  "sire": "22664@3",
+  "children": [
+    "32701@10",
+    "37010@6",
+    "37909@6",
+    "51804@5",
+    "70465@5",
+    "79540@5",
+    "85232@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

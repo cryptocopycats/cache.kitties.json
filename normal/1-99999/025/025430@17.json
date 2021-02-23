@@ -1,0 +1,22 @@
+{
+  "id": 25430,
+  "name": "Eva",
+  "generation": 17,
+  "created_at": "2017-12-01T23:54:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Eva. My friends describe me as stinky and gullible. Sometimes I daydream of a life full of chasing string, cereal, and playing chess. I like your face.",
+  "language": "en",
+  "matron": "23354@5",
+  "sire": "24967@16",
+  "children": [
+    "27578@18",
+    "33003@18",
+    "80749@18",
+    "230941@18",
+    "438617@18",
+    "473400@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 26067,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-12-02T02:21:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 15. I'm a professional Culinary Sanitation Specialist and I love apple pie. I once made a rhino jump. Let's get busy!",
+  "language": "en",
+  "matron": "19673@4",
+  "sire": "8241@14",
+  "children": [
+    "28511@18",
+    "29974@17",
+    "38559@21",
+    "68939@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

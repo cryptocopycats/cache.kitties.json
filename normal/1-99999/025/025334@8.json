@@ -1,0 +1,18 @@
+{
+  "id": 25334,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-01T23:35:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm 8. I enjoy watching Stranger Things, grooming, and reciting poetry. When no one's home, I invite my pals over and we listen to Aretha Franklin. Will you be the garlic butter to my marmalade?",
+  "language": "en",
+  "matron": "18875@7",
+  "sire": "19258@6",
+  "children": [
+    "25628@9",
+    "25973@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

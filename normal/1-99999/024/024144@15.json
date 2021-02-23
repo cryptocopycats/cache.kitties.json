@@ -1,0 +1,21 @@
+{
+  "id": 24144,
+  "name": "Rare Chocolate Laperm",
+  "generation": 15,
+  "created_at": "2017-12-01T19:58:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Rare Chocolate Laperm. I'm a Ventriloquist by day, and I like summoning ghosts by night. I put cinammon on everything. Like, everything: hot dogs, lasagna—everything! I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "7407@6",
+  "sire": "11357@14",
+  "children": [
+    "24935@16",
+    "26646@16",
+    "35309@16",
+    "62182@20",
+    "112404@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

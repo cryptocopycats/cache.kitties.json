@@ -1,0 +1,17 @@
+{
+  "id": 27647,
+  "name": "Meowser",
+  "generation": 18,
+  "created_at": "2017-12-02T07:46:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Meowser. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of reading garfield, apple pie, and volunteering at the local kitten rescue shelter. Let's get busy!",
+  "language": "en",
+  "matron": "27247@10",
+  "sire": "27193@17",
+  "children": [
+    "127324@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24665,
+  "name": "Gen 12 cymric",
+  "generation": 12,
+  "created_at": "2017-12-01T21:37:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen 12 cymric. I'm often referred to as the Cersei Lannister of the group. Sometimes I daydream of a life full of watching Stranger Things, apple pie, and riverdancing. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "24158@11",
+  "sire": "22254@4",
+  "children": [
+    "24879@13",
+    "207202@13",
+    "252879@20",
+    "395196@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

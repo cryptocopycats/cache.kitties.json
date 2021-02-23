@@ -1,0 +1,19 @@
+{
+  "id": 24321,
+  "name": "G10",
+  "generation": 10,
+  "created_at": "2017-12-01T20:37:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! My name's G10. I once peed on Nelson Mandela's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21521@9",
+  "sire": "21054@8",
+  "children": [
+    "25284@11",
+    "26648@11",
+    "59415@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

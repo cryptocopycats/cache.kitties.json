@@ -1,0 +1,23 @@
+{
+  "id": 25859,
+  "name": "BubbleGum",
+  "generation": 6,
+  "created_at": "2017-12-02T01:23:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm BubbleGum. I'm often referred to as the Lisa Simpson of the group. I like to listen to Rihanna while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "25678@5",
+  "sire": "25698@5",
+  "children": [
+    "26125@8",
+    "26425@9",
+    "26629@8",
+    "27350@10",
+    "28508@12",
+    "34532@11",
+    "44362@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

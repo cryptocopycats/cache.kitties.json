@@ -1,0 +1,18 @@
+{
+  "id": 24005,
+  "name": "Swongle",
+  "generation": 15,
+  "created_at": "2017-12-01T19:26:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Swongle. I'm often referred to as the Cersei Lannister of the group. I am 64% sphinx, 57% Private Dancer , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6955@14",
+  "sire": "6372@10",
+  "children": [
+    "25390@16",
+    "28334@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

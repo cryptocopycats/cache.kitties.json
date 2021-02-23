@@ -1,0 +1,19 @@
+{
+  "id": 23401,
+  "name": "Otaku Chocolate",
+  "generation": 12,
+  "created_at": "2017-12-01T17:56:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Otaku Chocolate. I've never told anyone this, but I once bit a dog. I once bit a dolphin. I don't like to talk about it. Let's get busy!",
+  "language": "en",
+  "matron": "17300@11",
+  "sire": "13206@8",
+  "children": [
+    "23959@13",
+    "80943@17",
+    "182511@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

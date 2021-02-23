@@ -1,0 +1,21 @@
+{
+  "id": 26130,
+  "name": "Snap Blue",
+  "generation": 5,
+  "created_at": "2017-12-02T02:38:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Snap Blue. I enjoy chasing string, hitting on yo' man, and picking flowers. I once made a dolphin grimace. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "20160@3",
+  "sire": "22001@4",
+  "children": [
+    "26161@12",
+    "28611@12",
+    "28855@14",
+    "29206@8",
+    "29843@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

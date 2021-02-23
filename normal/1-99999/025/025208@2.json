@@ -1,0 +1,21 @@
+{
+  "id": 25208,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-01T23:13:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 2. I enjoy licking doorknobs, sitting on your computer, and breakdancing. In my free time, I can usually be found despicable or pole dancing. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "24194@1",
+  "sire": "18494@1",
+  "children": [
+    "25246@3",
+    "213505@3",
+    "213822@3",
+    "214140@3",
+    "1969463@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

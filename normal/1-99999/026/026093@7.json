@@ -1,0 +1,23 @@
+{
+  "id": 26093,
+  "name": "KitCat",
+  "generation": 7,
+  "created_at": "2017-12-02T02:27:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm KitCat. I'm often referred to as the Ross Geller of the group. Sometimes I daydream of a life full of fighting the patriarchy, apple pie, and mocking dogs. Let's get busy!",
+  "language": "en",
+  "matron": "24872@6",
+  "sire": "24151@4",
+  "children": [
+    "26355@10",
+    "26612@9",
+    "32604@8",
+    "39870@8",
+    "52196@8",
+    "163045@13",
+    "192255@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

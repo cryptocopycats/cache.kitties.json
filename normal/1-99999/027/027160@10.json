@@ -1,0 +1,17 @@
+{
+  "id": 27160,
+  "name": "Gandalf the Salmon",
+  "generation": 10,
+  "created_at": "2017-12-02T06:08:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Gandalf the Salmon. I once peed on Nelson Mandela's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "26347@9",
+  "sire": "26244@9",
+  "children": [
+    "175269@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

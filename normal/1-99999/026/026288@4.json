@@ -1,0 +1,27 @@
+{
+  "id": 26288,
+  "name": "Gen 4 Lemonade not for sale!",
+  "generation": 4,
+  "created_at": "2017-12-02T03:15:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen 4 Lemonade not for sale!. I believe the world is flat. I am 34% elf, 4% Spin Instructor , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5943@3",
+  "sire": "18678@3",
+  "children": [
+    "26309@5",
+    "26987@10",
+    "27402@11",
+    "27991@13",
+    "29528@13",
+    "30838@15",
+    "35406@16",
+    "51720@14",
+    "81561@16",
+    "107791@14",
+    "147015@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

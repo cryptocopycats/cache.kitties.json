@@ -1,0 +1,19 @@
+{
+  "id": 27494,
+  "name": "G8 PL",
+  "generation": 8,
+  "created_at": "2017-12-02T07:16:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G8 PL. I believe the world is flat. My friends describe me as \"petulant.\" It's... accurate. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "27436@7",
+  "sire": "26281@7",
+  "children": [
+    "28471@9",
+    "34088@9",
+    "39135@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

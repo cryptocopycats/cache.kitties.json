@@ -1,0 +1,19 @@
+{
+  "id": 26058,
+  "name": "MONKEY DOODLES Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-02T02:19:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm MONKEY DOODLES Gen 22. I'm often referred to as the Bart Simpson of the group. I once got in a fight with a rabbit, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "22989@12",
+  "sire": "19530@21",
+  "children": [
+    "65467@23",
+    "96242@23",
+    "206567@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

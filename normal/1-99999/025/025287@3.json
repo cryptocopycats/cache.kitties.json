@@ -1,0 +1,18 @@
+{
+  "id": 25287,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-01T23:28:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Gen 3 here. I'm here to enjoy licking doorknobs and chasing red dots. I am 66% elf, 92% Spin Instructor , and otherwise bad at math. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "24966@2",
+  "sire": "19090@2",
+  "children": [
+    "25633@4",
+    "25793@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

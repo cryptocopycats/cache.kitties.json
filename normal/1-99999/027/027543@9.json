@@ -1,0 +1,21 @@
+{
+  "id": 27543,
+  "name": "gen 9 - 27543",
+  "generation": 9,
+  "created_at": "2017-12-02T07:24:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm gen 9 - 27543. My friends describe me as stinky and raunchy. Some people say I'm the Ron Weasley of the group. Our friendship will be stinky, raunchy, and full of chocolate.",
+  "language": "en",
+  "matron": "27032@8",
+  "sire": "27142@7",
+  "children": [
+    "28002@10",
+    "29543@10",
+    "32509@10",
+    "34840@10",
+    "45430@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

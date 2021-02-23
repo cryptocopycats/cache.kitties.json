@@ -1,0 +1,17 @@
+{
+  "id": 25293,
+  "name": "G12",
+  "generation": 12,
+  "created_at": "2017-12-01T23:28:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! G12 here. I'm here to enjoy eating until I loathe myself and reading garfield. I am 17% elf, 75% Private Dancer , and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "24726@11",
+  "sire": "23877@11",
+  "children": [
+    "26765@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

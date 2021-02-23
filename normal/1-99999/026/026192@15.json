@@ -1,0 +1,17 @@
+{
+  "id": 26192,
+  "name": "Satoshi",
+  "generation": 15,
+  "created_at": "2017-12-02T03:08:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Satoshi. I'm a professional Mad Scientist and I love ice cream. My secret indulgence is chocolate. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "25871@6",
+  "sire": "25908@14",
+  "children": [
+    "59779@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 27200,
+  "name": "Gen 2 Plodding",
+  "generation": 2,
+  "created_at": "2017-12-02T06:17:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Gen 2 Plodding. I'm a professional Foreign Film Director and I love steak. I once dreamed of being a Train Conductor. Now I can be found running a podcast all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6182@1",
+  "sire": "22582@1",
+  "children": [
+    "29836@3",
+    "30006@3",
+    "30855@3",
+    "30997@3",
+    "34020@3",
+    "35679@3",
+    "225479@3",
+    "263911@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24594,
+  "name": "Azul Tigre (chicken dad)",
+  "generation": 10,
+  "created_at": "2017-12-01T21:24:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Azul Tigre (chicken dad). I've never told anyone this, but I once snuggled a dog. I was voted school jock in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "22170@5",
+  "sire": "22653@9",
+  "children": [
+    "25554@11",
+    "33679@13",
+    "44835@15",
+    "50213@11",
+    "71979@18",
+    "173912@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

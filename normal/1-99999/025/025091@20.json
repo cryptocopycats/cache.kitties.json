@@ -1,0 +1,17 @@
+{
+  "id": 25091,
+  "name": "Lug",
+  "generation": 20,
+  "created_at": "2017-12-01T23:10:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! My name's Lug. I once peed on Amelia Earhart's cat. They had it coming. I once got in a fight with a dog, and won. Let's pawty!",
+  "language": "en",
+  "matron": "16017@3",
+  "sire": "20277@19",
+  "children": [
+    "75314@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

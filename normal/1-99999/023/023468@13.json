@@ -1,0 +1,23 @@
+{
+  "id": 23468,
+  "name": "Edward",
+  "generation": 13,
+  "created_at": "2017-12-01T18:07:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Edward. My friends describe me as raunchy and petulant. I like to listen to Gloria Estefan while grooming. Don't judge me. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "19653@12",
+  "sire": "19945@0",
+  "children": [
+    "25398@16",
+    "32362@14",
+    "36195@15",
+    "74057@20",
+    "104948@22",
+    "124167@17",
+    "251467@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 25931,
+  "name": "Cerulian parent",
+  "generation": 12,
+  "created_at": "2017-12-02T01:52:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Cerulian parent. I'm a professional Mad Scientist and I love cereal. Some people say I'm the Niles Crane of the group. Will you be the pickles to my garlic butter?",
+  "language": "en",
+  "matron": "25612@11",
+  "sire": "14222@10",
+  "children": [
+    "26310@13",
+    "35067@17",
+    "36406@19",
+    "46023@13",
+    "80972@19",
+    "104555@17",
+    "257858@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

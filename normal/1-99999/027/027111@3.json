@@ -1,0 +1,26 @@
+{
+  "id": 27111,
+  "name": "gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T05:58:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm gen 3. I'm often referred to as the Chandler Bing of the group. It's not common knowledge, but my ancestry connects me to Cleopatra. Will you be the soy sauce to my marmite?",
+  "language": "en",
+  "matron": "19067@1",
+  "sire": "26940@2",
+  "children": [
+    "27166@4",
+    "32619@11",
+    "32987@5",
+    "33162@13",
+    "42337@5",
+    "44293@5",
+    "49468@5",
+    "82383@4",
+    "130815@4",
+    "159051@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

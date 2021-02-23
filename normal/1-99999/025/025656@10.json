@@ -1,0 +1,18 @@
+{
+  "id": 25656,
+  "name": "Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-02T00:37:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Gen 10 here. I'm here to enjoy fighting the patriarchy and riding dirty. I once kissed a goose. I don't like to talk about it. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "25508@2",
+  "sire": "25547@9",
+  "children": [
+    "32094@13",
+    "33813@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

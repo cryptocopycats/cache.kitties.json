@@ -1,0 +1,24 @@
+{
+  "id": 24042,
+  "name": "Bilbo Cattins",
+  "generation": 7,
+  "created_at": "2017-12-01T19:33:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Bilbo Cattins. I'm often referred to as the Steve Urkel of the group. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15982@3",
+  "sire": "17618@6",
+  "children": [
+    "24097@8",
+    "24689@8",
+    "54367@16",
+    "65511@11",
+    "65586@13",
+    "86935@11",
+    "97261@13",
+    "220636@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

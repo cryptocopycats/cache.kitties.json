@@ -1,0 +1,18 @@
+{
+  "id": 24136,
+  "name": "Poof Tail",
+  "generation": 15,
+  "created_at": "2017-12-01T19:55:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Poof Tail. I enjoy sitting on your computer, grooming, and picking on mice. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "23879@10",
+  "sire": "23830@14",
+  "children": [
+    "25409@16",
+    "27570@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 25152,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-01T23:11:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #25152. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Aretha Franklin while grooming. Don't judge me. Will you be the ranch dressing to my wasabi?",
+  "language": "en",
+  "matron": "23636@15",
+  "sire": "4593@10",
+  "children": [
+    "29962@17",
+    "48529@17",
+    "81048@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

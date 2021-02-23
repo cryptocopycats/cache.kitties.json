@@ -1,0 +1,18 @@
+{
+  "id": 23577,
+  "name": "Gen 23",
+  "generation": 23,
+  "created_at": "2017-12-01T18:12:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 23. My friends describe me as hairy and tantalizing. When I'm not riding the bus, I'm volunteering at the local kitten rescue shelter! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "20169@17",
+  "sire": "20062@22",
+  "children": [
+    "45919@24",
+    "142280@25"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24162,
+  "name": "Pancho Kitty",
+  "generation": 19,
+  "created_at": "2017-12-01T20:01:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Pancho Kitty. I want to live in a world where people believe that one day cats will rule this planet. I am 24% sphinx, 7% Dispensary Clerk, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "18729@16",
+  "sire": "10040@18",
+  "children": [
+    "51406@20",
+    "72281@20",
+    "88271@20",
+    "380046@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

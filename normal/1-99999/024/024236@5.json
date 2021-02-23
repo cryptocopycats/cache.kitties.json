@@ -1,0 +1,29 @@
+{
+  "id": 24236,
+  "name": "Fancy Pants",
+  "generation": 5,
+  "created_at": "2017-12-01T20:21:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Fancy Pants. I enjoy sweating through my feet, riding unicorns, and slappin' da bass. My friends describe me as \"smelly.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "16460@4",
+  "sire": "21245@4",
+  "children": [
+    "24290@6",
+    "24397@6",
+    "24635@6",
+    "24994@6",
+    "39887@12",
+    "48987@7",
+    "61545@6",
+    "85452@6",
+    "110058@6",
+    "152835@6",
+    "267081@8",
+    "405342@10",
+    "1347985@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

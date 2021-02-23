@@ -1,0 +1,20 @@
+{
+  "id": 24132,
+  "name": "G10 FabSoda",
+  "generation": 10,
+  "created_at": "2017-12-01T19:55:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G10 FabSoda. I'm a Mad Scientist by day, and I like siring for status by night. I put marmalade on everything. Like, everything: hot dogs, steak—everything! I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "22708@6",
+  "sire": "22658@9",
+  "children": [
+    "24552@11",
+    "31572@18",
+    "34730@12",
+    "64382@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

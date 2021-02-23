@@ -1,0 +1,18 @@
+{
+  "id": 24213,
+  "name": "B",
+  "generation": 9,
+  "created_at": "2017-12-01T20:15:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm B. I'm a professional Ventriloquist and I love lasagna. I once dreamed of being a Aerobics Athlete . Now I can be found braiding people's hair all day. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "23190@8",
+  "sire": "23327@8",
+  "children": [
+    "24435@10",
+    "92276@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

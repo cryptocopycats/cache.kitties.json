@@ -1,0 +1,24 @@
+{
+  "id": 28037,
+  "name": "Emeraldgreen G3",
+  "generation": 3,
+  "created_at": "2017-12-02T09:10:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Emeraldgreen G3. I enjoy picking on mice, being a nevernude, and taking selfies. I once made a rhino trot. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "27914@2",
+  "sire": "27937@2",
+  "children": [
+    "29102@4",
+    "29187@4",
+    "29313@4",
+    "29663@4",
+    "31214@4",
+    "33432@6",
+    "48109@10",
+    "107669@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

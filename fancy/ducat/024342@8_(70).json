@@ -1,0 +1,30 @@
+{
+  "id": 24342,
+  "name": "Glopy Bird",
+  "generation": 8,
+  "created_at": "2017-12-01T20:41:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! Glopy Bird here. I'm here to enjoy sitting on your computer and glaring at the neighbour's cat. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23897@7",
+  "sire": "22332@7",
+  "children": [
+    "27174@9",
+    "27563@9",
+    "36300@9",
+    "69653@9",
+    "172449@13",
+    "186706@16",
+    "220881@9",
+    "324299@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 70,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

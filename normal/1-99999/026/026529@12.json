@@ -1,0 +1,21 @@
+{
+  "id": 26529,
+  "name": "Snuggles",
+  "generation": 12,
+  "created_at": "2017-12-02T04:02:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Snuggles. I'm often referred to as the Niles Crane of the group. When I'm not riding the bus, I'm mocking dogs! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16226@10",
+  "sire": "17097@11",
+  "children": [
+    "27216@14",
+    "28293@15",
+    "34768@16",
+    "65529@14",
+    "215104@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

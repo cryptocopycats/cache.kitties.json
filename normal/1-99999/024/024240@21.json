@@ -1,0 +1,18 @@
+{
+  "id": 24240,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-12-01T20:21:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 21. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "22545@17",
+  "sire": "22590@20",
+  "children": [
+    "25506@22",
+    "72883@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

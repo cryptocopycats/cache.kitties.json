@@ -1,0 +1,17 @@
+{
+  "id": 24616,
+  "name": "Gen7",
+  "generation": 7,
+  "created_at": "2017-12-01T21:28:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen7. I enjoy breakdancing, taking selfies, and glaring at the neighbour's cat. I am 31% troll, 79% Dogwalker, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "19487@3",
+  "sire": "24256@6",
+  "children": [
+    "28741@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

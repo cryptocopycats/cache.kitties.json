@@ -1,0 +1,18 @@
+{
+  "id": 25255,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-01T23:24:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Kitty #25255. I'm a Dogwalker by day, and I like braiding people's hair by night. It's not common knowledge, but my ancestry connects me to Mother Theresa. I like your face.",
+  "language": "en",
+  "matron": "3029@1",
+  "sire": "23960@10",
+  "children": [
+    "33060@16",
+    "36251@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

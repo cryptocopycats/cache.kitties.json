@@ -1,0 +1,20 @@
+{
+  "id": 22906,
+  "name": "Maudlin Mauveover",
+  "generation": 13,
+  "created_at": "2017-12-01T13:52:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Maudlin Mauveover. In high school, I was voted most likely to work at NASA. I once kissed a moose. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "21240@12",
+  "sire": "17890@11",
+  "children": [
+    "29011@17",
+    "49196@15",
+    "62576@14",
+    "144088@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

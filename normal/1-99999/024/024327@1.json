@@ -1,0 +1,27 @@
+{
+  "id": 24327,
+  "name": "C Gen1 Snappy",
+  "generation": 1,
+  "created_at": "2017-12-01T20:38:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm C Gen1 Snappy. I enjoy slappin' da bass, sitting on your computer, and glaring at the neighbour's cat. When no one's home, I invite my pals over and we listen to Michael Bolton. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "22548@0",
+  "sire": "22586@0",
+  "children": [
+    "24449@2",
+    "25378@2",
+    "25438@2",
+    "97082@2",
+    "117340@2",
+    "121266@2",
+    "123679@2",
+    "132513@2",
+    "147877@2",
+    "161261@2",
+    "184191@2"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": 27663,
+  "name": "M100 Gold",
+  "generation": 1,
+  "created_at": "2017-12-02T07:50:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm M100 Gold. My friends describe me as fabulous and brilliant. I was voted most likely to work at NASA in college. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "26857@0",
+  "sire": "24624@0",
+  "children": [
+    "27760@7",
+    "27847@4",
+    "33671@17",
+    "35046@3",
+    "36216@4",
+    "37101@6",
+    "39017@19",
+    "109936@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

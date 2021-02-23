@@ -1,0 +1,23 @@
+{
+  "id": 27372,
+  "name": "Happy Kitty",
+  "generation": 12,
+  "created_at": "2017-12-02T06:55:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! My name's Happy Kitty. I once peed on Cleopatra's cat. They had it coming. In my free time, I can usually be found prickly or swiping right. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "26964@11",
+  "sire": "26963@11",
+  "children": [
+    "31563@13",
+    "39846@13",
+    "50771@13",
+    "72749@14",
+    "457294@13",
+    "460644@13",
+    "481528@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

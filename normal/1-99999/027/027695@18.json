@@ -1,0 +1,19 @@
+{
+  "id": 27695,
+  "name": "Bubblegum",
+  "generation": 18,
+  "created_at": "2017-12-02T07:55:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! My name's Bubblegum. I once peed on Confucius's cat. They had it coming. I once dreamed of being a Dispensary Clerk. Now I can be found reading Danielle Steele all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "25130@17",
+  "sire": "24947@15",
+  "children": [
+    "67184@19",
+    "108612@19",
+    "260504@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

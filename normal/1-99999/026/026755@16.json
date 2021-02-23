@@ -1,0 +1,21 @@
+{
+  "id": 26755,
+  "name": "Starter",
+  "generation": 16,
+  "created_at": "2017-12-02T04:44:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Starter. I'm a Spin Instructor  by day, and I like pole dancing by night. It's not common knowledge, but my ancestry connects me to Confucius. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "26349@10",
+  "sire": "19317@15",
+  "children": [
+    "29094@18",
+    "32749@17",
+    "73994@17",
+    "258088@17",
+    "511849@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

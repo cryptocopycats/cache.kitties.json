@@ -1,0 +1,24 @@
+{
+  "id": 23517,
+  "name": "Gen 5 - Tibet",
+  "generation": 5,
+  "created_at": "2017-12-01T18:09:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 5 - Tibet. My friends describe me as petulant and brilliant. I was voted biggest teacher's pet in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "16572@3",
+  "sire": "23073@4",
+  "children": [
+    "23733@6",
+    "28563@7",
+    "34621@6",
+    "36077@6",
+    "38311@8",
+    "43847@6",
+    "44695@8",
+    "115949@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

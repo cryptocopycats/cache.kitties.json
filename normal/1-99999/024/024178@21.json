@@ -1,0 +1,18 @@
+{
+  "id": 24178,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-12-01T20:04:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! Gen 21 here. I'm here to enjoy chasing string and picking on mice. I'm often described as seductive, and I own it. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "19217@20",
+  "sire": "19206@20",
+  "children": [
+    "31333@24",
+    "76271@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

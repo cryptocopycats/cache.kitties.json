@@ -1,0 +1,20 @@
+{
+  "id": 23178,
+  "name": "Annie",
+  "generation": 14,
+  "created_at": "2017-12-01T16:08:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Annie. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "19966@10",
+  "sire": "19636@13",
+  "children": [
+    "24181@16",
+    "25483@15",
+    "48289@15",
+    "70888@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

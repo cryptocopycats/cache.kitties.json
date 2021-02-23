@@ -1,0 +1,22 @@
+{
+  "id": 23677,
+  "name": "Gen 4 - Plodding",
+  "generation": 4,
+  "created_at": "2017-12-01T18:25:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 4 - Plodding. I'm a professional Train Conductor and I love cereal. I'm convinced that the world is flat. One day I'll prove it. Will you be the marmite to my cinammon?",
+  "language": "en",
+  "matron": "18971@3",
+  "sire": "18096@2",
+  "children": [
+    "29079@5",
+    "32084@7",
+    "33983@6",
+    "35995@9",
+    "45923@6",
+    "71700@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

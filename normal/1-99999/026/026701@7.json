@@ -1,0 +1,20 @@
+{
+  "id": 26701,
+  "name": "G7 | Snappy | Emeraldgreen",
+  "generation": 7,
+  "created_at": "2017-12-02T04:31:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm G7 | Snappy | Emeraldgreen. I'm a professional Mad Scientist and I love ice cream. I put peanut butter on everything. Like, everything: hot dogs, salad—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "23129@6",
+  "sire": "25678@5",
+  "children": [
+    "48764@8",
+    "51562@8",
+    "61558@8",
+    "75483@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 24773,
+  "name": "Gen7",
+  "generation": 7,
+  "created_at": "2017-12-01T21:52:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! Gen7 here. I'm here to enjoy fighting the patriarchy and tricking babies. Some people say I'm the Niles Crane of the group. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "24702@6",
+  "sire": "24148@6",
+  "children": [
+    "25347@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

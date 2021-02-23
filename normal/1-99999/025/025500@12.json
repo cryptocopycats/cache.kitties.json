@@ -1,0 +1,20 @@
+{
+  "id": 25500,
+  "name": "Fern",
+  "generation": 12,
+  "created_at": "2017-12-02T00:08:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Fern. I'm a Private Dancer  by day, and I like riverdancing by night. I put garlic butter on everything. Like, everything: hot dogs, chocolate—everything! Let's pawty!",
+  "language": "en",
+  "matron": "23228@5",
+  "sire": "22683@11",
+  "children": [
+    "27651@13",
+    "67614@13",
+    "85521@19",
+    "95240@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

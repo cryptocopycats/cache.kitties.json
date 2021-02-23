@@ -1,0 +1,25 @@
+{
+  "id": 28193,
+  "name": "Spock Duck Bird",
+  "generation": 6,
+  "created_at": "2017-12-02T09:42:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Spock Duck Bird. I enjoy slappin' da bass, sitting on your computer, and chasing string. I once made a moose kiss. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25820@5",
+  "sire": "22205@5",
+  "children": [
+    "28254@7",
+    "28662@7",
+    "50151@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 133,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,18 @@
+{
+  "id": 25884,
+  "name": "Theodore",
+  "generation": 7,
+  "created_at": "2017-12-02T01:30:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Theodore. I enjoy grooming, glaring at the neighbour's cat, and staying woke. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25638@6",
+  "sire": "16008@5",
+  "children": [
+    "53703@8",
+    "69826@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

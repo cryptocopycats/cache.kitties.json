@@ -1,0 +1,19 @@
+{
+  "id": 23258,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T16:34:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Kitty #23258. My friends describe me as brilliant and smelly. Some people say I'm the Frodo Baggins of the group. Will you be the pickles to my marmite?",
+  "language": "en",
+  "matron": "20702@16",
+  "sire": "20774@15",
+  "children": [
+    "26336@18",
+    "142707@18",
+    "185103@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

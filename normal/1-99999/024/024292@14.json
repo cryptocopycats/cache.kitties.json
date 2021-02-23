@@ -1,0 +1,20 @@
+{
+  "id": 24292,
+  "name": "Laperm Purple",
+  "generation": 14,
+  "created_at": "2017-12-01T20:32:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Laperm Purple. All you need to know about me is I hate chocolate with a passion. My secret indulgence is lasagna. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10759@7",
+  "sire": "13844@13",
+  "children": [
+    "25118@15",
+    "59066@15",
+    "85159@15",
+    "227616@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

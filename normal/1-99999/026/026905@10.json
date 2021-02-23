@@ -1,0 +1,20 @@
+{
+  "id": 26905,
+  "name": "Sailor Lineage",
+  "generation": 10,
+  "created_at": "2017-12-02T05:18:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! Sailor Lineage here. I'm here to enjoy reciting poetry and tripping my owner. I once bit a dog. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3236@1",
+  "sire": "26738@9",
+  "children": [
+    "27003@11",
+    "59457@11",
+    "76322@13",
+    "92759@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

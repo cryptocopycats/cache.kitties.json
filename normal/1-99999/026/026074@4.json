@@ -1,0 +1,26 @@
+{
+  "id": 26074,
+  "name": "V coffee Parent+",
+  "generation": 4,
+  "created_at": "2017-12-02T02:22:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm V coffee Parent+. I believe the world is flat. I am 61% hobbit, 70% Dispensary Clerk, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "21298@3",
+  "sire": "21313@3",
+  "children": [
+    "26303@8",
+    "31819@5",
+    "40405@8",
+    "41983@5",
+    "44789@6",
+    "46389@6",
+    "48807@10",
+    "61000@9",
+    "93908@9",
+    "161267@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

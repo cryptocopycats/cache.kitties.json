@@ -1,0 +1,24 @@
+{
+  "id": 26398,
+  "name": "Plodding",
+  "generation": 4,
+  "created_at": "2017-12-02T03:40:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Plodding. I'm a professional Foreign Film Director and I love steak. Sometimes I daydream of a life full of sitting on your computer, lasagna, and riverdancing. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26344@3",
+  "sire": "26354@3",
+  "children": [
+    "26789@17",
+    "27406@15",
+    "27630@11",
+    "28003@18",
+    "29019@12",
+    "33206@17",
+    "38119@18",
+    "51291@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

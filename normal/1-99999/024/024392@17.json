@@ -1,0 +1,19 @@
+{
+  "id": 24392,
+  "name": "Lil  Phat Cat",
+  "generation": 17,
+  "created_at": "2017-12-01T20:48:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Lil  Phat Cat. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Wutang. Let's pawty!",
+  "language": "en",
+  "matron": "7899@13",
+  "sire": "18565@16",
+  "children": [
+    "29716@18",
+    "41977@18",
+    "76165@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

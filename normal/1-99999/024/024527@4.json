@@ -1,0 +1,26 @@
+{
+  "id": 24527,
+  "name": "G4 | Cymric",
+  "generation": 4,
+  "created_at": "2017-12-01T21:12:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's G4 | Cymric. I once peed on Confucius's cat. They had it coming. I would give it all up to be on Oprah. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "24022@3",
+  "sire": "22573@3",
+  "children": [
+    "24819@5",
+    "33421@8",
+    "34067@8",
+    "34807@8",
+    "36058@8",
+    "41841@5",
+    "49005@5",
+    "76395@5",
+    "76566@5",
+    "274555@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

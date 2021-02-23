@@ -1,0 +1,20 @@
+{
+  "id": 28041,
+  "name": "gen17",
+  "generation": 17,
+  "created_at": "2017-12-02T09:10:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm gen17. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26097@14",
+  "sire": "26211@16",
+  "children": [
+    "31938@18",
+    "44909@18",
+    "69009@20",
+    "78525@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

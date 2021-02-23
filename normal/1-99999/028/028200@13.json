@@ -1,0 +1,22 @@
+{
+  "id": 28200,
+  "name": "Whitegreen",
+  "generation": 13,
+  "created_at": "2017-12-02T09:44:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! Whitegreen here. I'm here to enjoy sitting on your computer and riding unicorns. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "17549@12",
+  "sire": "23609@10",
+  "children": [
+    "28548@14",
+    "37128@15",
+    "59789@15",
+    "120262@16",
+    "157247@14",
+    "402643@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

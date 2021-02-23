@@ -1,0 +1,23 @@
+{
+  "id": 27435,
+  "name": "Permed Pam",
+  "generation": 10,
+  "created_at": "2017-12-02T07:03:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Permed Pam. My friends describe me as smelly and seductive. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "22631@9",
+  "sire": "26244@9",
+  "children": [
+    "27873@11",
+    "34453@11",
+    "39252@11",
+    "46097@11",
+    "64893@17",
+    "94761@18",
+    "140535@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

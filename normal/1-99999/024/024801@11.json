@@ -1,0 +1,19 @@
+{
+  "id": 24801,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-01T21:56:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #24801. All you need to know about me is I hate salad with a passion. I put wasabi on everything. Like, everything: hot dogs, cantaloupe—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "17502@6",
+  "sire": "18734@10",
+  "children": [
+    "48979@19",
+    "65807@16",
+    "69041@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

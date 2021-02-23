@@ -1,0 +1,21 @@
+{
+  "id": 27583,
+  "name": "Ice Rock",
+  "generation": 4,
+  "created_at": "2017-12-02T07:33:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Ice Rock here. I'm here to enjoy shakin' dat booty and hitting on yo' man. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Let's pawty!",
+  "language": "en",
+  "matron": "23802@0",
+  "sire": "27150@3",
+  "children": [
+    "27662@16",
+    "27796@12",
+    "36766@20",
+    "54114@11",
+    "262697@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

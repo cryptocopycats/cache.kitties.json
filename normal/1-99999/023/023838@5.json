@@ -1,0 +1,21 @@
+{
+  "id": 23838,
+  "name": "Gen5 brisk cymric",
+  "generation": 5,
+  "created_at": "2017-12-01T18:46:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Gen5 brisk cymric here. I'm here to enjoy riding dirty and grooming. I'm often described as annoying, and I own it. I like your face.",
+  "language": "en",
+  "matron": "20751@4",
+  "sire": "19483@4",
+  "children": [
+    "24703@7",
+    "24865@7",
+    "25165@7",
+    "31913@7",
+    "51466@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

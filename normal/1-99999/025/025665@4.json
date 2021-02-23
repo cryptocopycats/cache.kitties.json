@@ -1,0 +1,20 @@
+{
+  "id": 25665,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-02T00:39:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Gen 4. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of tripping my owner, ice cream, and riverdancing. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24313@3",
+  "sire": "19285@3",
+  "children": [
+    "66828@5",
+    "88454@5",
+    "89373@5",
+    "91078@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

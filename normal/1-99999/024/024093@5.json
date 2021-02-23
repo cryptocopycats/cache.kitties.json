@@ -1,0 +1,19 @@
+{
+  "id": 24093,
+  "name": "Gen5",
+  "generation": 5,
+  "created_at": "2017-12-01T19:43:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Gen5 here. I'm here to enjoy staying woke and tripping my owner. I once made a gecko jump. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "23977@4",
+  "sire": "16924@4",
+  "children": [
+    "24224@6",
+    "24948@6",
+    "28145@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

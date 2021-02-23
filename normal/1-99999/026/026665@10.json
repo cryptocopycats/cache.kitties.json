@@ -1,0 +1,20 @@
+{
+  "id": 26665,
+  "name": "plodding g10",
+  "generation": 10,
+  "created_at": "2017-12-02T04:23:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm plodding g10. I want to live in a world where people believe the world is flat. My friends describe me as \"petulant.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "26351@8",
+  "sire": "26426@9",
+  "children": [
+    "29053@18",
+    "32247@12",
+    "36729@13",
+    "75264@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

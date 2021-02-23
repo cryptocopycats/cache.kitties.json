@@ -1,0 +1,19 @@
+{
+  "id": 25683,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-02T00:43:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #25683. I'm often referred to as the Chandler Bing of the group. When I'm not talking about how much I lift, I'm prank-calling celebrities! I look forward to chasing red dots with you.",
+  "language": "en",
+  "matron": "24886@4",
+  "sire": "25170@3",
+  "children": [
+    "26642@13",
+    "26978@13",
+    "29165@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

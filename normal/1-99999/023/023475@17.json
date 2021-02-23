@@ -1,0 +1,28 @@
+{
+  "id": 23475,
+  "name": "Babbage",
+  "generation": 17,
+  "created_at": "2017-12-01T18:08:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Babbage. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. I like your face.",
+  "language": "en",
+  "matron": "21878@16",
+  "sire": "17779@10",
+  "children": [
+    "79274@18",
+    "101991@18",
+    "272880@18",
+    "315835@18",
+    "357784@18",
+    "402120@18",
+    "444907@18",
+    "470786@18",
+    "507612@18",
+    "665292@18",
+    "669183@18",
+    "817923@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

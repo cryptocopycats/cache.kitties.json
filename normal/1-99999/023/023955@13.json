@@ -1,0 +1,21 @@
+{
+  "id": 23955,
+  "name": "Lemonade Spock",
+  "generation": 13,
+  "created_at": "2017-12-01T19:10:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! My name's Lemonade Spock. I once peed on King Henry VIII's cat. They had it coming. My secret indulgence is cantaloupe. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "20648@12",
+  "sire": "20777@1",
+  "children": [
+    "34572@14",
+    "40600@14",
+    "76519@16",
+    "151360@18",
+    "155782@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

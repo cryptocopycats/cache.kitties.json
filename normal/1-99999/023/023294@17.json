@@ -1,0 +1,19 @@
+{
+  "id": 23294,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T16:58:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #23294. I'm a Dogwalker by day, and I like riding the bus by night. Sometimes I daydream of a life full of reading garfield, steak, and watching reality tv. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20606@16",
+  "sire": "18263@13",
+  "children": [
+    "29924@18",
+    "51239@18",
+    "108329@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

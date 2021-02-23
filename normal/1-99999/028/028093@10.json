@@ -1,0 +1,19 @@
+{
+  "id": 28093,
+  "name": "Violet Peepers",
+  "generation": 10,
+  "created_at": "2017-12-02T09:24:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Violet Peepers. I'm often referred to as the Chandler Bing of the group. My great-great-great-great-great-great grandkitty lived with Princess Diana. I like your face.",
+  "language": "en",
+  "matron": "27958@9",
+  "sire": "27515@9",
+  "children": [
+    "28425@11",
+    "37938@11",
+    "469390@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

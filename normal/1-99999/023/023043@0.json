@@ -1,0 +1,22 @@
+{
+  "id": 23043,
+  "name": "NeutralKitGen0",
+  "generation": 0,
+  "created_at": "2017-12-01T15:03:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm NeutralKitGen0. I've never told anyone this, but I once frolicked with a dog. I am 41% hobbit, 17% Spin Instructor , and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24001@1",
+    "27463@1",
+    "30284@19",
+    "31445@13",
+    "37352@21",
+    "41934@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

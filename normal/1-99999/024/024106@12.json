@@ -1,0 +1,21 @@
+{
+  "id": 24106,
+  "name": "Garfield",
+  "generation": 12,
+  "created_at": "2017-12-01T19:51:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Garfield. I'm a professional Train Conductor and I love lasagna. My friends describe me as \"seductive.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "24066@7",
+  "sire": "23984@11",
+  "children": [
+    "24825@13",
+    "27199@13",
+    "48983@13",
+    "259622@14",
+    "308533@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

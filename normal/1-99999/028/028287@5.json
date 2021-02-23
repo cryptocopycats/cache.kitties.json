@@ -1,0 +1,18 @@
+{
+  "id": 28287,
+  "name": "Gen 5",
+  "generation": 5,
+  "created_at": "2017-12-02T10:00:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 5. I'm often referred to as the Dwight Schrute of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "25672@4",
+  "sire": "25633@4",
+  "children": [
+    "28513@7",
+    "28802@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

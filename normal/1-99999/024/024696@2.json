@@ -1,0 +1,19 @@
+{
+  "id": 24696,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-12-01T21:39:12.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! G2 here. I'm here to enjoy eating until I loathe myself and breakdancing. I once dreamed of being a Ventriloquist. Now I can be found sleeping in fresh laundry all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14651@1",
+  "sire": "24437@1",
+  "children": [
+    "24772@3",
+    "32452@3",
+    "153946@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 23045,
+  "name": "Gecko",
+  "generation": 2,
+  "created_at": "2017-12-01T15:03:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gecko. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found brilliant or tricking babies. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3928@1",
+  "sire": "5828@1",
+  "children": [
+    "25044@3",
+    "25525@3",
+    "25776@3",
+    "26511@3",
+    "27096@3",
+    "28394@3",
+    "29567@3",
+    "34299@3",
+    "74477@3",
+    "105680@3",
+    "147437@3",
+    "271311@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

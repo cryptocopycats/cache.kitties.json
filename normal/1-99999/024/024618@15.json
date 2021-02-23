@@ -1,0 +1,19 @@
+{
+  "id": 24618,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T21:28:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #24618. I believe the world is flat. I once dreamed of being a Skydiving Instructor. Now I can be found tricking babies all day. Let's get busy!",
+  "language": "en",
+  "matron": "2563@0",
+  "sire": "24448@14",
+  "children": [
+    "26286@16",
+    "33818@16",
+    "158295@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

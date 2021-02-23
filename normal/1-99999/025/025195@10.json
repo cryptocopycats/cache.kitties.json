@@ -1,0 +1,20 @@
+{
+  "id": 25195,
+  "name": "Red Rover",
+  "generation": 10,
+  "created_at": "2017-12-01T23:13:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Red Rover. My friends describe me as fabulous and petulant. In my free time, I can usually be found raunchy or swiping right. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "13625@9",
+  "sire": "21654@6",
+  "children": [
+    "34395@11",
+    "38489@11",
+    "45998@11",
+    "59827@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

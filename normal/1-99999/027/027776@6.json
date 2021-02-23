@@ -1,0 +1,22 @@
+{
+  "id": 27776,
+  "name": "Gen 6 Tongue",
+  "generation": 6,
+  "created_at": "2017-12-02T08:19:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gen 6 Tongue. I enjoy riding dirty, glaring at the neighbour's cat, and riding unicorns. I put cinammon on everything. Like, everything: hot dogs, steak—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "23859@5",
+  "sire": "26469@5",
+  "children": [
+    "28045@16",
+    "28717@11",
+    "30180@14",
+    "31883@9",
+    "52776@10",
+    "60454@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

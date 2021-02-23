@@ -1,0 +1,19 @@
+{
+  "id": 23353,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-12-01T17:54:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Gen 19. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Mariah Carey. I like your face.",
+  "language": "en",
+  "matron": "14216@14",
+  "sire": "14340@18",
+  "children": [
+    "28046@20",
+    "51394@20",
+    "111895@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 23829,
+  "name": "Purrple Nurple",
+  "generation": 18,
+  "created_at": "2017-12-01T18:41:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Purrple Nurple. In high school, I was voted most likely to work at NASA. My friends describe me as \"brilliant.\" It's... accurate. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "16403@15",
+  "sire": "18416@17",
+  "children": [
+    "74445@19",
+    "92258@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

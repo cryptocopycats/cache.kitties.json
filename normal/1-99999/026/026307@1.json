@@ -1,0 +1,30 @@
+{
+  "id": 26307,
+  "name": "Cymric gen 1",
+  "generation": 1,
+  "created_at": "2017-12-02T03:22:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Cymric gen 1. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "16004@0",
+  "sire": "1282@0",
+  "children": [
+    "27301@4",
+    "33940@3",
+    "41967@4",
+    "48393@2",
+    "48637@18",
+    "51403@6",
+    "54333@4",
+    "57365@2",
+    "84421@2",
+    "107107@2",
+    "162746@2",
+    "164116@2",
+    "363090@2",
+    "648635@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

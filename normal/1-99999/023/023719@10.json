@@ -1,0 +1,22 @@
+{
+  "id": 23719,
+  "name": "Bloodred Cymric",
+  "generation": 10,
+  "created_at": "2017-12-01T18:32:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Bloodred Cymric. I want to live in a world where people believe the world is flat. I once made a gecko jump. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "17387@6",
+  "sire": "18682@9",
+  "children": [
+    "26071@11",
+    "27206@11",
+    "28430@18",
+    "46527@11",
+    "49635@11",
+    "89385@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

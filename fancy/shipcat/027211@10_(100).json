@@ -1,0 +1,25 @@
+{
+  "id": 27211,
+  "name": "G10 Sailor's Son",
+  "generation": 10,
+  "created_at": "2017-12-02T06:17:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm G10 Sailor's Son. I'm often referred to as the Hermione Granger of the group. When no one's home, I invite my pals over and we listen to Justin Bieber. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "27023@8",
+  "sire": "25707@9",
+  "children": [
+    "28942@11",
+    "40660@11",
+    "63424@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 100,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

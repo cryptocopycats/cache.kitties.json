@@ -1,0 +1,19 @@
+{
+  "id": 26055,
+  "name": "Faygo",
+  "generation": 10,
+  "created_at": "2017-12-02T02:19:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Faygo. I'm a professional Dispensary Clerk and I love apple pie. I was voted biggest teacher's pet in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18242@6",
+  "sire": "21364@9",
+  "children": [
+    "57488@13",
+    "59096@11",
+    "106776@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

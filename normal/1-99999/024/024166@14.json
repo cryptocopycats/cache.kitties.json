@@ -1,0 +1,19 @@
+{
+  "id": 24166,
+  "name": "Kiki",
+  "generation": 14,
+  "created_at": "2017-12-01T20:03:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kiki. I believe the world is flat. I once got in a fight with a rabbit, and won. Let's get busy!",
+  "language": "en",
+  "matron": "16492@13",
+  "sire": "12945@11",
+  "children": [
+    "31629@15",
+    "42710@15",
+    "76518@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

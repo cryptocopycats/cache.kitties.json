@@ -1,0 +1,19 @@
+{
+  "id": 23154,
+  "name": "Snow",
+  "generation": 18,
+  "created_at": "2017-12-01T16:00:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Snow. My friends describe me as voluptuous and ridiculous. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Our friendship will be voluptuous, ridiculous, and full of lasagna.",
+  "language": "en",
+  "matron": "6830@14",
+  "sire": "7186@17",
+  "children": [
+    "30960@19",
+    "89570@19",
+    "152242@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

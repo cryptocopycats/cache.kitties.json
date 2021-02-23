@@ -1,0 +1,24 @@
+{
+  "id": 26765,
+  "name": "Coffee!",
+  "generation": 13,
+  "created_at": "2017-12-02T04:47:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! Coffee! here. I'm here to enjoy chasing string and chasing red dots. In my free time, I can usually be found preposterous or playing chess. Will you be the pickles to my garlic butter?",
+  "language": "en",
+  "matron": "25293@12",
+  "sire": "24075@12",
+  "children": [
+    "27243@14",
+    "28706@16",
+    "32628@14",
+    "51464@15",
+    "100458@20",
+    "239392@20",
+    "377596@20",
+    "435021@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

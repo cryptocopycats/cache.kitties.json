@@ -1,0 +1,25 @@
+{
+  "id": 24397,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-01T20:48:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Gen6 here. I'm here to enjoy being a nevernude and staying woke. My secret indulgence is cantaloupe. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "24041@5",
+  "sire": "24236@5",
+  "children": [
+    "29113@20",
+    "35638@7",
+    "36284@7",
+    "37885@8",
+    "40826@7",
+    "53598@7",
+    "81676@9",
+    "99421@9",
+    "149418@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

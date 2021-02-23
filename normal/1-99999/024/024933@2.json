@@ -1,0 +1,26 @@
+{
+  "id": 24933,
+  "name": "Graymach",
+  "generation": 2,
+  "created_at": "2017-12-01T22:30:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Graymach. I enjoy spinning sick beats, sweating through my feet, and taking selfies. My friends describe me as \"fabulous.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15487@0",
+  "sire": "19916@1",
+  "children": [
+    "33366@3",
+    "33504@16",
+    "33713@3",
+    "34154@3",
+    "34585@8",
+    "35186@7",
+    "39258@3",
+    "45584@6",
+    "46346@6",
+    "100723@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

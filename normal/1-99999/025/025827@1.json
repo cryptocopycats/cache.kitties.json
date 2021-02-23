@@ -1,0 +1,18 @@
+{
+  "id": 25827,
+  "name": "Gen 1 B1",
+  "generation": 1,
+  "created_at": "2017-12-02T01:17:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! My name's Gen 1 B1. I once peed on Amelia Earhart's cat. They had it coming. I am 63% elf, 7% Spin Instructor , and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "21745@0",
+  "sire": "22345@0",
+  "children": [
+    "51515@2",
+    "53944@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

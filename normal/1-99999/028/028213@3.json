@@ -1,0 +1,18 @@
+{
+  "id": 28213,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-02T09:47:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #28213. My friends describe me as despicable and smelly. I once bit a platypus. I don't like to talk about it. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "2325@0",
+  "sire": "28173@2",
+  "children": [
+    "28234@4",
+    "49926@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 28245,
+  "name": "Peach",
+  "generation": 13,
+  "created_at": "2017-12-02T09:57:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Peach. I've never told anyone this, but I once pranced with a dog. My friends describe me as \"ridiculous.\" It's... accurate. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "24844@4",
+  "sire": "26758@12",
+  "children": [
+    "31555@14",
+    "31664@14",
+    "39552@16",
+    "62324@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24962,
+  "name": "Stripy",
+  "generation": 15,
+  "created_at": "2017-12-01T22:45:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Stripy. I'm a Dispensary Clerk by day, and I like swiping left by night. I'm often described as hairy, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "10869@9",
+  "sire": "15730@14",
+  "children": [
+    "45184@16",
+    "51095@20",
+    "58674@16",
+    "100746@22",
+    "145611@17",
+    "333456@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

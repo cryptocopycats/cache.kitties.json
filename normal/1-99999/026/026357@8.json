@@ -1,0 +1,20 @@
+{
+  "id": 26357,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-02T03:33:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm 8. In high school, I was voted biggest teacher's pet. My friends describe me as \"gullible.\" It's... accurate. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "25959@7",
+  "sire": "25444@7",
+  "children": [
+    "26842@10",
+    "38796@9",
+    "56456@9",
+    "76835@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

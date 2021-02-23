@@ -1,0 +1,18 @@
+{
+  "id": 23968,
+  "name": "Gen8",
+  "generation": 8,
+  "created_at": "2017-12-01T19:14:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Gen8. I've never told anyone this, but I once kissed a dog. I once made a dog trot. Our friendship will be fabulous, raunchy, and full of cantaloupe.",
+  "language": "en",
+  "matron": "23546@7",
+  "sire": "17181@7",
+  "children": [
+    "24379@9",
+    "30110@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

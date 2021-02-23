@@ -1,0 +1,19 @@
+{
+  "id": 25341,
+  "name": "Gen 4 royalpurple gene",
+  "generation": 4,
+  "created_at": "2017-12-01T23:38:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 4 royalpurple gene. I'm often referred to as the Michael Scott of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "24721@3",
+  "sire": "23903@3",
+  "children": [
+    "29037@5",
+    "29213@5",
+    "30029@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

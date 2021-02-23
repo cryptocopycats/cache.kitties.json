@@ -1,0 +1,18 @@
+{
+  "id": 24212,
+  "name": "calicool",
+  "generation": 12,
+  "created_at": "2017-12-01T20:15:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm calicool. In high school, I was voted biggest teacher's pet. I am 53% gremlin, 47% Ventriloquist, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23171@10",
+  "sire": "23356@11",
+  "children": [
+    "25474@13",
+    "26003@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

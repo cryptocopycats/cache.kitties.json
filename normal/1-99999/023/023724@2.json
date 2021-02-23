@@ -1,0 +1,26 @@
+{
+  "id": 23724,
+  "name": "Gen 2 Salmon Trait 14%",
+  "generation": 2,
+  "created_at": "2017-12-01T18:33:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Gen 2 Salmon Trait 14%. I'm a Dogwalker by day, and I like people-watching by night. My friends describe me as \"fabulous.\" It's... accurate. Our friendship will be vegan, preposterous, and full of cereal.",
+  "language": "en",
+  "matron": "6075@1",
+  "sire": "7001@1",
+  "children": [
+    "23846@3",
+    "23900@3",
+    "24721@3",
+    "25143@3",
+    "25810@3",
+    "28818@3",
+    "30386@3",
+    "35021@3",
+    "126033@3",
+    "155336@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

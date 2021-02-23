@@ -1,0 +1,19 @@
+{
+  "id": 25125,
+  "name": "Stripes",
+  "generation": 16,
+  "created_at": "2017-12-01T23:11:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Stripes. I've never told anyone this, but I once licked a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17230@15",
+  "sire": "17403@11",
+  "children": [
+    "215908@17",
+    "273725@19",
+    "658953@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

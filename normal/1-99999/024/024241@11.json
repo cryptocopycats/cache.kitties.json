@@ -1,0 +1,20 @@
+{
+  "id": 24241,
+  "name": "Blue - Gen 11",
+  "generation": 11,
+  "created_at": "2017-12-01T20:22:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Blue - Gen 11. I enjoy sitting on your computer, shakin' dat booty, and riding dirty. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "15974@10",
+  "sire": "22685@10",
+  "children": [
+    "25925@16",
+    "28875@19",
+    "39714@12",
+    "56412@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

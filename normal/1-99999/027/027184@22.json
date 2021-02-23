@@ -1,0 +1,18 @@
+{
+  "id": 27184,
+  "name": "Otamaru",
+  "generation": 22,
+  "created_at": "2017-12-02T06:10:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Otamaru. I'm a Culinary Sanitation Specialist by day, and I like playing chess by night. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16831@21",
+  "sire": "18807@15",
+  "children": [
+    "29755@23",
+    "111211@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

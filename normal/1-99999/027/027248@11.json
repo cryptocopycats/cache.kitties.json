@@ -1,0 +1,22 @@
+{
+  "id": 27248,
+  "name": "Cerulian Stripper",
+  "generation": 11,
+  "created_at": "2017-12-02T06:25:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Cerulian Stripper. I believe that one day cats will rule this planet. I once got in a fight with a rhino, and won. Let's get busy!",
+  "language": "en",
+  "matron": "26895@10",
+  "sire": "23745@7",
+  "children": [
+    "27540@12",
+    "29205@12",
+    "35756@17",
+    "73404@12",
+    "145711@19",
+    "387334@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

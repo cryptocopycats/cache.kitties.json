@@ -1,0 +1,19 @@
+{
+  "id": 27196,
+  "name": "SpottyKitty",
+  "generation": 13,
+  "created_at": "2017-12-02T06:14:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm SpottyKitty. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Michael Scott of the group. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "14115@10",
+  "sire": "14408@12",
+  "children": [
+    "32441@14",
+    "109088@16",
+    "403290@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

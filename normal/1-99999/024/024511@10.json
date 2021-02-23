@@ -1,0 +1,24 @@
+{
+  "id": 24511,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-01T21:07:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #24511. I want to live in a world where people believe the world is flat. I am 73% sphinx, 41% Ventriloquist, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14360@4",
+  "sire": "14829@9",
+  "children": [
+    "27519@14",
+    "29286@18",
+    "31193@18",
+    "33941@11",
+    "38205@19",
+    "47488@11",
+    "122548@15",
+    "274220@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

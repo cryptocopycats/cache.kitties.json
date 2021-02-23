@@ -1,0 +1,23 @@
+{
+  "id": 23802,
+  "name": "Gen0 Fast",
+  "generation": 0,
+  "created_at": "2017-12-01T18:36:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Gen0 Fast. I once peed on Amelia Earhart's cat. They had it coming. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "27339@18",
+    "27583@4",
+    "27670@4",
+    "30381@19",
+    "45928@19",
+    "123533@20",
+    "265087@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 24309,
+  "name": "Gen7 & Snappy",
+  "generation": 7,
+  "created_at": "2017-12-01T20:34:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Gen7 & Snappy. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Let's get busy!",
+  "language": "en",
+  "matron": "24037@6",
+  "sire": "21982@6",
+  "children": [
+    "25428@14",
+    "25716@8",
+    "25763@12",
+    "26251@8",
+    "42923@8",
+    "56877@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

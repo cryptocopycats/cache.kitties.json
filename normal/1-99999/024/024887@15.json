@@ -1,0 +1,20 @@
+{
+  "id": 24887,
+  "name": "Bubblegum Bob",
+  "generation": 15,
+  "created_at": "2017-12-01T22:13:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Bubblegum Bob. I enjoy chasing red dots, spinning sick beats, and hitting on yo' man. I am 31% wizard, 36% Dispensary Clerk, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "23653@14",
+  "sire": "23665@14",
+  "children": [
+    "27163@17",
+    "29226@16",
+    "38999@19",
+    "63604@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

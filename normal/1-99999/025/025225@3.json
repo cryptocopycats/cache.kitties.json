@@ -1,0 +1,19 @@
+{
+  "id": 25225,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-01T23:18:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 3. I'm often referred to as the Hermione Granger of the group. I once got in a fight with a rhino, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23908@2",
+  "sire": "18570@2",
+  "children": [
+    "25281@4",
+    "25622@4",
+    "34210@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

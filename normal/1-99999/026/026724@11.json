@@ -1,0 +1,23 @@
+{
+  "id": 26724,
+  "name": "Yo",
+  "generation": 11,
+  "created_at": "2017-12-02T04:38:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Yo. My friends describe me as tantalizing and annoying. In my free time, I can usually be found smelly or riding the bus. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "25579@9",
+  "sire": "13845@10",
+  "children": [
+    "30413@12",
+    "32606@12",
+    "38608@20",
+    "54921@14",
+    "72413@12",
+    "82410@12",
+    "299796@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

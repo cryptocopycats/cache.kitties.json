@@ -1,0 +1,21 @@
+{
+  "id": 26110,
+  "name": "g6 cymric",
+  "generation": 6,
+  "created_at": "2017-12-02T02:34:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm g6 cymric. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of picking flowers, lasagna, and braiding people's hair. Let's pawty!",
+  "language": "en",
+  "matron": "25640@5",
+  "sire": "25706@5",
+  "children": [
+    "26158@9",
+    "34651@7",
+    "35876@7",
+    "60903@7",
+    "73078@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

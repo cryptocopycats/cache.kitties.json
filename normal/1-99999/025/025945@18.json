@@ -1,0 +1,19 @@
+{
+  "id": 25945,
+  "name": "18",
+  "generation": 18,
+  "created_at": "2017-12-02T01:53:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm 18. I enjoy fighting for the people, eating until I loathe myself, and staying woke. I like to listen to Wutang while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20739@17",
+  "sire": "21682@12",
+  "children": [
+    "44980@19",
+    "72655@19",
+    "321901@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

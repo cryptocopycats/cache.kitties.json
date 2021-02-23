@@ -1,0 +1,17 @@
+{
+  "id": 28297,
+  "name": "Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-02T10:01:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 8. My friends describe me as raunchy and smelly. I once pawed at a labradoodle. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "25622@4",
+  "sire": "25203@7",
+  "children": [
+    "502120@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

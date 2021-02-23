@@ -1,0 +1,31 @@
+{
+  "id": 25871,
+  "name": "98th DUCAT & 195th fancy",
+  "generation": 6,
+  "created_at": "2017-12-02T01:27:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm 98th DUCAT & 195th fancy. I enjoy tripping my owner, eating lasagna, and being a nevernude. I put pickles on everything. Like, everything: hot dogs, steak—everything! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25791@5",
+  "sire": "25820@5",
+  "children": [
+    "26192@15",
+    "26675@7",
+    "30548@19",
+    "36855@21",
+    "40122@11",
+    "66324@7",
+    "75580@9",
+    "107828@7",
+    "148685@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 98,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

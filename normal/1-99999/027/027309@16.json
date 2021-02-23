@@ -1,0 +1,19 @@
+{
+  "id": 27309,
+  "name": "Dali",
+  "generation": 16,
+  "created_at": "2017-12-02T06:40:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Dali. I've never told anyone this, but I once kissed a dog. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "22864@15",
+  "sire": "20738@12",
+  "children": [
+    "42187@17",
+    "65845@17",
+    "247969@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

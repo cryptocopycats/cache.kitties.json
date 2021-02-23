@@ -1,0 +1,19 @@
+{
+  "id": 24851,
+  "name": "Andromeda",
+  "generation": 14,
+  "created_at": "2017-12-01T22:04:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Andromeda. I enjoy grooming, picking on mice, and shakin' dat booty. When I'm not riverdancing, I'm pole dancing! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "22056@6",
+  "sire": "23100@13",
+  "children": [
+    "30960@19",
+    "48552@16",
+    "296542@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

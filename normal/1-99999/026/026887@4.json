@@ -1,0 +1,24 @@
+{
+  "id": 26887,
+  "name": "Choco",
+  "generation": 4,
+  "created_at": "2017-12-02T05:15:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Choco. I want to live in a world where people believe that one day cats will rule this planet. I once tricked a gecko. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "25032@3",
+  "sire": "26634@3",
+  "children": [
+    "27587@11",
+    "58148@5",
+    "60591@8",
+    "70631@19",
+    "81395@12",
+    "106733@13",
+    "118144@16",
+    "469897@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

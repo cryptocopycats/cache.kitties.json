@@ -1,0 +1,21 @@
+{
+  "id": 23937,
+  "name": "Gen5",
+  "generation": 5,
+  "created_at": "2017-12-01T19:07:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! Gen5 here. I'm here to enjoy breakdancing and riding unicorns. I like to listen to Frank Sinatra while grooming. Don't judge me. Our friendship will be brilliant, seductive, and full of chocolate.",
+  "language": "en",
+  "matron": "23641@4",
+  "sire": "23112@4",
+  "children": [
+    "24177@6",
+    "24278@6",
+    "24702@6",
+    "28320@6",
+    "28891@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

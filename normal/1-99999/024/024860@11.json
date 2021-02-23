@@ -1,0 +1,22 @@
+{
+  "id": 24860,
+  "name": "Gen 11 Slow",
+  "generation": 11,
+  "created_at": "2017-12-01T22:05:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 11 Slow. I've never told anyone this, but I once bit a dog. My friends describe me as \"wondrous.\" It's... accurate. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "23847@2",
+  "sire": "24633@10",
+  "children": [
+    "25513@12",
+    "26289@13",
+    "27049@12",
+    "41429@12",
+    "58947@12",
+    "83022@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 27295,
+  "name": "Giblet",
+  "generation": 4,
+  "created_at": "2017-12-02T06:36:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Giblet. I want to live in a world where people believe that one day cats will rule this planet. I once licked a platypus. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24640@1",
+  "sire": "26417@3",
+  "children": [
+    "31932@5",
+    "75235@5",
+    "84520@6",
+    "106578@6",
+    "119297@6",
+    "142633@6",
+    "183361@6",
+    "278091@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

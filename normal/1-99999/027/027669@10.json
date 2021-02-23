@@ -1,0 +1,18 @@
+{
+  "id": 27669,
+  "name": "Wide-eyed Willy",
+  "generation": 10,
+  "created_at": "2017-12-02T07:50:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Wide-eyed Willy. I've never told anyone this, but I once cleaned a dog. I once dreamed of being a Aerobics Athlete . Now I can be found watching reality tv all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16922@8",
+  "sire": "16851@9",
+  "children": [
+    "42524@11",
+    "59321@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 27582,
+  "name": "Spock Aquamarine",
+  "generation": 3,
+  "created_at": "2017-12-02T07:33:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Spock Aquamarine. My friends describe me as tantalizing and stinky. In my free time, I can usually be found brilliant or siring for status. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26506@2",
+  "sire": "22094@2",
+  "children": [
+    "27799@4",
+    "27847@4",
+    "34494@18",
+    "38967@4",
+    "39325@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

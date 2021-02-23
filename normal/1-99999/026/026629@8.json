@@ -1,0 +1,23 @@
+{
+  "id": 26629,
+  "name": "Gen 8 | Snappy/BloodRed Parent",
+  "generation": 8,
+  "created_at": "2017-12-02T04:15:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Gen 8 | Snappy/BloodRed Parent. I enjoy glaring at the neighbour's cat, grooming, and licking doorknobs. I once dreamed of being a Mad Scientist. Now I can be found riding the bus all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "25859@6",
+  "sire": "26122@7",
+  "children": [
+    "26856@9",
+    "27471@9",
+    "27935@9",
+    "35288@9",
+    "60987@11",
+    "113187@9",
+    "137171@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

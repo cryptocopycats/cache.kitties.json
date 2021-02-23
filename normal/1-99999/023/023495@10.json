@@ -1,0 +1,20 @@
+{
+  "id": 23495,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-01T18:08:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #23495. In high school, I was voted most likely to work at NASA. I once made a chimpanzee sulk. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10322@9",
+  "sire": "15672@9",
+  "children": [
+    "24901@15",
+    "32352@13",
+    "35120@15",
+    "79175@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

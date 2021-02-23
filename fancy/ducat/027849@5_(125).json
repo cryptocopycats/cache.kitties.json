@@ -1,0 +1,27 @@
+{
+  "id": 27849,
+  "name": "Ducat #125",
+  "generation": 5,
+  "created_at": "2017-12-02T08:36:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Ducat #125. I want to live in a world where people believe the world is flat. In my free time, I can usually be found fabulous or braiding people's hair. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26859@1",
+  "sire": "27799@4",
+  "children": [
+    "43311@19",
+    "58858@6",
+    "59076@13",
+    "82276@20",
+    "108038@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 125,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

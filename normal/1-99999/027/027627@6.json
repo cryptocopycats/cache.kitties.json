@@ -1,0 +1,26 @@
+{
+  "id": 27627,
+  "name": "G6 CHESTNUT TIGER SALMON",
+  "generation": 6,
+  "created_at": "2017-12-02T07:40:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm G6 CHESTNUT TIGER SALMON. In high school, I was voted most likely to work at NASA. I once made a rabbit grimace. I like your face.",
+  "language": "en",
+  "matron": "27202@5",
+  "sire": "18240@5",
+  "children": [
+    "35618@7",
+    "36219@7",
+    "39213@7",
+    "42663@7",
+    "52694@21",
+    "53574@7",
+    "75160@7",
+    "101796@7",
+    "102621@7",
+    "165928@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

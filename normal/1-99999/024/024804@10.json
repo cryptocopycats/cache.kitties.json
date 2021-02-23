@@ -1,0 +1,18 @@
+{
+  "id": 24804,
+  "name": "G10 | Blue Tiger",
+  "generation": 10,
+  "created_at": "2017-12-01T21:57:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! I'm G10 | Blue Tiger. I'm often referred to as the Ross Geller of the group. I once got in a fight with a moose, and won. Our friendship will be preposterous, petulant, and full of cereal.",
+  "language": "en",
+  "matron": "24159@9",
+  "sire": "24525@9",
+  "children": [
+    "26198@12",
+    "26495@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

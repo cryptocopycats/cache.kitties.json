@@ -1,0 +1,19 @@
+{
+  "id": 24797,
+  "name": "Captain Brisket",
+  "generation": 18,
+  "created_at": "2017-12-01T21:56:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Captain Brisket. In high school, I was voted school jock. Some people say I'm the Ross Geller of the group. I like your face.",
+  "language": "en",
+  "matron": "17619@11",
+  "sire": "16476@17",
+  "children": [
+    "29325@19",
+    "72405@19",
+    "259973@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

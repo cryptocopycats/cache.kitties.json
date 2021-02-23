@@ -1,0 +1,25 @@
+{
+  "id": 25547,
+  "name": "6 Ametists GEN:9",
+  "generation": 9,
+  "created_at": "2017-12-02T00:20:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm 6 Ametists GEN:9. I believe the world is flat. I once got in a fight with a dolphin, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "24624@0",
+  "sire": "24850@8",
+  "children": [
+    "25656@10",
+    "28509@10",
+    "29317@10",
+    "36439@10",
+    "36712@10",
+    "49846@16",
+    "61613@11",
+    "138214@10",
+    "314079@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

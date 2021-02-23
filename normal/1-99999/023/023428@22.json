@@ -1,0 +1,17 @@
+{
+  "id": 23428,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-01T17:58:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Gen 22. My friends describe me as raunchy and voluptuous. I'm often described as prickly, and I own it. Our friendship will be raunchy, voluptuous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "16880@21",
+  "sire": "16843@20",
+  "children": [
+    "45909@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

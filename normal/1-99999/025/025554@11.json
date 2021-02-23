@@ -1,0 +1,20 @@
+{
+  "id": 25554,
+  "name": "Peachy Beard",
+  "generation": 11,
+  "created_at": "2017-12-02T00:20:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Peachy Beard. I believe the world is flat. I put marmalade on everything. Like, everything: hot dogs, ice cream—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "24339@9",
+  "sire": "24594@10",
+  "children": [
+    "25877@12",
+    "26533@15",
+    "59816@12",
+    "73470@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 23868,
+  "name": "Mr. Green",
+  "generation": 10,
+  "created_at": "2017-12-01T18:51:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Mr. Green. My friends describe me as brilliant and wondrous. I am 33% elf, 2% Spin Instructor , and otherwise bad at math. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "23713@7",
+  "sire": "11757@9",
+  "children": [
+    "29953@11",
+    "29978@15",
+    "36610@11",
+    "39666@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
