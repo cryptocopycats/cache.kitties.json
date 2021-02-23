@@ -1,0 +1,19 @@
+{
+  "id": 4558,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T08:48:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #4558. I believe the world is flat. Some people say I'm the Hermione Granger of the group. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "3075@1",
+  "sire": "4515@9",
+  "children": [
+    "4746@11",
+    "6595@11",
+    "7014@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

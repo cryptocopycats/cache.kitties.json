@@ -1,0 +1,20 @@
+{
+  "id": 5287,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T19:15:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Kitty #5287. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"annoying.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4442@11",
+  "sire": "4287@10",
+  "children": [
+    "6199@13",
+    "11067@13",
+    "12033@13",
+    "143878@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

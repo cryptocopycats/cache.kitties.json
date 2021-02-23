@@ -1,0 +1,21 @@
+{
+  "id": 3633,
+  "name": "Ritzalot",
+  "generation": 3,
+  "created_at": "2017-11-24T01:50:34.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Ritzalot. All you need to know about me is I hate chocolate with a passion. My friends describe me as \"smelly.\" It's... accurate. Our friendship will be gorgeous, fabulous, and full of wet food.",
+  "language": "en",
+  "matron": "3552@2",
+  "sire": "1280@0",
+  "children": [
+    "5340@4",
+    "5367@5",
+    "20874@4",
+    "22000@4",
+    "80043@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

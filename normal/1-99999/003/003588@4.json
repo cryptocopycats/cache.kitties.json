@@ -1,0 +1,17 @@
+{
+  "id": 3588,
+  "name": "gen4 snappy",
+  "generation": 4,
+  "created_at": "2017-11-24T01:32:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's gen4 snappy. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Hermione Granger of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3171@3",
+  "sire": "3506@3",
+  "children": [
+    "4414@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

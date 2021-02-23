@@ -1,0 +1,23 @@
+{
+  "id": 5512,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T21:13:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #5512. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Neville Longbottom of the group. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "1413@0",
+  "sire": "5417@1",
+  "children": [
+    "5589@3",
+    "145257@3",
+    "145799@3",
+    "146637@3",
+    "147190@3",
+    "148489@3",
+    "154658@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

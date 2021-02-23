@@ -1,0 +1,27 @@
+{
+  "id": 5947,
+  "name": "o'Rangy Gen2",
+  "generation": 2,
+  "created_at": "2017-11-25T00:54:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm o'Rangy Gen2. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2082@0",
+  "sire": "3017@1",
+  "children": [
+    "6071@3",
+    "10615@5",
+    "10668@3",
+    "10722@5",
+    "10885@5",
+    "11881@5",
+    "12541@3",
+    "13479@13",
+    "18791@11",
+    "26401@14",
+    "59421@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

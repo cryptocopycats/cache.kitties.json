@@ -1,0 +1,19 @@
+{
+  "id": 4717,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T10:26:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #4717. I'm a Culinary Sanitation Specialist by day, and I like playing chess by night. I once dreamed of being a Mad Scientist. Now I can be found swiping left all day. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "3189@4",
+  "sire": "3959@8",
+  "children": [
+    "5105@10",
+    "5276@12",
+    "214156@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

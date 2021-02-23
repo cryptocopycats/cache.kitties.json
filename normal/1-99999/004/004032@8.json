@@ -1,0 +1,23 @@
+{
+  "id": 4032,
+  "name": "Mogwai",
+  "generation": 8,
+  "created_at": "2017-11-24T04:44:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mogwai. I believe the world is flat. When I'm not jump-roping, I'm volunteering at the local kitten rescue shelter! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3993@7",
+  "sire": "3996@7",
+  "children": [
+    "4166@9",
+    "4244@9",
+    "4546@11",
+    "5334@9",
+    "6938@9",
+    "8678@9",
+    "10115@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

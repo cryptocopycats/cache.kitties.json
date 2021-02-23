@@ -1,0 +1,22 @@
+{
+  "id": 4673,
+  "name": "Dimwit",
+  "generation": 11,
+  "created_at": "2017-11-24T09:52:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Dimwit. I'm often referred to as the Neville Longbottom of the group. I would give it all up for a Chanel purse. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4229@10",
+  "sire": "4395@9",
+  "children": [
+    "4824@12",
+    "4926@12",
+    "7022@12",
+    "13361@13",
+    "19615@12",
+    "27252@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

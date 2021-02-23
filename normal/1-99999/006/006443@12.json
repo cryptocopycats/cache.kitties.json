@@ -1,0 +1,22 @@
+{
+  "id": 6443,
+  "name": "Otto",
+  "generation": 12,
+  "created_at": "2017-11-25T05:08:15.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Otto. My friends describe me as despicable and annoying. I like to listen to Coldplay while grooming. Don't judge me. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "4975@6",
+  "sire": "5969@11",
+  "children": [
+    "6852@13",
+    "7693@14",
+    "9056@13",
+    "11434@13",
+    "33401@13",
+    "108961@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

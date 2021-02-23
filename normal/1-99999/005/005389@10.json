@@ -1,0 +1,23 @@
+{
+  "id": 5389,
+  "name": "Charles Lickens",
+  "generation": 10,
+  "created_at": "2017-11-24T20:03:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Charles Lickens. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5266@9",
+  "sire": "5300@5",
+  "children": [
+    "5766@13",
+    "6059@11",
+    "7115@11",
+    "7395@11",
+    "9571@15",
+    "11259@12",
+    "117823@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

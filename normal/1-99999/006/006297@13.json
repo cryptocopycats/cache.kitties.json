@@ -1,0 +1,23 @@
+{
+  "id": 6297,
+  "name": "Grenadine milk",
+  "generation": 13,
+  "created_at": "2017-11-25T03:41:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Grenadine milk. All you need to know about me is I hate apple pie with a passion. I once got in a fight with a rooster, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5488@12",
+  "sire": "5665@10",
+  "children": [
+    "6925@14",
+    "7709@14",
+    "7963@15",
+    "8651@15",
+    "8982@15",
+    "13494@14",
+    "55951@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

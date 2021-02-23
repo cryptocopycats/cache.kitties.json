@@ -1,0 +1,19 @@
+{
+  "id": 4366,
+  "name": "Colonel Sanders",
+  "generation": 10,
+  "created_at": "2017-11-24T07:00:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! My name's Colonel Sanders. I once peed on Martin Luther King Jr.'s cat. They had it coming. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4074@9",
+  "sire": "4061@6",
+  "children": [
+    "7408@13",
+    "10916@15",
+    "11317@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5870,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-25T00:22:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #5870. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "2025@0",
+  "sire": "5340@4",
+  "children": [
+    "6121@10",
+    "7742@8"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

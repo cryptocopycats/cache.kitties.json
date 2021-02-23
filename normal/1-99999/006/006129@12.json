@@ -1,0 +1,20 @@
+{
+  "id": 6129,
+  "name": "Wondernut",
+  "generation": 12,
+  "created_at": "2017-11-25T02:18:59.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Wondernut. My friends describe me as hairy and smelly. I'm often described as petulant, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5116@10",
+  "sire": "5247@11",
+  "children": [
+    "6735@13",
+    "10562@13",
+    "13143@17",
+    "28834@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

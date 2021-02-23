@@ -1,0 +1,24 @@
+{
+  "id": 5162,
+  "name": "Mr. CaliCool Gen11",
+  "generation": 11,
+  "created_at": "2017-11-24T17:58:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Mr. CaliCool Gen11. I believe the world is flat. I once dreamed of being a Skydiving Instructor. Now I can be found sleeping in fresh laundry all day. Let's get busy!",
+  "language": "en",
+  "matron": "4792@10",
+  "sire": "4848@10",
+  "children": [
+    "5316@12",
+    "5447@12",
+    "5848@14",
+    "6846@12",
+    "18967@12",
+    "27615@20",
+    "98596@14",
+    "112471@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4819,
+  "name": "Fabulous Dali",
+  "generation": 7,
+  "created_at": "2017-11-24T11:33:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Fabulous Dali. In high school, I was voted most likely to work at NASA. I put ranch dressing on everything. Like, everything: hot dogs, salad—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4727@6",
+  "sire": "4633@5",
+  "children": [
+    "13041@9",
+    "15757@15",
+    "17044@17",
+    "17647@12",
+    "19437@9",
+    "67161@12",
+    "94569@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

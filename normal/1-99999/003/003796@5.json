@@ -1,0 +1,19 @@
+{
+  "id": 3796,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-24T03:09:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #3796. I'm often referred to as the Hermione Granger of the group. Sometimes I daydream of a life full of watching Stranger Things, apple pie, and sleeping in fresh laundry. I like your face.",
+  "language": "en",
+  "matron": "3591@4",
+  "sire": "3307@2",
+  "children": [
+    "3917@7",
+    "3981@8",
+    "4228@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

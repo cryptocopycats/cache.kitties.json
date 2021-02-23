@@ -1,0 +1,24 @@
+{
+  "id": 5987,
+  "name": "Carl",
+  "generation": 13,
+  "created_at": "2017-11-25T01:13:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Carl. My friends describe me as fabulous and tantalizing. It's not common knowledge, but my ancestry connects me to Cleopatra. I like your face.",
+  "language": "en",
+  "matron": "4067@10",
+  "sire": "5052@12",
+  "children": [
+    "7778@14",
+    "54600@14",
+    "81065@14",
+    "92040@14",
+    "138478@14",
+    "223030@14",
+    "372709@14",
+    "413197@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

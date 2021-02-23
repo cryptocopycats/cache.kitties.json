@@ -1,0 +1,19 @@
+{
+  "id": 4423,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T07:23:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! Kitty #4423 here. I'm here to enjoy grooming and reading garfield. My friends describe me as \"seductive.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4320@8",
+  "sire": "3212@3",
+  "children": [
+    "5198@11",
+    "5295@10",
+    "10867@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

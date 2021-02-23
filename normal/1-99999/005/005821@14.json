@@ -1,0 +1,20 @@
+{
+  "id": 5821,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T00:01:32.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #5821. I'm a professional Foreign Film Director and I love cantaloupe. My friends describe me as \"wondrous.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "3880@5",
+  "sire": "4844@13",
+  "children": [
+    "7906@15",
+    "8454@16",
+    "9449@15",
+    "11666@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

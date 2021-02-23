@@ -1,0 +1,22 @@
+{
+  "id": 3870,
+  "name": "Viktor",
+  "generation": 9,
+  "created_at": "2017-11-24T03:43:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Viktor. I'm often referred to as the Bart Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Let's get busy!",
+  "language": "en",
+  "matron": "3819@7",
+  "sire": "3841@8",
+  "children": [
+    "3965@10",
+    "4116@10",
+    "4581@10",
+    "54131@10",
+    "114224@10",
+    "137722@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

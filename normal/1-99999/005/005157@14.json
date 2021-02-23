@@ -1,0 +1,19 @@
+{
+  "id": 5157,
+  "name": "Mittens",
+  "generation": 14,
+  "created_at": "2017-11-24T17:54:30.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Mittens. I'm often referred to as the Bart Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Let's pawty!",
+  "language": "en",
+  "matron": "4637@13",
+  "sire": "3789@6",
+  "children": [
+    "5620@15",
+    "8040@15",
+    "13165@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

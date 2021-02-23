@@ -1,0 +1,19 @@
+{
+  "id": 5930,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-25T00:47:50.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #5930. I've never told anyone this, but I once pawed at a dog. I like to listen to Wutang while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "3216@4",
+  "sire": "5159@6",
+  "children": [
+    "5982@8",
+    "9306@10",
+    "10141@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

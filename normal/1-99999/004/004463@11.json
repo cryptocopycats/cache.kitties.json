@@ -1,0 +1,18 @@
+{
+  "id": 4463,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T07:47:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #4463. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "4215@10",
+  "sire": "4229@10",
+  "children": [
+    "4576@13",
+    "4981@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

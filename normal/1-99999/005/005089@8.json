@@ -1,0 +1,23 @@
+{
+  "id": 5089,
+  "name": "Zeb",
+  "generation": 8,
+  "created_at": "2017-11-24T17:00:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! My name's Zeb. I once peed on Cleopatra's cat. They had it coming. My secret indulgence is ice cream. Our friendship will be raunchy, voluptuous, and full of lasagna.",
+  "language": "en",
+  "matron": "5011@7",
+  "sire": "4147@4",
+  "children": [
+    "5130@9",
+    "7398@9",
+    "7623@11",
+    "7901@16",
+    "8307@15",
+    "8929@9",
+    "55328@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

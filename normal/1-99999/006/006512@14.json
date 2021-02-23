@@ -1,0 +1,22 @@
+{
+  "id": 6512,
+  "name": "Kit Kat",
+  "generation": 14,
+  "created_at": "2017-11-25T05:51:39.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kit Kat. All you need to know about me is I hate apple pie with a passion. I am 98% wizard, 73% Ventriloquist, and otherwise bad at math. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5676@13",
+  "sire": "5898@2",
+  "children": [
+    "9830@15",
+    "14335@15",
+    "18104@19",
+    "23519@15",
+    "58062@15",
+    "66491@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

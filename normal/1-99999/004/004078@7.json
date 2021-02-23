@@ -1,0 +1,18 @@
+{
+  "id": 4078,
+  "name": "G7 Brisk",
+  "generation": 7,
+  "created_at": "2017-11-24T05:11:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G7 Brisk. In high school, I was voted biggest teacher's pet. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found pole dancing all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3111@2",
+  "sire": "4009@6",
+  "children": [
+    "4352@8",
+    "10850@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

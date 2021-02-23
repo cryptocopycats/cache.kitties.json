@@ -1,0 +1,19 @@
+{
+  "id": 3795,
+  "name": "Vladan",
+  "generation": 8,
+  "created_at": "2017-11-24T03:09:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Vladan. I've never told anyone this, but I once kissed a dog. I once made a labradoodle dance. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3671@7",
+  "sire": "3724@7",
+  "children": [
+    "3895@9",
+    "13892@13",
+    "14803@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

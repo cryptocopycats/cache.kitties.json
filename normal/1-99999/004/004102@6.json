@@ -1,0 +1,18 @@
+{
+  "id": 4102,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T05:22:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #4102. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "3902@5",
+  "sire": "3873@5",
+  "children": [
+    "4176@14",
+    "4497@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

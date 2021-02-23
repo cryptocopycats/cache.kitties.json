@@ -1,0 +1,21 @@
+{
+  "id": 6098,
+  "name": "Radioactive Monster",
+  "generation": 9,
+  "created_at": "2017-11-25T02:07:26.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Radioactive Monster. In high school, I was voted most likely to work at NASA. I once made a moose play. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4186@8",
+  "sire": "2434@0",
+  "children": [
+    "6122@10",
+    "6509@10",
+    "6674@10",
+    "7229@10",
+    "7711@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

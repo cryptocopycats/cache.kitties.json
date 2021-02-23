@@ -1,0 +1,20 @@
+{
+  "id": 3875,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T03:44:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's Kitty #3875. I once peed on Nelson Mandela's cat. They had it coming. When no one's home, I invite my pals over and we listen to Wutang. Let's get busy!",
+  "language": "en",
+  "matron": "3707@7",
+  "sire": "1100@0",
+  "children": [
+    "3963@9",
+    "4202@9",
+    "4551@9",
+    "4892@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

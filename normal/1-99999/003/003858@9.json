@@ -1,0 +1,23 @@
+{
+  "id": 3858,
+  "name": "G9 | Mint Lemonade",
+  "generation": 9,
+  "created_at": "2017-11-24T03:40:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm G9 | Mint Lemonade. I'm a professional Train Conductor and I love wet food. I'm often described as petulant, and I own it. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "3790@8",
+  "sire": "1374@0",
+  "children": [
+    "5112@10",
+    "5669@10",
+    "12052@13",
+    "37925@10",
+    "68478@13",
+    "89845@15",
+    "118319@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

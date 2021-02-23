@@ -1,0 +1,22 @@
+{
+  "id": 5000,
+  "name": "#5000",
+  "generation": 13,
+  "created_at": "2017-11-24T15:43:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm #5000. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Princess Diana. Will you be the peanut butter to my pickles?",
+  "language": "en",
+  "matron": "3697@7",
+  "sire": "3961@12",
+  "children": [
+    "5152@14",
+    "5966@14",
+    "7176@14",
+    "7809@14",
+    "9279@16",
+    "58527@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 5887,
+  "name": "SB",
+  "generation": 12,
+  "created_at": "2017-11-25T00:31:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm SB. I'm a professional Spin Instructor  and I love steak. It's not common knowledge, but my ancestry connects me to Princess Diana. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5573@8",
+  "sire": "5748@11",
+  "children": [
+    "6051@13",
+    "6678@13",
+    "7306@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

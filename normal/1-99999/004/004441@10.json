@@ -1,0 +1,22 @@
+{
+  "id": 4441,
+  "name": "Smartha Gatto",
+  "generation": 10,
+  "created_at": "2017-11-24T07:29:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Smartha Gatto. I enjoy glaring at the neighbour's cat, breakdancing, and sweating through my feet. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "4401@6",
+  "sire": "4394@9",
+  "children": [
+    "4536@11",
+    "5443@11",
+    "7098@11",
+    "13721@11",
+    "27592@11",
+    "48049@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

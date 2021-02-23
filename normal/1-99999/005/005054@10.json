@@ -1,0 +1,22 @@
+{
+  "id": 5054,
+  "name": "Droopy",
+  "generation": 10,
+  "created_at": "2017-11-24T16:31:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Droopy. I enjoy chasing string, being a nevernude, and spinning sick beats. I am 3% elf, 87% Mad Scientist, and otherwise bad at math. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "4648@8",
+  "sire": "4921@9",
+  "children": [
+    "5208@11",
+    "10527@11",
+    "12235@15",
+    "13627@14",
+    "17290@11",
+    "58542@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

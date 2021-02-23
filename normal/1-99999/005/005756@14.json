@@ -1,0 +1,22 @@
+{
+  "id": 5756,
+  "name": "Jean Luc Meowcard",
+  "generation": 14,
+  "created_at": "2017-11-24T23:30:25.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Jean Luc Meowcard. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Bart Simpson of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4561@13",
+  "sire": "3058@2",
+  "children": [
+    "8547@16",
+    "8627@15",
+    "11810@15",
+    "20670@16",
+    "34707@18",
+    "61536@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

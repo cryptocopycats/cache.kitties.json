@@ -1,0 +1,18 @@
+{
+  "id": 4567,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T08:52:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Kitty #4567. I'm a Private Dancer  by day, and I like siring for status by night. Some people say I'm the Ross Geller of the group. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "4345@9",
+  "sire": "4451@11",
+  "children": [
+    "4788@13",
+    "68220@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

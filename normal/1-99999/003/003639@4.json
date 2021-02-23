@@ -1,0 +1,20 @@
+{
+  "id": 3639,
+  "name": "Bandito {E}",
+  "generation": 4,
+  "created_at": "2017-11-24T01:52:41.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Bandito {E}. I've never told anyone this, but I once snuggled a dog. My friends describe me as \"raunchy.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3626@3",
+  "sire": "3630@2",
+  "children": [
+    "4994@9",
+    "5055@8",
+    "10693@6",
+    "76843@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

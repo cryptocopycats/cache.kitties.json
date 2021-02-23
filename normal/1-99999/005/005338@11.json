@@ -1,0 +1,19 @@
+{
+  "id": 5338,
+  "name": "Nicostratus Demokritos",
+  "generation": 11,
+  "created_at": "2017-11-24T19:37:33.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Nicostratus Demokritos. My friends describe me as prickly and petulant. I was voted most likely to work at NASA in college. I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "5224@10",
+  "sire": "4751@5",
+  "children": [
+    "5357@12",
+    "5679@12",
+    "25399@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6123,
+  "name": "Collector's Cat #6123",
+  "generation": 12,
+  "created_at": "2017-11-25T02:17:06.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Collector's Cat #6123. I enjoy chasing string, spinning sick beats, and sitting on your computer. When no one's home, I invite my pals over and we listen to Rihanna. Our friendship will be ridiculous, tantalizing, and full of hamburgers.",
+  "language": "en",
+  "matron": "4553@11",
+  "sire": "5455@9",
+  "children": [
+    "6723@17",
+    "6878@13",
+    "6922@13",
+    "8288@15",
+    "13963@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

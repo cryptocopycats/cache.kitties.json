@@ -1,0 +1,17 @@
+{
+  "id": 3768,
+  "name": "R2D2",
+  "generation": 10,
+  "created_at": "2017-11-24T02:57:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm R2D2. I want to live in a world where people believe the world is flat. I put marmalade on everything. Like, everything: hot dogs, cereal—everything! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3505@3",
+  "sire": "3753@9",
+  "children": [
+    "46954@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

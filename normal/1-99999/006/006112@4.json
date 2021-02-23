@@ -1,0 +1,19 @@
+{
+  "id": 6112,
+  "name": "Bolt - Gen4",
+  "generation": 4,
+  "created_at": "2017-11-25T02:14:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Bolt - Gen4. I believe the world is flat. When no one's home, I invite my pals over and we listen to Michael Bolton. Will you be the peanut butter to my wasabi?",
+  "language": "en",
+  "matron": "1040@0",
+  "sire": "5871@3",
+  "children": [
+    "8971@10",
+    "9765@5",
+    "10195@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

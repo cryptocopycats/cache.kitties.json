@@ -1,0 +1,22 @@
+{
+  "id": 5932,
+  "name": "Lady Green",
+  "generation": 10,
+  "created_at": "2017-11-25T00:49:30.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Lady Green. All you need to know about me is I hate steak with a passion. I was voted biggest teacher's pet in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2075@0",
+  "sire": "5376@9",
+  "children": [
+    "6073@11",
+    "7588@11",
+    "14944@16",
+    "16406@13",
+    "19977@18",
+    "120745@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

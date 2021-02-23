@@ -1,0 +1,26 @@
+{
+  "id": 6313,
+  "name": "Neon - Gen1",
+  "generation": 1,
+  "created_at": "2017-11-25T03:51:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Neon - Gen1. My friends describe me as wondrous and prickly. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "2704@0",
+  "sire": "2729@0",
+  "children": [
+    "9836@2",
+    "9930@2",
+    "42962@2",
+    "43648@2",
+    "44118@2",
+    "44832@2",
+    "46994@2",
+    "49601@2",
+    "55894@2",
+    "74646@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

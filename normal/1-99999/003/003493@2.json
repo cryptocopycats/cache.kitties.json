@@ -1,0 +1,26 @@
+{
+  "id": 3493,
+  "name": "Tigerpunk #3",
+  "generation": 2,
+  "created_at": "2017-11-24T00:43:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Tigerpunk #3. I'm a Skydiving Instructor by day, and I like summoning ghosts by night. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3199@1",
+  "sire": "3420@1",
+  "children": [
+    "4024@3",
+    "4623@3",
+    "4664@8",
+    "5646@3",
+    "6261@9",
+    "16256@5",
+    "133630@3",
+    "158674@3",
+    "235416@3",
+    "411317@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

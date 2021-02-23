@@ -1,0 +1,18 @@
+{
+  "id": 6317,
+  "name": "Gandalf",
+  "generation": 11,
+  "created_at": "2017-11-25T03:53:31.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gandalf. I'm often referred to as the Cersei Lannister of the group. My secret indulgence is chocolate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5485@10",
+  "sire": "2477@0",
+  "children": [
+    "62167@12",
+    "107127@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5880,
+  "name": "Jimmy Sr.",
+  "generation": 9,
+  "created_at": "2017-11-25T00:28:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Jimmy Sr.. All you need to know about me is I hate wet food with a passion. I like to listen to Metallica while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4305@8",
+  "sire": "2101@0",
+  "children": [
+    "5996@10",
+    "6252@10",
+    "6465@12",
+    "7696@13",
+    "11837@15",
+    "15295@10",
+    "30007@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

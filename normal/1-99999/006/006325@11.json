@@ -1,0 +1,22 @@
+{
+  "id": 6325,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T03:57:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #6325. I want to live in a world where people believe the world is flat. I'm often described as voluptuous, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "2547@0",
+  "sire": "6314@10",
+  "children": [
+    "20174@17",
+    "21988@14",
+    "24978@16",
+    "40309@12",
+    "56477@15",
+    "197637@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5494,
+  "name": "Gen 8 - Mustache Mom Lucky Cat",
+  "generation": 8,
+  "created_at": "2017-11-24T21:01:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Gen 8 - Mustache Mom Lucky Cat. I've never told anyone this, but I once licked a dog. I once licked a labradoodle. I don't like to talk about it. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "3608@5",
+  "sire": "5309@7",
+  "children": [
+    "5805@9",
+    "6117@12",
+    "6844@12",
+    "7858@12",
+    "9579@12",
+    "67266@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

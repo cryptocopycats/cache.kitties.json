@@ -1,0 +1,18 @@
+{
+  "id": 6279,
+  "name": "undefined",
+  "generation": 7,
+  "created_at": "2017-11-25T03:33:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm undefined. All you need to know about me is I hate salad with a passion. When I'm not running a podcast, I'm sleeping in fresh laundry! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6259@5",
+  "sire": "3246@6",
+  "children": [
+    "6417@8",
+    "7966@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

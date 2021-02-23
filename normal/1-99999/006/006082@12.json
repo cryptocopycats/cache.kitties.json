@@ -1,0 +1,22 @@
+{
+  "id": 6082,
+  "name": "Tigerpunk Lime",
+  "generation": 12,
+  "created_at": "2017-11-25T02:00:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Tigerpunk Lime. I'm often referred to as the Ross Geller of the group. I'm often described as gullible, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5295@10",
+  "sire": "5415@11",
+  "children": [
+    "10698@13",
+    "48238@14",
+    "70995@21",
+    "96707@17",
+    "160427@14",
+    "190675@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

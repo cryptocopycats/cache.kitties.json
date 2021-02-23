@@ -1,0 +1,23 @@
+{
+  "id": 5692,
+  "name": "EXTRA SAUSAGE",
+  "generation": 7,
+  "created_at": "2017-11-24T22:45:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm EXTRA SAUSAGE. I believe that one day cats will rule this planet. My friends describe me as \"annoying.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3333@2",
+  "sire": "3378@6",
+  "children": [
+    "5751@8",
+    "6072@8",
+    "8416@10",
+    "15416@12",
+    "16829@13",
+    "62546@8",
+    "119664@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

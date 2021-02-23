@@ -1,0 +1,22 @@
+{
+  "id": 3509,
+  "name": "Bourbon Catastrophe",
+  "generation": 5,
+  "created_at": "2017-11-24T00:45:58.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Bourbon Catastrophe. I enjoy slappin' da bass, riding unicorns, and reading garfield. I like to listen to Michael Bolton while grooming. Don't judge me. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3298@4",
+  "sire": "3293@1",
+  "children": [
+    "3663@6",
+    "3839@6",
+    "5037@7",
+    "8186@6",
+    "21032@8",
+    "200346@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

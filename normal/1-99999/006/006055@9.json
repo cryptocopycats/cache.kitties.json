@@ -1,0 +1,19 @@
+{
+  "id": 6055,
+  "name": "Pickle Steve",
+  "generation": 9,
+  "created_at": "2017-11-25T01:51:07.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Pickle Steve. In high school, I was voted school jock. I once dreamed of being a Mad Scientist. Now I can be found riding the bus all day. I like your face.",
+  "language": "en",
+  "matron": "5188@8",
+  "sire": "5927@1",
+  "children": [
+    "42647@17",
+    "52938@10",
+    "61089@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

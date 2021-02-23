@@ -1,0 +1,25 @@
+{
+  "id": 3918,
+  "name": "Gen 1 Original",
+  "generation": 1,
+  "created_at": "2017-11-24T04:00:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 1 Original. I'm a Train Conductor by day, and I like playing chess by night. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "1309@0",
+  "sire": "1250@0",
+  "children": [
+    "128952@9",
+    "129606@6",
+    "144533@2",
+    "145698@2",
+    "147086@2",
+    "150808@2",
+    "155036@2",
+    "167410@2",
+    "310511@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

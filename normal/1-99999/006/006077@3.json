@@ -1,0 +1,20 @@
+{
+  "id": 6077,
+  "name": "G3",
+  "generation": 3,
+  "created_at": "2017-11-25T02:00:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G3. I enjoy picking on mice, eating lasagna, and taking selfies. I like to listen to Coldplay while grooming. Don't judge me. Will you be the maple syrup to my garlic butter?",
+  "language": "en",
+  "matron": "2494@0",
+  "sire": "6011@2",
+  "children": [
+    "23159@18",
+    "114709@6",
+    "124672@4",
+    "411377@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

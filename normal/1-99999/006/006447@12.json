@@ -1,0 +1,21 @@
+{
+  "id": 6447,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T05:10:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! My name's Kitty #6447. I once peed on Cleopatra's cat. They had it coming. Sometimes I daydream of a life full of picking flowers, hamburgers, and tricking babies. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5801@9",
+  "sire": "6235@11",
+  "children": [
+    "38263@14",
+    "49309@13",
+    "65642@15",
+    "88977@15",
+    "118141@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

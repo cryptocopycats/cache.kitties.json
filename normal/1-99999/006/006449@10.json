@@ -1,0 +1,21 @@
+{
+  "id": 6449,
+  "name": "Purple Panther",
+  "generation": 10,
+  "created_at": "2017-11-25T05:14:03.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Purple Panther. My friends describe me as gullible and ridiculous. When I'm not reading Danielle Steele, I'm jump-roping! I like your face.",
+  "language": "en",
+  "matron": "6397@9",
+  "sire": "2704@0",
+  "children": [
+    "6613@11",
+    "6828@13",
+    "8723@17",
+    "10531@14",
+    "12804@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

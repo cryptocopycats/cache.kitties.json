@@ -1,0 +1,22 @@
+{
+  "id": 5104,
+  "name": "Ramtin",
+  "generation": 7,
+  "created_at": "2017-11-24T17:14:52.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Ramtin. I'm a Culinary Sanitation Specialist by day, and I like riverdancing by night. I was voted most likely to work at NASA in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5056@6",
+  "sire": "4458@1",
+  "children": [
+    "5177@8",
+    "6102@9",
+    "10357@8",
+    "10990@8",
+    "11559@12",
+    "13063@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

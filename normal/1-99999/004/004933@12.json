@@ -1,0 +1,22 @@
+{
+  "id": 4933,
+  "name": "Three Thirds Pikachu",
+  "generation": 12,
+  "created_at": "2017-11-24T14:08:46.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Three Thirds Pikachu. My friends describe me as tantalizing and ridiculous. I was voted school jock in college. Will you be the marmalade to my wasabi?",
+  "language": "en",
+  "matron": "4616@8",
+  "sire": "4005@11",
+  "children": [
+    "5122@13",
+    "5650@13",
+    "6652@14",
+    "8526@13",
+    "14580@15",
+    "23329@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

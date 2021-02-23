@@ -1,0 +1,26 @@
+{
+  "id": 5335,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T19:34:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #5335. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. Let's pawty!",
+  "language": "en",
+  "matron": "4853@1",
+  "sire": "1019@0",
+  "children": [
+    "33366@3",
+    "33713@3",
+    "33769@17",
+    "34154@3",
+    "34555@9",
+    "35460@6",
+    "39258@3",
+    "39818@5",
+    "46349@5",
+    "111636@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

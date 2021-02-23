@@ -1,0 +1,21 @@
+{
+  "id": 5254,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T18:57:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #5254. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Confucius. Will you be the ranch dressing to my maple syrup?",
+  "language": "en",
+  "matron": "4571@8",
+  "sire": "4666@4",
+  "children": [
+    "6224@10",
+    "6835@10",
+    "8099@10",
+    "9106@10",
+    "10038@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

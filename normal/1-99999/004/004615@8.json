@@ -1,0 +1,18 @@
+{
+  "id": 4615,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T09:12:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #4615. I'm a professional Spin Instructor  and I love wet food. I would give it all up to star in a soap opera. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4486@6",
+  "sire": "4530@7",
+  "children": [
+    "5605@11",
+    "7881@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

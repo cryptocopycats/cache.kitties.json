@@ -1,0 +1,23 @@
+{
+  "id": 3794,
+  "name": "Neon Cream",
+  "generation": 2,
+  "created_at": "2017-11-24T03:08:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Neon Cream. I'm a professional Mad Scientist and I love hamburgers. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Will you be the ghost pepper hot sauce to my cinammon?",
+  "language": "en",
+  "matron": "3363@1",
+  "sire": "1304@0",
+  "children": [
+    "3833@3",
+    "3910@3",
+    "3950@8",
+    "5066@9",
+    "7658@14",
+    "21663@6",
+    "21986@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4881,
+  "name": "Monsieur Grey",
+  "generation": 12,
+  "created_at": "2017-11-24T12:59:13.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Monsieur Grey. I'm a Train Conductor by day, and I like people-watching by night. I'm often described as prickly, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4196@5",
+  "sire": "3827@11",
+  "children": [
+    "5165@13",
+    "5649@13",
+    "6751@13",
+    "7500@14",
+    "8481@16",
+    "9741@16",
+    "76492@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

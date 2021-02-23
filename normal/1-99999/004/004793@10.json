@@ -1,0 +1,21 @@
+{
+  "id": 4793,
+  "name": "cheezit",
+  "generation": 10,
+  "created_at": "2017-11-24T11:18:55.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! cheezit here. I'm here to enjoy eating lasagna and fighting for the people. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4729@9",
+  "sire": "4054@4",
+  "children": [
+    "5256@11",
+    "16223@13",
+    "49482@11",
+    "63665@13",
+    "112630@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

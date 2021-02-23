@@ -1,0 +1,24 @@
+{
+  "id": 6017,
+  "name": "Orange Soda | Gen8",
+  "generation": 8,
+  "created_at": "2017-11-25T01:26:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Orange Soda | Gen8. I'm often referred to as the Steve Urkel of the group. My friends describe me as \"annoying.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "2501@0",
+  "sire": "5975@7",
+  "children": [
+    "6040@9",
+    "6341@9",
+    "11340@17",
+    "11763@11",
+    "15229@11",
+    "52026@9",
+    "78763@9",
+    "259386@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

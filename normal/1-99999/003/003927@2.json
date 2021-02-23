@@ -1,0 +1,25 @@
+{
+  "id": 3927,
+  "name": "Kitty #3927",
+  "generation": 2,
+  "created_at": "2017-11-24T04:02:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #3927. I believe that one day cats will rule this planet. I am 99% sphinx, 42% Ventriloquist, and otherwise bad at math. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "3898@1",
+  "sire": "3834@1",
+  "children": [
+    "3939@3",
+    "3989@3",
+    "4560@5",
+    "4701@4",
+    "5465@12",
+    "25621@18",
+    "126733@3",
+    "134891@3",
+    "854477@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

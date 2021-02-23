@@ -1,0 +1,25 @@
+{
+  "id": 3852,
+  "name": "Collectors Edition",
+  "generation": 3,
+  "created_at": "2017-11-24T03:35:12.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Collectors Edition. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1432@0",
+  "sire": "3238@2",
+  "children": [
+    "6673@4",
+    "6771@6",
+    "9755@11",
+    "27939@9",
+    "28742@17",
+    "36588@13",
+    "54190@16",
+    "62034@4",
+    "67195@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

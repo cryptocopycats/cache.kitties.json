@@ -1,0 +1,19 @@
+{
+  "id": 5891,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-25T00:31:55.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #5891. My friends describe me as gullible and raunchy. I once made a rhino sulk. Will you be the peanut butter to my cinammon?",
+  "language": "en",
+  "matron": "4230@7",
+  "sire": "4051@6",
+  "children": [
+    "6399@9",
+    "6471@9",
+    "7488@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

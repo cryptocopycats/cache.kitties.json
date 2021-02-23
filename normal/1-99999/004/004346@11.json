@@ -1,0 +1,19 @@
+{
+  "id": 4346,
+  "name": "Thomas Friedman",
+  "generation": 11,
+  "created_at": "2017-11-24T06:56:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Thomas Friedman. I believe the world is flat. In my free time, I can usually be found fabulous or practicing witchcraft. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4072@10",
+  "sire": "3855@8",
+  "children": [
+    "4588@12",
+    "5291@12",
+    "13678@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 6368,
+  "name": "Tigy Brisk",
+  "generation": 10,
+  "created_at": "2017-11-25T04:22:40.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Tigy Brisk. All you need to know about me is I hate cereal with a passion. I'm often described as stinky, and I own it. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "5190@9",
+  "sire": "5899@3",
+  "children": [
+    "32120@11",
+    "33596@11",
+    "36155@11",
+    "43754@15",
+    "61554@15",
+    "92144@11",
+    "276931@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

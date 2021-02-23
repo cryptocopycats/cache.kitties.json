@@ -1,0 +1,20 @@
+{
+  "id": 4321,
+  "name": "Lazy Treasure",
+  "generation": 8,
+  "created_at": "2017-11-24T06:51:25.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Lazy Treasure. I'm a professional Dispensary Clerk and I love apple pie. I am 17% sphinx, 17% Ventriloquist, and otherwise bad at math. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "3525@2",
+  "sire": "4030@7",
+  "children": [
+    "4431@9",
+    "4997@9",
+    "5481@12",
+    "11650@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

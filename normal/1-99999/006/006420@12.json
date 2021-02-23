@@ -1,0 +1,18 @@
+{
+  "id": 6420,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T04:50:47.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #6420. My friends describe me as preposterous and ridiculous. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "4261@10",
+  "sire": "4575@11",
+  "children": [
+    "6531@13",
+    "10687@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

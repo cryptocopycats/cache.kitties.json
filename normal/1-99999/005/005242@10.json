@@ -1,0 +1,19 @@
+{
+  "id": 5242,
+  "name": "Lion Kennnedy",
+  "generation": 10,
+  "created_at": "2017-11-24T18:45:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Lion Kennnedy. I'm a professional Mad Scientist and I love salad. I am 57% oracle, 85% Mad Scientist, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "3742@9",
+  "sire": "3285@7",
+  "children": [
+    "5593@15",
+    "5810@12",
+    "11679@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

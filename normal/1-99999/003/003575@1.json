@@ -1,0 +1,30 @@
+{
+  "id": 3575,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T01:25:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #3575. I enjoy taking selfies, chasing red dots, and sweating through my feet. Some people say I'm the Hermione Granger of the group. Our friendship will be wondrous, gullible, and full of chocolate.",
+  "language": "en",
+  "matron": "1227@0",
+  "sire": "1268@0",
+  "children": [
+    "3821@2",
+    "4665@7",
+    "15692@5",
+    "19761@14",
+    "127132@2",
+    "129098@2",
+    "132506@2",
+    "142886@2",
+    "154260@2",
+    "195993@2",
+    "258298@2",
+    "301262@2",
+    "359329@2",
+    "406358@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

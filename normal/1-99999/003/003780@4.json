@@ -1,0 +1,21 @@
+{
+  "id": 3780,
+  "name": "Roy",
+  "generation": 4,
+  "created_at": "2017-11-24T03:02:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Roy. I'm often referred to as the Ron Weasley of the group. I put marmite on everything. Like, everything: hot dogs, lasagna—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3219@3",
+  "sire": "1433@0",
+  "children": [
+    "3827@11",
+    "49710@6",
+    "75232@5",
+    "75680@5",
+    "96576@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

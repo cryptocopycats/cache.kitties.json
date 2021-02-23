@@ -1,0 +1,28 @@
+{
+  "id": 5520,
+  "name": "5520 FANCY",
+  "generation": 10,
+  "created_at": "2017-11-24T21:14:43.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm 5520 FANCY. I'm a professional Culinary Sanitation Specialist and I love apple pie. I once licked a dolphin. I don't like to talk about it. I look forward to breakdancing with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "5190@9",
+  "sire": "4540@6",
+  "children": [
+    "5740@14",
+    "6061@11",
+    "6198@11",
+    "16466@11",
+    "20070@11",
+    "29028@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 14,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

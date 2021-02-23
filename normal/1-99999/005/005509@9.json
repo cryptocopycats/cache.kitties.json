@@ -1,0 +1,20 @@
+{
+  "id": 5509,
+  "name": "Kitty #5509",
+  "generation": 9,
+  "created_at": "2017-11-24T21:11:03.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Kitty #5509. I'm a Train Conductor by day, and I like riding the bus by night. I'm often described as prickly, and I own it. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "5033@1",
+  "sire": "4457@8",
+  "children": [
+    "50658@10",
+    "89821@10",
+    "95451@10",
+    "104842@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

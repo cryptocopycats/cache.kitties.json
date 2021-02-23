@@ -1,0 +1,23 @@
+{
+  "id": 5240,
+  "name": "Stay frosty",
+  "generation": 4,
+  "created_at": "2017-11-24T18:45:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Stay frosty. I believe the world is flat. I am 5% oracle, 61% Mad Scientist, and otherwise bad at math. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "3691@3",
+  "sire": "3016@1",
+  "children": [
+    "5355@5",
+    "5367@5",
+    "5372@5",
+    "5827@5",
+    "55957@6",
+    "81235@5",
+    "93508@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5465,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T20:42:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty #5465. I've never told anyone this, but I once cleaned a dog. I once got in a fight with a chimpanzee, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3927@2",
+  "sire": "5233@11",
+  "children": [
+    "5703@13",
+    "6264@13",
+    "6485@13",
+    "18970@13",
+    "101355@17",
+    "119755@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

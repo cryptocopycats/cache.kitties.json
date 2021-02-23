@@ -1,0 +1,20 @@
+{
+  "id": 3911,
+  "name": "Egon Spengler {H}",
+  "generation": 4,
+  "created_at": "2017-11-24T03:58:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Egon Spengler {H}. I'm a professional Mad Scientist and I love chocolate. I put ranch dressing on everything. Like, everything: hot dogs, lasagna—everything! Let's get busy!",
+  "language": "en",
+  "matron": "3626@3",
+  "sire": "1428@0",
+  "children": [
+    "8092@8",
+    "12225@13",
+    "22708@6",
+    "88396@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

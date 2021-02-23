@@ -1,0 +1,20 @@
+{
+  "id": 5628,
+  "name": "William Shakespaw",
+  "generation": 14,
+  "created_at": "2017-11-24T22:10:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm William Shakespaw. My friends describe me as ridiculous and voluptuous. I once got in a fight with a dog, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3594@7",
+  "sire": "5163@13",
+  "children": [
+    "6155@15",
+    "7368@15",
+    "11833@15",
+    "20835@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

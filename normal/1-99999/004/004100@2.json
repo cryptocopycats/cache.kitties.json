@@ -1,0 +1,22 @@
+{
+  "id": 4100,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T05:19:57.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! My name's Kitty #4100. I once peed on Cleopatra's cat. They had it coming. Sometimes I daydream of a life full of watching Stranger Things, steak, and tricking babies. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "1234@0",
+  "sire": "3007@1",
+  "children": [
+    "4106@10",
+    "4153@7",
+    "4211@5",
+    "4357@10",
+    "5351@3",
+    "49130@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

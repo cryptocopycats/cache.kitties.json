@@ -1,0 +1,18 @@
+{
+  "id": 4377,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T07:05:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #4377. My friends describe me as gullible and preposterous. It's not common knowledge, but my ancestry connects me to Princess Diana. I like your face.",
+  "language": "en",
+  "matron": "1171@0",
+  "sire": "4345@9",
+  "children": [
+    "4612@11",
+    "60708@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 4610,
+  "name": "Red Striped Dreamer",
+  "generation": 5,
+  "created_at": "2017-11-24T09:09:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! Red Striped Dreamer here. I'm here to enjoy chasing string and picking flowers. My friends describe me as \"ridiculous.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3396@4",
+  "sire": "3306@2",
+  "children": [
+    "5108@7",
+    "5653@6",
+    "5667@8",
+    "6431@6",
+    "7930@6",
+    "8206@9",
+    "8836@13",
+    "507802@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

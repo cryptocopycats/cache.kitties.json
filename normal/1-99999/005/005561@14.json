@@ -1,0 +1,22 @@
+{
+  "id": 5561,
+  "name": "Tristan Starter Kitty",
+  "generation": 14,
+  "created_at": "2017-11-24T21:34:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Tristan Starter Kitty. My friends describe me as stinky and raunchy. I put cinammon on everything. Like, everything: hot dogs, steak—everything! Let's pawty!",
+  "language": "en",
+  "matron": "5202@13",
+  "sire": "1225@0",
+  "children": [
+    "10513@15",
+    "14080@15",
+    "21933@15",
+    "29127@15",
+    "70751@15",
+    "195359@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

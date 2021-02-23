@@ -1,0 +1,23 @@
+{
+  "id": 4670,
+  "name": "G8 Gen 8",
+  "generation": 8,
+  "created_at": "2017-11-24T09:52:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm G8 Gen 8. My friends describe me as fabulous and prickly. When no one's home, I invite my pals over and we listen to Gloria Estefan. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4599@2",
+  "sire": "4644@7",
+  "children": [
+    "4729@9",
+    "4859@9",
+    "6336@13",
+    "17010@13",
+    "39994@9",
+    "56732@9",
+    "81176@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

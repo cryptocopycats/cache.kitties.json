@@ -1,0 +1,17 @@
+{
+  "id": 6199,
+  "name": "Daisy",
+  "generation": 13,
+  "created_at": "2017-11-25T02:56:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Daisy. I enjoy eating lasagna, riding dirty, and watching Stranger Things. I once made a goose grimace. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5287@12",
+  "sire": "5526@11",
+  "children": [
+    "10835@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

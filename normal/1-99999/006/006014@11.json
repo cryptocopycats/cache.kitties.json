@@ -1,0 +1,22 @@
+{
+  "id": 6014,
+  "name": "Cleopatra",
+  "generation": 11,
+  "created_at": "2017-11-25T01:24:39.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Cleopatra. I enjoy reading garfield, reciting poetry, and sweating through my feet. I once dreamed of being a Spin Instructor . Now I can be found playing chess all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5457@7",
+  "sire": "5854@10",
+  "children": [
+    "6285@14",
+    "6407@17",
+    "16110@12",
+    "18260@12",
+    "23368@13",
+    "68071@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

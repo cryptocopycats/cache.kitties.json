@@ -1,0 +1,18 @@
+{
+  "id": 5355,
+  "name": "David 0.1",
+  "generation": 5,
+  "created_at": "2017-11-24T19:48:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm David 0.1. I'm often referred to as the Hermione Granger of the group. When no one's home, I invite my pals over and we listen to Michael Bolton. Will you be the soy sauce to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "5240@4",
+  "sire": "3684@2",
+  "children": [
+    "12792@6",
+    "394766@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

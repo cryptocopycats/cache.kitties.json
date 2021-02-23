@@ -1,0 +1,24 @@
+{
+  "id": 5827,
+  "name": "Mister Spinkles",
+  "generation": 5,
+  "created_at": "2017-11-25T00:03:59.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mister Spinkles. I enjoy fighting the patriarchy, watching Stranger Things, and grooming. I once got in a fight with a labradoodle, and won. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "2237@0",
+  "sire": "5240@4",
+  "children": [
+    "6381@6",
+    "9710@6",
+    "12127@6",
+    "13119@6",
+    "14704@8",
+    "55124@6",
+    "1443091@6",
+    "1809798@8"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

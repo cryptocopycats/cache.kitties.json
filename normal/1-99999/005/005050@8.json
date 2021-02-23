@@ -1,0 +1,21 @@
+{
+  "id": 5050,
+  "name": "50/50 Rare Boi",
+  "generation": 8,
+  "created_at": "2017-11-24T16:30:55.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm 50/50 Rare Boi. I believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "3657@7",
+  "sire": "3309@7",
+  "children": [
+    "5129@11",
+    "12250@15",
+    "14365@14",
+    "19588@13",
+    "69975@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

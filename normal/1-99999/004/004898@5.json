@@ -1,0 +1,22 @@
+{
+  "id": 4898,
+  "name": "dog sitter",
+  "generation": 5,
+  "created_at": "2017-11-24T13:15:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm dog sitter. I'm a professional Dogwalker and I love salad. I am 69% oracle, 79% Dogwalker, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1006@0",
+  "sire": "3314@4",
+  "children": [
+    "31180@6",
+    "46093@6",
+    "85323@15",
+    "146719@11",
+    "207436@10",
+    "249659@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

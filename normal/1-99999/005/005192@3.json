@@ -1,0 +1,26 @@
+{
+  "id": 5192,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-24T18:14:53.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Gen 3. In high school, I was voted most likely to work at NASA. I'm often described as seductive, and I own it. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "4853@1",
+  "sire": "3195@2",
+  "children": [
+    "5559@14",
+    "42521@5",
+    "43105@5",
+    "43815@5",
+    "45128@5",
+    "50651@5",
+    "60953@5",
+    "63623@5",
+    "87280@5",
+    "105816@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

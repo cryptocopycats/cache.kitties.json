@@ -1,0 +1,24 @@
+{
+  "id": 4756,
+  "name": "Chester",
+  "generation": 8,
+  "created_at": "2017-11-24T10:52:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Chester. All you need to know about me is I hate salad with a passion. I'm often described as despicable, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "4662@7",
+  "sire": "1274@0",
+  "children": [
+    "5151@9",
+    "6236@9",
+    "12525@9",
+    "13380@14",
+    "17027@9",
+    "58441@9",
+    "60763@9",
+    "302885@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

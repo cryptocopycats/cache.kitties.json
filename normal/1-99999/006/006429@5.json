@@ -1,0 +1,24 @@
+{
+  "id": 6429,
+  "name": "Apples - Gen5",
+  "generation": 5,
+  "created_at": "2017-11-25T04:56:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Apples - Gen5. I want to live in a world where people believe the world is flat. My secret indulgence is apple pie. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "6179@4",
+  "sire": "2525@0",
+  "children": [
+    "6448@6",
+    "6488@8",
+    "6562@6",
+    "8692@11",
+    "8773@12",
+    "8981@8",
+    "10078@6",
+    "11986@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

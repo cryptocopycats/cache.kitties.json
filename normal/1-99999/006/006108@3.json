@@ -1,0 +1,28 @@
+{
+  "id": 6108,
+  "name": "Nelson",
+  "generation": 3,
+  "created_at": "2017-11-25T02:09:44.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's Nelson. I once peed on Nelson Mandela's cat. They had it coming. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1033@0",
+  "sire": "5883@2",
+  "children": [
+    "7285@7",
+    "8556@9",
+    "10577@8",
+    "10771@10",
+    "11150@4",
+    "11566@17",
+    "13659@17",
+    "14555@4",
+    "424580@4",
+    "438632@5",
+    "455465@17",
+    "509632@8"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

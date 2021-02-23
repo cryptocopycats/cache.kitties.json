@@ -1,0 +1,22 @@
+{
+  "id": 5068,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T16:46:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #5068. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Mother Theresa. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4447@9",
+  "sire": "4385@8",
+  "children": [
+    "5137@11",
+    "5437@12",
+    "5609@11",
+    "12577@17",
+    "12710@17",
+    "54279@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

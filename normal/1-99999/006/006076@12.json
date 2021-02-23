@@ -1,0 +1,20 @@
+{
+  "id": 6076,
+  "name": "Carson Dali",
+  "generation": 12,
+  "created_at": "2017-11-25T02:00:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Carson Dali here. I'm here to enjoy riding unicorns and spinning sick beats. When I'm not practicing witchcraft, I'm watching reality tv! Our friendship will be raunchy, fabulous, and full of hamburgers.",
+  "language": "en",
+  "matron": "5529@11",
+  "sire": "5530@9",
+  "children": [
+    "11034@13",
+    "40996@13",
+    "58110@13",
+    "85305@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

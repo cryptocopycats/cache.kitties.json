@@ -1,0 +1,19 @@
+{
+  "id": 3855,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T03:36:18.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #3855. All you need to know about me is I hate apple pie with a passion. I am 99% wizard, 36% Skydiving Instructor, and otherwise bad at math. Will you be the maple syrup to my marmite?",
+  "language": "en",
+  "matron": "3273@4",
+  "sire": "3830@7",
+  "children": [
+    "3946@9",
+    "4111@9",
+    "4346@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

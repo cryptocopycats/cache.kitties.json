@@ -1,0 +1,18 @@
+{
+  "id": 5194,
+  "name": "Sweetie",
+  "generation": 11,
+  "created_at": "2017-11-24T18:18:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Sweetie. I've never told anyone this, but I once licked a dog. I was voted school jock in college. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5130@9",
+  "sire": "4961@10",
+  "children": [
+    "8150@12",
+    "8719@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6428,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T04:56:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #6428. All you need to know about me is I hate cantaloupe with a passion. I'm often described as vegan, and I own it. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "4633@5",
+  "sire": "5774@9",
+  "children": [
+    "15390@14",
+    "162724@16",
+    "164830@11",
+    "178398@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

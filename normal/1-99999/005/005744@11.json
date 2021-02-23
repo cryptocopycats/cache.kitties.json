@@ -1,0 +1,23 @@
+{
+  "id": 5744,
+  "name": "purple_haze",
+  "generation": 11,
+  "created_at": "2017-11-24T23:21:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm purple_haze. I'm a Ventriloquist by day, and I like riding the bus by night. I'm often described as brilliant, and I own it. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "5403@10",
+  "sire": "5405@5",
+  "children": [
+    "9290@12",
+    "10557@12",
+    "12149@15",
+    "12922@12",
+    "19189@17",
+    "25232@16",
+    "60313@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

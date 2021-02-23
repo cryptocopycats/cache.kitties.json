@@ -1,0 +1,18 @@
+{
+  "id": 6399,
+  "name": "Mittens",
+  "generation": 9,
+  "created_at": "2017-11-25T04:38:26.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Mittens. I enjoy riding dirty, taking selfies, and slappin' da bass. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Our friendship will be tantalizing, prickly, and full of wet food.",
+  "language": "en",
+  "matron": "3752@2",
+  "sire": "5891@8",
+  "children": [
+    "6599@10",
+    "6847@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

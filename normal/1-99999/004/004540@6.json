@@ -1,0 +1,26 @@
+{
+  "id": 4540,
+  "name": "Evan",
+  "generation": 6,
+  "created_at": "2017-11-24T08:40:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Evan. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is cereal. Will you be the garlic butter to my marmite?",
+  "language": "en",
+  "matron": "3811@1",
+  "sire": "4039@5",
+  "children": [
+    "4579@7",
+    "4644@7",
+    "4697@7",
+    "5269@12",
+    "5520@10",
+    "6320@15",
+    "51628@11",
+    "84582@7",
+    "198601@19",
+    "317173@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

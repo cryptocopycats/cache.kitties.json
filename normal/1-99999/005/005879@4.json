@@ -1,0 +1,20 @@
+{
+  "id": 5879,
+  "name": "Buddy",
+  "generation": 4,
+  "created_at": "2017-11-25T00:28:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Buddy. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of eating lasagna, cereal, and running a podcast. Will you be the pickles to my maple syrup?",
+  "language": "en",
+  "matron": "3221@3",
+  "sire": "1044@0",
+  "children": [
+    "6658@10",
+    "6693@5",
+    "7836@5",
+    "46660@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

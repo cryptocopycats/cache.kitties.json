@@ -1,0 +1,29 @@
+{
+  "id": 3928,
+  "name": "Aquamarine",
+  "generation": 1,
+  "created_at": "2017-11-24T04:04:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! My name's Aquamarine. I once peed on Nelson Mandela's cat. They had it coming. When I'm not jump-roping, I'm people-watching! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1186@0",
+  "sire": "1159@0",
+  "children": [
+    "3991@3",
+    "15684@2",
+    "21140@3",
+    "21478@3",
+    "21504@2",
+    "21716@2",
+    "22595@2",
+    "23045@2",
+    "27162@2",
+    "30151@2",
+    "52030@2",
+    "84317@2",
+    "215397@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

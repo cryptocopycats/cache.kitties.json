@@ -1,0 +1,19 @@
+{
+  "id": 4657,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T09:46:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #4657. I've never told anyone this, but I once tricked a dog. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "3915@7",
+  "sire": "4159@5",
+  "children": [
+    "5303@12",
+    "5460@12",
+    "52849@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

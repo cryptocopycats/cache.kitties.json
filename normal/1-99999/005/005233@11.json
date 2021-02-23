@@ -1,0 +1,22 @@
+{
+  "id": 5233,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T18:41:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Kitty #5233. I enjoy reading garfield, picking on mice, and chasing string. When no one's home, I invite my pals over and we listen to Rihanna. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5114@10",
+  "sire": "4759@9",
+  "children": [
+    "5465@12",
+    "6056@12",
+    "6330@12",
+    "17045@13",
+    "28628@15",
+    "85157@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5016,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T15:57:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #5016. I'm often referred to as the Peter Griffin of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "4396@8",
+  "sire": "4131@5",
+  "children": [
+    "5413@10",
+    "10154@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

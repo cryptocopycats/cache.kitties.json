@@ -1,0 +1,24 @@
+{
+  "id": 4081,
+  "name": "Ironicat",
+  "generation": 8,
+  "created_at": "2017-11-24T05:12:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Ironicat. I once peed on King Henry VIII's cat. They had it coming. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3942@7",
+  "sire": "3383@4",
+  "children": [
+    "4188@9",
+    "4380@9",
+    "5359@9",
+    "5631@13",
+    "14727@19",
+    "19582@13",
+    "28827@22",
+    "108080@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

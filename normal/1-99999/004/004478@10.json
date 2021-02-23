@@ -1,0 +1,21 @@
+{
+  "id": 4478,
+  "name": "Luv",
+  "generation": 10,
+  "created_at": "2017-11-24T07:51:21.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Luv. I'm a Spin Instructor  by day, and I like jump-roping by night. Some people say I'm the Dwight Schrute of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4382@9",
+  "sire": "4386@8",
+  "children": [
+    "4641@11",
+    "5158@11",
+    "6306@15",
+    "12693@15",
+    "25852@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

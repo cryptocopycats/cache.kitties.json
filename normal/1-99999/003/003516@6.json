@@ -1,0 +1,17 @@
+{
+  "id": 3516,
+  "name": "gen6 snappy",
+  "generation": 6,
+  "created_at": "2017-11-24T00:48:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm gen6 snappy. I'm often referred to as the Jon Snow of the group. When no one's home, I invite my pals over and we listen to Coldplay. Our friendship will be prickly, tantalizing, and full of lasagna.",
+  "language": "en",
+  "matron": "1018@0",
+  "sire": "3491@5",
+  "children": [
+    "3569@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

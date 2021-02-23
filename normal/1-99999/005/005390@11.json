@@ -1,0 +1,21 @@
+{
+  "id": 5390,
+  "name": "5390",
+  "generation": 11,
+  "created_at": "2017-11-24T20:04:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm 5390. I'm often referred to as the Lisa Simpson of the group. My secret indulgence is chocolate. Let's get busy!",
+  "language": "en",
+  "matron": "4840@10",
+  "sire": "4779@1",
+  "children": [
+    "6950@12",
+    "11843@12",
+    "50652@12",
+    "58246@12",
+    "111548@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

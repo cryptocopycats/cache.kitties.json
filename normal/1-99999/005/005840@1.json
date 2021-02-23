@@ -1,0 +1,28 @@
+{
+  "id": 5840,
+  "name": "Gen 1 Royalpurple",
+  "generation": 1,
+  "created_at": "2017-11-25T00:09:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 1 Royalpurple. My friends describe me as hairy and stinky. I was voted biggest teacher's pet in college. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "2127@0",
+  "sire": "2252@0",
+  "children": [
+    "5866@2",
+    "6268@10",
+    "16010@2",
+    "21355@2",
+    "23651@2",
+    "23824@2",
+    "25874@2",
+    "30553@2",
+    "31634@2",
+    "42669@2",
+    "48237@2",
+    "184277@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

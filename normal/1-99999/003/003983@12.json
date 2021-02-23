@@ -1,0 +1,20 @@
+{
+  "id": 3983,
+  "name": "Chestnut Laperm (Low Breed#)",
+  "generation": 12,
+  "created_at": "2017-11-24T04:27:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Chestnut Laperm (Low Breed#). My friends describe me as smelly and ridiculous. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "3917@7",
+  "sire": "3937@11",
+  "children": [
+    "4227@13",
+    "4845@13",
+    "66566@17",
+    "82669@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

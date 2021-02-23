@@ -1,0 +1,23 @@
+{
+  "id": 3653,
+  "name": "Fab #2, Bark #21",
+  "generation": 4,
+  "created_at": "2017-11-24T01:56:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Fab #2, Bark #21. I'm often referred to as the Michael Scott of the group. When no one's home, I invite my pals over and we listen to Rihanna. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3321@3",
+  "sire": "3558@2",
+  "children": [
+    "3720@7",
+    "3880@5",
+    "4137@7",
+    "4292@9",
+    "4526@7",
+    "4907@12",
+    "5830@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

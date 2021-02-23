@@ -1,0 +1,23 @@
+{
+  "id": 4462,
+  "name": "D - GEN 12",
+  "generation": 12,
+  "created_at": "2017-11-24T07:46:47.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm D - GEN 12. I enjoy fighting for the people, glaring at the neighbour's cat, and being a nevernude. I once got in a fight with a labradoodle, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4201@11",
+  "sire": "4130@9",
+  "children": [
+    "4576@13",
+    "4904@13",
+    "11086@16",
+    "12087@14",
+    "21800@13",
+    "51240@16",
+    "119836@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

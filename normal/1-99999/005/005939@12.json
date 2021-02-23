@@ -1,0 +1,20 @@
+{
+  "id": 5939,
+  "name": "Teemu",
+  "generation": 12,
+  "created_at": "2017-11-25T00:54:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Teemu. I'm a professional Skydiving Instructor and I love hamburgers. Some people say I'm the Ron Weasley of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3827@11",
+  "sire": "5047@10",
+  "children": [
+    "7112@13",
+    "8539@14",
+    "9555@15",
+    "60941@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

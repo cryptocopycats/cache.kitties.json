@@ -1,0 +1,21 @@
+{
+  "id": 6246,
+  "name": "Chloe",
+  "generation": 10,
+  "created_at": "2017-11-25T03:13:50.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Chloe. I enjoy watching Stranger Things, slappin' da bass, and reciting poetry. Some people say I'm the Cersei Lannister of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4091@9",
+  "sire": "5382@9",
+  "children": [
+    "6825@16",
+    "7700@11",
+    "11354@16",
+    "14032@17",
+    "72667@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 4158,
+  "name": "Nacho Jones",
+  "generation": 10,
+  "created_at": "2017-11-24T05:49:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Nacho Jones. I enjoy hitting on yo' man, licking doorknobs, and spinning sick beats. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3742@9",
+  "sire": "3733@9",
+  "children": [
+    "4336@11",
+    "6829@11",
+    "10510@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

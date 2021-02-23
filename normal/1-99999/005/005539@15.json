@@ -1,0 +1,21 @@
+{
+  "id": 5539,
+  "name": "Vitalik",
+  "generation": 15,
+  "created_at": "2017-11-24T21:29:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Vitalik here. I'm here to enjoy reading garfield and tripping my owner. I once dreamed of being a Mad Scientist. Now I can be found practicing witchcraft all day. Will you be the soy sauce to my ranch dressing?",
+  "language": "en",
+  "matron": "4857@9",
+  "sire": "4885@14",
+  "children": [
+    "6034@16",
+    "12805@16",
+    "68058@16",
+    "80714@16",
+    "141201@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

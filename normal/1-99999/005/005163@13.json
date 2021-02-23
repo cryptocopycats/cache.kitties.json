@@ -1,0 +1,24 @@
+{
+  "id": 5163,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-24T17:58:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #5163. My friends describe me as petulant and gorgeous. Some people say I'm the Ron Weasley of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4500@12",
+  "sire": "4405@8",
+  "children": [
+    "5628@14",
+    "7033@14",
+    "7709@14",
+    "8710@18",
+    "9271@14",
+    "13494@14",
+    "21917@14",
+    "237782@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

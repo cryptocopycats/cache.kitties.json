@@ -1,0 +1,19 @@
+{
+  "id": 5315,
+  "name": "Fringe",
+  "generation": 13,
+  "created_at": "2017-11-24T19:27:46.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Fringe. I enjoy eating until I loathe myself, reading garfield, and licking doorknobs. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "4616@8",
+  "sire": "4496@12",
+  "children": [
+    "5564@14",
+    "38073@14",
+    "61478@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

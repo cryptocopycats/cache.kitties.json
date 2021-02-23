@@ -1,0 +1,28 @@
+{
+  "id": 4782,
+  "name": "Monsieur Sālmon | Gen1",
+  "generation": 1,
+  "created_at": "2017-11-24T11:11:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Monsieur Sālmon | Gen1. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Rihanna. Let's get busy!",
+  "language": "en",
+  "matron": "1405@0",
+  "sire": "1373@0",
+  "children": [
+    "5101@5",
+    "5387@9",
+    "21816@6",
+    "32182@2",
+    "32361@2",
+    "34485@2",
+    "35399@2",
+    "38044@2",
+    "42046@2",
+    "68630@2",
+    "146871@2",
+    "203020@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

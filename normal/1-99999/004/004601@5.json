@@ -1,0 +1,27 @@
+{
+  "id": 4601,
+  "name": "#4601 [FIRST 10K]",
+  "generation": 5,
+  "created_at": "2017-11-24T09:04:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm #4601 [FIRST 10K]. I want to live in a world where people believe that one day cats will rule this planet. I was voted school jock in college. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "4054@4",
+  "sire": "4565@3",
+  "children": [
+    "4634@6",
+    "4650@6",
+    "4759@9",
+    "15415@6",
+    "19048@6",
+    "22645@7",
+    "28668@6",
+    "41166@18",
+    "92299@6",
+    "121488@9",
+    "228358@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

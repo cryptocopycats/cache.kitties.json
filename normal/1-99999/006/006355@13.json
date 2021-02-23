@@ -1,0 +1,19 @@
+{
+  "id": 6355,
+  "name": "Choco",
+  "generation": 13,
+  "created_at": "2017-11-25T04:18:40.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Choco. I once peed on King Henry VIII's cat. They had it coming. I once made a moose ignore. Let's pawty!",
+  "language": "en",
+  "matron": "4156@8",
+  "sire": "5378@12",
+  "children": [
+    "6567@15",
+    "7424@14",
+    "8527@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5884,
+  "name": "Arple",
+  "generation": 8,
+  "created_at": "2017-11-25T00:30:04.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Arple. In high school, I was voted biggest teacher's pet. I once made a dolphin kiss. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "3573@1",
+  "sire": "4190@7",
+  "children": [
+    "5902@9",
+    "8556@9",
+    "10403@9",
+    "11119@9",
+    "14535@16",
+    "44411@21",
+    "425739@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

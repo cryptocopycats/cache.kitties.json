@@ -1,0 +1,21 @@
+{
+  "id": 5247,
+  "name": "Rita Mandarina G11C5",
+  "generation": 11,
+  "created_at": "2017-11-24T18:50:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Rita Mandarina G11C5. I believe that one day cats will rule this planet. When I'm not playing chess, I'm riding the bus! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4651@10",
+  "sire": "4886@6",
+  "children": [
+    "5641@12",
+    "6129@12",
+    "6226@12",
+    "6913@13",
+    "8317@12"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

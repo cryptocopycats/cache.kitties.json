@@ -1,0 +1,23 @@
+{
+  "id": 5341,
+  "name": "WEEDY",
+  "generation": 11,
+  "created_at": "2017-11-24T19:39:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm WEEDY. I enjoy glaring at the neighbour's cat, breakdancing, and hitting on yo' man. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, wet food—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5010@2",
+  "sire": "4820@10",
+  "children": [
+    "7651@12",
+    "9070@12",
+    "9266@14",
+    "9394@12",
+    "9768@15",
+    "10231@12",
+    "40957@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

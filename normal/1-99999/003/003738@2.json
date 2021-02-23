@@ -1,0 +1,26 @@
+{
+  "id": 3738,
+  "name": "Cleo",
+  "generation": 2,
+  "created_at": "2017-11-24T02:42:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! My name's Cleo. I once peed on Cleopatra's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3573@1",
+  "sire": "3193@1",
+  "children": [
+    "5745@6",
+    "5768@6",
+    "5871@3",
+    "6027@10",
+    "10467@3",
+    "10661@3",
+    "12910@10",
+    "13680@3",
+    "32223@8",
+    "32737@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

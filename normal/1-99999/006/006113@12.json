@@ -1,0 +1,17 @@
+{
+  "id": 6113,
+  "name": "Leonardo",
+  "generation": 12,
+  "created_at": "2017-11-25T02:14:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Leonardo. I'm a professional Ventriloquist and I love salad. I would give it all up to be on Oprah. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "5223@10",
+  "sire": "5268@11",
+  "children": [
+    "10834@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

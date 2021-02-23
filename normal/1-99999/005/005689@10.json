@@ -1,0 +1,20 @@
+{
+  "id": 5689,
+  "name": "Caturday",
+  "generation": 10,
+  "created_at": "2017-11-24T22:44:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Caturday. I've never told anyone this, but I once bit a dog. I put ranch dressing on everything. Like, everything: hot dogs, wet food—everything! Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "5467@9",
+  "sire": "3726@1",
+  "children": [
+    "5888@11",
+    "32739@11",
+    "34911@11",
+    "259349@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

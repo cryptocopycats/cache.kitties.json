@@ -1,0 +1,23 @@
+{
+  "id": 6341,
+  "name": "Tangerine",
+  "generation": 9,
+  "created_at": "2017-11-25T04:11:59.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Tangerine. My friends describe me as voluptuous and wondrous. Some people say I'm the Jon Snow of the group. Will you be the soy sauce to my cinammon?",
+  "language": "en",
+  "matron": "6017@8",
+  "sire": "5098@1",
+  "children": [
+    "6757@10",
+    "8074@10",
+    "8637@10",
+    "9894@10",
+    "12263@10",
+    "45429@10",
+    "78343@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

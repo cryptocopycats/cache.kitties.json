@@ -1,0 +1,23 @@
+{
+  "id": 6433,
+  "name": "Genisiamese",
+  "generation": 11,
+  "created_at": "2017-11-25T04:57:32.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Genisiamese. My friends describe me as seductive and prickly. I was voted school jock in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "6319@10",
+  "sire": "6157@3",
+  "children": [
+    "6675@14",
+    "9707@18",
+    "13087@13",
+    "18064@15",
+    "21090@15",
+    "48242@17",
+    "98938@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

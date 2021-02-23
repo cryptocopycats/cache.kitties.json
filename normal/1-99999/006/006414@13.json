@@ -1,0 +1,19 @@
+{
+  "id": 6414,
+  "name": "Discopeach",
+  "generation": 13,
+  "created_at": "2017-11-25T04:46:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Discopeach. I'm often referred to as the Homer Simpson of the group. When no one's home, I invite my pals over and we listen to Frank Sinatra. Let's get busy!",
+  "language": "en",
+  "matron": "5481@12",
+  "sire": "4521@11",
+  "children": [
+    "6631@14",
+    "7877@15",
+    "15083@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

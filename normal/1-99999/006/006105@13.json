@@ -1,0 +1,23 @@
+{
+  "id": 6105,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-25T02:09:44.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #6105. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Metallica. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "5822@12",
+  "sire": "5801@9",
+  "children": [
+    "6871@14",
+    "15390@14",
+    "19398@14",
+    "22844@14",
+    "27720@14",
+    "49045@14",
+    "182440@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

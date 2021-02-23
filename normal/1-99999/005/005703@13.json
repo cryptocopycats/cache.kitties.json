@@ -1,0 +1,22 @@
+{
+  "id": 5703,
+  "name": "Frodo The Cat",
+  "generation": 13,
+  "created_at": "2017-11-24T22:53:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Frodo The Cat. I'm often referred to as the Frodo Baggins of the group. I once got in a fight with a dog, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4054@4",
+  "sire": "5465@12",
+  "children": [
+    "6015@15",
+    "17579@14",
+    "26781@16",
+    "28670@17",
+    "64612@18",
+    "115522@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

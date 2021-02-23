@@ -1,0 +1,18 @@
+{
+  "id": 6227,
+  "name": "Skid",
+  "generation": 14,
+  "created_at": "2017-11-25T03:04:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Skid. I'm a professional Foreign Film Director and I love cereal. I put marmalade on everything. Like, everything: hot dogs, wet food—everything! Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "5327@13",
+  "sire": "5395@13",
+  "children": [
+    "77780@15",
+    "98464@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

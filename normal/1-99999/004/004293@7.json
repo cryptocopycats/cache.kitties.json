@@ -1,0 +1,22 @@
+{
+  "id": 4293,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T06:41:06.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #4293. In high school, I was voted most likely to work at NASA. I put wasabi on everything. Like, everything: hot dogs, cereal—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3986@6",
+  "sire": "3090@2",
+  "children": [
+    "4396@8",
+    "5518@10",
+    "5934@10",
+    "6644@8",
+    "8053@13",
+    "12450@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

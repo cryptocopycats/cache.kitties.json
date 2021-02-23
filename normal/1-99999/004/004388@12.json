@@ -1,0 +1,21 @@
+{
+  "id": 4388,
+  "name": "Curry Purry G12C5",
+  "generation": 12,
+  "created_at": "2017-11-24T07:08:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Curry Purry G12C5. I'm often referred to as the Homer Simpson of the group. When no one's home, I invite my pals over and we listen to Gloria Estefan. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3475@5",
+  "sire": "3453@11",
+  "children": [
+    "4613@13",
+    "4828@13",
+    "5698@13",
+    "7088@13",
+    "8595@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

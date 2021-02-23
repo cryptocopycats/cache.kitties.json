@@ -1,0 +1,22 @@
+{
+  "id": 3488,
+  "name": "Multifoiled",
+  "generation": 8,
+  "created_at": "2017-11-24T00:41:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Multifoiled. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "1016@0",
+  "sire": "3296@7",
+  "children": [
+    "3593@9",
+    "3690@9",
+    "3987@9",
+    "4172@9",
+    "5504@9",
+    "13115@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

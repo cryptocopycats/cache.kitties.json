@@ -1,0 +1,19 @@
+{
+  "id": 3904,
+  "name": "Charmelonade {I}",
+  "generation": 7,
+  "created_at": "2017-11-24T03:56:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Charmelonade {I}. In high school, I was voted most likely to work at NASA. I once dreamed of being a Aerobics Athlete . Now I can be found pole dancing all day. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "3363@1",
+  "sire": "3789@6",
+  "children": [
+    "3970@8",
+    "14168@13",
+    "80615@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

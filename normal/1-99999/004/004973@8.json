@@ -1,0 +1,20 @@
+{
+  "id": 4973,
+  "name": "Kiss me!",
+  "generation": 8,
+  "created_at": "2017-11-24T15:06:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! Kiss me! here. I'm here to enjoy glaring at the neighbour's cat and hitting on yo' man. Some people say I'm the Homer Simpson of the group. Our friendship will be prickly, brilliant, and full of salad.",
+  "language": "en",
+  "matron": "3913@7",
+  "sire": "4655@7",
+  "children": [
+    "4999@10",
+    "5021@9",
+    "8753@14",
+    "9439@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

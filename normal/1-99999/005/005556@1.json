@@ -1,0 +1,29 @@
+{
+  "id": 5556,
+  "name": "Salmon",
+  "generation": 1,
+  "created_at": "2017-11-24T21:32:30.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Salmon. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1129@0",
+  "sire": "1120@0",
+  "children": [
+    "20801@2",
+    "20869@2",
+    "20924@2",
+    "21009@2",
+    "21138@2",
+    "21504@2",
+    "21716@2",
+    "22343@2",
+    "27175@2",
+    "33746@2",
+    "51544@2",
+    "108244@2",
+    "114213@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

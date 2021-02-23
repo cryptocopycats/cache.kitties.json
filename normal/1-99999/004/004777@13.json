@@ -1,0 +1,19 @@
+{
+  "id": 4777,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-24T11:08:57.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #4777. I believe the world is flat. I once dreamed of being a Dispensary Clerk. Now I can be found tricking babies all day. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "4600@4",
+  "sire": "4765@12",
+  "children": [
+    "4902@14",
+    "5117@14",
+    "6663@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

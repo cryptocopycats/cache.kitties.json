@@ -1,0 +1,20 @@
+{
+  "id": 4682,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T10:01:53.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #4682. My friends describe me as brilliant and ridiculous. When I'm not siring for status, I'm reading Danielle Steele! Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "1328@0",
+  "sire": "3391@6",
+  "children": [
+    "4708@8",
+    "4855@8",
+    "4979@8",
+    "8428@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

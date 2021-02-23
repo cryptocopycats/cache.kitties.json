@@ -1,0 +1,21 @@
+{
+  "id": 4664,
+  "name": "Gen 8",
+  "generation": 8,
+  "created_at": "2017-11-24T09:48:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Gen 8. I once peed on Nelson Mandela's cat. They had it coming. I'm often described as smelly, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3493@2",
+  "sire": "4606@7",
+  "children": [
+    "4700@9",
+    "6321@9",
+    "15774@12",
+    "16877@9",
+    "37795@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4082,
+  "name": "4082",
+  "generation": 9,
+  "created_at": "2017-11-24T05:12:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm 4082. I'm a professional Spin Instructor  and I love hamburgers. I would give it all up to be on Oprah. Our friendship will be hairy, vegan, and full of wet food.",
+  "language": "en",
+  "matron": "4012@8",
+  "sire": "3477@4",
+  "children": [
+    "5517@10",
+    "7348@12",
+    "10717@13",
+    "72026@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

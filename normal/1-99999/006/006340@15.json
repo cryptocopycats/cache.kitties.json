@@ -1,0 +1,19 @@
+{
+  "id": 6340,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-25T04:11:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #6340. I enjoy glaring at the neighbour's cat, licking doorknobs, and fighting the patriarchy. My secret indulgence is cantaloupe. Let's pawty!",
+  "language": "en",
+  "matron": "5834@14",
+  "sire": "5612@13",
+  "children": [
+    "39148@16",
+    "89259@16",
+    "212980@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

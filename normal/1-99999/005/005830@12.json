@@ -1,0 +1,19 @@
+{
+  "id": 5830,
+  "name": "Bearded Woman",
+  "generation": 12,
+  "created_at": "2017-11-25T00:03:59.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Bearded Woman. All you need to know about me is I hate lasagna with a passion. I am 58% troll, 11% Spin Instructor , and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4627@11",
+  "sire": "3653@4",
+  "children": [
+    "6800@14",
+    "11399@17",
+    "11615@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

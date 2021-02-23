@@ -1,0 +1,21 @@
+{
+  "id": 3514,
+  "name": "🍵 Teacup 🍵",
+  "generation": 4,
+  "created_at": "2017-11-24T00:47:57.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm 🍵 Teacup 🍵. My friends describe me as wondrous and tantalizing. I was voted school jock in college. I like your face.",
+  "language": "en",
+  "matron": "3094@3",
+  "sire": "3109@1",
+  "children": [
+    "4050@5",
+    "4065@5",
+    "4129@5",
+    "5217@6",
+    "11718@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

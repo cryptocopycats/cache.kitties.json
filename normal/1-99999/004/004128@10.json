@@ -1,0 +1,19 @@
+{
+  "id": 4128,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T05:37:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #4128. I've never told anyone this, but I once licked a dog. Some people say I'm the Dwight Schrute of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3963@9",
+  "sire": "3663@6",
+  "children": [
+    "4323@11",
+    "4607@11",
+    "7126@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

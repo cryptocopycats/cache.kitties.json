@@ -1,0 +1,18 @@
+{
+  "id": 4630,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T09:23:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Kitty #4630. I once peed on Confucius's cat. They had it coming. Some people say I'm the Niles Crane of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4551@9",
+  "sire": "4556@10",
+  "children": [
+    "4904@13",
+    "4909@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

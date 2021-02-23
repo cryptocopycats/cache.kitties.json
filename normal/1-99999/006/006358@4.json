@@ -1,0 +1,19 @@
+{
+  "id": 6358,
+  "name": "JB",
+  "generation": 4,
+  "created_at": "2017-11-25T04:20:27.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm JB. I've never told anyone this, but I once frolicked with a dog. In my free time, I can usually be found gorgeous or playing chess. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6039@3",
+  "sire": "2488@0",
+  "children": [
+    "8792@16",
+    "8837@13",
+    "8855@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

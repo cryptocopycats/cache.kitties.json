@@ -1,0 +1,20 @@
+{
+  "id": 6237,
+  "name": "Appelsin G12C4",
+  "generation": 12,
+  "created_at": "2017-11-25T03:08:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Appelsin G12C4. I'm often referred to as the Bart Simpson of the group. I once pawed at a dolphin. I don't like to talk about it. Our friendship will be gorgeous, smelly, and full of salad.",
+  "language": "en",
+  "matron": "1187@0",
+  "sire": "3453@11",
+  "children": [
+    "6867@15",
+    "6941@13",
+    "7965@13",
+    "9184@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

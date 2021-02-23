@@ -1,0 +1,23 @@
+{
+  "id": 5106,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-24T17:19:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #5106. I'm often referred to as the Samwise Gamgee of the group. I am 67% hobbit, 5% Ventriloquist, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4974@13",
+  "sire": "4483@8",
+  "children": [
+    "5704@15",
+    "11196@20",
+    "14297@19",
+    "23344@15",
+    "85928@21",
+    "142654@15",
+    "326097@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

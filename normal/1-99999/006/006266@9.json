@@ -1,0 +1,19 @@
+{
+  "id": 6266,
+  "name": "G9/Plodding",
+  "generation": 9,
+  "created_at": "2017-11-25T03:25:37.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm G9/Plodding. I'm a professional Dogwalker and I love cantaloupe. I once got in a fight with a dolphin, and won. Will you be the peanut butter to my garlic butter?",
+  "language": "en",
+  "matron": "4090@8",
+  "sire": "6134@3",
+  "children": [
+    "6290@10",
+    "6450@11",
+    "14227@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

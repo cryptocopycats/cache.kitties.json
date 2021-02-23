@@ -1,0 +1,22 @@
+{
+  "id": 5330,
+  "name": "gen 13",
+  "generation": 13,
+  "created_at": "2017-11-24T19:32:53.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm gen 13. I want to live in a world where people believe the world is flat. In my free time, I can usually be found seductive or riding the bus. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5243@3",
+  "sire": "5269@12",
+  "children": [
+    "5459@14",
+    "5817@14",
+    "6967@16",
+    "19761@14",
+    "23962@18",
+    "75968@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

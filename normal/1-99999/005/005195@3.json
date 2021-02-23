@@ -1,0 +1,19 @@
+{
+  "id": 5195,
+  "name": "WarCat N°0001",
+  "generation": 3,
+  "created_at": "2017-11-24T18:18:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm WarCat N°0001. I'm often referred to as the Frodo Baggins of the group. I once dreamed of being a Private Dancer . Now I can be found swiping left all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3016@1",
+  "sire": "3552@2",
+  "children": [
+    "10334@9",
+    "11361@9",
+    "12381@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

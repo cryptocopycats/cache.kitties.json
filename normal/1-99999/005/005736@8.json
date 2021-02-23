@@ -1,0 +1,24 @@
+{
+  "id": 5736,
+  "name": "Gen 8 | Slow Salmon",
+  "generation": 8,
+  "created_at": "2017-11-24T23:15:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen 8 | Slow Salmon. I've never told anyone this, but I once tricked a dog. I'm often described as brilliant, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5524@4",
+  "sire": "5654@7",
+  "children": [
+    "5874@11",
+    "5981@10",
+    "6335@15",
+    "7475@13",
+    "48235@9",
+    "55764@9",
+    "82775@9",
+    "145571@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

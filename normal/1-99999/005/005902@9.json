@@ -1,0 +1,20 @@
+{
+  "id": 5902,
+  "name": "Catypus",
+  "generation": 9,
+  "created_at": "2017-11-25T00:36:41.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Catypus. My friends describe me as stinky and voluptuous. I once got in a fight with a platypus, and won. Let's get busy!",
+  "language": "en",
+  "matron": "5883@2",
+  "sire": "5884@8",
+  "children": [
+    "6027@10",
+    "8560@10",
+    "24838@10",
+    "43124@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

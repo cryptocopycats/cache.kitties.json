@@ -1,0 +1,17 @@
+{
+  "id": 6468,
+  "name": "Malone",
+  "generation": 1,
+  "created_at": "2017-11-25T05:23:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Malone. I believe that one day cats will rule this planet. I am 34% troll, 49% Spin Instructor , and otherwise bad at math. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "2652@0",
+  "sire": "2530@0",
+  "children": [
+    "10384@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

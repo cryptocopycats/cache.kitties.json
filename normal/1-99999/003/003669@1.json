@@ -1,0 +1,22 @@
+{
+  "id": 3669,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T02:08:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #3669. My friends describe me as petulant and tantalizing. I once made a moose drink. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1296@0",
+  "sire": "1483@0",
+  "children": [
+    "162868@2",
+    "163210@2",
+    "163700@2",
+    "165861@2",
+    "172515@3",
+    "207570@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

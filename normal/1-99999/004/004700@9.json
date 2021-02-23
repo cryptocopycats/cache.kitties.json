@@ -1,0 +1,20 @@
+{
+  "id": 4700,
+  "name": "Gen9 Brisk laperm",
+  "generation": 9,
+  "created_at": "2017-11-24T10:11:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Gen9 Brisk laperm. I'm a Aerobics Athlete  by day, and I like mocking dogs by night. I once made a goose enjoy. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4671@7",
+  "sire": "4664@8",
+  "children": [
+    "5439@10",
+    "5441@10",
+    "60502@10",
+    "94219@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

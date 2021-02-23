@@ -1,0 +1,23 @@
+{
+  "id": 4686,
+  "name": "Lazy eye",
+  "generation": 7,
+  "created_at": "2017-11-24T10:05:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Lazy eye. In high school, I was voted most likely to work at NASA. I put ranch dressing on everything. Like, everything: hot dogs, salad—everything! Let's get busy!",
+  "language": "en",
+  "matron": "3811@1",
+  "sire": "4639@6",
+  "children": [
+    "4712@8",
+    "4842@8",
+    "5458@10",
+    "6846@12",
+    "32335@12",
+    "45933@8",
+    "79270@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

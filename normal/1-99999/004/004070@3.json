@@ -1,0 +1,18 @@
+{
+  "id": 4070,
+  "name": "B - Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-24T05:08:03.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's B - Gen 3. I once peed on Marie Antoinette's cat. They had it coming. I once clawed a chimpanzee. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3343@1",
+  "sire": "4059@2",
+  "children": [
+    "4112@4",
+    "52203@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

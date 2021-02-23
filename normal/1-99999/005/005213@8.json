@@ -1,0 +1,22 @@
+{
+  "id": 5213,
+  "name": "Sprinkles",
+  "generation": 8,
+  "created_at": "2017-11-24T18:29:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Sprinkles. I'm a professional Train Conductor and I love wet food. Sometimes I daydream of a life full of spinning sick beats, ice cream, and pole dancing. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4624@7",
+  "sire": "1203@0",
+  "children": [
+    "5733@9",
+    "11079@12",
+    "12636@10",
+    "22317@18",
+    "33062@18",
+    "57389@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

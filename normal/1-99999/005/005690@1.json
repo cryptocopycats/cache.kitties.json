@@ -1,0 +1,31 @@
+{
+  "id": 5690,
+  "name": "Gen 1 Chocolate",
+  "generation": 1,
+  "created_at": "2017-11-24T22:44:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 1 Chocolate. I believe the world is flat. I am 94% wizard, 34% Train Conductor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "1220@0",
+  "sire": "1270@0",
+  "children": [
+    "15908@2",
+    "17724@14",
+    "25481@2",
+    "25874@2",
+    "26083@2",
+    "26108@2",
+    "29133@2",
+    "32049@2",
+    "39738@2",
+    "40763@2",
+    "154642@2",
+    "220630@2",
+    "353035@2",
+    "479462@12",
+    "581660@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

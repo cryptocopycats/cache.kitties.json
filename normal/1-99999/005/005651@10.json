@@ -1,0 +1,23 @@
+{
+  "id": 5651,
+  "name": "Sneakers",
+  "generation": 10,
+  "created_at": "2017-11-24T22:22:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Sneakers. I'm often referred to as the Samwise Gamgee of the group. In my free time, I can usually be found prickly or volunteering at the local kitten rescue shelter. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4944@9",
+  "sire": "5130@9",
+  "children": [
+    "7112@13",
+    "10498@12",
+    "16884@11",
+    "26616@11",
+    "30822@19",
+    "48234@12",
+    "86950@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

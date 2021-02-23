@@ -1,0 +1,19 @@
+{
+  "id": 5188,
+  "name": "Tigger",
+  "generation": 8,
+  "created_at": "2017-11-24T18:14:09.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Tigger. I enjoy taking selfies, picking flowers, and shakin' dat booty. I once got in a fight with a rooster, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3286@7",
+  "sire": "3043@1",
+  "children": [
+    "5376@9",
+    "6055@9",
+    "31609@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

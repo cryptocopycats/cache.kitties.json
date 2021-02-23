@@ -1,0 +1,25 @@
+{
+  "id": 4004,
+  "name": "# 4004",
+  "generation": 3,
+  "created_at": "2017-11-24T04:35:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm # 4004. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of grooming, salad, and mocking dogs. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3866@2",
+  "sire": "3719@1",
+  "children": [
+    "4040@4",
+    "15269@4",
+    "15411@5",
+    "15589@7",
+    "15859@13",
+    "18800@5",
+    "20398@4",
+    "22970@4",
+    "28001@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

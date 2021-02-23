@@ -1,0 +1,18 @@
+{
+  "id": 3507,
+  "name": "Babri",
+  "generation": 4,
+  "created_at": "2017-11-24T00:45:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Babri. I'm a professional Train Conductor and I love ice cream. It's not common knowledge, but my ancestry connects me to Marie Antoinette. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3014@1",
+  "sire": "3465@3",
+  "children": [
+    "4491@5",
+    "4506@5"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

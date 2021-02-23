@@ -1,0 +1,25 @@
+{
+  "id": 5299,
+  "name": "JustinBiebersCat",
+  "generation": 9,
+  "created_at": "2017-11-24T19:20:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm JustinBiebersCat. I enjoy taking selfies, reading garfield, and riding unicorns. My friends describe me as \"stinky.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3048@3",
+  "sire": "4684@8",
+  "children": [
+    "13376@10",
+    "13869@10",
+    "16901@10",
+    "18223@13",
+    "21467@10",
+    "27652@10",
+    "90048@10",
+    "118349@11",
+    "339732@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

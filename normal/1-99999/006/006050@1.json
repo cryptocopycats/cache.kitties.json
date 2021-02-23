@@ -1,0 +1,17 @@
+{
+  "id": 6050,
+  "name": "Herp Derp Dargon - Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-25T01:50:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Herp Derp Dargon - Gen 1. My friends describe me as annoying and raunchy. I like to listen to Beyoncé while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2768@0",
+  "sire": "2771@0",
+  "children": [
+    "9529@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

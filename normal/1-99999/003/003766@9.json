@@ -1,0 +1,18 @@
+{
+  "id": 3766,
+  "name": "Crypty",
+  "generation": 9,
+  "created_at": "2017-11-24T02:56:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Crypty. I'm a professional Culinary Sanitation Specialist and I love steak. I put ranch dressing on everything. Like, everything: hot dogs, wet food—everything! Our friendship will be prickly, petulant, and full of ice cream.",
+  "language": "en",
+  "matron": "3754@2",
+  "sire": "3757@8",
+  "children": [
+    "3844@10",
+    "21432@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

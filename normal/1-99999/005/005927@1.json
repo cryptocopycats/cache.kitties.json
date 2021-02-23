@@ -1,0 +1,30 @@
+{
+  "id": 5927,
+  "name": "Chocolate Malt",
+  "generation": 1,
+  "created_at": "2017-11-25T00:47:18.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Chocolate Malt. I'm a professional Mad Scientist and I love salad. I am 77% sphinx, 60% Dispensary Clerk, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2071@0",
+  "sire": "2340@0",
+  "children": [
+    "5968@6",
+    "6055@9",
+    "10588@8",
+    "14096@2",
+    "14679@8",
+    "15326@5",
+    "91210@7",
+    "108749@2",
+    "152221@2",
+    "168849@2",
+    "217971@2",
+    "361331@2",
+    "400242@2",
+    "519287@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

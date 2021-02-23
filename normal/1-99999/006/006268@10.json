@@ -1,0 +1,23 @@
+{
+  "id": 6268,
+  "name": "Lovelier",
+  "generation": 10,
+  "created_at": "2017-11-25T03:26:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Lovelier. My friends describe me as annoying and gorgeous. I once groomed a goose. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5840@1",
+  "sire": "6163@9",
+  "children": [
+    "6384@14",
+    "9758@13",
+    "16096@14",
+    "18017@11",
+    "18382@11",
+    "48240@17",
+    "56410@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

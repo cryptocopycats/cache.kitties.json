@@ -1,0 +1,20 @@
+{
+  "id": 5132,
+  "name": "Evangeline",
+  "generation": 12,
+  "created_at": "2017-11-24T17:36:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Evangeline. In high school, I was voted school jock. I once snuggled a rooster. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4998@11",
+  "sire": "4622@8",
+  "children": [
+    "5639@13",
+    "6545@13",
+    "7871@15",
+    "13485@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5181,
+  "name": "Tiny Dancer",
+  "generation": 13,
+  "created_at": "2017-11-24T18:09:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Tiny Dancer. I'm a Private Dancer  by day, and I like practicing witchcraft by night. I would give it all up to star in a soap opera. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "3340@5",
+  "sire": "4280@12",
+  "children": [
+    "9035@14",
+    "9488@16",
+    "9809@14",
+    "12479@17",
+    "17939@16",
+    "127007@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

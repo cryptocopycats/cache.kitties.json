@@ -1,0 +1,22 @@
+{
+  "id": 6218,
+  "name": "6218",
+  "generation": 13,
+  "created_at": "2017-11-25T03:02:31.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm 6218. I enjoy taking selfies, reciting poetry, and riding dirty. I like to listen to Michael Bolton while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "5466@12",
+  "sire": "5599@10",
+  "children": [
+    "6289@14",
+    "9830@15",
+    "15547@14",
+    "16203@19",
+    "26620@14",
+    "36117@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

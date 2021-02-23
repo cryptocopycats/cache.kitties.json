@@ -1,0 +1,18 @@
+{
+  "id": 4876,
+  "name": "Kitty #4876",
+  "generation": 13,
+  "created_at": "2017-11-24T12:50:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #4876. I believe that one day cats will rule this planet. I like to listen to Aretha Franklin while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4222@12",
+  "sire": "3950@8",
+  "children": [
+    "6893@14",
+    "54705@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

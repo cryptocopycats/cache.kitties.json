@@ -1,0 +1,23 @@
+{
+  "id": 3853,
+  "name": "Squirrely tail",
+  "generation": 3,
+  "created_at": "2017-11-24T03:36:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Squirrely tail. I've never told anyone this, but I once frolicked with a dog. I once dreamed of being a Dispensary Clerk. Now I can be found tricking babies all day. Our friendship will be gorgeous, wondrous, and full of wet food.",
+  "language": "en",
+  "matron": "3292@2",
+  "sire": "3779@1",
+  "children": [
+    "3887@4",
+    "4015@8",
+    "4249@8",
+    "4322@9",
+    "8405@9",
+    "20757@16",
+    "22996@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

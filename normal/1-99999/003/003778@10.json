@@ -1,0 +1,25 @@
+{
+  "id": 3778,
+  "name": "Red Pascha",
+  "generation": 10,
+  "created_at": "2017-11-24T03:02:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Red Pascha. I enjoy reciting poetry, fighting the patriarchy, and hitting on yo' man. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3685@4",
+  "sire": "3748@9",
+  "children": [
+    "3937@11",
+    "4473@11",
+    "4845@13",
+    "6042@15",
+    "7202@11",
+    "7743@15",
+    "29558@11",
+    "69917@18",
+    "287101@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

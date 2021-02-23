@@ -1,0 +1,20 @@
+{
+  "id": 4018,
+  "name": "Smirk",
+  "generation": 12,
+  "created_at": "2017-11-24T04:42:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Smirk. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "3827@11",
+  "sire": "3770@10",
+  "children": [
+    "4315@13",
+    "5076@13",
+    "13734@13",
+    "69080@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

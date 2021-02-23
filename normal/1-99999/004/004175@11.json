@@ -1,0 +1,22 @@
+{
+  "id": 4175,
+  "name": "Saluté",
+  "generation": 11,
+  "created_at": "2017-11-24T05:58:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Saluté. I enjoy picking flowers, fighting the patriarchy, and eating lasagna. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's pawty!",
+  "language": "en",
+  "matron": "3857@10",
+  "sire": "3848@9",
+  "children": [
+    "12362@13",
+    "14891@12",
+    "32581@15",
+    "58257@15",
+    "95537@15",
+    "196570@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

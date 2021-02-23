@@ -1,0 +1,31 @@
+{
+  "id": 6075,
+  "name": "Sphynx Cat Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-25T02:00:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Sphynx Cat Gen 1. I'm a professional Culinary Sanitation Specialist and I love apple pie. In my free time, I can usually be found ridiculous or watching reality tv. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "2704@0",
+  "sire": "2628@0",
+  "children": [
+    "8515@6",
+    "10541@7",
+    "10590@8",
+    "10668@3",
+    "10756@10",
+    "11567@8",
+    "11999@6",
+    "12541@3",
+    "13984@15",
+    "18704@10",
+    "23724@2",
+    "48237@2",
+    "142351@2",
+    "328372@2",
+    "540097@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

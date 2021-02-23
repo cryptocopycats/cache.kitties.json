@@ -1,0 +1,19 @@
+{
+  "id": 4156,
+  "name": "G8/Plodding",
+  "generation": 8,
+  "created_at": "2017-11-24T05:49:25.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm G8/Plodding. I'm a Ventriloquist by day, and I like volunteering at the local kitten rescue shelter by night. When I'm not siring for status, I'm riding the bus! I like your face.",
+  "language": "en",
+  "matron": "4021@7",
+  "sire": "3996@7",
+  "children": [
+    "4254@10",
+    "6355@13",
+    "21662@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

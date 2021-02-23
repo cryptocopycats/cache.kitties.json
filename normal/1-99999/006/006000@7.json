@@ -1,0 +1,19 @@
+{
+  "id": 6000,
+  "name": "#6000 Vanity Kitty",
+  "generation": 7,
+  "created_at": "2017-11-25T01:19:47.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm #6000 Vanity Kitty. I enjoy riding unicorns, eating lasagna, and spinning sick beats. I'm often described as fabulous, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5385@6",
+  "sire": "5889@2",
+  "children": [
+    "163461@10",
+    "197153@8",
+    "320519@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

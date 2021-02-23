@@ -1,0 +1,18 @@
+{
+  "id": 3640,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T01:52:41.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #3640. I'm a professional Aerobics Athlete  and I love cereal. I once dreamed of being a Train Conductor. Now I can be found mocking dogs all day. I like your face.",
+  "language": "en",
+  "matron": "1095@0",
+  "sire": "3595@1",
+  "children": [
+    "4109@4",
+    "4150@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

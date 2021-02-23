@@ -1,0 +1,19 @@
+{
+  "id": 6362,
+  "name": "Trash Panda",
+  "generation": 13,
+  "created_at": "2017-11-25T04:20:27.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Trash Panda. I enjoy breakdancing, slappin' da bass, and being a nevernude. I am 62% sphinx, 40% Culinary Sanitation Specialist, and otherwise bad at math. Will you be the marmite to my garlic butter?",
+  "language": "en",
+  "matron": "6208@4",
+  "sire": "5490@12",
+  "children": [
+    "16096@14",
+    "17459@16",
+    "22521@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

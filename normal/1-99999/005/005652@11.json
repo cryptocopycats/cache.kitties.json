@@ -1,0 +1,22 @@
+{
+  "id": 5652,
+  "name": "Mustache Gold Dad",
+  "generation": 11,
+  "created_at": "2017-11-24T22:24:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mustache Gold Dad. All you need to know about me is I hate ice cream with a passion. My secret indulgence is cantaloupe. Will you be the ghost pepper hot sauce to my peanut butter?",
+  "language": "en",
+  "matron": "5518@10",
+  "sire": "5033@1",
+  "children": [
+    "6148@12",
+    "6296@12",
+    "6844@12",
+    "7503@12",
+    "7858@12",
+    "9579@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

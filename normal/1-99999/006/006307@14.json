@@ -1,0 +1,19 @@
+{
+  "id": 6307,
+  "name": "カタカナ",
+  "generation": 14,
+  "created_at": "2017-11-25T03:49:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm カタカナ. I believe that one day cats will rule this planet. I would give it all up for a Chanel purse. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6157@3",
+  "sire": "6186@13",
+  "children": [
+    "6698@16",
+    "15559@15",
+    "21121@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

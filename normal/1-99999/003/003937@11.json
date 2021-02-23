@@ -1,0 +1,19 @@
+{
+  "id": 3937,
+  "name": "Squirrel",
+  "generation": 11,
+  "created_at": "2017-11-24T04:08:06.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Squirrel. My friends describe me as hairy and tantalizing. I once made a dog ignore. I look forward to being a nevernude with you.",
+  "language": "en",
+  "matron": "3774@7",
+  "sire": "3778@10",
+  "children": [
+    "3983@12",
+    "4228@12",
+    "39679@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

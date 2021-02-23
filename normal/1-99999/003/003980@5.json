@@ -1,0 +1,26 @@
+{
+  "id": 3980,
+  "name": "breed2",
+  "generation": 5,
+  "created_at": "2017-11-24T04:27:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm breed2. I've never told anyone this, but I once tricked a dog. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3847@4",
+  "sire": "1492@0",
+  "children": [
+    "4021@7",
+    "4232@8",
+    "4347@10",
+    "9566@13",
+    "13508@10",
+    "20232@15",
+    "28615@15",
+    "48701@15",
+    "104331@18",
+    "179988@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

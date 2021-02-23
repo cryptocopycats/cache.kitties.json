@@ -1,0 +1,26 @@
+{
+  "id": 3498,
+  "name": "G1 Puss in Boots",
+  "generation": 1,
+  "created_at": "2017-11-24T00:44:33.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! G1 Puss in Boots here. I'm here to enjoy riding dirty and shakin' dat booty. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "1206@0",
+  "sire": "1280@0",
+  "children": [
+    "3860@2",
+    "5903@2",
+    "14558@2",
+    "15488@2",
+    "35310@2",
+    "36180@2",
+    "39069@2",
+    "49602@2",
+    "57769@2",
+    "68166@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

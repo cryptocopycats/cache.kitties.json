@@ -1,0 +1,17 @@
+{
+  "id": 5961,
+  "name": "Rachel",
+  "generation": 10,
+  "created_at": "2017-11-25T00:56:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Rachel. I'm a professional Train Conductor and I love hamburgers. I was voted school jock in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5864@1",
+  "sire": "5788@9",
+  "children": [
+    "10736@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

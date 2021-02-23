@@ -1,0 +1,23 @@
+{
+  "id": 5623,
+  "name": "Gilbert",
+  "generation": 8,
+  "created_at": "2017-11-24T22:07:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Gilbert. All you need to know about me is I hate ice cream with a passion. I once made a dog scare. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "5148@7",
+  "sire": "5150@4",
+  "children": [
+    "5796@9",
+    "6119@12",
+    "11583@11",
+    "12116@11",
+    "17143@13",
+    "48815@18",
+    "89571@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4407,
+  "name": "TigerPunk",
+  "generation": 12,
+  "created_at": "2017-11-24T07:17:28.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm TigerPunk. In high school, I was voted school jock. I once made a rabbit trot. Our friendship will be fabulous, ridiculous, and full of wet food.",
+  "language": "en",
+  "matron": "4180@11",
+  "sire": "3935@6",
+  "children": [
+    "5395@13",
+    "9299@13",
+    "9793@13",
+    "19373@13",
+    "72724@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

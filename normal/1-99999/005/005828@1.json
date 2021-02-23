@@ -1,0 +1,28 @@
+{
+  "id": 5828,
+  "name": "Sphynx",
+  "generation": 1,
+  "created_at": "2017-11-25T00:03:59.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! My name's Sphynx. I once peed on Marie Antoinette's cat. They had it coming. I like to listen to Gloria Estefan while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "2110@0",
+  "sire": "2109@0",
+  "children": [
+    "5866@2",
+    "15908@2",
+    "15929@2",
+    "16710@11",
+    "22724@2",
+    "23045@2",
+    "26748@2",
+    "27148@2",
+    "30151@2",
+    "44475@2",
+    "90090@2",
+    "144106@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

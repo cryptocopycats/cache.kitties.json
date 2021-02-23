@@ -1,0 +1,29 @@
+{
+  "id": 4704,
+  "name": "MintGreen",
+  "generation": 1,
+  "created_at": "2017-11-24T10:14:52.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm MintGreen. I've never told anyone this, but I once licked a dog. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "1183@0",
+  "sire": "1152@0",
+  "children": [
+    "4715@5",
+    "4771@9",
+    "16035@10",
+    "21158@2",
+    "21255@2",
+    "21809@2",
+    "22094@2",
+    "22724@2",
+    "27162@2",
+    "28997@2",
+    "52030@2",
+    "73360@2",
+    "215397@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

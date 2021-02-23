@@ -1,0 +1,20 @@
+{
+  "id": 4404,
+  "name": "YAGC (Yet Another Grey Cat)",
+  "generation": 6,
+  "created_at": "2017-11-24T07:16:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm YAGC (Yet Another Grey Cat). I enjoy hitting on yo' man, being a nevernude, and riding unicorns. I once got in a fight with a rhino, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3402@5",
+  "sire": "3475@5",
+  "children": [
+    "7265@7",
+    "27856@7",
+    "59199@7",
+    "1587331@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

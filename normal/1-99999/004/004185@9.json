@@ -1,0 +1,23 @@
+{
+  "id": 4185,
+  "name": "Gen 9",
+  "generation": 9,
+  "created_at": "2017-11-24T06:08:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Gen 9. My friends describe me as vegan and prickly. I once dreamed of being a Train Conductor. Now I can be found summoning ghosts all day. Let's get busy!",
+  "language": "en",
+  "matron": "4118@8",
+  "sire": "3993@7",
+  "children": [
+    "4411@10",
+    "6712@12",
+    "6745@16",
+    "10740@10",
+    "57991@10",
+    "59798@10",
+    "70781@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

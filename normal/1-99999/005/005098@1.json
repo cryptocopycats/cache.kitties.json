@@ -1,0 +1,21 @@
+{
+  "id": 5098,
+  "name": "Harold [Brisk • Gen 1]",
+  "generation": 1,
+  "created_at": "2017-11-24T17:09:47.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Harold [Brisk • Gen 1]. I enjoy chasing string, being a nevernude, and fighting the patriarchy. I am 61% oracle, 27% Aerobics Athlete , and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "1372@0",
+  "sire": "1242@0",
+  "children": [
+    "6341@9",
+    "12401@12",
+    "52026@9",
+    "78337@5",
+    "79530@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

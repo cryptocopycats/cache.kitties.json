@@ -1,0 +1,27 @@
+{
+  "id": 5819,
+  "name": "Gen 0",
+  "generation": 5,
+  "created_at": "2017-11-25T00:01:32.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen 0. In high school, I was voted biggest teacher's pet. I once dreamed of being a Foreign Film Director. Now I can be found watching reality tv all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1043@0",
+  "sire": "5344@4",
+  "children": [
+    "7573@6",
+    "7610@6",
+    "7698@9",
+    "7753@6",
+    "8159@9",
+    "8622@6",
+    "8809@12",
+    "51050@6",
+    "74489@6",
+    "199140@13",
+    "336973@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

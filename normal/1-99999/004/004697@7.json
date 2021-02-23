@@ -1,0 +1,25 @@
+{
+  "id": 4697,
+  "name": "G7 | Mint Granite | Slow",
+  "generation": 7,
+  "created_at": "2017-11-24T10:10:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm G7 | Mint Granite | Slow. I've never told anyone this, but I once groomed a dog. My secret indulgence is wet food. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "4554@5",
+  "sire": "4540@6",
+  "children": [
+    "4718@8",
+    "4792@10",
+    "5119@8",
+    "5467@9",
+    "6583@13",
+    "37925@10",
+    "57634@9",
+    "97317@11",
+    "107001@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

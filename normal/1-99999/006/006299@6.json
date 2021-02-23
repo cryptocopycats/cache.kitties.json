@@ -1,0 +1,27 @@
+{
+  "id": 6299,
+  "name": "Lucifer",
+  "generation": 6,
+  "created_at": "2017-11-25T03:43:04.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Lucifer. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "4145@5",
+  "sire": "2547@0",
+  "children": [
+    "6363@7",
+    "6510@11",
+    "6551@9",
+    "6922@13",
+    "7529@10",
+    "7984@7",
+    "10054@21",
+    "16226@10",
+    "20307@7",
+    "27739@7",
+    "335522@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

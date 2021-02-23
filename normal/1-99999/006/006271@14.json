@@ -1,0 +1,23 @@
+{
+  "id": 6271,
+  "name": "crazy eyes",
+  "generation": 14,
+  "created_at": "2017-11-25T03:27:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm crazy eyes. I'm often referred to as the Bart Simpson of the group. My friends describe me as \"hairy.\" It's... accurate. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "6158@1",
+  "sire": "5916@13",
+  "children": [
+    "6694@15",
+    "7127@15",
+    "8289@15",
+    "9372@15",
+    "14277@18",
+    "31702@22",
+    "78260@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

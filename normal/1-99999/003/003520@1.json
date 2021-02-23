@@ -1,0 +1,19 @@
+{
+  "id": 3520,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T00:49:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #3520. All you need to know about me is I hate hamburgers with a passion. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1043@0",
+  "sire": "1032@0",
+  "children": [
+    "31131@5",
+    "446900@5",
+    "454292@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

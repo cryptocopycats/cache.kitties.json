@@ -1,0 +1,21 @@
+{
+  "id": 4752,
+  "name": "Kitty #4752",
+  "generation": 7,
+  "created_at": "2017-11-24T10:51:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #4752. I want to live in a world where people believe the world is flat. Some people say I'm the Ron Weasley of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3199@1",
+  "sire": "4639@6",
+  "children": [
+    "4776@8",
+    "4854@11",
+    "5354@8",
+    "58579@8",
+    "75735@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

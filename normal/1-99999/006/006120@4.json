@@ -1,0 +1,25 @@
+{
+  "id": 6120,
+  "name": "6120",
+  "generation": 4,
+  "created_at": "2017-11-25T02:14:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm 6120. I'm often referred to as the Michael Scott of the group. When no one's home, I invite my pals over and we listen to Wutang. Will you be the wasabi to my maple syrup?",
+  "language": "en",
+  "matron": "5850@1",
+  "sire": "5243@3",
+  "children": [
+    "6144@10",
+    "6185@5",
+    "6276@15",
+    "6391@12",
+    "38201@6",
+    "50858@5",
+    "51706@5",
+    "66741@5",
+    "143308@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

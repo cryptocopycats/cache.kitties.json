@@ -1,0 +1,27 @@
+{
+  "id": 3989,
+  "name": "G3 Slow",
+  "generation": 3,
+  "created_at": "2017-11-24T04:30:45.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! My name's G3 Slow. I once peed on Nelson Mandela's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Nelson Mandela. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3927@2",
+  "sire": "3932@1",
+  "children": [
+    "4027@4",
+    "27214@5",
+    "27307@4",
+    "34144@4",
+    "57027@14",
+    "57108@8",
+    "68062@15",
+    "84998@6",
+    "116397@4",
+    "172447@6",
+    "236127@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

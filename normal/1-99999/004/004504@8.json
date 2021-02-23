@@ -1,0 +1,19 @@
+{
+  "id": 4504,
+  "name": "Paw McCartney",
+  "generation": 8,
+  "created_at": "2017-11-24T08:09:43.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Paw McCartney. I want to live in a world where people believe the world is flat. I'm often described as gorgeous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3810@7",
+  "sire": "4182@6",
+  "children": [
+    "4882@10",
+    "61881@9",
+    "197831@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

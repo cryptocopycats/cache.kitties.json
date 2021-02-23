@@ -1,0 +1,25 @@
+{
+  "id": 3492,
+  "name": "Petite Morte",
+  "generation": 4,
+  "created_at": "2017-11-24T00:43:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Petite Morte. I want to live in a world where people believe the world is flat. Some people say I'm the Bart Simpson of the group. I like your face.",
+  "language": "en",
+  "matron": "1433@0",
+  "sire": "3073@3",
+  "children": [
+    "3529@5",
+    "4173@10",
+    "4179@7",
+    "4899@6",
+    "5011@7",
+    "5080@9",
+    "7079@5",
+    "7674@14",
+    "11693@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

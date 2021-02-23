@@ -1,0 +1,18 @@
+{
+  "id": 5425,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T20:25:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #5425. I enjoy taking selfies, sitting on your computer, and picking on mice. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5271@11",
+  "sire": "5147@7",
+  "children": [
+    "5856@13",
+    "16617@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

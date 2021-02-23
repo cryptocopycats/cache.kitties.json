@@ -1,0 +1,22 @@
+{
+  "id": 4360,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T06:59:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #4360. All you need to know about me is I hate hamburgers with a passion. When no one's home, I invite my pals over and we listen to Coldplay. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4273@5",
+  "sire": "4239@3",
+  "children": [
+    "5356@7",
+    "7152@14",
+    "8969@12",
+    "10700@15",
+    "12333@15",
+    "19375@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3565,
+  "name": "Lulu",
+  "generation": 3,
+  "created_at": "2017-11-24T01:22:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Lulu. I'm a professional Private Dancer  and I love apple pie. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3307@2",
+  "sire": "3560@1",
+  "children": [
+    "3589@4",
+    "3685@4",
+    "49652@7",
+    "74554@7",
+    "76707@4",
+    "80757@4",
+    "107253@7",
+    "108660@9",
+    "113222@4",
+    "124016@4",
+    "213487@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

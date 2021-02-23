@@ -1,0 +1,22 @@
+{
+  "id": 6056,
+  "name": "OLD",
+  "generation": 12,
+  "created_at": "2017-11-25T01:51:07.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm OLD. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Dogwalker. Now I can be found tricking babies all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5233@11",
+  "sire": "5686@11",
+  "children": [
+    "6336@13",
+    "16122@13",
+    "21378@13",
+    "25824@13",
+    "53212@13",
+    "60577@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

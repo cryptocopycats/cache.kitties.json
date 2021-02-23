@@ -1,0 +1,18 @@
+{
+  "id": 4389,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T07:09:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #4389. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Michael Scott of the group. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "4012@8",
+  "sire": "3406@4",
+  "children": [
+    "7269@13",
+    "7750@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

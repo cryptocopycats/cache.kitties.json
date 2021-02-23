@@ -1,0 +1,21 @@
+{
+  "id": 4693,
+  "name": "Bape Kitty",
+  "generation": 10,
+  "created_at": "2017-11-24T10:07:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Bape Kitty. My friends describe me as despicable and preposterous. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4202@9",
+  "sire": "4494@9",
+  "children": [
+    "4926@12",
+    "4948@11",
+    "7791@13",
+    "26431@11",
+    "27331@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

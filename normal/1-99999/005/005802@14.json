@@ -1,0 +1,22 @@
+{
+  "id": 5802,
+  "name": "Very low ID",
+  "generation": 14,
+  "created_at": "2017-11-24T23:54:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Very low ID. All you need to know about me is I hate lasagna with a passion. My great-great-great-great-great-great grandkitty lived with Confucius. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "5571@13",
+  "sire": "3342@1",
+  "children": [
+    "6320@15",
+    "6708@15",
+    "15449@15",
+    "22547@15",
+    "34521@15",
+    "88615@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

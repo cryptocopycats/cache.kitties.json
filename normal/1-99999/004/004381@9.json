@@ -1,0 +1,19 @@
+{
+  "id": 4381,
+  "name": "Kiki",
+  "generation": 9,
+  "created_at": "2017-11-24T07:06:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Kiki. I once peed on Confucius's cat. They had it coming. I am 77% wizard, 30% Train Conductor, and otherwise bad at math. I look forward to staying woke with you.",
+  "language": "en",
+  "matron": "4122@8",
+  "sire": "4088@7",
+  "children": [
+    "38148@18",
+    "39757@10",
+    "50845@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

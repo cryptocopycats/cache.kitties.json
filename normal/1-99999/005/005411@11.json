@@ -1,0 +1,19 @@
+{
+  "id": 5411,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T20:14:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #5411. I enjoy spinning sick beats, staying woke, and slappin' da bass. I am 59% sphinx, 21% Spin Instructor , and otherwise bad at math. Will you be the cinammon to my ranch dressing?",
+  "language": "en",
+  "matron": "1299@0",
+  "sire": "5353@10",
+  "children": [
+    "5662@12",
+    "7236@15",
+    "7832@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

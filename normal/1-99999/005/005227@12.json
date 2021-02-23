@@ -1,0 +1,18 @@
+{
+  "id": 5227,
+  "name": "Meott",
+  "generation": 12,
+  "created_at": "2017-11-24T18:37:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Meott. I enjoy fighting for the people, tricking babies, and eating until I loathe myself. I once dreamed of being a Train Conductor. Now I can be found swiping right all day. I like your face.",
+  "language": "en",
+  "matron": "4382@9",
+  "sire": "4641@11",
+  "children": [
+    "7843@15",
+    "21061@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

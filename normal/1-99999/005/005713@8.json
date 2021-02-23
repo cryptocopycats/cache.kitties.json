@@ -1,0 +1,19 @@
+{
+  "id": 5713,
+  "name": "Beardtastic Cat",
+  "generation": 8,
+  "created_at": "2017-11-24T22:57:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Beardtastic Cat. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "1363@0",
+  "sire": "5079@7",
+  "children": [
+    "6400@9",
+    "8206@9",
+    "11243@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5388,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T20:03:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #5388. I enjoy sitting on your computer, shakin' dat booty, and taking selfies. I once made a moose ignore. Let's pawty!",
+  "language": "en",
+  "matron": "1056@0",
+  "sire": "4392@1",
+  "children": [
+    "5907@7",
+    "5943@3",
+    "7458@3",
+    "14179@3",
+    "15199@10",
+    "21906@3",
+    "57909@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

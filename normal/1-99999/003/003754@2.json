@@ -1,0 +1,23 @@
+{
+  "id": 3754,
+  "name": "Sallymander",
+  "generation": 2,
+  "created_at": "2017-11-24T02:49:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Sallymander. I've never told anyone this, but I once frolicked with a dog. My secret indulgence is ice cream. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3276@1",
+  "sire": "1398@0",
+  "children": [
+    "3766@9",
+    "3817@3",
+    "3920@7",
+    "4101@11",
+    "5345@10",
+    "21251@7",
+    "22245@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

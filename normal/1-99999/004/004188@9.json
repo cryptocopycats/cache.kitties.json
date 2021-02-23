@@ -1,0 +1,21 @@
+{
+  "id": 4188,
+  "name": "Sterling Archer (Low #, G9)",
+  "generation": 9,
+  "created_at": "2017-11-24T06:09:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Sterling Archer (Low #, G9). My friends describe me as fabulous and gullible. I was voted most likely to work at NASA in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4088@7",
+  "sire": "4081@8",
+  "children": [
+    "4364@10",
+    "5220@12",
+    "6047@10",
+    "9542@10",
+    "47542@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 6390,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T04:33:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #6390. I want to live in a world where people believe the world is flat. I like to listen to Metallica while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6258@9",
+  "sire": "2433@0",
+  "children": [
+    "7439@13",
+    "7874@11",
+    "8145@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

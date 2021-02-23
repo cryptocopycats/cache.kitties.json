@@ -1,0 +1,17 @@
+{
+  "id": 5669,
+  "name": "Matilda",
+  "generation": 10,
+  "created_at": "2017-11-24T22:33:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Matilda. I'm a professional Dispensary Clerk and I love hamburgers. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3807@8",
+  "sire": "3858@9",
+  "children": [
+    "7468@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 5582,
+  "name": "York Peppermint Catty",
+  "generation": 11,
+  "created_at": "2017-11-24T21:49:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm York Peppermint Catty. I'm a professional Private Dancer  and I love ice cream. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Let's get busy!",
+  "language": "en",
+  "matron": "5224@10",
+  "sire": "4776@8",
+  "children": [
+    "5700@12",
+    "6012@12",
+    "6656@12",
+    "17708@19",
+    "23448@20",
+    "36387@18",
+    "169627@12",
+    "181368@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

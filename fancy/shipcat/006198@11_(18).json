@@ -1,0 +1,28 @@
+{
+  "id": 6198,
+  "name": "6198 FANCY",
+  "generation": 11,
+  "created_at": "2017-11-25T02:56:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm 6198 FANCY. In high school, I was voted most likely to work at NASA. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found playing chess all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "4054@4",
+  "sire": "5520@10",
+  "children": [
+    "6263@12",
+    "9733@15",
+    "12637@12",
+    "16434@12",
+    "22199@17",
+    "36031@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 18,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

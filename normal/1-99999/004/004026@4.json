@@ -1,0 +1,24 @@
+{
+  "id": 4026,
+  "name": "Suigetsu",
+  "generation": 4,
+  "created_at": "2017-11-24T04:43:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Suigetsu. In high school, I was voted school jock. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3846@3",
+  "sire": "3436@1",
+  "children": [
+    "4039@5",
+    "4554@5",
+    "4633@5",
+    "4751@5",
+    "5298@7",
+    "29548@5",
+    "45627@16",
+    "190590@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

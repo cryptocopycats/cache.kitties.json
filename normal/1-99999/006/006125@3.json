@@ -1,0 +1,21 @@
+{
+  "id": 6125,
+  "name": "HappyGoKitty",
+  "generation": 3,
+  "created_at": "2017-11-25T02:17:39.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm HappyGoKitty. I'm a Culinary Sanitation Specialist by day, and I like mocking dogs by night. My secret indulgence is chocolate. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1366@0",
+  "sire": "3558@2",
+  "children": [
+    "6168@4",
+    "7129@7",
+    "7347@9",
+    "9311@13",
+    "9515@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

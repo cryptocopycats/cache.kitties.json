@@ -1,0 +1,20 @@
+{
+  "id": 4201,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T06:09:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #4201. All you need to know about me is I hate steak with a passion. Sometimes I daydream of a life full of chasing string, salad, and swiping right. I like your face.",
+  "language": "en",
+  "matron": "3984@10",
+  "sire": "3725@5",
+  "children": [
+    "4462@12",
+    "4674@12",
+    "4930@12",
+    "7305@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

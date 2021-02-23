@@ -1,0 +1,23 @@
+{
+  "id": 3975,
+  "name": "Bad Taste Kitty",
+  "generation": 6,
+  "created_at": "2017-11-24T04:26:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Bad Taste Kitty. My friends describe me as seductive and tantalizing. I put wasabi on everything. Like, everything: hot dogs, steak—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3867@5",
+  "sire": "3664@3",
+  "children": [
+    "4021@7",
+    "4107@7",
+    "4261@10",
+    "4584@10",
+    "20057@15",
+    "53038@8",
+    "76625@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 6504,
+  "name": "Gingersnaps",
+  "generation": 1,
+  "created_at": "2017-11-25T05:41:42.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gingersnaps. I enjoy eating until I loathe myself, chasing red dots, and taking selfies. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to chasing string with you.",
+  "language": "en",
+  "matron": "2240@0",
+  "sire": "2501@0",
+  "children": [
+    "6556@2",
+    "7143@10",
+    "59354@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

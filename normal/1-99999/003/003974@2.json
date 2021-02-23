@@ -1,0 +1,21 @@
+{
+  "id": 3974,
+  "name": "Glaurung",
+  "generation": 2,
+  "created_at": "2017-11-24T04:24:30.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Glaurung. I want to live in a world where people believe that one day cats will rule this planet. When I'm not siring for status, I'm talking about how much I lift! Our friendship will be wondrous, gorgeous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "3369@1",
+  "sire": "1056@0",
+  "children": [
+    "5453@8",
+    "28170@3",
+    "29093@3",
+    "42225@3",
+    "47267@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

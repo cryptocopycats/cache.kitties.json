@@ -1,0 +1,20 @@
+{
+  "id": 6007,
+  "name": "Tigga the Pooh #6007",
+  "generation": 14,
+  "created_at": "2017-11-25T01:20:42.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Tigga the Pooh #6007. I'm often referred to as the Steve Urkel of the group. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Let's pawty!",
+  "language": "en",
+  "matron": "5726@13",
+  "sire": "5527@13",
+  "children": [
+    "6998@15",
+    "7404@15",
+    "8339@15",
+    "11856@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

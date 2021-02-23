@@ -1,0 +1,29 @@
+{
+  "id": 5443,
+  "name": "Gus",
+  "generation": 11,
+  "created_at": "2017-11-24T20:30:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gus. I'm a Train Conductor by day, and I like jump-roping by night. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "4441@10",
+  "sire": "4857@9",
+  "children": [
+    "12271@12",
+    "13746@12",
+    "23444@12",
+    "24184@12",
+    "59833@15",
+    "142385@12",
+    "171095@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 12,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 4833,
+  "name": "Sugar",
+  "generation": 9,
+  "created_at": "2017-11-24T11:42:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Sugar. I'm often referred to as the Peter Griffin of the group. Sometimes I daydream of a life full of hitting on yo' man, ice cream, and prank-calling celebrities. Our friendship will be brilliant, seductive, and full of steak.",
+  "language": "en",
+  "matron": "4776@8",
+  "sire": "4780@1",
+  "children": [
+    "5114@10",
+    "5224@10",
+    "5458@10",
+    "5936@12",
+    "6255@10",
+    "38560@19",
+    "66585@18",
+    "108818@10",
+    "314037@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

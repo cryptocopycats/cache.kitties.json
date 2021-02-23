@@ -1,0 +1,19 @@
+{
+  "id": 3618,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-11-24T01:44:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm G5. I'm a Dispensary Clerk by day, and I like jump-roping by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1219@0",
+  "sire": "3477@4",
+  "children": [
+    "3864@6",
+    "5797@6",
+    "11125@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

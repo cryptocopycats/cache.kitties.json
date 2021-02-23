@@ -1,0 +1,24 @@
+{
+  "id": 5668,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T22:33:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #5668. I want to live in a world where people believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4688@8",
+  "sire": "4334@9",
+  "children": [
+    "5804@14",
+    "9656@16",
+    "10516@16",
+    "10996@18",
+    "11987@11",
+    "18646@19",
+    "34975@22",
+    "40206@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

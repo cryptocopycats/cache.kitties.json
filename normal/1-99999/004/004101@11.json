@@ -1,0 +1,21 @@
+{
+  "id": 4101,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T05:21:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #4101. I enjoy glaring at the neighbour's cat, breakdancing, and riding unicorns. I once dreamed of being a Aerobics Athlete . Now I can be found pole dancing all day. Let's pawty!",
+  "language": "en",
+  "matron": "3754@2",
+  "sire": "3978@10",
+  "children": [
+    "4355@12",
+    "8040@15",
+    "10664@12",
+    "12024@16",
+    "15451@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 6243,
+  "name": "Princess Buttercup",
+  "generation": 12,
+  "created_at": "2017-11-25T03:11:43.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Princess Buttercup. My friends describe me as hairy and brilliant. Some people say I'm the Frodo Baggins of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4429@9",
+  "sire": "5226@11",
+  "children": [
+    "10826@14",
+    "83683@13",
+    "100532@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

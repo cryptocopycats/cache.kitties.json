@@ -1,0 +1,22 @@
+{
+  "id": 6088,
+  "name": "Kitty Boom Boom",
+  "generation": 11,
+  "created_at": "2017-11-25T02:05:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty Boom Boom. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Can you make my gullible dreams come true?",
+  "language": "en",
+  "matron": "5909@10",
+  "sire": "5956@10",
+  "children": [
+    "6590@12",
+    "6920@12",
+    "8199@12",
+    "14504@12",
+    "28887@15",
+    "40534@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

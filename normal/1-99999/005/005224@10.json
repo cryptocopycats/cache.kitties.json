@@ -1,0 +1,22 @@
+{
+  "id": 5224,
+  "name": "Blueberries",
+  "generation": 10,
+  "created_at": "2017-11-24T18:34:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Blueberries. My friends describe me as seductive and fabulous. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I like your face.",
+  "language": "en",
+  "matron": "4833@9",
+  "sire": "4672@6",
+  "children": [
+    "5338@11",
+    "5582@11",
+    "16710@11",
+    "22826@11",
+    "42096@16",
+    "64029@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

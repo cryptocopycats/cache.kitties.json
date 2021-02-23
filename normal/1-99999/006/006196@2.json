@@ -1,0 +1,25 @@
+{
+  "id": 6196,
+  "name": "Grandpaw",
+  "generation": 2,
+  "created_at": "2017-11-25T02:56:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Grandpaw. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of riding unicorns, lasagna, and talking about how much I lift. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5926@1",
+  "sire": "6182@1",
+  "children": [
+    "6820@9",
+    "26214@3",
+    "26354@3",
+    "30569@3",
+    "32780@3",
+    "34610@3",
+    "35392@3",
+    "49489@3",
+    "226203@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

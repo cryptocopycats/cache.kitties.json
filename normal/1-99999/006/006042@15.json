@@ -1,0 +1,20 @@
+{
+  "id": 6042,
+  "name": "Salmon LaPerm",
+  "generation": 15,
+  "created_at": "2017-11-25T01:43:06.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Salmon LaPerm. I'm a Dogwalker by day, and I like reading Danielle Steele by night. When no one's home, I invite my pals over and we listen to Aretha Franklin. Will you be the peanut butter to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "4532@14",
+  "sire": "3778@10",
+  "children": [
+    "6065@16",
+    "6614@16",
+    "8348@16",
+    "74375@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

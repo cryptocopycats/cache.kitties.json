@@ -1,0 +1,23 @@
+{
+  "id": 5578,
+  "name": "squirrel",
+  "generation": 6,
+  "created_at": "2017-11-24T21:44:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm squirrel. I enjoy sitting on your computer, tricking babies, and shakin' dat booty. Sometimes I daydream of a life full of eating until I loathe myself, apple pie, and reading Danielle Steele. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "5082@4",
+  "sire": "5405@5",
+  "children": [
+    "5640@9",
+    "5732@13",
+    "8087@11",
+    "8220@17",
+    "8475@10",
+    "8888@16",
+    "9878@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

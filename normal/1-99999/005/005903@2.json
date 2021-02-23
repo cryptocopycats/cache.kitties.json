@@ -1,0 +1,19 @@
+{
+  "id": 5903,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-25T00:36:56.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #5903. In high school, I was voted most likely to work at NASA. I put cinammon on everything. Like, everything: hot dogs, steak—everything! Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "3498@1",
+  "sire": "1043@0",
+  "children": [
+    "6130@7",
+    "6193@8",
+    "6238@5"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

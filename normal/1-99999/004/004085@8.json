@@ -1,0 +1,23 @@
+{
+  "id": 4085,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T05:14:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #4085. My friends describe me as despicable and petulant. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, wet food—everything! Let's pawty!",
+  "language": "en",
+  "matron": "3614@7",
+  "sire": "3594@7",
+  "children": [
+    "4369@11",
+    "4447@9",
+    "5168@11",
+    "13025@9",
+    "40237@18",
+    "62676@9",
+    "96535@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

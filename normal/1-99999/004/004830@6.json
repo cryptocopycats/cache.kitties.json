@@ -1,0 +1,22 @@
+{
+  "id": 4830,
+  "name": "Modrovous",
+  "generation": 6,
+  "created_at": "2017-11-24T11:39:48.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Modrovous. I want to live in a world where people believe the world is flat. I like to listen to Wutang while grooming. Don't judge me. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "4566@3",
+  "sire": "4499@5",
+  "children": [
+    "5352@7",
+    "11571@8",
+    "11759@8",
+    "12171@8",
+    "13285@12",
+    "27067@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

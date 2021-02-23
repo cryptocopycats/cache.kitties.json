@@ -1,0 +1,20 @@
+{
+  "id": 4521,
+  "name": "Pur",
+  "generation": 11,
+  "created_at": "2017-11-24T08:23:03.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Pur. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "4281@10",
+  "sire": "3287@6",
+  "children": [
+    "5580@12",
+    "5659@12",
+    "6414@13",
+    "11412@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

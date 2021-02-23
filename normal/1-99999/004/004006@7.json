@@ -1,0 +1,24 @@
+{
+  "id": 4006,
+  "name": "19",
+  "generation": 7,
+  "created_at": "2017-11-24T04:37:45.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm 19. I'm a professional Culinary Sanitation Specialist and I love cereal. When no one's home, I invite my pals over and we listen to Frank Sinatra. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3933@6",
+  "sire": "3935@6",
+  "children": [
+    "4041@8",
+    "4122@8",
+    "4320@8",
+    "4582@8",
+    "35505@12",
+    "47308@15",
+    "74964@16",
+    "1397730@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

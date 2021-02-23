@@ -1,0 +1,20 @@
+{
+  "id": 6039,
+  "name": "Green Jet",
+  "generation": 3,
+  "created_at": "2017-11-25T01:41:18.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Green Jet. I believe that one day cats will rule this planet. My friends describe me as \"gullible.\" It's... accurate. Our friendship will be voluptuous, hairy, and full of cereal.",
+  "language": "en",
+  "matron": "3090@2",
+  "sire": "1287@0",
+  "children": [
+    "6145@14",
+    "6358@4",
+    "6479@11",
+    "9962@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

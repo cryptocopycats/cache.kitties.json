@@ -1,0 +1,18 @@
+{
+  "id": 5912,
+  "name": "UniCat Gen 10",
+  "generation": 10,
+  "created_at": "2017-11-25T00:41:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm UniCat Gen 10. I enjoy riding unicorns, being a nevernude, and fighting the patriarchy. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5710@9",
+  "sire": "5548@6",
+  "children": [
+    "6080@11",
+    "91131@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

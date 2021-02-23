@@ -1,0 +1,22 @@
+{
+  "id": 4995,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T15:29:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #4995. I enjoy tricking babies, slappin' da bass, and breakdancing. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4812@10",
+  "sire": "3697@7",
+  "children": [
+    "5052@12",
+    "5764@12",
+    "5979@12",
+    "8227@13",
+    "22409@12",
+    "23493@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

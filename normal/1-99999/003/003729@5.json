@@ -1,0 +1,20 @@
+{
+  "id": 3729,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-24T02:39:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #3729. I want to live in a world where people believe the world is flat. I was voted school jock in college. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "3704@4",
+  "sire": "3698@1",
+  "children": [
+    "3765@6",
+    "4784@6",
+    "5456@6",
+    "5635@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

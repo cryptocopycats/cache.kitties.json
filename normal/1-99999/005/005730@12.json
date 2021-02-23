@@ -1,0 +1,21 @@
+{
+  "id": 5730,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T23:11:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #5730. All you need to know about me is I hate steak with a passion. When I'm not tricking babies, I'm siring for status! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5323@11",
+  "sire": "4392@1",
+  "children": [
+    "6057@14",
+    "7083@13",
+    "8510@13",
+    "9473@13",
+    "71631@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

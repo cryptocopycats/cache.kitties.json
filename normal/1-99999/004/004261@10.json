@@ -1,0 +1,23 @@
+{
+  "id": 4261,
+  "name": "Unicorn",
+  "generation": 10,
+  "created_at": "2017-11-24T06:27:12.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Unicorn. I enjoy slappin' da bass, riding unicorns, and watching Stranger Things. My secret indulgence is wet food. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3975@6",
+  "sire": "4105@9",
+  "children": [
+    "4546@11",
+    "5737@11",
+    "6420@12",
+    "8353@11",
+    "9302@19",
+    "10494@14",
+    "12448@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

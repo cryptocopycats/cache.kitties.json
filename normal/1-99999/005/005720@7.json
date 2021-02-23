@@ -1,0 +1,23 @@
+{
+  "id": 5720,
+  "name": "Weebees",
+  "generation": 7,
+  "created_at": "2017-11-24T23:01:58.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! My name's Weebees. I once peed on King Henry VIII's cat. They had it coming. It's not common knowledge, but my ancestry connects me to King Henry VIII. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "4401@6",
+  "sire": "3567@6",
+  "children": [
+    "5858@10",
+    "7283@8",
+    "8021@11",
+    "9781@8",
+    "88237@14",
+    "248389@19",
+    "257591@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

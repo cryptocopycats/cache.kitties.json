@@ -1,0 +1,18 @@
+{
+  "id": 5008,
+  "name": "Pouty White",
+  "generation": 6,
+  "created_at": "2017-11-24T15:46:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Pouty White. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3430@5",
+  "sire": "3371@5",
+  "children": [
+    "5021@9",
+    "11107@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

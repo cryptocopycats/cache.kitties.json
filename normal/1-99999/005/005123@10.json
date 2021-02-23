@@ -1,0 +1,20 @@
+{
+  "id": 5123,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T17:32:03.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #5123. In high school, I was voted most likely to work at NASA. I once made a rooster leap. Let's pawty!",
+  "language": "en",
+  "matron": "4235@9",
+  "sire": "4533@7",
+  "children": [
+    "5605@11",
+    "6558@11",
+    "8080@11",
+    "8453@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

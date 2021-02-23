@@ -1,0 +1,21 @@
+{
+  "id": 4122,
+  "name": "Gen 8 | Purwplar",
+  "generation": 8,
+  "created_at": "2017-11-24T05:33:40.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 8 | Purwplar. I'm a Dogwalker by day, and I like braiding people's hair by night. My secret indulgence is apple pie. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4006@7",
+  "sire": "4057@6",
+  "children": [
+    "4381@9",
+    "5209@11",
+    "20727@9",
+    "159132@9",
+    "347535@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

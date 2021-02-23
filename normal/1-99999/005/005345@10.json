@@ -1,0 +1,23 @@
+{
+  "id": 5345,
+  "name": "Catastronomy",
+  "generation": 10,
+  "created_at": "2017-11-24T19:39:40.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Catastronomy. In high school, I was voted most likely to work at NASA. I once made a dog play. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3754@2",
+  "sire": "5225@9",
+  "children": [
+    "5786@13",
+    "6557@11",
+    "6654@11",
+    "8038@11",
+    "23738@18",
+    "60717@11",
+    "136203@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

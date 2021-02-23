@@ -1,0 +1,25 @@
+{
+  "id": 5013,
+  "name": "Pablo",
+  "generation": 10,
+  "created_at": "2017-11-24T15:51:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Pablo. I've never told anyone this, but I once kissed a dog. I would give it all up to be on Oprah. Our friendship will be fabulous, ridiculous, and full of apple pie.",
+  "language": "en",
+  "matron": "3337@2",
+  "sire": "4292@9",
+  "children": [
+    "5583@11",
+    "6099@11",
+    "6195@11",
+    "6861@14",
+    "8283@13",
+    "9221@16",
+    "19147@18",
+    "306463@11",
+    "493184@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

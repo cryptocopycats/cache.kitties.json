@@ -1,0 +1,23 @@
+{
+  "id": 6461,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-11-25T05:18:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 12. My friends describe me as tantalizing and seductive. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6348@11",
+  "sire": "6158@1",
+  "children": [
+    "6681@14",
+    "6962@16",
+    "8270@17",
+    "8748@13",
+    "10136@13",
+    "11931@18",
+    "146198@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

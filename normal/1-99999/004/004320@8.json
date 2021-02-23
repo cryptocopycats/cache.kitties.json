@@ -1,0 +1,20 @@
+{
+  "id": 4320,
+  "name": "4320",
+  "generation": 8,
+  "created_at": "2017-11-24T06:49:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm 4320. I'm a professional Aerobics Athlete  and I love wet food. Some people say I'm the Niles Crane of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4006@7",
+  "sire": "3802@7",
+  "children": [
+    "4423@9",
+    "5297@10",
+    "6245@12",
+    "11040@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

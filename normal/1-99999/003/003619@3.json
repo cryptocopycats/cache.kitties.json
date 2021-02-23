@@ -1,0 +1,19 @@
+{
+  "id": 3619,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-24T01:45:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #3619. I'm a Private Dancer  by day, and I like summoning ghosts by night. I once made a labradoodle lay. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3405@2",
+  "sire": "1140@0",
+  "children": [
+    "3704@4",
+    "4814@4",
+    "5528@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

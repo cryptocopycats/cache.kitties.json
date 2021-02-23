@@ -1,0 +1,22 @@
+{
+  "id": 4680,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T09:59:47.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #4680. My friends describe me as voluptuous and wondrous. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "4067@10",
+  "sire": "4505@6",
+  "children": [
+    "4843@12",
+    "4987@12",
+    "5401@15",
+    "8223@15",
+    "22266@12",
+    "163936@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5270,
+  "name": "Tuna",
+  "generation": 11,
+  "created_at": "2017-11-24T19:08:45.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Tuna. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Bart Simpson of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3500@6",
+  "sire": "4970@10",
+  "children": [
+    "16019@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

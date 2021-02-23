@@ -1,0 +1,20 @@
+{
+  "id": 5052,
+  "name": "Gen 12 Chocolate Pure Blood",
+  "generation": 12,
+  "created_at": "2017-11-24T16:30:55.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Gen 12 Chocolate Pure Blood. I'm a professional Ventriloquist and I love chocolate. I once kissed a rhino. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4995@11",
+  "sire": "3128@3",
+  "children": [
+    "5781@13",
+    "5987@13",
+    "37795@13",
+    "101589@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

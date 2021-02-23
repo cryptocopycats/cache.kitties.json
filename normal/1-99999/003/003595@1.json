@@ -1,0 +1,18 @@
+{
+  "id": 3595,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T01:36:39.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #3595. I'm often referred to as the Niles Crane of the group. My secret indulgence is cantaloupe. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "1055@0",
+  "sire": "1008@0",
+  "children": [
+    "3640@2",
+    "49602@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

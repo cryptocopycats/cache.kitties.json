@@ -1,0 +1,18 @@
+{
+  "id": 4418,
+  "name": "Kitty 4418",
+  "generation": 11,
+  "created_at": "2017-11-24T07:21:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty 4418. I'm a Mad Scientist by day, and I like swiping right by night. When no one's home, I invite my pals over and we listen to Ace of Base. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "4206@10",
+  "sire": "3942@7",
+  "children": [
+    "13017@12",
+    "106919@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

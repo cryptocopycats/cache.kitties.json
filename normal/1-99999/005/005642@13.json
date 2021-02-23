@@ -1,0 +1,18 @@
+{
+  "id": 5642,
+  "name": "Mika",
+  "generation": 13,
+  "created_at": "2017-11-24T22:19:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Mika. My friends describe me as stinky and voluptuous. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. I look forward to grooming with you.",
+  "language": "en",
+  "matron": "5414@12",
+  "sire": "5403@10",
+  "children": [
+    "5937@14",
+    "11365@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

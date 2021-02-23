@@ -1,0 +1,23 @@
+{
+  "id": 4180,
+  "name": "Yellow Batman",
+  "generation": 11,
+  "created_at": "2017-11-24T06:02:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! My name's Yellow Batman. I once peed on Confucius's cat. They had it coming. My friends describe me as \"ridiculous.\" It's... accurate. Will you be the maple syrup to my pickles?",
+  "language": "en",
+  "matron": "3997@10",
+  "sire": "3906@6",
+  "children": [
+    "4407@12",
+    "5210@12",
+    "11160@18",
+    "13390@14",
+    "14658@15",
+    "23279@19",
+    "140568@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

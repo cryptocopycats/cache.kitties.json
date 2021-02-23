@@ -1,0 +1,20 @@
+{
+  "id": 4192,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T06:09:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's Kitty #4192. I once peed on Mother Theresa's cat. They had it coming. I once dreamed of being a Ventriloquist. Now I can be found siring for status all day. Let's get busy!",
+  "language": "en",
+  "matron": "3028@1",
+  "sire": "3120@1",
+  "children": [
+    "10635@3",
+    "11661@4",
+    "12461@8",
+    "13672@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

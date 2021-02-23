@@ -1,0 +1,20 @@
+{
+  "id": 3763,
+  "name": "Chatty Kathy {F}",
+  "generation": 4,
+  "created_at": "2017-11-24T02:53:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Chatty Kathy {F}. All you need to know about me is I hate chocolate with a passion. When no one's home, I invite my pals over and we listen to Rihanna. Let's pawty!",
+  "language": "en",
+  "matron": "3626@3",
+  "sire": "3630@2",
+  "children": [
+    "3777@5",
+    "3934@7",
+    "13177@11",
+    "70706@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

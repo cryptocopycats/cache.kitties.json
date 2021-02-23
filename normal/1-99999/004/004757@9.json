@@ -1,0 +1,23 @@
+{
+  "id": 4757,
+  "name": "Grayson Gray",
+  "generation": 9,
+  "created_at": "2017-11-24T10:52:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Grayson Gray. My friends describe me as tantalizing and stinky. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "3324@3",
+  "sire": "4709@8",
+  "children": [
+    "5145@10",
+    "5353@10",
+    "5664@10",
+    "6737@10",
+    "7151@12",
+    "7576@10",
+    "77069@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

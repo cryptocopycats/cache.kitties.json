@@ -1,0 +1,24 @@
+{
+  "id": 4139,
+  "name": "Grey Dieter",
+  "generation": 5,
+  "created_at": "2017-11-24T05:39:55.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Grey Dieter. I believe the world is flat. I'm often described as tantalizing, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3133@3",
+  "sire": "3303@4",
+  "children": [
+    "4245@6",
+    "4356@9",
+    "5042@12",
+    "5262@11",
+    "5543@14",
+    "6175@15",
+    "8023@12",
+    "23481@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

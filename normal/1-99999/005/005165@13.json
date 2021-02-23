@@ -1,0 +1,21 @@
+{
+  "id": 5165,
+  "name": "Chocolate",
+  "generation": 13,
+  "created_at": "2017-11-24T18:00:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Chocolate. In high school, I was voted school jock. My friends describe me as \"tantalizing.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4265@8",
+  "sire": "4881@12",
+  "children": [
+    "5274@14",
+    "5392@14",
+    "6695@14",
+    "12783@14",
+    "49987@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

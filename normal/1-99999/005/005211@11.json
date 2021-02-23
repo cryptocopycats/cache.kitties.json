@@ -1,0 +1,22 @@
+{
+  "id": 5211,
+  "name": "G11",
+  "generation": 11,
+  "created_at": "2017-11-24T18:28:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm G11. My friends describe me as seductive and ridiculous. I once dreamed of being a Private Dancer . Now I can be found pole dancing all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4362@10",
+  "sire": "4337@10",
+  "children": [
+    "10703@15",
+    "12195@17",
+    "14449@17",
+    "15985@17",
+    "20209@17",
+    "35168@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

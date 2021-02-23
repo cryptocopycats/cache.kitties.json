@@ -1,0 +1,17 @@
+{
+  "id": 5295,
+  "name": "Laurier - Gen10 Brisk",
+  "generation": 10,
+  "created_at": "2017-11-24T19:17:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Laurier - Gen10 Brisk. I've never told anyone this, but I once cleaned a dog. I am 85% fairy, 67% Mad Scientist, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "4423@9",
+  "sire": "4429@9",
+  "children": [
+    "6082@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 4883,
+  "name": "Captain Crypto Cat",
+  "generation": 13,
+  "created_at": "2017-11-24T13:01:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Captain Crypto Cat here. I'm here to enjoy picking on mice and reciting poetry. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "4857@9",
+  "sire": "4656@12",
+  "children": [
+    "5559@14",
+    "7141@14",
+    "9596@14",
+    "10121@15",
+    "16691@14",
+    "27942@17",
+    "111279@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 9,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

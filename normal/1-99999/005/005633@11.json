@@ -1,0 +1,20 @@
+{
+  "id": 5633,
+  "name": "Bean",
+  "generation": 11,
+  "created_at": "2017-11-24T22:11:34.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Bean. I believe the world is flat. In my free time, I can usually be found seductive or sleeping in fresh laundry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3965@10",
+  "sire": "4640@3",
+  "children": [
+    "9152@12",
+    "24999@12",
+    "26338@17",
+    "85316@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

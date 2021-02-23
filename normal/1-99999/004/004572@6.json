@@ -1,0 +1,27 @@
+{
+  "id": 4572,
+  "name": "EARLY KITTY",
+  "generation": 6,
+  "created_at": "2017-11-24T08:54:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm EARLY KITTY. In high school, I was voted school jock. I once groomed a rhino. I don't like to talk about it. Our friendship will be annoying, petulant, and full of ice cream.",
+  "language": "en",
+  "matron": "3372@5",
+  "sire": "3137@4",
+  "children": [
+    "4632@11",
+    "4649@7",
+    "5499@11",
+    "7413@7",
+    "13005@12",
+    "17523@8",
+    "19795@7",
+    "22393@10",
+    "43468@7",
+    "250600@7",
+    "425673@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

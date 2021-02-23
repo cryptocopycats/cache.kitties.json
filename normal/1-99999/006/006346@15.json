@@ -1,0 +1,20 @@
+{
+  "id": 6346,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-25T04:15:43.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 15. I enjoy reading garfield, eating until I loathe myself, and reciting poetry. In my free time, I can usually be found voluptuous or running a podcast. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6158@1",
+  "sire": "5804@14",
+  "children": [
+    "6745@16",
+    "12876@16",
+    "52316@16",
+    "80914@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

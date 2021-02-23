@@ -1,0 +1,22 @@
+{
+  "id": 5770,
+  "name": "Kitty #5770",
+  "generation": 12,
+  "created_at": "2017-11-24T23:35:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #5770. In high school, I was voted school jock. I was voted school jock in college. Let's pawty!",
+  "language": "en",
+  "matron": "5196@11",
+  "sire": "5164@11",
+  "children": [
+    "6911@13",
+    "9481@13",
+    "10201@13",
+    "16683@13",
+    "31447@17",
+    "48593@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

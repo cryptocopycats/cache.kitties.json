@@ -1,0 +1,23 @@
+{
+  "id": 4146,
+  "name": "Red Ghost Stripes",
+  "generation": 6,
+  "created_at": "2017-11-24T05:44:43.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Red Ghost Stripes. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a goose, and won. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "3439@2",
+  "sire": "4047@5",
+  "children": [
+    "4235@9",
+    "4530@7",
+    "5079@7",
+    "5647@7",
+    "7556@12",
+    "8400@8",
+    "8646@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

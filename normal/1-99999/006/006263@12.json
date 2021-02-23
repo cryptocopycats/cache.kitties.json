@@ -1,0 +1,19 @@
+{
+  "id": 6263,
+  "name": "Rush",
+  "generation": 12,
+  "created_at": "2017-11-25T03:25:06.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Rush. I'm a Ventriloquist by day, and I like swiping left by night. My secret indulgence is salad. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5826@1",
+  "sire": "6198@11",
+  "children": [
+    "16270@14",
+    "16505@13",
+    "55115@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

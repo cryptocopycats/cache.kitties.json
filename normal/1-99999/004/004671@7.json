@@ -1,0 +1,23 @@
+{
+  "id": 4671,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T09:52:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #4671. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found voluptuous or riding the bus. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4634@6",
+  "sire": "4633@5",
+  "children": [
+    "4700@9",
+    "6255@10",
+    "16168@13",
+    "16421@8",
+    "20794@18",
+    "22334@11",
+    "32173@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

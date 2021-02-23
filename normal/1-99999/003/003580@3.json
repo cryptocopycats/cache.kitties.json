@@ -1,0 +1,20 @@
+{
+  "id": 3580,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-24T01:30:30.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! Kitty #3580 here. I'm here to enjoy fighting for the people and riding unicorns. My secret indulgence is lasagna. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "1057@0",
+  "sire": "3443@2",
+  "children": [
+    "3591@4",
+    "3645@4",
+    "4150@4",
+    "142222@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

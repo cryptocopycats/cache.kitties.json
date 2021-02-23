@@ -1,0 +1,28 @@
+{
+  "id": 5364,
+  "name": "Cassanova",
+  "generation": 2,
+  "created_at": "2017-11-24T19:56:13.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Cassanova. I once peed on King Henry VIII's cat. They had it coming. I'm often described as gorgeous, and I own it. Our friendship will be stinky, despicable, and full of wet food.",
+  "language": "en",
+  "matron": "3240@1",
+  "sire": "1061@0",
+  "children": [
+    "5400@6",
+    "5532@3",
+    "6534@9",
+    "14662@3",
+    "26311@3",
+    "26344@3",
+    "30006@3",
+    "34178@3",
+    "48227@3",
+    "95390@3",
+    "170634@10",
+    "232068@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

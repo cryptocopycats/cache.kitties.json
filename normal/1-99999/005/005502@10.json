@@ -1,0 +1,23 @@
+{
+  "id": 5502,
+  "name": "Zebra Cat Dad",
+  "generation": 10,
+  "created_at": "2017-11-24T21:05:34.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Zebra Cat Dad. I believe the world is flat. Some people say I'm the Samwise Gamgee of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3090@2",
+  "sire": "5435@9",
+  "children": [
+    "5759@11",
+    "5799@11",
+    "6473@11",
+    "6612@12",
+    "7471@11",
+    "9532@11",
+    "9910@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

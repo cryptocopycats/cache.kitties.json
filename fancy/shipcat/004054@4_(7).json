@@ -1,0 +1,30 @@
+{
+  "id": 4054,
+  "name": "7th Oldest Fancy",
+  "generation": 4,
+  "created_at": "2017-11-24T04:56:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm 7th Oldest Fancy. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. In my free time, I can usually be found prickly or braiding people's hair. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "4024@3",
+  "sire": "4016@2",
+  "children": [
+    "4560@5",
+    "4601@5",
+    "4793@10",
+    "5190@9",
+    "5703@13",
+    "6198@11",
+    "16466@11",
+    "389373@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 7,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

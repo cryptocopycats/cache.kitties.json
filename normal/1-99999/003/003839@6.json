@@ -1,0 +1,19 @@
+{
+  "id": 3839,
+  "name": "Salmon Rushdie",
+  "generation": 6,
+  "created_at": "2017-11-24T03:30:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Salmon Rushdie. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "3509@5",
+  "sire": "3623@5",
+  "children": [
+    "3949@7",
+    "56090@7",
+    "221212@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

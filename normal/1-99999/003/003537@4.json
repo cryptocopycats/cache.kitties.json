@@ -1,0 +1,20 @@
+{
+  "id": 3537,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-24T01:06:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #3537. I've never told anyone this, but I once frolicked with a dog. I am 91% sphinx, 74% Foreign Film Director, and otherwise bad at math. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "1382@0",
+  "sire": "3463@3",
+  "children": [
+    "3572@5",
+    "3629@5",
+    "5214@10",
+    "5368@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

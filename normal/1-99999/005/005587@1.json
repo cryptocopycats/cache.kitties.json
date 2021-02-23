@@ -1,0 +1,32 @@
+{
+  "id": 5587,
+  "name": "Gen 1 Chocolate Pouty",
+  "generation": 1,
+  "created_at": "2017-11-24T21:51:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's Gen 1 Chocolate Pouty. I once peed on Cleopatra's cat. They had it coming. My friends describe me as \"preposterous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1460@0",
+  "sire": "1422@0",
+  "children": [
+    "96691@2",
+    "100024@2",
+    "100339@2",
+    "101116@2",
+    "101873@2",
+    "104697@2",
+    "114028@2",
+    "120723@2",
+    "129692@2",
+    "137164@2",
+    "186186@2",
+    "194187@2",
+    "257957@2",
+    "364273@2",
+    "414279@2",
+    "459241@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5809,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T23:54:45.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #5809. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Confucius. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3861@8",
+  "sire": "4923@10",
+  "children": [
+    "7946@16",
+    "11668@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

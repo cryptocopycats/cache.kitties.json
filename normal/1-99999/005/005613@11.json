@@ -1,0 +1,23 @@
+{
+  "id": 5613,
+  "name": "Sputnik",
+  "generation": 11,
+  "created_at": "2017-11-24T22:02:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Sputnik. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"seductive.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4999@10",
+  "sire": "3469@2",
+  "children": [
+    "5894@12",
+    "6924@12",
+    "7817@12",
+    "8335@12",
+    "10003@18",
+    "18003@19",
+    "25159@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5302,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T19:21:21.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #5302. I want to live in a world where people believe that one day cats will rule this planet. I once frolicked with a goose. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4385@8",
+  "sire": "5096@10",
+  "children": [
+    "5331@12",
+    "5707@12",
+    "6695@14",
+    "7033@14",
+    "8166@14",
+    "12788@16",
+    "61880@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

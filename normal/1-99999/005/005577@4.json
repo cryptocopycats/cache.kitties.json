@@ -1,0 +1,26 @@
+{
+  "id": 5577,
+  "name": "Kinda Garfield",
+  "generation": 4,
+  "created_at": "2017-11-24T21:43:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kinda Garfield. I believe that one day cats will rule this planet. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1382@0",
+  "sire": "5160@3",
+  "children": [
+    "10340@5",
+    "15216@10",
+    "15481@10",
+    "16202@10",
+    "18565@16",
+    "23775@16",
+    "29716@18",
+    "48506@10",
+    "69980@20",
+    "176294@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

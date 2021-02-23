@@ -1,0 +1,21 @@
+{
+  "id": 5252,
+  "name": "Yeezy",
+  "generation": 14,
+  "created_at": "2017-11-24T18:56:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Yeezy. I enjoy reading garfield, breakdancing, and sweating through my feet. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be raunchy, ridiculous, and full of hamburgers.",
+  "language": "en",
+  "matron": "4880@13",
+  "sire": "4727@6",
+  "children": [
+    "21199@15",
+    "29062@15",
+    "29948@20",
+    "38394@15",
+    "106115@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

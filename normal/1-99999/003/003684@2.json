@@ -1,0 +1,27 @@
+{
+  "id": 3684,
+  "name": "Reddit - Gen 2!",
+  "generation": 2,
+  "created_at": "2017-11-24T02:14:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Reddit - Gen 2!. All you need to know about me is I hate ice cream with a passion. My secret indulgence is cereal. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1275@0",
+  "sire": "3240@1",
+  "children": [
+    "5149@4",
+    "5355@5",
+    "5380@5",
+    "11829@5",
+    "11988@5",
+    "12118@5",
+    "15338@19",
+    "16194@19",
+    "19458@12",
+    "24488@17",
+    "53400@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

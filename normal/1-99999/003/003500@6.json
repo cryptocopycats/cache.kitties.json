@@ -1,0 +1,26 @@
+{
+  "id": 3500,
+  "name": "6b white",
+  "generation": 6,
+  "created_at": "2017-11-24T00:45:03.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's 6b white. I once peed on Cleopatra's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I like your face.",
+  "language": "en",
+  "matron": "3184@1",
+  "sire": "3429@5",
+  "children": [
+    "3555@7",
+    "3689@9",
+    "3749@7",
+    "4052@9",
+    "5270@11",
+    "6329@9",
+    "16753@10",
+    "22830@17",
+    "90353@13",
+    "195931@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

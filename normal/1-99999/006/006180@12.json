@@ -1,0 +1,19 @@
+{
+  "id": 6180,
+  "name": "Frowny",
+  "generation": 12,
+  "created_at": "2017-11-25T02:48:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Frowny. I've never told anyone this, but I once kissed a dog. I'm often described as raunchy, and I own it. Will you be the soy sauce to my maple syrup?",
+  "language": "en",
+  "matron": "5136@10",
+  "sire": "5215@11",
+  "children": [
+    "6312@13",
+    "8207@13",
+    "91110@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5769,
+  "name": "Sherry",
+  "generation": 6,
+  "created_at": "2017-11-24T23:35:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Sherry. All you need to know about me is I hate apple pie with a passion. I was voted biggest teacher's pet in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1099@0",
+  "sire": "3577@5",
+  "children": [
+    "9364@7",
+    "9444@7",
+    "10629@12",
+    "11558@7",
+    "16264@7",
+    "26492@14",
+    "32029@15",
+    "45259@12",
+    "481012@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

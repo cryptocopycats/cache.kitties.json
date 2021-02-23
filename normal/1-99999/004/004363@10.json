@@ -1,0 +1,22 @@
+{
+  "id": 4363,
+  "name": "OLD",
+  "generation": 10,
+  "created_at": "2017-11-24T07:00:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm OLD. In high school, I was voted biggest teacher's pet. I like to listen to Coldplay while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "3922@6",
+  "sire": "3486@9",
+  "children": [
+    "7436@11",
+    "7592@16",
+    "7887@11",
+    "9118@11",
+    "9493@11",
+    "32232@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

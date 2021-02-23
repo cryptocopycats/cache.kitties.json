@@ -1,0 +1,19 @@
+{
+  "id": 4721,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T10:28:29.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #4721. In high school, I was voted biggest teacher's pet. My secret indulgence is salad. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "3076@6",
+  "sire": "3024@1",
+  "children": [
+    "4818@8",
+    "13652@8",
+    "14845@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

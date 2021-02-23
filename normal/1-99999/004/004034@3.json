@@ -1,0 +1,26 @@
+{
+  "id": 4034,
+  "name": "Tiger Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-24T04:47:41.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Tiger Gen 3. I want to live in a world where people believe that one day cats will rule this planet. I once snuggled a rhino. I don't like to talk about it. Will you be the marmalade to my wasabi?",
+  "language": "en",
+  "matron": "4016@2",
+  "sire": "4010@2",
+  "children": [
+    "4046@4",
+    "15485@4",
+    "15521@4",
+    "15666@4",
+    "16038@4",
+    "17991@4",
+    "18847@4",
+    "25401@5",
+    "50059@4",
+    "77746@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

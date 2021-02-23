@@ -1,0 +1,20 @@
+{
+  "id": 5865,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T00:22:04.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #5865. All you need to know about me is I hate hamburgers with a passion. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5788@9",
+  "sire": "5056@6",
+  "children": [
+    "6090@11",
+    "10179@13",
+    "10836@13",
+    "54166@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

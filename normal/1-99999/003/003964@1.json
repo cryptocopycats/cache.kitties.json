@@ -1,0 +1,28 @@
+{
+  "id": 3964,
+  "name": "1b/Gen1/Brisk",
+  "generation": 1,
+  "created_at": "2017-11-24T04:17:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm 1b/Gen1/Brisk. In high school, I was voted most likely to work at NASA. My friends describe me as \"raunchy.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1161@0",
+  "sire": "1188@0",
+  "children": [
+    "4036@4",
+    "15825@2",
+    "16180@2",
+    "16869@2",
+    "17238@2",
+    "18568@2",
+    "40412@2",
+    "44291@2",
+    "52805@2",
+    "132809@2",
+    "177741@2",
+    "215294@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

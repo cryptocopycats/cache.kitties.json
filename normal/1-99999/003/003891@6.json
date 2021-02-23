@@ -1,0 +1,27 @@
+{
+  "id": 3891,
+  "name": "Gen 6 | Reddington",
+  "generation": 6,
+  "created_at": "2017-11-24T03:52:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Gen 6 | Reddington. I'm a professional Train Conductor and I love cantaloupe. I'm often described as stinky, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3159@2",
+  "sire": "3543@5",
+  "children": [
+    "5515@15",
+    "11750@12",
+    "12054@11",
+    "12078@10",
+    "12883@12",
+    "17335@10",
+    "21286@16",
+    "27566@14",
+    "64790@7",
+    "159132@9",
+    "347535@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

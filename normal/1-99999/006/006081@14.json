@@ -1,0 +1,21 @@
+{
+  "id": 6081,
+  "name": "Mr. Mustachios",
+  "generation": 14,
+  "created_at": "2017-11-25T02:00:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Mr. Mustachios. My friends describe me as annoying and vegan. I'm often described as voluptuous, and I own it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "5986@1",
+  "sire": "6063@13",
+  "children": [
+    "6544@15",
+    "7132@15",
+    "9853@18",
+    "14804@15",
+    "27855@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

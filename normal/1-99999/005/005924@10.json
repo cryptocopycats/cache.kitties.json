@@ -1,0 +1,21 @@
+{
+  "id": 5924,
+  "name": "George",
+  "generation": 10,
+  "created_at": "2017-11-25T00:46:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! My name's George. I once peed on Princess Diana's cat. They had it coming. I once got in a fight with a rabbit, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3528@9",
+  "sire": "4624@7",
+  "children": [
+    "7109@14",
+    "7205@14",
+    "7623@11",
+    "7944@16",
+    "8942@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

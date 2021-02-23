@@ -1,0 +1,18 @@
+{
+  "id": 5635,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T22:14:58.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #5635. I'm often referred to as the Jon Snow of the group. I put wasabi on everything. Like, everything: hot dogs, lasagna—everything! Let's pawty!",
+  "language": "en",
+  "matron": "3729@5",
+  "sire": "5511@9",
+  "children": [
+    "680346@12",
+    "696220@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

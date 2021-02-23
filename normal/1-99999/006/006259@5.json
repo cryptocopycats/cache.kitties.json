@@ -1,0 +1,22 @@
+{
+  "id": 6259,
+  "name": "Snowflake",
+  "generation": 5,
+  "created_at": "2017-11-25T03:21:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Snowflake. I enjoy picking on mice, staying woke, and sweating through my feet. My friends describe me as \"fabulous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2044@0",
+  "sire": "3084@4",
+  "children": [
+    "6279@7",
+    "8918@8",
+    "10302@17",
+    "21832@6",
+    "27313@17",
+    "37948@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

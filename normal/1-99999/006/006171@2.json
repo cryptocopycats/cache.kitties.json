@@ -1,0 +1,26 @@
+{
+  "id": 6171,
+  "name": "Chairman Meow",
+  "generation": 2,
+  "created_at": "2017-11-25T02:42:36.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Chairman Meow here. I'm here to enjoy tripping my owner and grooming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5926@1",
+  "sire": "2004@0",
+  "children": [
+    "6206@5",
+    "6714@3",
+    "7180@11",
+    "7601@12",
+    "7857@11",
+    "8098@11",
+    "8334@13",
+    "8668@11",
+    "18350@15",
+    "24505@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

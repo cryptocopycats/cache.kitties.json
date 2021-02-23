@@ -1,0 +1,20 @@
+{
+  "id": 4370,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T07:03:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #4370. I've never told anyone this, but I once snuggled a dog. I am 85% oracle, 95% Dispensary Clerk, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3260@3",
+  "sire": "4193@8",
+  "children": [
+    "4412@10",
+    "4564@10",
+    "4787@10",
+    "64382@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

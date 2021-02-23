@@ -1,0 +1,18 @@
+{
+  "id": 3568,
+  "name": "Steve",
+  "generation": 3,
+  "created_at": "2017-11-24T01:23:09.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Steve. I'm often referred to as the Neville Longbottom of the group. I once got in a fight with a rhino, and won. I like your face.",
+  "language": "en",
+  "matron": "3456@2",
+  "sire": "3098@2",
+  "children": [
+    "3606@4",
+    "29526@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

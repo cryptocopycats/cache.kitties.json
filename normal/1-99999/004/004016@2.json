@@ -1,0 +1,29 @@
+{
+  "id": 4016,
+  "name": "Pikachu Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-24T04:40:55.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Pikachu Gen 2. All you need to know about me is I hate apple pie with a passion. When no one's home, I invite my pals over and we listen to Justin Bieber. I like your face.",
+  "language": "en",
+  "matron": "3828@1",
+  "sire": "3912@1",
+  "children": [
+    "4034@3",
+    "4054@4",
+    "15442@3",
+    "15615@3",
+    "15884@4",
+    "18162@3",
+    "18304@4",
+    "22430@5",
+    "28854@11",
+    "31208@3",
+    "94049@3",
+    "311747@3",
+    "1773838@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

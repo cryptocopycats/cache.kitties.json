@@ -1,0 +1,20 @@
+{
+  "id": 5141,
+  "name": "Rocky Road",
+  "generation": 12,
+  "created_at": "2017-11-24T17:42:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Rocky Road. I'm a Ventriloquist by day, and I like swiping right by night. My secret indulgence is apple pie. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4336@11",
+  "sire": "4295@6",
+  "children": [
+    "5199@13",
+    "5944@13",
+    "6785@13",
+    "8123@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

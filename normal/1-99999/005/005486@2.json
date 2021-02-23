@@ -1,0 +1,26 @@
+{
+  "id": 5486,
+  "name": "G2 | Slow",
+  "generation": 2,
+  "created_at": "2017-11-24T21:01:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G2 | Slow. I believe the world is flat. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's pawty!",
+  "language": "en",
+  "matron": "1280@0",
+  "sire": "3470@1",
+  "children": [
+    "5524@4",
+    "5532@3",
+    "12754@3",
+    "12916@10",
+    "14994@3",
+    "15697@3",
+    "18288@3",
+    "22446@3",
+    "50656@3",
+    "54677@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

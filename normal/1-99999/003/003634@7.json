@@ -1,0 +1,25 @@
+{
+  "id": 3634,
+  "name": "Gen7 | Fluffy Tail",
+  "generation": 7,
+  "created_at": "2017-11-24T01:51:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen7 | Fluffy Tail. I'm a Dogwalker by day, and I like summoning ghosts by night. When I'm not tricking babies, I'm swiping right! I look forward to being a nevernude with you.",
+  "language": "en",
+  "matron": "1288@0",
+  "sire": "3616@6",
+  "children": [
+    "3783@8",
+    "3849@8",
+    "3926@8",
+    "13383@13",
+    "13838@13",
+    "17477@13",
+    "21492@13",
+    "24090@8",
+    "42369@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

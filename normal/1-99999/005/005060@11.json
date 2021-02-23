@@ -1,0 +1,20 @@
+{
+  "id": 5060,
+  "name": "Gen11 Beard",
+  "generation": 11,
+  "created_at": "2017-11-24T16:42:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Gen11 Beard. I want to live in a world where people believe that one day cats will rule this planet. I put maple syrup on everything. Like, everything: hot dogs, wet food—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4866@6",
+  "sire": "4812@10",
+  "children": [
+    "5288@12",
+    "5301@12",
+    "6220@12",
+    "63126@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

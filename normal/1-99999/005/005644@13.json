@@ -1,0 +1,21 @@
+{
+  "id": 5644,
+  "name": "KitKat",
+  "generation": 13,
+  "created_at": "2017-11-24T22:19:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm KitKat. I want to live in a world where people believe the world is flat. In my free time, I can usually be found annoying or running a podcast. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "4987@12",
+  "sire": "5127@11",
+  "children": [
+    "5959@15",
+    "8017@14",
+    "8621@15",
+    "17441@19",
+    "70504@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

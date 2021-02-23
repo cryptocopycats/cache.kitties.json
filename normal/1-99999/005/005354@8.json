@@ -1,0 +1,23 @@
+{
+  "id": 5354,
+  "name": "Fred",
+  "generation": 8,
+  "created_at": "2017-11-24T19:47:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Fred. I'm a Skydiving Instructor by day, and I like riding the bus by night. My great-great-great-great-great-great grandkitty lived with Princess Diana. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5232@2",
+  "sire": "4752@7",
+  "children": [
+    "5387@9",
+    "5822@12",
+    "6372@10",
+    "26245@9",
+    "28751@9",
+    "36845@9",
+    "77996@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

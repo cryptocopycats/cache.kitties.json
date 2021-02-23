@@ -1,0 +1,21 @@
+{
+  "id": 4761,
+  "name": "Kitty #4761 Gen12",
+  "generation": 12,
+  "created_at": "2017-11-24T10:53:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Kitty #4761 Gen12. I once peed on Confucius's cat. They had it coming. When no one's home, I invite my pals over and we listen to Wutang. Let's pawty!",
+  "language": "en",
+  "matron": "4433@10",
+  "sire": "4544@11",
+  "children": [
+    "11534@13",
+    "12044@14",
+    "12157@13",
+    "16318@16",
+    "57623@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

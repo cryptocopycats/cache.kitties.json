@@ -1,0 +1,21 @@
+{
+  "id": 5286,
+  "name": "Awesome Pawsum",
+  "generation": 8,
+  "created_at": "2017-11-24T19:15:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Awesome Pawsum. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of chasing red dots, apple pie, and running a podcast. Will you be the ranch dressing to my pickles?",
+  "language": "en",
+  "matron": "4649@7",
+  "sire": "3372@5",
+  "children": [
+    "5595@13",
+    "5765@10",
+    "5910@9",
+    "9748@13",
+    "29688@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

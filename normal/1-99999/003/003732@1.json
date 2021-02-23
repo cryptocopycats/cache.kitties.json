@@ -1,0 +1,27 @@
+{
+  "id": 3732,
+  "name": "Collector's First Gen1",
+  "generation": 1,
+  "created_at": "2017-11-24T02:40:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Collector's First Gen1. I enjoy hitting on yo' man, fighting for the people, and licking doorknobs. In my free time, I can usually be found gorgeous or watching reality tv. Our friendship will be gullible, hairy, and full of steak.",
+  "language": "en",
+  "matron": "1054@0",
+  "sire": "1051@0",
+  "children": [
+    "8841@2",
+    "8868@6",
+    "9723@11",
+    "10550@16",
+    "14558@2",
+    "15488@2",
+    "31308@7",
+    "53901@6",
+    "67683@9",
+    "91321@12",
+    "251730@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

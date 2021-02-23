@@ -1,0 +1,18 @@
+{
+  "id": 5223,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T18:34:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #5223. I believe the world is flat. My secret indulgence is salad. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4469@9",
+  "sire": "4255@8",
+  "children": [
+    "6113@12",
+    "1108674@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

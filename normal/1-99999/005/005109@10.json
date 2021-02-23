@@ -1,0 +1,21 @@
+{
+  "id": 5109,
+  "name": "Meep",
+  "generation": 10,
+  "created_at": "2017-11-24T17:19:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Meep. I'm a professional Culinary Sanitation Specialist and I love lasagna. My secret indulgence is cereal. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4207@7",
+  "sire": "4944@9",
+  "children": [
+    "7688@15",
+    "7935@14",
+    "8350@14",
+    "16514@17",
+    "83464@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5441,
+  "name": "The Catastic Mr. Paws",
+  "generation": 10,
+  "created_at": "2017-11-24T20:30:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm The Catastic Mr. Paws. I'm often referred to as the Chandler Bing of the group. I once got in a fight with a moose, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4700@9",
+  "sire": "5298@7",
+  "children": [
+    "5686@11",
+    "26620@14",
+    "57338@14",
+    "346230@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

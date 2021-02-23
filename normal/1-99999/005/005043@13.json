@@ -1,0 +1,23 @@
+{
+  "id": 5043,
+  "name": "Calizone",
+  "generation": 13,
+  "created_at": "2017-11-24T16:23:09.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Calizone. I enjoy breakdancing, reciting poetry, and hitting on yo' man. Some people say I'm the Dwight Schrute of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4249@8",
+  "sire": "4635@12",
+  "children": [
+    "5322@14",
+    "7658@14",
+    "10819@15",
+    "14474@19",
+    "16498@17",
+    "33682@19",
+    "120327@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

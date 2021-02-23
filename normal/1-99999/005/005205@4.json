@@ -1,0 +1,26 @@
+{
+  "id": 5205,
+  "name": "#5205",
+  "generation": 4,
+  "created_at": "2017-11-24T18:26:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm #5205. I'm a professional Dogwalker and I love apple pie. My secret indulgence is salad. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3052@1",
+  "sire": "3374@3",
+  "children": [
+    "5405@5",
+    "11231@5",
+    "12416@11",
+    "13000@12",
+    "13684@9",
+    "15727@17",
+    "15830@5",
+    "21551@5",
+    "32858@5",
+    "38708@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

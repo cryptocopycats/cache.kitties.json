@@ -1,0 +1,20 @@
+{
+  "id": 5314,
+  "name": "Cat",
+  "generation": 10,
+  "created_at": "2017-11-24T19:26:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Cat. All you need to know about me is I hate hamburgers with a passion. I like to listen to Frank Sinatra while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "4994@9",
+  "sire": "4975@6",
+  "children": [
+    "5818@11",
+    "5969@11",
+    "6441@11",
+    "54678@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

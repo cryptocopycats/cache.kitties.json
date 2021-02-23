@@ -1,0 +1,21 @@
+{
+  "id": 4672,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T09:52:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Kitty #4672 here. I'm here to enjoy tricking babies and sweating through my feet. I once bit a rhino. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "3863@2",
+  "sire": "4560@5",
+  "children": [
+    "4690@8",
+    "4712@8",
+    "4842@8",
+    "5224@10",
+    "6655@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

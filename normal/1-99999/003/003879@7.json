@@ -1,0 +1,19 @@
+{
+  "id": 3879,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T03:47:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! Kitty #3879 here. I'm here to enjoy sitting on your computer and watching Stranger Things. When I'm not summoning ghosts, I'm sleeping in fresh laundry! Let's get busy!",
+  "language": "en",
+  "matron": "1210@0",
+  "sire": "3284@6",
+  "children": [
+    "3945@8",
+    "3966@8",
+    "4143@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

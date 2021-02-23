@@ -1,0 +1,21 @@
+{
+  "id": 5722,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T23:02:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #5722. My friends describe me as petulant and wondrous. I was voted school jock in college. Let's pawty!",
+  "language": "en",
+  "matron": "5007@10",
+  "sire": "3118@2",
+  "children": [
+    "5855@12",
+    "6217@12",
+    "13065@12",
+    "35480@15",
+    "49808@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

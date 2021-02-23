@@ -1,0 +1,25 @@
+{
+  "id": 6164,
+  "name": "Mr. Pickles",
+  "generation": 5,
+  "created_at": "2017-11-25T02:38:58.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Mr. Pickles. I enjoy shakin' dat booty, watching Stranger Things, and glaring at the neighbour's cat. I would give it all up to star in a soap opera. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "3298@4",
+  "sire": "3293@1",
+  "children": [
+    "10350@15",
+    "12836@12",
+    "13097@11",
+    "14238@14",
+    "15074@19",
+    "22896@9",
+    "27529@15",
+    "50671@7",
+    "95602@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

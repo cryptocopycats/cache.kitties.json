@@ -1,0 +1,19 @@
+{
+  "id": 5334,
+  "name": "Super Cat 5334",
+  "generation": 9,
+  "created_at": "2017-11-24T19:34:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Super Cat 5334. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a gecko, and won. Our friendship will be annoying, smelly, and full of cantaloupe.",
+  "language": "en",
+  "matron": "4605@8",
+  "sire": "4032@8",
+  "children": [
+    "5800@11",
+    "96017@10",
+    "205942@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5403,
+  "name": "KittyExplorer.com",
+  "generation": 10,
+  "created_at": "2017-11-24T20:09:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's KittyExplorer.com. I once peed on Martin Luther King Jr.'s cat. They had it coming. Some people say I'm the Homer Simpson of the group. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "5318@9",
+  "sire": "5083@9",
+  "children": [
+    "5642@13",
+    "5744@11",
+    "10620@17",
+    "27422@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

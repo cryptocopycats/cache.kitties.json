@@ -1,0 +1,22 @@
+{
+  "id": 5567,
+  "name": "Pips",
+  "generation": 14,
+  "created_at": "2017-11-24T21:37:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! Pips here. I'm here to enjoy grooming and tricking babies. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "5294@13",
+  "sire": "4578@7",
+  "children": [
+    "6197@15",
+    "7784@15",
+    "17476@16",
+    "17725@15",
+    "43670@19",
+    "77142@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

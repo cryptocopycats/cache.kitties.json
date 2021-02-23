@@ -1,0 +1,20 @@
+{
+  "id": 5629,
+  "name": "Derp",
+  "generation": 13,
+  "created_at": "2017-11-24T22:10:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Derp. I once peed on King Henry VIII's cat. They had it coming. I put cinammon on everything. Like, everything: hot dogs, hamburgers—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4424@12",
+  "sire": "4440@11",
+  "children": [
+    "5915@14",
+    "45359@14",
+    "49675@14",
+    "210244@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

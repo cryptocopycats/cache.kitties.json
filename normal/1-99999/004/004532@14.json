@@ -1,0 +1,20 @@
+{
+  "id": 4532,
+  "name": "Jerry",
+  "generation": 14,
+  "created_at": "2017-11-24T08:38:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Jerry. I believe the world is flat. I was voted most likely to work at NASA in college. I like your face.",
+  "language": "en",
+  "matron": "4228@12",
+  "sire": "4227@13",
+  "children": [
+    "4774@15",
+    "6042@15",
+    "7513@15",
+    "76518@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

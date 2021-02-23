@@ -1,0 +1,19 @@
+{
+  "id": 3671,
+  "name": "Rawr 2",
+  "generation": 7,
+  "created_at": "2017-11-24T02:08:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Rawr 2. I enjoy spinning sick beats, fighting for the people, and riding dirty. I'm often described as petulant, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3148@1",
+  "sire": "3538@6",
+  "children": [
+    "3715@10",
+    "3795@8",
+    "16468@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

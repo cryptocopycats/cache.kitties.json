@@ -1,0 +1,17 @@
+{
+  "id": 5547,
+  "name": "Lord Bacon",
+  "generation": 12,
+  "created_at": "2017-11-24T21:29:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Lord Bacon. In high school, I was voted most likely to work at NASA. I put peanut butter on everything. Like, everything: hot dogs, wet food—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5196@11",
+  "sire": "5183@9",
+  "children": [
+    "7422@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 5130,
+  "name": "Martin",
+  "generation": 9,
+  "created_at": "2017-11-24T17:36:06.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Martin. I've never told anyone this, but I once frolicked with a dog. I like to listen to Frank Sinatra while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5089@8",
+  "sire": "4975@6",
+  "children": [
+    "5194@11",
+    "5651@10",
+    "7382@10",
+    "7512@15",
+    "7985@10",
+    "15918@11",
+    "26085@17",
+    "40388@10",
+    "353565@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

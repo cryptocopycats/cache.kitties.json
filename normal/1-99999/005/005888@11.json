@@ -1,0 +1,22 @@
+{
+  "id": 5888,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T00:31:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #5888. I'm a professional Private Dancer  and I love hamburgers. My friends describe me as \"stinky.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "5689@10",
+  "sire": "5439@10",
+  "children": [
+    "6173@12",
+    "6415@12",
+    "6679@12",
+    "17647@12",
+    "23169@22",
+    "41225@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

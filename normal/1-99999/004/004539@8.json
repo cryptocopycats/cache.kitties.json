@@ -1,0 +1,17 @@
+{
+  "id": 4539,
+  "name": "Johnny Knoxville",
+  "generation": 8,
+  "created_at": "2017-11-24T08:40:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Johnny Knoxville. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Mother Theresa. Will you be the garlic butter to my soy sauce?",
+  "language": "en",
+  "matron": "3114@4",
+  "sire": "3286@7",
+  "children": [
+    "145926@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

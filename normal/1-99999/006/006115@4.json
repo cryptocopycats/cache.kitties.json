@@ -1,0 +1,19 @@
+{
+  "id": 6115,
+  "name": "Duly",
+  "generation": 4,
+  "created_at": "2017-11-25T02:14:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Duly. I believe the world is flat. Some people say I'm the Chandler Bing of the group. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "2141@0",
+  "sire": "3609@3",
+  "children": [
+    "14148@5",
+    "21028@10",
+    "28300@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

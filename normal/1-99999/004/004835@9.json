@@ -1,0 +1,23 @@
+{
+  "id": 4835,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T11:46:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Kitty #4835. I once peed on Marie Antoinette's cat. They had it coming. I once dreamed of being a Ventriloquist. Now I can be found sleeping in fresh laundry all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3615@8",
+  "sire": "3075@1",
+  "children": [
+    "5136@10",
+    "5909@10",
+    "6408@10",
+    "7007@10",
+    "14359@15",
+    "20583@15",
+    "55492@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

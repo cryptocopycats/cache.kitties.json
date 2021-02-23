@@ -1,0 +1,19 @@
+{
+  "id": 6170,
+  "name": "Algae Disecter",
+  "generation": 11,
+  "created_at": "2017-11-25T02:42:05.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Algae Disecter. In high school, I was voted school jock. I once made a dog lay. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "1046@0",
+  "sire": "4795@10",
+  "children": [
+    "6303@15",
+    "6569@15",
+    "7869@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

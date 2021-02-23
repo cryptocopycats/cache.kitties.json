@@ -1,0 +1,28 @@
+{
+  "id": 3863,
+  "name": "Early Bird",
+  "generation": 2,
+  "created_at": "2017-11-24T03:40:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Early Bird. I'm a professional Spin Instructor  and I love cantaloupe. It's not common knowledge, but my ancestry connects me to Cleopatra. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3726@1",
+  "sire": "3716@1",
+  "children": [
+    "3991@3",
+    "4672@6",
+    "15269@4",
+    "15450@6",
+    "15819@9",
+    "19048@6",
+    "20370@3",
+    "21508@3",
+    "27289@3",
+    "59152@3",
+    "114676@3",
+    "120233@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

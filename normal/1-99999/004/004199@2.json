@@ -1,0 +1,21 @@
+{
+  "id": 4199,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T06:09:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #4199. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1058@0",
+  "sire": "3108@1",
+  "children": [
+    "4239@3",
+    "4344@3",
+    "5339@3",
+    "5868@3",
+    "61117@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4826,
+  "name": "bn",
+  "generation": 6,
+  "created_at": "2017-11-24T11:36:46.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm bn. I've never told anyone this, but I once pranced with a dog. When I'm not prank-calling celebrities, I'm playing chess! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1187@0",
+  "sire": "3475@5",
+  "children": [
+    "95539@7",
+    "150242@7"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

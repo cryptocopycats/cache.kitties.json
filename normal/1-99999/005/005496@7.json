@@ -1,0 +1,17 @@
+{
+  "id": 5496,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T21:01:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #5496. I've never told anyone this, but I once loved a dog. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Will you be the ranch dressing to my marmalade?",
+  "language": "en",
+  "matron": "5449@3",
+  "sire": "5400@6",
+  "children": [
+    "5519@8"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

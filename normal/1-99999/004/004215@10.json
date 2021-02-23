@@ -1,0 +1,19 @@
+{
+  "id": 4215,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T06:17:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #4215. My friends describe me as smelly and wondrous. I put pickles on everything. Like, everything: hot dogs, chocolate—everything! Let's get busy!",
+  "language": "en",
+  "matron": "3944@8",
+  "sire": "4130@9",
+  "children": [
+    "4463@11",
+    "4764@11",
+    "5025@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

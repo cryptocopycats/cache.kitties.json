@@ -1,0 +1,21 @@
+{
+  "id": 4879,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T12:58:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #4879. I've never told anyone this, but I once licked a dog. I once dreamed of being a Mad Scientist. Now I can be found siring for status all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3655@5",
+  "sire": "4253@8",
+  "children": [
+    "6895@14",
+    "7022@12",
+    "65261@17",
+    "91276@17",
+    "173250@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

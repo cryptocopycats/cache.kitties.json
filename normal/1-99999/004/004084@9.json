@@ -1,0 +1,19 @@
+{
+  "id": 4084,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T05:12:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Kitty #4084. I enjoy eating until I loathe myself, spinning sick beats, and eating lasagna. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4050@5",
+  "sire": "3831@8",
+  "children": [
+    "4187@10",
+    "6060@10",
+    "20815@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

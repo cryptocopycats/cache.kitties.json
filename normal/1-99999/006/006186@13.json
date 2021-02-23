@@ -1,0 +1,21 @@
+{
+  "id": 6186,
+  "name": "6186",
+  "generation": 13,
+  "created_at": "2017-11-25T02:51:26.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm 6186. In high school, I was voted most likely to work at NASA. I once made a rabbit enjoy. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "5447@12",
+  "sire": "5693@1",
+  "children": [
+    "6307@14",
+    "44711@15",
+    "69184@14",
+    "83421@17",
+    "114414@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

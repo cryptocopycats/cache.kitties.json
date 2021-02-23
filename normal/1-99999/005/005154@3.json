@@ -1,0 +1,21 @@
+{
+  "id": 5154,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-24T17:53:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #5154. In high school, I was voted school jock. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1198@0",
+  "sire": "4550@2",
+  "children": [
+    "144751@4",
+    "167087@4",
+    "169848@4",
+    "208167@4",
+    "219179@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

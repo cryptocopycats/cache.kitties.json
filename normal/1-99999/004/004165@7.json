@@ -1,0 +1,21 @@
+{
+  "id": 4165,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T05:53:52.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #4165. I'm often referred to as the Hermione Granger of the group. In my free time, I can usually be found fabulous or siring for status. Let's pawty!",
+  "language": "en",
+  "matron": "3478@6",
+  "sire": "1204@0",
+  "children": [
+    "5331@12",
+    "6772@15",
+    "7298@15",
+    "50107@8",
+    "62431@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

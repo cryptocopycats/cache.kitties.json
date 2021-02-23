@@ -1,0 +1,20 @@
+{
+  "id": 5430,
+  "name": "Lil OG",
+  "generation": 15,
+  "created_at": "2017-11-24T20:25:28.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Lil OG. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of tripping my owner, ice cream, and riding the bus. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5099@10",
+  "sire": "5117@14",
+  "children": [
+    "6209@16",
+    "8628@16",
+    "14112@16",
+    "50653@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

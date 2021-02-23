@@ -1,0 +1,18 @@
+{
+  "id": 5655,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T22:24:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #5655. In high school, I was voted biggest teacher's pet. I once got in a fight with a labradoodle, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5545@4",
+  "sire": "5574@5",
+  "children": [
+    "5718@9",
+    "6210@7"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6090,
+  "name": "Cassidy",
+  "generation": 11,
+  "created_at": "2017-11-25T02:05:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Cassidy. In high school, I was voted school jock. I like to listen to Rihanna while grooming. Don't judge me. Our friendship will be annoying, petulant, and full of ice cream.",
+  "language": "en",
+  "matron": "5865@10",
+  "sire": "5864@1",
+  "children": [
+    "10317@12",
+    "59132@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

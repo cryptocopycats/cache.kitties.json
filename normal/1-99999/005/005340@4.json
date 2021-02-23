@@ -1,0 +1,26 @@
+{
+  "id": 5340,
+  "name": "Chestnut | Sailor Parent",
+  "generation": 4,
+  "created_at": "2017-11-24T19:39:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Chestnut | Sailor Parent. I'm often referred to as the Marge Simpson of the group. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "language": "en",
+  "matron": "3633@3",
+  "sire": "3016@1",
+  "children": [
+    "5407@5",
+    "5574@5",
+    "5762@5",
+    "5870@5",
+    "12792@6",
+    "14533@5",
+    "33278@5",
+    "33885@6",
+    "59395@5",
+    "69091@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 6310,
+  "name": "Laperm Limegreen",
+  "generation": 10,
+  "created_at": "2017-11-25T03:50:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! Laperm Limegreen here. I'm here to enjoy slappin' da bass and breakdancing. Some people say I'm the Jon Snow of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4738@9",
+  "sire": "5544@9",
+  "children": [
+    "9665@12",
+    "12669@16",
+    "16280@16",
+    "17249@16",
+    "21945@17",
+    "43366@15",
+    "84608@20",
+    "145416@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

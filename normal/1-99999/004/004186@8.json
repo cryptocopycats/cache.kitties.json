@@ -1,0 +1,23 @@
+{
+  "id": 4186,
+  "name": "Prince Puff",
+  "generation": 8,
+  "created_at": "2017-11-24T06:09:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Prince Puff. I'm a Dogwalker by day, and I like riding the bus by night. I once made a rooster play. Our friendship will be preposterous, stinky, and full of hamburgers.",
+  "language": "en",
+  "matron": "3018@2",
+  "sire": "4098@7",
+  "children": [
+    "4351@10",
+    "6098@9",
+    "6551@9",
+    "6975@11",
+    "7388@10",
+    "7988@10",
+    "485045@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

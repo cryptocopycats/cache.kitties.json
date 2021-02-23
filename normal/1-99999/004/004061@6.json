@@ -1,0 +1,18 @@
+{
+  "id": 4061,
+  "name": "G6 Brisk",
+  "generation": 6,
+  "created_at": "2017-11-24T04:57:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm G6 Brisk. My friends describe me as smelly and seductive. I once got in a fight with a platypus, and won. Will you be the marmite to my soy sauce?",
+  "language": "en",
+  "matron": "3888@5",
+  "sire": "1287@0",
+  "children": [
+    "4366@10",
+    "10305@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

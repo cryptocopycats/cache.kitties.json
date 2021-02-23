@@ -1,0 +1,26 @@
+{
+  "id": 3685,
+  "name": "Delilah G4",
+  "generation": 4,
+  "created_at": "2017-11-24T02:14:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Delilah G4. I've never told anyone this, but I once bit a dog. I put marmite on everything. Like, everything: hot dogs, cereal—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1279@0",
+  "sire": "3565@3",
+  "children": [
+    "3721@5",
+    "3778@10",
+    "32784@5",
+    "34246@11",
+    "53295@5",
+    "78726@7",
+    "250012@9",
+    "282196@17",
+    "341875@16",
+    "1604184@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

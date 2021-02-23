@@ -1,0 +1,19 @@
+{
+  "id": 4126,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T05:37:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! My name's Kitty #4126. I once peed on Confucius's cat. They had it coming. In my free time, I can usually be found annoying or jump-roping. Let's pawty!",
+  "language": "en",
+  "matron": "3962@8",
+  "sire": "3945@8",
+  "children": [
+    "4309@10",
+    "4359@10",
+    "9055@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 4684,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T10:04:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #4684. I enjoy fighting the patriarchy, licking doorknobs, and slappin' da bass. I put peanut butter on everything. Like, everything: hot dogs, ice cream—everything! I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "4662@7",
+  "sire": "3086@4",
+  "children": [
+    "4760@9",
+    "5299@9",
+    "6930@9",
+    "8254@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

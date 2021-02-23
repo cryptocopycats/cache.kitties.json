@@ -1,0 +1,22 @@
+{
+  "id": 5261,
+  "name": "Sparky {I}",
+  "generation": 7,
+  "created_at": "2017-11-24T19:03:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Sparky {I}. I want to live in a world where people believe that one day cats will rule this planet. I once snuggled a gecko. I don't like to talk about it. Our friendship will be petulant, gullible, and full of hamburgers.",
+  "language": "en",
+  "matron": "3843@6",
+  "sire": "3903@6",
+  "children": [
+    "8752@9",
+    "9764@14",
+    "11139@9",
+    "11573@17",
+    "36122@8",
+    "80615@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

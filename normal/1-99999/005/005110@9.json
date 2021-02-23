@@ -1,0 +1,19 @@
+{
+  "id": 5110,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T17:19:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #5110. My friends describe me as voluptuous and annoying. My friends describe me as \"gorgeous.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4068@8",
+  "sire": "3297@1",
+  "children": [
+    "13341@10",
+    "17433@16",
+    "110451@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 4113,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-24T05:27:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #4113. I'm a professional Mad Scientist and I love hamburgers. I once dreamed of being a Ventriloquist. Now I can be found summoning ghosts all day. Let's get busy!",
+  "language": "en",
+  "matron": "3273@4",
+  "sire": "3063@1",
+  "children": [
+    "4144@6",
+    "5346@12",
+    "12726@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

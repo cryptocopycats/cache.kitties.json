@@ -1,0 +1,18 @@
+{
+  "id": 4669,
+  "name": "Viola",
+  "generation": 7,
+  "created_at": "2017-11-24T09:51:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Viola. In high school, I was voted biggest teacher's pet. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1267@0",
+  "sire": "3454@6",
+  "children": [
+    "23600@8",
+    "78794@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

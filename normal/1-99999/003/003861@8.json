@@ -1,0 +1,24 @@
+{
+  "id": 3861,
+  "name": "Cream",
+  "generation": 8,
+  "created_at": "2017-11-24T03:40:28.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Cream. I'm a professional Mad Scientist and I love chocolate. Sometimes I daydream of a life full of staying woke, ice cream, and pole dancing. Our friendship will be tantalizing, wondrous, and full of hamburgers.",
+  "language": "en",
+  "matron": "3720@7",
+  "sire": "3314@4",
+  "children": [
+    "4035@9",
+    "4379@9",
+    "4921@9",
+    "5809@11",
+    "8451@17",
+    "9462@16",
+    "9945@16",
+    "11711@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

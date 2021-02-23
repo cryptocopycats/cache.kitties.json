@@ -1,0 +1,27 @@
+{
+  "id": 5545,
+  "name": "CoffeeCloudBerry",
+  "generation": 4,
+  "created_at": "2017-11-24T21:29:33.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm CoffeeCloudBerry. I'm a professional Skydiving Instructor and I love ice cream. I once made a rabbit leap. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1032@0",
+  "sire": "3691@3",
+  "children": [
+    "5655@6",
+    "5694@8",
+    "5762@5",
+    "6114@5",
+    "35778@5",
+    "37470@5",
+    "49499@5",
+    "51684@5",
+    "67715@5",
+    "98062@5",
+    "231190@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

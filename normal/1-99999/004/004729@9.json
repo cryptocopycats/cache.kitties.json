@@ -1,0 +1,23 @@
+{
+  "id": 4729,
+  "name": "Gen 9 Tiger",
+  "generation": 9,
+  "created_at": "2017-11-24T10:35:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! My name's Gen 9 Tiger. I once peed on Amelia Earhart's cat. They had it coming. I am 21% fairy, 75% Skydiving Instructor, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "4670@8",
+  "sire": "4646@5",
+  "children": [
+    "4793@10",
+    "6324@14",
+    "6372@10",
+    "17858@14",
+    "18704@10",
+    "20752@16",
+    "48510@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

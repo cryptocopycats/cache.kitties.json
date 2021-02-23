@@ -1,0 +1,26 @@
+{
+  "id": 5621,
+  "name": "Confucius",
+  "generation": 2,
+  "created_at": "2017-11-24T22:06:43.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Confucius. I'm often referred to as the Michael Scott of the group. I'm often described as smelly, and I own it. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "1486@0",
+  "sire": "5576@1",
+  "children": [
+    "5670@15",
+    "5899@3",
+    "15857@3",
+    "16065@3",
+    "16591@3",
+    "17134@3",
+    "20018@3",
+    "27734@4",
+    "91081@17",
+    "482037@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

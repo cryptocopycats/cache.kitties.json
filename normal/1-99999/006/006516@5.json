@@ -1,0 +1,21 @@
+{
+  "id": 6516,
+  "name": "Fluffy Scruff",
+  "generation": 5,
+  "created_at": "2017-11-25T05:53:42.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Fluffy Scruff. I'm a professional Aerobics Athlete  and I love cantaloupe. I am 17% elf, 34% Ventriloquist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4654@4",
+  "sire": "3073@3",
+  "children": [
+    "6539@6",
+    "6581@6",
+    "7240@11",
+    "7440@13",
+    "8528@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

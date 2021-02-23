@@ -1,0 +1,24 @@
+{
+  "id": 4678,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T09:56:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #4678. I'm a Skydiving Instructor by day, and I like playing chess by night. My friends describe me as \"seductive.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "1383@0",
+  "sire": "1473@0",
+  "children": [
+    "4711@7",
+    "4741@2",
+    "4839@7",
+    "4980@9",
+    "7184@2",
+    "8344@4",
+    "10439@11",
+    "31925@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

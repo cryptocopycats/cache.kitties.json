@@ -1,0 +1,20 @@
+{
+  "id": 5504,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T21:07:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #5504. I'm a Aerobics Athlete  by day, and I like swiping left by night. I'm often described as despicable, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "5248@5",
+  "sire": "3488@8",
+  "children": [
+    "9987@19",
+    "10051@10",
+    "11458@17",
+    "13723@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

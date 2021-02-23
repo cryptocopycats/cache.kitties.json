@@ -1,0 +1,18 @@
+{
+  "id": 5317,
+  "name": "Masha",
+  "generation": 8,
+  "created_at": "2017-11-24T19:27:55.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! Masha here. I'm here to enjoy taking selfies and eating until I loathe myself. I once got in a fight with a rooster, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5037@7",
+  "sire": "3949@7",
+  "children": [
+    "8178@9",
+    "20806@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

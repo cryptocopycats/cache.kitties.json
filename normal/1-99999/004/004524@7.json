@@ -1,0 +1,23 @@
+{
+  "id": 4524,
+  "name": "Big Mac",
+  "generation": 7,
+  "created_at": "2017-11-24T08:23:34.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! My name's Big Mac. I once peed on Martin Luther King Jr.'s cat. They had it coming. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3266@2",
+  "sire": "4343@6",
+  "children": [
+    "12809@10",
+    "32549@17",
+    "44455@17",
+    "48213@8",
+    "54029@8",
+    "68521@10",
+    "136016@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

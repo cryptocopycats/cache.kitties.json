@@ -1,0 +1,23 @@
+{
+  "id": 3994,
+  "name": "Dope Dope",
+  "generation": 9,
+  "created_at": "2017-11-24T04:31:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Dope Dope. I believe the world is flat. I like to listen to Mariah Carey while grooming. Don't judge me. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "3366@8",
+  "sire": "3244@5",
+  "children": [
+    "4942@10",
+    "4970@10",
+    "5164@11",
+    "16803@16",
+    "27245@16",
+    "47292@16",
+    "84290@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

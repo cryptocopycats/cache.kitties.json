@@ -1,0 +1,27 @@
+{
+  "id": 3503,
+  "name": "3503",
+  "generation": 4,
+  "created_at": "2017-11-24T00:45:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 3503. I'm a professional Skydiving Instructor and I love lasagna. My secret indulgence is wet food. Let's get busy!",
+  "language": "en",
+  "matron": "1255@0",
+  "sire": "3237@3",
+  "children": [
+    "3538@6",
+    "3662@5",
+    "3797@6",
+    "3913@7",
+    "13813@14",
+    "18011@11",
+    "19218@9",
+    "19666@5",
+    "24927@5",
+    "31564@5",
+    "169846@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

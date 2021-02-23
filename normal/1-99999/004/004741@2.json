@@ -1,0 +1,20 @@
+{
+  "id": 4741,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T10:48:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #4741. I enjoy fighting for the people, reciting poetry, and picking flowers. I once dreamed of being a Train Conductor. Now I can be found talking about how much I lift all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1328@0",
+  "sire": "4678@1",
+  "children": [
+    "4982@9",
+    "4996@9",
+    "8347@4",
+    "10399@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

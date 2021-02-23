@@ -1,0 +1,19 @@
+{
+  "id": 4765,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T10:57:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #4765. In high school, I was voted school jock. When I'm not riverdancing, I'm siring for status! Let's pawty!",
+  "language": "en",
+  "matron": "4505@6",
+  "sire": "4005@11",
+  "children": [
+    "4777@13",
+    "4946@13",
+    "5985@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4447,
+  "name": "Gen 9 | Fig",
+  "generation": 9,
+  "created_at": "2017-11-24T07:32:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 9 | Fig. In high school, I was voted most likely to work at NASA. I put cinammon on everything. Like, everything: hot dogs, ice cream—everything! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "4085@8",
+  "sire": "4265@8",
+  "children": [
+    "5068@10",
+    "5665@10",
+    "5716@10",
+    "7461@10",
+    "56528@13",
+    "79033@15",
+    "105923@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

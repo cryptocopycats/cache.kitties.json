@@ -1,0 +1,24 @@
+{
+  "id": 5660,
+  "name": "5A",
+  "generation": 5,
+  "created_at": "2017-11-24T22:27:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! My name's 5A. I once peed on Cleopatra's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Cleopatra. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4531@4",
+  "sire": "3609@3",
+  "children": [
+    "11620@8",
+    "17924@14",
+    "76861@7",
+    "81801@7",
+    "86438@6",
+    "88592@6",
+    "107742@6",
+    "121810@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

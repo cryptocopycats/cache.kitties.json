@@ -1,0 +1,19 @@
+{
+  "id": 3901,
+  "name": "Kitty 3901",
+  "generation": 9,
+  "created_at": "2017-11-24T03:55:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty 3901. In high school, I was voted biggest teacher's pet. I once made a rhino dance. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "1242@0",
+  "sire": "3466@8",
+  "children": [
+    "4062@10",
+    "8031@13",
+    "714036@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

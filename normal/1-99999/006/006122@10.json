@@ -1,0 +1,23 @@
+{
+  "id": 6122,
+  "name": "FALA",
+  "generation": 10,
+  "created_at": "2017-11-25T02:14:28.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm FALA. In high school, I was voted biggest teacher's pet. I once got in a fight with a rooster, and won. Our friendship will be annoying, prickly, and full of ice cream.",
+  "language": "en",
+  "matron": "5986@1",
+  "sire": "6098@9",
+  "children": [
+    "6508@11",
+    "6564@12",
+    "11950@12",
+    "13320@12",
+    "19200@12",
+    "27384@12",
+    "84656@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 4912,
+  "name": "Fluffy",
+  "generation": 8,
+  "created_at": "2017-11-24T13:32:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Fluffy. In high school, I was voted biggest teacher's pet. I once made a dolphin sulk. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4899@6",
+  "sire": "4207@7",
+  "children": [
+    "4944@9",
+    "5161@9",
+    "6597@9",
+    "7322@14",
+    "11540@11",
+    "15149@16",
+    "24422@14",
+    "47658@9",
+    "180196@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 5164,
+  "name": "Miles",
+  "generation": 11,
+  "created_at": "2017-11-24T17:59:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Miles. I'm a professional Private Dancer  and I love apple pie. When I'm not siring for status, I'm volunteering at the local kitten rescue shelter! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3994@9",
+  "sire": "4999@10",
+  "children": [
+    "5770@12",
+    "6376@12",
+    "7009@15",
+    "9005@15",
+    "9619@13",
+    "84461@12",
+    "192157@14",
+    "952910@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

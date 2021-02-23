@@ -1,0 +1,22 @@
+{
+  "id": 5479,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T20:53:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #5479. I'm a professional Skydiving Instructor and I love ice cream. My friends describe me as \"vegan.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "4144@6",
+  "sire": "3697@7",
+  "children": [
+    "7098@11",
+    "12271@12",
+    "23690@9",
+    "24798@9",
+    "35774@9",
+    "58872@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

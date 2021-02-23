@@ -1,0 +1,21 @@
+{
+  "id": 6070,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-25T02:00:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #6070. I believe the world is flat. I'm often described as annoying, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4365@7",
+  "sire": "3986@6",
+  "children": [
+    "6356@12",
+    "6665@13",
+    "6688@12",
+    "7746@13",
+    "8316@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

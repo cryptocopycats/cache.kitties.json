@@ -1,0 +1,23 @@
+{
+  "id": 5427,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T20:25:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #5427. I'm a Dogwalker by day, and I like tricking babies by night. I was voted biggest teacher's pet in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4118@8",
+  "sire": "4166@9",
+  "children": [
+    "5842@11",
+    "6932@11",
+    "7549@11",
+    "8143@11",
+    "12594@11",
+    "18867@15",
+    "33277@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

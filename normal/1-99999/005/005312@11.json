@@ -1,0 +1,19 @@
+{
+  "id": 5312,
+  "name": "Mauvelous",
+  "generation": 11,
+  "created_at": "2017-11-24T19:26:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! My name's Mauvelous. I once peed on Martin Luther King Jr.'s cat. They had it coming. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5091@9",
+  "sire": "4878@10",
+  "children": [
+    "6470@12",
+    "16181@12",
+    "614584@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

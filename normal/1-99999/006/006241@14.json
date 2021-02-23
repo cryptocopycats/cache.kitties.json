@@ -1,0 +1,21 @@
+{
+  "id": 6241,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T03:09:42.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #6241. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5850@1",
+  "sire": "5336@13",
+  "children": [
+    "6655@15",
+    "9973@15",
+    "13089@15",
+    "21451@15",
+    "46553@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3851,
+  "name": "Internet Gen 4",
+  "generation": 4,
+  "created_at": "2017-11-24T03:35:12.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Internet Gen 4. All you need to know about me is I hate cantaloupe with a passion. I am 89% elf, 69% Skydiving Instructor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3833@3",
+  "sire": "3817@3",
+  "children": [
+    "3882@5",
+    "5031@9",
+    "7702@10",
+    "10377@15",
+    "10797@17",
+    "13039@12",
+    "45188@5",
+    "116195@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

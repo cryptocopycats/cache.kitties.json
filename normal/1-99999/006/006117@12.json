@@ -1,0 +1,23 @@
+{
+  "id": 6117,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T02:14:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #6117. I'm often referred to as the Hermione Granger of the group. My secret indulgence is salad. Will you be the peanut butter to my maple syrup?",
+  "language": "en",
+  "matron": "5494@8",
+  "sire": "5973@11",
+  "children": [
+    "6357@13",
+    "9939@13",
+    "10670@13",
+    "17388@13",
+    "23161@13",
+    "67117@13",
+    "272837@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

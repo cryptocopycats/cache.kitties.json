@@ -1,0 +1,24 @@
+{
+  "id": 6144,
+  "name": "G10",
+  "generation": 10,
+  "created_at": "2017-11-25T02:25:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm G10. I've never told anyone this, but I once frolicked with a dog. I once frolicked with a gecko. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6120@4",
+  "sire": "5201@9",
+  "children": [
+    "6286@11",
+    "6485@13",
+    "9828@15",
+    "16554@16",
+    "22863@11",
+    "30019@11",
+    "83214@11",
+    "438278@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6469,
+  "name": "Aja",
+  "generation": 4,
+  "created_at": "2017-11-25T05:23:56.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Aja. I'm often referred to as the Hermione Granger of the group. I once licked a rabbit. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "2768@0",
+  "sire": "6097@3",
+  "children": [
+    "9289@5",
+    "9542@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

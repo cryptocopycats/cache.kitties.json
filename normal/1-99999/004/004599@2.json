@@ -1,0 +1,25 @@
+{
+  "id": 4599,
+  "name": "G2 | Slow | Calicool",
+  "generation": 2,
+  "created_at": "2017-11-24T09:04:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G2 | Slow | Calicool. I'm a Dispensary Clerk by day, and I like siring for status by night. I once got in a fight with a gecko, and won. Let's get busy!",
+  "language": "en",
+  "matron": "3811@1",
+  "sire": "3716@1",
+  "children": [
+    "4626@6",
+    "4639@6",
+    "4670@8",
+    "4725@11",
+    "4838@6",
+    "6440@5",
+    "16262@3",
+    "19409@3",
+    "60595@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

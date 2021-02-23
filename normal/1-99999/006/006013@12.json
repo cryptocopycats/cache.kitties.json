@@ -1,0 +1,22 @@
+{
+  "id": 6013,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T01:24:39.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Kitty #6013. I once peed on King Henry VIII's cat. They had it coming. My friends describe me as \"stinky.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5323@11",
+  "sire": "1053@0",
+  "children": [
+    "6983@13",
+    "7157@13",
+    "7851@13",
+    "8783@13",
+    "9545@13",
+    "93625@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

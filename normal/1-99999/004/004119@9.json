@@ -1,0 +1,21 @@
+{
+  "id": 4119,
+  "name": "zoza",
+  "generation": 9,
+  "created_at": "2017-11-24T05:32:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm zoza. I'm a professional Mad Scientist and I love lasagna. I once made a dog scare. Let's pawty!",
+  "language": "en",
+  "matron": "4087@7",
+  "sire": "4090@8",
+  "children": [
+    "4411@10",
+    "4488@10",
+    "21071@15",
+    "259260@19",
+    "422231@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

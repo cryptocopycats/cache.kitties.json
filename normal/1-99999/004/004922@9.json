@@ -1,0 +1,23 @@
+{
+  "id": 4922,
+  "name": "4922",
+  "generation": 9,
+  "created_at": "2017-11-24T13:55:28.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm 4922. I'm a Skydiving Instructor by day, and I like mocking dogs by night. Some people say I'm the Ron Weasley of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4482@4",
+  "sire": "4483@8",
+  "children": [
+    "4974@13",
+    "5304@15",
+    "5480@14",
+    "5963@10",
+    "6915@14",
+    "80973@10",
+    "81369@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

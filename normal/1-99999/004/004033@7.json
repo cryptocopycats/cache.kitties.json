@@ -1,0 +1,23 @@
+{
+  "id": 4033,
+  "name": "Fat Burglar",
+  "generation": 7,
+  "created_at": "2017-11-24T04:44:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Fat Burglar. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as stinky, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3903@6",
+  "sire": "3046@2",
+  "children": [
+    "4086@8",
+    "5823@8",
+    "8532@12",
+    "8684@10",
+    "22045@8",
+    "36965@9",
+    "72297@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

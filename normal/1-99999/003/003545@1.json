@@ -1,0 +1,27 @@
+{
+  "id": 3545,
+  "name": "Meowza | Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-24T01:11:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Meowza | Gen 1. I'm a Private Dancer  by day, and I like swiping left by night. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1481@0",
+  "sire": "1458@0",
+  "children": [
+    "39069@2",
+    "53911@2",
+    "66601@2",
+    "92583@2",
+    "94258@2",
+    "95719@2",
+    "112931@2",
+    "116341@2",
+    "124808@2",
+    "143489@2",
+    "220407@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

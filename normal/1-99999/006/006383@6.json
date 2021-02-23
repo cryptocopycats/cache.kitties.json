@@ -1,0 +1,23 @@
+{
+  "id": 6383,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-25T04:29:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #6383. I'm a Spin Instructor  by day, and I like swiping right by night. Some people say I'm the Ross Geller of the group. Let's pawty!",
+  "language": "en",
+  "matron": "5868@3",
+  "sire": "5995@5",
+  "children": [
+    "6963@7",
+    "7200@8",
+    "7291@9",
+    "7787@10",
+    "8171@11",
+    "9578@15",
+    "12185@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

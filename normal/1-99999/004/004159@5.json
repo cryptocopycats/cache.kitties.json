@@ -1,0 +1,22 @@
+{
+  "id": 4159,
+  "name": "Bailey",
+  "generation": 5,
+  "created_at": "2017-11-24T05:53:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's Bailey. I once peed on Cleopatra's cat. They had it coming. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's get busy!",
+  "language": "en",
+  "matron": "4136@4",
+  "sire": "3028@1",
+  "children": [
+    "4212@6",
+    "4341@6",
+    "4448@6",
+    "4657@8",
+    "4791@10",
+    "53570@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

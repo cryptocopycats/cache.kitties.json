@@ -1,0 +1,21 @@
+{
+  "id": 5093,
+  "name": "Sire",
+  "generation": 13,
+  "created_at": "2017-11-24T17:02:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Sire. I'm often referred to as the Niles Crane of the group. I once frolicked with a dog. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3893@9",
+  "sire": "4355@12",
+  "children": [
+    "5386@14",
+    "6172@14",
+    "7574@14",
+    "13294@15",
+    "27994@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

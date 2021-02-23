@@ -1,0 +1,19 @@
+{
+  "id": 6110,
+  "name": "teal",
+  "generation": 2,
+  "created_at": "2017-11-25T02:10:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm teal. My friends describe me as annoying and brilliant. When no one's home, I invite my pals over and we listen to Justin Bieber. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2028@0",
+  "sire": "6044@1",
+  "children": [
+    "6601@15",
+    "6611@3",
+    "12321@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

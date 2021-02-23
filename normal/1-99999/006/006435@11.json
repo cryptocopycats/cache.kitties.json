@@ -1,0 +1,18 @@
+{
+  "id": 6435,
+  "name": "Teablock",
+  "generation": 11,
+  "created_at": "2017-11-25T04:59:54.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Teablock. In high school, I was voted school jock. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4431@9",
+  "sire": "4534@10",
+  "children": [
+    "6484@12",
+    "52484@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

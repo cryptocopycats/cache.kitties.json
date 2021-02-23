@@ -1,0 +1,21 @@
+{
+  "id": 4481,
+  "name": "Starburst",
+  "generation": 11,
+  "created_at": "2017-11-24T07:52:57.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Starburst. I'm a Ventriloquist by day, and I like braiding people's hair by night. I once got in a fight with a moose, and won. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "4379@9",
+  "sire": "4384@10",
+  "children": [
+    "4676@12",
+    "4769@12",
+    "5600@12",
+    "13329@12",
+    "18371@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

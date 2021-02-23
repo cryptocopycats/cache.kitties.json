@@ -1,0 +1,23 @@
+{
+  "id": 4811,
+  "name": "G8 Ernesto",
+  "generation": 8,
+  "created_at": "2017-11-24T11:29:18.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! My name's G8 Ernesto. I once peed on King Henry VIII's cat. They had it coming. I'm often described as stinky, and I own it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "3339@4",
+  "sire": "4472@7",
+  "children": [
+    "12552@13",
+    "16666@15",
+    "22584@17",
+    "48221@15",
+    "85818@10",
+    "120635@9",
+    "127090@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

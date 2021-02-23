@@ -1,0 +1,19 @@
+{
+  "id": 6379,
+  "name": "LaMar",
+  "generation": 12,
+  "created_at": "2017-11-25T04:26:54.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! My name's LaMar. I once peed on Nelson Mandela's cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5094@7",
+  "sire": "4350@11",
+  "children": [
+    "55103@13",
+    "72656@15",
+    "234725@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

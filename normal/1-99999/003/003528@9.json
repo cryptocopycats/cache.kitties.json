@@ -1,0 +1,23 @@
+{
+  "id": 3528,
+  "name": "Melvin",
+  "generation": 9,
+  "created_at": "2017-11-24T00:58:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's Melvin. I once peed on King Henry VIII's cat. They had it coming. My friends describe me as \"raunchy.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3219@3",
+  "sire": "3366@8",
+  "children": [
+    "3857@10",
+    "3984@10",
+    "4342@12",
+    "5076@13",
+    "5924@10",
+    "7972@16",
+    "12892@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5786,
+  "name": "Banana Bleppy Whiskers",
+  "generation": 13,
+  "created_at": "2017-11-24T23:42:09.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Banana Bleppy Whiskers. I'm often referred to as the Michael Scott of the group. When I'm not reading Danielle Steele, I'm riverdancing! Our friendship will be petulant, prickly, and full of salad.",
+  "language": "en",
+  "matron": "5042@12",
+  "sire": "5345@10",
+  "children": [
+    "6046@14",
+    "6530@14",
+    "8036@14",
+    "23158@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

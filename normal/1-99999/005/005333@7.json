@@ -1,0 +1,28 @@
+{
+  "id": 5333,
+  "name": "Gen 7 Dali 5333",
+  "generation": 7,
+  "created_at": "2017-11-24T19:34:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Gen 7 Dali 5333. I believe the world is flat. My friends describe me as \"annoying.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4838@6",
+  "sire": "4545@5",
+  "children": [
+    "5536@8",
+    "5612@13",
+    "5886@8",
+    "6332@10",
+    "16093@14",
+    "21063@10",
+    "22080@9",
+    "26303@8",
+    "84314@8",
+    "94042@8",
+    "482399@10",
+    "543107@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3600,
+  "name": "Topaz",
+  "generation": 4,
+  "created_at": "2017-11-24T01:40:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Topaz. My friends describe me as stinky and voluptuous. I once made a platypus dance. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3321@3",
+  "sire": "1046@0",
+  "children": [
+    "4001@6",
+    "4384@10",
+    "4485@10",
+    "4595@8",
+    "4794@10",
+    "5835@13",
+    "16773@10",
+    "23136@11",
+    "45491@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

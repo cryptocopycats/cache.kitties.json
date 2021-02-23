@@ -1,0 +1,24 @@
+{
+  "id": 4745,
+  "name": "Vitalik",
+  "generation": 8,
+  "created_at": "2017-11-24T10:48:43.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! My name's Vitalik. I once peed on Princess Diana's cat. They had it coming. I was voted school jock in college. Will you be the ranch dressing to my marmalade?",
+  "language": "en",
+  "matron": "1274@0",
+  "sire": "4732@7",
+  "children": [
+    "4823@9",
+    "4878@10",
+    "4991@9",
+    "5348@9",
+    "6687@9",
+    "8071@9",
+    "11627@14",
+    "48892@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

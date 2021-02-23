@@ -1,0 +1,26 @@
+{
+  "id": 4595,
+  "name": "Lucky Himalaya G8",
+  "generation": 8,
+  "created_at": "2017-11-24T09:02:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Lucky Himalaya G8. All you need to know about me is I hate salad with a passion. My secret indulgence is hamburgers. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3600@4",
+  "sire": "4137@7",
+  "children": [
+    "4653@9",
+    "4920@9",
+    "6997@9",
+    "7837@9",
+    "21852@9",
+    "26830@11",
+    "40269@12",
+    "90200@18",
+    "192646@9",
+    "353735@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3677,
+  "name": "Goat",
+  "generation": 3,
+  "created_at": "2017-11-24T02:11:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Goat. In high school, I was voted most likely to work at NASA. I once got in a fight with a rhino, and won. I look forward to breakdancing with you.",
+  "language": "en",
+  "matron": "3018@2",
+  "sire": "1492@0",
+  "children": [
+    "3746@4",
+    "3847@4",
+    "3947@9",
+    "3996@7",
+    "4166@9",
+    "4488@10",
+    "5204@10",
+    "7652@4",
+    "10636@4",
+    "26616@11",
+    "86548@8",
+    "270570@4",
+    "320308@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6296,
+  "name": "12",
+  "generation": 12,
+  "created_at": "2017-11-25T03:41:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm 12. In high school, I was voted most likely to work at NASA. I like to listen to Rihanna while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3102@2",
+  "sire": "5652@11",
+  "children": [
+    "6566@13",
+    "12807@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

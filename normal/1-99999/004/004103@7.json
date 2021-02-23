@@ -1,0 +1,22 @@
+{
+  "id": 4103,
+  "name": "Viola",
+  "generation": 7,
+  "created_at": "2017-11-24T05:22:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Viola. I'm a professional Foreign Film Director and I love steak. It's not common knowledge, but my ancestry connects me to King Henry VIII. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3189@4",
+  "sire": "3813@6",
+  "children": [
+    "4325@8",
+    "4434@8",
+    "8985@8",
+    "9310@8",
+    "9560@8",
+    "9955@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5524,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-24T21:16:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #5524. My friends describe me as voluptuous and raunchy. I once dreamed of being a Private Dancer . Now I can be found sleeping in fresh laundry all day. Let's get busy!",
+  "language": "en",
+  "matron": "5449@3",
+  "sire": "5486@2",
+  "children": [
+    "5548@6",
+    "5677@8",
+    "5736@8",
+    "5872@8",
+    "6238@5",
+    "6660@11",
+    "7943@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

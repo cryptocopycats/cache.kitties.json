@@ -1,0 +1,19 @@
+{
+  "id": 4523,
+  "name": "G9/Plodding",
+  "generation": 9,
+  "created_at": "2017-11-24T08:23:34.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm G9/Plodding. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Aretha Franklin. Let's get busy!",
+  "language": "en",
+  "matron": "3996@7",
+  "sire": "4232@8",
+  "children": [
+    "5204@10",
+    "6351@16",
+    "11182@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

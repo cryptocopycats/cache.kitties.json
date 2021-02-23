@@ -1,0 +1,21 @@
+{
+  "id": 5638,
+  "name": "5638",
+  "generation": 14,
+  "created_at": "2017-11-24T22:18:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm 5638. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "4951@12",
+  "sire": "5122@13",
+  "children": [
+    "6201@15",
+    "12198@15",
+    "43849@15",
+    "74174@19",
+    "91115@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

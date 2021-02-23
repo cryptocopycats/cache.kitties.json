@@ -1,0 +1,19 @@
+{
+  "id": 3616,
+  "name": "Cat-a-lina",
+  "generation": 6,
+  "created_at": "2017-11-24T01:43:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Cat-a-lina. I'm often referred to as the Samwise Gamgee of the group. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "3184@1",
+  "sire": "3543@5",
+  "children": [
+    "3634@7",
+    "3724@7",
+    "3871@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

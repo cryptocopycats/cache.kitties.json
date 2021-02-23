@@ -1,0 +1,21 @@
+{
+  "id": 3578,
+  "name": "Reddit Troll {B}",
+  "generation": 1,
+  "created_at": "2017-11-24T01:28:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Reddit Troll {B}. My friends describe me as prickly and hairy. I put maple syrup on everything. Like, everything: hot dogs, chocolate—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1428@0",
+  "sire": "1482@0",
+  "children": [
+    "3630@2",
+    "3785@4",
+    "74343@2",
+    "81868@2",
+    "117027@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

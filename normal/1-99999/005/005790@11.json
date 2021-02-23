@@ -1,0 +1,22 @@
+{
+  "id": 5790,
+  "name": "Rare Dali",
+  "generation": 11,
+  "created_at": "2017-11-24T23:43:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Rare Dali. I'm a Spin Instructor  by day, and I like mocking dogs by night. I'm often described as smelly, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4549@10",
+  "sire": "4726@9",
+  "children": [
+    "6796@14",
+    "6969@13",
+    "11666@15",
+    "17540@17",
+    "28225@20",
+    "91723@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

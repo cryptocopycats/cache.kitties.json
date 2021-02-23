@@ -1,0 +1,24 @@
+{
+  "id": 4141,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T05:42:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #4141. I'm a Spin Instructor  by day, and I like playing chess by night. I'm convinced that the world is flat. One day I'll prove it. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "3638@9",
+  "sire": "3361@5",
+  "children": [
+    "4369@11",
+    "5168@11",
+    "5727@13",
+    "6791@11",
+    "7293@12",
+    "9435@15",
+    "10576@14",
+    "92706@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

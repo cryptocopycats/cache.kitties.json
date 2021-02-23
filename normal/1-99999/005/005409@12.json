@@ -1,0 +1,20 @@
+{
+  "id": 5409,
+  "name": "Blueberry",
+  "generation": 12,
+  "created_at": "2017-11-24T20:14:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Blueberry. I'm a Culinary Sanitation Specialist by day, and I like braiding people's hair by night. I once made a rabbit jump. Our friendship will be raunchy, seductive, and full of wet food.",
+  "language": "en",
+  "matron": "3995@11",
+  "sire": "3276@1",
+  "children": [
+    "7860@13",
+    "8170@13",
+    "22161@13",
+    "49417@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

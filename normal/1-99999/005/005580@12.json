@@ -1,0 +1,20 @@
+{
+  "id": 5580,
+  "name": "Ausborland",
+  "generation": 12,
+  "created_at": "2017-11-24T21:49:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Ausborland. I'm often referred to as the Homer Simpson of the group. When I'm not practicing witchcraft, I'm prank-calling celebrities! I look forward to being a nevernude with you.",
+  "language": "en",
+  "matron": "4534@10",
+  "sire": "4521@11",
+  "children": [
+    "6223@13",
+    "6805@13",
+    "7459@13",
+    "50034@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

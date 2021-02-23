@@ -1,0 +1,26 @@
+{
+  "id": 5339,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-24T19:39:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #5339. In high school, I was voted school jock. I once made a gecko leap. I like your face.",
+  "language": "en",
+  "matron": "3120@1",
+  "sire": "4199@2",
+  "children": [
+    "5724@7",
+    "6135@6",
+    "6726@7",
+    "6744@8",
+    "7215@8",
+    "9580@5",
+    "10883@7",
+    "11952@11",
+    "17305@15",
+    "100927@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5910,
+  "name": "Witchy",
+  "generation": 9,
+  "created_at": "2017-11-25T00:41:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Witchy. I'm a Aerobics Athlete  by day, and I like practicing witchcraft by night. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Our friendship will be prickly, despicable, and full of hamburgers.",
+  "language": "en",
+  "matron": "5286@8",
+  "sire": "4343@6",
+  "children": [
+    "9628@12",
+    "9695@10",
+    "9833@10",
+    "11200@14",
+    "12197@16",
+    "18955@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

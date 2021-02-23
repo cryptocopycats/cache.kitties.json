@@ -1,0 +1,25 @@
+{
+  "id": 3638,
+  "name": "Blue-eyed Snowy",
+  "generation": 9,
+  "created_at": "2017-11-24T01:52:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Blue-eyed Snowy. I'm a Mad Scientist by day, and I like riding the bus by night. Sometimes I daydream of a life full of tricking babies, cereal, and braiding people's hair. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "3594@7",
+  "sire": "3275@8",
+  "children": [
+    "3737@10",
+    "3770@10",
+    "4141@10",
+    "4687@10",
+    "5096@10",
+    "7172@14",
+    "7728@12",
+    "10125@15",
+    "11265@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4232,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T06:19:53.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #4232. I'm often referred to as the Steve Urkel of the group. I put marmite on everything. Like, everything: hot dogs, cantaloupe—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3980@5",
+  "sire": "3993@7",
+  "children": [
+    "4523@9",
+    "75359@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

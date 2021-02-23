@@ -1,0 +1,22 @@
+{
+  "id": 5021,
+  "name": "Dewrby",
+  "generation": 9,
+  "created_at": "2017-11-24T16:03:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Dewrby. I'm a professional Dispensary Clerk and I love apple pie. It's not common knowledge, but my ancestry connects me to Nelson Mandela. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5008@6",
+  "sire": "4973@8",
+  "children": [
+    "5085@10",
+    "13782@10",
+    "14874@14",
+    "15627@11",
+    "20993@16",
+    "50649@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4131,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-11-24T05:37:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm G5. I'm a Dogwalker by day, and I like playing chess by night. I once got in a fight with a chimpanzee, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "3406@4",
+  "sire": "3612@4",
+  "children": [
+    "4306@6",
+    "4502@6",
+    "5016@9",
+    "5570@11",
+    "5878@6",
+    "7528@8",
+    "12751@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

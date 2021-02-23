@@ -1,0 +1,22 @@
+{
+  "id": 5588,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T21:51:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Kitty #5588 here. I'm here to enjoy spinning sick beats and sweating through my feet. I would give it all up for a Chanel purse. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "5243@3",
+  "sire": "5467@9",
+  "children": [
+    "5657@11",
+    "6264@13",
+    "6338@14",
+    "19565@11",
+    "20356@11",
+    "50500@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

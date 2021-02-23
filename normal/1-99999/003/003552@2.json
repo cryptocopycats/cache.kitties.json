@@ -1,0 +1,28 @@
+{
+  "id": 3552,
+  "name": "Gen 2 - plod",
+  "generation": 2,
+  "created_at": "2017-11-24T01:14:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Gen 2 - plod here. I'm here to enjoy glaring at the neighbour's cat and tripping my owner. Sometimes I daydream of a life full of eating until I loathe myself, apple pie, and talking about how much I lift. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1275@0",
+  "sire": "3240@1",
+  "children": [
+    "3582@3",
+    "3633@3",
+    "3691@3",
+    "5195@3",
+    "5344@4",
+    "5449@3",
+    "39983@14",
+    "46704@6",
+    "66387@5",
+    "251239@5",
+    "306600@5",
+    "409705@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

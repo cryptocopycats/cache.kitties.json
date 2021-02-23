@@ -1,0 +1,23 @@
+{
+  "id": 4676,
+  "name": "Spotted Cat",
+  "generation": 12,
+  "created_at": "2017-11-24T09:54:15.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Spotted Cat. In high school, I was voted school jock. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4184@8",
+  "sire": "4481@11",
+  "children": [
+    "4844@13",
+    "5835@13",
+    "6969@13",
+    "11381@13",
+    "18448@13",
+    "111163@13",
+    "212961@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

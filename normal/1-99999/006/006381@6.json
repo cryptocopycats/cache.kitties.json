@@ -1,0 +1,21 @@
+{
+  "id": 6381,
+  "name": "Foobae",
+  "generation": 6,
+  "created_at": "2017-11-25T04:28:24.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Foobae. I'm often referred to as the Chandler Bing of the group. I once got in a fight with a gecko, and won. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "2586@0",
+  "sire": "5827@5",
+  "children": [
+    "13959@7",
+    "55655@10",
+    "59054@7",
+    "200642@7",
+    "1110566@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

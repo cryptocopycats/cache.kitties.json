@@ -1,0 +1,23 @@
+{
+  "id": 5599,
+  "name": "Limey",
+  "generation": 10,
+  "created_at": "2017-11-24T21:54:18.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Limey. My friends describe me as smelly and wondrous. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4859@9",
+  "sire": "5298@7",
+  "children": [
+    "5714@11",
+    "6218@13",
+    "6495@15",
+    "14352@16",
+    "18182@18",
+    "33440@11",
+    "93906@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

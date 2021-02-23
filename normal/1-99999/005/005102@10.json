@@ -1,0 +1,23 @@
+{
+  "id": 5102,
+  "name": "Snowball",
+  "generation": 10,
+  "created_at": "2017-11-24T17:12:57.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Snowball. I enjoy picking flowers, reciting poetry, and sweating through my feet. I was voted most likely to work at NASA in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4994@9",
+  "sire": "4963@5",
+  "children": [
+    "9868@11",
+    "9972@11",
+    "15641@17",
+    "40104@12",
+    "72144@11",
+    "127436@12",
+    "287011@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

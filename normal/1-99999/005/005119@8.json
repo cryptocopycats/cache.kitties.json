@@ -1,0 +1,19 @@
+{
+  "id": 5119,
+  "name": "Old Soul",
+  "generation": 8,
+  "created_at": "2017-11-24T17:23:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's Old Soul. I once peed on Martin Luther King Jr.'s cat. They had it coming. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5101@5",
+  "sire": "4697@7",
+  "children": [
+    "5173@9",
+    "37851@14",
+    "59544@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

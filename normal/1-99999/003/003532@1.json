@@ -1,0 +1,25 @@
+{
+  "id": 3532,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T01:03:13.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #3532. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found vegan or summoning ghosts. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1200@0",
+  "sire": "1195@0",
+  "children": [
+    "242911@2",
+    "243220@2",
+    "243342@2",
+    "243900@2",
+    "243950@2",
+    "244760@2",
+    "303196@2",
+    "315439@2",
+    "331375@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

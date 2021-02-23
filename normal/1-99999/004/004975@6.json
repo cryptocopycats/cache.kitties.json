@@ -1,0 +1,24 @@
+{
+  "id": 4975,
+  "name": "Michael",
+  "generation": 6,
+  "created_at": "2017-11-24T15:07:41.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Michael. I'm a professional Culinary Sanitation Specialist and I love chocolate. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4963@5",
+  "sire": "3265@3",
+  "children": [
+    "5130@9",
+    "5314@10",
+    "5853@7",
+    "6443@12",
+    "13008@10",
+    "13277@11",
+    "30027@9",
+    "52815@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

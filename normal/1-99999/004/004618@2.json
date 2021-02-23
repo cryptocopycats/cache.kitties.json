@@ -1,0 +1,20 @@
+{
+  "id": 4618,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T09:15:00.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #4618. I enjoy eating until I loathe myself, slappin' da bass, and riding dirty. When no one's home, I invite my pals over and we listen to Ace of Base. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3362@1",
+  "sire": "3008@1",
+  "children": [
+    "4708@8",
+    "4979@8",
+    "8343@3",
+    "12103@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

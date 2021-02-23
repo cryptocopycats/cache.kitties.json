@@ -1,0 +1,24 @@
+{
+  "id": 6084,
+  "name": "#6084 Mr Pickles",
+  "generation": 13,
+  "created_at": "2017-11-25T02:00:20.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm #6084 Mr Pickles. I believe that one day cats will rule this planet. I put pickles on everything. Like, everything: hot dogs, apple pie—everything! I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "5818@11",
+  "sire": "5855@12",
+  "children": [
+    "6966@14",
+    "16048@17",
+    "20134@17",
+    "23692@16",
+    "50439@14",
+    "1937111@14",
+    "1940814@14",
+    "1947999@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

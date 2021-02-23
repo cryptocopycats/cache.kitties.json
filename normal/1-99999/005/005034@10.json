@@ -1,0 +1,21 @@
+{
+  "id": 5034,
+  "name": "Chocolate Orange",
+  "generation": 10,
+  "created_at": "2017-11-24T16:11:12.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Chocolate Orange. I've never told anyone this, but I once pawed at a dog. I once dreamed of being a Ventriloquist. Now I can be found prank-calling celebrities all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4125@5",
+  "sire": "3769@9",
+  "children": [
+    "5241@11",
+    "5278@11",
+    "5935@12",
+    "7717@12",
+    "9438@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 4064,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T05:01:28.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #4064. I want to live in a world where people believe the world is flat. I would give it all up to be on Oprah. Will you be the marmite to my marmalade?",
+  "language": "en",
+  "matron": "3522@5",
+  "sire": "3703@6",
+  "children": [
+    "5392@14",
+    "17449@13",
+    "50107@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

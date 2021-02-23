@@ -1,0 +1,25 @@
+{
+  "id": 6119,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T02:14:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #6119. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Coldplay. I like your face.",
+  "language": "en",
+  "matron": "5200@11",
+  "sire": "5623@8",
+  "children": [
+    "6478@13",
+    "6828@13",
+    "6953@13",
+    "7968@17",
+    "9166@15",
+    "19524@17",
+    "22986@17",
+    "94186@17",
+    "366501@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

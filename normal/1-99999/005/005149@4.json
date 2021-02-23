@@ -1,0 +1,25 @@
+{
+  "id": 5149,
+  "name": "White Gener G4",
+  "generation": 4,
+  "created_at": "2017-11-24T17:52:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! My name's White Gener G4. I once peed on Cleopatra's cat. They had it coming. Some people say I'm the Steve Urkel of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3684@2",
+  "sire": "3691@3",
+  "children": [
+    "10615@5",
+    "10695@9",
+    "10722@5",
+    "10885@5",
+    "11166@9",
+    "11882@12",
+    "14672@13",
+    "18560@12",
+    "26382@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

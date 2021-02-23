@@ -1,0 +1,24 @@
+{
+  "id": 5724,
+  "name": "G7 | Eye Parent | Slow",
+  "generation": 7,
+  "created_at": "2017-11-24T23:04:41.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm G7 | Eye Parent | Slow. In high school, I was voted school jock. I once got in a fight with a goose, and won. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "4289@6",
+  "sire": "5339@3",
+  "children": [
+    "5794@8",
+    "5851@8",
+    "10509@8",
+    "11824@8",
+    "16490@8",
+    "20753@8",
+    "25171@8",
+    "53346@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5310,
+  "name": "Gen 9 Awesome Genes!",
+  "generation": 9,
+  "created_at": "2017-11-24T19:25:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 9 Awesome Genes!. My friends describe me as wondrous and raunchy. Some people say I'm the Bart Simpson of the group. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "4950@7",
+  "sire": "3900@8",
+  "children": [
+    "5783@10",
+    "6220@12",
+    "8530@13",
+    "15062@10",
+    "15606@12",
+    "22742@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

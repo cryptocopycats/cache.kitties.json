@@ -1,0 +1,19 @@
+{
+  "id": 4827,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T11:38:07.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #4827. I'm a professional Foreign Film Director and I love salad. I put garlic butter on everything. Like, everything: hot dogs, apple pie—everything! Will you be the marmite to my wasabi?",
+  "language": "en",
+  "matron": "3226@2",
+  "sire": "4137@7",
+  "children": [
+    "5020@9",
+    "5625@9",
+    "696368@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

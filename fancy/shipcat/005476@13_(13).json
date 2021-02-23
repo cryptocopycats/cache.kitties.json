@@ -1,0 +1,31 @@
+{
+  "id": 5476,
+  "name": "Purebred #13 Gen 13!!",
+  "generation": 13,
+  "created_at": "2017-11-24T20:53:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Purebred #13 Gen 13!!. I enjoy eating until I loathe myself, riding dirty, and slappin' da bass. I would give it all up to star in a soap opera. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "5017@12",
+  "sire": "5018@6",
+  "children": [
+    "6837@14",
+    "7353@14",
+    "7612@14",
+    "7863@14",
+    "9266@14",
+    "13149@14",
+    "61542@15",
+    "319262@15",
+    "449938@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 13,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

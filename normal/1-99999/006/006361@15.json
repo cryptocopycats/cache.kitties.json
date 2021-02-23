@@ -1,0 +1,20 @@
+{
+  "id": 6361,
+  "name": "6361",
+  "generation": 15,
+  "created_at": "2017-11-25T04:20:27.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm 6361. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "5269@12",
+  "sire": "5848@14",
+  "children": [
+    "17249@16",
+    "27135@17",
+    "39567@16",
+    "79983@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6453,
+  "name": "Socks",
+  "generation": 16,
+  "created_at": "2017-11-25T05:14:15.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Socks. In high school, I was voted most likely to work at NASA. I would give it all up to be on Oprah. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5806@15",
+  "sire": "2524@0",
+  "children": [
+    "10598@17",
+    "21858@17",
+    "94348@17",
+    "240730@18",
+    "450363@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

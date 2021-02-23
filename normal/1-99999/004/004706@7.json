@@ -1,0 +1,19 @@
+{
+  "id": 4706,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T10:15:43.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #4706. I've never told anyone this, but I once licked a dog. In my free time, I can usually be found annoying or swiping left. Our friendship will be hairy, wondrous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "3708@6",
+  "sire": "3084@4",
+  "children": [
+    "4951@12",
+    "5026@14",
+    "5184@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

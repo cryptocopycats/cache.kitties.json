@@ -1,0 +1,23 @@
+{
+  "id": 5444,
+  "name": "Spaghetti",
+  "generation": 11,
+  "created_at": "2017-11-24T20:32:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Spaghetti. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5182@10",
+  "sire": "5183@9",
+  "children": [
+    "5894@12",
+    "5966@14",
+    "8673@12",
+    "10019@19",
+    "54684@12",
+    "98652@12",
+    "104461@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5968,
+  "name": "Dirty Lemon",
+  "generation": 6,
+  "created_at": "2017-11-25T01:02:29.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Dirty Lemon. I'm often referred to as the Bart Simpson of the group. In my free time, I can usually be found seductive or watching reality tv. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5927@1",
+  "sire": "3432@5",
+  "children": [
+    "11574@11",
+    "14300@7",
+    "14331@7",
+    "39757@10",
+    "50845@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

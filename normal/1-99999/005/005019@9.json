@@ -1,0 +1,19 @@
+{
+  "id": 5019,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T15:59:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #5019. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "4939@8",
+  "sire": "4990@6",
+  "children": [
+    "5280@13",
+    "5833@12",
+    "19124@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

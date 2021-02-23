@@ -1,0 +1,23 @@
+{
+  "id": 4609,
+  "name": "4609 Historic",
+  "generation": 7,
+  "created_at": "2017-11-24T09:09:02.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm 4609 Historic. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is ice cream. I like your face.",
+  "language": "en",
+  "matron": "3873@5",
+  "sire": "3663@6",
+  "children": [
+    "4629@12",
+    "4681@13",
+    "4989@9",
+    "34333@8",
+    "100848@10",
+    "1101620@10",
+    "1120388@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

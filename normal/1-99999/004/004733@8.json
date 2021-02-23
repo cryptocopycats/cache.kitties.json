@@ -1,0 +1,18 @@
+{
+  "id": 4733,
+  "name": "Pistache Creamo",
+  "generation": 8,
+  "created_at": "2017-11-24T10:37:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Pistache Creamo. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "4435@7",
+  "sire": "3259@1",
+  "children": [
+    "5921@9",
+    "7377@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

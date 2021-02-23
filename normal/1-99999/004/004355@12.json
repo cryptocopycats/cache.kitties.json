@@ -1,0 +1,21 @@
+{
+  "id": 4355,
+  "name": "Amethyst tongue",
+  "generation": 12,
+  "created_at": "2017-11-24T06:58:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Amethyst tongue. I enjoy slappin' da bass, tricking babies, and picking on mice. When no one's home, I invite my pals over and we listen to Coldplay. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4101@11",
+  "sire": "3292@2",
+  "children": [
+    "4628@13",
+    "5093@13",
+    "6333@14",
+    "8394@13",
+    "21966@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

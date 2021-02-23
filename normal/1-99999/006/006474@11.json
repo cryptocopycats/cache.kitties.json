@@ -1,0 +1,23 @@
+{
+  "id": 6474,
+  "name": "6474",
+  "generation": 11,
+  "created_at": "2017-11-25T05:26:37.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm 6474. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found preposterous or riverdancing. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5775@10",
+  "sire": "5981@10",
+  "children": [
+    "7703@12",
+    "11942@14",
+    "12554@13",
+    "14315@12",
+    "22008@14",
+    "28915@14",
+    "85288@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

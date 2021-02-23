@@ -1,0 +1,21 @@
+{
+  "id": 5297,
+  "name": "TSwift",
+  "generation": 10,
+  "created_at": "2017-11-24T19:20:16.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm TSwift. I'm often referred to as the Homer Simpson of the group. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4170@9",
+  "sire": "4320@8",
+  "children": [
+    "6231@13",
+    "10611@11",
+    "125956@11",
+    "147252@11",
+    "187695@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

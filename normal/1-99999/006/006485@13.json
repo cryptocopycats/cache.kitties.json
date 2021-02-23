@@ -1,0 +1,22 @@
+{
+  "id": 6485,
+  "name": "LimeGreen Calicool",
+  "generation": 13,
+  "created_at": "2017-11-25T05:36:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm LimeGreen Calicool. All you need to know about me is I hate hamburgers with a passion. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6144@10",
+  "sire": "5465@12",
+  "children": [
+    "6675@14",
+    "13435@14",
+    "39826@14",
+    "89259@16",
+    "231197@17",
+    "242400@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

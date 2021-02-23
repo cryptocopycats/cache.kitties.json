@@ -1,0 +1,26 @@
+{
+  "id": 3999,
+  "name": "Grapefruit",
+  "generation": 5,
+  "created_at": "2017-11-24T04:34:40.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Grapefruit. I want to live in a world where people believe the world is flat. Some people say I'm the Steve Urkel of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3468@4",
+  "sire": "1234@0",
+  "children": [
+    "4083@6",
+    "4149@13",
+    "4225@8",
+    "4495@10",
+    "4734@13",
+    "4959@11",
+    "210198@6",
+    "338749@6",
+    "403711@7",
+    "448990@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

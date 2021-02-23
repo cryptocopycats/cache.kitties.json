@@ -1,0 +1,20 @@
+{
+  "id": 3777,
+  "name": "Zoinks {E}",
+  "generation": 5,
+  "created_at": "2017-11-24T03:02:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Zoinks {E}. I'm a professional Private Dancer  and I love chocolate. I would give it all up for a Chanel purse. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "3563@1",
+  "sire": "3763@4",
+  "children": [
+    "3925@6",
+    "8992@6",
+    "19931@6",
+    "76843@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

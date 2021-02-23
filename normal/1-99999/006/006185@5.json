@@ -1,0 +1,27 @@
+{
+  "id": 6185,
+  "name": "Beard",
+  "generation": 5,
+  "created_at": "2017-11-25T02:51:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Beard. I believe the world is flat. Some people say I'm the Marge Simpson of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6120@4",
+  "sire": "6159@2",
+  "children": [
+    "6321@9",
+    "6442@8",
+    "16767@11",
+    "19397@15",
+    "25987@16",
+    "29599@18",
+    "45265@18",
+    "52597@18",
+    "131114@6",
+    "336510@8",
+    "387543@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

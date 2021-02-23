@@ -1,0 +1,23 @@
+{
+  "id": 5552,
+  "name": "Purple Nurple",
+  "generation": 2,
+  "created_at": "2017-11-24T21:30:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Purple Nurple. I enjoy fighting the patriarchy, sweating through my feet, and eating lasagna. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "1498@0",
+  "sire": "3199@1",
+  "children": [
+    "5579@13",
+    "5657@11",
+    "5714@11",
+    "5774@9",
+    "5931@13",
+    "6424@13",
+    "36008@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

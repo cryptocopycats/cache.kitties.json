@@ -1,0 +1,26 @@
+{
+  "id": 3867,
+  "name": "3867",
+  "generation": 5,
+  "created_at": "2017-11-24T03:42:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm 3867. I've never told anyone this, but I once bit a dog. I like to listen to Frank Sinatra while grooming. Don't judge me. Our friendship will be seductive, hairy, and full of chocolate.",
+  "language": "en",
+  "matron": "3018@2",
+  "sire": "3746@4",
+  "children": [
+    "3975@6",
+    "4017@6",
+    "4087@7",
+    "4252@6",
+    "5550@6",
+    "6529@6",
+    "21131@6",
+    "22681@6",
+    "75300@7",
+    "188984@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

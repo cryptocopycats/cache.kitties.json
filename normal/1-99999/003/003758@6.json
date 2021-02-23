@@ -1,0 +1,19 @@
+{
+  "id": 3758,
+  "name": "Pawtucket Pete",
+  "generation": 6,
+  "created_at": "2017-11-24T02:51:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Pawtucket Pete. I'm a professional Spin Instructor  and I love cantaloupe. My friends describe me as \"preposterous.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "1433@0",
+  "sire": "3586@5",
+  "children": [
+    "3814@7",
+    "53821@7",
+    "110424@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

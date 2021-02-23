@@ -1,0 +1,22 @@
+{
+  "id": 5161,
+  "name": "Turtle",
+  "generation": 9,
+  "created_at": "2017-11-24T17:58:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! Turtle here. I'm here to enjoy reading garfield and tricking babies. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4912@8",
+  "sire": "4821@7",
+  "children": [
+    "11922@15",
+    "12106@16",
+    "14368@10",
+    "33781@10",
+    "67499@10",
+    "217837@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

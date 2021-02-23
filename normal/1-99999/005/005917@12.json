@@ -1,0 +1,21 @@
+{
+  "id": 5917,
+  "name": "G12 | Stock",
+  "generation": 12,
+  "created_at": "2017-11-25T00:43:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm G12 | Stock. I'm often referred to as the Lisa Simpson of the group. When no one's home, I invite my pals over and we listen to Coldplay. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5535@11",
+  "sire": "1006@0",
+  "children": [
+    "7018@13",
+    "7158@13",
+    "12622@14",
+    "17432@17",
+    "51327@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

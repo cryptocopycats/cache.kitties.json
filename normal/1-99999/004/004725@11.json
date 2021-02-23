@@ -1,0 +1,21 @@
+{
+  "id": 4725,
+  "name": "Brownie",
+  "generation": 11,
+  "created_at": "2017-11-24T10:30:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's Brownie. I once peed on Princess Diana's cat. They had it coming. I once frolicked with a goose. I don't like to talk about it. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "4599@2",
+  "sire": "4661@10",
+  "children": [
+    "4763@12",
+    "5269@12",
+    "6587@12",
+    "37812@14",
+    "60621@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

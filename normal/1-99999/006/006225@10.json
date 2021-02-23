@@ -1,0 +1,18 @@
+{
+  "id": 6225,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T03:04:14.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #6225. I enjoy eating until I loathe myself, glaring at the neighbour's cat, and slappin' da bass. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4730@9",
+  "sire": "3002@1",
+  "children": [
+    "6863@11",
+    "8254@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

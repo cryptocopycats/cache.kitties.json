@@ -1,0 +1,20 @@
+{
+  "id": 4520,
+  "name": "Aszo 阿蘇山 great-parent #1234",
+  "generation": 12,
+  "created_at": "2017-11-24T08:23:03.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Aszo 阿蘇山 great-parent #1234. I'm often referred to as the Marge Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4094@11",
+  "sire": "4079@10",
+  "children": [
+    "4865@13",
+    "39183@14",
+    "116194@13",
+    "286260@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

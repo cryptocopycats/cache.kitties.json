@@ -1,0 +1,22 @@
+{
+  "id": 5256,
+  "name": "Bug Eyes",
+  "generation": 11,
+  "created_at": "2017-11-24T18:59:06.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Bug Eyes. My friends describe me as hairy and gorgeous. When I'm not practicing witchcraft, I'm people-watching! I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "5167@9",
+  "sire": "4793@10",
+  "children": [
+    "5466@12",
+    "5503@12",
+    "6228@12",
+    "18229@12",
+    "18967@12",
+    "42687@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5600,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T21:54:18.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! Kitty #5600 here. I'm here to enjoy taking selfies and picking flowers. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found reading Danielle Steele all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4481@11",
+  "sire": "4726@9",
+  "children": [
+    "7047@14",
+    "8349@14",
+    "14418@18",
+    "18446@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

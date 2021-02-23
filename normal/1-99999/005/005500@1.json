@@ -1,0 +1,23 @@
+{
+  "id": 5500,
+  "name": "Kittypad #5500",
+  "generation": 1,
+  "created_at": "2017-11-24T21:05:09.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kittypad #5500. I'm a professional Private Dancer  and I love steak. When I'm not talking about how much I lift, I'm riverdancing! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1184@0",
+  "sire": "1145@0",
+  "children": [
+    "5684@2",
+    "21008@2",
+    "21272@11",
+    "21355@2",
+    "471062@2",
+    "487488@2",
+    "560386@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

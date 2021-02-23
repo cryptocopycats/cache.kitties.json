@@ -1,0 +1,23 @@
+{
+  "id": 3730,
+  "name": "Kutie",
+  "generation": 8,
+  "created_at": "2017-11-24T02:39:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kutie. In high school, I was voted most likely to work at NASA. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3547@7",
+  "sire": "3033@1",
+  "children": [
+    "3753@9",
+    "4115@9",
+    "6829@11",
+    "9088@13",
+    "10009@12",
+    "16037@9",
+    "22544@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6025,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-25T01:32:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #6025. In high school, I was voted biggest teacher's pet. I'm often described as vegan, and I own it. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "2658@0",
+  "sire": "5853@7",
+  "children": [
+    "6100@9",
+    "9972@11",
+    "30027@9",
+    "52858@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

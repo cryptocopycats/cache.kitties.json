@@ -1,0 +1,19 @@
+{
+  "id": 6484,
+  "name": "Donegal Spirit",
+  "generation": 12,
+  "created_at": "2017-11-25T05:34:06.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Donegal Spirit. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Ace of Base. Will you be the maple syrup to my marmite?",
+  "language": "en",
+  "matron": "6432@8",
+  "sire": "6435@11",
+  "children": [
+    "6606@13",
+    "7675@13",
+    "13121@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

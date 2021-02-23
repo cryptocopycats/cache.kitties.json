@@ -1,0 +1,24 @@
+{
+  "id": 3752,
+  "name": "Bob",
+  "generation": 2,
+  "created_at": "2017-11-24T02:49:30.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Bob. I want to live in a world where people believe the world is flat. I once snuggled a platypus. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1069@0",
+  "sire": "3034@1",
+  "children": [
+    "3798@4",
+    "3838@6",
+    "4051@6",
+    "4127@3",
+    "4444@8",
+    "6399@9",
+    "6576@8",
+    "7516@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

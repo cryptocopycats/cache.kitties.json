@@ -1,0 +1,19 @@
+{
+  "id": 4291,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T06:41:06.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #4291. My friends describe me as raunchy and prickly. When I'm not riding the bus, I'm prank-calling celebrities! I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "3277@3",
+  "sire": "3929@7",
+  "children": [
+    "4477@9",
+    "5189@10",
+    "10827@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

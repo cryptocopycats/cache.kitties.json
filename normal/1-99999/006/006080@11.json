@@ -1,0 +1,23 @@
+{
+  "id": 6080,
+  "name": "LSD",
+  "generation": 11,
+  "created_at": "2017-11-25T02:00:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm LSD. I believe the world is flat. I would give it all up to star in a soap opera. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4807@9",
+  "sire": "5912@10",
+  "children": [
+    "6759@12",
+    "7191@12",
+    "7894@13",
+    "11389@13",
+    "12601@14",
+    "15235@12",
+    "32367@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

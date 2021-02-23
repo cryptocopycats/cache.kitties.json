@@ -1,0 +1,20 @@
+{
+  "id": 5573,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T21:39:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #5573. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Let's pawty!",
+  "language": "en",
+  "matron": "4267@6",
+  "sire": "5309@7",
+  "children": [
+    "5887@12",
+    "6265@9",
+    "12806@12",
+    "12807@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

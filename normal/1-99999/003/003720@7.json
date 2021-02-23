@@ -1,0 +1,25 @@
+{
+  "id": 3720,
+  "name": "Flashy",
+  "generation": 7,
+  "created_at": "2017-11-24T02:33:40.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Flashy. I'm often referred to as the Ron Weasley of the group. When no one's home, I invite my pals over and we listen to Gloria Estefan. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3653@4",
+  "sire": "3205@6",
+  "children": [
+    "3773@10",
+    "3861@8",
+    "4233@8",
+    "4563@8",
+    "5487@11",
+    "8296@12",
+    "9821@16",
+    "13016@10",
+    "21542@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

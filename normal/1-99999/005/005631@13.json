@@ -1,0 +1,19 @@
+{
+  "id": 5631,
+  "name": "Shadow",
+  "generation": 13,
+  "created_at": "2017-11-24T22:10:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Shadow. I'm often referred to as the Marge Simpson of the group. I once clawed a dog. I don't like to talk about it. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "4769@12",
+  "sire": "4081@8",
+  "children": [
+    "6800@14",
+    "11692@15",
+    "16442@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

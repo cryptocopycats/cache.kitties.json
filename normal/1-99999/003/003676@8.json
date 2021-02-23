@@ -1,0 +1,21 @@
+{
+  "id": 3676,
+  "name": "Pika Tesla",
+  "generation": 8,
+  "created_at": "2017-11-24T02:11:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Pika Tesla. I'm a Culinary Sanitation Specialist by day, and I like riding the bus by night. I once dreamed of being a Dispensary Clerk. Now I can be found practicing witchcraft all day. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "3591@4",
+  "sire": "3659@7",
+  "children": [
+    "3748@9",
+    "3894@9",
+    "38822@9",
+    "39790@14",
+    "52281@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5706,
+  "name": "Mr. Snuggles",
+  "generation": 13,
+  "created_at": "2017-11-24T22:56:50.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Mr. Snuggles. All you need to know about me is I hate chocolate with a passion. I once got in a fight with a platypus, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5466@12",
+  "sire": "5484@1",
+  "children": [
+    "36007@15",
+    "38739@16",
+    "59024@14",
+    "81040@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

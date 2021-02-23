@@ -1,0 +1,17 @@
+{
+  "id": 5673,
+  "name": "www.kittyhats.co",
+  "generation": 12,
+  "created_at": "2017-11-24T22:36:46.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm www.kittyhats.co. I'm often referred to as the Ross Geller of the group. I once dreamed of being a Ventriloquist. Now I can be found summoning ghosts all day. I like your face.",
+  "language": "en",
+  "matron": "5646@3",
+  "sire": "5657@11",
+  "children": [
+    "6167@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

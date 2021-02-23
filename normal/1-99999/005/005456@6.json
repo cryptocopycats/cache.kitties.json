@@ -1,0 +1,23 @@
+{
+  "id": 5456,
+  "name": "Gen 6 Simple Happy",
+  "generation": 6,
+  "created_at": "2017-11-24T20:38:50.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Gen 6 Simple Happy. I once peed on Amelia Earhart's cat. They had it coming. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": "3729@5",
+  "sire": "1075@0",
+  "children": [
+    "5511@9",
+    "7607@7",
+    "7681@7",
+    "8079@7",
+    "8501@16",
+    "35798@7",
+    "53070@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

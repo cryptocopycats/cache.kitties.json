@@ -1,0 +1,22 @@
+{
+  "id": 6311,
+  "name": "Blues",
+  "generation": 13,
+  "created_at": "2017-11-25T03:50:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! My name's Blues. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Samwise Gamgee of the group. Our friendship will be gorgeous, annoying, and full of chocolate.",
+  "language": "en",
+  "matron": "5936@12",
+  "sire": "4644@7",
+  "children": [
+    "9714@16",
+    "13089@15",
+    "15348@14",
+    "58601@21",
+    "81997@17",
+    "125735@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

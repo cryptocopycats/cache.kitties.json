@@ -1,0 +1,22 @@
+{
+  "id": 3907,
+  "name": "Meowsosito",
+  "generation": 10,
+  "created_at": "2017-11-24T03:57:22.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Meowsosito. I've never told anyone this, but I once frolicked with a dog. I am 92% hobbit, 34% Culinary Sanitation Specialist, and otherwise bad at math. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "3882@5",
+  "sire": "3883@9",
+  "children": [
+    "4005@11",
+    "5585@11",
+    "6464@11",
+    "15856@11",
+    "56516@11",
+    "88571@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

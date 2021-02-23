@@ -1,0 +1,26 @@
+{
+  "id": 5943,
+  "name": "Brisk | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-25T00:54:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Brisk | Gen 3. I'm a Train Conductor by day, and I like swiping right by night. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2030@0",
+  "sire": "5388@2",
+  "children": [
+    "9901@6",
+    "10324@4",
+    "14686@4",
+    "18684@4",
+    "26288@4",
+    "26913@4",
+    "30210@4",
+    "34095@4",
+    "34607@4",
+    "69170@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

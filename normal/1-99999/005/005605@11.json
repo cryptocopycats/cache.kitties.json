@@ -1,0 +1,19 @@
+{
+  "id": 5605,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T21:57:11.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #5605. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be annoying, wondrous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "4615@8",
+  "sire": "5123@10",
+  "children": [
+    "6476@12",
+    "7912@12",
+    "8260@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4151,
+  "name": "Old Boy",
+  "generation": 6,
+  "created_at": "2017-11-24T05:46:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Old Boy. In high school, I was voted school jock. Sometimes I daydream of a life full of picking on mice, steak, and practicing witchcraft. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4097@5",
+  "sire": "3687@5",
+  "children": [
+    "4189@8",
+    "4298@7",
+    "4460@11",
+    "4660@7",
+    "31075@7",
+    "41032@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

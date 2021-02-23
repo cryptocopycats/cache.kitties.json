@@ -1,0 +1,20 @@
+{
+  "id": 5878,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-25T00:28:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Kitty #5878. I'm a Dogwalker by day, and I like running a podcast by night. My friends describe me as \"despicable.\" It's... accurate. Will you be the marmite to my peanut butter?",
+  "language": "en",
+  "matron": "4131@5",
+  "sire": "5033@1",
+  "children": [
+    "5973@11",
+    "6010@7",
+    "6456@11",
+    "9029@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

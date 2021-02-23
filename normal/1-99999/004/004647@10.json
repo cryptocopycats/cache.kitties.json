@@ -1,0 +1,22 @@
+{
+  "id": 4647,
+  "name": "Pancake",
+  "generation": 10,
+  "created_at": "2017-11-24T09:35:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! Pancake here. I'm here to enjoy riding dirty and reciting poetry. Some people say I'm the Lisa Simpson of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3707@7",
+  "sire": "4439@9",
+  "children": [
+    "4836@11",
+    "13646@13",
+    "21907@15",
+    "25927@20",
+    "43663@17",
+    "77125@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

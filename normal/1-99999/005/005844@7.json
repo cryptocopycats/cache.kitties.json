@@ -1,0 +1,20 @@
+{
+  "id": 5844,
+  "name": "G7 Brisk Jr",
+  "generation": 7,
+  "created_at": "2017-11-25T00:09:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! My name's G7 Brisk Jr. I once peed on Nelson Mandela's cat. They had it coming. Some people say I'm the Homer Simpson of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5797@6",
+  "sire": "3111@2",
+  "children": [
+    "10325@14",
+    "10492@16",
+    "13654@16",
+    "56761@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

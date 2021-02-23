@@ -1,0 +1,23 @@
+{
+  "id": 5609,
+  "name": "Seal cat",
+  "generation": 11,
+  "created_at": "2017-11-24T21:58:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Seal cat. I'm a professional Skydiving Instructor and I love steak. When no one's home, I invite my pals over and we listen to Frank Sinatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4214@7",
+  "sire": "5068@10",
+  "children": [
+    "11750@12",
+    "11866@12",
+    "12652@12",
+    "14882@12",
+    "20223@12",
+    "50907@12",
+    "117711@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

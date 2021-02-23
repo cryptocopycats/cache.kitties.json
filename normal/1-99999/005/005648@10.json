@@ -1,0 +1,20 @@
+{
+  "id": 5648,
+  "name": "Jan",
+  "generation": 10,
+  "created_at": "2017-11-24T22:21:06.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Jan. All you need to know about me is I hate hamburgers with a passion. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4042@7",
+  "sire": "5435@9",
+  "children": [
+    "5748@11",
+    "6030@12",
+    "7384@11",
+    "16778@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3830,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-24T03:28:35.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #3830. I want to live in a world where people believe the world is flat. I once groomed a rabbit. I don't like to talk about it. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "1003@0",
+  "sire": "3723@6",
+  "children": [
+    "3855@8",
+    "3962@8",
+    "4077@8",
+    "4911@8",
+    "26916@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

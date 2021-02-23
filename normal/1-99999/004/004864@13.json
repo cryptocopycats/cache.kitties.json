@@ -1,0 +1,22 @@
+{
+  "id": 4864,
+  "name": "4864",
+  "generation": 13,
+  "created_at": "2017-11-24T12:26:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 4864. I'm a Skydiving Instructor by day, and I like riding the bus by night. Some people say I'm the Ross Geller of the group. Let's pawty!",
+  "language": "en",
+  "matron": "4656@12",
+  "sire": "4536@11",
+  "children": [
+    "4885@14",
+    "5051@14",
+    "5480@14",
+    "6915@14",
+    "8124@14",
+    "66417@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

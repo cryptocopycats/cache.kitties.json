@@ -1,0 +1,24 @@
+{
+  "id": 5718,
+  "name": "White beard",
+  "generation": 9,
+  "created_at": "2017-11-24T23:00:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm White beard. I believe the world is flat. I like to listen to Frank Sinatra while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "5555@8",
+  "sire": "5655@6",
+  "children": [
+    "5775@10",
+    "9812@15",
+    "9925@15",
+    "10289@14",
+    "11242@15",
+    "15610@12",
+    "21468@14",
+    "43169@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

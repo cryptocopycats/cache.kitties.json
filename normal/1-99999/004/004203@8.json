@@ -1,0 +1,25 @@
+{
+  "id": 4203,
+  "name": "Ruby the Serious Tiger",
+  "generation": 8,
+  "created_at": "2017-11-24T06:09:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Ruby the Serious Tiger. I'm a professional Train Conductor and I love wet food. I am 67% oracle, 86% Skydiving Instructor, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4092@7",
+  "sire": "3906@6",
+  "children": [
+    "4297@9",
+    "4469@9",
+    "9841@18",
+    "9979@17",
+    "11442@20",
+    "14180@18",
+    "21611@20",
+    "32376@9",
+    "381385@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

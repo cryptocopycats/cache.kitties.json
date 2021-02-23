@@ -1,0 +1,22 @@
+{
+  "id": 5051,
+  "name": "Wutang",
+  "generation": 14,
+  "created_at": "2017-11-24T16:30:55.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Wutang. All you need to know about me is I hate hamburgers with a passion. When no one's home, I invite my pals over and we listen to Wutang. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4482@4",
+  "sire": "4864@13",
+  "children": [
+    "5709@15",
+    "5922@15",
+    "8077@15",
+    "9558@15",
+    "18727@15",
+    "193302@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

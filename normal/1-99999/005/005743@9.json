@@ -1,0 +1,24 @@
+{
+  "id": 5743,
+  "name": "Otaku #10",
+  "generation": 9,
+  "created_at": "2017-11-24T23:20:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Otaku #10. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found ridiculous or siring for status. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4461@3",
+  "sire": "5030@8",
+  "children": [
+    "5814@10",
+    "6802@15",
+    "6968@12",
+    "7178@12",
+    "7899@13",
+    "8735@16",
+    "9834@10",
+    "10039@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

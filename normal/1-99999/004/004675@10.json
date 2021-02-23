@@ -1,0 +1,19 @@
+{
+  "id": 4675,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T09:53:50.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #4675. My friends describe me as petulant and gullible. I was voted biggest teacher's pet in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3960@8",
+  "sire": "4467@9",
+  "children": [
+    "4891@12",
+    "39724@11",
+    "78529@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3950,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T04:12:21.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's Kitty #3950. I once peed on John F. Kennedy Jr.'s cat. They had it coming. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "3409@7",
+  "sire": "3794@2",
+  "children": [
+    "4164@9",
+    "4537@9",
+    "4876@13",
+    "5780@10",
+    "7053@9",
+    "16425@9",
+    "26990@10",
+    "57353@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

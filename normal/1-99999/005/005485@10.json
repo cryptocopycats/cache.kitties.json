@@ -1,0 +1,20 @@
+{
+  "id": 5485,
+  "name": "Satoshi's Cat",
+  "generation": 10,
+  "created_at": "2017-11-24T20:58:36.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Satoshi's Cat. In high school, I was voted most likely to work at NASA. I'm often described as raunchy, and I own it. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "3567@6",
+  "sire": "5023@9",
+  "children": [
+    "5572@11",
+    "6317@11",
+    "7410@11",
+    "8761@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

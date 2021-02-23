@@ -1,0 +1,20 @@
+{
+  "id": 4330,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T06:53:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #4330. I've never told anyone this, but I once snuggled a dog. I would give it all up for a Chanel purse. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "3995@11",
+  "sire": "4091@9",
+  "children": [
+    "4637@13",
+    "5361@13",
+    "8061@13",
+    "23450@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

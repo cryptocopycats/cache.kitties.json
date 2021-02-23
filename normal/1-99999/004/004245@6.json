@@ -1,0 +1,21 @@
+{
+  "id": 4245,
+  "name": "Banana Toothpaste",
+  "generation": 6,
+  "created_at": "2017-11-24T06:23:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Banana Toothpaste. I'm a professional Foreign Film Director and I love apple pie. My great-great-great-great-great-great grandkitty lived with King Henry VIII. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3817@3",
+  "sire": "4139@5",
+  "children": [
+    "7558@7",
+    "7722@8",
+    "20549@7",
+    "21251@7",
+    "24411@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

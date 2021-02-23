@@ -1,0 +1,22 @@
+{
+  "id": 4488,
+  "name": "DirtyBoy",
+  "generation": 10,
+  "created_at": "2017-11-24T07:57:53.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm DirtyBoy. I want to live in a world where people believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3677@3",
+  "sire": "4119@9",
+  "children": [
+    "21143@11",
+    "23459@13",
+    "24196@19",
+    "27771@11",
+    "38103@11",
+    "66053@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

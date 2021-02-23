@@ -1,0 +1,19 @@
+{
+  "id": 6329,
+  "name": "Bluegreen",
+  "generation": 9,
+  "created_at": "2017-11-25T03:59:28.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Bluegreen. I'm a professional Ventriloquist and I love ice cream. When no one's home, I invite my pals over and we listen to Mariah Carey. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3500@6",
+  "sire": "3599@8",
+  "children": [
+    "7412@15",
+    "7764@11",
+    "16212@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

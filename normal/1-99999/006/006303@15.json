@@ -1,0 +1,18 @@
+{
+  "id": 6303,
+  "name": "Testudina",
+  "generation": 15,
+  "created_at": "2017-11-25T03:46:04.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Testudina. In high school, I was voted most likely to work at NASA. Some people say I'm the Michael Scott of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "6170@11",
+  "sire": "6150@14",
+  "children": [
+    "6700@16",
+    "7862@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

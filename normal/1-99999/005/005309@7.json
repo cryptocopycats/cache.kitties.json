@@ -1,0 +1,21 @@
+{
+  "id": 5309,
+  "name": "Sinderella Purrz",
+  "generation": 7,
+  "created_at": "2017-11-24T19:23:06.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Sinderella Purrz. I enjoy reciting poetry, breakdancing, and reading garfield. I am 42% sphinx, 62% Private Dancer , and otherwise bad at math. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "1219@0",
+  "sire": "4502@6",
+  "children": [
+    "5494@8",
+    "5573@8",
+    "52473@16",
+    "148329@8",
+    "151596@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

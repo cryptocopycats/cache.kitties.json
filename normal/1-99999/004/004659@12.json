@@ -1,0 +1,19 @@
+{
+  "id": 4659,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T09:46:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #4659. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4209@3",
+  "sire": "4589@11",
+  "children": [
+    "4750@13",
+    "6607@13",
+    "7185@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3905,
+  "name": "Pineapple Sauces",
+  "generation": 6,
+  "created_at": "2017-11-24T03:56:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Pineapple Sauces. My friends describe me as tantalizing and seductive. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can you make my stinky dreams come true?",
+  "language": "en",
+  "matron": "3194@2",
+  "sire": "3527@5",
+  "children": [
+    "3942@7",
+    "4169@9",
+    "9317@7",
+    "12737@10",
+    "15345@13",
+    "44466@10",
+    "52409@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

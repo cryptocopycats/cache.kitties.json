@@ -1,0 +1,22 @@
+{
+  "id": 3662,
+  "name": "Pumpkin n Spice",
+  "generation": 5,
+  "created_at": "2017-11-24T02:01:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Pumpkin n Spice. I'm a professional Aerobics Athlete  and I love cereal. I once made a dog drink. Let's pawty!",
+  "language": "en",
+  "matron": "3503@4",
+  "sire": "1272@0",
+  "children": [
+    "3782@6",
+    "15809@8",
+    "16366@16",
+    "22434@18",
+    "62880@13",
+    "171491@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

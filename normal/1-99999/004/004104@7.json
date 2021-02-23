@@ -1,0 +1,23 @@
+{
+  "id": 4104,
+  "name": "Chocolate bread",
+  "generation": 7,
+  "created_at": "2017-11-24T05:23:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Chocolate bread. In high school, I was voted school jock. I put peanut butter on everything. Like, everything: hot dogs, ice cream—everything! Our friendship will be vegan, smelly, and full of apple pie.",
+  "language": "en",
+  "matron": "3922@6",
+  "sire": "1242@0",
+  "children": [
+    "4249@8",
+    "5030@8",
+    "5373@11",
+    "5379@11",
+    "6409@15",
+    "8033@15",
+    "22627@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

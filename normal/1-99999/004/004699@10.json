@@ -1,0 +1,24 @@
+{
+  "id": 4699,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T10:10:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Kitty #4699 here. I'm here to enjoy riding unicorns and watching Stranger Things. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "4157@7",
+  "sire": "4501@9",
+  "children": [
+    "4928@14",
+    "4954@11",
+    "7092@11",
+    "15086@15",
+    "20733@15",
+    "23740@15",
+    "30614@17",
+    "78470@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

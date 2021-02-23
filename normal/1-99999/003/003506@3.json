@@ -1,0 +1,18 @@
+{
+  "id": 3506,
+  "name": "gen3 snappy",
+  "generation": 3,
+  "created_at": "2017-11-24T00:45:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm gen3 snappy. I'm often referred to as the Ross Geller of the group. My great-great-great-great-great-great grandkitty lived with Princess Diana. Let's pawty!",
+  "language": "en",
+  "matron": "3164@1",
+  "sire": "3294@2",
+  "children": [
+    "3588@4",
+    "6706@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

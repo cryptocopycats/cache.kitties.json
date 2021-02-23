@@ -1,0 +1,21 @@
+{
+  "id": 5541,
+  "name": "Trash Panda",
+  "generation": 12,
+  "created_at": "2017-11-24T21:29:33.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's Trash Panda. I once peed on Martin Luther King Jr.'s cat. They had it coming. My friends describe me as \"preposterous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3570@5",
+  "sire": "5168@11",
+  "children": [
+    "6965@13",
+    "7494@13",
+    "7711@13",
+    "12112@16",
+    "12882@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

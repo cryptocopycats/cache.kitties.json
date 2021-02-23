@@ -1,0 +1,24 @@
+{
+  "id": 3680,
+  "name": "Cat Stevens",
+  "generation": 8,
+  "created_at": "2017-11-24T02:13:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Cat Stevens here. I'm here to enjoy reciting poetry and spinning sick beats. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "3650@4",
+  "sire": "3544@7",
+  "children": [
+    "3769@9",
+    "4044@9",
+    "4938@9",
+    "5091@9",
+    "5474@9",
+    "8200@9",
+    "9757@14",
+    "27239@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

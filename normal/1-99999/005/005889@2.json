@@ -1,0 +1,25 @@
+{
+  "id": 5889,
+  "name": "Gen 2 | Rare Traits",
+  "generation": 2,
+  "created_at": "2017-11-25T00:31:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 2 | Rare Traits. I'm often referred to as the Hermione Granger of the group. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "2030@0",
+  "sire": "3017@1",
+  "children": [
+    "5974@8",
+    "6000@7",
+    "9926@12",
+    "15466@7",
+    "15678@4",
+    "36889@9",
+    "39886@11",
+    "48731@12",
+    "70632@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

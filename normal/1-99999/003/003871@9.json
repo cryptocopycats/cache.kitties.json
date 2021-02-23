@@ -1,0 +1,23 @@
+{
+  "id": 3871,
+  "name": "Coffee",
+  "generation": 9,
+  "created_at": "2017-11-24T03:43:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Coffee. I once peed on Marie Antoinette's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "3599@8",
+  "sire": "3616@6",
+  "children": [
+    "4999@10",
+    "5112@10",
+    "5678@10",
+    "14182@10",
+    "17025@10",
+    "22104@17",
+    "41756@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

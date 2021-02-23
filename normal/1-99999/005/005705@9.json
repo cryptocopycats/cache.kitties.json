@@ -1,0 +1,18 @@
+{
+  "id": 5705,
+  "name": "Boom Cat",
+  "generation": 9,
+  "created_at": "2017-11-24T22:56:05.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Boom Cat. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of grooming, chocolate, and sleeping in fresh laundry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4889@4",
+  "sire": "4896@8",
+  "children": [
+    "5969@11",
+    "133144@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

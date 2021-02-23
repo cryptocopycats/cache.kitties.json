@@ -1,0 +1,22 @@
+{
+  "id": 6160,
+  "name": "Hobbes",
+  "generation": 14,
+  "created_at": "2017-11-25T02:36:44.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Hobbes. I'm a professional Dispensary Clerk and I love apple pie. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5382@9",
+  "sire": "5522@13",
+  "children": [
+    "7701@15",
+    "11251@16",
+    "15284@17",
+    "24499@15",
+    "157527@15",
+    "383185@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

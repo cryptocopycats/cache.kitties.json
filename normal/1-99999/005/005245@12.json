@@ -1,0 +1,21 @@
+{
+  "id": 5245,
+  "name": "# 5245",
+  "generation": 12,
+  "created_at": "2017-11-24T18:48:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm # 5245. I'm often referred to as the Neville Longbottom of the group. Some people say I'm the Neville Longbottom of the group. Let's get busy!",
+  "language": "en",
+  "matron": "4666@4",
+  "sire": "4976@11",
+  "children": [
+    "5358@13",
+    "5983@13",
+    "6857@14",
+    "7996@14",
+    "15289@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

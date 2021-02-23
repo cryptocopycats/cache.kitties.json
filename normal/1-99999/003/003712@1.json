@@ -1,0 +1,22 @@
+{
+  "id": 3712,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T02:28:46.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #3712. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1373@0",
+  "sire": "1109@0",
+  "children": [
+    "162479@2",
+    "162868@2",
+    "163210@2",
+    "163700@2",
+    "165861@2",
+    "207594@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

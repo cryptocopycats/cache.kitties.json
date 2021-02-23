@@ -1,0 +1,23 @@
+{
+  "id": 3812,
+  "name": "Catsanova",
+  "generation": 3,
+  "created_at": "2017-11-24T03:17:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Catsanova. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Justin Bieber while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "3557@2",
+  "sire": "3553@2",
+  "children": [
+    "15784@4",
+    "15885@4",
+    "15978@4",
+    "19085@15",
+    "40362@4",
+    "165675@17",
+    "304516@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 5739,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-24T23:18:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #5739. My friends describe me as wondrous and petulant. I once got in a fight with a platypus, and won. Let's pawty!",
+  "language": "en",
+  "matron": "5531@9",
+  "sire": "5590@7",
+  "children": [
+    "5874@11",
+    "7751@14",
+    "8212@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

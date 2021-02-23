@@ -1,0 +1,20 @@
+{
+  "id": 4015,
+  "name": "Banana Mochi",
+  "generation": 8,
+  "created_at": "2017-11-24T04:40:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Banana Mochi. I'm often referred to as the Niles Crane of the group. Sometimes I daydream of a life full of picking on mice, steak, and prank-calling celebrities. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3441@7",
+  "sire": "3853@3",
+  "children": [
+    "4091@9",
+    "4356@9",
+    "5066@9",
+    "5760@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

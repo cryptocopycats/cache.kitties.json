@@ -1,0 +1,20 @@
+{
+  "id": 6209,
+  "name": "Voluptuous",
+  "generation": 16,
+  "created_at": "2017-11-25T03:00:38.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Voluptuous. I want to live in a world where people believe the world is flat. My friends describe me as \"voluptuous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5122@13",
+  "sire": "5430@15",
+  "children": [
+    "8928@17",
+    "9906@17",
+    "11149@17",
+    "14037@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

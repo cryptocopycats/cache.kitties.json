@@ -1,0 +1,19 @@
+{
+  "id": 4594,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T09:00:45.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #4594. I enjoy tricking babies, eating lasagna, and shakin' dat booty. I am 48% elf, 47% Spin Instructor , and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "4028@4",
+  "sire": "4023@5",
+  "children": [
+    "4691@10",
+    "51339@7",
+    "91596@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

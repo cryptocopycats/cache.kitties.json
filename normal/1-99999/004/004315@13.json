@@ -1,0 +1,21 @@
+{
+  "id": 4315,
+  "name": "Loonie",
+  "generation": 13,
+  "created_at": "2017-11-24T06:49:21.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Loonie. I enjoy hitting on yo' man, fighting for the people, and breakdancing. My friends describe me as \"gorgeous.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "4018@12",
+  "sire": "4014@5",
+  "children": [
+    "4967@14",
+    "5282@14",
+    "7502@14",
+    "8381@14",
+    "8664@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4021,
+  "name": "G7/C2-Plodding",
+  "generation": 7,
+  "created_at": "2017-11-24T04:42:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm G7/C2-Plodding. My friends describe me as wondrous and tantalizing. I'm often described as vegan, and I own it. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "3975@6",
+  "sire": "3980@5",
+  "children": [
+    "4090@8",
+    "4156@8",
+    "15111@10",
+    "16190@12",
+    "1515912@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

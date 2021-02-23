@@ -1,0 +1,18 @@
+{
+  "id": 5357,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-24T19:51:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #5357. I'm often referred to as the Samwise Gamgee of the group. Some people say I'm the Samwise Gamgee of the group. I look forward to chasing red dots with you.",
+  "language": "en",
+  "matron": "5243@3",
+  "sire": "5338@11",
+  "children": [
+    "5534@13",
+    "6304@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

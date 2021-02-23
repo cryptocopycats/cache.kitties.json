@@ -1,0 +1,19 @@
+{
+  "id": 6214,
+  "name": "Dumbledore Gen11",
+  "generation": 11,
+  "created_at": "2017-11-25T03:00:38.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Dumbledore Gen11. I enjoy picking flowers, tricking babies, and glaring at the neighbour's cat. I was voted most likely to work at NASA in college. Will you be the pickles to my garlic butter?",
+  "language": "en",
+  "matron": "4435@7",
+  "sire": "5116@10",
+  "children": [
+    "9740@12",
+    "14568@12",
+    "70997@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 5679,
+  "name": "Edgar",
+  "generation": 12,
+  "created_at": "2017-11-24T22:40:46.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Edgar. My friends describe me as raunchy and despicable. When no one's home, I invite my pals over and we listen to Gloria Estefan. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "5338@11",
+  "sire": "5433@1",
+  "children": [
+    "5695@13",
+    "28157@16",
+    "53452@16",
+    "77581@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

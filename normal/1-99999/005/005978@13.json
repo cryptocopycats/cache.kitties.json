@@ -1,0 +1,24 @@
+{
+  "id": 5978,
+  "name": "5978",
+  "generation": 13,
+  "created_at": "2017-11-25T01:04:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm 5978. I believe the world is flat. I once licked a chimpanzee. I don't like to talk about it. Let's get busy!",
+  "language": "en",
+  "matron": "5458@10",
+  "sire": "4763@12",
+  "children": [
+    "6291@14",
+    "6955@14",
+    "16380@16",
+    "22023@14",
+    "36080@14",
+    "59481@21",
+    "94353@14",
+    "402788@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

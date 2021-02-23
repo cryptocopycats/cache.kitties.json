@@ -1,0 +1,17 @@
+{
+  "id": 5672,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-24T22:35:19.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #5672. My friends describe me as gullible and gorgeous. When no one's home, I invite my pals over and we listen to Coldplay. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "1299@0",
+  "sire": "5353@10",
+  "children": [
+    "7151@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

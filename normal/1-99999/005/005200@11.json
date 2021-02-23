@@ -1,0 +1,23 @@
+{
+  "id": 5200,
+  "name": "Gen 11 [rare]",
+  "generation": 11,
+  "created_at": "2017-11-24T18:22:03.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Gen 11 [rare]. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found voluptuous or prank-calling celebrities. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4787@10",
+  "sire": "4791@10",
+  "children": [
+    "5303@12",
+    "5616@12",
+    "6119@12",
+    "11206@12",
+    "76876@12",
+    "95580@12",
+    "262390@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

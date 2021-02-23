@@ -1,0 +1,20 @@
+{
+  "id": 3914,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T03:58:52.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #3914. I'm a Spin Instructor  by day, and I like practicing witchcraft by night. I once made a rooster leap. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3132@3",
+  "sire": "3158@5",
+  "children": [
+    "3997@10",
+    "4049@7",
+    "4318@7",
+    "4367@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

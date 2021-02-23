@@ -1,0 +1,22 @@
+{
+  "id": 5410,
+  "name": "Purple Dye Dieter",
+  "generation": 12,
+  "created_at": "2017-11-24T20:14:04.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's Purple Dye Dieter. I once peed on Princess Diana's cat. They had it coming. I once made a platypus scare. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5225@9",
+  "sire": "5262@11",
+  "children": [
+    "5434@13",
+    "6124@16",
+    "6530@14",
+    "8028@13",
+    "13793@19",
+    "25204@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

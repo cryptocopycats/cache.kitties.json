@@ -1,0 +1,19 @@
+{
+  "id": 5937,
+  "name": "Milla",
+  "generation": 14,
+  "created_at": "2017-11-25T00:53:29.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Milla. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Mariah Carey. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "5566@11",
+  "sire": "5642@13",
+  "children": [
+    "15736@16",
+    "17980@15",
+    "50667@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

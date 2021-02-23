@@ -1,0 +1,24 @@
+{
+  "id": 3800,
+  "name": "Whiskey G11 Kitty #3800",
+  "generation": 11,
+  "created_at": "2017-11-24T03:11:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Whiskey G11 Kitty #3800. I'm a professional Ventriloquist and I love chocolate. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3159@2",
+  "sire": "3775@10",
+  "children": [
+    "3961@12",
+    "5006@12",
+    "5365@12",
+    "6376@12",
+    "7661@12",
+    "8809@12",
+    "9618@15",
+    "113939@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 5737,
+  "name": "Generic Blue Kitty",
+  "generation": 11,
+  "created_at": "2017-11-24T23:17:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Generic Blue Kitty. I believe the world is flat. My secret indulgence is cereal. Will you be the ranch dressing to my cinammon?",
+  "language": "en",
+  "matron": "5442@9",
+  "sire": "4261@10",
+  "children": [
+    "10226@12",
+    "16118@12",
+    "16950@12"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

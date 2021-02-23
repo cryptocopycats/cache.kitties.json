@@ -1,0 +1,18 @@
+{
+  "id": 4454,
+  "name": "Stripy",
+  "generation": 9,
+  "created_at": "2017-11-24T07:38:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Stripy. My friends describe me as gullible and vegan. Sometimes I daydream of a life full of picking flowers, wet food, and siring for status. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "4338@8",
+  "sire": "3872@4",
+  "children": [
+    "50223@12",
+    "50485@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

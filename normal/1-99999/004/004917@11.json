@@ -1,0 +1,19 @@
+{
+  "id": 4917,
+  "name": "George",
+  "generation": 11,
+  "created_at": "2017-11-24T13:42:52.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! George here. I'm here to enjoy eating lasagna and glaring at the neighbour's cat. My secret indulgence is apple pie. Let's pawty!",
+  "language": "en",
+  "matron": "3401@10",
+  "sire": "3324@3",
+  "children": [
+    "5688@12",
+    "15047@12",
+    "16118@12"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

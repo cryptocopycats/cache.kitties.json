@@ -1,0 +1,21 @@
+{
+  "id": 5128,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-24T17:34:09.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #5128. I'm often referred to as the Niles Crane of the group. I like to listen to Wutang while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1367@0",
+  "sire": "5072@3",
+  "children": [
+    "6896@5",
+    "12368@5",
+    "16021@5",
+    "18202@5",
+    "31982@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

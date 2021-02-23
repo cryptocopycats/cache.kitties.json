@@ -1,0 +1,18 @@
+{
+  "id": 5133,
+  "name": "I'm just a cat",
+  "generation": 9,
+  "created_at": "2017-11-24T17:37:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm I'm just a cat. I'm a Dogwalker by day, and I like swiping right by night. In my free time, I can usually be found despicable or reading Danielle Steele. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3943@8",
+  "sire": "1492@0",
+  "children": [
+    "54276@11",
+    "64303@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

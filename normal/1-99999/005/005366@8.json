@@ -1,0 +1,23 @@
+{
+  "id": 5366,
+  "name": "Simon",
+  "generation": 8,
+  "created_at": "2017-11-24T19:56:47.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Simon. I'm a professional Dogwalker and I love apple pie. I once got in a fight with a labradoodle, and won. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "3369@1",
+  "sire": "3814@7",
+  "children": [
+    "36228@9",
+    "36582@14",
+    "38926@9",
+    "48228@13",
+    "61527@10",
+    "70886@9",
+    "96554@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

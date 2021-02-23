@@ -1,0 +1,25 @@
+{
+  "id": 4861,
+  "name": "KEEPING",
+  "generation": 6,
+  "created_at": "2017-11-24T12:19:50.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm KEEPING. My friends describe me as brilliant and petulant. In my free time, I can usually be found tantalizing or playing chess. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3293@1",
+  "sire": "4753@5",
+  "children": [
+    "11916@7",
+    "12055@12",
+    "12219@13",
+    "13906@7",
+    "15445@7",
+    "16557@11",
+    "22581@8",
+    "26281@7",
+    "48663@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

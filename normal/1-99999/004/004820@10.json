@@ -1,0 +1,21 @@
+{
+  "id": 4820,
+  "name": "Steamy Purrster G10C5",
+  "generation": 10,
+  "created_at": "2017-11-24T11:33:51.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Steamy Purrster G10C5. I'm often referred to as the Bart Simpson of the group. I once got in a fight with a rhino, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "1402@0",
+  "sire": "4527@9",
+  "children": [
+    "4918@11",
+    "4956@11",
+    "5249@11",
+    "5341@11",
+    "6798@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

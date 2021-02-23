@@ -1,0 +1,20 @@
+{
+  "id": 3547,
+  "name": "cow gene",
+  "generation": 7,
+  "created_at": "2017-11-24T01:12:08.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm cow gene. I believe that one day cats will rule this planet. I would give it all up to be on Oprah. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3035@1",
+  "sire": "3228@6",
+  "children": [
+    "3730@8",
+    "3771@8",
+    "4319@10",
+    "7716@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

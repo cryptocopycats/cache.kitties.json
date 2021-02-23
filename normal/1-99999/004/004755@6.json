@@ -1,0 +1,18 @@
+{
+  "id": 4755,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T10:52:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #4755. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3071@5",
+  "sire": "1077@0",
+  "children": [
+    "6808@7",
+    "23038@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

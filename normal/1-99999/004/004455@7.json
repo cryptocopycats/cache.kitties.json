@@ -1,0 +1,19 @@
+{
+  "id": 4455,
+  "name": "gen7 brisk",
+  "generation": 7,
+  "created_at": "2017-11-24T07:40:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm gen7 brisk. I'm often referred to as the Lisa Simpson of the group. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3562@2",
+  "sire": "4443@6",
+  "children": [
+    "4489@8",
+    "5124@8",
+    "11211@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

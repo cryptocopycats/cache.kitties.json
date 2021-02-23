@@ -1,0 +1,22 @@
+{
+  "id": 4828,
+  "name": "Mausie",
+  "generation": 13,
+  "created_at": "2017-11-24T11:38:53.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Mausie. I'm a Dispensary Clerk by day, and I like summoning ghosts by night. My great-great-great-great-great-great grandkitty lived with King Henry VIII. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1292@0",
+  "sire": "4388@12",
+  "children": [
+    "10241@14",
+    "12373@16",
+    "14534@16",
+    "19912@14",
+    "38892@19",
+    "48256@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

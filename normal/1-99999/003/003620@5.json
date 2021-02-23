@@ -1,0 +1,19 @@
+{
+  "id": 3620,
+  "name": "Peter Griffin",
+  "generation": 5,
+  "created_at": "2017-11-24T01:45:27.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Peter Griffin. I'm often referred to as the Peter Griffin of the group. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3589@4",
+  "sire": "3591@4",
+  "children": [
+    "3646@6",
+    "3661@6",
+    "3963@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

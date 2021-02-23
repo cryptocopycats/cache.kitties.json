@@ -1,0 +1,22 @@
+{
+  "id": 6137,
+  "name": "Evelyn Twin",
+  "generation": 7,
+  "created_at": "2017-11-25T02:23:04.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Evelyn Twin. I've never told anyone this, but I once frolicked with a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5948@6",
+  "sire": "4666@4",
+  "children": [
+    "6416@11",
+    "6432@8",
+    "6542@10",
+    "6760@11",
+    "7870@13",
+    "66327@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 5511,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-24T21:11:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #5511. My friends describe me as stinky and annoying. I was voted biggest teacher's pet in college. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "5456@6",
+  "sire": "5475@8",
+  "children": [
+    "5635@10",
+    "5728@10",
+    "699379@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

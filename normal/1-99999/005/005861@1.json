@@ -1,0 +1,17 @@
+{
+  "id": 5861,
+  "name": "gen1 swift",
+  "generation": 1,
+  "created_at": "2017-11-25T00:21:12.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm gen1 swift. All you need to know about me is I hate apple pie with a passion. When I'm not jump-roping, I'm talking about how much I lift! Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "2041@0",
+  "sire": "2081@0",
+  "children": [
+    "5988@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

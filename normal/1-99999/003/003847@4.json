@@ -1,0 +1,22 @@
+{
+  "id": 3847,
+  "name": "First 4000 Kitties Ever",
+  "generation": 4,
+  "created_at": "2017-11-24T03:32:43.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm First 4000 Kitties Ever. I enjoy hitting on yo' man, being a nevernude, and picking flowers. When I'm not people-watching, I'm pole dancing! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3677@3",
+  "sire": "3664@3",
+  "children": [
+    "3859@5",
+    "3980@5",
+    "4017@6",
+    "4118@8",
+    "4417@5",
+    "150488@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

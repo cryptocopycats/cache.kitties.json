@@ -1,0 +1,18 @@
+{
+  "id": 3539,
+  "name": "Tyron Lanister",
+  "generation": 4,
+  "created_at": "2017-11-24T01:06:01.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Tyron Lanister. I want to live in a world where people believe that one day cats will rule this planet. When I'm not sleeping in fresh laundry, I'm riverdancing! I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "3517@2",
+  "sire": "3404@3",
+  "children": [
+    "4093@5",
+    "4142@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

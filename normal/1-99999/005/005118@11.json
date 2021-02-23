@@ -1,0 +1,21 @@
+{
+  "id": 5118,
+  "name": "Playful Jack Bauer",
+  "generation": 11,
+  "created_at": "2017-11-24T17:22:33.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Playful Jack Bauer. I enjoy tricking babies, chasing red dots, and hitting on yo' man. I once got in a fight with a rabbit, and won. Let's get busy!",
+  "language": "en",
+  "matron": "4505@6",
+  "sire": "4067@10",
+  "children": [
+    "5294@13",
+    "5781@13",
+    "14594@13",
+    "59986@12",
+    "84005@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

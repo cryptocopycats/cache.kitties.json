@@ -1,0 +1,19 @@
+{
+  "id": 6178,
+  "name": "6178",
+  "generation": 15,
+  "created_at": "2017-11-25T02:46:26.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm 6178. I've never told anyone this, but I once bit a dog. I'm often described as hairy, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4547@7",
+  "sire": "5915@14",
+  "children": [
+    "6351@16",
+    "11043@16",
+    "14688@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

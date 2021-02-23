@@ -1,0 +1,23 @@
+{
+  "id": 3946,
+  "name": "Mesy",
+  "generation": 9,
+  "created_at": "2017-11-24T04:10:52.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Mesy. I enjoy grooming, glaring at the neighbour's cat, and tripping my owner. I once bit a rhino. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3005@1",
+  "sire": "3855@8",
+  "children": [
+    "3997@10",
+    "4528@10",
+    "4569@10",
+    "5526@11",
+    "29145@13",
+    "42621@14",
+    "65033@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

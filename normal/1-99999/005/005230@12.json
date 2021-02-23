@@ -1,0 +1,23 @@
+{
+  "id": 5230,
+  "name": "moon_shadow",
+  "generation": 12,
+  "created_at": "2017-11-24T18:39:56.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm moon_shadow. I'm often referred to as the Dwight Schrute of the group. I like to listen to Wutang while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4422@11",
+  "sire": "4568@1",
+  "children": [
+    "5632@13",
+    "6086@13",
+    "6746@13",
+    "8177@13",
+    "8340@13",
+    "10861@16",
+    "70825@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3723,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T02:34:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #3723. I've never told anyone this, but I once cleaned a dog. I like to listen to Metallica while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3212@3",
+  "sire": "3586@5",
+  "children": [
+    "3830@7",
+    "3943@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

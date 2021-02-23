@@ -1,0 +1,20 @@
+{
+  "id": 4304,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-11-24T06:43:30.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #4304. I've never told anyone this, but I once licked a dog. Sometimes I daydream of a life full of licking doorknobs, steak, and tricking babies. Our friendship will be tantalizing, hairy, and full of apple pie.",
+  "language": "en",
+  "matron": "3530@5",
+  "sire": "4231@3",
+  "children": [
+    "5477@7",
+    "5845@11",
+    "6460@10",
+    "9487@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

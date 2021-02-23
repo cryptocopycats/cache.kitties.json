@@ -1,0 +1,20 @@
+{
+  "id": 5824,
+  "name": "Big Whisker Bill",
+  "generation": 11,
+  "created_at": "2017-11-25T00:01:52.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Big Whisker Bill. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of sitting on your computer, cantaloupe, and practicing witchcraft. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4311@4",
+  "sire": "5413@10",
+  "children": [
+    "6104@12",
+    "6249@12",
+    "7978@12",
+    "12447@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

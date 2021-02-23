@@ -1,0 +1,21 @@
+{
+  "id": 4944,
+  "name": "Coal",
+  "generation": 9,
+  "created_at": "2017-11-24T14:19:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Coal here. I'm here to enjoy spinning sick beats and breakdancing. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I like your face.",
+  "language": "en",
+  "matron": "4912@8",
+  "sire": "4884@5",
+  "children": [
+    "4961@10",
+    "5109@10",
+    "5197@11",
+    "5651@10",
+    "11581@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 4945,
+  "name": "Korben #4945",
+  "generation": 7,
+  "created_at": "2017-11-24T14:19:49.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Korben #4945. I've never told anyone this, but I once groomed a dog. I once groomed a dolphin. I don't like to talk about it. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "3279@4",
+  "sire": "4492@6",
+  "children": [
+    "10278@8",
+    "12247@8",
+    "25761@8",
+    "35691@12",
+    "37328@8",
+    "55073@8",
+    "83946@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4356,
+  "name": "Gilded dali",
+  "generation": 9,
+  "created_at": "2017-11-24T06:59:17.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gilded dali. I'm a Mad Scientist by day, and I like jump-roping by night. I am 14% fairy, 40% Dispensary Clerk, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4015@8",
+  "sire": "4139@5",
+  "children": [
+    "4637@13",
+    "5075@14",
+    "5370@10",
+    "6533@15",
+    "8028@13",
+    "22272@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

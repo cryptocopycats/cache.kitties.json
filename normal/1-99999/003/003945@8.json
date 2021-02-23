@@ -1,0 +1,18 @@
+{
+  "id": 3945,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-24T04:09:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Kitty #3945. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "3194@2",
+  "sire": "3879@7",
+  "children": [
+    "4126@9",
+    "4420@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3910,
+  "name": "3910",
+  "generation": 3,
+  "created_at": "2017-11-24T03:57:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm 3910. My friends describe me as despicable and petulant. I would give it all up for a Chanel purse. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "3794@2",
+  "sire": "1372@0",
+  "children": [
+    "3957@8",
+    "4327@11",
+    "5064@4",
+    "5308@13",
+    "5382@9",
+    "7677@4",
+    "11135@6",
+    "12964@11",
+    "17424@15",
+    "21430@16",
+    "37397@4",
+    "91551@4",
+    "190277@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

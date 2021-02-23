@@ -1,0 +1,21 @@
+{
+  "id": 6285,
+  "name": "Mint Swamp (Tigerpunk Rec)",
+  "generation": 14,
+  "created_at": "2017-11-25T03:35:50.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Mint Swamp (Tigerpunk Rec). I enjoy staying woke, reciting poetry, and reading garfield. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "5964@13",
+  "sire": "6014@11",
+  "children": [
+    "6689@15",
+    "42969@16",
+    "79788@16",
+    "112257@15",
+    "228241@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

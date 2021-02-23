@@ -1,0 +1,20 @@
+{
+  "id": 4007,
+  "name": "G6",
+  "generation": 6,
+  "created_at": "2017-11-24T04:37:59.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G6. I enjoy eating lasagna, grooming, and shakin' dat booty. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "language": "en",
+  "matron": "3258@3",
+  "sire": "3421@5",
+  "children": [
+    "4305@8",
+    "6326@7",
+    "6455@7",
+    "7644@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3771,
+  "name": "Tupac",
+  "generation": 8,
+  "created_at": "2017-11-24T02:58:31.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Tupac. I'm a Ventriloquist by day, and I like braiding people's hair by night. It's not common knowledge, but my ancestry connects me to Princess Diana. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3756@1",
+  "sire": "3547@7",
+  "children": [
+    "3848@9",
+    "4288@9",
+    "6707@9",
+    "13600@14",
+    "37292@15",
+    "407816@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

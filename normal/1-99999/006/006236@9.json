@@ -1,0 +1,21 @@
+{
+  "id": 6236,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T03:07:47.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #6236. In high school, I was voted school jock. I once dreamed of being a Dispensary Clerk. Now I can be found talking about how much I lift all day. Let's get busy!",
+  "language": "en",
+  "matron": "4756@8",
+  "sire": "2042@0",
+  "children": [
+    "13980@10",
+    "14170@13",
+    "14866@13",
+    "111322@12",
+    "204135@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

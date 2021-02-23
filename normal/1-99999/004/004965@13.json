@@ -1,0 +1,19 @@
+{
+  "id": 4965,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-24T14:56:21.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #4965. I'm a Dispensary Clerk by day, and I like swiping right by night. I like to listen to Mariah Carey while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "4496@12",
+  "sire": "4707@9",
+  "children": [
+    "5046@14",
+    "5658@14",
+    "6652@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6373,
+  "name": "Sir Lancelot",
+  "generation": 8,
+  "created_at": "2017-11-25T04:23:29.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Sir Lancelot. I enjoy being a nevernude, spinning sick beats, and staying woke. I would give it all up to star in a soap opera. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "2240@0",
+  "sire": "4808@7",
+  "children": [
+    "6535@9",
+    "48239@13",
+    "64837@9",
+    "73682@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 6248,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-11-25T03:14:50.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 4. I've never told anyone this, but I once licked a dog. I like to listen to Aretha Franklin while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5684@2",
+  "sire": "6157@3",
+  "children": [
+    "6702@13",
+    "6944@14",
+    "15692@5",
+    "16256@5",
+    "20867@5",
+    "21122@15",
+    "35988@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

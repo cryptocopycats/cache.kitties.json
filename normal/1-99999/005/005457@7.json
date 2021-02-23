@@ -1,0 +1,25 @@
+{
+  "id": 5457,
+  "name": "Punk G7",
+  "generation": 7,
+  "created_at": "2017-11-24T20:39:24.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Punk G7. My friends describe me as petulant and brilliant. I once bit a rooster. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "5243@3",
+  "sire": "4639@6",
+  "children": [
+    "5536@8",
+    "6012@12",
+    "6014@11",
+    "6330@12",
+    "17205@15",
+    "19402@11",
+    "22782@11",
+    "23432@14",
+    "34512@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

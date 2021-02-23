@@ -1,0 +1,21 @@
+{
+  "id": 4431,
+  "name": "Watchar",
+  "generation": 9,
+  "created_at": "2017-11-24T07:26:21.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Watchar. In high school, I was voted school jock. Sometimes I daydream of a life full of taking selfies, ice cream, and summoning ghosts. Our friendship will be tantalizing, hairy, and full of apple pie.",
+  "language": "en",
+  "matron": "4296@6",
+  "sire": "4321@8",
+  "children": [
+    "4972@11",
+    "5358@13",
+    "6435@11",
+    "11980@10",
+    "52800@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

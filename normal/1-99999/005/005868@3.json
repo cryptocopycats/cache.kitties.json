@@ -1,0 +1,24 @@
+{
+  "id": 5868,
+  "name": "G3 | Slow",
+  "generation": 3,
+  "created_at": "2017-11-25T00:22:04.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! G3 | Slow here. I'm here to enjoy reciting poetry and tripping my owner. In my free time, I can usually be found vegan or volunteering at the local kitten rescue shelter. Let's get busy!",
+  "language": "en",
+  "matron": "2225@0",
+  "sire": "4199@2",
+  "children": [
+    "6260@6",
+    "6277@6",
+    "6383@6",
+    "6777@6",
+    "7314@6",
+    "9606@12",
+    "11098@14",
+    "11661@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

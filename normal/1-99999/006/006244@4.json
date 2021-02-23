@@ -1,0 +1,20 @@
+{
+  "id": 6244,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-25T03:12:52.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #6244. In high school, I was voted biggest teacher's pet. I'm often described as annoying, and I own it. Will you be the marmalade to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "3075@1",
+  "sire": "4209@3",
+  "children": [
+    "6812@11",
+    "13652@8",
+    "13897@12",
+    "13980@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
