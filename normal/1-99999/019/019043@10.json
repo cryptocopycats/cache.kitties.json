@@ -1,0 +1,24 @@
+{
+  "id": 19043,
+  "name": "Everipedia IV",
+  "generation": 10,
+  "created_at": "2017-11-30T20:56:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Everipedia IV. I'm a Ventriloquist by day, and I like reading Danielle Steele by night. I am 0% gremlin, 69% Train Conductor, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "17254@8",
+  "sire": "18749@9",
+  "children": [
+    "19188@11",
+    "20286@11",
+    "21177@11",
+    "29276@11",
+    "44358@19",
+    "62794@19",
+    "116199@19",
+    "262111@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

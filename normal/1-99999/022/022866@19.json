@@ -1,0 +1,18 @@
+{
+  "id": 22866,
+  "name": "Daddy McStuffins",
+  "generation": 19,
+  "created_at": "2017-12-01T13:40:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Daddy McStuffins. I've never told anyone this, but I once tricked a dog. When no one's home, I invite my pals over and we listen to Frank Sinatra. Let's pawty!",
+  "language": "en",
+  "matron": "15271@15",
+  "sire": "8222@18",
+  "children": [
+    "25094@20",
+    "44932@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

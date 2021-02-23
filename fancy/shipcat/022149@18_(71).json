@@ -1,0 +1,27 @@
+{
+  "id": 22149,
+  "name": "Kitty 22149 ShipCat",
+  "generation": 18,
+  "created_at": "2017-12-01T09:51:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty 22149 ShipCat. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of slappin' da bass, chocolate, and riding the bus. Our friendship will be fabulous, preposterous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19403@17",
+  "sire": "19162@16",
+  "children": [
+    "27426@22",
+    "29913@19",
+    "56504@19",
+    "283672@19",
+    "285309@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 71,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

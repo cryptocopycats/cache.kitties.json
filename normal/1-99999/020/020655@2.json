@@ -1,0 +1,21 @@
+{
+  "id": 20655,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-12-01T02:53:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm G2. I enjoy glaring at the neighbour's cat, slappin' da bass, and spinning sick beats. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "20519@1",
+  "sire": "20516@1",
+  "children": [
+    "20709@3",
+    "24987@3",
+    "62560@3",
+    "151934@3",
+    "218053@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

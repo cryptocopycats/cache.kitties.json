@@ -1,0 +1,23 @@
+{
+  "id": 19453,
+  "name": "Oldest Virgin Fancy Cat",
+  "generation": 14,
+  "created_at": "2017-11-30T22:11:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Oldest Virgin Fancy Cat. I've never told anyone this, but I once kissed a dog. I am 24% wizard, 53% Ventriloquist, and otherwise bad at math. Will you be the wasabi to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "2696@0",
+  "sire": "9156@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 64,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

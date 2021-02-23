@@ -1,0 +1,20 @@
+{
+  "id": 22082,
+  "name": "Barracuda",
+  "generation": 13,
+  "created_at": "2017-12-01T09:28:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Barracuda. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Frank Sinatra. I like your face.",
+  "language": "en",
+  "matron": "12951@12",
+  "sire": "15924@12",
+  "children": [
+    "23574@14",
+    "57133@18",
+    "87257@18",
+    "111280@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20633,
+  "name": "Lucky",
+  "generation": 15,
+  "created_at": "2017-12-01T02:45:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Lucky. I've never told anyone this, but I once groomed a dog. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15426@14",
+  "sire": "17908@5",
+  "children": [
+    "22987@16",
+    "23590@16",
+    "89174@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

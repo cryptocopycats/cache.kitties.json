@@ -1,0 +1,20 @@
+{
+  "id": 21020,
+  "name": "GreeStripo Paw",
+  "generation": 10,
+  "created_at": "2017-12-01T04:28:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm GreeStripo Paw. I'm a Ventriloquist by day, and I like prank-calling celebrities by night. It's not common knowledge, but my ancestry connects me to Cleopatra. I like your face.",
+  "language": "en",
+  "matron": "20396@7",
+  "sire": "20498@9",
+  "children": [
+    "22076@11",
+    "22477@11",
+    "39140@19",
+    "45853@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

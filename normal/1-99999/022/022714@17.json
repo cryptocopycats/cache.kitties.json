@@ -1,0 +1,19 @@
+{
+  "id": 22714,
+  "name": "Dr. Scruff",
+  "generation": 17,
+  "created_at": "2017-12-01T12:53:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Dr. Scruff. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as wondrous, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "14958@16",
+  "sire": "8218@7",
+  "children": [
+    "38974@18",
+    "87711@18",
+    "186794@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

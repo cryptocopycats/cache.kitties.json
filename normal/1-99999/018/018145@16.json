@@ -1,0 +1,19 @@
+{
+  "id": 18145,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-30T17:49:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #18145. I enjoy riding dirty, spinning sick beats, and reading garfield. I put pickles on everything. Like, everything: hot dogs, lasagna—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13389@15",
+  "sire": "12554@13",
+  "children": [
+    "21699@17",
+    "46326@17",
+    "84683@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

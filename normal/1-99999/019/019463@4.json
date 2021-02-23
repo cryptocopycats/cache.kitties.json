@@ -1,0 +1,24 @@
+{
+  "id": 19463,
+  "name": "Gen 4 | Emerald Green | Beard",
+  "generation": 4,
+  "created_at": "2017-11-30T22:13:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 4 | Emerald Green | Beard. My friends describe me as smelly and fabulous. Sometimes I daydream of a life full of grooming, apple pie, and mocking dogs. Our friendship will be smelly, fabulous, and full of cereal.",
+  "language": "en",
+  "matron": "17182@2",
+  "sire": "16402@3",
+  "children": [
+    "40320@5",
+    "41340@5",
+    "43677@5",
+    "43916@5",
+    "45729@5",
+    "54140@5",
+    "60018@5",
+    "87008@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

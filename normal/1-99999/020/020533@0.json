@@ -1,0 +1,26 @@
+{
+  "id": 20533,
+  "name": "Scoobie doo - 0 gen",
+  "generation": 0,
+  "created_at": "2017-12-01T02:19:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's Scoobie doo - 0 gen. I once peed on Amelia Earhart's cat. They had it coming. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cereal—everything! Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "23261@1",
+    "23487@1",
+    "29197@1",
+    "29269@2",
+    "48856@1",
+    "165417@1",
+    "188862@1",
+    "206078@1",
+    "239860@1",
+    "292018@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

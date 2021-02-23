@@ -1,0 +1,19 @@
+{
+  "id": 18121,
+  "name": "Showstoppa",
+  "generation": 18,
+  "created_at": "2017-11-30T17:42:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Showstoppa. I'm often referred to as the Marge Simpson of the group. My secret indulgence is lasagna. Will you be the garlic butter to my ranch dressing?",
+  "language": "en",
+  "matron": "15903@11",
+  "sire": "11458@17",
+  "children": [
+    "21951@19",
+    "25823@19",
+    "229473@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

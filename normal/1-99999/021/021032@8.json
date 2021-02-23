@@ -1,0 +1,18 @@
+{
+  "id": 21032,
+  "name": "Rusty",
+  "generation": 8,
+  "created_at": "2017-12-01T04:29:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Rusty. I want to live in a world where people believe the world is flat. I once got in a fight with a rhino, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3509@5",
+  "sire": "3949@7",
+  "children": [
+    "56438@9",
+    "127854@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

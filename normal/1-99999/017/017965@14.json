@@ -1,0 +1,18 @@
+{
+  "id": 17965,
+  "name": "Scuba Kitty",
+  "generation": 14,
+  "created_at": "2017-11-30T17:02:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Scuba Kitty. My friends describe me as despicable and voluptuous. I like to listen to Rihanna while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "12052@13",
+  "sire": "10043@12",
+  "children": [
+    "22322@15",
+    "87093@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

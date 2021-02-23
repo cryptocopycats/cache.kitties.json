@@ -1,0 +1,21 @@
+{
+  "id": 20306,
+  "name": "RedBoots",
+  "generation": 12,
+  "created_at": "2017-12-01T01:24:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm RedBoots. I'm often referred to as the Homer Simpson of the group. Sometimes I daydream of a life full of breakdancing, lasagna, and reading Danielle Steele. Our friendship will be preposterous, ridiculous, and full of hamburgers.",
+  "language": "en",
+  "matron": "18977@9",
+  "sire": "19714@11",
+  "children": [
+    "21402@13",
+    "25377@13",
+    "28846@22",
+    "37180@13",
+    "71017@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

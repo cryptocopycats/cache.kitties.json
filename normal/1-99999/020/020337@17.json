@@ -1,0 +1,18 @@
+{
+  "id": 20337,
+  "name": "Chandler Bing",
+  "generation": 17,
+  "created_at": "2017-12-01T01:33:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Chandler Bing. I'm often referred to as the Chandler Bing of the group. I am 32% troll, 29% Ventriloquist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6045@14",
+  "sire": "9604@16",
+  "children": [
+    "25568@19",
+    "27575@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

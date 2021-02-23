@@ -1,0 +1,20 @@
+{
+  "id": 20918,
+  "name": "[v] gen15",
+  "generation": 15,
+  "created_at": "2017-12-01T04:07:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm [v] gen15. I want to live in a world where people believe the world is flat. I once snuggled a platypus. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19788@14",
+  "sire": "19056@12",
+  "children": [
+    "23525@16",
+    "26211@16",
+    "39441@16",
+    "72024@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

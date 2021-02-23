@@ -1,0 +1,26 @@
+{
+  "id": 22552,
+  "name": "G1 | Bird parent A1",
+  "generation": 1,
+  "created_at": "2017-12-01T11:49:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's G1 | Bird parent A1. I once peed on Marie Antoinette's cat. They had it coming. I am 4% sphinx, 3% Mad Scientist, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "2624@0",
+  "sire": "15359@0",
+  "children": [
+    "22601@2",
+    "22913@2",
+    "23221@2",
+    "58030@2",
+    "102730@2",
+    "151384@2",
+    "259238@2",
+    "332871@2",
+    "379547@2",
+    "433788@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20613,
+  "name": "Punky",
+  "generation": 19,
+  "created_at": "2017-12-01T02:39:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Punky. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a goose, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "13544@14",
+  "sire": "19473@18",
+  "children": [
+    "35703@20",
+    "71159@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

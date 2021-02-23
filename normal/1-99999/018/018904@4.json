@@ -1,0 +1,25 @@
+{
+  "id": 18904,
+  "name": "Emmie",
+  "generation": 4,
+  "created_at": "2017-11-30T20:22:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Emmie. I'm often referred to as the Jon Snow of the group. It's not common knowledge, but my ancestry connects me to Cleopatra. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "15511@3",
+  "sire": "15679@3",
+  "children": [
+    "24542@11",
+    "24752@5",
+    "32650@5",
+    "36277@9",
+    "57191@5",
+    "57641@6",
+    "97559@5",
+    "268692@5",
+    "315792@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

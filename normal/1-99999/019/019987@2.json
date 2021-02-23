@@ -1,0 +1,25 @@
+{
+  "id": 19987,
+  "name": "Salamander",
+  "generation": 2,
+  "created_at": "2017-12-01T00:10:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Salamander. I'm a professional Train Conductor and I love chocolate. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1089@0",
+  "sire": "7633@1",
+  "children": [
+    "34609@3",
+    "34873@5",
+    "35670@3",
+    "36152@3",
+    "36966@3",
+    "38862@3",
+    "40282@4",
+    "53000@9",
+    "156965@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

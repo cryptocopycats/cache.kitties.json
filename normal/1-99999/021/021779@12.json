@@ -1,0 +1,20 @@
+{
+  "id": 21779,
+  "name": "Caramel Bonbon",
+  "generation": 12,
+  "created_at": "2017-12-01T07:55:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Caramel Bonbon. I believe that one day cats will rule this planet. I'm often described as petulant, and I own it. Our friendship will be gorgeous, stinky, and full of steak.",
+  "language": "en",
+  "matron": "21221@11",
+  "sire": "19227@11",
+  "children": [
+    "23979@13",
+    "25977@19",
+    "44012@15",
+    "134044@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

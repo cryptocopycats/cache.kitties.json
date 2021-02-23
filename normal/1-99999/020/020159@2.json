@@ -1,0 +1,22 @@
+{
+  "id": 20159,
+  "name": "Berlioz WinterStorm",
+  "generation": 2,
+  "created_at": "2017-12-01T00:52:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Berlioz WinterStorm. I'm a Ventriloquist by day, and I like playing chess by night. I once dreamed of being a Spin Instructor . Now I can be found swiping left all day. Let's pawty!",
+  "language": "en",
+  "matron": "1238@0",
+  "sire": "6037@1",
+  "children": [
+    "21508@3",
+    "25089@18",
+    "27289@3",
+    "230364@3",
+    "259459@3",
+    "263488@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

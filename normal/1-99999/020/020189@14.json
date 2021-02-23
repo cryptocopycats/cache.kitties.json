@@ -1,0 +1,22 @@
+{
+  "id": 20189,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-01T00:58:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Gen 14. I've never told anyone this, but I once licked a dog. I once got in a fight with a rooster, and won. Our friendship will be despicable, brilliant, and full of lasagna.",
+  "language": "en",
+  "matron": "19636@13",
+  "sire": "18031@10",
+  "children": [
+    "21897@15",
+    "24427@15",
+    "185067@18",
+    "254145@16",
+    "319563@16",
+    "368612@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 19564,
+  "name": "🔱Ducat #30",
+  "generation": 17,
+  "created_at": "2017-11-30T22:36:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm 🔱Ducat #30. I'm a Aerobics Athlete  by day, and I like reading Danielle Steele by night. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found tricking babies all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19079@9",
+  "sire": "15098@16",
+  "children": [
+    "20805@18",
+    "28886@18",
+    "37561@18",
+    "62445@18",
+    "142001@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 30,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

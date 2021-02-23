@@ -1,0 +1,19 @@
+{
+  "id": 22005,
+  "name": "Shitake",
+  "generation": 18,
+  "created_at": "2017-12-01T09:10:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Shitake. My friends describe me as preposterous and vegan. I once made a chimpanzee ignore. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "9571@15",
+  "sire": "9602@17",
+  "children": [
+    "27565@19",
+    "45834@19",
+    "277798@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

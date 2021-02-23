@@ -1,0 +1,23 @@
+{
+  "id": 22264,
+  "name": "Gen 11",
+  "generation": 11,
+  "created_at": "2017-12-01T10:19:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Gen 11 here. I'm here to enjoy fighting the patriarchy and riding dirty. I like to listen to Justin Bieber while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "4812@10",
+  "sire": "18521@1",
+  "children": [
+    "23091@14",
+    "25007@19",
+    "26464@19",
+    "28980@12",
+    "36267@14",
+    "83736@20",
+    "109664@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

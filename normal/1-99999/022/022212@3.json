@@ -1,0 +1,26 @@
+{
+  "id": 22212,
+  "name": "G3 Pair 1-2",
+  "generation": 3,
+  "created_at": "2017-12-01T10:07:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm G3 Pair 1-2. My friends describe me as ridiculous and smelly. I was voted school jock in college. Let's pawty!",
+  "language": "en",
+  "matron": "21504@2",
+  "sire": "22094@2",
+  "children": [
+    "26397@13",
+    "27734@4",
+    "54012@7",
+    "59143@13",
+    "59941@13",
+    "66674@7",
+    "73168@4",
+    "85041@4",
+    "110798@4",
+    "131428@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

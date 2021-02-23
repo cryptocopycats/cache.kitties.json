@@ -1,0 +1,18 @@
+{
+  "id": 17722,
+  "name": "Bellows",
+  "generation": 16,
+  "created_at": "2017-11-30T15:59:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Bellows. I believe the world is flat. I once got in a fight with a rhino, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "15471@7",
+  "sire": "15246@15",
+  "children": [
+    "18630@17",
+    "31483@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

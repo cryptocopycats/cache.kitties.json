@@ -1,0 +1,20 @@
+{
+  "id": 19372,
+  "name": "Flufftail",
+  "generation": 14,
+  "created_at": "2017-11-30T21:56:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Flufftail. I'm a Ventriloquist by day, and I like volunteering at the local kitten rescue shelter by night. I once made a dolphin leap. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "17165@9",
+  "sire": "18774@13",
+  "children": [
+    "22029@15",
+    "24502@15",
+    "32377@16",
+    "203784@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

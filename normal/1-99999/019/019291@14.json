@@ -1,0 +1,21 @@
+{
+  "id": 19291,
+  "name": "ToothBerry",
+  "generation": 14,
+  "created_at": "2017-11-30T21:44:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm ToothBerry. I'm a Skydiving Instructor by day, and I like swiping left by night. It's not common knowledge, but my ancestry connects me to Mother Theresa. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14377@13",
+  "sire": "11513@10",
+  "children": [
+    "35015@15",
+    "53188@19",
+    "68986@15",
+    "241277@19",
+    "258897@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

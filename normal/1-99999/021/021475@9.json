@@ -1,0 +1,22 @@
+{
+  "id": 21475,
+  "name": "Mistake | G9",
+  "generation": 9,
+  "created_at": "2017-12-01T06:28:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Mistake | G9. I enjoy reading garfield, eating lasagna, and spinning sick beats. Some people say I'm the Bart Simpson of the group. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "21054@8",
+  "sire": "16993@5",
+  "children": [
+    "21597@10",
+    "22972@10",
+    "24731@10",
+    "26090@10",
+    "28458@10",
+    "72181@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

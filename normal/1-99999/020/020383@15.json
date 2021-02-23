@@ -1,0 +1,20 @@
+{
+  "id": 20383,
+  "name": "Puss",
+  "generation": 15,
+  "created_at": "2017-12-01T01:41:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Puss. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "17258@14",
+  "sire": "15565@1",
+  "children": [
+    "27645@17",
+    "39872@16",
+    "53265@19",
+    "108212@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 17719,
+  "name": "Brisk",
+  "generation": 11,
+  "created_at": "2017-11-30T15:55:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Brisk. I enjoy eating until I loathe myself, staying woke, and hitting on yo' man. When no one's home, I invite my pals over and we listen to Frank Sinatra. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "13876@1",
+  "sire": "16901@10",
+  "children": [
+    "17768@12",
+    "20780@17",
+    "21212@12",
+    "23314@18",
+    "29068@19",
+    "32177@12",
+    "79275@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

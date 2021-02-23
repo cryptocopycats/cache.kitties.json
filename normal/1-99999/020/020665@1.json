@@ -1,0 +1,23 @@
+{
+  "id": 20665,
+  "name": "Snuggly",
+  "generation": 1,
+  "created_at": "2017-12-01T02:56:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Snuggly here. I'm here to enjoy watching Stranger Things and shakin' dat booty. My friends describe me as \"ridiculous.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15707@0",
+  "sire": "18548@0",
+  "children": [
+    "20785@6",
+    "20867@5",
+    "25635@2",
+    "31613@3",
+    "33468@3",
+    "110316@2",
+    "925094@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

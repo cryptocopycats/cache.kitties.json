@@ -1,0 +1,19 @@
+{
+  "id": 18357,
+  "name": "Mr. Wigglebottom",
+  "generation": 19,
+  "created_at": "2017-11-30T18:46:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Mr. Wigglebottom. I'm a professional Mad Scientist and I love ice cream. I put cinammon on everything. Like, everything: hot dogs, cantaloupe—everything! Will you be the garlic butter to my pickles?",
+  "language": "en",
+  "matron": "13570@10",
+  "sire": "16898@18",
+  "children": [
+    "19069@20",
+    "29177@20",
+    "38534@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18751,
+  "name": "Loons G12",
+  "generation": 12,
+  "created_at": "2017-11-30T19:57:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Loons G12. I've never told anyone this, but I once frolicked with a dog. In my free time, I can usually be found stinky or swiping right. Let's get busy!",
+  "language": "en",
+  "matron": "13865@11",
+  "sire": "14078@9",
+  "children": [
+    "18935@13",
+    "41111@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

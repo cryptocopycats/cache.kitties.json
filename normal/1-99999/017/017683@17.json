@@ -1,0 +1,18 @@
+{
+  "id": 17683,
+  "name": "Mouse",
+  "generation": 17,
+  "created_at": "2017-11-30T15:47:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Mouse. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Mother Theresa. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "16789@10",
+  "sire": "17169@16",
+  "children": [
+    "21621@18",
+    "52097@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 22345,
+  "name": "#Peppermint Gen 0",
+  "generation": 0,
+  "created_at": "2017-12-01T10:43:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm #Peppermint Gen 0. I believe the world is flat. I put garlic butter on everything. Like, everything: hot dogs, chocolate—everything! Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "23658@1",
+    "25183@1",
+    "25278@1",
+    "25413@1",
+    "25424@15",
+    "25827@1",
+    "48918@1",
+    "56028@1",
+    "103435@1",
+    "238499@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

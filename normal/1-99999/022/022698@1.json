@@ -1,0 +1,19 @@
+{
+  "id": 22698,
+  "name": "Pebs G1",
+  "generation": 1,
+  "created_at": "2017-12-01T12:45:12.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Pebs G1. I believe the world is flat. I am 24% gremlin, 0% Train Conductor, and otherwise bad at math. Will you be the pickles to my peanut butter?",
+  "language": "en",
+  "matron": "12517@0",
+  "sire": "16903@0",
+  "children": [
+    "63405@2",
+    "166475@2",
+    "172525@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

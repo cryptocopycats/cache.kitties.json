@@ -1,0 +1,19 @@
+{
+  "id": 21347,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-01T05:51:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #21347. I believe the world is flat. Some people say I'm the Hermione Granger of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "14874@14",
+  "sire": "19032@18",
+  "children": [
+    "31980@20",
+    "56480@20",
+    "136911@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

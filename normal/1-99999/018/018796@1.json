@@ -1,0 +1,23 @@
+{
+  "id": 18796,
+  "name": "General Uno",
+  "generation": 1,
+  "created_at": "2017-11-30T20:05:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm General Uno. I enjoy watching Stranger Things, fighting for the people, and sitting on your computer. I like to listen to Coldplay while grooming. Don't judge me. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "11854@0",
+  "sire": "12042@0",
+  "children": [
+    "30396@2",
+    "31501@2",
+    "33371@2",
+    "45696@2",
+    "171756@2",
+    "219838@2",
+    "226010@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

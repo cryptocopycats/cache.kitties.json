@@ -1,0 +1,18 @@
+{
+  "id": 21319,
+  "name": "Crazy",
+  "generation": 16,
+  "created_at": "2017-12-01T05:46:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Crazy. All you need to know about me is I hate cereal with a passion. I am 48% gremlin, 14% Dispensary Clerk, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "18704@10",
+  "sire": "20491@15",
+  "children": [
+    "21369@17",
+    "42938@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 21479,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-01T06:29:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #21479. I'm a professional Dogwalker and I love salad. I once made a moose leap. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "18928@9",
+  "sire": "19176@8",
+  "children": [
+    "23039@11",
+    "26304@11",
+    "48904@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

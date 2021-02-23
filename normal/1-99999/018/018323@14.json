@@ -1,0 +1,20 @@
+{
+  "id": 18323,
+  "name": "Purple Jag Gene",
+  "generation": 14,
+  "created_at": "2017-11-30T18:37:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Purple Jag Gene. I'm a Spin Instructor  by day, and I like mocking dogs by night. I was voted most likely to work at NASA in college. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "3228@6",
+  "sire": "14683@13",
+  "children": [
+    "21275@15",
+    "22135@15",
+    "44671@19",
+    "78897@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

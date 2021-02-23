@@ -1,0 +1,23 @@
+{
+  "id": 20060,
+  "name": "Gen 5 - Mau - Otaku - Beard",
+  "generation": 5,
+  "created_at": "2017-12-01T00:26:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 5 - Mau - Otaku - Beard. I believe the world is flat. I once dreamed of being a Mad Scientist. Now I can be found sleeping in fresh laundry all day. Let's pawty!",
+  "language": "en",
+  "matron": "19546@3",
+  "sire": "19878@4",
+  "children": [
+    "20330@6",
+    "32677@6",
+    "32865@6",
+    "33205@6",
+    "34004@6",
+    "35993@6",
+    "40965@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

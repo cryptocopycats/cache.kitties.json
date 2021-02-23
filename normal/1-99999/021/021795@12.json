@@ -1,0 +1,21 @@
+{
+  "id": 21795,
+  "name": "Pumpkin",
+  "generation": 12,
+  "created_at": "2017-12-01T08:04:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Pumpkin. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to star in a soap opera. Our friendship will be voluptuous, brilliant, and full of wet food.",
+  "language": "en",
+  "matron": "21593@11",
+  "sire": "7458@3",
+  "children": [
+    "30678@14",
+    "39293@14",
+    "48921@17",
+    "73353@16",
+    "74368@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

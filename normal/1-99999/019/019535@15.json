@@ -1,0 +1,23 @@
+{
+  "id": 19535,
+  "name": "Leopardy",
+  "generation": 15,
+  "created_at": "2017-11-30T22:25:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Leopardy. I'm a Mad Scientist by day, and I like tricking babies by night. I would give it all up to be on Oprah. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14381@12",
+  "sire": "15909@14",
+  "children": [
+    "20888@16",
+    "22608@16",
+    "26333@16",
+    "29078@18",
+    "81158@16",
+    "281062@22",
+    "350168@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

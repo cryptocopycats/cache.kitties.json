@@ -1,0 +1,20 @@
+{
+  "id": 21308,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T05:44:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #21308. I'm a Ventriloquist by day, and I like running a podcast by night. When I'm not mocking dogs, I'm people-watching! Let's pawty!",
+  "language": "en",
+  "matron": "14003@16",
+  "sire": "14580@15",
+  "children": [
+    "22809@18",
+    "24049@18",
+    "45650@18",
+    "93401@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

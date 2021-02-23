@@ -1,0 +1,19 @@
+{
+  "id": 20732,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-01T03:23:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Kitty #20732. I'm often referred to as the Hermione Granger of the group. I put peanut butter on everything. Like, everything: hot dogs, salad—everything! Let's pawty!",
+  "language": "en",
+  "matron": "8022@13",
+  "sire": "16700@17",
+  "children": [
+    "23731@19",
+    "54206@19",
+    "108870@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

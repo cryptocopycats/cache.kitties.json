@@ -1,0 +1,21 @@
+{
+  "id": 19004,
+  "name": "Starter",
+  "generation": 11,
+  "created_at": "2017-11-30T20:50:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Starter. My friends describe me as preposterous and prickly. In my free time, I can usually be found vegan or tricking babies. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "14856@10",
+  "sire": "2665@0",
+  "children": [
+    "20852@14",
+    "22052@15",
+    "23212@15",
+    "26455@15",
+    "27272@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

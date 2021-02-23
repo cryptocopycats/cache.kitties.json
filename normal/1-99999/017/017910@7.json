@@ -1,0 +1,22 @@
+{
+  "id": 17910,
+  "name": "Genghis Khan",
+  "generation": 7,
+  "created_at": "2017-11-30T16:45:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Genghis Khan. I'm a professional Dogwalker and I love cereal. It's not common knowledge, but my ancestry connects me to Confucius. Let's get busy!",
+  "language": "en",
+  "matron": "17473@6",
+  "sire": "16995@6",
+  "children": [
+    "18253@8",
+    "40575@8",
+    "60759@8",
+    "71460@10",
+    "144599@8",
+    "181155@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

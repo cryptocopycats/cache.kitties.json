@@ -1,0 +1,20 @@
+{
+  "id": 18935,
+  "name": "Critty",
+  "generation": 13,
+  "created_at": "2017-11-30T20:31:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Critty. I believe the world is flat. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18884@5",
+  "sire": "18751@12",
+  "children": [
+    "19555@14",
+    "21425@14",
+    "26181@14",
+    "110691@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

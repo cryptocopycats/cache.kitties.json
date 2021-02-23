@@ -1,0 +1,18 @@
+{
+  "id": 19584,
+  "name": "Jasper",
+  "generation": 18,
+  "created_at": "2017-11-30T22:36:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Jasper. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "12656@17",
+  "sire": "7704@12",
+  "children": [
+    "45733@19",
+    "81873@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

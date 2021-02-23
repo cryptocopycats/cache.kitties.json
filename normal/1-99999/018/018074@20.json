@@ -1,0 +1,18 @@
+{
+  "id": 18074,
+  "name": "G20/Slow",
+  "generation": 20,
+  "created_at": "2017-11-30T17:30:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm G20/Slow. I'm a Spin Instructor  by day, and I like playing chess by night. I would give it all up to be on Oprah. Let's get busy!",
+  "language": "en",
+  "matron": "10691@19",
+  "sire": "11465@15",
+  "children": [
+    "26541@21",
+    "298506@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

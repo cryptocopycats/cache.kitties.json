@@ -1,0 +1,22 @@
+{
+  "id": 18710,
+  "name": "Dexter | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T19:53:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! Dexter | Gen3 here. I'm here to enjoy hitting on yo' man and reciting poetry. In my free time, I can usually be found annoying or practicing witchcraft. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18539@2",
+  "sire": "18570@2",
+  "children": [
+    "18843@4",
+    "18913@4",
+    "19260@4",
+    "20751@4",
+    "22073@4",
+    "25614@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

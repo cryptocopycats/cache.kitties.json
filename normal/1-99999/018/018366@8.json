@@ -1,0 +1,21 @@
+{
+  "id": 18366,
+  "name": "G8",
+  "generation": 8,
+  "created_at": "2017-11-30T18:48:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm G8. I enjoy chasing string, spinning sick beats, and sweating through my feet. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Will you be the garlic butter to my cinammon?",
+  "language": "en",
+  "matron": "16925@7",
+  "sire": "17896@7",
+  "children": [
+    "18682@9",
+    "18911@9",
+    "19442@9",
+    "25754@9",
+    "100674@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

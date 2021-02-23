@@ -1,0 +1,20 @@
+{
+  "id": 19457,
+  "name": "Koda | Gen6",
+  "generation": 6,
+  "created_at": "2017-11-30T22:12:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Koda | Gen6. In high school, I was voted school jock. I am 38% sphinx, 85% Dogwalker, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "19326@5",
+  "sire": "19358@5",
+  "children": [
+    "19531@7",
+    "20264@7",
+    "23546@7",
+    "28794@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

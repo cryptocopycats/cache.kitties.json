@@ -1,0 +1,26 @@
+{
+  "id": 22869,
+  "name": "Smooth Straw",
+  "generation": 4,
+  "created_at": "2017-12-01T13:40:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Smooth Straw. I believe that one day cats will rule this planet. My friends describe me as \"vegan.\" It's... accurate. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "18096@2",
+  "sire": "16572@3",
+  "children": [
+    "23333@5",
+    "27437@5",
+    "28562@7",
+    "30836@5",
+    "45640@5",
+    "54077@5",
+    "71695@5",
+    "87680@5",
+    "118016@5",
+    "174704@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

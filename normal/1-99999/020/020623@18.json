@@ -1,0 +1,18 @@
+{
+  "id": 20623,
+  "name": "Falafel",
+  "generation": 18,
+  "created_at": "2017-12-01T02:43:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Falafel. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "18449@17",
+  "sire": "17094@14",
+  "children": [
+    "30063@19",
+    "46732@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20087,
+  "name": "Pip",
+  "generation": 19,
+  "created_at": "2017-12-01T00:30:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Pip. I want to live in a world where people believe the world is flat. I once made a goose lay. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "13325@14",
+  "sire": "17895@18",
+  "children": [
+    "64538@20",
+    "107289@20",
+    "230195@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

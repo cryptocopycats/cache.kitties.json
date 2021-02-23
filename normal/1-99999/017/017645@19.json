@@ -1,0 +1,19 @@
+{
+  "id": 17645,
+  "name": "Gen19 Sluggish",
+  "generation": 19,
+  "created_at": "2017-11-30T15:45:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen19 Sluggish. I've never told anyone this, but I once tricked a dog. It's not common knowledge, but my ancestry connects me to King Henry VIII. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14363@14",
+  "sire": "14821@18",
+  "children": [
+    "21887@20",
+    "30260@20",
+    "73231@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

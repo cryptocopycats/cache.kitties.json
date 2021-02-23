@@ -1,0 +1,20 @@
+{
+  "id": 18536,
+  "name": "Andy's Cat",
+  "generation": 14,
+  "created_at": "2017-11-30T19:22:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Andy's Cat. In high school, I was voted most likely to work at NASA. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "17861@10",
+  "sire": "18119@13",
+  "children": [
+    "19941@15",
+    "36815@15",
+    "65362@18",
+    "95809@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

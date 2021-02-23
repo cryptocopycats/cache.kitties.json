@@ -1,0 +1,20 @@
+{
+  "id": 19933,
+  "name": "Ginger Fat Tail",
+  "generation": 15,
+  "created_at": "2017-11-30T23:59:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Ginger Fat Tail. In high school, I was voted school jock. I put maple syrup on everything. Like, everything: hot dogs, apple pie—everything! I like your face.",
+  "language": "en",
+  "matron": "16801@14",
+  "sire": "17571@14",
+  "children": [
+    "21522@16",
+    "26384@16",
+    "33486@16",
+    "66762@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 20605,
+  "name": "Albino Slim",
+  "generation": 11,
+  "created_at": "2017-12-01T02:36:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Albino Slim. My friends describe me as wondrous and annoying. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "17213@9",
+  "sire": "20476@10",
+  "children": [
+    "30788@12",
+    "33014@13",
+    "35312@12",
+    "51381@12",
+    "72353@15",
+    "113477@19",
+    "371176@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

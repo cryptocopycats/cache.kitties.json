@@ -1,0 +1,18 @@
+{
+  "id": 21707,
+  "name": "Garfield | Gen0 Kid",
+  "generation": 17,
+  "created_at": "2017-12-01T07:41:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Garfield | Gen0 Kid. My friends describe me as petulant and brilliant. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "2477@0",
+  "sire": "13274@16",
+  "children": [
+    "21930@18",
+    "33131@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

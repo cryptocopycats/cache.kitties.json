@@ -1,0 +1,20 @@
+{
+  "id": 21102,
+  "name": "Olivia",
+  "generation": 18,
+  "created_at": "2017-12-01T04:47:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Olivia. I'm a Aerobics Athlete  by day, and I like reading Danielle Steele by night. I once got in a fight with a dolphin, and won. Let's get busy!",
+  "language": "en",
+  "matron": "12611@15",
+  "sire": "17167@17",
+  "children": [
+    "52097@19",
+    "73015@20",
+    "127298@20",
+    "339150@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

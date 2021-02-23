@@ -1,0 +1,18 @@
+{
+  "id": 22298,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T10:34:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #22298. I'm a Culinary Sanitation Specialist by day, and I like playing chess by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16318@16",
+  "sire": "18588@11",
+  "children": [
+    "56998@18",
+    "89054@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

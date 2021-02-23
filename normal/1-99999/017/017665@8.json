@@ -1,0 +1,22 @@
+{
+  "id": 17665,
+  "name": "Gen 8 - Plodding Breeder",
+  "generation": 8,
+  "created_at": "2017-11-30T15:47:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! Gen 8 - Plodding Breeder here. I'm here to enjoy tripping my owner and grooming. My friends describe me as \"seductive.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "16647@5",
+  "sire": "17516@7",
+  "children": [
+    "32051@9",
+    "36758@13",
+    "41048@13",
+    "42399@17",
+    "51738@9",
+    "75503@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

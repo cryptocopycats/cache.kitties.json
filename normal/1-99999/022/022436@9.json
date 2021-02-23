@@ -1,0 +1,22 @@
+{
+  "id": 22436,
+  "name": "72: GEN 9",
+  "generation": 9,
+  "created_at": "2017-12-01T11:17:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm 72: GEN 9. I believe that one day cats will rule this planet. I once got in a fight with a moose, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21541@8",
+  "sire": "15101@3",
+  "children": [
+    "24059@10",
+    "24610@10",
+    "25315@10",
+    "26678@10",
+    "29649@10",
+    "40165@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

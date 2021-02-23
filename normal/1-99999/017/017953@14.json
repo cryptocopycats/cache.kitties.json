@@ -1,0 +1,18 @@
+{
+  "id": 17953,
+  "name": "London Fog",
+  "generation": 14,
+  "created_at": "2017-11-30T16:57:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm London Fog. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of watching Stranger Things, steak, and pole dancing. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "5280@13",
+  "sire": "14578@13",
+  "children": [
+    "28212@15",
+    "57428@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 21630,
+  "name": "Doggy",
+  "generation": 10,
+  "created_at": "2017-12-01T07:14:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Doggy. I'm often referred to as the Niles Crane of the group. I am 0% elf, 10% Skydiving Instructor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5897@1",
+  "sire": "5376@9",
+  "children": [
+    "56342@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 21053,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-01T04:35:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen 7. In high school, I was voted biggest teacher's pet. My friends describe me as \"brilliant.\" It's... accurate. Will you be the pickles to my ranch dressing?",
+  "language": "en",
+  "matron": "20785@6",
+  "sire": "20344@1",
+  "children": [
+    "21511@8",
+    "25518@8",
+    "33449@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

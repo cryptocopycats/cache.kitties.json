@@ -1,0 +1,24 @@
+{
+  "id": 19420,
+  "name": "Cat 11",
+  "generation": 11,
+  "created_at": "2017-11-30T22:06:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! Cat 11 here. I'm here to enjoy eating until I loathe myself and tricking babies. My secret indulgence is wet food. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14275@3",
+  "sire": "14282@10",
+  "children": [
+    "23116@12",
+    "36066@14",
+    "39087@15",
+    "55135@14",
+    "100245@19",
+    "152199@13",
+    "230312@15",
+    "233197@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 20525,
+  "name": "Mouchemouche",
+  "generation": 18,
+  "created_at": "2017-12-01T02:17:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Mouchemouche. I enjoy riding dirty, spinning sick beats, and reading garfield. Some people say I'm the Frodo Baggins of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "17696@10",
+  "sire": "19314@17",
+  "children": [
+    "33923@19",
+    "52217@19",
+    "252198@21",
+    "366232@19",
+    "1563749@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

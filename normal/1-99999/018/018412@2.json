@@ -1,0 +1,20 @@
+{
+  "id": 18412,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-30T18:57:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #18412. I want to live in a world where people believe the world is flat. Some people say I'm the Bart Simpson of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18398@1",
+  "sire": "18400@1",
+  "children": [
+    "18458@3",
+    "18489@3",
+    "19395@5",
+    "23725@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 19879,
+  "name": "Señor Salmón (G4)",
+  "generation": 4,
+  "created_at": "2017-11-30T23:47:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Señor Salmón (G4). I believe that one day cats will rule this planet. I am 35% hobbit, 10% Aerobics Athlete , and otherwise bad at math. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "13935@3",
+  "sire": "19610@3",
+  "children": [
+    "20040@8",
+    "20278@17",
+    "21147@8",
+    "23013@17",
+    "35542@20",
+    "55697@5",
+    "64261@5",
+    "90589@20",
+    "103764@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

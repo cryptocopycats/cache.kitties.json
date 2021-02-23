@@ -1,0 +1,20 @@
+{
+  "id": 20089,
+  "name": "McFocusless",
+  "generation": 12,
+  "created_at": "2017-12-01T00:30:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm McFocusless. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Let's pawty!",
+  "language": "en",
+  "matron": "6863@11",
+  "sire": "11809@9",
+  "children": [
+    "20831@13",
+    "44188@16",
+    "45042@13",
+    "87929@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19522,
+  "name": "Buddy | Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T22:22:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Buddy | Gen2. I want to live in a world where people believe that one day cats will rule this planet. I once cleaned a moose. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3476@1",
+  "sire": "18891@1",
+  "children": [
+    "19711@3",
+    "22177@3",
+    "22573@3",
+    "23870@3",
+    "25477@3",
+    "972792@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

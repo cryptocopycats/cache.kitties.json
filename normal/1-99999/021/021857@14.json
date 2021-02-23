@@ -1,0 +1,21 @@
+{
+  "id": 21857,
+  "name": "calicool lemonade",
+  "generation": 14,
+  "created_at": "2017-12-01T08:29:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm calicool lemonade. I've never told anyone this, but I once pranced with a dog. My secret indulgence is salad. Let's pawty!",
+  "language": "en",
+  "matron": "6336@13",
+  "sire": "15289@13",
+  "children": [
+    "25439@17",
+    "40201@15",
+    "82100@18",
+    "89693@15",
+    "128774@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

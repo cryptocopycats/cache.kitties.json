@@ -1,0 +1,19 @@
+{
+  "id": 18296,
+  "name": "Mr. Spoilt Lemon",
+  "generation": 10,
+  "created_at": "2017-11-30T18:30:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Mr. Spoilt Lemon. I'm a Ventriloquist by day, and I like practicing witchcraft by night. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "16042@9",
+  "sire": "9716@7",
+  "children": [
+    "18685@11",
+    "20945@17",
+    "65966@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

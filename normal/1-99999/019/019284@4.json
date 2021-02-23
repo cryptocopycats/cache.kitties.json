@@ -1,0 +1,19 @@
+{
+  "id": 19284,
+  "name": "Stella | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T21:42:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Stella | Gen4. I enjoy tripping my owner, staying woke, and eating lasagna. I like to listen to Wutang while grooming. Don't judge me. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "17354@3",
+  "sire": "18981@3",
+  "children": [
+    "19358@5",
+    "19432@5",
+    "24419@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

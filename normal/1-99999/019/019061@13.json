@@ -1,0 +1,20 @@
+{
+  "id": 19061,
+  "name": "Gen 13 Rare Bird Child Starter",
+  "generation": 13,
+  "created_at": "2017-11-30T21:01:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Gen 13 Rare Bird Child Starter here. I'm here to enjoy riding unicorns and eating lasagna. I'm often described as gullible, and I own it. Will you be the wasabi to my maple syrup?",
+  "language": "en",
+  "matron": "11308@10",
+  "sire": "15658@12",
+  "children": [
+    "19689@14",
+    "33351@14",
+    "42919@14",
+    "68051@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

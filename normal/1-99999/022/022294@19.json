@@ -1,0 +1,18 @@
+{
+  "id": 22294,
+  "name": "Rocky",
+  "generation": 19,
+  "created_at": "2017-12-01T10:32:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Rocky. I'm a professional Dogwalker and I love hamburgers. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "17252@18",
+  "sire": "17510@17",
+  "children": [
+    "27709@20",
+    "38451@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

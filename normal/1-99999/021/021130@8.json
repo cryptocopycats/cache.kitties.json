@@ -1,0 +1,20 @@
+{
+  "id": 21130,
+  "name": "Shadowgrey, Coffee",
+  "generation": 8,
+  "created_at": "2017-12-01T04:51:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Shadowgrey, Coffee. I once peed on Marie Antoinette's cat. They had it coming. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "21077@7",
+  "sire": "19637@7",
+  "children": [
+    "21239@9",
+    "48080@11",
+    "59384@9",
+    "82630@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

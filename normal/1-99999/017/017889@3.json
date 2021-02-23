@@ -1,0 +1,25 @@
+{
+  "id": 17889,
+  "name": "Doggo",
+  "generation": 3,
+  "created_at": "2017-11-30T16:40:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Doggo. I've never told anyone this, but I once licked a dog. I once made a chimpanzee dance. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "15798@2",
+  "sire": "15725@2",
+  "children": [
+    "18222@7",
+    "18281@7",
+    "21572@16",
+    "21855@15",
+    "23392@11",
+    "53142@4",
+    "54938@4",
+    "72678@4",
+    "78014@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

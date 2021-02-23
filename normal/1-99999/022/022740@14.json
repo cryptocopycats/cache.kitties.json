@@ -1,0 +1,22 @@
+{
+  "id": 22740,
+  "name": "Otaku Coffee",
+  "generation": 14,
+  "created_at": "2017-12-01T13:00:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Otaku Coffee. I'm a Skydiving Instructor by day, and I like siring for status by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "12171@8",
+  "sire": "15947@13",
+  "children": [
+    "23231@15",
+    "28472@16",
+    "35480@15",
+    "66465@19",
+    "82094@15",
+    "285580@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

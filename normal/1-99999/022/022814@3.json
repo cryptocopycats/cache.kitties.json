@@ -1,0 +1,24 @@
+{
+  "id": 22814,
+  "name": "Basic",
+  "generation": 3,
+  "created_at": "2017-12-01T13:26:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Basic here. I'm here to enjoy reciting poetry and sitting on your computer. I once got in a fight with a chimpanzee, and won. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "7091@1",
+  "sire": "12695@2",
+  "children": [
+    "33631@4",
+    "33922@4",
+    "34429@4",
+    "38056@4",
+    "39009@4",
+    "49923@4",
+    "56097@4",
+    "105051@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

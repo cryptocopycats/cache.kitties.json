@@ -1,0 +1,24 @@
+{
+  "id": 22741,
+  "name": "Gen 3 Brisk Bloodred Saycheese",
+  "generation": 3,
+  "created_at": "2017-12-01T13:01:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 3 Brisk Bloodred Saycheese. I'm often referred to as the Steve Urkel of the group. When no one's home, I invite my pals over and we listen to Metallica. I look forward to tripping my owner with you.",
+  "language": "en",
+  "matron": "22407@2",
+  "sire": "22528@2",
+  "children": [
+    "23638@7",
+    "26622@4",
+    "26679@4",
+    "29782@4",
+    "43141@4",
+    "163980@4",
+    "176494@4",
+    "192265@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

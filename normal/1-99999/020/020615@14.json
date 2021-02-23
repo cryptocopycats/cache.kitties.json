@@ -1,0 +1,20 @@
+{
+  "id": 20615,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-01T02:39:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 14. In high school, I was voted most likely to work at NASA. I once made a rabbit grimace. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "5781@13",
+  "sire": "18477@4",
+  "children": [
+    "22803@16",
+    "24443@18",
+    "29352@18",
+    "72158@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

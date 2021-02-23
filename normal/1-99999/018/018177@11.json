@@ -1,0 +1,21 @@
+{
+  "id": 18177,
+  "name": "Gen 11",
+  "generation": 11,
+  "created_at": "2017-11-30T17:55:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's Gen 11. I once peed on Mother Theresa's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "17981@8",
+  "sire": "18042@10",
+  "children": [
+    "18720@12",
+    "19828@14",
+    "179002@19",
+    "308378@17",
+    "324966@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

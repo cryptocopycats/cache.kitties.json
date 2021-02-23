@@ -1,0 +1,21 @@
+{
+  "id": 21492,
+  "name": "Gen13 SLow",
+  "generation": 13,
+  "created_at": "2017-12-01T06:32:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Gen13 SLow. I'm a professional Train Conductor and I love lasagna. When no one's home, I invite my pals over and we listen to Michael Bolton. I like your face.",
+  "language": "en",
+  "matron": "3634@7",
+  "sire": "12543@12",
+  "children": [
+    "23786@15",
+    "27800@16",
+    "28356@19",
+    "35093@15",
+    "45639@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

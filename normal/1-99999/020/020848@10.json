@@ -1,0 +1,24 @@
+{
+  "id": 20848,
+  "name": "Professor White",
+  "generation": 10,
+  "created_at": "2017-12-01T03:48:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Professor White. I've never told anyone this, but I once groomed a dog. My great-great-great-great-great-great grandkitty lived with Princess Diana. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20497@8",
+  "sire": "20498@9",
+  "children": [
+    "21627@11",
+    "22574@15",
+    "23397@11",
+    "26167@11",
+    "29871@11",
+    "59149@18",
+    "111191@13",
+    "130791@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

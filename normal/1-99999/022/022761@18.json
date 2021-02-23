@@ -1,0 +1,20 @@
+{
+  "id": 22761,
+  "name": "Moogle the MonkeyKilla",
+  "generation": 18,
+  "created_at": "2017-12-01T13:08:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Moogle the MonkeyKilla. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a chimpanzee, and won. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "10142@17",
+  "sire": "16514@17",
+  "children": [
+    "41749@19",
+    "66905@19",
+    "296089@19",
+    "359590@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

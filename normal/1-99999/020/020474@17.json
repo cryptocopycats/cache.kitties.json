@@ -1,0 +1,21 @@
+{
+  "id": 20474,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T02:05:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #20474. I've never told anyone this, but I once kissed a dog. I am 35% troll, 90% Dogwalker, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "17711@16",
+  "sire": "16656@15",
+  "children": [
+    "31492@18",
+    "33102@18",
+    "51483@18",
+    "72473@20",
+    "219714@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

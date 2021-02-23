@@ -1,0 +1,20 @@
+{
+  "id": 18533,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-30T19:21:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #18533. I've never told anyone this, but I once licked a dog. I once made a chimpanzee jump. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "13686@0",
+  "sire": "18457@2",
+  "children": [
+    "18832@21",
+    "19329@19",
+    "23746@15",
+    "68064@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

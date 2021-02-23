@@ -1,0 +1,19 @@
+{
+  "id": 18893,
+  "name": "Chester | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T20:18:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Chester | Gen4. I believe the world is flat. I once got in a fight with a dog, and won. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18424@3",
+  "sire": "18591@3",
+  "children": [
+    "18941@5",
+    "19025@5",
+    "19267@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

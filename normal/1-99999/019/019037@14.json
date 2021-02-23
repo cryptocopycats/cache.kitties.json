@@ -1,0 +1,20 @@
+{
+  "id": 19037,
+  "name": "ChocolateMintFace",
+  "generation": 14,
+  "created_at": "2017-11-30T20:56:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm ChocolateMintFace. I'm often referred to as the Lisa Simpson of the group. It's not common knowledge, but my ancestry connects me to Marie Antoinette. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "18193@9",
+  "sire": "18747@13",
+  "children": [
+    "20133@15",
+    "25940@18",
+    "85429@19",
+    "110805@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

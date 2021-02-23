@@ -1,0 +1,24 @@
+{
+  "id": 18971,
+  "name": "Gen 3 - Plodding",
+  "generation": 3,
+  "created_at": "2017-11-30T20:40:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 3 - Plodding. I'm a Private Dancer  by day, and I like riding the bus by night. I am 65% gremlin, 37% Skydiving Instructor, and otherwise bad at math. Our friendship will be wondrous, raunchy, and full of lasagna.",
+  "language": "en",
+  "matron": "3955@1",
+  "sire": "12666@2",
+  "children": [
+    "23073@4",
+    "23333@5",
+    "23677@4",
+    "27388@16",
+    "29080@4",
+    "34341@8",
+    "45707@4",
+    "65552@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

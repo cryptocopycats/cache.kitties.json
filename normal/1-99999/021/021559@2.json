@@ -1,0 +1,20 @@
+{
+  "id": 21559,
+  "name": "SnowWhite",
+  "generation": 2,
+  "created_at": "2017-12-01T06:51:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm SnowWhite. I enjoy chasing string, picking on mice, and licking doorknobs. Some people say I'm the Frodo Baggins of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3017@1",
+  "sire": "16529@1",
+  "children": [
+    "21610@10",
+    "21671@3",
+    "21944@12",
+    "48908@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

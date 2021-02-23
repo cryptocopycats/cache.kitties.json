@@ -1,0 +1,21 @@
+{
+  "id": 17800,
+  "name": "Bearded Xmas Kittie",
+  "generation": 13,
+  "created_at": "2017-11-30T16:23:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Bearded Xmas Kittie. I'm a Skydiving Instructor by day, and I like mocking dogs by night. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "17259@12",
+  "sire": "17247@5",
+  "children": [
+    "20471@14",
+    "31917@14",
+    "51357@14",
+    "230659@21",
+    "375943@26"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

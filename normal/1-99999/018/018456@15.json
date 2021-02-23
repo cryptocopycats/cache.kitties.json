@@ -1,0 +1,19 @@
+{
+  "id": 18456,
+  "name": "Plotter G15",
+  "generation": 15,
+  "created_at": "2017-11-30T19:05:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Plotter G15. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a rhino, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5400@6",
+  "sire": "11942@14",
+  "children": [
+    "24085@16",
+    "30008@16",
+    "78144@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

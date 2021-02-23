@@ -1,0 +1,20 @@
+{
+  "id": 20036,
+  "name": "Ned Mustache",
+  "generation": 14,
+  "created_at": "2017-12-01T00:24:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Ned Mustache. I'm a Aerobics Athlete  by day, and I like siring for status by night. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17216@13",
+  "sire": "10416@11",
+  "children": [
+    "21641@15",
+    "28591@18",
+    "37650@15",
+    "77035@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

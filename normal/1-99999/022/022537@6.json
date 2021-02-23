@@ -1,0 +1,22 @@
+{
+  "id": 22537,
+  "name": "MeowMuffin",
+  "generation": 6,
+  "created_at": "2017-12-01T11:45:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm MeowMuffin. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "18858@5",
+  "sire": "19786@5",
+  "children": [
+    "28610@7",
+    "34837@7",
+    "40272@7",
+    "43706@7",
+    "51506@17",
+    "95846@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

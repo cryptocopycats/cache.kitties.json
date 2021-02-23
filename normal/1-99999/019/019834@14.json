@@ -1,0 +1,20 @@
+{
+  "id": 19834,
+  "name": "Marcus",
+  "generation": 14,
+  "created_at": "2017-11-30T23:35:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Marcus. I'm often referred to as the Homer Simpson of the group. I once dreamed of being a Ventriloquist. Now I can be found summoning ghosts all day. Let's get busy!",
+  "language": "en",
+  "matron": "9145@13",
+  "sire": "10520@13",
+  "children": [
+    "23808@15",
+    "25536@19",
+    "35875@15",
+    "69013@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

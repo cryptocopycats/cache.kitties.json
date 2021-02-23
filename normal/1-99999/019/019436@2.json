@@ -1,0 +1,25 @@
+{
+  "id": 19436,
+  "name": "Luket Awesumster",
+  "generation": 2,
+  "created_at": "2017-11-30T22:09:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Luket Awesumster. My friends describe me as vegan and gullible. When I'm not playing chess, I'm siring for status! I like your face.",
+  "language": "en",
+  "matron": "3420@1",
+  "sire": "1033@0",
+  "children": [
+    "26268@3",
+    "26321@3",
+    "26409@3",
+    "26634@3",
+    "26961@3",
+    "27584@3",
+    "31273@3",
+    "33027@3",
+    "51093@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

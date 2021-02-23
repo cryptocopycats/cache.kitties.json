@@ -1,0 +1,19 @@
+{
+  "id": 18813,
+  "name": "Buck",
+  "generation": 16,
+  "created_at": "2017-11-30T20:09:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's Buck. I once peed on Confucius's cat. They had it coming. When no one's home, I invite my pals over and we listen to Gloria Estefan. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "7112@13",
+  "sire": "13190@15",
+  "children": [
+    "19314@17",
+    "28991@17",
+    "52637@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

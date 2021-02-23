@@ -1,0 +1,17 @@
+{
+  "id": 22369,
+  "name": "Lothar",
+  "generation": 15,
+  "created_at": "2017-12-01T10:47:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! My name's Lothar. I once peed on Confucius's cat. They had it coming. My secret indulgence is hamburgers. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15805@14",
+  "sire": "15783@14",
+  "children": [
+    "82757@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

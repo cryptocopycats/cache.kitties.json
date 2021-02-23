@@ -1,0 +1,20 @@
+{
+  "id": 20554,
+  "name": "Gen 17 No Kids",
+  "generation": 17,
+  "created_at": "2017-12-01T02:27:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! Gen 17 No Kids here. I'm here to enjoy riding dirty and breakdancing. I am 52% wizard, 50% Ventriloquist, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "19867@13",
+  "sire": "19952@16",
+  "children": [
+    "23110@18",
+    "27448@18",
+    "64011@18",
+    "99554@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 21747,
+  "name": "Christmas Cookie",
+  "generation": 14,
+  "created_at": "2017-12-01T07:51:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Christmas Cookie. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Aerobics Athlete . Now I can be found volunteering at the local kitten rescue shelter all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "17440@10",
+  "sire": "20314@13",
+  "children": [
+    "24512@15",
+    "26042@15",
+    "45825@17",
+    "76144@19",
+    "380231@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

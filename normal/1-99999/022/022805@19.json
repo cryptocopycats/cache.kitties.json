@@ -1,0 +1,19 @@
+{
+  "id": 22805,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-12-01T13:23:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 19. I'm often referred to as the Chandler Bing of the group. Sometimes I daydream of a life full of staying woke, salad, and practicing witchcraft. Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "13184@18",
+  "sire": "13203@15",
+  "children": [
+    "24447@20",
+    "36144@20",
+    "60674@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

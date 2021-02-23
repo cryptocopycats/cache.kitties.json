@@ -1,0 +1,22 @@
+{
+  "id": 21898,
+  "name": "Meowsilini",
+  "generation": 16,
+  "created_at": "2017-12-01T08:37:40.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Meowsilini. I believe that one day cats will rule this planet. I once dreamed of being a Foreign Film Director. Now I can be found watching reality tv all day. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "13035@13",
+  "sire": "7788@15",
+  "children": [
+    "56749@21",
+    "80063@17",
+    "110620@21",
+    "198458@18",
+    "313815@17",
+    "433111@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

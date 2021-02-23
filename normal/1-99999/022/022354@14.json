@@ -1,0 +1,23 @@
+{
+  "id": 22354,
+  "name": "SnowWhite",
+  "generation": 14,
+  "created_at": "2017-12-01T10:45:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm SnowWhite. I want to live in a world where people believe the world is flat. I once kissed a moose. I don't like to talk about it. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "19866@13",
+  "sire": "19229@11",
+  "children": [
+    "24393@15",
+    "25468@15",
+    "36195@15",
+    "91003@19",
+    "106757@15",
+    "389756@16",
+    "1193203@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

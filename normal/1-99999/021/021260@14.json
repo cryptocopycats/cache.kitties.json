@@ -1,0 +1,19 @@
+{
+  "id": 21260,
+  "name": "Gen14 Slow",
+  "generation": 14,
+  "created_at": "2017-12-01T05:28:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen14 Slow. All you need to know about me is I hate apple pie with a passion. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "16867@13",
+  "sire": "16901@10",
+  "children": [
+    "23202@15",
+    "25964@15",
+    "31703@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

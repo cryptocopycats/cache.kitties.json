@@ -1,0 +1,17 @@
+{
+  "id": 22085,
+  "name": "Mr. Paddington",
+  "generation": 14,
+  "created_at": "2017-12-01T09:28:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Mr. Paddington. I've never told anyone this, but I once frolicked with a dog. In my free time, I can usually be found wondrous or playing chess. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "20678@13",
+  "sire": "17807@12",
+  "children": [
+    "27994@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

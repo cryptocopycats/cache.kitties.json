@@ -1,0 +1,25 @@
+{
+  "id": 19139,
+  "name": "Beard",
+  "generation": 3,
+  "created_at": "2017-11-30T21:11:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Beard. I've never told anyone this, but I once pawed at a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "15489@2",
+  "sire": "15321@2",
+  "children": [
+    "19851@4",
+    "21245@4",
+    "22156@4",
+    "32696@4",
+    "33598@6",
+    "39070@14",
+    "45715@16",
+    "57217@7",
+    "182175@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

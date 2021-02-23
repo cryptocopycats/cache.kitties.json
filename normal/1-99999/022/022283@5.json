@@ -1,0 +1,20 @@
+{
+  "id": 22283,
+  "name": "G5 Raised Munchkin",
+  "generation": 5,
+  "created_at": "2017-12-01T10:24:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G5 Raised Munchkin. I'm often referred to as the Homer Simpson of the group. I once licked a labradoodle. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21748@1",
+  "sire": "21499@4",
+  "children": [
+    "58058@6",
+    "66967@8",
+    "70215@7",
+    "84206@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

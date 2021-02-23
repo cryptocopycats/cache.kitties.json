@@ -1,0 +1,19 @@
+{
+  "id": 22627,
+  "name": "Felix",
+  "generation": 12,
+  "created_at": "2017-12-01T12:20:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! Felix here. I'm here to enjoy breakdancing and fighting for the people. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4104@7",
+  "sire": "8065@11",
+  "children": [
+    "32863@17",
+    "35327@15",
+    "41318@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

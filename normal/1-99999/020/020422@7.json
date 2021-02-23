@@ -1,0 +1,17 @@
+{
+  "id": 20422,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-01T01:51:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #20422. My friends describe me as tantalizing and smelly. When no one's home, I invite my pals over and we listen to Wutang. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "13043@5",
+  "sire": "12799@6",
+  "children": [
+    "20538@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

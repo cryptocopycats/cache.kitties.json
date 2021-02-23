@@ -1,0 +1,20 @@
+{
+  "id": 22108,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T09:36:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! My name's Kitty #22108. I once peed on Martin Luther King Jr.'s cat. They had it coming. Some people say I'm the Bart Simpson of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "9089@16",
+  "sire": "12832@5",
+  "children": [
+    "34006@18",
+    "45526@18",
+    "90719@18",
+    "186410@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

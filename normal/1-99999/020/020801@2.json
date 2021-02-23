@@ -1,0 +1,28 @@
+{
+  "id": 20801,
+  "name": "Strawberry",
+  "generation": 2,
+  "created_at": "2017-12-01T03:37:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's Strawberry. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once got in a fight with a dog, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5556@1",
+  "sire": "16323@1",
+  "children": [
+    "21140@3",
+    "21241@3",
+    "21423@3",
+    "21490@3",
+    "21741@3",
+    "22013@3",
+    "22377@3",
+    "25044@3",
+    "33826@3",
+    "54391@3",
+    "68895@3",
+    "114844@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

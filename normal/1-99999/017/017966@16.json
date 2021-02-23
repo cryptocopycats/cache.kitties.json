@@ -1,0 +1,21 @@
+{
+  "id": 17966,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-30T17:02:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! Kitty #17966 here. I'm here to enjoy watching Stranger Things and glaring at the neighbour's cat. My secret indulgence is lasagna. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12558@0",
+  "sire": "17617@15",
+  "children": [
+    "18118@17",
+    "27093@17",
+    "37406@17",
+    "260428@21",
+    "435085@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

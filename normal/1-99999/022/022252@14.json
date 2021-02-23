@@ -1,0 +1,19 @@
+{
+  "id": 22252,
+  "name": "Lulu",
+  "generation": 14,
+  "created_at": "2017-12-01T10:15:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Lulu. I've never told anyone this, but I once snuggled a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I like your face.",
+  "language": "en",
+  "matron": "9923@1",
+  "sire": "12552@13",
+  "children": [
+    "23770@16",
+    "101392@15",
+    "438683@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

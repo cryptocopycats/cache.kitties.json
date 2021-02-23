@@ -1,0 +1,19 @@
+{
+  "id": 18307,
+  "name": "Swampy",
+  "generation": 15,
+  "created_at": "2017-11-30T18:35:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's Swampy. I once peed on Cleopatra's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Let's get busy!",
+  "language": "en",
+  "matron": "15986@4",
+  "sire": "12001@14",
+  "children": [
+    "18944@16",
+    "53398@16",
+    "88954@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

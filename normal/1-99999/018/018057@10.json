@@ -1,0 +1,24 @@
+{
+  "id": 18057,
+  "name": "Shadowgrey Dali Ducat Child",
+  "generation": 10,
+  "created_at": "2017-11-30T17:25:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Shadowgrey Dali Ducat Child. My friends describe me as preposterous and smelly. When no one's home, I invite my pals over and we listen to Coldplay. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "17430@9",
+  "sire": "17839@9",
+  "children": [
+    "19153@15",
+    "19275@11",
+    "20399@17",
+    "22366@11",
+    "42967@17",
+    "54242@11",
+    "78387@11",
+    "321230@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21447,
+  "name": "Himalayan",
+  "generation": 6,
+  "created_at": "2017-12-01T06:20:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's Himalayan. I once peed on Amelia Earhart's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "5101@5",
+  "sire": "5715@1",
+  "children": [
+    "24249@17",
+    "26656@18",
+    "27635@8",
+    "45808@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

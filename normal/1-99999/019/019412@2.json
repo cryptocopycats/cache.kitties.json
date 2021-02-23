@@ -1,0 +1,28 @@
+{
+  "id": 19412,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-11-30T22:06:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm G2. I enjoy spinning sick beats, slappin' da bass, and sweating through my feet. I put soy sauce on everything. Like, everything: hot dogs, wet food—everything! Let's get busy!",
+  "language": "en",
+  "matron": "14651@1",
+  "sire": "14440@1",
+  "children": [
+    "19546@3",
+    "19612@3",
+    "19971@3",
+    "20199@3",
+    "20495@3",
+    "21025@3",
+    "28754@3",
+    "136960@3",
+    "148311@3",
+    "196195@3",
+    "379163@3",
+    "424623@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

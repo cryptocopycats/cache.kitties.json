@@ -1,0 +1,25 @@
+{
+  "id": 19480,
+  "name": "Choco | G5",
+  "generation": 5,
+  "created_at": "2017-11-30T22:17:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's Choco | G5. I once peed on Amelia Earhart's cat. They had it coming. Some people say I'm the Chandler Bing of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13032@4",
+  "sire": "17442@4",
+  "children": [
+    "21054@8",
+    "21389@8",
+    "21605@11",
+    "21718@6",
+    "23129@6",
+    "24731@10",
+    "27188@6",
+    "44210@6",
+    "75945@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 17850,
+  "name": "36: GEN 12",
+  "generation": 12,
+  "created_at": "2017-11-30T16:28:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm 36: GEN 12. I've never told anyone this, but I once pranced with a dog. Some people say I'm the Ron Weasley of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17523@8",
+  "sire": "14467@11",
+  "children": [
+    "18312@13",
+    "20822@13",
+    "22072@14",
+    "28494@13",
+    "45655@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 18735,
+  "name": "Spock #31",
+  "generation": 3,
+  "created_at": "2017-11-30T19:56:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Spock #31. My friends describe me as ridiculous and brilliant. I was voted most likely to work at NASA in college. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "18387@2",
+  "sire": "18583@2",
+  "children": [
+    "18778@4",
+    "18973@4",
+    "19084@4",
+    "22183@4",
+    "25609@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

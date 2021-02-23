@@ -1,0 +1,28 @@
+{
+  "id": 20662,
+  "name": "Boring 2",
+  "generation": 2,
+  "created_at": "2017-12-01T02:55:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Boring 2. In high school, I was voted school jock. My secret indulgence is lasagna. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19572@1",
+  "sire": "7274@1",
+  "children": [
+    "20688@3",
+    "20743@3",
+    "20879@3",
+    "21038@3",
+    "28400@3",
+    "29507@3",
+    "30360@3",
+    "34302@3",
+    "60585@3",
+    "62895@3",
+    "128293@3",
+    "360553@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

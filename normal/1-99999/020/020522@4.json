@@ -1,0 +1,25 @@
+{
+  "id": 20522,
+  "name": "MintTongue G4",
+  "generation": 4,
+  "created_at": "2017-12-01T02:17:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm MintTongue G4. I've never told anyone this, but I once snuggled a dog. My secret indulgence is ice cream. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5971@1",
+  "sire": "16017@3",
+  "children": [
+    "23116@12",
+    "23837@6",
+    "23988@6",
+    "24245@6",
+    "24991@6",
+    "30139@6",
+    "33760@6",
+    "62199@5",
+    "101037@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

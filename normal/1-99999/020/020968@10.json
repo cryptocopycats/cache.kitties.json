@@ -1,0 +1,21 @@
+{
+  "id": 20968,
+  "name": "Cheeto",
+  "generation": 10,
+  "created_at": "2017-12-01T04:16:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Cheeto. I'm a Private Dancer  by day, and I like people-watching by night. In my free time, I can usually be found prickly or prank-calling celebrities. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4331@8",
+  "sire": "4823@9",
+  "children": [
+    "25268@15",
+    "26667@16",
+    "27531@11",
+    "52317@15",
+    "79185@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

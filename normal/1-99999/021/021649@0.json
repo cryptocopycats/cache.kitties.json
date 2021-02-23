@@ -1,0 +1,22 @@
+{
+  "id": 21649,
+  "name": "Tubbi the First",
+  "generation": 0,
+  "created_at": "2017-12-01T07:20:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Tubbi the First. I believe that one day cats will rule this planet. When I'm not prank-calling celebrities, I'm swiping right! Our friendship will be stinky, seductive, and full of lasagna.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "21932@1",
+    "22076@11",
+    "22358@13",
+    "23312@16",
+    "23341@18",
+    "23430@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

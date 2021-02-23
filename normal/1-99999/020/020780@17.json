@@ -1,0 +1,20 @@
+{
+  "id": 20780,
+  "name": "Ruby",
+  "generation": 17,
+  "created_at": "2017-12-01T03:30:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Ruby. My friends describe me as ridiculous and annoying. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "17719@11",
+  "sire": "20050@16",
+  "children": [
+    "21182@18",
+    "23779@18",
+    "35695@18",
+    "66628@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

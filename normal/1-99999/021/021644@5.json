@@ -1,0 +1,18 @@
+{
+  "id": 21644,
+  "name": "Riker",
+  "generation": 5,
+  "created_at": "2017-12-01T07:17:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Riker. My friends describe me as hairy and brilliant. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Will you be the pickles to my marmite?",
+  "language": "en",
+  "matron": "21537@4",
+  "sire": "20398@4",
+  "children": [
+    "228358@6",
+    "315364@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

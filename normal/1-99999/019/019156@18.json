@@ -1,0 +1,21 @@
+{
+  "id": 19156,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-30T21:22:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #19156. In high school, I was voted school jock. I once made a dolphin trot. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17153@17",
+  "sire": "10782@12",
+  "children": [
+    "25062@19",
+    "61334@19",
+    "74154@19",
+    "294031@19",
+    "411859@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

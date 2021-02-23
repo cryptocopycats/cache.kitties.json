@@ -1,0 +1,25 @@
+{
+  "id": 18461,
+  "name": "Gen 2 swift",
+  "generation": 2,
+  "created_at": "2017-11-30T19:05:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 2 swift. I'm often referred to as the Bart Simpson of the group. When I'm not summoning ghosts, I'm tricking babies! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "15592@1",
+  "sire": "6037@1",
+  "children": [
+    "27197@3",
+    "51007@3",
+    "70435@3",
+    "81211@3",
+    "151239@3",
+    "153066@3",
+    "172961@3",
+    "181808@3",
+    "214032@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

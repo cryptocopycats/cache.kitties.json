@@ -1,0 +1,19 @@
+{
+  "id": 22470,
+  "name": "TIGER FAMILY",
+  "generation": 14,
+  "created_at": "2017-12-01T11:25:22.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm TIGER FAMILY. I'm a professional Spin Instructor  and I love hamburgers. I once made a rabbit grimace. Let's pawty!",
+  "language": "en",
+  "matron": "20822@13",
+  "sire": "20748@13",
+  "children": [
+    "28224@15",
+    "49646@20",
+    "70102@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

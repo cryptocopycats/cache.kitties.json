@@ -1,0 +1,26 @@
+{
+  "id": 17581,
+  "name": "Poindexter | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T15:13:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Poindexter | Gen3. I'm a Spin Instructor  by day, and I like tricking babies by night. Sometimes I daydream of a life full of chasing string, chocolate, and volunteering at the local kitten rescue shelter. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "15955@2",
+  "sire": "3462@1",
+  "children": [
+    "17808@4",
+    "20128@4",
+    "22352@4",
+    "22915@13",
+    "23072@10",
+    "26312@4",
+    "27845@14",
+    "39594@4",
+    "46792@6",
+    "108647@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

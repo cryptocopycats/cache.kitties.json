@@ -1,0 +1,27 @@
+{
+  "id": 18851,
+  "name": "Duke Duckard",
+  "generation": 12,
+  "created_at": "2017-11-30T20:12:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Duke Duckard. In high school, I was voted school jock. I'm often described as stinky, and I own it. Our friendship will be petulant, tantalizing, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "15847@11",
+  "sire": "15211@7",
+  "children": [
+    "20773@16",
+    "23814@19",
+    "26137@13",
+    "45847@17",
+    "580303@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 21,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

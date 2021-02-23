@@ -1,0 +1,30 @@
+{
+  "id": 18548,
+  "name": "Gen 0 - Whiskers",
+  "generation": 0,
+  "created_at": "2017-11-30T19:24:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen 0 - Whiskers. I'm often referred to as the Neville Longbottom of the group. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20344@1",
+    "20395@1",
+    "20458@1",
+    "20512@1",
+    "20665@1",
+    "20868@5",
+    "21395@5",
+    "61981@1",
+    "71427@10",
+    "80431@1",
+    "106299@1",
+    "144128@1",
+    "195486@1",
+    "307064@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

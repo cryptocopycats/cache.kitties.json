@@ -1,0 +1,20 @@
+{
+  "id": 18784,
+  "name": "2",
+  "generation": 17,
+  "created_at": "2017-11-30T20:03:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm 2. My friends describe me as petulant and tantalizing. My friends describe me as \"despicable.\" It's... accurate. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "16482@14",
+  "sire": "17651@16",
+  "children": [
+    "20810@18",
+    "23851@18",
+    "31103@18",
+    "75895@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

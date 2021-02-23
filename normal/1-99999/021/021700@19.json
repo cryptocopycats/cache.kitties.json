@@ -1,0 +1,18 @@
+{
+  "id": 21700,
+  "name": "TAR",
+  "generation": 19,
+  "created_at": "2017-12-01T07:40:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm TAR. I'm a professional Aerobics Athlete  and I love chocolate. I once dreamed of being a Train Conductor. Now I can be found running a podcast all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "10741@8",
+  "sire": "20724@18",
+  "children": [
+    "26936@20",
+    "37952@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

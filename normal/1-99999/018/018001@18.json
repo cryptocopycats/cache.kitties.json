@@ -1,0 +1,19 @@
+{
+  "id": 18001,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-30T17:12:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #18001. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "9990@17",
+  "sire": "5854@10",
+  "children": [
+    "59382@21",
+    "78825@19",
+    "165275@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

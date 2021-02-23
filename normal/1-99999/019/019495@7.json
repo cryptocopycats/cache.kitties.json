@@ -1,0 +1,23 @@
+{
+  "id": 19495,
+  "name": "Valentino",
+  "generation": 7,
+  "created_at": "2017-11-30T22:18:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Valentino. I'm a professional Private Dancer  and I love lasagna. When I'm not volunteering at the local kitten rescue shelter, I'm jump-roping! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4914@6",
+  "sire": "14732@4",
+  "children": [
+    "22567@17",
+    "23418@15",
+    "39585@12",
+    "41173@8",
+    "47567@14",
+    "58000@16",
+    "72646@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

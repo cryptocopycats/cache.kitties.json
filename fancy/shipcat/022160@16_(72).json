@@ -1,0 +1,25 @@
+{
+  "id": 22160,
+  "name": "Sailor Kitty",
+  "generation": 16,
+  "created_at": "2017-12-01T09:58:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! Sailor Kitty here. I'm here to enjoy hitting on yo' man and riding dirty. I put maple syrup on everything. Like, everything: hot dogs, hamburgers—everything! Will you be the marmite to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "20363@10",
+  "sire": "15797@15",
+  "children": [
+    "25277@17",
+    "37023@17",
+    "77968@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 72,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

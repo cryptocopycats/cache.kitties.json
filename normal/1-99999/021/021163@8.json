@@ -1,0 +1,18 @@
+{
+  "id": 21163,
+  "name": "G8",
+  "generation": 8,
+  "created_at": "2017-12-01T05:03:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm G8. I'm a professional Train Conductor and I love cantaloupe. I am 84% gremlin, 84% Private Dancer , and otherwise bad at math. Our friendship will be smelly, hairy, and full of chocolate.",
+  "language": "en",
+  "matron": "21127@7",
+  "sire": "20998@7",
+  "children": [
+    "21299@9",
+    "44225@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

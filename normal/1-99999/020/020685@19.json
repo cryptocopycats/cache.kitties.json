@@ -1,0 +1,18 @@
+{
+  "id": 20685,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-12-01T03:05:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Gen 19. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6642@15",
+  "sire": "12226@18",
+  "children": [
+    "26647@20",
+    "30076@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

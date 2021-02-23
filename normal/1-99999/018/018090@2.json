@@ -1,0 +1,25 @@
+{
+  "id": 18090,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-11-30T17:33:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm G2. I've never told anyone this, but I once tricked a dog. In my free time, I can usually be found smelly or practicing witchcraft. Let's pawty!",
+  "language": "en",
+  "matron": "14440@1",
+  "sire": "12553@1",
+  "children": [
+    "19422@4",
+    "22980@3",
+    "24772@3",
+    "29989@3",
+    "136553@3",
+    "139225@3",
+    "147295@3",
+    "195948@3",
+    "559355@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

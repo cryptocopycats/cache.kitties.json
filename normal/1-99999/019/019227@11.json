@@ -1,0 +1,21 @@
+{
+  "id": 19227,
+  "name": "Lemon Tart",
+  "generation": 11,
+  "created_at": "2017-11-30T21:33:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Lemon Tart. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Peter Griffin of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18881@5",
+  "sire": "18734@10",
+  "children": [
+    "19579@12",
+    "19789@12",
+    "21779@12",
+    "26080@17",
+    "69065@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

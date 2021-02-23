@@ -1,0 +1,22 @@
+{
+  "id": 18023,
+  "name": "Ground Royal",
+  "generation": 17,
+  "created_at": "2017-11-30T17:17:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Ground Royal. I enjoy picking flowers, chasing string, and breakdancing. My friends describe me as \"voluptuous.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "10980@16",
+  "sire": "11182@12",
+  "children": [
+    "22247@18",
+    "26179@18",
+    "30927@20",
+    "79945@21",
+    "286950@20",
+    "314240@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

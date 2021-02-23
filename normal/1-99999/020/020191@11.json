@@ -1,0 +1,20 @@
+{
+  "id": 20191,
+  "name": "Gen 11 Plodding KC/TB/CY",
+  "generation": 11,
+  "created_at": "2017-12-01T00:59:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Gen 11 Plodding KC/TB/CY. In high school, I was voted school jock. My secret indulgence is apple pie. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "18206@10",
+  "sire": "19131@10",
+  "children": [
+    "21985@12",
+    "22372@12",
+    "35698@20",
+    "129829@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 19835,
+  "name": "Sheldon Gen7- x1",
+  "generation": 7,
+  "created_at": "2017-11-30T23:36:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Sheldon Gen7- x1. I've never told anyone this, but I once pranced with a dog. I'm convinced that the world is flat. One day I'll prove it. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "16742@5",
+  "sire": "19273@6",
+  "children": [
+    "21971@8",
+    "24514@8",
+    "24524@8",
+    "24830@8",
+    "28551@10",
+    "46718@10",
+    "75403@8",
+    "114835@23",
+    "148116@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

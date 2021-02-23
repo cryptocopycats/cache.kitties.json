@@ -1,0 +1,25 @@
+{
+  "id": 19265,
+  "name": "Cerulian #3 & Chartreux #7",
+  "generation": 4,
+  "created_at": "2017-11-30T21:40:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Cerulian #3 & Chartreux #7. I'm often referred to as the Michael Scott of the group. I would give it all up to star in a soap opera. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "19114@3",
+  "sire": "19226@3",
+  "children": [
+    "19378@5",
+    "19430@5",
+    "19601@5",
+    "20210@5",
+    "20276@5",
+    "22469@5",
+    "25950@5",
+    "28049@5",
+    "132636@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

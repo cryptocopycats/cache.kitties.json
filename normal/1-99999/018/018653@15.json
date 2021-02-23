@@ -1,0 +1,21 @@
+{
+  "id": 18653,
+  "name": "Collector's Cat #18653",
+  "generation": 15,
+  "created_at": "2017-11-30T19:43:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Collector's Cat #18653. In high school, I was voted school jock. I once dreamed of being a Mad Scientist. Now I can be found sleeping in fresh laundry all day. I like your face.",
+  "language": "en",
+  "matron": "16428@14",
+  "sire": "14710@8",
+  "children": [
+    "21976@16",
+    "24730@17",
+    "31191@22",
+    "37281@16",
+    "59035@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

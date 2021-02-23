@@ -1,0 +1,23 @@
+{
+  "id": 19234,
+  "name": "Gen 3 19234",
+  "generation": 3,
+  "created_at": "2017-11-30T21:33:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen 3 19234. I'm often referred to as the Ron Weasley of the group. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "19006@2",
+  "sire": "19145@2",
+  "children": [
+    "19274@4",
+    "19393@4",
+    "24683@4",
+    "25696@4",
+    "40556@11",
+    "45596@7",
+    "69064@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

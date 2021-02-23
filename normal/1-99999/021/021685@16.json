@@ -1,0 +1,21 @@
+{
+  "id": 21685,
+  "name": "Mi Mono",
+  "generation": 16,
+  "created_at": "2017-12-01T07:37:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! My name's Mi Mono. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once got in a fight with a gecko, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "20514@15",
+  "sire": "19445@15",
+  "children": [
+    "24629@17",
+    "39244@17",
+    "77734@17",
+    "208272@17",
+    "292739@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

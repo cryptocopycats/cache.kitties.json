@@ -1,0 +1,30 @@
+{
+  "id": 18846,
+  "name": "Birdcat | G9 | Slow",
+  "generation": 9,
+  "created_at": "2017-11-30T20:12:14.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! My name's Birdcat | G9 | Slow. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When I'm not volunteering at the local kitten rescue shelter, I'm sleeping in fresh laundry! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "14414@8",
+  "sire": "13310@8",
+  "children": [
+    "19007@10",
+    "21236@10",
+    "21354@10",
+    "25336@11",
+    "29393@10",
+    "40002@10",
+    "80051@10",
+    "106883@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 20,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

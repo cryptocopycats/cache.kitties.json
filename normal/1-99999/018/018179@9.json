@@ -1,0 +1,24 @@
+{
+  "id": 18179,
+  "name": "Gen 9 | Slow",
+  "generation": 9,
+  "created_at": "2017-11-30T17:55:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Gen 9 | Slow. I enjoy shakin' dat booty, reciting poetry, and reading garfield. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the marmalade to my wasabi?",
+  "language": "en",
+  "matron": "18105@0",
+  "sire": "17830@8",
+  "children": [
+    "19341@16",
+    "20829@18",
+    "23339@18",
+    "28064@18",
+    "29762@18",
+    "49079@18",
+    "131055@10",
+    "276830@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

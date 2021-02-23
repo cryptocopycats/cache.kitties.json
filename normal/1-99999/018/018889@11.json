@@ -1,0 +1,20 @@
+{
+  "id": 18889,
+  "name": "11",
+  "generation": 11,
+  "created_at": "2017-11-30T20:18:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 11. I want to live in a world where people believe the world is flat. My friends describe me as \"gullible.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18241@7",
+  "sire": "18584@10",
+  "children": [
+    "36363@12",
+    "38426@12",
+    "45698@16",
+    "71885@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

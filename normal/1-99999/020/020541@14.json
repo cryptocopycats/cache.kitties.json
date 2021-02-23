@@ -1,0 +1,18 @@
+{
+  "id": 20541,
+  "name": "Chief Wiggum",
+  "generation": 14,
+  "created_at": "2017-12-01T02:24:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Chief Wiggum. I'm a professional Dispensary Clerk and I love cantaloupe. Sometimes I daydream of a life full of fighting for the people, ice cream, and volunteering at the local kitten rescue shelter. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "13748@13",
+  "sire": "12311@8",
+  "children": [
+    "22034@15",
+    "78794@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

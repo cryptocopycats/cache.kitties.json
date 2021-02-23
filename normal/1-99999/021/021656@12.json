@@ -1,0 +1,21 @@
+{
+  "id": 21656,
+  "name": "Ghost Kitty",
+  "generation": 12,
+  "created_at": "2017-12-01T07:21:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Ghost Kitty. I'm often referred to as the Michael Scott of the group. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "5800@11",
+  "sire": "4145@5",
+  "children": [
+    "24272@13",
+    "86195@19",
+    "107376@13",
+    "120341@13",
+    "160581@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

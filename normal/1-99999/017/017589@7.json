@@ -1,0 +1,20 @@
+{
+  "id": 17589,
+  "name": "young peach",
+  "generation": 7,
+  "created_at": "2017-11-30T15:15:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm young peach. I'm a Culinary Sanitation Specialist by day, and I like running a podcast by night. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "17117@4",
+  "sire": "17545@6",
+  "children": [
+    "18139@10",
+    "18872@15",
+    "50924@18",
+    "88842@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

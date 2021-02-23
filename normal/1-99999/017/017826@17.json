@@ -1,0 +1,21 @@
+{
+  "id": 17826,
+  "name": "Safrane",
+  "generation": 17,
+  "created_at": "2017-11-30T16:24:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Safrane. I believe the world is flat. My friends describe me as \"annoying.\" It's... accurate. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "6949@10",
+  "sire": "14163@16",
+  "children": [
+    "40496@18",
+    "53518@18",
+    "85132@18",
+    "137767@20",
+    "158437@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

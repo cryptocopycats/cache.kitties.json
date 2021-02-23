@@ -1,0 +1,21 @@
+{
+  "id": 21416,
+  "name": "Otaku > Rare",
+  "generation": 15,
+  "created_at": "2017-12-01T06:13:02.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Otaku > Rare. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "13890@13",
+  "sire": "14624@14",
+  "children": [
+    "25734@16",
+    "26149@19",
+    "43131@16",
+    "65609@16",
+    "112180@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

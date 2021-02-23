@@ -1,0 +1,22 @@
+{
+  "id": 17760,
+  "name": "0x0001",
+  "generation": 5,
+  "created_at": "2017-11-30T16:17:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 0x0001. I enjoy eating lasagna, eating until I loathe myself, and fighting for the people. Some people say I'm the Steve Urkel of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17228@4",
+  "sire": "17659@3",
+  "children": [
+    "42092@6",
+    "42312@7",
+    "48785@6",
+    "52905@7",
+    "57578@6",
+    "65925@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

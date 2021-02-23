@@ -1,0 +1,19 @@
+{
+  "id": 19100,
+  "name": "Phil",
+  "generation": 17,
+  "created_at": "2017-11-30T21:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! My name's Phil. I once peed on Amelia Earhart's cat. They had it coming. I am 14% wizard, 15% Private Dancer , and otherwise bad at math. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "11868@10",
+  "sire": "14564@16",
+  "children": [
+    "21156@18",
+    "25940@18",
+    "82504@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

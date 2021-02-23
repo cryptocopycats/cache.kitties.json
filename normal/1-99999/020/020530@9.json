@@ -1,0 +1,19 @@
+{
+  "id": 20530,
+  "name": "Mardi rubis",
+  "generation": 9,
+  "created_at": "2017-12-01T02:19:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Mardi rubis. I believe that one day cats will rule this planet. I once made a moose scare. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18676@8",
+  "sire": "18421@7",
+  "children": [
+    "20941@10",
+    "22651@18",
+    "85506@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

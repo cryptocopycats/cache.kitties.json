@@ -1,0 +1,26 @@
+{
+  "id": 22681,
+  "name": "Elizabeth",
+  "generation": 6,
+  "created_at": "2017-12-01T12:44:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Elizabeth. I once peed on King Henry VIII's cat. They had it coming. I was voted most likely to work at NASA in college. Our friendship will be brilliant, prickly, and full of hamburgers.",
+  "language": "en",
+  "matron": "14577@0",
+  "sire": "3867@5",
+  "children": [
+    "22880@7",
+    "23210@17",
+    "24286@15",
+    "31936@14",
+    "72355@7",
+    "105459@7",
+    "153378@9",
+    "175794@7",
+    "212225@7",
+    "375491@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

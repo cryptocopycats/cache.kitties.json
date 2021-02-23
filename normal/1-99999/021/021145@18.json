@@ -1,0 +1,20 @@
+{
+  "id": 21145,
+  "name": "Hamster",
+  "generation": 18,
+  "created_at": "2017-12-01T04:54:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Hamster. I'm a Mad Scientist by day, and I like playing chess by night. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "12324@13",
+  "sire": "15554@17",
+  "children": [
+    "24335@19",
+    "32370@21",
+    "94180@19",
+    "120894@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

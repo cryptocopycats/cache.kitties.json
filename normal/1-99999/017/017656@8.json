@@ -1,0 +1,22 @@
+{
+  "id": 17656,
+  "name": "Biggles",
+  "generation": 8,
+  "created_at": "2017-11-30T15:47:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Biggles. I'm a Dogwalker by day, and I like reading Danielle Steele by night. When no one's home, I invite my pals over and we listen to Ace of Base. Our friendship will be gorgeous, stinky, and full of apple pie.",
+  "language": "en",
+  "matron": "15619@7",
+  "sire": "15695@7",
+  "children": [
+    "18630@17",
+    "18986@9",
+    "23520@10",
+    "28025@11",
+    "300857@18",
+    "302071@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

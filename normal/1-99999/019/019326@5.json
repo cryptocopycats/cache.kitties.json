@@ -1,0 +1,27 @@
+{
+  "id": 19326,
+  "name": "El Gaton",
+  "generation": 5,
+  "created_at": "2017-11-30T21:49:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm El Gaton. I enjoy fighting for the people, breakdancing, and grooming. I once made a moose dance. Will you be the wasabi to my ranch dressing?",
+  "language": "en",
+  "matron": "18932@4",
+  "sire": "19066@4",
+  "children": [
+    "19388@6",
+    "19457@6",
+    "19623@6",
+    "19961@6",
+    "22435@6",
+    "24148@6",
+    "28802@6",
+    "45722@6",
+    "93125@17",
+    "230763@6",
+    "663499@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18743,
+  "name": "Snickers  | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T19:57:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Snickers  | Gen4. I enjoy tricking babies, staying woke, and spinning sick beats. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "18575@3",
+  "sire": "18642@3",
+  "children": [
+    "18884@5",
+    "19025@5",
+    "19035@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 18520,
+  "name": "13",
+  "generation": 13,
+  "created_at": "2017-11-30T19:20:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm 13. I'm often referred to as the Peter Griffin of the group. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "18364@8",
+  "sire": "18339@12",
+  "children": [
+    "27862@14",
+    "39621@14",
+    "64069@15",
+    "89047@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

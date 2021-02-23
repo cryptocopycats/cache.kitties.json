@@ -1,0 +1,21 @@
+{
+  "id": 17624,
+  "name": "Crystalux",
+  "generation": 15,
+  "created_at": "2017-11-30T15:44:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Crystalux. I'm often referred to as the Lisa Simpson of the group. When no one's home, I invite my pals over and we listen to Coldplay. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "16506@14",
+  "sire": "16536@7",
+  "children": [
+    "18672@17",
+    "24698@16",
+    "89321@19",
+    "179914@19",
+    "286619@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

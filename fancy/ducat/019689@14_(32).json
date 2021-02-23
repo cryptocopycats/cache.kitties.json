@@ -1,0 +1,26 @@
+{
+  "id": 19689,
+  "name": "☻ Gen 14 / Plodding ☻",
+  "generation": 14,
+  "created_at": "2017-11-30T22:59:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm ☻ Gen 14 / Plodding ☻. I'm often referred to as the Neville Longbottom of the group. Some people say I'm the Neville Longbottom of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19061@13",
+  "sire": "14246@5",
+  "children": [
+    "21562@15",
+    "22363@15",
+    "24993@15",
+    "56191@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 32,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

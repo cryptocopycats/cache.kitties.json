@@ -1,0 +1,20 @@
+{
+  "id": 20446,
+  "name": "Purple Rick, first of his kind",
+  "generation": 16,
+  "created_at": "2017-12-01T01:55:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Purple Rick, first of his kind. I'm often referred to as the Frodo Baggins of the group. When I'm not running a podcast, I'm mocking dogs! I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "18522@7",
+  "sire": "18082@15",
+  "children": [
+    "22120@17",
+    "26594@17",
+    "36785@17",
+    "64318@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

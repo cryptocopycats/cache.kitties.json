@@ -1,0 +1,24 @@
+{
+  "id": 17784,
+  "name": "SMOKEY",
+  "generation": 8,
+  "created_at": "2017-11-30T16:23:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm SMOKEY. All you need to know about me is I hate salad with a passion. I like to listen to Rihanna while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "17543@7",
+  "sire": "17500@7",
+  "children": [
+    "18111@9",
+    "22257@14",
+    "23729@14",
+    "25976@20",
+    "56740@14",
+    "76892@14",
+    "272449@9",
+    "338452@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

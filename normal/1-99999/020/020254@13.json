@@ -1,0 +1,18 @@
+{
+  "id": 20254,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-01T01:13:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #20254. I believe the world is flat. I once kissed a moose. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "7006@8",
+  "sire": "16387@12",
+  "children": [
+    "24484@17",
+    "90318@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

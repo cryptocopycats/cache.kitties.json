@@ -1,0 +1,19 @@
+{
+  "id": 19430,
+  "name": "Spike | Gen5",
+  "generation": 5,
+  "created_at": "2017-11-30T22:08:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! My name's Spike | Gen5. I once peed on Amelia Earhart's cat. They had it coming. I once dreamed of being a Skydiving Instructor. Now I can be found riverdancing all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18913@4",
+  "sire": "19265@4",
+  "children": [
+    "19545@6",
+    "19630@6",
+    "19797@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

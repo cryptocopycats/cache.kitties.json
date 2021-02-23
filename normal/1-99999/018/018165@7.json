@@ -1,0 +1,21 @@
+{
+  "id": 18165,
+  "name": "gen 7",
+  "generation": 7,
+  "created_at": "2017-11-30T17:52:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm gen 7. I'm often referred to as the Marge Simpson of the group. I once got in a fight with a rabbit, and won. Our friendship will be tantalizing, petulant, and full of hamburgers.",
+  "language": "en",
+  "matron": "17770@6",
+  "sire": "17749@6",
+  "children": [
+    "18233@10",
+    "18409@11",
+    "18644@8",
+    "25718@8",
+    "44925@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

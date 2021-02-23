@@ -1,0 +1,20 @@
+{
+  "id": 20184,
+  "name": "Purple Raccoon Gen 11",
+  "generation": 11,
+  "created_at": "2017-12-01T00:56:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Purple Raccoon Gen 11. I believe the world is flat. In my free time, I can usually be found fabulous or riverdancing. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19882@10",
+  "sire": "13003@6",
+  "children": [
+    "20772@21",
+    "21556@12",
+    "23826@12",
+    "56766@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

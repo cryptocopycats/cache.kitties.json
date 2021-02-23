@@ -1,0 +1,26 @@
+{
+  "id": 19275,
+  "name": "TWTR Cat",
+  "generation": 11,
+  "created_at": "2017-11-30T21:42:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! TWTR Cat here. I'm here to enjoy reading garfield and staying woke. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18057@10",
+  "sire": "17830@8",
+  "children": [
+    "20797@12",
+    "21202@15",
+    "31813@12",
+    "42721@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 25,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 20465,
+  "name": "006",
+  "generation": 6,
+  "created_at": "2017-12-01T02:05:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 006. I want to live in a world where people believe that one day cats will rule this planet. I once snuggled a dolphin. I don't like to talk about it. Will you be the wasabi to my garlic butter?",
+  "language": "en",
+  "matron": "20266@5",
+  "sire": "1040@0",
+  "children": [
+    "20581@7",
+    "39380@14",
+    "40313@14",
+    "42053@11",
+    "48871@7",
+    "65316@7",
+    "79645@7",
+    "201274@8",
+    "236527@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

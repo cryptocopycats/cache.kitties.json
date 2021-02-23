@@ -1,0 +1,21 @@
+{
+  "id": 21903,
+  "name": "Gray Matter",
+  "generation": 15,
+  "created_at": "2017-12-01T08:38:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! Gray Matter here. I'm here to enjoy being a nevernude and fighting the patriarchy. When I'm not braiding people's hair, I'm riverdancing! Let's pawty!",
+  "language": "en",
+  "matron": "14389@14",
+  "sire": "6812@11",
+  "children": [
+    "22375@16",
+    "29510@16",
+    "55013@16",
+    "83603@17",
+    "189415@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 20714,
+  "name": "4",
+  "generation": 4,
+  "created_at": "2017-12-01T03:17:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm 4. I enjoy glaring at the neighbour's cat, being a nevernude, and fighting for the people. I once dreamed of being a Mad Scientist. Now I can be found riverdancing all day. I like your face.",
+  "language": "en",
+  "matron": "18162@3",
+  "sire": "4024@3",
+  "children": [
+    "21364@9",
+    "22430@5",
+    "24378@16",
+    "25903@16",
+    "26163@5",
+    "26183@5",
+    "29041@10",
+    "55034@7",
+    "81627@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

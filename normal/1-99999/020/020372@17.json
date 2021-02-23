@@ -1,0 +1,19 @@
+{
+  "id": 20372,
+  "name": "Rare Boss",
+  "generation": 17,
+  "created_at": "2017-12-01T01:38:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Rare Boss. I enjoy glaring at the neighbour's cat, eating lasagna, and tricking babies. I once pranced with a goose. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12938@16",
+  "sire": "12235@15",
+  "children": [
+    "56240@18",
+    "102834@18",
+    "108319@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

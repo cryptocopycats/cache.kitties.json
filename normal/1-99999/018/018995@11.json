@@ -1,0 +1,23 @@
+{
+  "id": 18995,
+  "name": "Fluffster",
+  "generation": 11,
+  "created_at": "2017-11-30T20:50:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Fluffster. I once peed on Martin Luther King Jr.'s cat. They had it coming. When I'm not practicing witchcraft, I'm riding the bus! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12690@7",
+  "sire": "12544@10",
+  "children": [
+    "19948@12",
+    "20126@14",
+    "22413@12",
+    "24333@16",
+    "28436@16",
+    "68645@16",
+    "75568@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

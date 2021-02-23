@@ -1,0 +1,18 @@
+{
+  "id": 19928,
+  "name": "Canaille",
+  "generation": 17,
+  "created_at": "2017-11-30T23:57:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Canaille. My friends describe me as tantalizing and preposterous. Sometimes I daydream of a life full of grooming, hamburgers, and braiding people's hair. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4728@8",
+  "sire": "14515@16",
+  "children": [
+    "23551@18",
+    "76177@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

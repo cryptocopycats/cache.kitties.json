@@ -1,0 +1,18 @@
+{
+  "id": 19168,
+  "name": "Bluefoot",
+  "generation": 10,
+  "created_at": "2017-11-30T21:22:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Bluefoot. My friends describe me as raunchy and voluptuous. When I'm not people-watching, I'm sleeping in fresh laundry! Let's get busy!",
+  "language": "en",
+  "matron": "16550@9",
+  "sire": "15735@6",
+  "children": [
+    "19674@11",
+    "22549@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 19920,
+  "name": "G16",
+  "generation": 16,
+  "created_at": "2017-11-30T23:54:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm G16. I'm a Ventriloquist by day, and I like riding the bus by night. It's not common knowledge, but my ancestry connects me to Confucius. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7625@15",
+  "sire": "6176@14",
+  "children": [
+    "23204@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19650,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-11-30T22:53:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen 20. I'm a professional Spin Instructor  and I love ice cream. I'm often described as gorgeous, and I own it. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "18888@3",
+  "sire": "19312@19",
+  "children": [
+    "20061@21",
+    "48846@21",
+    "98683@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

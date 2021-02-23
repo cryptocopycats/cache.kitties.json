@@ -1,0 +1,19 @@
+{
+  "id": 20071,
+  "name": "SnoopCat",
+  "generation": 12,
+  "created_at": "2017-12-01T00:28:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm SnoopCat. I'm a professional Train Conductor and I love cereal. My great-great-great-great-great-great grandkitty lived with Confucius. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "15881@6",
+  "sire": "18845@11",
+  "children": [
+    "30390@18",
+    "32337@13",
+    "38236@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

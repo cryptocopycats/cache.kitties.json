@@ -1,0 +1,30 @@
+{
+  "id": 19477,
+  "name": "Rosita Fresita",
+  "generation": 7,
+  "created_at": "2017-11-30T22:15:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Rosita Fresita. My friends describe me as voluptuous and gullible. My friends describe me as \"petulant.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16729@6",
+  "sire": "17769@6",
+  "children": [
+    "20040@8",
+    "20206@16",
+    "20540@18",
+    "21147@8",
+    "26669@16",
+    "31221@18",
+    "66519@20",
+    "90686@19",
+    "213243@15",
+    "325660@18",
+    "332936@8",
+    "401725@8",
+    "496802@9",
+    "1396799@10"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

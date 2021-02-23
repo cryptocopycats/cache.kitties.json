@@ -1,0 +1,19 @@
+{
+  "id": 21610,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-01T07:07:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #21610. All you need to know about me is I hate chocolate with a passion. My friends describe me as \"stinky.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "21559@2",
+  "sire": "16547@9",
+  "children": [
+    "21651@11",
+    "29884@11",
+    "53179@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19125,
+  "name": "7",
+  "generation": 7,
+  "created_at": "2017-11-30T21:09:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm 7. My friends describe me as annoying and petulant. I once frolicked with a gecko. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17749@6",
+  "sire": "18543@6",
+  "children": [
+    "20620@8",
+    "25217@8",
+    "44966@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

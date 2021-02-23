@@ -1,0 +1,21 @@
+{
+  "id": 22089,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-01T09:30:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #22089. I'm a professional Skydiving Instructor and I love steak. I am 98% gremlin, 61% Private Dancer , and otherwise bad at math. Will you be the garlic butter to my soy sauce?",
+  "language": "en",
+  "matron": "22035@5",
+  "sire": "19064@6",
+  "children": [
+    "22225@8",
+    "29208@8",
+    "64204@11",
+    "70301@10",
+    "74398@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

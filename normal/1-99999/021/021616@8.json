@@ -1,0 +1,21 @@
+{
+  "id": 21616,
+  "name": "gen8 breeder",
+  "generation": 8,
+  "created_at": "2017-12-01T07:09:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm gen8 breeder. I'm often referred to as the Samwise Gamgee of the group. My friends describe me as \"smelly.\" It's... accurate. Our friendship will be wondrous, hairy, and full of chocolate.",
+  "language": "en",
+  "matron": "20581@7",
+  "sire": "20266@5",
+  "children": [
+    "43517@9",
+    "44612@10",
+    "45713@9",
+    "50209@9",
+    "63422@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 21921,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T08:43:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen4. My friends describe me as petulant and gullible. I once dreamed of being a Dogwalker. Now I can be found tricking babies all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "19746@3",
+  "sire": "20018@3",
+  "children": [
+    "23442@5",
+    "25803@5",
+    "27934@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

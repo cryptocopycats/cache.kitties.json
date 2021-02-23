@@ -1,0 +1,26 @@
+{
+  "id": 21517,
+  "name": "G14 Feathers Keaton",
+  "generation": 14,
+  "created_at": "2017-12-01T06:38:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm G14 Feathers Keaton. I'm a professional Foreign Film Director and I love hamburgers. I'm often described as stinky, and I own it. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18692@8",
+  "sire": "19865@13",
+  "children": [
+    "28337@15",
+    "32133@15",
+    "71778@15",
+    "230854@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 48,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

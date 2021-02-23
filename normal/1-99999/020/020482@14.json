@@ -1,0 +1,18 @@
+{
+  "id": 20482,
+  "name": "Rocket Raccoon Gen14",
+  "generation": 14,
+  "created_at": "2017-12-01T02:05:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Rocket Raccoon Gen14. I'm a Culinary Sanitation Specialist by day, and I like sleeping in fresh laundry by night. I put marmite on everything. Like, everything: hot dogs, cereal—everything! I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "19979@13",
+  "sire": "7263@4",
+  "children": [
+    "21812@22",
+    "39060@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

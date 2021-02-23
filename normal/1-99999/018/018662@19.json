@@ -1,0 +1,17 @@
+{
+  "id": 18662,
+  "name": "Buzz",
+  "generation": 19,
+  "created_at": "2017-11-30T19:44:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Buzz. In high school, I was voted school jock. In my free time, I can usually be found brilliant or jump-roping. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8701@18",
+  "sire": "8289@15",
+  "children": [
+    "51027@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18770,
+  "name": "Gen17 Stripes",
+  "generation": 17,
+  "created_at": "2017-11-30T20:01:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen17 Stripes. I'm a Spin Instructor  by day, and I like jump-roping by night. In my free time, I can usually be found annoying or summoning ghosts. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "6797@3",
+  "sire": "15258@16",
+  "children": [
+    "36248@18",
+    "65096@18",
+    "96720@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

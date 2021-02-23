@@ -1,0 +1,20 @@
+{
+  "id": 21602,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-01T07:05:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #21602. I've never told anyone this, but I once clawed a dog. I like to listen to Gloria Estefan while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "12492@0",
+  "sire": "20289@9",
+  "children": [
+    "21811@11",
+    "30570@11",
+    "37798@16",
+    "58271@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

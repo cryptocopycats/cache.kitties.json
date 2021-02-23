@@ -1,0 +1,30 @@
+{
+  "id": 22378,
+  "name": "Gimminy",
+  "generation": 0,
+  "created_at": "2017-12-01T10:49:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Gimminy. I've never told anyone this, but I once frolicked with a dog. It's not common knowledge, but my ancestry connects me to Cleopatra. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24047@1",
+    "24640@1",
+    "24753@1",
+    "25074@2",
+    "25904@1",
+    "26205@1",
+    "38912@1",
+    "41987@11",
+    "46085@1",
+    "193924@19",
+    "199523@1",
+    "284364@1",
+    "344259@1",
+    "391537@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

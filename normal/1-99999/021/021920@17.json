@@ -1,0 +1,20 @@
+{
+  "id": 21920,
+  "name": "Eye surgeon",
+  "generation": 17,
+  "created_at": "2017-12-01T08:42:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Eye surgeon. I've never told anyone this, but I once cleaned a dog. I once cleaned a rabbit. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10654@16",
+  "sire": "12168@1",
+  "children": [
+    "30194@22",
+    "58193@21",
+    "182781@18",
+    "245246@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

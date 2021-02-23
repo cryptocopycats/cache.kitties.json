@@ -1,0 +1,20 @@
+{
+  "id": 18010,
+  "name": "Luckystripe Topaz",
+  "generation": 17,
+  "created_at": "2017-11-30T17:13:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Luckystripe Topaz. My friends describe me as gullible and voluptuous. It's not common knowledge, but my ancestry connects me to King Henry VIII. Will you be the ranch dressing to my cinammon?",
+  "language": "en",
+  "matron": "13412@13",
+  "sire": "13966@16",
+  "children": [
+    "20212@20",
+    "23607@18",
+    "31263@18",
+    "42333@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

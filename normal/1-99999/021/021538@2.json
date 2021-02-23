@@ -1,0 +1,24 @@
+{
+  "id": 21538,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-01T06:45:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen 2. I'm a Dogwalker by day, and I like volunteering at the local kitten rescue shelter by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "21370@1",
+  "sire": "10624@1",
+  "children": [
+    "21619@3",
+    "21803@11",
+    "21882@3",
+    "31104@3",
+    "31401@16",
+    "37745@15",
+    "45816@15",
+    "58692@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

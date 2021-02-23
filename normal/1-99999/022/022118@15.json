@@ -1,0 +1,18 @@
+{
+  "id": 22118,
+  "name": "Salmon",
+  "generation": 15,
+  "created_at": "2017-12-01T09:42:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Salmon. My friends describe me as voluptuous and fabulous. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "20426@14",
+  "sire": "18604@11",
+  "children": [
+    "51227@18",
+    "92630@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

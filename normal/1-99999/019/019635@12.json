@@ -1,0 +1,21 @@
+{
+  "id": 19635,
+  "name": "Creamy",
+  "generation": 12,
+  "created_at": "2017-11-30T22:47:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Creamy. I enjoy licking doorknobs, hitting on yo' man, and staying woke. I once cleaned a rhino. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18253@8",
+  "sire": "15918@11",
+  "children": [
+    "20480@14",
+    "21448@16",
+    "27062@16",
+    "38120@16",
+    "69751@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

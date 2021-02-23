@@ -1,0 +1,18 @@
+{
+  "id": 21274,
+  "name": "Gen 1 Swift",
+  "generation": 1,
+  "created_at": "2017-12-01T05:32:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Gen 1 Swift. I've never told anyone this, but I once frolicked with a dog. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "1052@0",
+  "sire": "2082@0",
+  "children": [
+    "21671@3",
+    "21906@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

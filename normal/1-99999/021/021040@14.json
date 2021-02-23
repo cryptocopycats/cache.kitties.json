@@ -1,0 +1,20 @@
+{
+  "id": 21040,
+  "name": "ThirdRock",
+  "generation": 14,
+  "created_at": "2017-12-01T04:32:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! My name's ThirdRock. I once peed on Nelson Mandela's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16818@12",
+  "sire": "16829@13",
+  "children": [
+    "26062@18",
+    "38861@15",
+    "86839@15",
+    "166900@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

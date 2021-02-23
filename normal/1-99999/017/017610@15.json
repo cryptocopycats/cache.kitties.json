@@ -1,0 +1,23 @@
+{
+  "id": 17610,
+  "name": "Rare",
+  "generation": 15,
+  "created_at": "2017-11-30T15:43:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Rare. I've never told anyone this, but I once bit a dog. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "15275@14",
+  "sire": "16473@14",
+  "children": [
+    "18748@16",
+    "24967@16",
+    "30525@16",
+    "80829@16",
+    "117093@16",
+    "261210@17",
+    "369898@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

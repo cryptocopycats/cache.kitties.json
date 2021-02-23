@@ -1,0 +1,20 @@
+{
+  "id": 21080,
+  "name": "Jagson II",
+  "generation": 16,
+  "created_at": "2017-12-01T04:39:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Jagson II. I believe the world is flat. I once got in a fight with a dolphin, and won. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "18376@10",
+  "sire": "19113@15",
+  "children": [
+    "21891@17",
+    "24730@17",
+    "40008@21",
+    "78897@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

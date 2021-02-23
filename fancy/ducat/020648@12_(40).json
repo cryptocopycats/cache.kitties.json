@@ -1,0 +1,30 @@
+{
+  "id": 20648,
+  "name": "Birdcat G12",
+  "generation": 12,
+  "created_at": "2017-12-01T02:50:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Birdcat G12. I've never told anyone this, but I once pranced with a dog. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found prank-calling celebrities all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19402@11",
+  "sire": "19737@10",
+  "children": [
+    "23028@13",
+    "23955@13",
+    "24002@13",
+    "26375@13",
+    "31094@13",
+    "105276@13",
+    "207782@13",
+    "340972@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 40,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

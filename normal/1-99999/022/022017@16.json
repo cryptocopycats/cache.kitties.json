@@ -1,0 +1,20 @@
+{
+  "id": 22017,
+  "name": "Paddles (gen 16 cool 6)",
+  "generation": 16,
+  "created_at": "2017-12-01T09:13:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Paddles (gen 16 cool 6). I'm a professional Ventriloquist and I love chocolate. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "21103@15",
+  "sire": "14657@13",
+  "children": [
+    "22368@17",
+    "26863@17",
+    "41931@17",
+    "110222@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

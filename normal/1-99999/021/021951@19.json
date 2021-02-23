@@ -1,0 +1,18 @@
+{
+  "id": 21951,
+  "name": "Snow White",
+  "generation": 19,
+  "created_at": "2017-12-01T08:52:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Snow White. In high school, I was voted school jock. I would give it all up for a Chanel purse. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18121@18",
+  "sire": "10763@12",
+  "children": [
+    "28105@20",
+    "52472@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

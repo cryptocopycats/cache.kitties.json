@@ -1,0 +1,30 @@
+{
+  "id": 19336,
+  "name": "Akuna Dogpaw",
+  "generation": 1,
+  "created_at": "2017-11-30T21:51:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Akuna Dogpaw. I've never told anyone this, but I once pawed at a dog. When no one's home, I invite my pals over and we listen to Aretha Franklin. Will you be the soy sauce to my ranch dressing?",
+  "language": "en",
+  "matron": "2030@0",
+  "sire": "12492@0",
+  "children": [
+    "20049@11",
+    "21623@8",
+    "99610@2",
+    "100438@2",
+    "100707@2",
+    "102824@2",
+    "139718@2",
+    "167705@2",
+    "176185@2",
+    "216677@2",
+    "255272@2",
+    "302215@2",
+    "313102@2",
+    "418062@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

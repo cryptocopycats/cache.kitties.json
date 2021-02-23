@@ -1,0 +1,18 @@
+{
+  "id": 22330,
+  "name": "Sir Cloud",
+  "generation": 21,
+  "created_at": "2017-12-01T10:41:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Sir Cloud. All you need to know about me is I hate apple pie with a passion. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "18561@19",
+  "sire": "18498@20",
+  "children": [
+    "28846@22",
+    "74586@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

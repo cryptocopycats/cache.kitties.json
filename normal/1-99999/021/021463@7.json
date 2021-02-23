@@ -1,0 +1,22 @@
+{
+  "id": 21463,
+  "name": "Tiger Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-01T06:25:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Tiger Gen 7. I've never told anyone this, but I once pranced with a dog. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "17174@6",
+  "sire": "17151@6",
+  "children": [
+    "23274@9",
+    "45127@12",
+    "48903@12",
+    "54013@11",
+    "55810@8",
+    "60512@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

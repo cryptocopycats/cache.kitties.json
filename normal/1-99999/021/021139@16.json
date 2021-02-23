@@ -1,0 +1,20 @@
+{
+  "id": 21139,
+  "name": "Tom",
+  "generation": 16,
+  "created_at": "2017-12-01T04:52:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Tom. I enjoy picking on mice, tripping my owner, and chasing red dots. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "20678@13",
+  "sire": "17692@15",
+  "children": [
+    "23110@18",
+    "27448@18",
+    "42483@17",
+    "67950@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

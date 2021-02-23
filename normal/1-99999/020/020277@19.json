@@ -1,0 +1,20 @@
+{
+  "id": 20277,
+  "name": "Grey",
+  "generation": 19,
+  "created_at": "2017-12-01T01:15:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Grey. In high school, I was voted school jock. Sometimes I daydream of a life full of shakin' dat booty, hamburgers, and volunteering at the local kitten rescue shelter. I like your face.",
+  "language": "en",
+  "matron": "5971@1",
+  "sire": "9844@18",
+  "children": [
+    "20353@20",
+    "25091@20",
+    "68679@20",
+    "76068@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

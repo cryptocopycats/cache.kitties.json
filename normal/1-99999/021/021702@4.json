@@ -1,0 +1,26 @@
+{
+  "id": 21702,
+  "name": "B",
+  "generation": 4,
+  "created_at": "2017-12-01T07:40:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm B. I'm a professional Dogwalker and I love cereal. I'm often described as stinky, and I own it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21427@1",
+  "sire": "17240@3",
+  "children": [
+    "21799@5",
+    "21846@5",
+    "68048@5",
+    "75988@5",
+    "76218@5",
+    "114142@5",
+    "134373@5",
+    "146679@5",
+    "167351@5",
+    "258528@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

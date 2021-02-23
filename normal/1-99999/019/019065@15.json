@@ -1,0 +1,19 @@
+{
+  "id": 19065,
+  "name": "Spots",
+  "generation": 15,
+  "created_at": "2017-11-30T21:01:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Spots. I've never told anyone this, but I once bit a dog. It's not common knowledge, but my ancestry connects me to Mother Theresa. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "17464@13",
+  "sire": "13660@14",
+  "children": [
+    "20234@16",
+    "25808@18",
+    "75090@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22145,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T09:51:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen4. I believe the world is flat. When no one's home, I invite my pals over and we listen to Wutang. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "19622@3",
+  "sire": "21958@3",
+  "children": [
+    "22484@5",
+    "22641@5",
+    "28020@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20988,
+  "name": "Francesca",
+  "generation": 1,
+  "created_at": "2017-12-01T04:20:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Francesca. I'm a professional Private Dancer  and I love apple pie. I would give it all up for a Chanel purse. I like your face.",
+  "language": "en",
+  "matron": "17007@0",
+  "sire": "17080@0",
+  "children": [
+    "21081@6",
+    "23005@6",
+    "23130@5",
+    "69463@2",
+    "78786@18",
+    "103084@7",
+    "106025@16",
+    "112408@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

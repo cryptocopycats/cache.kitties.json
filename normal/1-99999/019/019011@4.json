@@ -1,0 +1,24 @@
+{
+  "id": 19011,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-30T20:50:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #19011. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "17842@0",
+  "sire": "18592@3",
+  "children": [
+    "19087@5",
+    "19270@5",
+    "19395@5",
+    "22929@18",
+    "27314@20",
+    "32096@20",
+    "37806@21",
+    "98718@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

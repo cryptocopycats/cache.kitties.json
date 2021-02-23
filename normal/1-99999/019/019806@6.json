@@ -1,0 +1,23 @@
+{
+  "id": 19806,
+  "name": "G6 Scarlet",
+  "generation": 6,
+  "created_at": "2017-11-30T23:26:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm G6 Scarlet. I'm often referred to as the Jon Snow of the group. Sometimes I daydream of a life full of glaring at the neighbour's cat, steak, and tricking babies. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "19378@5",
+  "sire": "19506@5",
+  "children": [
+    "30400@7",
+    "31236@7",
+    "34388@7",
+    "42182@7",
+    "53608@7",
+    "75937@7",
+    "126527@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

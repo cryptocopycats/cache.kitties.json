@@ -1,0 +1,18 @@
+{
+  "id": 21052,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T04:33:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #21052. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "15069@14",
+  "sire": "15053@16",
+  "children": [
+    "36016@18",
+    "81303@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

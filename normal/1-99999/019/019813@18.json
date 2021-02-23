@@ -1,0 +1,19 @@
+{
+  "id": 19813,
+  "name": "Seth Green",
+  "generation": 18,
+  "created_at": "2017-11-30T23:28:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Seth Green. My friends describe me as vegan and raunchy. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "17642@17",
+  "sire": "17170@15",
+  "children": [
+    "25510@19",
+    "34092@19",
+    "97796@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

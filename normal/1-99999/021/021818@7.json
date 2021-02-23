@@ -1,0 +1,22 @@
+{
+  "id": 21818,
+  "name": "G7 Crazy Beard",
+  "generation": 7,
+  "created_at": "2017-12-01T08:11:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm G7 Crazy Beard. I'm often referred to as the Steve Urkel of the group. I'm often described as stinky, and I own it. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "16891@6",
+  "sire": "21659@6",
+  "children": [
+    "22884@8",
+    "23453@8",
+    "36122@8",
+    "37548@8",
+    "40453@15",
+    "91300@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

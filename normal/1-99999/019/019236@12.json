@@ -1,0 +1,20 @@
+{
+  "id": 19236,
+  "name": "Peanut",
+  "generation": 12,
+  "created_at": "2017-11-30T21:33:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Peanut. I believe that one day cats will rule this planet. Some people say I'm the Cersei Lannister of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "14136@11",
+  "sire": "13003@6",
+  "children": [
+    "19418@13",
+    "22221@18",
+    "23755@18",
+    "96367@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 17525,
+  "name": "Big Kitty",
+  "generation": 12,
+  "created_at": "2017-11-30T14:59:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Big Kitty. All you need to know about me is I hate hamburgers with a passion. I would give it all up for a Chanel purse. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16955@9",
+  "sire": "16988@11",
+  "children": [
+    "19325@19",
+    "21603@13",
+    "23434@13",
+    "70726@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

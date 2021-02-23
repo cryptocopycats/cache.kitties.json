@@ -1,0 +1,20 @@
+{
+  "id": 21675,
+  "name": "Limey",
+  "generation": 13,
+  "created_at": "2017-12-01T07:27:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Limey. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "21252@12",
+  "sire": "18098@11",
+  "children": [
+    "23813@17",
+    "51225@14",
+    "85657@14",
+    "110018@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

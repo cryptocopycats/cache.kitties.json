@@ -1,0 +1,20 @@
+{
+  "id": 20247,
+  "name": "Gen17 Sluggish",
+  "generation": 17,
+  "created_at": "2017-12-01T01:09:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Gen17 Sluggish. I'm often referred to as the Ross Geller of the group. I'm often described as smelly, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "13383@13",
+  "sire": "17519@16",
+  "children": [
+    "23484@18",
+    "25110@18",
+    "35239@20",
+    "119641@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 18974,
+  "name": "Bloodred Chestnut",
+  "generation": 3,
+  "created_at": "2017-11-30T20:40:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Bloodred Chestnut. I believe that one day cats will rule this planet. My secret indulgence is apple pie. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18836@2",
+  "sire": "18934@2",
+  "children": [
+    "19066@4",
+    "19380@4",
+    "19494@4",
+    "23543@4",
+    "24293@4",
+    "44950@5",
+    "51869@8",
+    "55413@4",
+    "89686@5",
+    "112338@8",
+    "185309@5",
+    "295214@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

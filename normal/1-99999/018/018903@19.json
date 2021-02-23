@@ -1,0 +1,19 @@
+{
+  "id": 18903,
+  "name": "Snikky Squirrel",
+  "generation": 19,
+  "created_at": "2017-11-30T20:22:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! My name's Snikky Squirrel. I once peed on Marie Antoinette's cat. They had it coming. I would give it all up to be on Oprah. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12130@17",
+  "sire": "15080@18",
+  "children": [
+    "19026@20",
+    "45448@20",
+    "1175104@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

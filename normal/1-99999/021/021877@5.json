@@ -1,0 +1,27 @@
+{
+  "id": 21877,
+  "name": "Pouf",
+  "generation": 5,
+  "created_at": "2017-12-01T08:31:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Pouf. I'm a Ventriloquist by day, and I like siring for status by night. Sometimes I daydream of a life full of spinning sick beats, lasagna, and swiping left. Let's get busy!",
+  "language": "en",
+  "matron": "19645@4",
+  "sire": "19680@4",
+  "children": [
+    "26025@10",
+    "26563@16",
+    "26957@16",
+    "27657@17",
+    "36299@10",
+    "39236@6",
+    "45828@10",
+    "53199@8",
+    "79140@9",
+    "105405@7",
+    "278470@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

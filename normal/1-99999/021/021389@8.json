@@ -1,0 +1,22 @@
+{
+  "id": 21389,
+  "name": "Trash Panda | G8",
+  "generation": 8,
+  "created_at": "2017-12-01T06:04:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Trash Panda | G8. My friends describe me as fabulous and despicable. Some people say I'm the Homer Simpson of the group. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "19480@5",
+  "sire": "4579@7",
+  "children": [
+    "21521@9",
+    "22006@11",
+    "22972@10",
+    "26090@10",
+    "28272@9",
+    "57305@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

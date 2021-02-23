@@ -1,0 +1,24 @@
+{
+  "id": 18287,
+  "name": "Spa",
+  "generation": 0,
+  "created_at": "2017-11-30T18:29:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Spa. I want to live in a world where people believe that one day cats will rule this planet. I put ranch dressing on everything. Like, everything: hot dogs, ice cream—everything! Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "18982@1",
+    "19419@1",
+    "32294@9",
+    "545495@1",
+    "546446@1",
+    "546732@1",
+    "547120@1",
+    "547964@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

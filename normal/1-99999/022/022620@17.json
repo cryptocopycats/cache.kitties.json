@@ -1,0 +1,19 @@
+{
+  "id": 22620,
+  "name": "Lucifurr",
+  "generation": 17,
+  "created_at": "2017-12-01T12:16:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Lucifurr. I'm a Ventriloquist by day, and I like people-watching by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Let's pawty!",
+  "language": "en",
+  "matron": "6621@16",
+  "sire": "17122@16",
+  "children": [
+    "54657@18",
+    "78955@18",
+    "107391@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

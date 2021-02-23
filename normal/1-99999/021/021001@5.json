@@ -1,0 +1,26 @@
+{
+  "id": 21001,
+  "name": "Brisa",
+  "generation": 5,
+  "created_at": "2017-12-01T04:23:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Brisa. I'm often referred to as the Ron Weasley of the group. My secret indulgence is lasagna. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14034@4",
+  "sire": "12896@4",
+  "children": [
+    "21041@6",
+    "21110@6",
+    "43584@6",
+    "49595@8",
+    "58724@8",
+    "60123@17",
+    "81276@6",
+    "99289@10",
+    "263283@6",
+    "282884@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

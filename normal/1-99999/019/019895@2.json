@@ -1,0 +1,26 @@
+{
+  "id": 19895,
+  "name": "El Tigre Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-30T23:48:45.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm El Tigre Gen 2. I'm often referred to as the Marge Simpson of the group. I once groomed a dog. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "19759@1",
+  "sire": "11799@1",
+  "children": [
+    "19934@3",
+    "19992@3",
+    "87365@3",
+    "88605@3",
+    "89856@3",
+    "92547@3",
+    "100709@3",
+    "115787@3",
+    "143021@3",
+    "177916@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

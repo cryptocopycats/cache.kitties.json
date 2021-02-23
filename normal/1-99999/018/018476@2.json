@@ -1,0 +1,21 @@
+{
+  "id": 18476,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-30T19:09:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #18476. In high school, I was voted biggest teacher's pet. Some people say I'm the Steve Urkel of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18391@1",
+  "sire": "18398@1",
+  "children": [
+    "18493@5",
+    "18612@3",
+    "18888@3",
+    "19270@5",
+    "19665@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 19557,
+  "name": "Rick Blaine (G16)",
+  "generation": 16,
+  "created_at": "2017-11-30T22:35:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Rick Blaine (G16) here. I'm here to enjoy taking selfies and picking flowers. I'm often described as smelly, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "13695@12",
+  "sire": "15271@15",
+  "children": [
+    "22084@17",
+    "23655@17",
+    "48847@17",
+    "67701@17",
+    "149057@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 18570,
+  "name": "SPOCK CYMRIC CHESTNUT",
+  "generation": 2,
+  "created_at": "2017-11-30T19:26:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm SPOCK CYMRIC CHESTNUT. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18367@1",
+  "sire": "18531@1",
+  "children": [
+    "18591@3",
+    "18642@3",
+    "18710@3",
+    "18981@3",
+    "19544@3",
+    "24022@3",
+    "25225@3",
+    "113601@3",
+    "147969@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

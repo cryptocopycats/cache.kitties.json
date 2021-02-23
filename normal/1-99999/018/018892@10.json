@@ -1,0 +1,19 @@
+{
+  "id": 18892,
+  "name": "RARE SCARLET Gen 10",
+  "generation": 10,
+  "created_at": "2017-11-30T20:18:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm RARE SCARLET Gen 10. My friends describe me as annoying and gullible. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "17771@9",
+  "sire": "18181@9",
+  "children": [
+    "19975@11",
+    "24559@11",
+    "39011@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

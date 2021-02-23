@@ -1,0 +1,20 @@
+{
+  "id": 18985,
+  "name": "Bailey | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T20:42:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Bailey | Gen4. I'm a Dispensary Clerk by day, and I like practicing witchcraft by night. I once got in a fight with a rooster, and won. Our friendship will be gullible, despicable, and full of cereal.",
+  "language": "en",
+  "matron": "16871@3",
+  "sire": "18848@3",
+  "children": [
+    "19184@5",
+    "19324@5",
+    "19505@5",
+    "25866@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

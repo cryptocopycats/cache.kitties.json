@@ -1,0 +1,24 @@
+{
+  "id": 22744,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-01T13:01:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Gen 7. I once peed on Marie Antoinette's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "19652@6",
+  "sire": "19270@5",
+  "children": [
+    "22885@18",
+    "24307@18",
+    "26034@17",
+    "26880@8",
+    "29370@20",
+    "45907@23",
+    "62724@22",
+    "72318@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

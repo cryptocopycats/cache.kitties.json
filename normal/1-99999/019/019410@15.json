@@ -1,0 +1,18 @@
+{
+  "id": 19410,
+  "name": "Spookybutt",
+  "generation": 15,
+  "created_at": "2017-11-30T22:06:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Spookybutt. I've never told anyone this, but I once pranced with a dog. I'm often described as stinky, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "10619@11",
+  "sire": "15833@14",
+  "children": [
+    "39733@19",
+    "49700@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

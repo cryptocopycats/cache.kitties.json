@@ -1,0 +1,21 @@
+{
+  "id": 18492,
+  "name": "Lemonade Beard",
+  "generation": 14,
+  "created_at": "2017-11-30T19:16:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Lemonade Beard. I'm often referred to as the Ron Weasley of the group. My friends describe me as \"preposterous.\" It's... accurate. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "17993@13",
+  "sire": "17961@13",
+  "children": [
+    "36153@15",
+    "45001@15",
+    "64622@17",
+    "95502@16",
+    "106580@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

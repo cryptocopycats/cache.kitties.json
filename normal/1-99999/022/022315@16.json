@@ -1,0 +1,19 @@
+{
+  "id": 22315,
+  "name": "Brown Bearded Spoopy",
+  "generation": 16,
+  "created_at": "2017-12-01T10:40:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Brown Bearded Spoopy. I believe the world is flat. I like to listen to Frank Sinatra while grooming. Don't judge me. Our friendship will be hairy, preposterous, and full of salad.",
+  "language": "en",
+  "matron": "17143@13",
+  "sire": "17158@15",
+  "children": [
+    "45849@17",
+    "77300@19",
+    "108006@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

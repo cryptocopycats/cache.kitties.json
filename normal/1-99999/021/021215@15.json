@@ -1,0 +1,18 @@
+{
+  "id": 21215,
+  "name": "Cloud White",
+  "generation": 15,
+  "created_at": "2017-12-01T05:13:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Cloud White. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found pole dancing all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13550@14",
+  "sire": "17373@14",
+  "children": [
+    "28157@16",
+    "53452@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

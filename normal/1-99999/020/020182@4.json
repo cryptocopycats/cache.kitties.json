@@ -1,0 +1,20 @@
+{
+  "id": 20182,
+  "name": "Scarlet Salmon | Gen 4 Brisk",
+  "generation": 4,
+  "created_at": "2017-12-01T00:56:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Scarlet Salmon | Gen 4 Brisk. I enjoy chasing string, fighting the patriarchy, and reciting poetry. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the soy sauce to my marmite?",
+  "language": "en",
+  "matron": "16452@3",
+  "sire": "19546@3",
+  "children": [
+    "21418@5",
+    "28008@14",
+    "33489@9",
+    "34380@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

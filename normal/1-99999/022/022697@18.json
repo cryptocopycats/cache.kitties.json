@@ -1,0 +1,18 @@
+{
+  "id": 22697,
+  "name": "Cat LeBlanc",
+  "generation": 18,
+  "created_at": "2017-12-01T12:45:12.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Cat LeBlanc. I'm a professional Mad Scientist and I love wet food. I am 28% troll, 82% Mad Scientist, and otherwise bad at math. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "12954@14",
+  "sire": "6653@17",
+  "children": [
+    "42154@19",
+    "137690@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20368,
+  "name": "Bubblegum starter",
+  "generation": 14,
+  "created_at": "2017-12-01T01:35:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! Bubblegum starter here. I'm here to enjoy grooming and reading garfield. I'm often described as brilliant, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16802@13",
+  "sire": "16798@12",
+  "children": [
+    "22682@15",
+    "55111@17",
+    "57682@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22762,
+  "name": "Sweety Kitty",
+  "generation": 20,
+  "created_at": "2017-12-01T13:08:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Sweety Kitty. I enjoy chasing string, spinning sick beats, and picking flowers. When I'm not swiping right, I'm swiping left! Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "11516@15",
+  "sire": "18468@19",
+  "children": [
+    "27932@21",
+    "82465@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

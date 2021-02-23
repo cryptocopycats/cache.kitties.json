@@ -1,0 +1,24 @@
+{
+  "id": 20417,
+  "name": "Gen 12 - Otaku Cymric",
+  "generation": 12,
+  "created_at": "2017-12-01T01:51:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Gen 12 - Otaku Cymric. I enjoy riding dirty, eating lasagna, and taking selfies. My friends describe me as \"despicable.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20147@11",
+  "sire": "16138@11",
+  "children": [
+    "22091@13",
+    "24427@15",
+    "26411@18",
+    "31949@13",
+    "61253@19",
+    "130363@19",
+    "212452@19",
+    "409723@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

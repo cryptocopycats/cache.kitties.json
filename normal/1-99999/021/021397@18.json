@@ -1,0 +1,20 @@
+{
+  "id": 21397,
+  "name": "Cereal Catson",
+  "generation": 18,
+  "created_at": "2017-12-01T06:06:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Cereal Catson. All you need to know about me is I hate cereal with a passion. In my free time, I can usually be found petulant or sleeping in fresh laundry. Will you be the pickles to my marmalade?",
+  "language": "en",
+  "matron": "15082@17",
+  "sire": "14959@16",
+  "children": [
+    "25062@19",
+    "39740@19",
+    "80220@19",
+    "124567@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

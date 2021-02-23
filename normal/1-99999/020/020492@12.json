@@ -1,0 +1,22 @@
+{
+  "id": 20492,
+  "name": "Clover",
+  "generation": 12,
+  "created_at": "2017-12-01T02:07:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Clover. My friends describe me as petulant and raunchy. Sometimes I daydream of a life full of picking on mice, ice cream, and mocking dogs. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "7652@4",
+  "sire": "11684@11",
+  "children": [
+    "22111@14",
+    "23623@14",
+    "48873@13",
+    "88310@14",
+    "239240@13",
+    "469283@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

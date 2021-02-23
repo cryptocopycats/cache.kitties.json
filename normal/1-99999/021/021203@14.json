@@ -1,0 +1,21 @@
+{
+  "id": 21203,
+  "name": "Spock Cymric Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-01T05:12:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Spock Cymric Gen 14. I believe the world is flat. I once got in a fight with a platypus, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14915@13",
+  "sire": "19552@13",
+  "children": [
+    "26146@15",
+    "26787@15",
+    "33893@15",
+    "87335@15",
+    "110577@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 18869,
+  "name": "G11 Plodding Fancy Sailor",
+  "generation": 11,
+  "created_at": "2017-11-30T20:14:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! My name's G11 Plodding Fancy Sailor. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"preposterous.\" It's... accurate. Our friendship will be prickly, raunchy, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "15638@2",
+  "sire": "18280@10",
+  "children": [
+    "19238@12",
+    "48825@12",
+    "55599@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 63,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

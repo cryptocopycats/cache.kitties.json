@@ -1,0 +1,19 @@
+{
+  "id": 20235,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-01T01:07:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #20235. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a rooster, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5203@6",
+  "sire": "19985@17",
+  "children": [
+    "24409@19",
+    "51297@19",
+    "90356@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

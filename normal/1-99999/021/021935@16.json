@@ -1,0 +1,19 @@
+{
+  "id": 21935,
+  "name": "Noodle",
+  "generation": 16,
+  "created_at": "2017-12-01T08:48:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! My name's Noodle. I once peed on Martin Luther King Jr.'s cat. They had it coming. My friends describe me as \"ridiculous.\" It's... accurate. Will you be the garlic butter to my maple syrup?",
+  "language": "en",
+  "matron": "18942@15",
+  "sire": "14644@13",
+  "children": [
+    "49479@21",
+    "88985@18",
+    "186826@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

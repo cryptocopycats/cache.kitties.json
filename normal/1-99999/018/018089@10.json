@@ -1,0 +1,25 @@
+{
+  "id": 18089,
+  "name": "Ace Dalibird",
+  "generation": 10,
+  "created_at": "2017-11-30T17:33:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Ace Dalibird. My friends describe me as smelly and tantalizing. I like to listen to Ace of Base while grooming. Don't judge me. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "17669@8",
+  "sire": "17695@9",
+  "children": [
+    "18686@12",
+    "19229@11",
+    "19653@12",
+    "23434@13",
+    "29154@11",
+    "42067@11",
+    "82415@11",
+    "327172@11",
+    "339278@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

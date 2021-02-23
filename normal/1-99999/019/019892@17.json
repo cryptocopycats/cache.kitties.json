@@ -1,0 +1,21 @@
+{
+  "id": 19892,
+  "name": "Littlebit",
+  "generation": 17,
+  "created_at": "2017-11-30T23:48:45.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Littlebit. I'm a Spin Instructor  by day, and I like reading Danielle Steele by night. I put maple syrup on everything. Like, everything: hot dogs, lasagna—everything! Let's pawty!",
+  "language": "en",
+  "matron": "13566@12",
+  "sire": "17353@16",
+  "children": [
+    "62828@18",
+    "85180@18",
+    "106123@18",
+    "288105@18",
+    "372668@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

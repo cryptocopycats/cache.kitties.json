@@ -1,0 +1,27 @@
+{
+  "id": 20316,
+  "name": "Mauveover! - Gen 0",
+  "generation": 0,
+  "created_at": "2017-12-01T01:25:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Mauveover! - Gen 0. I'm a Dogwalker by day, and I like summoning ghosts by night. My friends describe me as \"despicable.\" It's... accurate. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20558@1",
+    "21380@1",
+    "92607@1",
+    "133038@1",
+    "148109@7",
+    "178008@1",
+    "189467@1",
+    "195111@1",
+    "303820@7",
+    "314155@6",
+    "510793@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

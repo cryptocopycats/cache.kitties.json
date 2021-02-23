@@ -1,0 +1,18 @@
+{
+  "id": 21288,
+  "name": "Dali Parent",
+  "generation": 16,
+  "created_at": "2017-12-01T05:37:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Dali Parent. I'm often referred to as the Jon Snow of the group. I am 54% oracle, 67% Dogwalker, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4593@10",
+  "sire": "11579@15",
+  "children": [
+    "26101@17",
+    "72734@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

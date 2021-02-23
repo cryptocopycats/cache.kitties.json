@@ -1,0 +1,23 @@
+{
+  "id": 18819,
+  "name": "Mr4",
+  "generation": 13,
+  "created_at": "2017-11-30T20:09:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mr4. I enjoy watching Stranger Things, sitting on your computer, and licking doorknobs. My friends describe me as \"gorgeous.\" It's... accurate. Will you be the ranch dressing to my wasabi?",
+  "language": "en",
+  "matron": "17810@12",
+  "sire": "17856@12",
+  "children": [
+    "19425@14",
+    "20452@17",
+    "22164@14",
+    "30217@20",
+    "48822@14",
+    "107120@20",
+    "290481@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 17588,
+  "name": "Gen 4 Saycheese",
+  "generation": 4,
+  "created_at": "2017-11-30T15:15:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Gen 4 Saycheese. I've never told anyone this, but I once pawed at a dog. When no one's home, I invite my pals over and we listen to Mariah Carey. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16195@3",
+  "sire": "16313@3",
+  "children": [
+    "19626@8",
+    "19869@5",
+    "26500@17",
+    "41394@5",
+    "52088@5",
+    "55195@7",
+    "59221@5",
+    "81643@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

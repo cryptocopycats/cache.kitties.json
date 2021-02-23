@@ -1,0 +1,18 @@
+{
+  "id": 20062,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-01T00:28:40.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 22. I believe the world is flat. I once got in a fight with a gecko, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19673@4",
+  "sire": "19717@21",
+  "children": [
+    "23577@23",
+    "65455@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

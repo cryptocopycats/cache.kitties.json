@@ -1,0 +1,20 @@
+{
+  "id": 19698,
+  "name": "Bubble Bobble (Taito Corp.)",
+  "generation": 4,
+  "created_at": "2017-11-30T23:01:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Bubble Bobble (Taito Corp.). I'm a Aerobics Athlete  by day, and I like swiping left by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Let's pawty!",
+  "language": "en",
+  "matron": "19114@3",
+  "sire": "19390@3",
+  "children": [
+    "22047@5",
+    "24751@5",
+    "25873@5",
+    "27960@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 19792,
+  "name": "[RARE] Baxter",
+  "generation": 14,
+  "created_at": "2017-11-30T23:25:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm [RARE] Baxter. My friends describe me as brilliant and hairy. I like to listen to Justin Bieber while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "19186@13",
+  "sire": "18102@11",
+  "children": [
+    "20489@15",
+    "23568@15",
+    "28914@15",
+    "113286@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

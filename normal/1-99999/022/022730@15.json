@@ -1,0 +1,18 @@
+{
+  "id": 22730,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T12:56:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #22730. I've never told anyone this, but I once groomed a dog. When I'm not mocking dogs, I'm volunteering at the local kitten rescue shelter! Our friendship will be seductive, stinky, and full of lasagna.",
+  "language": "en",
+  "matron": "19710@14",
+  "sire": "5064@4",
+  "children": [
+    "41735@16",
+    "43639@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

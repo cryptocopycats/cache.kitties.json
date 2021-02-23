@@ -1,0 +1,20 @@
+{
+  "id": 22404,
+  "name": "Cutie Pie (Gen 14)",
+  "generation": 14,
+  "created_at": "2017-12-01T10:59:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Cutie Pie (Gen 14). I'm a Foreign Film Director by day, and I like riding the bus by night. I once made a goose leap. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "20699@12",
+  "sire": "21970@13",
+  "children": [
+    "23273@15",
+    "26011@15",
+    "39171@16",
+    "62859@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

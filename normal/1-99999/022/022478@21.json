@@ -1,0 +1,19 @@
+{
+  "id": 22478,
+  "name": "Jailbait",
+  "generation": 21,
+  "created_at": "2017-12-01T11:26:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Jailbait. I'm often referred to as the Homer Simpson of the group. I once made a gecko play. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20771@16",
+  "sire": "20838@20",
+  "children": [
+    "27426@22",
+    "65985@22",
+    "314034@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

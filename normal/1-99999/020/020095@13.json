@@ -1,0 +1,22 @@
+{
+  "id": 20095,
+  "name": "Recessive Coffee Otaku",
+  "generation": 13,
+  "created_at": "2017-12-01T00:35:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Recessive Coffee Otaku. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Ace of Base while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "19940@8",
+  "sire": "19180@12",
+  "children": [
+    "20534@14",
+    "28855@14",
+    "30075@14",
+    "68050@14",
+    "71338@14",
+    "94530@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

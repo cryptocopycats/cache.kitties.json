@@ -1,0 +1,20 @@
+{
+  "id": 17744,
+  "name": "Bup",
+  "generation": 18,
+  "created_at": "2017-11-30T16:11:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Bup. All you need to know about me is I hate cantaloupe with a passion. I once made a platypus dance. Let's pawty!",
+  "language": "en",
+  "matron": "12796@15",
+  "sire": "15446@17",
+  "children": [
+    "27753@19",
+    "53027@19",
+    "100245@19",
+    "184606@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 19517,
+  "name": "Fly | Gen9 Snappy",
+  "generation": 9,
+  "created_at": "2017-11-30T22:22:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Fly | Gen9 Snappy. I enjoy eating until I loathe myself, fighting for the people, and fighting the patriarchy. I put cinammon on everything. Like, everything: hot dogs, lasagna—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18614@8",
+  "sire": "13310@8",
+  "children": [
+    "21666@10",
+    "23027@10",
+    "23196@10",
+    "26715@19",
+    "27503@10",
+    "38636@10",
+    "60804@10",
+    "144306@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 29,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

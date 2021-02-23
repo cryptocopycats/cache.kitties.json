@@ -1,0 +1,22 @@
+{
+  "id": 21156,
+  "name": "Blue Wizard",
+  "generation": 18,
+  "created_at": "2017-12-01T05:02:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Blue Wizard. I've never told anyone this, but I once clawed a dog. I would give it all up to star in a soap opera. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19100@17",
+  "sire": "18761@14",
+  "children": [
+    "85429@19",
+    "116823@19",
+    "280668@19",
+    "328463@19",
+    "528059@19",
+    "612984@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

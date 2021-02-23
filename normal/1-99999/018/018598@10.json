@@ -1,0 +1,22 @@
+{
+  "id": 18598,
+  "name": "10",
+  "generation": 10,
+  "created_at": "2017-11-30T19:32:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm 10. All you need to know about me is I hate salad with a passion. I would give it all up to star in a soap opera. Will you be the ranch dressing to my peanut butter?",
+  "language": "en",
+  "matron": "17871@9",
+  "sire": "16311@4",
+  "children": [
+    "19720@11",
+    "19906@11",
+    "23987@15",
+    "26902@15",
+    "68964@19",
+    "113626@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

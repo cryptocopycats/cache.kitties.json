@@ -1,0 +1,23 @@
+{
+  "id": 20271,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-12-01T01:14:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #20271. My friends describe me as smelly and hairy. My secret indulgence is cereal. Will you be the garlic butter to my ranch dressing?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20484@9",
+    "67402@1",
+    "68975@1",
+    "70480@1",
+    "80900@9",
+    "83578@11",
+    "101749@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

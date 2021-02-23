@@ -1,0 +1,19 @@
+{
+  "id": 21480,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T06:29:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #21480. I've never told anyone this, but I once groomed a dog. I once dreamed of being a Skydiving Instructor. Now I can be found running a podcast all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19249@10",
+  "sire": "19771@14",
+  "children": [
+    "23606@18",
+    "27980@16",
+    "59824@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 21391,
+  "name": "Starfire",
+  "generation": 0,
+  "created_at": "2017-12-01T06:05:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Starfire. My friends describe me as ridiculous and despicable. I am 20% fairy, 80% Ventriloquist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "65461@6",
+    "84646@1",
+    "89020@5",
+    "326903@1",
+    "701636@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

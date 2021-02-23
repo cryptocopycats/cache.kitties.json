@@ -1,0 +1,21 @@
+{
+  "id": 17626,
+  "name": "Chainopolina",
+  "generation": 8,
+  "created_at": "2017-11-30T15:45:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Chainopolina. In high school, I was voted school jock. I once dreamed of being a Spin Instructor . Now I can be found braiding people's hair all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14442@7",
+  "sire": "17136@6",
+  "children": [
+    "42257@9",
+    "43779@9",
+    "48780@9",
+    "55944@9",
+    "81005@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

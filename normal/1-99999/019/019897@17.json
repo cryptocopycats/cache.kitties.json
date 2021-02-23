@@ -1,0 +1,20 @@
+{
+  "id": 19897,
+  "name": "WiseCat",
+  "generation": 17,
+  "created_at": "2017-11-30T23:49:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm WiseCat. I believe the world is flat. I like to listen to Metallica while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15156@15",
+  "sire": "17781@16",
+  "children": [
+    "25101@18",
+    "29581@18",
+    "44427@18",
+    "102618@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

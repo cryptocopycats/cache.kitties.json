@@ -1,0 +1,17 @@
+{
+  "id": 22328,
+  "name": "G21",
+  "generation": 21,
+  "created_at": "2017-12-01T10:41:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm G21. I'm often referred to as the Michael Scott of the group. When I'm not volunteering at the local kitten rescue shelter, I'm braiding people's hair! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "16772@20",
+  "sire": "16625@5",
+  "children": [
+    "29248@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

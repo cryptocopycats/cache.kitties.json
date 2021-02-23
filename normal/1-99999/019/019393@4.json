@@ -1,0 +1,20 @@
+{
+  "id": 19393,
+  "name": "Casey | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T22:05:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Casey | Gen4. In high school, I was voted biggest teacher's pet. I once dreamed of being a Aerobics Athlete . Now I can be found swiping right all day. Let's get busy!",
+  "language": "en",
+  "matron": "19234@3",
+  "sire": "18642@3",
+  "children": [
+    "19485@5",
+    "21876@5",
+    "22205@5",
+    "23800@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

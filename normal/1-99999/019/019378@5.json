@@ -1,0 +1,24 @@
+{
+  "id": 19378,
+  "name": "Gen 5 | Scarlet mauveover",
+  "generation": 5,
+  "created_at": "2017-11-30T21:58:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 5 | Scarlet mauveover. I've never told anyone this, but I once snuggled a dog. It's not common knowledge, but my ancestry connects me to Mother Theresa. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "18973@4",
+  "sire": "19265@4",
+  "children": [
+    "19518@6",
+    "19592@6",
+    "19806@6",
+    "46211@6",
+    "54633@6",
+    "61353@6",
+    "75959@6",
+    "98289@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 21412,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-01T06:13:02.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #21412. I'm a Skydiving Instructor by day, and I like riding the bus by night. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Our friendship will be despicable, petulant, and full of apple pie.",
+  "language": "en",
+  "matron": "6748@17",
+  "sire": "15640@2",
+  "children": [
+    "30822@19",
+    "45492@19",
+    "105162@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

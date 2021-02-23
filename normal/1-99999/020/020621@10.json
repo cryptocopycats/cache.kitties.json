@@ -1,0 +1,24 @@
+{
+  "id": 20621,
+  "name": "Colleen",
+  "generation": 10,
+  "created_at": "2017-12-01T02:41:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Colleen. I enjoy watching Stranger Things, picking flowers, and shakin' dat booty. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Will you be the peanut butter to my wasabi?",
+  "language": "en",
+  "matron": "20498@9",
+  "sire": "20497@8",
+  "children": [
+    "20698@11",
+    "21383@11",
+    "22883@11",
+    "27229@11",
+    "40454@11",
+    "111617@11",
+    "418299@19",
+    "420040@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

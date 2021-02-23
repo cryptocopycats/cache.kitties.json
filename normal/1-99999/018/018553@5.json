@@ -1,0 +1,23 @@
+{
+  "id": 18553,
+  "name": "Yung Thug",
+  "generation": 5,
+  "created_at": "2017-11-30T19:25:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Yung Thug. I enjoy taking selfies, staying woke, and being a nevernude. I am 72% sphinx, 43% Skydiving Instructor, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4027@4",
+  "sire": "5883@2",
+  "children": [
+    "20109@6",
+    "21506@6",
+    "22399@14",
+    "37548@8",
+    "65461@6",
+    "70834@6",
+    "88170@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

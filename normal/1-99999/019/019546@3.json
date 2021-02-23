@@ -1,0 +1,22 @@
+{
+  "id": 19546,
+  "name": "G3",
+  "generation": 3,
+  "created_at": "2017-11-30T22:25:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G3. I believe the world is flat. I once made a rabbit sulk. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "12015@1",
+  "sire": "19412@2",
+  "children": [
+    "19769@4",
+    "20060@5",
+    "20182@4",
+    "26486@4",
+    "130079@4",
+    "196084@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

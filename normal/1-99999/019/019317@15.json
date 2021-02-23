@@ -1,0 +1,22 @@
+{
+  "id": 19317,
+  "name": "D - Cranky Dave",
+  "generation": 15,
+  "created_at": "2017-11-30T21:48:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm D - Cranky Dave. My friends describe me as petulant and smelly. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "15327@14",
+  "sire": "16774@12",
+  "children": [
+    "20888@16",
+    "22608@16",
+    "26333@16",
+    "26755@16",
+    "41882@17",
+    "104775@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 22717,
+  "name": "Gen 3 SkyBlue Stubbs",
+  "generation": 3,
+  "created_at": "2017-12-01T12:54:02.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Gen 3 SkyBlue Stubbs. I enjoy riding unicorns, fighting for the people, and eating lasagna. Some people say I'm the Dwight Schrute of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "21716@2",
+  "sire": "21809@2",
+  "children": [
+    "30661@4",
+    "30864@4",
+    "31052@4",
+    "31683@5",
+    "32679@5",
+    "33064@6",
+    "39774@4",
+    "40305@4",
+    "61474@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 17928,
+  "name": "Mochino",
+  "generation": 18,
+  "created_at": "2017-11-30T16:53:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Mochino. My friends describe me as seductive and voluptuous. My secret indulgence is salad. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "9406@17",
+  "sire": "9488@16",
+  "children": [
+    "21406@19",
+    "85397@23",
+    "109304@21",
+    "326542@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

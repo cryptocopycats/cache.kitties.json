@@ -1,0 +1,20 @@
+{
+  "id": 19112,
+  "name": "MEW Gen 16",
+  "generation": 16,
+  "created_at": "2017-11-30T21:09:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm MEW Gen 16. I'm a professional Private Dancer  and I love chocolate. I once dreamed of being a Ventriloquist. Now I can be found swiping left all day. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "18060@15",
+  "sire": "18041@11",
+  "children": [
+    "25433@20",
+    "26994@17",
+    "104368@21",
+    "208810@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

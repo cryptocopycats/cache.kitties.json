@@ -1,0 +1,21 @@
+{
+  "id": 22076,
+  "name": "Tubbi Greespaw",
+  "generation": 11,
+  "created_at": "2017-12-01T09:25:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Tubbi Greespaw. I've never told anyone this, but I once bit a dog. I like to listen to Gloria Estefan while grooming. Don't judge me. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "21020@10",
+  "sire": "21649@0",
+  "children": [
+    "22110@12",
+    "25237@17",
+    "30433@16",
+    "48923@17",
+    "57007@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

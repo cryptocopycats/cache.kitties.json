@@ -1,0 +1,20 @@
+{
+  "id": 19861,
+  "name": "Cat Sajak",
+  "generation": 10,
+  "created_at": "2017-11-30T23:44:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Cat Sajak. I enjoy eating lasagna, chasing string, and watching Stranger Things. In my free time, I can usually be found raunchy or prank-calling celebrities. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "17428@7",
+  "sire": "18754@9",
+  "children": [
+    "24230@11",
+    "25107@11",
+    "72706@11",
+    "105371@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

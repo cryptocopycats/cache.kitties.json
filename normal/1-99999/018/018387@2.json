@@ -1,0 +1,23 @@
+{
+  "id": 18387,
+  "name": "Baby | Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T18:52:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Baby | Gen2. I'm often referred to as the Cersei Lannister of the group. Sometimes I daydream of a life full of picking flowers, apple pie, and reading Danielle Steele. I look forward to grooming with you.",
+  "language": "en",
+  "matron": "5838@1",
+  "sire": "18143@1",
+  "children": [
+    "18424@3",
+    "18502@3",
+    "18575@3",
+    "18735@3",
+    "19197@3",
+    "25211@3",
+    "113413@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

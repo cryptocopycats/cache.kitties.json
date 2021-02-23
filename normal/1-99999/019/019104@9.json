@@ -1,0 +1,24 @@
+{
+  "id": 19104,
+  "name": "Panjeet",
+  "generation": 9,
+  "created_at": "2017-11-30T21:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Panjeet. My friends describe me as gorgeous and fabulous. I would give it all up to star in a soap opera. I like your face.",
+  "language": "en",
+  "matron": "16893@6",
+  "sire": "18286@8",
+  "children": [
+    "19323@10",
+    "37161@17",
+    "44275@10",
+    "53713@10",
+    "59023@10",
+    "88439@10",
+    "116268@10",
+    "179827@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

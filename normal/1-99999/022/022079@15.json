@@ -1,0 +1,18 @@
+{
+  "id": 22079,
+  "name": "Descendant Mike",
+  "generation": 15,
+  "created_at": "2017-12-01T09:25:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Descendant Mike. I enjoy reciting poetry, shakin' dat booty, and picking on mice. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "13743@13",
+  "sire": "15633@14",
+  "children": [
+    "40904@16",
+    "59005@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 18841,
+  "name": "Gen 5 Plodding",
+  "generation": 5,
+  "created_at": "2017-11-30T20:11:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Gen 5 Plodding. I enjoy chasing red dots, eating lasagna, and shakin' dat booty. My secret indulgence is apple pie. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "14508@4",
+  "sire": "18684@4",
+  "children": [
+    "19068@6",
+    "25405@6",
+    "25576@10",
+    "26049@6",
+    "26873@8",
+    "33052@6",
+    "40479@9",
+    "46041@8",
+    "90419@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

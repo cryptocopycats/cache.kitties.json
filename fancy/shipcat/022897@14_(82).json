@@ -1,0 +1,28 @@
+{
+  "id": 22897,
+  "name": "Hi Mom!",
+  "generation": 14,
+  "created_at": "2017-12-01T13:48:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Hi Mom!. I've never told anyone this, but I once bit a dog. I once got in a fight with a dog, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "21470@13",
+  "sire": "11423@7",
+  "children": [
+    "29679@15",
+    "37627@15",
+    "42660@15",
+    "59698@15",
+    "91267@15",
+    "221436@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 82,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

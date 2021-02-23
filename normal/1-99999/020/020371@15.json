@@ -1,0 +1,18 @@
+{
+  "id": 20371,
+  "name": "Rare Salmon",
+  "generation": 15,
+  "created_at": "2017-12-01T01:37:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Rare Salmon. I'm often referred to as the Homer Simpson of the group. I would give it all up to be on Oprah. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "15550@8",
+  "sire": "19115@14",
+  "children": [
+    "77430@24",
+    "314294@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21598,
+  "name": "Oprah SayCheese",
+  "generation": 10,
+  "created_at": "2017-12-01T07:05:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Oprah SayCheese. My friends describe me as preposterous and stinky. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18362@2",
+  "sire": "17671@9",
+  "children": [
+    "21844@18",
+    "22616@15",
+    "29740@17",
+    "45392@11",
+    "58904@11",
+    "317479@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

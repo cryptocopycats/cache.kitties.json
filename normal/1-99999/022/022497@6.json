@@ -1,0 +1,19 @@
+{
+  "id": 22497,
+  "name": "Anakin",
+  "generation": 6,
+  "created_at": "2017-12-01T11:35:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! Anakin here. I'm here to enjoy grooming and tripping my owner. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "22318@5",
+  "sire": "22438@5",
+  "children": [
+    "23638@7",
+    "23978@11",
+    "27770@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

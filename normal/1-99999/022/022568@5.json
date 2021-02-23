@@ -1,0 +1,21 @@
+{
+  "id": 22568,
+  "name": "G5",
+  "generation": 5,
+  "created_at": "2017-12-01T11:55:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm G5. I'm a Mad Scientist by day, and I like prank-calling celebrities by night. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "22449@4",
+  "sire": "16018@4",
+  "children": [
+    "22796@7",
+    "23011@6",
+    "35216@6",
+    "36055@6",
+    "127898@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

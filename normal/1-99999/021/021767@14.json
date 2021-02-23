@@ -1,0 +1,20 @@
+{
+  "id": 21767,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T07:53:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #21767. All you need to know about me is I hate cantaloupe with a passion. I once made a platypus grimace. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10924@4",
+  "sire": "15463@13",
+  "children": [
+    "51599@15",
+    "55428@15",
+    "84405@16",
+    "119094@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

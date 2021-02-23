@@ -1,0 +1,18 @@
+{
+  "id": 21527,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-01T06:45:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #21527. All you need to know about me is I hate wet food with a passion. I once made a dolphin leap. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "15756@21",
+  "sire": "15378@18",
+  "children": [
+    "30202@23",
+    "70281@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

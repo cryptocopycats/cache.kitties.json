@@ -1,0 +1,21 @@
+{
+  "id": 22636,
+  "name": "Starter Luckystripe",
+  "generation": 15,
+  "created_at": "2017-12-01T12:24:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Starter Luckystripe. I'm often referred to as the Cersei Lannister of the group. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "16783@14",
+  "sire": "18868@13",
+  "children": [
+    "26384@16",
+    "33486@16",
+    "43132@19",
+    "66762@16",
+    "163185@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

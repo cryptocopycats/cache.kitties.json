@@ -1,0 +1,18 @@
+{
+  "id": 18271,
+  "name": "Oreo",
+  "generation": 9,
+  "created_at": "2017-11-30T18:22:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Oreo. I'm often referred to as the Chandler Bing of the group. Some people say I'm the Chandler Bing of the group. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "17193@8",
+  "sire": "17478@8",
+  "children": [
+    "26467@10",
+    "35718@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

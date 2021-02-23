@@ -1,0 +1,19 @@
+{
+  "id": 19790,
+  "name": "Coffee with milk",
+  "generation": 17,
+  "created_at": "2017-11-30T23:22:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Coffee with milk. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "12616@16",
+  "sire": "13253@16",
+  "children": [
+    "22891@18",
+    "28253@18",
+    "69034@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

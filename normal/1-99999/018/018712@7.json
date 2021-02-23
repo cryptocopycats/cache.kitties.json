@@ -1,0 +1,22 @@
+{
+  "id": 18712,
+  "name": "Pepsi!",
+  "generation": 7,
+  "created_at": "2017-11-30T19:53:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Pepsi!. I'm often referred to as the Ross Geller of the group. When I'm not sleeping in fresh laundry, I'm swiping right! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18159@6",
+  "sire": "18403@6",
+  "children": [
+    "38824@8",
+    "39530@8",
+    "41156@11",
+    "53810@8",
+    "79806@9",
+    "88979@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

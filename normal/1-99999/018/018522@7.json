@@ -1,0 +1,27 @@
+{
+  "id": 18522,
+  "name": "Dali Scarlet",
+  "generation": 7,
+  "created_at": "2017-11-30T19:20:20.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Dali Scarlet. I enjoy eating lasagna, riding unicorns, and being a nevernude. It's not common knowledge, but my ancestry connects me to Confucius. I like your face.",
+  "language": "en",
+  "matron": "17847@6",
+  "sire": "17183@6",
+  "children": [
+    "18649@16",
+    "19021@8",
+    "20343@12",
+    "20446@16",
+    "41778@10",
+    "51003@12",
+    "62830@12",
+    "94539@10",
+    "143558@8",
+    "294670@10",
+    "420455@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

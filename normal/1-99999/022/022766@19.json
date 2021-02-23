@@ -1,0 +1,18 @@
+{
+  "id": 22766,
+  "name": "Millie Mauve",
+  "generation": 19,
+  "created_at": "2017-12-01T13:09:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Millie Mauve. I'm often referred to as the Ross Geller of the group. I am 90% troll, 93% Dispensary Clerk, and otherwise bad at math. Will you be the garlic butter to my peanut butter?",
+  "language": "en",
+  "matron": "12714@18",
+  "sire": "13190@15",
+  "children": [
+    "26703@20",
+    "44984@20"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

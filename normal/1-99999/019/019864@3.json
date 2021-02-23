@@ -1,0 +1,22 @@
+{
+  "id": 19864,
+  "name": "c",
+  "generation": 3,
+  "created_at": "2017-11-30T23:44:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm c. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Princess Diana. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "19838@2",
+  "sire": "14374@2",
+  "children": [
+    "96530@4",
+    "110043@4",
+    "110158@4",
+    "114337@4",
+    "118175@4",
+    "134470@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 22183,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T09:58:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen4. I'm a professional Culinary Sanitation Specialist and I love apple pie. I once got in a fight with a rabbit, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18735@3",
+  "sire": "19390@3",
+  "children": [
+    "22318@5",
+    "22482@5",
+    "22655@5",
+    "23705@5",
+    "23957@5",
+    "25805@5",
+    "28026@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20265,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-01T01:14:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Kitty #20265. In high school, I was voted school jock. When I'm not tricking babies, I'm reading Danielle Steele! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "17000@17",
+  "sire": "16996@20",
+  "children": [
+    "24905@22",
+    "83967@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

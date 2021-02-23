@@ -1,0 +1,19 @@
+{
+  "id": 20781,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-12-01T03:30:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Gen 13. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found smelly or braiding people's hair. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4843@12",
+  "sire": "18615@7",
+  "children": [
+    "24968@16",
+    "59968@14",
+    "71206@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

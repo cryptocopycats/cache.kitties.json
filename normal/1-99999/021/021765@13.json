@@ -1,0 +1,21 @@
+{
+  "id": 21765,
+  "name": "Spike",
+  "generation": 13,
+  "created_at": "2017-12-01T07:53:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Spike. I'm a Culinary Sanitation Specialist by day, and I like reading Danielle Steele by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "17062@11",
+  "sire": "19199@12",
+  "children": [
+    "22385@14",
+    "23276@14",
+    "25909@14",
+    "38817@14",
+    "47420@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

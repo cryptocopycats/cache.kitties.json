@@ -1,0 +1,23 @@
+{
+  "id": 20205,
+  "name": "Flufftail Skymew",
+  "generation": 6,
+  "created_at": "2017-12-01T01:04:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Flufftail Skymew. All you need to know about me is I hate lasagna with a passion. I was voted biggest teacher's pet in college. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "19869@5",
+  "sire": "15124@5",
+  "children": [
+    "20396@7",
+    "20610@7",
+    "21778@14",
+    "22356@14",
+    "23105@7",
+    "74445@19",
+    "119776@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

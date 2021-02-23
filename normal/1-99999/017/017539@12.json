@@ -1,0 +1,19 @@
+{
+  "id": 17539,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-30T15:03:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #17539. I enjoy fighting for the people, glaring at the neighbour's cat, and eating lasagna. Some people say I'm the Ron Weasley of the group. Let's get busy!",
+  "language": "en",
+  "matron": "11883@0",
+  "sire": "10431@11",
+  "children": [
+    "18119@13",
+    "65959@20",
+    "80016@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

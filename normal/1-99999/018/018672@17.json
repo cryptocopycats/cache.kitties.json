@@ -1,0 +1,19 @@
+{
+  "id": 18672,
+  "name": "Catface Meowmers",
+  "generation": 17,
+  "created_at": "2017-11-30T19:46:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Catface Meowmers. All you need to know about me is I hate lasagna with a passion. I once dreamed of being a Train Conductor. Now I can be found jump-roping all day. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "17624@15",
+  "sire": "14281@16",
+  "children": [
+    "38743@18",
+    "78770@18",
+    "393345@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 17583,
+  "name": "Purrfect | Gen6",
+  "generation": 6,
+  "created_at": "2017-11-30T15:14:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's Purrfect | Gen6. I once peed on Martin Luther King Jr.'s cat. They had it coming. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "16535@5",
+  "sire": "16453@5",
+  "children": [
+    "17929@8",
+    "18219@7",
+    "18555@7",
+    "23728@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

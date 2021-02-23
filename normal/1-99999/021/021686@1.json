@@ -1,0 +1,19 @@
+{
+  "id": 21686,
+  "name": "G1 Schrodinger, Jr.",
+  "generation": 1,
+  "created_at": "2017-12-01T07:37:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm G1 Schrodinger, Jr.. I've never told anyone this, but I once pranced with a dog. I once made a moose leap. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "1079@0",
+  "sire": "2449@0",
+  "children": [
+    "54773@16",
+    "59825@2",
+    "61805@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22039,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-12-01T09:17:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen 17. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Will you be the marmalade to my soy sauce?",
+  "language": "en",
+  "matron": "13242@13",
+  "sire": "8909@16",
+  "children": [
+    "23572@21",
+    "28536@20",
+    "52039@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

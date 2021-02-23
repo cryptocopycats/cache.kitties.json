@@ -1,0 +1,21 @@
+{
+  "id": 17738,
+  "name": "Jude Claw",
+  "generation": 15,
+  "created_at": "2017-11-30T16:09:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Jude Claw. I enjoy sitting on your computer, watching Stranger Things, and eating lasagna. I am 84% elf, 14% Culinary Sanitation Specialist, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "5848@14",
+  "sire": "4545@5",
+  "children": [
+    "19126@16",
+    "19905@16",
+    "29400@17",
+    "44202@19",
+    "68287@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

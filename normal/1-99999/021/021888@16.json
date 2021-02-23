@@ -1,0 +1,19 @@
+{
+  "id": 21888,
+  "name": "PauloCat",
+  "generation": 16,
+  "created_at": "2017-12-01T08:33:12.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm PauloCat. My friends describe me as seductive and brilliant. Sometimes I daydream of a life full of sweating through my feet, wet food, and playing chess. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "13130@15",
+  "sire": "16311@4",
+  "children": [
+    "25457@17",
+    "27684@17",
+    "225658@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

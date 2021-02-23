@@ -1,0 +1,22 @@
+{
+  "id": 19610,
+  "name": "MED",
+  "generation": 3,
+  "created_at": "2017-11-30T22:42:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's MED. I once peed on Marie Antoinette's cat. They had it coming. I am 53% hobbit, 28% Aerobics Athlete , and otherwise bad at math. Will you be the soy sauce to my marmite?",
+  "language": "en",
+  "matron": "14397@2",
+  "sire": "14374@2",
+  "children": [
+    "19678@4",
+    "19879@4",
+    "20032@4",
+    "110261@4",
+    "120709@4",
+    "142239@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

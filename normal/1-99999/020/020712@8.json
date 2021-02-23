@@ -1,0 +1,18 @@
+{
+  "id": 20712,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-01T03:17:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm 8. I'm a Mad Scientist by day, and I like pole dancing by night. My secret indulgence is ice cream. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "18607@7",
+  "sire": "18875@7",
+  "children": [
+    "21021@10",
+    "57185@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

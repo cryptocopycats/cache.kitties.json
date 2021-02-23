@@ -1,0 +1,22 @@
+{
+  "id": 21206,
+  "name": "G13",
+  "generation": 13,
+  "created_at": "2017-12-01T05:13:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm G13. I believe the world is flat. I once made a moose lay. I like your face.",
+  "language": "en",
+  "matron": "15664@12",
+  "sire": "18552@3",
+  "children": [
+    "43628@14",
+    "52903@14",
+    "64247@14",
+    "192310@18",
+    "262974@23",
+    "300512@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

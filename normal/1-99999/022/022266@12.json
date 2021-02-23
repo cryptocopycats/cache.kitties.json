@@ -1,0 +1,20 @@
+{
+  "id": 22266,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-12-01T10:19:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Gen 12. I'm a Dispensary Clerk by day, and I like jump-roping by night. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4680@11",
+  "sire": "18507@2",
+  "children": [
+    "25631@24",
+    "26522@20",
+    "27943@22",
+    "32443@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

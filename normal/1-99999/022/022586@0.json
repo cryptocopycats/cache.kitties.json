@@ -1,0 +1,31 @@
+{
+  "id": 22586,
+  "name": "Steve",
+  "generation": 0,
+  "created_at": "2017-12-01T12:05:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Steve. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Rihanna. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24327@1",
+    "24352@1",
+    "24472@1",
+    "25533@1",
+    "108890@1",
+    "110220@1",
+    "130626@1",
+    "145749@1",
+    "155711@1",
+    "182742@1",
+    "215211@1",
+    "234609@1",
+    "327413@1",
+    "375316@1",
+    "451193@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

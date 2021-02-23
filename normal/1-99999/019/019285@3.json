@@ -1,0 +1,23 @@
+{
+  "id": 19285,
+  "name": "Abby | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T21:42:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Abby | Gen3. In high school, I was voted most likely to work at NASA. I once pranced with a gecko. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "19013@2",
+  "sire": "19006@2",
+  "children": [
+    "19335@4",
+    "19380@4",
+    "19494@4",
+    "19645@4",
+    "22463@4",
+    "24428@4",
+    "25665@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

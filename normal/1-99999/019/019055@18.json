@@ -1,0 +1,18 @@
+{
+  "id": 19055,
+  "name": "Raichu",
+  "generation": 18,
+  "created_at": "2017-11-30T21:00:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Raichu. I enjoy riding dirty, chasing red dots, and grooming. I'm often described as petulant, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "13799@12",
+  "sire": "17108@17",
+  "children": [
+    "24503@19",
+    "45498@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

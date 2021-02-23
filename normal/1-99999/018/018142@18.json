@@ -1,0 +1,18 @@
+{
+  "id": 18142,
+  "name": "Orange",
+  "generation": 18,
+  "created_at": "2017-11-30T17:48:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Orange. I've never told anyone this, but I once frolicked with a dog. When no one's home, I invite my pals over and we listen to Aretha Franklin. Let's pawty!",
+  "language": "en",
+  "matron": "7032@8",
+  "sire": "15596@17",
+  "children": [
+    "41971@19",
+    "105849@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

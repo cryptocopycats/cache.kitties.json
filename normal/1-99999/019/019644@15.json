@@ -1,0 +1,19 @@
+{
+  "id": 19644,
+  "name": "Green street Hooligan",
+  "generation": 15,
+  "created_at": "2017-11-30T22:49:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Green street Hooligan. In high school, I was voted biggest teacher's pet. I like to listen to Rihanna while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "11670@14",
+  "sire": "15730@14",
+  "children": [
+    "45738@17",
+    "74381@18",
+    "93351@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18258,
+  "name": "Stalin",
+  "generation": 18,
+  "created_at": "2017-11-30T18:22:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Stalin. I've never told anyone this, but I once loved a dog. In my free time, I can usually be found prickly or watching reality tv. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11552@17",
+  "sire": "3736@4",
+  "children": [
+    "49438@19",
+    "50720@19",
+    "86037@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

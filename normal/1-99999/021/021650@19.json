@@ -1,0 +1,18 @@
+{
+  "id": 21650,
+  "name": "Sweety Kitty",
+  "generation": 19,
+  "created_at": "2017-12-01T07:20:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! My name's Sweety Kitty. I once peed on Princess Diana's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19119@13",
+  "sire": "19194@18",
+  "children": [
+    "26784@20",
+    "82465@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

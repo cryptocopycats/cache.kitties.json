@@ -1,0 +1,20 @@
+{
+  "id": 19066,
+  "name": "Jack  Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T21:01:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Jack  Gen4. I've never told anyone this, but I once licked a dog. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18848@3",
+  "sire": "18974@3",
+  "children": [
+    "19160@5",
+    "19326@5",
+    "24770@5",
+    "25875@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

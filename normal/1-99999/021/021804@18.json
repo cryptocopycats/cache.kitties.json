@@ -1,0 +1,19 @@
+{
+  "id": 21804,
+  "name": "Mr Snugglybunch",
+  "generation": 18,
+  "created_at": "2017-12-01T08:04:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Mr Snugglybunch. I'm often referred to as the Neville Longbottom of the group. I once dreamed of being a Mad Scientist. Now I can be found siring for status all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13044@17",
+  "sire": "15319@15",
+  "children": [
+    "34955@19",
+    "59574@19",
+    "140601@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

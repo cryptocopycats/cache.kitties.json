@@ -1,0 +1,23 @@
+{
+  "id": 17908,
+  "name": "Bird Dog Gee",
+  "generation": 5,
+  "created_at": "2017-11-30T16:45:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Bird Dog Gee. My friends describe me as wondrous and brilliant. I am 43% gremlin, 72% Foreign Film Director, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17117@4",
+  "sire": "17808@4",
+  "children": [
+    "18127@8",
+    "19350@15",
+    "20633@15",
+    "21516@15",
+    "22157@7",
+    "23607@18",
+    "24791@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

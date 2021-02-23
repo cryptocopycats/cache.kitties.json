@@ -1,0 +1,20 @@
+{
+  "id": 18299,
+  "name": "Merkle",
+  "generation": 9,
+  "created_at": "2017-11-30T18:30:57.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Merkle. I've never told anyone this, but I once pawed at a dog. I like to listen to Justin Bieber while grooming. Don't judge me. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "17603@8",
+  "sire": "17298@8",
+  "children": [
+    "20469@17",
+    "45678@17",
+    "69597@17",
+    "186740@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

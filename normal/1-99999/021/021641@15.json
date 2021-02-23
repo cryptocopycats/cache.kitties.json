@@ -1,0 +1,20 @@
+{
+  "id": 21641,
+  "name": "B1",
+  "generation": 15,
+  "created_at": "2017-12-01T07:16:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm B1. My friends describe me as despicable and brilliant. I once got in a fight with a dog, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "20036@14",
+  "sire": "10321@6",
+  "children": [
+    "27492@17",
+    "48759@19",
+    "48914@16",
+    "76139@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

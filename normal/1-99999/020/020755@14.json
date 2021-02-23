@@ -1,0 +1,21 @@
+{
+  "id": 20755,
+  "name": "AAAGH (Gen 14)",
+  "generation": 14,
+  "created_at": "2017-12-01T03:24:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm AAAGH (Gen 14). I'm often referred to as the Peter Griffin of the group. In my free time, I can usually be found preposterous or mocking dogs. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "10601@13",
+  "sire": "16223@13",
+  "children": [
+    "24363@17",
+    "29106@16",
+    "39203@17",
+    "65214@19",
+    "84339@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

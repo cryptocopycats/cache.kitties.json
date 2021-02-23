@@ -1,0 +1,19 @@
+{
+  "id": 20345,
+  "name": "General Meow",
+  "generation": 15,
+  "created_at": "2017-12-01T01:35:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's General Meow. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When I'm not talking about how much I lift, I'm running a podcast! Will you be the marmalade to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "15434@14",
+  "sire": "2635@0",
+  "children": [
+    "26667@16",
+    "42005@16",
+    "70506@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

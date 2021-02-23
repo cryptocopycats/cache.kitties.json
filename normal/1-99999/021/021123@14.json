@@ -1,0 +1,20 @@
+{
+  "id": 21123,
+  "name": "Snuffles",
+  "generation": 14,
+  "created_at": "2017-12-01T04:50:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Snuffles. I'm a professional Ventriloquist and I love salad. My friends describe me as \"stinky.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "20436@12",
+  "sire": "20664@13",
+  "children": [
+    "23427@18",
+    "24401@16",
+    "28971@16",
+    "45799@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 19090,
+  "name": "Sophie | Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T21:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Sophie | Gen2. I want to live in a world where people believe the world is flat. I put pickles on everything. Like, everything: hot dogs, lasagna—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3481@1",
+  "sire": "18143@1",
+  "children": [
+    "19226@3",
+    "19245@3",
+    "23789@3",
+    "24313@3",
+    "25287@3",
+    "243233@3",
+    "249354@3",
+    "262854@3",
+    "283018@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20179,
+  "name": "Sir Calvin Topaz of the Beards",
+  "generation": 12,
+  "created_at": "2017-12-01T00:56:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Sir Calvin Topaz of the Beards. I'm a professional Spin Instructor  and I love apple pie. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16290@11",
+  "sire": "5544@9",
+  "children": [
+    "23368@13",
+    "23882@18",
+    "61063@13",
+    "88146@13",
+    "221740@21",
+    "324811@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

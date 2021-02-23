@@ -1,0 +1,21 @@
+{
+  "id": 21531,
+  "name": "Chester",
+  "generation": 15,
+  "created_at": "2017-12-01T06:45:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Chester. I believe the world is flat. I am 62% wizard, 42% Dogwalker, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "14466@0",
+  "sire": "20832@14",
+  "children": [
+    "22523@16",
+    "24181@16",
+    "32016@16",
+    "45588@16",
+    "425345@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

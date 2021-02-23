@@ -1,0 +1,19 @@
+{
+  "id": 19391,
+  "name": "RARE",
+  "generation": 15,
+  "created_at": "2017-11-30T22:04:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm RARE. My friends describe me as prickly and preposterous. I like to listen to Coldplay while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16826@11",
+  "sire": "16688@14",
+  "children": [
+    "21281@17",
+    "22137@16",
+    "86529@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

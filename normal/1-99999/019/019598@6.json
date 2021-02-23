@@ -1,0 +1,22 @@
+{
+  "id": 19598,
+  "name": "Dorky",
+  "generation": 6,
+  "created_at": "2017-11-30T22:39:13.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Dorky. I enjoy watching Stranger Things, riding dirty, and chasing string. Some people say I'm the Ron Weasley of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19175@5",
+  "sire": "19073@5",
+  "children": [
+    "38428@7",
+    "53351@7",
+    "72386@7",
+    "79597@7",
+    "85414@7",
+    "104293@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

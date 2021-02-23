@@ -1,0 +1,20 @@
+{
+  "id": 19719,
+  "name": "Gen 2 | Kittencream | Rare",
+  "generation": 10,
+  "created_at": "2017-11-30T23:05:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Gen 2 | Kittencream | Rare. I believe that one day cats will rule this planet. I like to listen to Beyoncé while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "18324@9",
+  "sire": "18550@9",
+  "children": [
+    "42753@11",
+    "45740@16",
+    "56245@11",
+    "152991@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

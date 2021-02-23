@@ -1,0 +1,23 @@
+{
+  "id": 22694,
+  "name": "G4 Wombo Combo",
+  "generation": 4,
+  "created_at": "2017-12-01T12:45:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm G4 Wombo Combo. I believe that one day cats will rule this planet. My friends describe me as \"prickly.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "22304@3",
+  "sire": "22649@3",
+  "children": [
+    "22719@5",
+    "22828@6",
+    "22918@5",
+    "23092@5",
+    "25106@6",
+    "87117@5",
+    "119082@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

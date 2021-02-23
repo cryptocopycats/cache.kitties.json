@@ -1,0 +1,21 @@
+{
+  "id": 20442,
+  "name": "Cymric G12",
+  "generation": 12,
+  "created_at": "2017-12-01T01:55:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Cymric G12. I believe that one day cats will rule this planet. I'm often described as voluptuous, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11970@0",
+  "sire": "20364@11",
+  "children": [
+    "21596@13",
+    "23253@13",
+    "25389@13",
+    "35727@13",
+    "79606@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

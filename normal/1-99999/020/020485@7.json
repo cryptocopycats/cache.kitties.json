@@ -1,0 +1,17 @@
+{
+  "id": 20485,
+  "name": "Mauveover | Coffe | G7",
+  "generation": 7,
+  "created_at": "2017-12-01T02:05:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Mauveover | Coffe | G7. I'm often referred to as the Lisa Simpson of the group. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "20381@6",
+  "sire": "18988@6",
+  "children": [
+    "21098@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

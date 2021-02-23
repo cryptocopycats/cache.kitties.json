@@ -1,0 +1,18 @@
+{
+  "id": 20880,
+  "name": "smurfette",
+  "generation": 15,
+  "created_at": "2017-12-01T03:55:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm smurfette. I want to live in a world where people believe the world is flat. In my free time, I can usually be found vegan or riding the bus. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "11117@12",
+  "sire": "18628@14",
+  "children": [
+    "22945@16",
+    "284411@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 21238,
+  "name": "Spock | Mint | G7",
+  "generation": 7,
+  "created_at": "2017-12-01T05:20:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Spock | Mint | G7. I'm a professional Spin Instructor  and I love apple pie. I once got in a fight with a dolphin, and won. Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "21110@6",
+  "sire": "11964@6",
+  "children": [
+    "43370@8",
+    "67349@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

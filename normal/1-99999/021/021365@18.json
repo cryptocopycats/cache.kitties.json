@@ -1,0 +1,18 @@
+{
+  "id": 21365,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-01T05:58:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! My name's Kitty #21365. I once peed on Martin Luther King Jr.'s cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18046@17",
+  "sire": "17977@11",
+  "children": [
+    "22836@19",
+    "68940@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 17597,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T15:18:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #17597. My friends describe me as petulant and preposterous. I am 86% sphinx, 42% Ventriloquist, and otherwise bad at math. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "15078@14",
+  "sire": "12770@14",
+  "children": [
+    "20054@17",
+    "24326@16",
+    "39707@16",
+    "60305@18",
+    "164839@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

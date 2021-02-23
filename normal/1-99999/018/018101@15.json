@@ -1,0 +1,21 @@
+{
+  "id": 18101,
+  "name": "Derpasaurus Rex",
+  "generation": 15,
+  "created_at": "2017-11-30T17:36:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Derpasaurus Rex. I enjoy picking on mice, chasing string, and grooming. When no one's home, I invite my pals over and we listen to Michael Bolton. Our friendship will be seductive, brilliant, and full of chocolate.",
+  "language": "en",
+  "matron": "16520@13",
+  "sire": "16688@14",
+  "children": [
+    "19379@16",
+    "21265@16",
+    "29896@18",
+    "44246@16",
+    "116343@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

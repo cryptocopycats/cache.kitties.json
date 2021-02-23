@@ -1,0 +1,21 @@
+{
+  "id": 17835,
+  "name": "Wingtip",
+  "generation": 19,
+  "created_at": "2017-11-30T16:24:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Wingtip. My friends describe me as gorgeous and wondrous. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7806@17",
+  "sire": "9838@18",
+  "children": [
+    "20361@20",
+    "37604@22",
+    "264554@20",
+    "1515955@20",
+    "1873320@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

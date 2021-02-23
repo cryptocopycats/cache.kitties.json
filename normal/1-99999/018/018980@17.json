@@ -1,0 +1,19 @@
+{
+  "id": 18980,
+  "name": "Minties",
+  "generation": 17,
+  "created_at": "2017-11-30T20:40:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Minties. I want to live in a world where people believe the world is flat. In my free time, I can usually be found raunchy or mocking dogs. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "13393@16",
+  "sire": "13884@14",
+  "children": [
+    "44849@18",
+    "58320@18",
+    "94561@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

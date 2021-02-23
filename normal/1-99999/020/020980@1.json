@@ -1,0 +1,18 @@
+{
+  "id": 20980,
+  "name": "Lucky | GEN 1",
+  "generation": 1,
+  "created_at": "2017-12-01T04:19:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Lucky | GEN 1. I'm a professional Mad Scientist and I love ice cream. My friends describe me as \"fabulous.\" It's... accurate. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "17844@0",
+  "sire": "16324@0",
+  "children": [
+    "37041@4",
+    "37130@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 19729,
+  "name": "Spot",
+  "generation": 9,
+  "created_at": "2017-11-30T23:10:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Spot. I'm a Train Conductor by day, and I like playing chess by night. I once bit a rabbit. I don't like to talk about it. Let's get busy!",
+  "language": "en",
+  "matron": "17546@4",
+  "sire": "10539@8",
+  "children": [
+    "19882@10",
+    "20220@10",
+    "22460@13",
+    "31758@19",
+    "42241@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

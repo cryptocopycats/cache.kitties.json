@@ -1,0 +1,22 @@
+{
+  "id": 22019,
+  "name": "StrangeMiaou",
+  "generation": 12,
+  "created_at": "2017-12-01T09:14:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm StrangeMiaou. I'm often referred to as the Hermione Granger of the group. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's get busy!",
+  "language": "en",
+  "matron": "17970@11",
+  "sire": "18038@10",
+  "children": [
+    "22452@13",
+    "23295@13",
+    "26211@16",
+    "39556@17",
+    "62282@17",
+    "117013@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

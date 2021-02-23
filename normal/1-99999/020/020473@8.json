@@ -1,0 +1,18 @@
+{
+  "id": 20473,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-01T02:05:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #20473. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Confucius. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "18738@6",
+  "sire": "16002@7",
+  "children": [
+    "78289@17",
+    "86235@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

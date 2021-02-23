@@ -1,0 +1,24 @@
+{
+  "id": 19389,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-11-30T22:04:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Gen 6. I believe that one day cats will rule this planet. I am 5% fairy, 13% Culinary Sanitation Specialist, and otherwise bad at math. I look forward to breakdancing with you.",
+  "language": "en",
+  "matron": "18512@2",
+  "sire": "19243@5",
+  "children": [
+    "20169@17",
+    "22974@21",
+    "28568@14",
+    "31515@23",
+    "37796@14",
+    "48819@22",
+    "91476@24",
+    "608705@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

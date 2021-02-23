@@ -1,0 +1,21 @@
+{
+  "id": 18505,
+  "name": "OtakuCat",
+  "generation": 12,
+  "created_at": "2017-11-30T19:18:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm OtakuCat. I've never told anyone this, but I once pranced with a dog. My secret indulgence is cantaloupe. I like your face.",
+  "language": "en",
+  "matron": "12697@11",
+  "sire": "11617@11",
+  "children": [
+    "20887@16",
+    "22167@17",
+    "22923@18",
+    "28462@13",
+    "292236@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

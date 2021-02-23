@@ -1,0 +1,20 @@
+{
+  "id": 21173,
+  "name": "Mom Barkley",
+  "generation": 12,
+  "created_at": "2017-12-01T05:08:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! Mom Barkley here. I'm here to enjoy chasing string and picking on mice. I put maple syrup on everything. Like, everything: hot dogs, cantaloupe—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14538@11",
+  "sire": "14717@10",
+  "children": [
+    "23100@13",
+    "29146@14",
+    "30908@16",
+    "197159@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

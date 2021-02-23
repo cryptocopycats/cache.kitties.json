@@ -1,0 +1,19 @@
+{
+  "id": 22042,
+  "name": "Prof. Floofypants",
+  "generation": 14,
+  "created_at": "2017-12-01T09:18:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Prof. Floofypants. I believe that one day cats will rule this planet. My secret indulgence is cereal. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "9665@12",
+  "sire": "17542@13",
+  "children": [
+    "25522@17",
+    "26861@16",
+    "65034@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

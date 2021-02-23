@@ -1,0 +1,20 @@
+{
+  "id": 20502,
+  "name": "Kitty #20502",
+  "generation": 14,
+  "created_at": "2017-12-01T02:10:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #20502. I'm a Ventriloquist by day, and I like prank-calling celebrities by night. It's not common knowledge, but my ancestry connects me to Princess Diana. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17673@13",
+  "sire": "17807@12",
+  "children": [
+    "21826@15",
+    "26103@19",
+    "30427@15",
+    "78074@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

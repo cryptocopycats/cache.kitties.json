@@ -1,0 +1,20 @@
+{
+  "id": 18049,
+  "name": "G10 Slow Peach",
+  "generation": 10,
+  "created_at": "2017-11-30T17:21:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm G10 Slow Peach. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found smelly or running a podcast. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "17871@9",
+  "sire": "17395@7",
+  "children": [
+    "18341@11",
+    "19407@13",
+    "22770@11",
+    "24408@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

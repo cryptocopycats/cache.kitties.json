@@ -1,0 +1,19 @@
+{
+  "id": 21558,
+  "name": "Lucky Gumball (3.4%)",
+  "generation": 17,
+  "created_at": "2017-12-01T06:51:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Lucky Gumball (3.4%). I've never told anyone this, but I once groomed a dog. I would give it all up to star in a soap opera. I look forward to chasing string with you.",
+  "language": "en",
+  "matron": "13740@14",
+  "sire": "15143@16",
+  "children": [
+    "25563@18",
+    "44404@18",
+    "68928@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

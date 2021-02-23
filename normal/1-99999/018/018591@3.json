@@ -1,0 +1,20 @@
+{
+  "id": 18591,
+  "name": "Callie | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T19:30:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's Callie | Gen 3. I once peed on Confucius's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18539@2",
+  "sire": "18570@2",
+  "children": [
+    "18778@4",
+    "18792@4",
+    "18893@4",
+    "25250@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

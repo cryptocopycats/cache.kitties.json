@@ -1,0 +1,20 @@
+{
+  "id": 19894,
+  "name": "minty muncher",
+  "generation": 13,
+  "created_at": "2017-11-30T23:48:45.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm minty muncher. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "10293@10",
+  "sire": "7346@12",
+  "children": [
+    "20475@14",
+    "22961@14",
+    "24932@16",
+    "49909@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

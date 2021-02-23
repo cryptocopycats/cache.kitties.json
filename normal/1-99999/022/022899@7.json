@@ -1,0 +1,23 @@
+{
+  "id": 22899,
+  "name": "Lil Tink Tink",
+  "generation": 7,
+  "created_at": "2017-12-01T13:50:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Lil Tink Tink. I've never told anyone this, but I once groomed a dog. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "21599@6",
+  "sire": "19945@0",
+  "children": [
+    "23115@10",
+    "23140@10",
+    "24856@20",
+    "25564@10",
+    "26837@8",
+    "68641@14",
+    "73035@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19867,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-11-30T23:44:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Gen 13. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "19095@12",
+  "sire": "19157@11",
+  "children": [
+    "20554@17",
+    "161020@14",
+    "183960@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

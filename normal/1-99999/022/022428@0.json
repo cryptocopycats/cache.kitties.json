@@ -1,0 +1,27 @@
+{
+  "id": 22428,
+  "name": "Gen-0 Fluffy",
+  "generation": 0,
+  "created_at": "2017-12-01T11:06:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Gen-0 Fluffy. I'm a professional Mad Scientist and I love hamburgers. My secret indulgence is cereal. Our friendship will be tantalizing, preposterous, and full of chocolate.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "23695@1",
+    "23911@1",
+    "24063@1",
+    "33245@1",
+    "40718@1",
+    "44342@1",
+    "45856@1",
+    "53565@1",
+    "70833@1",
+    "160652@19",
+    "194079@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

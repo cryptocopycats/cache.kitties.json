@@ -1,0 +1,22 @@
+{
+  "id": 18328,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-11-30T18:39:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen 12. I enjoy tripping my owner, eating until I loathe myself, and being a nevernude. My friends describe me as \"petulant.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "15870@11",
+  "sire": "11030@2",
+  "children": [
+    "18972@13",
+    "20177@13",
+    "20692@13",
+    "26685@15",
+    "63178@13",
+    "296577@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

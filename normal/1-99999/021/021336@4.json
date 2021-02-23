@@ -1,0 +1,25 @@
+{
+  "id": 21336,
+  "name": "Father of Sailor",
+  "generation": 4,
+  "created_at": "2017-12-01T05:50:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Father of Sailor. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found hairy or swiping right. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21222@3",
+  "sire": "15679@3",
+  "children": [
+    "21789@14",
+    "24228@5",
+    "24829@5",
+    "25400@5",
+    "26118@5",
+    "39784@9",
+    "57210@5",
+    "81207@7",
+    "120702@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

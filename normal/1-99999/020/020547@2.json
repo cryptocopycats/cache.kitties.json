@@ -1,0 +1,22 @@
+{
+  "id": 20547,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-12-01T02:25:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's G2. I once peed on Mother Theresa's cat. They had it coming. I put marmalade on everything. Like, everything: hot dogs, ice cream—everything! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18029@1",
+  "sire": "20441@1",
+  "children": [
+    "20650@3",
+    "20709@3",
+    "21007@3",
+    "24759@3",
+    "148613@3",
+    "216104@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

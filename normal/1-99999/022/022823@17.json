@@ -1,0 +1,19 @@
+{
+  "id": 22823,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-12-01T13:28:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 17. I'm a professional Ventriloquist and I love ice cream. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "19087@5",
+  "sire": "8057@16",
+  "children": [
+    "24443@18",
+    "29352@18",
+    "31167@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

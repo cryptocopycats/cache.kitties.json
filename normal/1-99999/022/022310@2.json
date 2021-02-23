@@ -1,0 +1,23 @@
+{
+  "id": 22310,
+  "name": "gen2",
+  "generation": 2,
+  "created_at": "2017-12-01T10:38:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm gen2. I enjoy grooming, breakdancing, and glaring at the neighbour's cat. I once loved a rooster. I don't like to talk about it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "22014@1",
+  "sire": "22115@1",
+  "children": [
+    "22405@3",
+    "33115@3",
+    "41717@3",
+    "41767@4",
+    "44860@3",
+    "63190@3",
+    "72737@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 19749,
+  "name": "Oskoli",
+  "generation": 17,
+  "created_at": "2017-11-30T23:13:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Oskoli. I've never told anyone this, but I once loved a dog. I once got in a fight with a moose, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16546@13",
+  "sire": "18198@16",
+  "children": [
+    "58279@18",
+    "63880@18",
+    "105290@19",
+    "229832@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18540,
+  "name": "BirdMum | Gen10 Brisk",
+  "generation": 10,
+  "created_at": "2017-11-30T19:23:14.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! My name's BirdMum | Gen10 Brisk. I once peed on Mother Theresa's cat. They had it coming. My secret indulgence is ice cream. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18113@9",
+  "sire": "18261@9",
+  "children": [
+    "20849@11",
+    "23298@11",
+    "24608@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

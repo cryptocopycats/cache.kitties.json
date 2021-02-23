@@ -1,0 +1,19 @@
+{
+  "id": 21494,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-01T06:32:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #21494. I'm often referred to as the Dwight Schrute of the group. I'm often described as fabulous, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11101@11",
+  "sire": "16304@20",
+  "children": [
+    "27070@22",
+    "113312@22",
+    "169860@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

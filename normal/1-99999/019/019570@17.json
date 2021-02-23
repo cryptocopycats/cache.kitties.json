@@ -1,0 +1,19 @@
+{
+  "id": 19570,
+  "name": "Kittencream",
+  "generation": 17,
+  "created_at": "2017-11-30T22:36:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Kittencream. I've never told anyone this, but I once tricked a dog. I once made a dolphin lay. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "18385@11",
+  "sire": "18944@16",
+  "children": [
+    "21984@18",
+    "40222@18",
+    "60661@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22838,
+  "name": "Lollapaloosa",
+  "generation": 20,
+  "created_at": "2017-12-01T13:32:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! My name's Lollapaloosa. I once peed on Confucius's cat. They had it coming. I'm often described as raunchy, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "12650@19",
+  "sire": "15240@19",
+  "children": [
+    "29552@21",
+    "39207@21",
+    "1557301@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 20689,
+  "name": "Purry",
+  "generation": 14,
+  "created_at": "2017-12-01T03:09:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Purry. I'm a Dogwalker by day, and I like talking about how much I lift by night. I once dreamed of being a Train Conductor. Now I can be found watching reality tv all day. Let's get busy!",
+  "language": "en",
+  "matron": "17817@9",
+  "sire": "18431@13",
+  "children": [
+    "25450@17",
+    "36714@16",
+    "45339@17",
+    "74335@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

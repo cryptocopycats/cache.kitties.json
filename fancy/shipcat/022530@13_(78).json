@@ -1,0 +1,27 @@
+{
+  "id": 22530,
+  "name": "Sailor Nani (Pure Bred)",
+  "generation": 13,
+  "created_at": "2017-12-01T11:42:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Sailor Nani (Pure Bred). I'm often referred to as the Dwight Schrute of the group. I am 62% troll, 69% Culinary Sanitation Specialist, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "17643@6",
+  "sire": "12625@12",
+  "children": [
+    "22882@14",
+    "23035@14",
+    "25946@14",
+    "30626@14",
+    "45868@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 78,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

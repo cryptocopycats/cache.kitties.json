@@ -1,0 +1,19 @@
+{
+  "id": 20567,
+  "name": "Gimli",
+  "generation": 20,
+  "created_at": "2017-12-01T02:30:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gimli. My friends describe me as gullible and ridiculous. I was voted most likely to work at NASA in college. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "13622@11",
+  "sire": "19606@19",
+  "children": [
+    "23784@21",
+    "34517@21",
+    "156615@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

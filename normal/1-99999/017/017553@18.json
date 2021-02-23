@@ -1,0 +1,18 @@
+{
+  "id": 17553,
+  "name": "Brown eyed cat-cow slow",
+  "generation": 18,
+  "created_at": "2017-11-30T15:06:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Brown eyed cat-cow slow. All you need to know about me is I hate salad with a passion. When no one's home, I invite my pals over and we listen to Metallica. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15582@17",
+  "sire": "15523@14",
+  "children": [
+    "45644@19",
+    "69654@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

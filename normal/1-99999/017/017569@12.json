@@ -1,0 +1,22 @@
+{
+  "id": 17569,
+  "name": "Grey Beard",
+  "generation": 12,
+  "created_at": "2017-11-30T15:11:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Grey Beard. I'm a Spin Instructor  by day, and I like playing chess by night. I was voted most likely to work at NASA in college. Let's pawty!",
+  "language": "en",
+  "matron": "13775@11",
+  "sire": "13865@11",
+  "children": [
+    "19347@13",
+    "19801@16",
+    "21261@13",
+    "26594@17",
+    "53392@13",
+    "188270@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

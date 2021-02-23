@@ -1,0 +1,19 @@
+{
+  "id": 19946,
+  "name": "Squirrel",
+  "generation": 14,
+  "created_at": "2017-12-01T00:01:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Squirrel. I've never told anyone this, but I once clawed a dog. My secret indulgence is hamburgers. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6018@2",
+  "sire": "12672@13",
+  "children": [
+    "59162@19",
+    "78196@15",
+    "106097@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

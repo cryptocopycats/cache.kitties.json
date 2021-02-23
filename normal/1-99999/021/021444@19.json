@@ -1,0 +1,19 @@
+{
+  "id": 21444,
+  "name": "Turd Ferguson",
+  "generation": 19,
+  "created_at": "2017-12-01T06:20:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Turd Ferguson. In high school, I was voted school jock. My secret indulgence is salad. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "19397@15",
+  "sire": "20238@18",
+  "children": [
+    "26723@20",
+    "73468@20",
+    "122427@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

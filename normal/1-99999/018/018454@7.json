@@ -1,0 +1,22 @@
+{
+  "id": 18454,
+  "name": "7",
+  "generation": 7,
+  "created_at": "2017-11-30T19:04:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm 7. I believe that one day cats will rule this planet. I am 38% gremlin, 40% Dogwalker, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "18242@6",
+  "sire": "18315@5",
+  "children": [
+    "18597@8",
+    "18780@8",
+    "24858@17",
+    "25742@8",
+    "27535@8",
+    "38327@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

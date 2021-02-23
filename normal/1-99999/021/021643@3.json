@@ -1,0 +1,18 @@
+{
+  "id": 21643,
+  "name": "G3 Snappy cheese",
+  "generation": 3,
+  "created_at": "2017-12-01T07:17:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G3 Snappy cheese. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21586@2",
+  "sire": "21370@1",
+  "children": [
+    "22066@4",
+    "22541@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

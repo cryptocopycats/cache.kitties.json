@@ -1,0 +1,22 @@
+{
+  "id": 19626,
+  "name": "Salty Bish",
+  "generation": 8,
+  "created_at": "2017-11-30T22:46:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Salty Bish. I've never told anyone this, but I once bit a dog. I'm often described as raunchy, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "18857@7",
+  "sire": "17588@4",
+  "children": [
+    "26119@9",
+    "31602@9",
+    "32205@11",
+    "35095@16",
+    "41598@17",
+    "142713@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

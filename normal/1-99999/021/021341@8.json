@@ -1,0 +1,20 @@
+{
+  "id": 21341,
+  "name": "G8",
+  "generation": 8,
+  "created_at": "2017-12-01T05:50:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's G8. I once peed on Cleopatra's cat. They had it coming. When I'm not tricking babies, I'm prank-calling celebrities! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "21127@7",
+  "sire": "11975@7",
+  "children": [
+    "24426@9",
+    "24898@9",
+    "45105@9",
+    "50405@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

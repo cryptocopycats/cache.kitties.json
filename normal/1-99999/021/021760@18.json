@@ -1,0 +1,18 @@
+{
+  "id": 21760,
+  "name": "Lavalamp",
+  "generation": 18,
+  "created_at": "2017-12-01T07:53:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Lavalamp. My friends describe me as seductive and smelly. Some people say I'm the Lisa Simpson of the group. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "19491@17",
+  "sire": "19511@7",
+  "children": [
+    "50681@19",
+    "92163@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

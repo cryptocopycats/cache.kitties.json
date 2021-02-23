@@ -1,0 +1,23 @@
+{
+  "id": 19131,
+  "name": "Jack-o'-lantern",
+  "generation": 10,
+  "created_at": "2017-11-30T21:10:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Jack-o'-lantern. I enjoy watching Stranger Things, eating until I loathe myself, and picking flowers. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16015@7",
+  "sire": "18550@9",
+  "children": [
+    "20191@11",
+    "22302@14",
+    "27710@19",
+    "31081@21",
+    "33967@19",
+    "56449@20",
+    "109488@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

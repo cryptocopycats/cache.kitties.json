@@ -1,0 +1,21 @@
+{
+  "id": 18597,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-11-30T19:31:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm 8. I believe the world is flat. I once made a rabbit drink. Will you be the ranch dressing to my maple syrup?",
+  "language": "en",
+  "matron": "18454@7",
+  "sire": "18414@6",
+  "children": [
+    "18744@9",
+    "25391@9",
+    "26941@9",
+    "28330@9",
+    "43079@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

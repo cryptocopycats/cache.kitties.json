@@ -1,0 +1,19 @@
+{
+  "id": 18141,
+  "name": "Mrs. Custard",
+  "generation": 14,
+  "created_at": "2017-11-30T17:48:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Mrs. Custard. All you need to know about me is I hate apple pie with a passion. I'm often described as smelly, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "17994@9",
+  "sire": "17489@13",
+  "children": [
+    "27018@19",
+    "44530@15",
+    "74156@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

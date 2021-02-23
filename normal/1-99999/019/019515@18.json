@@ -1,0 +1,18 @@
+{
+  "id": 19515,
+  "name": "El Mustachio",
+  "generation": 18,
+  "created_at": "2017-11-30T22:22:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm El Mustachio. My friends describe me as hairy and despicable. Sometimes I daydream of a life full of riding dirty, salad, and swiping right. Our friendship will be hairy, despicable, and full of hamburgers.",
+  "language": "en",
+  "matron": "15231@16",
+  "sire": "17111@17",
+  "children": [
+    "22865@19",
+    "30219@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

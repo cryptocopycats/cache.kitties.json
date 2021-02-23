@@ -1,0 +1,19 @@
+{
+  "id": 22844,
+  "name": "Rare Parents (Gen 14)",
+  "generation": 14,
+  "created_at": "2017-12-01T13:33:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Rare Parents (Gen 14). I've never told anyone this, but I once tricked a dog. I'm often described as hairy, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6105@13",
+  "sire": "16386@12",
+  "children": [
+    "30606@16",
+    "42248@15",
+    "65812@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

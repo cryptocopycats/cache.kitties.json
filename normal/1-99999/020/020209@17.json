@@ -1,0 +1,17 @@
+{
+  "id": 20209,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-12-01T01:04:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 17. My friends describe me as stinky and wondrous. When no one's home, I invite my pals over and we listen to Metallica. Our friendship will be stinky, wondrous, and full of lasagna.",
+  "language": "en",
+  "matron": "13296@16",
+  "sire": "5211@11",
+  "children": [
+    "22031@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

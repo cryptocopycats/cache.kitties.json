@@ -1,0 +1,22 @@
+{
+  "id": 18499,
+  "name": "Dave",
+  "generation": 15,
+  "created_at": "2017-11-30T19:17:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Dave. I enjoy riding dirty, taking selfies, and staying woke. I was voted biggest teacher's pet in college. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "15151@14",
+  "sire": "16637@14",
+  "children": [
+    "22256@16",
+    "35095@16",
+    "55209@23",
+    "82801@16",
+    "133697@16",
+    "309608@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

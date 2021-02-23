@@ -1,0 +1,19 @@
+{
+  "id": 21787,
+  "name": "Stepford | G18",
+  "generation": 18,
+  "created_at": "2017-12-01T07:58:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Stepford | G18. I'm often referred to as the Niles Crane of the group. I once clawed a goose. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "15446@17",
+  "sire": "14231@6",
+  "children": [
+    "28198@19",
+    "52578@19",
+    "108816@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

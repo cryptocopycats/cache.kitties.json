@@ -1,0 +1,22 @@
+{
+  "id": 19489,
+  "name": "Pickles",
+  "generation": 15,
+  "created_at": "2017-11-30T22:17:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Pickles. In high school, I was voted school jock. I put pickles on everything. Like, everything: hot dogs, cantaloupe—everything! I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "15954@14",
+  "sire": "14682@9",
+  "children": [
+    "21703@16",
+    "26135@18",
+    "36513@18",
+    "65082@18",
+    "116197@18",
+    "227155@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

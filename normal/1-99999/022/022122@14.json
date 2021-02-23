@@ -1,0 +1,19 @@
+{
+  "id": 22122,
+  "name": "Solo",
+  "generation": 14,
+  "created_at": "2017-12-01T09:42:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Solo. I believe that one day cats will rule this planet. In my free time, I can usually be found brilliant or riding the bus. I like your face.",
+  "language": "en",
+  "matron": "11028@8",
+  "sire": "13417@13",
+  "children": [
+    "45049@15",
+    "59461@15",
+    "132456@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

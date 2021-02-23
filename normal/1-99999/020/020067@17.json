@@ -1,0 +1,20 @@
+{
+  "id": 20067,
+  "name": "Mr. Greene | Virgin",
+  "generation": 17,
+  "created_at": "2017-12-01T00:28:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Mr. Greene | Virgin. I've never told anyone this, but I once licked a dog. When I'm not people-watching, I'm summoning ghosts! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14163@16",
+  "sire": "14524@15",
+  "children": [
+    "20991@18",
+    "26601@18",
+    "43661@19",
+    "89441@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

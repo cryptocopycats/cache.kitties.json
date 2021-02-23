@@ -1,0 +1,19 @@
+{
+  "id": 20123,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-01T00:39:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #20123. In high school, I was voted school jock. I once made a dog trot. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "14297@19",
+  "sire": "16040@11",
+  "children": [
+    "28732@21",
+    "85928@21",
+    "326097@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

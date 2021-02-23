@@ -1,0 +1,19 @@
+{
+  "id": 18212,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-30T18:02:45.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Gen 15. In high school, I was voted school jock. I once dreamed of being a Dogwalker. Now I can be found pole dancing all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "15876@7",
+  "sire": "5740@14",
+  "children": [
+    "18610@16",
+    "50024@16",
+    "57845@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

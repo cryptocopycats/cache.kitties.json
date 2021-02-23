@@ -1,0 +1,25 @@
+{
+  "id": 20483,
+  "name": "Gen 0 Mauveover Cymric (Rare)",
+  "generation": 0,
+  "created_at": "2017-12-01T02:05:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's Gen 0 Mauveover Cymric (Rare). I once peed on Martin Luther King Jr.'s cat. They had it coming. Sometimes I daydream of a life full of chasing string, steak, and riverdancing. Will you be the pickles to my wasabi?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20558@1",
+    "33328@1",
+    "33503@1",
+    "34885@1",
+    "35311@1",
+    "35947@1",
+    "37386@1",
+    "40967@1",
+    "56016@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

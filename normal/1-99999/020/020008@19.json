@@ -1,0 +1,18 @@
+{
+  "id": 20008,
+  "name": "Henry",
+  "generation": 19,
+  "created_at": "2017-12-01T00:16:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! My name's Henry. I once peed on Mother Theresa's cat. They had it coming. I once got in a fight with a dolphin, and won. Let's get busy!",
+  "language": "en",
+  "matron": "17755@17",
+  "sire": "17780@18",
+  "children": [
+    "51555@20",
+    "83547@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19260,
+  "name": "Dexter | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T21:39:34.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Dexter | Gen4. My friends describe me as smelly and seductive. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18710@3",
+  "sire": "19001@3",
+  "children": [
+    "19324@5",
+    "19358@5",
+    "19506@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

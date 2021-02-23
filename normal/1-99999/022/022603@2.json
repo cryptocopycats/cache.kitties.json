@@ -1,0 +1,26 @@
+{
+  "id": 22603,
+  "name": "G2 The Best",
+  "generation": 2,
+  "created_at": "2017-12-01T12:10:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm G2 The Best. My friends describe me as vegan and prickly. Sometimes I daydream of a life full of fighting the patriarchy, ice cream, and talking about how much I lift. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "21748@1",
+  "sire": "22115@1",
+  "children": [
+    "22649@3",
+    "22810@3",
+    "22851@5",
+    "23104@6",
+    "27599@3",
+    "40606@3",
+    "57356@3",
+    "91001@3",
+    "130794@3",
+    "238112@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

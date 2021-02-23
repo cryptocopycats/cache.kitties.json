@@ -1,0 +1,21 @@
+{
+  "id": 20523,
+  "name": "G14 - Good Boy - Peach Parent",
+  "generation": 14,
+  "created_at": "2017-12-01T02:17:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm G14 - Good Boy - Peach Parent. My friends describe me as annoying and brilliant. My friends describe me as \"fabulous.\" It's... accurate. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "16156@6",
+  "sire": "19796@13",
+  "children": [
+    "20860@15",
+    "22064@15",
+    "35051@23",
+    "44049@15",
+    "111323@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

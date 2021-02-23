@@ -1,0 +1,27 @@
+{
+  "id": 18665,
+  "name": "scarlet 3",
+  "generation": 3,
+  "created_at": "2017-11-30T19:44:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm scarlet 3. I'm a Dispensary Clerk by day, and I like riding the bus by night. I once dreamed of being a Dogwalker. Now I can be found jump-roping all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16592@2",
+  "sire": "18603@2",
+  "children": [
+    "18849@14",
+    "19893@14",
+    "20894@16",
+    "45692@4",
+    "53917@4",
+    "57320@7",
+    "60761@4",
+    "63510@5",
+    "74790@4",
+    "98446@4",
+    "139991@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

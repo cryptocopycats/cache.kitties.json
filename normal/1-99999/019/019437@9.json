@@ -1,0 +1,22 @@
+{
+  "id": 19437,
+  "name": "Kedi",
+  "generation": 9,
+  "created_at": "2017-11-30T22:09:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Kedi. My friends describe me as stinky and vegan. My secret indulgence is lasagna. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4819@7",
+  "sire": "16421@8",
+  "children": [
+    "48844@14",
+    "53848@14",
+    "61413@17",
+    "76539@16",
+    "85217@19",
+    "116614@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

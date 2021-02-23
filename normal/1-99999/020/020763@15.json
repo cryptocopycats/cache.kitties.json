@@ -1,0 +1,18 @@
+{
+  "id": 20763,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-12-01T03:25:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 15. My friends describe me as tantalizing and fabulous. I once made a goose enjoy. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16160@8",
+  "sire": "19830@14",
+  "children": [
+    "40036@16",
+    "61469@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

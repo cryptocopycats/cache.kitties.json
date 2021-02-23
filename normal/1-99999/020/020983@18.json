@@ -1,0 +1,18 @@
+{
+  "id": 20983,
+  "name": "Whiskers",
+  "generation": 18,
+  "created_at": "2017-12-01T04:19:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Whiskers. My friends describe me as tantalizing and brilliant. I would give it all up to be on Oprah. Let's pawty!",
+  "language": "en",
+  "matron": "14730@14",
+  "sire": "11260@17",
+  "children": [
+    "39522@19",
+    "67355@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 22595,
+  "name": "Brow",
+  "generation": 2,
+  "created_at": "2017-12-01T12:06:56.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Brow. I believe the world is flat. I am 32% oracle, 81% Spin Instructor , and otherwise bad at math. Will you be the wasabi to my garlic butter?",
+  "language": "en",
+  "matron": "16323@1",
+  "sire": "3928@1",
+  "children": [
+    "25035@3",
+    "28053@3",
+    "34000@3",
+    "34977@3",
+    "67079@3",
+    "68353@3",
+    "107140@3",
+    "113487@3",
+    "142472@3",
+    "176695@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

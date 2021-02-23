@@ -1,0 +1,17 @@
+{
+  "id": 21965,
+  "name": "Cowcat",
+  "generation": 17,
+  "created_at": "2017-12-01T08:58:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Cowcat. I'm a Skydiving Instructor by day, and I like people-watching by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7548@9",
+  "sire": "20296@16",
+  "children": [
+    "166334@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

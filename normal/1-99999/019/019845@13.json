@@ -1,0 +1,20 @@
+{
+  "id": 19845,
+  "name": "Squat",
+  "generation": 13,
+  "created_at": "2017-11-30T23:42:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Squat. All you need to know about me is I hate hamburgers with a passion. I would give it all up for a Chanel purse. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "17395@7",
+  "sire": "19276@12",
+  "children": [
+    "21393@14",
+    "69162@14",
+    "154035@14",
+    "173741@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

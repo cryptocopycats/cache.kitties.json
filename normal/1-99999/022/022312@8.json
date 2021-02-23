@@ -1,0 +1,21 @@
+{
+  "id": 22312,
+  "name": "Gen 8 - Aquamarine",
+  "generation": 8,
+  "created_at": "2017-12-01T10:40:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 8 - Aquamarine. I'm a Private Dancer  by day, and I like talking about how much I lift by night. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1377@0",
+  "sire": "21251@7",
+  "children": [
+    "31074@9",
+    "32228@13",
+    "33082@14",
+    "34652@13",
+    "43076@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

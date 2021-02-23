@@ -1,0 +1,21 @@
+{
+  "id": 18124,
+  "name": "Scarlet",
+  "generation": 9,
+  "created_at": "2017-11-30T17:43:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Scarlet. My friends describe me as hairy and smelly. I once got in a fight with a platypus, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16330@6",
+  "sire": "16469@8",
+  "children": [
+    "18206@10",
+    "18569@10",
+    "19192@10",
+    "45670@10",
+    "56329@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

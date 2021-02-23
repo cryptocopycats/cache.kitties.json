@@ -1,0 +1,22 @@
+{
+  "id": 19766,
+  "name": "Gen 13 | Cloudwhite",
+  "generation": 13,
+  "created_at": "2017-11-30T23:18:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 13 | Cloudwhite. I've never told anyone this, but I once licked a dog. My secret indulgence is ice cream. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "19056@12",
+  "sire": "19199@12",
+  "children": [
+    "20456@14",
+    "22163@15",
+    "23559@14",
+    "25193@14",
+    "45743@14",
+    "78359@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

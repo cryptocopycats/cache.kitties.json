@@ -1,0 +1,25 @@
+{
+  "id": 22812,
+  "name": "Fancy Sailor",
+  "generation": 18,
+  "created_at": "2017-12-01T13:26:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Fancy Sailor. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can you make my wondrous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "21321@17",
+  "sire": "20310@14",
+  "children": [
+    "29327@19",
+    "51894@19",
+    "356946@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 80,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 21249,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T05:23:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #21249. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of chasing string, cereal, and reading Danielle Steele. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8056@13",
+  "sire": "9939@13",
+  "children": [
+    "23025@17",
+    "26503@17",
+    "45780@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

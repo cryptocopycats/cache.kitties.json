@@ -1,0 +1,23 @@
+{
+  "id": 20521,
+  "name": "Chartreux Otaku Children",
+  "generation": 14,
+  "created_at": "2017-12-01T02:17:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Chartreux Otaku Children. I'm often referred to as the Bart Simpson of the group. My secret indulgence is steak. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4817@6",
+  "sire": "6458@13",
+  "children": [
+    "21704@18",
+    "39862@15",
+    "57379@18",
+    "84391@17",
+    "139559@16",
+    "189224@16",
+    "415306@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

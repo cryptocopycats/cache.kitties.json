@@ -1,0 +1,17 @@
+{
+  "id": 22527,
+  "name": "Gen 25",
+  "generation": 25,
+  "created_at": "2017-12-01T11:42:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Gen 25. I'm often referred to as the Steve Urkel of the group. I'm often described as raunchy, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "20515@8",
+  "sire": "21865@24",
+  "children": [
+    "26479@26"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

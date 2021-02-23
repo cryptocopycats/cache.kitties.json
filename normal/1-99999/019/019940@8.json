@@ -1,0 +1,22 @@
+{
+  "id": 19940,
+  "name": "calicool gen8",
+  "generation": 8,
+  "created_at": "2017-11-30T23:59:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm calicool gen8. I believe the world is flat. I once made a platypus pester. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10769@1",
+  "sire": "18513@7",
+  "children": [
+    "20095@13",
+    "26776@10",
+    "33836@9",
+    "35432@9",
+    "42628@9",
+    "76634@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22474,
+  "name": "Musty",
+  "generation": 16,
+  "created_at": "2017-12-01T11:25:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Musty. I believe that one day cats will rule this planet. In my free time, I can usually be found voluptuous or talking about how much I lift. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "19085@15",
+  "sire": "3553@2",
+  "children": [
+    "22818@17",
+    "28851@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

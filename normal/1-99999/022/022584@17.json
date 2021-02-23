@@ -1,0 +1,19 @@
+{
+  "id": 22584,
+  "name": "ORVILLE",
+  "generation": 17,
+  "created_at": "2017-12-01T12:05:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! ORVILLE here. I'm here to enjoy tripping my owner and fighting for the people. I would give it all up to star in a soap opera. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "4811@8",
+  "sire": "16716@16",
+  "children": [
+    "22688@18",
+    "43427@18",
+    "75164@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

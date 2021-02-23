@@ -1,0 +1,26 @@
+{
+  "id": 22301,
+  "name": "Jabroni",
+  "generation": 6,
+  "created_at": "2017-12-01T10:36:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Jabroni. I've never told anyone this, but I once frolicked with a dog. My great-great-great-great-great-great grandkitty lived with Confucius. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "22170@5",
+  "sire": "15990@4",
+  "children": [
+    "23771@10",
+    "23961@10",
+    "24234@13",
+    "40096@7",
+    "42184@8",
+    "50181@8",
+    "70705@7",
+    "109589@7",
+    "180071@7",
+    "245391@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

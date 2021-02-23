@@ -1,0 +1,20 @@
+{
+  "id": 18847,
+  "name": "4",
+  "generation": 4,
+  "created_at": "2017-11-30T20:12:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm 4. I want to live in a world where people believe that one day cats will rule this planet. I once made a rhino play. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "4614@3",
+  "sire": "4034@3",
+  "children": [
+    "25184@6",
+    "27000@7",
+    "32858@5",
+    "38053@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

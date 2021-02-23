@@ -1,0 +1,22 @@
+{
+  "id": 19406,
+  "name": "Gen11",
+  "generation": 11,
+  "created_at": "2017-11-30T22:06:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen11. I'm a Dogwalker by day, and I like jump-roping by night. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, ice cream—everything! I like your face.",
+  "language": "en",
+  "matron": "16268@10",
+  "sire": "18266@10",
+  "children": [
+    "19964@13",
+    "20255@20",
+    "23049@15",
+    "25263@18",
+    "29667@15",
+    "386200@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

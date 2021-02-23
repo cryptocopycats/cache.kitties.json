@@ -1,0 +1,20 @@
+{
+  "id": 20322,
+  "name": "[PURE] GREEN",
+  "generation": 8,
+  "created_at": "2017-12-01T01:26:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm [PURE] GREEN. I enjoy riding unicorns, picking flowers, and watching Stranger Things. I put cinammon on everything. Like, everything: hot dogs, cereal—everything! Will you be the maple syrup to my pickles?",
+  "language": "en",
+  "matron": "20274@7",
+  "sire": "19591@7",
+  "children": [
+    "20470@9",
+    "20926@9",
+    "24898@9",
+    "44139@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

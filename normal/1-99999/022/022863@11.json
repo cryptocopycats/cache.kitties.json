@@ -1,0 +1,24 @@
+{
+  "id": 22863,
+  "name": "Snowball",
+  "generation": 11,
+  "created_at": "2017-12-01T13:40:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Snowball. All you need to know about me is I hate steak with a passion. I am 45% sphinx, 78% Culinary Sanitation Specialist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6144@10",
+  "sire": "15545@10",
+  "children": [
+    "23798@20",
+    "24384@12",
+    "26474@17",
+    "33773@22",
+    "58127@20",
+    "88327@20",
+    "254282@23",
+    "363796@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

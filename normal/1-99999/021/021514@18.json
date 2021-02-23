@@ -1,0 +1,18 @@
+{
+  "id": 21514,
+  "name": "Blue Cat",
+  "generation": 18,
+  "created_at": "2017-12-01T06:38:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Blue Cat. My friends describe me as despicable and annoying. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Let's pawty!",
+  "language": "en",
+  "matron": "17402@17",
+  "sire": "11834@12",
+  "children": [
+    "47941@19",
+    "108376@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

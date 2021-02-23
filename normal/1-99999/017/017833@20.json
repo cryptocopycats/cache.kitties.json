@@ -1,0 +1,21 @@
+{
+  "id": 17833,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-11-30T16:24:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 20. I enjoy fighting the patriarchy, tricking babies, and staying woke. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16582@13",
+  "sire": "16261@19",
+  "children": [
+    "18146@21",
+    "32296@21",
+    "86541@21",
+    "367015@21",
+    "411084@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 20929,
+  "name": "Gen 15 Plodding",
+  "generation": 15,
+  "created_at": "2017-12-01T04:07:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen 15 Plodding. In high school, I was voted most likely to work at NASA. My secret indulgence is apple pie. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "9480@14",
+  "sire": "18321@11",
+  "children": [
+    "21394@16",
+    "24377@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

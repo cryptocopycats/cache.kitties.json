@@ -1,0 +1,23 @@
+{
+  "id": 21975,
+  "name": "Meow Marine",
+  "generation": 6,
+  "created_at": "2017-12-01T09:01:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Meow Marine. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "language": "en",
+  "matron": "16090@4",
+  "sire": "3936@5",
+  "children": [
+    "22174@7",
+    "22387@15",
+    "22411@14",
+    "51134@15",
+    "62970@9",
+    "76121@15",
+    "147321@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

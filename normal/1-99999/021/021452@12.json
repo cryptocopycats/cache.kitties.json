@@ -1,0 +1,19 @@
+{
+  "id": 21452,
+  "name": "019",
+  "generation": 12,
+  "created_at": "2017-12-01T06:23:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm 019. I'm often referred to as the Marge Simpson of the group. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11727@11",
+  "sire": "4624@7",
+  "children": [
+    "75165@13",
+    "111882@19",
+    "134170@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

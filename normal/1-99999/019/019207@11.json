@@ -1,0 +1,19 @@
+{
+  "id": 19207,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-30T21:28:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #19207. My friends describe me as ridiculous and petulant. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Our friendship will be ridiculous, petulant, and full of ice cream.",
+  "language": "en",
+  "matron": "16177@10",
+  "sire": "16734@10",
+  "children": [
+    "20871@14",
+    "29204@13",
+    "80181@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

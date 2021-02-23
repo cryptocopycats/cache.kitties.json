@@ -1,0 +1,19 @@
+{
+  "id": 19757,
+  "name": "Genghis Cat",
+  "generation": 15,
+  "created_at": "2017-11-30T23:15:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Genghis Cat. I enjoy fighting the patriarchy, glaring at the neighbour's cat, and sitting on your computer. My secret indulgence is steak. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "14300@7",
+  "sire": "11677@14",
+  "children": [
+    "25925@16",
+    "32377@16",
+    "64054@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

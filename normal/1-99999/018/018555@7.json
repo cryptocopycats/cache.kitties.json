@@ -1,0 +1,23 @@
+{
+  "id": 18555,
+  "name": "Hera (fabulous)",
+  "generation": 7,
+  "created_at": "2017-11-30T19:25:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Hera (fabulous). I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Mother Theresa. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18120@6",
+  "sire": "17583@6",
+  "children": [
+    "19176@8",
+    "19771@14",
+    "22494@17",
+    "23198@8",
+    "26886@12",
+    "59934@16",
+    "69052@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

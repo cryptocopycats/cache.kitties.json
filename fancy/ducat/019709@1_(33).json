@@ -1,0 +1,32 @@
+{
+  "id": 19709,
+  "name": "Chicky - Gen1 - Snappy",
+  "generation": 1,
+  "created_at": "2017-11-30T23:03:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Chicky - Gen1 - Snappy. I enjoy staying woke, glaring at the neighbour's cat, and tripping my owner. I was voted school jock in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "11186@0",
+  "sire": "2592@0",
+  "children": [
+    "20000@2",
+    "20119@3",
+    "20158@2",
+    "22218@2",
+    "40430@2",
+    "41302@2",
+    "43648@2",
+    "53472@2",
+    "58070@2",
+    "74646@2"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 33,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

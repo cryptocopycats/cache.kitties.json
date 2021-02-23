@@ -1,0 +1,25 @@
+{
+  "id": 20828,
+  "name": "WetCat Gen 9",
+  "generation": 9,
+  "created_at": "2017-12-01T03:40:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm WetCat Gen 9. I want to live in a world where people believe the world is flat. My secret indulgence is wet food. I like your face.",
+  "language": "en",
+  "matron": "18114@6",
+  "sire": "18780@8",
+  "children": [
+    "21021@10",
+    "27369@11",
+    "28572@17",
+    "33233@10",
+    "39176@11",
+    "68320@20",
+    "85748@10",
+    "219235@10",
+    "505239@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

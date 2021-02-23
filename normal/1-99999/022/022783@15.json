@@ -1,0 +1,20 @@
+{
+  "id": 22783,
+  "name": "starter",
+  "generation": 15,
+  "created_at": "2017-12-01T13:16:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm starter. I've never told anyone this, but I once bit a dog. I once dreamed of being a Mad Scientist. Now I can be found summoning ghosts all day. I like your face.",
+  "language": "en",
+  "matron": "21718@6",
+  "sire": "20450@14",
+  "children": [
+    "26081@17",
+    "27561@17",
+    "29946@17",
+    "39910@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

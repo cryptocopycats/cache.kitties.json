@@ -1,0 +1,22 @@
+{
+  "id": 18876,
+  "name": "Harold",
+  "generation": 8,
+  "created_at": "2017-11-30T20:16:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Harold. I'm a professional Dogwalker and I love salad. I once got in a fight with a moose, and won. I like your face.",
+  "language": "en",
+  "matron": "15732@6",
+  "sire": "18047@7",
+  "children": [
+    "32111@14",
+    "35621@14",
+    "43530@14",
+    "63681@14",
+    "79984@14",
+    "146175@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

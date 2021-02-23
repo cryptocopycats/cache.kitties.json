@@ -1,0 +1,19 @@
+{
+  "id": 20560,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-01T02:27:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Kitty #20560. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18405@13",
+  "sire": "18226@9",
+  "children": [
+    "30609@15",
+    "51104@15",
+    "89128@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 21474,
+  "name": "BasicBrat",
+  "generation": 17,
+  "created_at": "2017-12-01T06:28:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm BasicBrat. All you need to know about me is I hate chocolate with a passion. I am 32% wizard, 84% Dispensary Clerk, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "7942@16",
+  "sire": "17002@11",
+  "children": [
+    "23427@18",
+    "28665@18",
+    "43232@18",
+    "114732@18",
+    "162141@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

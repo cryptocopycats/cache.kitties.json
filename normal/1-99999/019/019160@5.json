@@ -1,0 +1,19 @@
+{
+  "id": 19160,
+  "name": "Lily | Gen5",
+  "generation": 5,
+  "created_at": "2017-11-30T21:22:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! Lily | Gen5 here. I'm here to enjoy tricking babies and chasing string. It's not common knowledge, but my ancestry connects me to Mother Theresa. I like your face.",
+  "language": "en",
+  "matron": "18956@4",
+  "sire": "19066@4",
+  "children": [
+    "19357@6",
+    "19545@6",
+    "23905@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

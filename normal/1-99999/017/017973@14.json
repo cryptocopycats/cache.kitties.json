@@ -1,0 +1,21 @@
+{
+  "id": 17973,
+  "name": "dead cat",
+  "generation": 14,
+  "created_at": "2017-11-30T17:06:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm dead cat. All you need to know about me is I hate salad with a passion. I put ranch dressing on everything. Like, everything: hot dogs, chocolate—everything! Let's pawty!",
+  "language": "en",
+  "matron": "12171@8",
+  "sire": "11655@13",
+  "children": [
+    "21993@15",
+    "30358@15",
+    "30926@15",
+    "53258@15",
+    "58172@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

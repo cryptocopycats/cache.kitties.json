@@ -1,0 +1,24 @@
+{
+  "id": 19259,
+  "name": "Cookie | Gen 6 | Bubblegum",
+  "generation": 6,
+  "created_at": "2017-11-30T21:38:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Cookie | Gen 6 | Bubblegum. I've never told anyone this, but I once pawed at a dog. I am 77% troll, 75% Skydiving Instructor, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "18990@5",
+  "sire": "19149@5",
+  "children": [
+    "32137@7",
+    "32383@7",
+    "33033@7",
+    "34247@14",
+    "39669@8",
+    "48836@11",
+    "60983@17",
+    "199846@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

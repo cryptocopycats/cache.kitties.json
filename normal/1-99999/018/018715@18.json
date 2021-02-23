@@ -1,0 +1,20 @@
+{
+  "id": 18715,
+  "name": "Yamada Taro",
+  "generation": 18,
+  "created_at": "2017-11-30T19:53:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Yamada Taro. I've never told anyone this, but I once kissed a dog. When I'm not sleeping in fresh laundry, I'm volunteering at the local kitten rescue shelter! I like your face.",
+  "language": "en",
+  "matron": "11216@14",
+  "sire": "13759@17",
+  "children": [
+    "67201@19",
+    "80985@19",
+    "136821@19",
+    "332898@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

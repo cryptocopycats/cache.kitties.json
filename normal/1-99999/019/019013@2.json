@@ -1,0 +1,19 @@
+{
+  "id": 19013,
+  "name": "Daisy | Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T20:50:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Daisy | Gen2. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Princess Diana. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "5838@1",
+  "sire": "18367@1",
+  "children": [
+    "19109@3",
+    "19285@3",
+    "25039@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

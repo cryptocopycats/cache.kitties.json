@@ -1,0 +1,28 @@
+{
+  "id": 18096,
+  "name": "Coffee Strawberry Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-30T17:35:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Coffee Strawberry Gen 2. In high school, I was voted most likely to work at NASA. When I'm not siring for status, I'm talking about how much I lift! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3139@1",
+  "sire": "2104@0",
+  "children": [
+    "18215@4",
+    "22869@4",
+    "23073@4",
+    "23677@4",
+    "23896@6",
+    "29080@4",
+    "31291@4",
+    "38606@4",
+    "54713@4",
+    "89405@3",
+    "90759@3",
+    "244519@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21271,
+  "name": "Double Diamond",
+  "generation": 10,
+  "created_at": "2017-12-01T05:32:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Double Diamond. I'm a professional Culinary Sanitation Specialist and I love chocolate. I once made a moose play. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20535@8",
+  "sire": "20112@9",
+  "children": [
+    "21964@11",
+    "22119@11",
+    "22790@11",
+    "24442@11",
+    "32969@11",
+    "45832@11",
+    "74582@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

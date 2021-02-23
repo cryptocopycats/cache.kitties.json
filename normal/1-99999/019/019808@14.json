@@ -1,0 +1,21 @@
+{
+  "id": 19808,
+  "name": "Lucky Strike",
+  "generation": 14,
+  "created_at": "2017-11-30T23:26:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Lucky Strike. I enjoy sitting on your computer, riding unicorns, and tripping my owner. I once licked a dog. I don't like to talk about it. Our friendship will be ridiculous, prickly, and full of salad.",
+  "language": "en",
+  "matron": "19233@13",
+  "sire": "16830@13",
+  "children": [
+    "22213@15",
+    "25992@15",
+    "74348@15",
+    "99665@21",
+    "146234@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

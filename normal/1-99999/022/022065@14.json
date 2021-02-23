@@ -1,0 +1,25 @@
+{
+  "id": 22065,
+  "name": "Purple Green Machine",
+  "generation": 14,
+  "created_at": "2017-12-01T09:25:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Purple Green Machine. In high school, I was voted school jock. I once got in a fight with a dolphin, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "21470@13",
+  "sire": "21668@11",
+  "children": [
+    "22616@15",
+    "31234@15",
+    "45416@16",
+    "82113@15",
+    "167153@18",
+    "252399@15",
+    "434279@21",
+    "1177047@20",
+    "1546958@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

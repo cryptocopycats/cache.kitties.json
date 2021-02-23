@@ -1,0 +1,17 @@
+{
+  "id": 21068,
+  "name": "幸运",
+  "generation": 16,
+  "created_at": "2017-12-01T04:39:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm 幸运. I've never told anyone this, but I once pranced with a dog. I put soy sauce on everything. Like, everything: hot dogs, lasagna—everything! Our friendship will be annoying, voluptuous, and full of hamburgers.",
+  "language": "en",
+  "matron": "18970@13",
+  "sire": "15280@15",
+  "children": [
+    "101355@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

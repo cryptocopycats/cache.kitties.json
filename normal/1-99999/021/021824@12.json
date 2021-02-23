@@ -1,0 +1,20 @@
+{
+  "id": 21824,
+  "name": "Chestnut Salmon",
+  "generation": 12,
+  "created_at": "2017-12-01T08:14:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Chestnut Salmon. My friends describe me as tantalizing and preposterous. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Will you be the soy sauce to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "21605@11",
+  "sire": "21612@9",
+  "children": [
+    "26247@13",
+    "27717@13",
+    "31339@13",
+    "46084@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22014,
+  "name": "B gen1",
+  "generation": 1,
+  "created_at": "2017-12-01T09:12:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm B gen1. I'm often referred to as the Steve Urkel of the group. I'm often described as gorgeous, and I own it. Will you be the maple syrup to my garlic butter?",
+  "language": "en",
+  "matron": "14532@0",
+  "sire": "14173@0",
+  "children": [
+    "22310@2",
+    "22975@10",
+    "32779@11",
+    "32889@4",
+    "33105@6",
+    "104630@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

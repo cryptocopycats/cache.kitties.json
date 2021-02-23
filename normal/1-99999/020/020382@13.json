@@ -1,0 +1,22 @@
+{
+  "id": 20382,
+  "name": "J'ai peur mais j'me soigne",
+  "generation": 13,
+  "created_at": "2017-12-01T01:41:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm J'ai peur mais j'me soigne. I've never told anyone this, but I once licked a dog. It's not common knowledge, but my ancestry connects me to Nelson Mandela. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "17418@11",
+  "sire": "17272@12",
+  "children": [
+    "22348@14",
+    "23293@14",
+    "27127@14",
+    "32908@18",
+    "54181@17",
+    "320316@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

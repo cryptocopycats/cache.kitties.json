@@ -1,0 +1,20 @@
+{
+  "id": 18226,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-30T18:06:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Kitty #18226. My friends describe me as preposterous and vegan. I like to listen to Justin Bieber while grooming. Don't judge me. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "14546@8",
+  "sire": "12935@5",
+  "children": [
+    "18681@14",
+    "19272@11",
+    "20560@14",
+    "30857@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

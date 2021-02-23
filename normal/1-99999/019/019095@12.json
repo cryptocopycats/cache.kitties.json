@@ -1,0 +1,22 @@
+{
+  "id": 19095,
+  "name": "Gen 12 | Fabulous | Mauveover",
+  "generation": 12,
+  "created_at": "2017-11-30T21:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 12 | Fabulous | Mauveover. I've never told anyone this, but I once loved a dog. I put garlic butter on everything. Like, everything: hot dogs, apple pie—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17750@9",
+  "sire": "16331@11",
+  "children": [
+    "19867@13",
+    "20992@16",
+    "40911@16",
+    "52439@18",
+    "72340@13",
+    "128661@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

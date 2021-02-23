@@ -1,0 +1,21 @@
+{
+  "id": 18664,
+  "name": "Red",
+  "generation": 11,
+  "created_at": "2017-11-30T19:44:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Red. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as annoying, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "17695@9",
+  "sire": "18139@10",
+  "children": [
+    "18944@16",
+    "62421@12",
+    "66772@12",
+    "87662@15",
+    "172480@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

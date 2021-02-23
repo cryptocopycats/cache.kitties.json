@@ -1,0 +1,21 @@
+{
+  "id": 21144,
+  "name": "Morgan",
+  "generation": 9,
+  "created_at": "2017-12-01T04:54:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Morgan. I believe the world is flat. I like to listen to Mariah Carey while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "21024@8",
+  "sire": "14196@8",
+  "children": [
+    "21270@10",
+    "52372@11",
+    "54609@14",
+    "89882@14",
+    "214112@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

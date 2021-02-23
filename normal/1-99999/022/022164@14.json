@@ -1,0 +1,21 @@
+{
+  "id": 22164,
+  "name": "King Banana",
+  "generation": 14,
+  "created_at": "2017-12-01T09:58:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm King Banana. I'm often referred to as the Dwight Schrute of the group. My secret indulgence is chocolate. I look forward to chasing string with you.",
+  "language": "en",
+  "matron": "18816@13",
+  "sire": "18819@13",
+  "children": [
+    "23188@16",
+    "25968@15",
+    "37897@16",
+    "62064@16",
+    "115155@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

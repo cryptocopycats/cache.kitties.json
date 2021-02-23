@@ -1,0 +1,19 @@
+{
+  "id": 21495,
+  "name": "Gen17 Slow",
+  "generation": 17,
+  "created_at": "2017-12-01T06:34:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen17 Slow. My friends describe me as petulant and smelly. I once dreamed of being a Dogwalker. Now I can be found tricking babies all day. Let's pawty!",
+  "language": "en",
+  "matron": "13305@15",
+  "sire": "17479@16",
+  "children": [
+    "25099@18",
+    "27947@18",
+    "41966@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

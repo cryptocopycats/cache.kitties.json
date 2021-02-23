@@ -1,0 +1,23 @@
+{
+  "id": 20826,
+  "name": "DINO  Mintcream",
+  "generation": 5,
+  "created_at": "2017-12-01T03:40:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm DINO  Mintcream. I enjoy chasing red dots, slappin' da bass, and licking doorknobs. When no one's home, I invite my pals over and we listen to Coldplay. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18698@4",
+  "sire": "20649@4",
+  "children": [
+    "21081@6",
+    "23005@6",
+    "29938@6",
+    "110410@9",
+    "132075@6",
+    "170631@6",
+    "181433@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 22405,
+  "name": "gen3",
+  "generation": 3,
+  "created_at": "2017-12-01T10:59:43.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm gen3. All you need to know about me is I hate cantaloupe with a passion. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "language": "en",
+  "matron": "19067@1",
+  "sire": "22310@2",
+  "children": [
+    "32889@4",
+    "33148@4",
+    "44325@4",
+    "115704@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

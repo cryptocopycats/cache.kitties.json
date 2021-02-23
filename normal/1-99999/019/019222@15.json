@@ -1,0 +1,22 @@
+{
+  "id": 19222,
+  "name": "Meowthew",
+  "generation": 15,
+  "created_at": "2017-11-30T21:33:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Meowthew. I believe the world is flat. When no one's home, I invite my pals over and we listen to Frank Sinatra. Let's pawty!",
+  "language": "en",
+  "matron": "17552@7",
+  "sire": "18957@14",
+  "children": [
+    "42324@16",
+    "62452@16",
+    "74145@16",
+    "111218@16",
+    "218158@16",
+    "362239@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

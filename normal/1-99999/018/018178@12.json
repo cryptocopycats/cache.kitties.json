@@ -1,0 +1,21 @@
+{
+  "id": 18178,
+  "name": "39: GEN 12",
+  "generation": 12,
+  "created_at": "2017-11-30T17:55:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm 39: GEN 12. I'm a Spin Instructor  by day, and I like playing chess by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "17920@11",
+  "sire": "17523@8",
+  "children": [
+    "19301@13",
+    "19986@13",
+    "20834@13",
+    "22499@15",
+    "26180@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 18053,
+  "name": "Royal Stripez",
+  "generation": 17,
+  "created_at": "2017-11-30T17:23:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Royal Stripez. I want to live in a world where people believe the world is flat. I am 99% gremlin, 45% Culinary Sanitation Specialist, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "15748@5",
+  "sire": "8594@16",
+  "children": [
+    "20506@18",
+    "58612@18",
+    "116765@18",
+    "197447@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

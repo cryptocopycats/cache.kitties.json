@@ -1,0 +1,27 @@
+{
+  "id": 22462,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-12-01T11:23:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen2. I'm often referred to as the Chandler Bing of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "3952@1",
+  "sire": "19500@1",
+  "children": [
+    "23789@3",
+    "199031@3",
+    "199542@3",
+    "200973@3",
+    "203872@3",
+    "217410@3",
+    "225403@3",
+    "231226@3",
+    "253201@3",
+    "282200@3",
+    "334233@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

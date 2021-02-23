@@ -1,0 +1,21 @@
+{
+  "id": 20888,
+  "name": "Aqua Meteor",
+  "generation": 16,
+  "created_at": "2017-12-01T03:55:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Aqua Meteor. I'm a Dispensary Clerk by day, and I like practicing witchcraft by night. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "19317@15",
+  "sire": "19535@15",
+  "children": [
+    "21443@17",
+    "26275@17",
+    "26700@17",
+    "100515@17",
+    "259455@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

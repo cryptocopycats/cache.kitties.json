@@ -1,0 +1,31 @@
+{
+  "id": 19501,
+  "name": "Old Fancy",
+  "generation": 9,
+  "created_at": "2017-11-30T22:18:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Old Fancy. I want to live in a world where people believe the world is flat. I put cinammon on everything. Like, everything: hot dogs, lasagna—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18105@0",
+  "sire": "17830@8",
+  "children": [
+    "23300@13",
+    "24018@10",
+    "24385@10",
+    "26109@10",
+    "31708@10",
+    "33880@10",
+    "47274@12",
+    "71509@10",
+    "522869@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 28,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

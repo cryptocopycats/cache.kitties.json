@@ -1,0 +1,22 @@
+{
+  "id": 18297,
+  "name": "Gumdrop",
+  "generation": 17,
+  "created_at": "2017-11-30T18:30:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gumdrop. I enjoy glaring at the neighbour's cat, hitting on yo' man, and reading garfield. When I'm not swiping right, I'm watching reality tv! I like your face.",
+  "language": "en",
+  "matron": "13787@11",
+  "sire": "14547@16",
+  "children": [
+    "21823@18",
+    "28703@18",
+    "45840@18",
+    "73212@18",
+    "215735@18",
+    "384100@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

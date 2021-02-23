@@ -1,0 +1,22 @@
+{
+  "id": 18512,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-30T19:19:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Gen 2. I enjoy glaring at the neighbour's cat, spinning sick beats, and tricking babies. I once dreamed of being a Dispensary Clerk. Now I can be found riding the bus all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14025@0",
+  "sire": "18391@1",
+  "children": [
+    "18592@3",
+    "19110@20",
+    "19389@6",
+    "20616@15",
+    "51177@20",
+    "109664@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

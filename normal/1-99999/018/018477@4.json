@@ -1,0 +1,19 @@
+{
+  "id": 18477,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-30T19:09:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #18477. I'm often referred to as the Ross Geller of the group. I'm often described as despicable, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "18457@2",
+  "sire": "18458@3",
+  "children": [
+    "18493@5",
+    "20615@14",
+    "68084@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

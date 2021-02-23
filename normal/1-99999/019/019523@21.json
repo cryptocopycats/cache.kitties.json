@@ -1,0 +1,18 @@
+{
+  "id": 19523,
+  "name": "Cow-cool! Moo!",
+  "generation": 21,
+  "created_at": "2017-11-30T22:22:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Cow-cool! Moo!. In high school, I was voted most likely to work at NASA. I once made a moose ignore. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12683@20",
+  "sire": "13760@16",
+  "children": [
+    "28228@22",
+    "51655@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21736,
+  "name": "GingerBun",
+  "generation": 8,
+  "created_at": "2017-12-01T07:47:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! My name's GingerBun. I once peed on Amelia Earhart's cat. They had it coming. I put pickles on everything. Like, everything: hot dogs, chocolate—everything! Let's get busy!",
+  "language": "en",
+  "matron": "21528@7",
+  "sire": "4925@5",
+  "children": [
+    "22989@12",
+    "23245@9",
+    "24137@11",
+    "25579@9",
+    "40308@11",
+    "74838@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22723,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-01T12:54:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #22723. In high school, I was voted school jock. I'm often described as petulant, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "16307@12",
+  "sire": "20319@18",
+  "children": [
+    "26295@20",
+    "33298@20",
+    "109251@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

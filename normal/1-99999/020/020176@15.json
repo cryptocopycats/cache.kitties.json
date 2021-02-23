@@ -1,0 +1,20 @@
+{
+  "id": 20176,
+  "name": "Cheetos - Gen 15 Chestnut",
+  "generation": 15,
+  "created_at": "2017-12-01T00:55:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Cheetos - Gen 15 Chestnut. I enjoy riding dirty, glaring at the neighbour's cat, and shakin' dat booty. When no one's home, I invite my pals over and we listen to Michael Bolton. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19047@14",
+  "sire": "18193@9",
+  "children": [
+    "22033@16",
+    "26207@16",
+    "31138@17",
+    "53379@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

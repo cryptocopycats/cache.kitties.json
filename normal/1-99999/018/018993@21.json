@@ -1,0 +1,18 @@
+{
+  "id": 18993,
+  "name": "G21",
+  "generation": 21,
+  "created_at": "2017-11-30T20:50:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm G21. I believe the world is flat. I was voted biggest teacher's pet in college. Let's get busy!",
+  "language": "en",
+  "matron": "18098@11",
+  "sire": "18346@20",
+  "children": [
+    "21208@22",
+    "92156@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

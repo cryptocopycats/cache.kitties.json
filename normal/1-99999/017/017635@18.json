@@ -1,0 +1,19 @@
+{
+  "id": 17635,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-30T15:45:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #17635. In high school, I was voted school jock. My friends describe me as \"despicable.\" It's... accurate. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "15753@17",
+  "sire": "15002@13",
+  "children": [
+    "19074@19",
+    "27710@19",
+    "78729@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

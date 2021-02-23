@@ -1,0 +1,22 @@
+{
+  "id": 22188,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-01T10:00:08.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #22188. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6415@12",
+  "sire": "6337@5",
+  "children": [
+    "23780@18",
+    "25454@19",
+    "28160@18",
+    "40779@18",
+    "106248@23",
+    "201447@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

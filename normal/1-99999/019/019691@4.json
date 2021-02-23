@@ -1,0 +1,24 @@
+{
+  "id": 19691,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T23:00:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Gen4. All you need to know about me is I hate wet food with a passion. When I'm not playing chess, I'm sleeping in fresh laundry! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19226@3",
+  "sire": "19544@3",
+  "children": [
+    "19786@5",
+    "19829@5",
+    "22010@5",
+    "22459@5",
+    "22704@5",
+    "25018@5",
+    "25841@5",
+    "133849@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

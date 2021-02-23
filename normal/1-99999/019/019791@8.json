@@ -1,0 +1,23 @@
+{
+  "id": 19791,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-11-30T23:22:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 8. All you need to know about me is I hate salad with a passion. When no one's home, I invite my pals over and we listen to Rihanna. Will you be the marmalade to my garlic butter?",
+  "language": "en",
+  "matron": "19343@7",
+  "sire": "18529@7",
+  "children": [
+    "19929@9",
+    "20112@9",
+    "20498@9",
+    "22422@16",
+    "25181@18",
+    "60485@16",
+    "121691@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

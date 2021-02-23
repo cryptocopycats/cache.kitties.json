@@ -1,0 +1,24 @@
+{
+  "id": 18194,
+  "name": "Taylor Swift",
+  "generation": 8,
+  "created_at": "2017-11-30T17:59:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Taylor Swift. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"tantalizing.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "16696@6",
+  "sire": "16714@7",
+  "children": [
+    "18324@9",
+    "18619@9",
+    "19728@11",
+    "22692@10",
+    "247128@13",
+    "267715@13",
+    "418495@9",
+    "435116@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

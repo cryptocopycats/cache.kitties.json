@@ -1,0 +1,31 @@
+{
+  "id": 18644,
+  "name": "G8 Ultra Rare Sailor Meow",
+  "generation": 8,
+  "created_at": "2017-11-30T19:39:55.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm G8 Ultra Rare Sailor Meow. I enjoy fighting the patriarchy, chasing red dots, and spinning sick beats. In my free time, I can usually be found stinky or swiping right. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "18435@5",
+  "sire": "18165@7",
+  "children": [
+    "24638@9",
+    "25088@9",
+    "68636@17",
+    "83682@9",
+    "91601@15",
+    "108742@11",
+    "132180@11",
+    "168195@11",
+    "253918@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 60,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

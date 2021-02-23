@@ -1,0 +1,18 @@
+{
+  "id": 19856,
+  "name": "Sylvester",
+  "generation": 14,
+  "created_at": "2017-11-30T23:42:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Sylvester. I enjoy sweating through my feet, picking on mice, and chasing red dots. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "17855@13",
+  "sire": "9761@11",
+  "children": [
+    "26790@19",
+    "32318@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

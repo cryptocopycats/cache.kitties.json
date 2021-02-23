@@ -1,0 +1,31 @@
+{
+  "id": 19332,
+  "name": "Shiraz",
+  "generation": 2,
+  "created_at": "2017-11-30T21:49:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Shiraz here. I'm here to enjoy chasing string and shakin' dat booty. Sometimes I daydream of a life full of fighting the patriarchy, wet food, and sleeping in fresh laundry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18298@1",
+  "sire": "19281@1",
+  "children": [
+    "19390@3",
+    "19435@3",
+    "19622@3",
+    "203395@3",
+    "207553@3",
+    "218376@3",
+    "224679@3",
+    "237927@3",
+    "249542@3",
+    "292388@3",
+    "331102@3",
+    "360212@3",
+    "426314@18",
+    "457556@3",
+    "503815@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

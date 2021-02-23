@@ -1,0 +1,20 @@
+{
+  "id": 22171,
+  "name": "Sterling",
+  "generation": 1,
+  "created_at": "2017-12-01T09:58:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Sterling. In high school, I was voted biggest teacher's pet. I would give it all up to be on Oprah. Our friendship will be preposterous, hairy, and full of salad.",
+  "language": "en",
+  "matron": "21992@0",
+  "sire": "18814@0",
+  "children": [
+    "22402@10",
+    "22445@10",
+    "23435@10",
+    "38972@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

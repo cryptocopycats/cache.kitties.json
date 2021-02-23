@@ -1,0 +1,21 @@
+{
+  "id": 22121,
+  "name": "Bilbo Baggins",
+  "generation": 15,
+  "created_at": "2017-12-01T09:42:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Bilbo Baggins. I've never told anyone this, but I once groomed a dog. I am 15% wizard, 32% Private Dancer , and otherwise bad at math. Will you be the garlic butter to my pickles?",
+  "language": "en",
+  "matron": "11407@10",
+  "sire": "16838@14",
+  "children": [
+    "46205@21",
+    "50291@16",
+    "79520@17",
+    "154812@21",
+    "274400@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

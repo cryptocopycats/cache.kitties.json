@@ -1,0 +1,17 @@
+{
+  "id": 22859,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-01T13:36:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Gen 22. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Let's pawty!",
+  "language": "en",
+  "matron": "19652@6",
+  "sire": "20778@21",
+  "children": [
+    "45879@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

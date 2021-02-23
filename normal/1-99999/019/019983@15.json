@@ -1,0 +1,21 @@
+{
+  "id": 19983,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T00:10:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #19983. My friends describe me as gullible and raunchy. In my free time, I can usually be found vegan or mocking dogs. Will you be the pickles to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "15348@14",
+  "sire": "16129@3",
+  "children": [
+    "21717@16",
+    "23925@16",
+    "37256@16",
+    "51070@16",
+    "117793@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

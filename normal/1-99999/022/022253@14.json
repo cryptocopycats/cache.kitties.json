@@ -1,0 +1,21 @@
+{
+  "id": 22253,
+  "name": "Myfanwy",
+  "generation": 14,
+  "created_at": "2017-12-01T10:18:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Myfanwy. I believe the world is flat. I was voted biggest teacher's pet in college. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "5639@13",
+  "sire": "9493@11",
+  "children": [
+    "34077@18",
+    "37898@15",
+    "69702@20",
+    "283664@15",
+    "325684@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

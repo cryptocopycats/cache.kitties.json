@@ -1,0 +1,22 @@
+{
+  "id": 17585,
+  "name": "Cypher Punk",
+  "generation": 11,
+  "created_at": "2017-11-30T15:14:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Cypher Punk. I'm a Train Conductor by day, and I like reading Danielle Steele by night. Sometimes I daydream of a life full of chasing red dots, apple pie, and tricking babies. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17435@5",
+  "sire": "17541@10",
+  "children": [
+    "17807@12",
+    "18589@19",
+    "20347@15",
+    "22285@15",
+    "28943@17",
+    "49805@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

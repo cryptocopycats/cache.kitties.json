@@ -1,0 +1,21 @@
+{
+  "id": 19843,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-11-30T23:40:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! Gen6 here. I'm here to enjoy sweating through my feet and chasing red dots. I'm often described as vegan, and I own it. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "19358@5",
+  "sire": "19601@5",
+  "children": [
+    "20194@7",
+    "22632@7",
+    "22822@7",
+    "23544@7",
+    "28858@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

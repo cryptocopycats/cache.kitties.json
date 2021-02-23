@@ -1,0 +1,23 @@
+{
+  "id": 19184,
+  "name": "G5 Emerald",
+  "generation": 5,
+  "created_at": "2017-11-30T21:23:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G5 Emerald. I believe that one day cats will rule this planet. I once got in a fight with a platypus, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18778@4",
+  "sire": "18985@4",
+  "children": [
+    "19288@6",
+    "19333@6",
+    "23545@6",
+    "35904@6",
+    "53479@6",
+    "66317@8",
+    "68995@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20362,
+  "name": "Cowcat",
+  "generation": 14,
+  "created_at": "2017-12-01T01:35:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Cowcat. I'm a Dispensary Clerk by day, and I like volunteering at the local kitten rescue shelter by night. Sometimes I daydream of a life full of slappin' da bass, cereal, and running a podcast. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "19646@12",
+  "sire": "14537@13",
+  "children": [
+    "23363@18",
+    "65069@15",
+    "210470@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

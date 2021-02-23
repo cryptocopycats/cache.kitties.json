@@ -1,0 +1,21 @@
+{
+  "id": 18070,
+  "name": "Chocolate Mother Theresa",
+  "generation": 15,
+  "created_at": "2017-11-30T17:29:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Chocolate Mother Theresa. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Mother Theresa. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "10608@14",
+  "sire": "13085@13",
+  "children": [
+    "19144@16",
+    "21120@16",
+    "27927@16",
+    "67351@16",
+    "103419@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

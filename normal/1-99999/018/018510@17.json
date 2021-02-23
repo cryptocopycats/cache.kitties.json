@@ -1,0 +1,18 @@
+{
+  "id": 18510,
+  "name": "Icicle",
+  "generation": 17,
+  "created_at": "2017-11-30T19:19:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Icicle. I'm a Dogwalker by day, and I like riding the bus by night. It's not common knowledge, but my ancestry connects me to Princess Diana. I like your face.",
+  "language": "en",
+  "matron": "12373@16",
+  "sire": "11313@12",
+  "children": [
+    "44944@19",
+    "62654@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

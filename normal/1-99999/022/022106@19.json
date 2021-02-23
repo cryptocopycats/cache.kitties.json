@@ -1,0 +1,18 @@
+{
+  "id": 22106,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-01T09:36:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #22106. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "16533@0",
+  "sire": "18329@18",
+  "children": [
+    "42991@20",
+    "77794@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

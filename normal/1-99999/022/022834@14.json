@@ -1,0 +1,21 @@
+{
+  "id": 22834,
+  "name": "[v] GEN14",
+  "generation": 14,
+  "created_at": "2017-12-01T13:31:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm [v] GEN14. All you need to know about me is I hate hamburgers with a passion. Some people say I'm the Hermione Granger of the group. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "22451@13",
+  "sire": "22452@13",
+  "children": [
+    "26014@16",
+    "27258@16",
+    "39629@15",
+    "67193@15",
+    "74930@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

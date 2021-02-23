@@ -1,0 +1,31 @@
+{
+  "id": 17643,
+  "name": "Sailor - Parent of 2 more",
+  "generation": 6,
+  "created_at": "2017-11-30T15:45:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Sailor - Parent of 2 more. I'm a Dispensary Clerk by day, and I like jump-roping by night. I am 25% elf, 16% Private Dancer , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "16530@5",
+  "sire": "16897@1",
+  "children": [
+    "19672@7",
+    "22530@13",
+    "22841@12",
+    "23634@7",
+    "24739@17",
+    "29545@7",
+    "31175@12",
+    "91751@20",
+    "155595@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 57,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

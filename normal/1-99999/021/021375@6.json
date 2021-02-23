@@ -1,0 +1,18 @@
+{
+  "id": 21375,
+  "name": "Holla - Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-01T06:00:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Holla - Gen 6. I'm a Dispensary Clerk by day, and I like jump-roping by night. When no one's home, I invite my pals over and we listen to Wutang. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20575@1",
+  "sire": "20101@5",
+  "children": [
+    "48902@11",
+    "55683@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

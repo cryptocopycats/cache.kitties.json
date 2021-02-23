@@ -1,0 +1,20 @@
+{
+  "id": 19458,
+  "name": "Muffin",
+  "generation": 12,
+  "created_at": "2017-11-30T22:12:26.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Muffin. All you need to know about me is I hate salad with a passion. In my free time, I can usually be found wondrous or practicing witchcraft. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3684@2",
+  "sire": "15344@11",
+  "children": [
+    "36577@13",
+    "38660@13",
+    "53254@15",
+    "82701@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22416,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T11:05:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen4. In high school, I was voted most likely to work at NASA. I once got in a fight with a dog, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "20018@3",
+  "sire": "19487@3",
+  "children": [
+    "22484@5",
+    "23761@5",
+    "25801@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

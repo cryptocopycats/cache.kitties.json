@@ -1,0 +1,23 @@
+{
+  "id": 17568,
+  "name": "Vojko",
+  "generation": 15,
+  "created_at": "2017-11-30T15:09:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! Vojko here. I'm here to enjoy slappin' da bass and breakdancing. I was voted most likely to work at NASA in college. I like your face.",
+  "language": "en",
+  "matron": "16423@5",
+  "sire": "15995@14",
+  "children": [
+    "18574@16",
+    "21626@16",
+    "35962@18",
+    "50289@16",
+    "87092@18",
+    "263547@16",
+    "304703@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

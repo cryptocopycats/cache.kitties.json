@@ -1,0 +1,23 @@
+{
+  "id": 19141,
+  "name": "Mr. Biggles | Cymric | Gen 9",
+  "generation": 9,
+  "created_at": "2017-11-30T21:21:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Mr. Biggles | Cymric | Gen 9. I've never told anyone this, but I once groomed a dog. I once groomed a rabbit. I don't like to talk about it. I look forward to tripping my owner with you.",
+  "language": "en",
+  "matron": "16339@8",
+  "sire": "16714@7",
+  "children": [
+    "39460@10",
+    "40485@10",
+    "43765@10",
+    "50205@10",
+    "55390@10",
+    "71271@10",
+    "112517@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

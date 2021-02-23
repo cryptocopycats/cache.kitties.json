@@ -1,0 +1,20 @@
+{
+  "id": 19402,
+  "name": "Weird Jerry",
+  "generation": 11,
+  "created_at": "2017-11-30T22:06:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Weird Jerry. I'm often referred to as the Homer Simpson of the group. I am 62% hobbit, 72% Ventriloquist, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "13348@10",
+  "sire": "5457@7",
+  "children": [
+    "20648@12",
+    "23022@12",
+    "45724@17",
+    "111666@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

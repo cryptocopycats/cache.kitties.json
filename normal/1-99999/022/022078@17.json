@@ -1,0 +1,21 @@
+{
+  "id": 22078,
+  "name": "Valentina",
+  "generation": 17,
+  "created_at": "2017-12-01T09:25:36.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Valentina. I've never told anyone this, but I once licked a dog. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14565@3",
+  "sire": "18837@16",
+  "children": [
+    "59403@18",
+    "60724@18",
+    "81118@18",
+    "144724@18",
+    "155262@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

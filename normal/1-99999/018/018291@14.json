@@ -1,0 +1,20 @@
+{
+  "id": 18291,
+  "name": "Dwight",
+  "generation": 14,
+  "created_at": "2017-11-30T18:29:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Dwight. I'm often referred to as the Dwight Schrute of the group. Some people say I'm the Dwight Schrute of the group. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "17768@12",
+  "sire": "17202@13",
+  "children": [
+    "20148@15",
+    "25943@15",
+    "33656@15",
+    "88896@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

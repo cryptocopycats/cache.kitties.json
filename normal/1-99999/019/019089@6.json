@@ -1,0 +1,22 @@
+{
+  "id": 19089,
+  "name": "Star Trooper | Gen6",
+  "generation": 6,
+  "created_at": "2017-11-30T21:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! My name's Star Trooper | Gen6. I once peed on Martin Luther King Jr.'s cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "16629@5",
+  "sire": "18050@5",
+  "children": [
+    "24257@17",
+    "29761@17",
+    "71820@9",
+    "85453@9",
+    "92462@12",
+    "106361@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

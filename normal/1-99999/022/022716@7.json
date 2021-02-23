@@ -1,0 +1,23 @@
+{
+  "id": 22716,
+  "name": "Gen7 plod cymric",
+  "generation": 7,
+  "created_at": "2017-12-01T12:53:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen7 plod cymric. My friends describe me as prickly and preposterous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "21560@6",
+  "sire": "20657@4",
+  "children": [
+    "23040@16",
+    "23135@8",
+    "23619@8",
+    "32190@8",
+    "48948@8",
+    "63199@8",
+    "433113@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

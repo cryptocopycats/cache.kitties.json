@@ -1,0 +1,18 @@
+{
+  "id": 20592,
+  "name": "Lapis Mauveover",
+  "generation": 7,
+  "created_at": "2017-12-01T02:35:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Lapis Mauveover. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. When I'm not riding the bus, I'm running a podcast! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "13467@3",
+  "sire": "13481@6",
+  "children": [
+    "20638@8",
+    "20851@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22387,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T10:52:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #22387. In high school, I was voted school jock. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "21975@6",
+  "sire": "19020@14",
+  "children": [
+    "48910@16",
+    "64442@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

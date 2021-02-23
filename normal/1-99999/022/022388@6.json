@@ -1,0 +1,23 @@
+{
+  "id": 22388,
+  "name": "Dexter",
+  "generation": 6,
+  "created_at": "2017-12-01T10:52:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Dexter. I enjoy reading garfield, picking flowers, and reciting poetry. I once dreamed of being a Mad Scientist. Now I can be found watching reality tv all day. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "19487@3",
+  "sire": "22318@5",
+  "children": [
+    "22821@16",
+    "23052@7",
+    "23085@11",
+    "60813@14",
+    "76329@15",
+    "89273@7",
+    "119776@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

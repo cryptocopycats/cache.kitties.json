@@ -1,0 +1,18 @@
+{
+  "id": 21296,
+  "name": "G8",
+  "generation": 8,
+  "created_at": "2017-12-01T05:37:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G8. I'm a professional Skydiving Instructor and I love cereal. When no one's home, I invite my pals over and we listen to Rihanna. I like your face.",
+  "language": "en",
+  "matron": "21092@7",
+  "sire": "18927@7",
+  "children": [
+    "24446@9",
+    "44285@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

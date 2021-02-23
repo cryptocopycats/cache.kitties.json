@@ -1,0 +1,23 @@
+{
+  "id": 19056,
+  "name": "RedEye",
+  "generation": 12,
+  "created_at": "2017-11-30T21:00:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm RedEye. My friends describe me as despicable and stinky. When no one's home, I invite my pals over and we listen to Rihanna. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10324@4",
+  "sire": "14834@11",
+  "children": [
+    "19766@13",
+    "20918@15",
+    "23684@14",
+    "29712@13",
+    "73035@13",
+    "80650@15",
+    "278469@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

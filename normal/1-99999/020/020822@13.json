@@ -1,0 +1,20 @@
+{
+  "id": 20822,
+  "name": "57: G13",
+  "generation": 13,
+  "created_at": "2017-12-01T03:38:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm 57: G13. I'm a professional Mad Scientist and I love cantaloupe. I'm convinced that the world is flat. One day I'll prove it. Will you be the ghost pepper hot sauce to my ranch dressing?",
+  "language": "en",
+  "matron": "17850@12",
+  "sire": "16022@11",
+  "children": [
+    "21635@14",
+    "22470@14",
+    "26152@14",
+    "32940@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

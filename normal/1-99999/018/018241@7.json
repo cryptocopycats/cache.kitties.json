@@ -1,0 +1,20 @@
+{
+  "id": 18241,
+  "name": "gen 7",
+  "generation": 7,
+  "created_at": "2017-11-30T18:15:22.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm gen 7. All you need to know about me is I hate lasagna with a passion. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Our friendship will be annoying, brilliant, and full of cereal.",
+  "language": "en",
+  "matron": "18155@5",
+  "sire": "18122@6",
+  "children": [
+    "18364@8",
+    "18393@8",
+    "18889@11",
+    "44379@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

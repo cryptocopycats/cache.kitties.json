@@ -1,0 +1,20 @@
+{
+  "id": 21065,
+  "name": "Oliver",
+  "generation": 19,
+  "created_at": "2017-12-01T04:39:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Oliver. I want to live in a world where people believe that one day cats will rule this planet. I once made a moose drink. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "9027@18",
+  "sire": "11381@13",
+  "children": [
+    "48890@20",
+    "90051@20",
+    "123317@20",
+    "271312@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

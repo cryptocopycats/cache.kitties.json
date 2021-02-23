@@ -1,0 +1,23 @@
+{
+  "id": 17650,
+  "name": "Purrkins",
+  "generation": 7,
+  "created_at": "2017-11-30T15:45:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Purrkins. I'm a Ventriloquist by day, and I like pole dancing by night. I once got in a fight with a rooster, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16995@6",
+  "sire": "17183@6",
+  "children": [
+    "17852@8",
+    "18133@8",
+    "18180@8",
+    "18828@8",
+    "20604@8",
+    "26313@19",
+    "102617@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

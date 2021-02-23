@@ -1,0 +1,21 @@
+{
+  "id": 19653,
+  "name": "Scarlet",
+  "generation": 12,
+  "created_at": "2017-11-30T22:53:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! Scarlet here. I'm here to enjoy riding dirty and fighting the patriarchy. My secret indulgence is apple pie. Let's get busy!",
+  "language": "en",
+  "matron": "18700@11",
+  "sire": "18089@10",
+  "children": [
+    "21980@13",
+    "23468@13",
+    "29527@13",
+    "43877@13",
+    "75497@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

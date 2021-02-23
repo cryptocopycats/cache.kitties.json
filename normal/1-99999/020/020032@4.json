@@ -1,0 +1,18 @@
+{
+  "id": 20032,
+  "name": "King Of Copy (Gen 4)",
+  "generation": 4,
+  "created_at": "2017-12-01T00:21:16.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm King Of Copy (Gen 4). I enjoy spinning sick beats, fighting for the people, and reading garfield. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "19932@3",
+  "sire": "19610@3",
+  "children": [
+    "112070@5",
+    "131664@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22056,
+  "name": "Daddy Cow",
+  "generation": 6,
+  "created_at": "2017-12-01T09:19:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! My name's Daddy Cow. I once peed on Cleopatra's cat. They had it coming. I like to listen to Beyoncé while grooming. Don't judge me. Our friendship will be wondrous, brilliant, and full of apple pie.",
+  "language": "en",
+  "matron": "19506@5",
+  "sire": "19702@5",
+  "children": [
+    "23399@14",
+    "24851@14",
+    "49765@7",
+    "68345@15",
+    "143959@7",
+    "279303@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

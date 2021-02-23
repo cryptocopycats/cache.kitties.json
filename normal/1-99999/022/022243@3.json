@@ -1,0 +1,25 @@
+{
+  "id": 22243,
+  "name": "G3 Plod MainecoonParent",
+  "generation": 3,
+  "created_at": "2017-12-01T10:13:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm G3 Plod MainecoonParent. I enjoy riding dirty, reciting poetry, and sitting on your computer. I once made a rabbit kiss. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "21158@2",
+  "sire": "21009@2",
+  "children": [
+    "31924@4",
+    "32219@12",
+    "32410@7",
+    "32893@7",
+    "42374@4",
+    "44778@7",
+    "54670@7",
+    "76253@7",
+    "113975@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22864,
+  "name": "DirtyDog",
+  "generation": 15,
+  "created_at": "2017-12-01T13:40:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm DirtyDog. I've never told anyone this, but I once clawed a dog. I would give it all up for a Chanel purse. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11267@9",
+  "sire": "9651@14",
+  "children": [
+    "27309@16",
+    "48568@16",
+    "66291@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

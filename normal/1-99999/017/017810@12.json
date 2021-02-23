@@ -1,0 +1,22 @@
+{
+  "id": 17810,
+  "name": "gen12 laperm limegreen",
+  "generation": 12,
+  "created_at": "2017-11-30T16:23:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm gen12 laperm limegreen. I've never told anyone this, but I once snuggled a dog. I once got in a fight with a rhino, and won. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "16826@11",
+  "sire": "17062@11",
+  "children": [
+    "18819@13",
+    "19937@13",
+    "20870@14",
+    "23599@15",
+    "37119@16",
+    "86551@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

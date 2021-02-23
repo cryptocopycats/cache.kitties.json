@@ -1,0 +1,20 @@
+{
+  "id": 19186,
+  "name": "[RARE] gen13",
+  "generation": 13,
+  "created_at": "2017-11-30T21:23:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm [RARE] gen13. I'm often referred to as the Peter Griffin of the group. I once made a dog grimace. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18519@12",
+  "sire": "18518@12",
+  "children": [
+    "19792@14",
+    "21000@14",
+    "23684@14",
+    "31082@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

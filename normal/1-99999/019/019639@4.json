@@ -1,0 +1,23 @@
+{
+  "id": 19639,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T22:47:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen4. I'm a professional Ventriloquist and I love steak. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "19603@3",
+  "sire": "19622@3",
+  "children": [
+    "19786@5",
+    "19898@5",
+    "20276@5",
+    "22048@5",
+    "22655@5",
+    "25885@5",
+    "27965@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

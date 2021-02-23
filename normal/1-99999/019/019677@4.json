@@ -1,0 +1,19 @@
+{
+  "id": 19677,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T22:56:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen4. All you need to know about me is I hate apple pie with a passion. I'm often described as ridiculous, and I own it. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "19435@3",
+  "sire": "19633@3",
+  "children": [
+    "22048@5",
+    "25853@5",
+    "27928@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

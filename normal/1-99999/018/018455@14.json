@@ -1,0 +1,19 @@
+{
+  "id": 18455,
+  "name": "Rave Kitty",
+  "generation": 14,
+  "created_at": "2017-11-30T19:04:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Rave Kitty. I'm often referred to as the Hermione Granger of the group. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11406@12",
+  "sire": "13598@13",
+  "children": [
+    "20703@15",
+    "23211@15",
+    "43660@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

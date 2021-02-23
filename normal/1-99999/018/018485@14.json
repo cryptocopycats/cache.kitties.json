@@ -1,0 +1,19 @@
+{
+  "id": 18485,
+  "name": "Simau",
+  "generation": 14,
+  "created_at": "2017-11-30T19:10:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Simau. In high school, I was voted biggest teacher's pet. I'm often described as gullible, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14862@13",
+  "sire": "16136@13",
+  "children": [
+    "133483@15",
+    "167167@15",
+    "179904@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

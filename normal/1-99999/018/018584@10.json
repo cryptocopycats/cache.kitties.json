@@ -1,0 +1,19 @@
+{
+  "id": 18584,
+  "name": "10",
+  "generation": 10,
+  "created_at": "2017-11-30T19:29:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm 10. I enjoy fighting for the people, sweating through my feet, and eating until I loathe myself. I once got in a fight with a labradoodle, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "13684@9",
+  "sire": "18077@6",
+  "children": [
+    "18889@11",
+    "36503@11",
+    "42607@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20718,
+  "name": "Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-01T03:20:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen 10. I enjoy chasing red dots, eating lasagna, and sitting on your computer. Sometimes I daydream of a life full of chasing string, steak, and mocking dogs. Our friendship will be annoying, preposterous, and full of chocolate.",
+  "language": "en",
+  "matron": "17750@9",
+  "sire": "14275@3",
+  "children": [
+    "22988@16",
+    "23348@12",
+    "25187@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

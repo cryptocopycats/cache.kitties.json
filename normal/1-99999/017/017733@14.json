@@ -1,0 +1,21 @@
+{
+  "id": 17733,
+  "name": "Gen 14 | Otaku",
+  "generation": 14,
+  "created_at": "2017-11-30T16:09:31.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 14 | Otaku. I'm a Dispensary Clerk by day, and I like riverdancing by night. I am 78% oracle, 38% Foreign Film Director, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17135@12",
+  "sire": "17132@13",
+  "children": [
+    "22593@15",
+    "25234@15",
+    "41160@15",
+    "78359@15",
+    "127030@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

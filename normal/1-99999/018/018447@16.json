@@ -1,0 +1,20 @@
+{
+  "id": 18447,
+  "name": "Nice beard",
+  "generation": 16,
+  "created_at": "2017-11-30T19:03:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Nice beard. My friends describe me as gorgeous and prickly. It's not common knowledge, but my ancestry connects me to Princess Diana. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "17257@15",
+  "sire": "13715@12",
+  "children": [
+    "20607@18",
+    "25550@17",
+    "41324@17",
+    "91158@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

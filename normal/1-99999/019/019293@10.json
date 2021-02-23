@@ -1,0 +1,23 @@
+{
+  "id": 19293,
+  "name": "Usuzumi",
+  "generation": 10,
+  "created_at": "2017-11-30T21:44:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Usuzumi. I'm often referred to as the Steve Urkel of the group. My secret indulgence is apple pie. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "16500@7",
+  "sire": "5167@9",
+  "children": [
+    "20301@19",
+    "21228@14",
+    "21272@11",
+    "22725@19",
+    "36261@19",
+    "70720@11",
+    "103882@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

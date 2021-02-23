@@ -1,0 +1,22 @@
+{
+  "id": 18516,
+  "name": "Gen4 Scarlet",
+  "generation": 4,
+  "created_at": "2017-11-30T19:19:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen4 Scarlet. I want to live in a world where people believe the world is flat. When I'm not talking about how much I lift, I'm volunteering at the local kitten rescue shelter! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15568@3",
+  "sire": "16313@3",
+  "children": [
+    "26151@6",
+    "27705@5",
+    "27954@5",
+    "30693@5",
+    "42905@5",
+    "225764@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

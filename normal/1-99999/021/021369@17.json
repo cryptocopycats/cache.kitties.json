@@ -1,0 +1,18 @@
+{
+  "id": 21369,
+  "name": "My Father is Tiger",
+  "generation": 17,
+  "created_at": "2017-12-01T06:00:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm My Father is Tiger. I want to live in a world where people believe the world is flat. In my free time, I can usually be found smelly or mocking dogs. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "21325@6",
+  "sire": "21319@16",
+  "children": [
+    "21574@18",
+    "27726@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 21508,
+  "name": "Slim Shady",
+  "generation": 3,
+  "created_at": "2017-12-01T06:35:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Slim Shady. I enjoy fighting the patriarchy, spinning sick beats, and sweating through my feet. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20159@2",
+  "sire": "3863@2",
+  "children": [
+    "21537@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

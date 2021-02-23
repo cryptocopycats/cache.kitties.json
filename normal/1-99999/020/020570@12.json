@@ -1,0 +1,21 @@
+{
+  "id": 20570,
+  "name": "I do a Kittypizza for 10k ETH",
+  "generation": 12,
+  "created_at": "2017-12-01T02:30:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm I do a Kittypizza for 10k ETH. I believe that one day cats will rule this planet. I once got in a fight with a labradoodle, and won. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "2762@0",
+  "sire": "6451@11",
+  "children": [
+    "25388@13",
+    "29289@13",
+    "46078@19",
+    "50329@17",
+    "119796@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

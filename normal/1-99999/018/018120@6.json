@@ -1,0 +1,21 @@
+{
+  "id": 18120,
+  "name": "Gen 6 | Plodding",
+  "generation": 6,
+  "created_at": "2017-11-30T17:42:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Gen 6 | Plodding. I enjoy licking doorknobs, sitting on your computer, and riding dirty. I put maple syrup on everything. Like, everything: hot dogs, ice cream—everything! Let's get busy!",
+  "language": "en",
+  "matron": "17389@5",
+  "sire": "17452@5",
+  "children": [
+    "18555@7",
+    "19617@7",
+    "23848@7",
+    "45669@7",
+    "50671@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

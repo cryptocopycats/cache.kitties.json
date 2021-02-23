@@ -1,0 +1,24 @@
+{
+  "id": 18698,
+  "name": "Mint Choccie",
+  "generation": 4,
+  "created_at": "2017-11-30T19:50:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Mint Choccie. My friends describe me as voluptuous and prickly. I once got in a fight with a dolphin, and won. Let's get busy!",
+  "language": "en",
+  "matron": "18678@3",
+  "sire": "15108@3",
+  "children": [
+    "18943@5",
+    "20826@5",
+    "23130@5",
+    "45626@5",
+    "52225@5",
+    "81774@5",
+    "205853@5",
+    "280542@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

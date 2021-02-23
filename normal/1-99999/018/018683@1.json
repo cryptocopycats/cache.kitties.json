@@ -1,0 +1,27 @@
+{
+  "id": 18683,
+  "name": "Princess Polkadots",
+  "generation": 1,
+  "created_at": "2017-11-30T19:47:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Princess Polkadots. I've never told anyone this, but I once kissed a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2662@0",
+  "sire": "12558@0",
+  "children": [
+    "19174@14",
+    "20183@10",
+    "21135@15",
+    "82710@2",
+    "95379@2",
+    "121069@2",
+    "203903@2",
+    "407549@2",
+    "409891@2",
+    "413394@2",
+    "436699@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

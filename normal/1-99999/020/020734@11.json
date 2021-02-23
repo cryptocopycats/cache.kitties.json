@@ -1,0 +1,21 @@
+{
+  "id": 20734,
+  "name": "G11 Fab",
+  "generation": 11,
+  "created_at": "2017-12-01T03:23:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm G11 Fab. In high school, I was voted most likely to work at NASA. I once got in a fight with a goose, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19744@10",
+  "sire": "17387@6",
+  "children": [
+    "21307@12",
+    "22722@12",
+    "23617@12",
+    "25972@12",
+    "33854@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

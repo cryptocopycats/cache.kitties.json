@@ -1,0 +1,23 @@
+{
+  "id": 17534,
+  "name": "G8 B, Mauveover Parent & Kid",
+  "generation": 8,
+  "created_at": "2017-11-30T15:03:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm G8 B, Mauveover Parent & Kid. My friends describe me as stinky and tantalizing. It's not common knowledge, but my ancestry connects me to King Henry VIII. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "17293@7",
+  "sire": "16719@7",
+  "children": [
+    "21240@12",
+    "21739@9",
+    "21829@9",
+    "22953@13",
+    "35588@12",
+    "52760@9",
+    "79802@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

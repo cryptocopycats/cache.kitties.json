@@ -1,0 +1,24 @@
+{
+  "id": 19261,
+  "name": "G4 |BloodRed| Rare",
+  "generation": 4,
+  "created_at": "2017-11-30T21:39:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! G4 |BloodRed| Rare here. I'm here to enjoy picking on mice and grooming. I once got in a fight with a chimpanzee, and won. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "19109@3",
+  "sire": "19197@3",
+  "children": [
+    "19534@5",
+    "19702@5",
+    "19886@5",
+    "35077@8",
+    "49480@8",
+    "91781@5",
+    "187120@5",
+    "215954@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

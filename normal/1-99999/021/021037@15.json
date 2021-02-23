@@ -1,0 +1,17 @@
+{
+  "id": 21037,
+  "name": "Stripey",
+  "generation": 15,
+  "created_at": "2017-12-01T04:30:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Stripey. I'm a Mad Scientist by day, and I like jump-roping by night. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "19250@13",
+  "sire": "19930@14",
+  "children": [
+    "26763@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

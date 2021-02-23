@@ -1,0 +1,19 @@
+{
+  "id": 19921,
+  "name": "Pretty Kitty",
+  "generation": 21,
+  "created_at": "2017-11-30T23:54:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Pretty Kitty. I enjoy fighting the patriarchy, reading garfield, and sitting on your computer. I would give it all up for a Chanel purse. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "15757@15",
+  "sire": "17124@20",
+  "children": [
+    "23169@22",
+    "61416@22",
+    "88218@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

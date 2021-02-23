@@ -1,0 +1,22 @@
+{
+  "id": 18652,
+  "name": "Birth Taker",
+  "generation": 15,
+  "created_at": "2017-11-30T19:43:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! Birth Taker here. I'm here to enjoy staying woke and reciting poetry. I would give it all up to star in a soap opera. I like your face.",
+  "language": "en",
+  "matron": "14903@14",
+  "sire": "15307@14",
+  "children": [
+    "21291@16",
+    "23000@16",
+    "25415@18",
+    "38955@16",
+    "117485@16",
+    "322763@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

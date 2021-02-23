@@ -1,0 +1,18 @@
+{
+  "id": 21182,
+  "name": "Bianca",
+  "generation": 18,
+  "created_at": "2017-12-01T05:10:15.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Bianca. All you need to know about me is I hate apple pie with a passion. Sometimes I daydream of a life full of sitting on your computer, cereal, and tricking babies. Our friendship will be petulant, seductive, and full of hamburgers.",
+  "language": "en",
+  "matron": "20874@4",
+  "sire": "20780@17",
+  "children": [
+    "28636@20",
+    "60073@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

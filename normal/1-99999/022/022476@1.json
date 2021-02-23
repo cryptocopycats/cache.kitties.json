@@ -1,0 +1,24 @@
+{
+  "id": 22476,
+  "name": "G1 Aquarmarine F1B",
+  "generation": 1,
+  "created_at": "2017-12-01T11:26:14.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm G1 Aquarmarine F1B. In high school, I was voted most likely to work at NASA. I'm often described as fabulous, and I own it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "2597@0",
+  "sire": "2629@0",
+  "children": [
+    "31003@14",
+    "41844@9",
+    "63114@2",
+    "103685@2",
+    "115205@2",
+    "117526@2",
+    "122510@2",
+    "129427@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

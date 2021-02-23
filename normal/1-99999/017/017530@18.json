@@ -1,0 +1,21 @@
+{
+  "id": 17530,
+  "name": "Metallica Cat",
+  "generation": 18,
+  "created_at": "2017-11-30T15:03:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Metallica Cat. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Metallica. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "11794@17",
+  "sire": "11800@16",
+  "children": [
+    "23017@19",
+    "44594@19",
+    "68998@19",
+    "195581@19",
+    "1563747@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

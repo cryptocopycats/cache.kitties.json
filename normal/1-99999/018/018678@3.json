@@ -1,0 +1,24 @@
+{
+  "id": 18678,
+  "name": "Gen 3 | LUCKY KIDS",
+  "generation": 3,
+  "created_at": "2017-11-30T19:46:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Gen 3 | LUCKY KIDS here. I'm here to enjoy hitting on yo' man and picking on mice. I once got in a fight with a rabbit, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14807@2",
+  "sire": "17563@2",
+  "children": [
+    "18698@4",
+    "26288@4",
+    "26353@4",
+    "26457@4",
+    "30781@4",
+    "33634@4",
+    "37123@4",
+    "52087@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

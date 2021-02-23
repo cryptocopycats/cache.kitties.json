@@ -1,0 +1,18 @@
+{
+  "id": 20412,
+  "name": "Casper",
+  "generation": 17,
+  "created_at": "2017-12-01T01:51:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Casper. My friends describe me as preposterous and hairy. I'm often described as brilliant, and I own it. Will you be the marmalade to my soy sauce?",
+  "language": "en",
+  "matron": "17343@16",
+  "sire": "15556@2",
+  "children": [
+    "65839@18",
+    "158330@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

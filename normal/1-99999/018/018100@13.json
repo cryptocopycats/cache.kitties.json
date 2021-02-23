@@ -1,0 +1,19 @@
+{
+  "id": 18100,
+  "name": "Frodo Kittins",
+  "generation": 13,
+  "created_at": "2017-11-30T17:36:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Frodo Kittins. I'm a Culinary Sanitation Specialist by day, and I like talking about how much I lift by night. I put pickles on everything. Like, everything: hot dogs, chocolate—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16650@12",
+  "sire": "17217@12",
+  "children": [
+    "19024@14",
+    "22275@14",
+    "104145@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

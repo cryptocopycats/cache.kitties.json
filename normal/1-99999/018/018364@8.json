@@ -1,0 +1,18 @@
+{
+  "id": 18364,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-11-30T18:48:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm 8. I'm a Mad Scientist by day, and I like practicing witchcraft by night. I like to listen to Rihanna while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18176@6",
+  "sire": "18241@7",
+  "children": [
+    "18520@13",
+    "52023@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

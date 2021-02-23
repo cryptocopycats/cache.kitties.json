@@ -1,0 +1,22 @@
+{
+  "id": 17920,
+  "name": "Diamond",
+  "generation": 11,
+  "created_at": "2017-11-30T16:48:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Diamond. My friends describe me as hairy and preposterous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the cinammon to my peanut butter?",
+  "language": "en",
+  "matron": "16150@9",
+  "sire": "12370@10",
+  "children": [
+    "18178@12",
+    "18905@12",
+    "19995@12",
+    "20164@12",
+    "28592@17",
+    "45643@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

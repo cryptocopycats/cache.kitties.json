@@ -1,0 +1,23 @@
+{
+  "id": 18938,
+  "name": "Noah",
+  "generation": 10,
+  "created_at": "2017-11-30T20:31:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Noah. I believe that one day cats will rule this planet. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18181@9",
+  "sire": "18113@9",
+  "children": [
+    "19560@11",
+    "19910@12",
+    "23891@17",
+    "27953@14",
+    "36165@14",
+    "65635@12",
+    "72602@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

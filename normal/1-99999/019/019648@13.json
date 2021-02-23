@@ -1,0 +1,20 @@
+{
+  "id": 19648,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-30T22:53:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #19648. I've never told anyone this, but I once loved a dog. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "11721@11",
+  "sire": "7582@12",
+  "children": [
+    "21896@14",
+    "23512@14",
+    "30369@14",
+    "75480@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

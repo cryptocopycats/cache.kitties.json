@@ -1,0 +1,20 @@
+{
+  "id": 17758,
+  "name": "Sebastian - Starter Kitty",
+  "generation": 14,
+  "created_at": "2017-11-30T16:15:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Sebastian - Starter Kitty. I'm often referred to as the Hermione Granger of the group. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": "14136@11",
+  "sire": "12670@13",
+  "children": [
+    "19063@15",
+    "21058@15",
+    "25046@15",
+    "32699@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

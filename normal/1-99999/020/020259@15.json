@@ -1,0 +1,21 @@
+{
+  "id": 20259,
+  "name": "Squirrel Nut",
+  "generation": 15,
+  "created_at": "2017-12-01T01:13:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Squirrel Nut. I enjoy picking flowers, riding dirty, and sweating through my feet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "16093@14",
+  "sire": "16217@6",
+  "children": [
+    "21584@16",
+    "23076@16",
+    "29897@16",
+    "61871@16",
+    "299895@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

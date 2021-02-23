@@ -1,0 +1,20 @@
+{
+  "id": 21114,
+  "name": "SimpleBlueStripe",
+  "generation": 17,
+  "created_at": "2017-12-01T04:50:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! SimpleBlueStripe here. I'm here to enjoy reciting poetry and fighting the patriarchy. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be annoying, gullible, and full of lasagna.",
+  "language": "en",
+  "matron": "18600@16",
+  "sire": "19133@15",
+  "children": [
+    "29455@18",
+    "37814@18",
+    "60321@18",
+    "342614@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

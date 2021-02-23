@@ -1,0 +1,20 @@
+{
+  "id": 22242,
+  "name": "Daddy",
+  "generation": 18,
+  "created_at": "2017-12-01T10:13:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Daddy. I'm a Private Dancer  by day, and I like people-watching by night. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15641@17",
+  "sire": "18488@15",
+  "children": [
+    "26471@19",
+    "40795@19",
+    "110377@19",
+    "141543@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

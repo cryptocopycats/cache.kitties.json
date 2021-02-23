@@ -1,0 +1,27 @@
+{
+  "id": 22528,
+  "name": "Gen 2 Saycheese Cymric",
+  "generation": 2,
+  "created_at": "2017-12-01T11:42:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Gen 2 Saycheese Cymric. I'm often referred to as the Marge Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "19572@1",
+  "sire": "22100@1",
+  "children": [
+    "22635@3",
+    "22662@3",
+    "22741@3",
+    "23071@3",
+    "23473@3",
+    "26775@9",
+    "140752@3",
+    "154212@3",
+    "217015@3",
+    "260634@8",
+    "341692@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

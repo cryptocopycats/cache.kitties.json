@@ -1,0 +1,19 @@
+{
+  "id": 20429,
+  "name": "Snappy Spock",
+  "generation": 8,
+  "created_at": "2017-12-01T01:52:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Snappy Spock. All you need to know about me is I hate chocolate with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "20354@4",
+  "sire": "18513@7",
+  "children": [
+    "20599@17",
+    "142627@19",
+    "234616@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 22841,
+  "name": "Sailor Jow",
+  "generation": 12,
+  "created_at": "2017-12-01T13:32:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Sailor Jow. I believe that one day cats will rule this planet. My friends describe me as \"despicable.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "17643@6",
+  "sire": "20571@11",
+  "children": [
+    "23384@13",
+    "25712@13",
+    "29877@13",
+    "36961@13",
+    "65802@13",
+    "172449@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 81,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

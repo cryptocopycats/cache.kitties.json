@@ -1,0 +1,20 @@
+{
+  "id": 19370,
+  "name": "VieKitty",
+  "generation": 17,
+  "created_at": "2017-11-30T21:56:49.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm VieKitty. All you need to know about me is I hate salad with a passion. I once made a dog kiss. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15750@15",
+  "sire": "17318@16",
+  "children": [
+    "21421@18",
+    "28789@18",
+    "88808@18",
+    "234172@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 22874,
+  "name": "Mitchell",
+  "generation": 17,
+  "created_at": "2017-12-01T13:42:49.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Mitchell. I believe that one day cats will rule this planet. In my free time, I can usually be found preposterous or pole dancing. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10622@14",
+  "sire": "14416@16",
+  "children": [
+    "40925@19",
+    "69578@19",
+    "373580@18",
+    "416862@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

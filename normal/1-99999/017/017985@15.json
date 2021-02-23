@@ -1,0 +1,21 @@
+{
+  "id": 17985,
+  "name": "Cliopatria",
+  "generation": 15,
+  "created_at": "2017-11-30T17:12:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! Cliopatria here. I'm here to enjoy reciting poetry and staying woke. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, salad—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "10157@14",
+  "sire": "10306@14",
+  "children": [
+    "20050@16",
+    "22222@16",
+    "27533@18",
+    "40738@20",
+    "92461@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

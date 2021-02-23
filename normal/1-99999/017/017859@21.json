@@ -1,0 +1,18 @@
+{
+  "id": 17859,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-11-30T16:30:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! Gen 21 here. I'm here to enjoy reading garfield and tripping my owner. I once cleaned a labradoodle. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "12290@20",
+  "sire": "12294@19",
+  "children": [
+    "23420@22",
+    "49057@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

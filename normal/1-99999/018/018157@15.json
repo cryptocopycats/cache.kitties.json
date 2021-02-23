@@ -1,0 +1,20 @@
+{
+  "id": 18157,
+  "name": "Gen 15 - Slow",
+  "generation": 15,
+  "created_at": "2017-11-30T17:51:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 15 - Slow. I believe that one day cats will rule this planet. My secret indulgence is cereal. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "17931@5",
+  "sire": "6880@14",
+  "children": [
+    "19341@16",
+    "21264@17",
+    "28678@18",
+    "80473@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22105,
+  "name": "chestnut rare",
+  "generation": 10,
+  "created_at": "2017-12-01T09:36:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm chestnut rare. I'm a professional Foreign Film Director and I love lasagna. I was voted biggest teacher's pet in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "11919@9",
+  "sire": "17244@7",
+  "children": [
+    "28837@11",
+    "36514@11",
+    "38387@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

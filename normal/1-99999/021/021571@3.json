@@ -1,0 +1,25 @@
+{
+  "id": 21571,
+  "name": "Basic",
+  "generation": 3,
+  "created_at": "2017-12-01T06:56:21.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Basic. I enjoy hitting on yo' man, picking on mice, and sitting on your computer. In my free time, I can usually be found prickly or jump-roping. Let's get busy!",
+  "language": "en",
+  "matron": "21255@2",
+  "sire": "21138@2",
+  "children": [
+    "33538@4",
+    "33681@4",
+    "34461@4",
+    "38042@4",
+    "38197@4",
+    "55372@4",
+    "81660@4",
+    "96568@4",
+    "186128@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

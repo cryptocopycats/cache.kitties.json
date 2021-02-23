@@ -1,0 +1,21 @@
+{
+  "id": 20713,
+  "name": "Cymric | Emerald | Mint | G9",
+  "generation": 9,
+  "created_at": "2017-12-01T03:17:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Cymric | Emerald | Mint | G9. I'm a Dogwalker by day, and I like playing chess by night. Some people say I'm the Chandler Bing of the group. Let's pawty!",
+  "language": "en",
+  "matron": "20270@8",
+  "sire": "13310@8",
+  "children": [
+    "21002@10",
+    "21295@10",
+    "102241@21",
+    "200592@10",
+    "308688@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

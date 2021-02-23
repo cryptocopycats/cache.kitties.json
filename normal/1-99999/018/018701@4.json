@@ -1,0 +1,24 @@
+{
+  "id": 18701,
+  "name": "Toad",
+  "generation": 4,
+  "created_at": "2017-11-30T19:51:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Toad. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Michael Scott of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14477@3",
+  "sire": "15108@3",
+  "children": [
+    "18834@5",
+    "19163@6",
+    "38721@5",
+    "39663@5",
+    "45693@5",
+    "52634@5",
+    "63217@5",
+    "85365@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

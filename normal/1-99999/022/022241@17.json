@@ -1,0 +1,18 @@
+{
+  "id": 22241,
+  "name": "Archi",
+  "generation": 17,
+  "created_at": "2017-12-01T10:13:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! My name's Archi. I once peed on Nelson Mandela's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "13605@15",
+  "sire": "14486@16",
+  "children": [
+    "31160@18",
+    "64648@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

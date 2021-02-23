@@ -1,0 +1,25 @@
+{
+  "id": 22199,
+  "name": "22199",
+  "generation": 17,
+  "created_at": "2017-12-01T10:01:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm 22199. I enjoy watching Stranger Things, staying woke, and fighting the patriarchy. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "6198@11",
+  "sire": "9714@16",
+  "children": [
+    "27496@20",
+    "28935@18",
+    "392268@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 73,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,21 @@
+{
+  "id": 21980,
+  "name": "Scarlet Laperm",
+  "generation": 13,
+  "created_at": "2017-12-01T09:02:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Scarlet Laperm. I'm a professional Ventriloquist and I love steak. I was voted school jock in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19240@0",
+  "sire": "19653@12",
+  "children": [
+    "22444@16",
+    "24436@14",
+    "27125@14",
+    "30418@14",
+    "62324@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

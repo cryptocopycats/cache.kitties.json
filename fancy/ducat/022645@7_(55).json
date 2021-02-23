@@ -1,0 +1,26 @@
+{
+  "id": 22645,
+  "name": "[Rare] Low Gen Bird Duck Kitty",
+  "generation": 7,
+  "created_at": "2017-12-01T12:26:10.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm [Rare] Low Gen Bird Duck Kitty. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found stinky or pole dancing. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22534@6",
+  "sire": "4601@5",
+  "children": [
+    "30198@11",
+    "41789@9",
+    "59996@8",
+    "61694@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 55,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

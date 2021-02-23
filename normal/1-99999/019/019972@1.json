@@ -1,0 +1,28 @@
+{
+  "id": 19972,
+  "name": "Starboy",
+  "generation": 1,
+  "created_at": "2017-12-01T00:09:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Starboy. I'm often referred to as the Ron Weasley of the group. Sometimes I daydream of a life full of eating lasagna, steak, and sleeping in fresh laundry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "1284@0",
+  "sire": "2240@0",
+  "children": [
+    "58268@2",
+    "61370@2",
+    "76427@2",
+    "87804@2",
+    "95841@2",
+    "112839@2",
+    "117305@2",
+    "136726@2",
+    "153268@2",
+    "165898@2",
+    "231626@2",
+    "300295@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

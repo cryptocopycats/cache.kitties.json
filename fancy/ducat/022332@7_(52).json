@@ -1,0 +1,31 @@
+{
+  "id": 22332,
+  "name": "G7 | Joe",
+  "generation": 7,
+  "created_at": "2017-12-01T10:41:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm G7 | Joe. I'm a professional Foreign Film Director and I love ice cream. I would give it all up for a Chanel purse. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19366@6",
+  "sire": "20595@5",
+  "children": [
+    "22665@8",
+    "23053@9",
+    "23214@8",
+    "24033@8",
+    "24342@8",
+    "30820@8",
+    "88579@8",
+    "98012@8",
+    "213452@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 52,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

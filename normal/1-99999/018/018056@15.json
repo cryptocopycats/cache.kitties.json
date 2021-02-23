@@ -1,0 +1,21 @@
+{
+  "id": 18056,
+  "name": "Blue Catzilla",
+  "generation": 15,
+  "created_at": "2017-11-30T17:24:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Blue Catzilla. I'm often referred to as the Bart Simpson of the group. I once dreamed of being a Ventriloquist. Now I can be found people-watching all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "16838@14",
+  "sire": "15167@12",
+  "children": [
+    "20431@17",
+    "48794@16",
+    "54650@16",
+    "85522@16",
+    "214809@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

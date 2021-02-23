@@ -1,0 +1,20 @@
+{
+  "id": 20167,
+  "name": "Basic Beard",
+  "generation": 11,
+  "created_at": "2017-12-01T00:53:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Basic Beard. I'm a Aerobics Athlete  by day, and I like braiding people's hair by night. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3992@2",
+  "sire": "17115@10",
+  "children": [
+    "20534@14",
+    "51528@17",
+    "55103@13",
+    "69629@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

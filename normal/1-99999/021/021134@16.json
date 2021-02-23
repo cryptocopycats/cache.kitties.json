@@ -1,0 +1,20 @@
+{
+  "id": 21134,
+  "name": "Hat G16",
+  "generation": 16,
+  "created_at": "2017-12-01T04:51:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Hat G16. I believe the world is flat. When I'm not volunteering at the local kitten rescue shelter, I'm running a podcast! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14671@15",
+  "sire": "5400@6",
+  "children": [
+    "36209@17",
+    "58063@17",
+    "68557@17",
+    "99096@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 18606,
+  "name": "5",
+  "generation": 5,
+  "created_at": "2017-11-30T19:33:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm 5. All you need to know about me is I hate salad with a passion. I am 44% sphinx, 90% Skydiving Instructor, and otherwise bad at math. Our friendship will be voluptuous, preposterous, and full of ice cream.",
+  "language": "en",
+  "matron": "17991@4",
+  "sire": "4011@2",
+  "children": [
+    "25279@6",
+    "25432@6",
+    "26742@6",
+    "38416@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

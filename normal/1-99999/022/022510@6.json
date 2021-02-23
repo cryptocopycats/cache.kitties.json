@@ -1,0 +1,24 @@
+{
+  "id": 22510,
+  "name": "Cerulian - Highest Gen",
+  "generation": 6,
+  "created_at": "2017-12-01T11:38:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Cerulian - Highest Gen here. I'm here to enjoy taking selfies and sweating through my feet. I'm often described as ridiculous, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18362@2",
+  "sire": "19968@5",
+  "children": [
+    "42660@15",
+    "43572@7",
+    "57763@7",
+    "60012@7",
+    "208715@7",
+    "229507@7",
+    "251446@7",
+    "316995@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21867,
+  "name": "14",
+  "generation": 14,
+  "created_at": "2017-12-01T08:29:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm 14. I'm a Mad Scientist by day, and I like braiding people's hair by night. I would give it all up for a Chanel purse. Let's get busy!",
+  "language": "en",
+  "matron": "7486@13",
+  "sire": "16348@9",
+  "children": [
+    "23987@15",
+    "31085@15",
+    "32926@19",
+    "76229@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

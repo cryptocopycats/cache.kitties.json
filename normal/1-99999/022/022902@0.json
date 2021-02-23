@@ -1,0 +1,22 @@
+{
+  "id": 22902,
+  "name": "Peixoto",
+  "generation": 0,
+  "created_at": "2017-12-01T13:51:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Peixoto. I once peed on Amelia Earhart's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "23349@1",
+    "24835@1",
+    "26190@1",
+    "28485@1",
+    "43698@7",
+    "62396@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

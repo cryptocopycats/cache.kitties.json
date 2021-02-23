@@ -1,0 +1,21 @@
+{
+  "id": 21281,
+  "name": "Gen 17 | Strawberry",
+  "generation": 17,
+  "created_at": "2017-12-01T05:35:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 17 | Strawberry. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "19379@16",
+  "sire": "19391@15",
+  "children": [
+    "22710@18",
+    "29384@18",
+    "58508@18",
+    "121193@21",
+    "316456@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

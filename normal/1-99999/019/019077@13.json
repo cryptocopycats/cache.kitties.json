@@ -1,0 +1,20 @@
+{
+  "id": 19077,
+  "name": "Bearded Kitty",
+  "generation": 13,
+  "created_at": "2017-11-30T21:05:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Bearded Kitty. I believe the world is flat. I once dreamed of being a Aerobics Athlete . Now I can be found sleeping in fresh laundry all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "18371@12",
+  "sire": "16307@12",
+  "children": [
+    "51856@14",
+    "77691@17",
+    "79437@22",
+    "85079@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

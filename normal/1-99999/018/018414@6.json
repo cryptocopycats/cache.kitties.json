@@ -1,0 +1,21 @@
+{
+  "id": 18414,
+  "name": "6",
+  "generation": 6,
+  "created_at": "2017-11-30T18:57:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm 6. I enjoy breakdancing, taking selfies, and reading garfield. I put pickles on everything. Like, everything: hot dogs, lasagna—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18103@5",
+  "sire": "15748@5",
+  "children": [
+    "18597@8",
+    "18756@10",
+    "25444@7",
+    "26208@8",
+    "51810@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

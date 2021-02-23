@@ -1,0 +1,22 @@
+{
+  "id": 21328,
+  "name": "Green Man",
+  "generation": 15,
+  "created_at": "2017-12-01T05:46:07.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Green Man. I believe that one day cats will rule this planet. I'm often described as ridiculous, and I own it. Our friendship will be vegan, voluptuous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "16471@11",
+  "sire": "18018@14",
+  "children": [
+    "22739@16",
+    "25882@16",
+    "37897@16",
+    "62064@16",
+    "113088@17",
+    "118732@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

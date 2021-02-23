@@ -1,0 +1,20 @@
+{
+  "id": 22414,
+  "name": "Salmon in the oven",
+  "generation": 18,
+  "created_at": "2017-12-01T11:05:19.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Salmon in the oven. I believe that one day cats will rule this planet. When I'm not volunteering at the local kitten rescue shelter, I'm riverdancing! Our friendship will be brilliant, gullible, and full of cereal.",
+  "language": "en",
+  "matron": "12188@11",
+  "sire": "17378@17",
+  "children": [
+    "54264@19",
+    "83719@19",
+    "214335@19",
+    "297486@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

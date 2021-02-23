@@ -1,0 +1,21 @@
+{
+  "id": 18034,
+  "name": "Silvio",
+  "generation": 10,
+  "created_at": "2017-11-30T17:17:19.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Silvio. My friends describe me as prickly and fabulous. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "12633@9",
+  "sire": "14620@6",
+  "children": [
+    "22400@17",
+    "23452@19",
+    "29482@19",
+    "45412@13",
+    "49958@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

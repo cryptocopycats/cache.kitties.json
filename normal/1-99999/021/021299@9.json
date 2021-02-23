@@ -1,0 +1,19 @@
+{
+  "id": 21299,
+  "name": "Dali",
+  "generation": 9,
+  "created_at": "2017-12-01T05:39:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Dali. In high school, I was voted school jock. I once dreamed of being a Dogwalker. Now I can be found jump-roping all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "21163@8",
+  "sire": "18614@8",
+  "children": [
+    "24459@10",
+    "44416@10",
+    "48001@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 19178,
+  "name": "gen10",
+  "generation": 10,
+  "created_at": "2017-11-30T21:22:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm gen10. I believe the world is flat. My secret indulgence is apple pie. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "18532@9",
+  "sire": "14173@0",
+  "children": [
+    "21893@11",
+    "35439@14",
+    "67212@13",
+    "246649@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

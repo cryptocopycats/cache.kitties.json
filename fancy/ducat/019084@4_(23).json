@@ -1,0 +1,31 @@
+{
+  "id": 19084,
+  "name": "🦆🦆🦆",
+  "generation": 4,
+  "created_at": "2017-11-30T21:05:30.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm 🦆🦆🦆. I'm a Train Conductor by day, and I like riverdancing by night. When no one's home, I invite my pals over and we listen to Frank Sinatra. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "16642@3",
+  "sire": "18735@3",
+  "children": [
+    "19230@5",
+    "19267@5",
+    "19305@5",
+    "19601@5",
+    "20210@5",
+    "22629@5",
+    "25980@5",
+    "31323@5",
+    "360826@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 23,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

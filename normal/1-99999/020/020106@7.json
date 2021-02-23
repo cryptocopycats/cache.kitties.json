@@ -1,0 +1,18 @@
+{
+  "id": 20106,
+  "name": "G7 | Z0",
+  "generation": 7,
+  "created_at": "2017-12-01T00:36:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm G7 | Z0. I'm a professional Ventriloquist and I love ice cream. I would give it all up for a Chanel purse. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18403@6",
+  "sire": "19096@6",
+  "children": [
+    "20565@8",
+    "26279@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

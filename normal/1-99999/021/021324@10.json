@@ -1,0 +1,19 @@
+{
+  "id": 21324,
+  "name": "Honeycrisp",
+  "generation": 10,
+  "created_at": "2017-12-01T05:46:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Honeycrisp. All you need to know about me is I hate steak with a passion. I once dreamed of being a Mad Scientist. Now I can be found tricking babies all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15339@9",
+  "sire": "6436@7",
+  "children": [
+    "28625@12",
+    "73108@11",
+    "81360@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

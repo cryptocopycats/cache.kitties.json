@@ -1,0 +1,20 @@
+{
+  "id": 20761,
+  "name": "Hépatite B",
+  "generation": 14,
+  "created_at": "2017-12-01T03:25:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Hépatite B. All you need to know about me is I hate hamburgers with a passion. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's get busy!",
+  "language": "en",
+  "matron": "19922@13",
+  "sire": "8199@12",
+  "children": [
+    "25897@15",
+    "29224@15",
+    "68734@15",
+    "91715@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

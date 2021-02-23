@@ -1,0 +1,21 @@
+{
+  "id": 22100,
+  "name": "Cymric Joy",
+  "generation": 1,
+  "created_at": "2017-12-01T09:35:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Cymric Joy. I believe the world is flat. I would give it all up to star in a soap opera. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "18814@0",
+  "sire": "21992@0",
+  "children": [
+    "22364@5",
+    "22528@2",
+    "24317@10",
+    "35647@2",
+    "45837@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

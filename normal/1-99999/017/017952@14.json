@@ -1,0 +1,18 @@
+{
+  "id": 17952,
+  "name": "Mr. Marbles",
+  "generation": 14,
+  "created_at": "2017-11-30T16:57:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Mr. Marbles. I've never told anyone this, but I once frolicked with a dog. Sometimes I daydream of a life full of picking on mice, apple pie, and summoning ghosts. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "16441@13",
+  "sire": "12395@0",
+  "children": [
+    "18856@15",
+    "61792@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 18231,
+  "name": "Raul 0",
+  "generation": 0,
+  "created_at": "2017-11-30T18:09:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Raul 0. I'm often referred to as the Marge Simpson of the group. I was voted most likely to work at NASA in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "18982@1",
+    "19251@11",
+    "32224@1",
+    "327283@2",
+    "350667@2",
+    "372980@2",
+    "401513@2",
+    "660591@1",
+    "662871@1",
+    "801328@1",
+    "1211099@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

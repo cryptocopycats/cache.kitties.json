@@ -1,0 +1,22 @@
+{
+  "id": 20869,
+  "name": "Gen2 Swift Salmon",
+  "generation": 2,
+  "created_at": "2017-12-01T03:54:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen2 Swift Salmon. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of watching Stranger Things, salad, and volunteering at the local kitten rescue shelter. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5556@1",
+  "sire": "16323@1",
+  "children": [
+    "23120@16",
+    "23218@14",
+    "71026@14",
+    "102687@18",
+    "325430@20",
+    "1096680@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

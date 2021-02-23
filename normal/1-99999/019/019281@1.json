@@ -1,0 +1,22 @@
+{
+  "id": 19281,
+  "name": "Snickers | Gen1",
+  "generation": 1,
+  "created_at": "2017-11-30T21:42:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's Snickers | Gen1. I once peed on Princess Diana's cat. They had it coming. Sometimes I daydream of a life full of chasing red dots, wet food, and sleeping in fresh laundry. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "13480@0",
+  "sire": "17621@0",
+  "children": [
+    "19332@2",
+    "19414@2",
+    "22329@5",
+    "24052@2",
+    "24405@2",
+    "113813@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 17869,
+  "name": "Gen 14 rare",
+  "generation": 14,
+  "created_at": "2017-11-30T16:34:10.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 14 rare. I believe the world is flat. I am 31% oracle, 95% Dogwalker, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "11974@10",
+  "sire": "12021@13",
+  "children": [
+    "41541@16",
+    "75401@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

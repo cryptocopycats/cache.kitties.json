@@ -1,0 +1,19 @@
+{
+  "id": 22442,
+  "name": "Sodaspring",
+  "generation": 18,
+  "created_at": "2017-12-01T11:17:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Sodaspring. I'm a professional Skydiving Instructor and I love ice cream. I once got in a fight with a goose, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "14387@15",
+  "sire": "12944@17",
+  "children": [
+    "29068@19",
+    "48814@19",
+    "108512@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

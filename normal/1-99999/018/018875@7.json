@@ -1,0 +1,20 @@
+{
+  "id": 18875,
+  "name": "7",
+  "generation": 7,
+  "created_at": "2017-11-30T20:16:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm 7. My friends describe me as raunchy and stinky. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Will you be the soy sauce to my wasabi?",
+  "language": "en",
+  "matron": "18114@6",
+  "sire": "17770@6",
+  "children": [
+    "20712@8",
+    "25334@8",
+    "26007@8",
+    "50738@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

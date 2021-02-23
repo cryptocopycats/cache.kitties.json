@@ -1,0 +1,22 @@
+{
+  "id": 20314,
+  "name": "Blueberry Marshmellow",
+  "generation": 13,
+  "created_at": "2017-12-01T01:25:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Blueberry Marshmellow. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "19789@12",
+  "sire": "18734@10",
+  "children": [
+    "21747@14",
+    "24523@21",
+    "37532@19",
+    "61043@14",
+    "135126@20",
+    "340235@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

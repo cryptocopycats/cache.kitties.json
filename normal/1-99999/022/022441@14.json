@@ -1,0 +1,19 @@
+{
+  "id": 22441,
+  "name": "Dr. Catibal Lecter",
+  "generation": 14,
+  "created_at": "2017-12-01T11:17:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Dr. Catibal Lecter. I've never told anyone this, but I once frolicked with a dog. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "language": "en",
+  "matron": "20170@12",
+  "sire": "21396@13",
+  "children": [
+    "23252@15",
+    "42281@16",
+    "81644@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

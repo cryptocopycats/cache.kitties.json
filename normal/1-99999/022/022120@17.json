@@ -1,0 +1,20 @@
+{
+  "id": 22120,
+  "name": "Sprite",
+  "generation": 17,
+  "created_at": "2017-12-01T09:42:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Sprite. I believe the world is flat. I would give it all up to star in a soap opera. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "20446@16",
+  "sire": "19347@13",
+  "children": [
+    "24325@18",
+    "29297@18",
+    "45838@18",
+    "115969@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 22352,
+  "name": "G4 Sailor Dad",
+  "generation": 4,
+  "created_at": "2017-12-01T10:45:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm G4 Sailor Dad. My friends describe me as gorgeous and preposterous. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3457@1",
+  "sire": "17581@3",
+  "children": [
+    "23016@9",
+    "28525@5",
+    "30590@10",
+    "34225@13",
+    "37703@5",
+    "44917@6",
+    "64263@14",
+    "87172@5",
+    "99042@6",
+    "205692@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

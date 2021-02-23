@@ -1,0 +1,22 @@
+{
+  "id": 20350,
+  "name": "Gray",
+  "generation": 12,
+  "created_at": "2017-12-01T01:35:09.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gray. I enjoy chasing string, being a nevernude, and hitting on yo' man. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "17956@11",
+  "sire": "17970@11",
+  "children": [
+    "20799@14",
+    "22702@14",
+    "24417@14",
+    "28963@17",
+    "41971@19",
+    "105849@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 18269,
+  "name": "Gen 4 Coffee Best Starter",
+  "generation": 4,
+  "created_at": "2017-11-30T18:22:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 4 Coffee Best Starter. I'm a Ventriloquist by day, and I like people-watching by night. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "16572@3",
+  "sire": "3139@1",
+  "children": [
+    "45051@5",
+    "48801@5",
+    "54471@5",
+    "79729@5",
+    "95912@5",
+    "107151@5",
+    "250087@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 22093,
+  "name": "Gen5 PL Scarlet Emerald",
+  "generation": 5,
+  "created_at": "2017-12-01T09:31:23.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen5 PL Scarlet Emerald. I believe that one day cats will rule this planet. I'm often described as brilliant, and I own it. I look forward to chasing red dots with you.",
+  "language": "en",
+  "matron": "19763@4",
+  "sire": "19849@4",
+  "children": [
+    "26458@6",
+    "26749@6",
+    "27187@6",
+    "28058@6",
+    "28800@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

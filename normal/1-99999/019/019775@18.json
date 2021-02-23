@@ -1,0 +1,19 @@
+{
+  "id": 19775,
+  "name": "beard psycho",
+  "generation": 18,
+  "created_at": "2017-11-30T23:19:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm beard psycho. I'm a Dogwalker by day, and I like playing chess by night. I once frolicked with a goose. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18950@13",
+  "sire": "19027@17",
+  "children": [
+    "21329@19",
+    "78125@19",
+    "166090@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

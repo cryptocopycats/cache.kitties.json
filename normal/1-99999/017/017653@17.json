@@ -1,0 +1,19 @@
+{
+  "id": 17653,
+  "name": "FancyFluff",
+  "generation": 17,
+  "created_at": "2017-11-30T15:47:37.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm FancyFluff. I'm a Ventriloquist by day, and I like reading Danielle Steele by night. I put garlic butter on everything. Like, everything: hot dogs, hamburgers—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15527@16",
+  "sire": "14193@12",
+  "children": [
+    "20818@18",
+    "26062@18",
+    "53209@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

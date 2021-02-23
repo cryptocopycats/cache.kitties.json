@@ -1,0 +1,18 @@
+{
+  "id": 19194,
+  "name": "Mr. Red",
+  "generation": 18,
+  "created_at": "2017-11-30T21:24:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Mr. Red. I believe the world is flat. I like to listen to Ace of Base while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "16796@17",
+  "sire": "17127@10",
+  "children": [
+    "21650@19",
+    "51121@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

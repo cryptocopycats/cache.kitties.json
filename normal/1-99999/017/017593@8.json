@@ -1,0 +1,24 @@
+{
+  "id": 17593,
+  "name": "Gen 8",
+  "generation": 8,
+  "created_at": "2017-11-30T15:16:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 8. I believe the world is flat. When I'm not playing chess, I'm siring for status! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "15876@7",
+  "sire": "12395@0",
+  "children": [
+    "17750@9",
+    "18042@10",
+    "18581@12",
+    "19723@9",
+    "21512@15",
+    "23431@9",
+    "62752@9",
+    "100636@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

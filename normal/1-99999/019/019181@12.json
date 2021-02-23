@@ -1,0 +1,23 @@
+{
+  "id": 19181,
+  "name": "Orange",
+  "generation": 12,
+  "created_at": "2017-11-30T21:23:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Orange. I'm a Private Dancer  by day, and I like braiding people's hair by night. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1085@0",
+  "sire": "10478@11",
+  "children": [
+    "19752@14",
+    "23950@16",
+    "26292@18",
+    "36716@15",
+    "75012@16",
+    "110428@19",
+    "244412@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

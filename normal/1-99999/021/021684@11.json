@@ -1,0 +1,19 @@
+{
+  "id": 21684,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-01T07:33:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #21684. In high school, I was voted most likely to work at NASA. I once snuggled a rooster. I don't like to talk about it. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "17949@6",
+  "sire": "10771@10",
+  "children": [
+    "23222@17",
+    "26929@17",
+    "31263@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

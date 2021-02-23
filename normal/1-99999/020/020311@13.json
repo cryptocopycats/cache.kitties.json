@@ -1,0 +1,21 @@
+{
+  "id": 20311,
+  "name": "Amumu",
+  "generation": 13,
+  "created_at": "2017-12-01T01:25:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Amumu. In high school, I was voted school jock. I once got in a fight with a goose, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "8202@12",
+  "sire": "8101@11",
+  "children": [
+    "59084@14",
+    "73256@14",
+    "83815@14",
+    "102938@14",
+    "198644@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

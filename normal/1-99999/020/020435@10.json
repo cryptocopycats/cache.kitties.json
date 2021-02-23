@@ -1,0 +1,23 @@
+{
+  "id": 20435,
+  "name": "[v] gen10",
+  "generation": 10,
+  "created_at": "2017-12-01T01:53:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm [v] gen10. In high school, I was voted most likely to work at NASA. My secret indulgence is steak. Our friendship will be seductive, petulant, and full of wet food.",
+  "language": "en",
+  "matron": "14094@9",
+  "sire": "14378@8",
+  "children": [
+    "20699@12",
+    "22452@13",
+    "23277@14",
+    "26123@18",
+    "39478@15",
+    "61453@15",
+    "72629@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

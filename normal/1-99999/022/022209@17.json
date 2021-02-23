@@ -1,0 +1,19 @@
+{
+  "id": 22209,
+  "name": "Gen17-slow",
+  "generation": 17,
+  "created_at": "2017-12-01T10:06:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Gen17-slow. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Aretha Franklin. Let's pawty!",
+  "language": "en",
+  "matron": "17429@8",
+  "sire": "15388@16",
+  "children": [
+    "35766@18",
+    "85245@18",
+    "1587620@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

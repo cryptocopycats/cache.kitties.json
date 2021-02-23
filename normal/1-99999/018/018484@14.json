@@ -1,0 +1,20 @@
+{
+  "id": 18484,
+  "name": "Ms. Buckwheat",
+  "generation": 14,
+  "created_at": "2017-11-30T19:10:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Ms. Buckwheat. I'm a professional Train Conductor and I love wet food. Some people say I'm the Bart Simpson of the group. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "17614@13",
+  "sire": "17272@12",
+  "children": [
+    "20029@15",
+    "27104@15",
+    "50923@20",
+    "404563@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

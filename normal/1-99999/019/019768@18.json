@@ -1,0 +1,18 @@
+{
+  "id": 19768,
+  "name": "Matt Lauer",
+  "generation": 18,
+  "created_at": "2017-11-30T23:18:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Matt Lauer. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of riding dirty, hamburgers, and swiping left. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16350@16",
+  "sire": "16257@17",
+  "children": [
+    "23160@19",
+    "93035@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

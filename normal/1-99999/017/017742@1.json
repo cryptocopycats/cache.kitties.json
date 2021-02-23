@@ -1,0 +1,29 @@
+{
+  "id": 17742,
+  "name": "Gen 1 | Fast | Red",
+  "generation": 1,
+  "created_at": "2017-11-30T16:10:38.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Gen 1 | Fast | Red. I've never told anyone this, but I once frolicked with a dog. I once made a rooster pester. Will you be the ranch dressing to my marmite?",
+  "language": "en",
+  "matron": "12678@0",
+  "sire": "17404@0",
+  "children": [
+    "181744@2",
+    "184134@2",
+    "184558@2",
+    "185283@2",
+    "188482@2",
+    "190184@4",
+    "191980@2",
+    "209905@2",
+    "239067@2",
+    "275884@2",
+    "302667@2",
+    "349450@2",
+    "388258@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

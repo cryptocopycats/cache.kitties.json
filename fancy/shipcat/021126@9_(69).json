@@ -1,0 +1,24 @@
+{
+  "id": 21126,
+  "name": "Meows Like a Sailor | GEN 9",
+  "generation": 9,
+  "created_at": "2017-12-01T04:50:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Meows Like a Sailor | GEN 9. I'm a professional Aerobics Athlete  and I love apple pie. When no one's home, I invite my pals over and we listen to Rihanna. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19050@8",
+  "sire": "11180@7",
+  "children": [
+    "27370@10",
+    "58146@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 69,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

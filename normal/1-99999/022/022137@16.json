@@ -1,0 +1,19 @@
+{
+  "id": 22137,
+  "name": "Hulk",
+  "generation": 16,
+  "created_at": "2017-12-01T09:48:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Hulk. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19391@15",
+  "sire": "19947@13",
+  "children": [
+    "23883@17",
+    "28703@18",
+    "45840@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

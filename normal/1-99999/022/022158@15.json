@@ -1,0 +1,20 @@
+{
+  "id": 22158,
+  "name": "Harimau Malaya",
+  "generation": 15,
+  "created_at": "2017-12-01T09:58:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Harimau Malaya. I enjoy sweating through my feet, reading garfield, and riding dirty. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "19723@9",
+  "sire": "19767@14",
+  "children": [
+    "25637@16",
+    "26993@16",
+    "164666@22",
+    "204012@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

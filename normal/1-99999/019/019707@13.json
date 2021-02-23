@@ -1,0 +1,20 @@
+{
+  "id": 19707,
+  "name": "Creeper",
+  "generation": 13,
+  "created_at": "2017-11-30T23:03:29.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Creeper. I enjoy chasing red dots, reading garfield, and sweating through my feet. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Let's get busy!",
+  "language": "en",
+  "matron": "14504@12",
+  "sire": "16507@9",
+  "children": [
+    "24050@14",
+    "43762@16",
+    "50710@14",
+    "58315@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

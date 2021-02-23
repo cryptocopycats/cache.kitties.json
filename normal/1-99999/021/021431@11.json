@@ -1,0 +1,22 @@
+{
+  "id": 21431,
+  "name": "PLUMS",
+  "generation": 11,
+  "created_at": "2017-12-01T06:15:26.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's PLUMS. I once peed on Amelia Earhart's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3390@7",
+  "sire": "6721@10",
+  "children": [
+    "24381@15",
+    "29625@20",
+    "58599@21",
+    "82730@22",
+    "150025@15",
+    "167016@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

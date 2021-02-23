@@ -1,0 +1,20 @@
+{
+  "id": 22053,
+  "name": "Cat Elizabeth II",
+  "generation": 20,
+  "created_at": "2017-12-01T09:19:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Cat Elizabeth II. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of reading garfield, lasagna, and watching reality tv. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6302@15",
+  "sire": "18259@19",
+  "children": [
+    "29415@21",
+    "99994@21",
+    "177083@21",
+    "275134@21"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,23 @@
+{
+  "id": 21466,
+  "name": "Purrfection",
+  "generation": 15,
+  "created_at": "2017-12-01T06:26:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Purrfection. In high school, I was voted most likely to work at NASA. I once made a moose trot. Let's get busy!",
+  "language": "en",
+  "matron": "8237@14",
+  "sire": "7455@13",
+  "children": [
+    "22543@16",
+    "26845@18",
+    "38974@18",
+    "73720@16",
+    "139559@16",
+    "210740@18",
+    "314510@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22231,
+  "name": "Gen 6 & Snappy",
+  "generation": 6,
+  "created_at": "2017-12-01T10:09:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen 6 & Snappy. I want to live in a world where people believe the world is flat. I once made a platypus pester. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "20131@5",
+  "sire": "19028@5",
+  "children": [
+    "32385@8",
+    "33033@7",
+    "34107@7",
+    "35337@11",
+    "45846@10",
+    "90982@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

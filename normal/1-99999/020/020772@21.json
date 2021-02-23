@@ -1,0 +1,18 @@
+{
+  "id": 20772,
+  "name": "peach",
+  "generation": 21,
+  "created_at": "2017-12-01T03:25:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! peach here. I'm here to enjoy reciting poetry and riding dirty. It's not common knowledge, but my ancestry connects me to Confucius. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "20184@11",
+  "sire": "14027@20",
+  "children": [
+    "21812@22",
+    "74875@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

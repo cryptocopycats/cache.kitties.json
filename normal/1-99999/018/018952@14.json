@@ -1,0 +1,22 @@
+{
+  "id": 18952,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-30T20:37:46.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Kitty #18952. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "17472@13",
+  "sire": "15557@12",
+  "children": [
+    "20068@16",
+    "22461@17",
+    "26128@17",
+    "37370@20",
+    "84649@18",
+    "180282@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

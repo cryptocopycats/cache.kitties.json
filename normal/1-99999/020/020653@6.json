@@ -1,0 +1,21 @@
+{
+  "id": 20653,
+  "name": "The Cat That Rocks Cradle",
+  "generation": 6,
+  "created_at": "2017-12-01T02:51:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm The Cat That Rocks Cradle. I want to live in a world where people believe that one day cats will rule this planet. I once made a goose ignore. I look forward to staying woke with you.",
+  "language": "en",
+  "matron": "20266@5",
+  "sire": "15411@5",
+  "children": [
+    "20875@7",
+    "21019@17",
+    "25917@11",
+    "97349@13",
+    "97699@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

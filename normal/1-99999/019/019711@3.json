@@ -1,0 +1,19 @@
+{
+  "id": 19711,
+  "name": "Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T23:03:48.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Gen3. My friends describe me as voluptuous and brilliant. I'm often described as ridiculous, and I own it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "18717@2",
+  "sire": "19522@2",
+  "children": [
+    "19763@4",
+    "22268@4",
+    "25787@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

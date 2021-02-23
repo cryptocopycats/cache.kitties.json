@@ -1,0 +1,21 @@
+{
+  "id": 21567,
+  "name": "Gen5 Magician",
+  "generation": 5,
+  "created_at": "2017-12-01T06:53:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen5 Magician. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Let's get busy!",
+  "language": "en",
+  "matron": "12492@0",
+  "sire": "15678@4",
+  "children": [
+    "21593@11",
+    "21651@11",
+    "29826@6",
+    "36527@9",
+    "50787@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

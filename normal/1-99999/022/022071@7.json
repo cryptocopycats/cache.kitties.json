@@ -1,0 +1,20 @@
+{
+  "id": 22071,
+  "name": "Steve",
+  "generation": 7,
+  "created_at": "2017-12-01T09:25:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Steve. I'm a Aerobics Athlete  by day, and I like siring for status by night. I like to listen to Rihanna while grooming. Don't judge me. Our friendship will be wondrous, stinky, and full of wet food.",
+  "language": "en",
+  "matron": "19161@6",
+  "sire": "19730@6",
+  "children": [
+    "22881@16",
+    "25989@12",
+    "28310@9",
+    "44583@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

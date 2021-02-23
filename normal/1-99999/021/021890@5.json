@@ -1,0 +1,25 @@
+{
+  "id": 21890,
+  "name": "Cerulian parents+children 5",
+  "generation": 5,
+  "created_at": "2017-12-01T08:34:51.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Cerulian parents+children 5. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. When no one's home, I invite my pals over and we listen to Wutang. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "19763@4",
+  "sire": "19850@4",
+  "children": [
+    "26061@14",
+    "26104@11",
+    "26228@10",
+    "28810@6",
+    "29390@6",
+    "35560@6",
+    "45243@6",
+    "67104@6",
+    "69845@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

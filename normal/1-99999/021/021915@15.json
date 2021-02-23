@@ -1,0 +1,23 @@
+{
+  "id": 21915,
+  "name": "Fabulous",
+  "generation": 15,
+  "created_at": "2017-12-01T08:41:32.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Fabulous. I'm often referred to as the Homer Simpson of the group. Sometimes I daydream of a life full of reading garfield, chocolate, and running a podcast. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "9759@13",
+  "sire": "15547@14",
+  "children": [
+    "24101@16",
+    "26362@21",
+    "31268@21",
+    "61566@16",
+    "117783@16",
+    "131494@16",
+    "364621@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

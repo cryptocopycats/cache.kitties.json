@@ -1,0 +1,26 @@
+{
+  "id": 22843,
+  "name": "Cathy",
+  "generation": 3,
+  "created_at": "2017-12-01T13:33:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! Cathy here. I'm here to enjoy staying woke and glaring at the neighbour's cat. Sometimes I daydream of a life full of sitting on your computer, lasagna, and people-watching. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "16068@2",
+  "sire": "20617@2",
+  "children": [
+    "23079@4",
+    "23138@5",
+    "23354@5",
+    "24015@17",
+    "24413@11",
+    "25173@11",
+    "35096@19",
+    "43098@14",
+    "75820@4",
+    "116358@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

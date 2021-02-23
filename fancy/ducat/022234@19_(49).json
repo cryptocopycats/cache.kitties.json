@@ -1,0 +1,26 @@
+{
+  "id": 22234,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-01T10:09:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #22234. My friends describe me as petulant and prickly. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18013@14",
+  "sire": "15443@18",
+  "children": [
+    "27390@20",
+    "44851@20",
+    "54198@20",
+    "405058@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 49,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

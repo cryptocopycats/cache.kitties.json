@@ -1,0 +1,22 @@
+{
+  "id": 20688,
+  "name": "Gen3",
+  "generation": 3,
+  "created_at": "2017-12-01T03:09:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen3. My friends describe me as gorgeous and brilliant. I'm often described as voluptuous, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "20617@2",
+  "sire": "20662@2",
+  "children": [
+    "22781@4",
+    "22854@4",
+    "22946@4",
+    "26386@4",
+    "26992@4",
+    "27665@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

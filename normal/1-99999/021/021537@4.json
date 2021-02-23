@@ -1,0 +1,21 @@
+{
+  "id": 21537,
+  "name": "Grumples",
+  "generation": 4,
+  "created_at": "2017-12-01T06:45:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Grumples. I'm a Skydiving Instructor by day, and I like pole dancing by night. Sometimes I daydream of a life full of chasing red dots, cantaloupe, and watching reality tv. Let's get busy!",
+  "language": "en",
+  "matron": "21508@3",
+  "sire": "1238@0",
+  "children": [
+    "21644@5",
+    "25574@5",
+    "229752@5",
+    "274633@5",
+    "293944@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

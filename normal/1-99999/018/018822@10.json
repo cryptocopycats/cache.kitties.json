@@ -1,0 +1,21 @@
+{
+  "id": 18822,
+  "name": "10",
+  "generation": 10,
+  "created_at": "2017-11-30T20:09:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm 10. In high school, I was voted biggest teacher's pet. I once made a gecko kiss. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "16353@9",
+  "sire": "18345@9",
+  "children": [
+    "19796@13",
+    "25935@11",
+    "40624@12",
+    "101126@11",
+    "269480@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

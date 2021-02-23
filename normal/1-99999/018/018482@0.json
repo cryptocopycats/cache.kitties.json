@@ -1,0 +1,22 @@
+{
+  "id": 18482,
+  "name": "02 Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-30T19:09:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's 02 Gen 0. I once peed on King Henry VIII's cat. They had it coming. When I'm not mocking dogs, I'm people-watching! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "21845@1",
+    "21868@1",
+    "22024@1",
+    "26866@1",
+    "54330@1",
+    "60840@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

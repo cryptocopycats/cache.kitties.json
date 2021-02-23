@@ -1,0 +1,23 @@
+{
+  "id": 20370,
+  "name": "Happy old kitty",
+  "generation": 3,
+  "created_at": "2017-12-01T01:37:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Happy old kitty. I'm a professional Train Conductor and I love wet food. I would give it all up to star in a soap opera. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "3863@2",
+  "sire": "1238@0",
+  "children": [
+    "258942@4",
+    "259107@4",
+    "259344@4",
+    "260062@4",
+    "267628@4",
+    "293596@4",
+    "312613@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

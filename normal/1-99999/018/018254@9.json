@@ -1,0 +1,23 @@
+{
+  "id": 18254,
+  "name": "Gen 9 / White offspring",
+  "generation": 9,
+  "created_at": "2017-11-30T18:22:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! My name's Gen 9 / White offspring. I once peed on Marie Antoinette's cat. They had it coming. My secret indulgence is hamburgers. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "17649@8",
+  "sire": "18087@8",
+  "children": [
+    "18549@10",
+    "32113@19",
+    "33318@21",
+    "35923@10",
+    "60366@11",
+    "61669@10",
+    "101131@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

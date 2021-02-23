@@ -1,0 +1,22 @@
+{
+  "id": 22519,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-01T11:40:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #22519. I'm a Skydiving Instructor by day, and I like swiping left by night. I once made a dog sulk. Will you be the marmalade to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "6502@12",
+  "sire": "16368@11",
+  "children": [
+    "24101@16",
+    "27876@16",
+    "51141@16",
+    "85590@16",
+    "109768@16",
+    "159539@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

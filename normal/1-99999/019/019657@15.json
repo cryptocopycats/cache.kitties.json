@@ -1,0 +1,19 @@
+{
+  "id": 19657,
+  "name": "Chuck",
+  "generation": 15,
+  "created_at": "2017-11-30T22:53:58.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! Chuck here. I'm here to enjoy licking doorknobs and picking on mice. My great-great-great-great-great-great grandkitty lived with Mother Theresa. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7388@10",
+  "sire": "16419@14",
+  "children": [
+    "24333@16",
+    "68645@16",
+    "72975@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

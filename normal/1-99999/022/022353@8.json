@@ -1,0 +1,20 @@
+{
+  "id": 22353,
+  "name": "Gen8",
+  "generation": 8,
+  "created_at": "2017-12-01T10:45:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! My name's Gen8. I once peed on Confucius's cat. They had it coming. I like to listen to Rihanna while grooming. Don't judge me. Will you be the maple syrup to my marmite?",
+  "language": "en",
+  "matron": "19518@6",
+  "sire": "22295@7",
+  "children": [
+    "22558@18",
+    "24254@18",
+    "39718@11",
+    "63658@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

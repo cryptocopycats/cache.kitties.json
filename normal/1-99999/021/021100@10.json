@@ -1,0 +1,21 @@
+{
+  "id": 21100,
+  "name": "Wonderfurrl",
+  "generation": 10,
+  "created_at": "2017-12-01T04:43:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Wonderfurrl. My friends describe me as preposterous and smelly. I'm often described as hairy, and I own it. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "20926@9",
+  "sire": "19057@9",
+  "children": [
+    "24537@11",
+    "24712@18",
+    "72075@15",
+    "72970@19",
+    "90859@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

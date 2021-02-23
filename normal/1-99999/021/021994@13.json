@@ -1,0 +1,19 @@
+{
+  "id": 21994,
+  "name": "Mihuil",
+  "generation": 13,
+  "created_at": "2017-12-01T09:06:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Mihuil. I've never told anyone this, but I once cleaned a dog. My friends describe me as \"smelly.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "21564@3",
+  "sire": "17497@12",
+  "children": [
+    "22411@14",
+    "31950@14",
+    "56363@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

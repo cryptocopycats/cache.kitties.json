@@ -1,0 +1,20 @@
+{
+  "id": 20505,
+  "name": "Kit McKot",
+  "generation": 17,
+  "created_at": "2017-12-01T02:12:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kit McKot. In high school, I was voted biggest teacher's pet. My secret indulgence is apple pie. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "18375@16",
+  "sire": "5184@11",
+  "children": [
+    "27365@18",
+    "41647@18",
+    "108609@18",
+    "234183@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18002,
+  "name": "Scientist",
+  "generation": 8,
+  "created_at": "2017-11-30T17:12:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Scientist. I'm a Mad Scientist by day, and I like siring for status by night. When I'm not swiping right, I'm riverdancing! Let's get busy!",
+  "language": "en",
+  "matron": "17538@7",
+  "sire": "17777@7",
+  "children": [
+    "18188@9",
+    "42774@9",
+    "44642@9",
+    "46031@9",
+    "56500@14",
+    "304487@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

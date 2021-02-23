@@ -1,0 +1,21 @@
+{
+  "id": 18032,
+  "name": "Sir Calico",
+  "generation": 11,
+  "created_at": "2017-11-30T17:17:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Sir Calico. I'm a Skydiving Instructor by day, and I like playing chess by night. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "language": "en",
+  "matron": "17696@10",
+  "sire": "16460@4",
+  "children": [
+    "19314@17",
+    "23640@17",
+    "26407@17",
+    "26703@20",
+    "45665@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

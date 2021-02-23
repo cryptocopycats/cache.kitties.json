@@ -1,0 +1,23 @@
+{
+  "id": 19000,
+  "name": "G8 | 19000 | Slow",
+  "generation": 8,
+  "created_at": "2017-11-30T20:50:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm G8 | 19000 | Slow. I've never told anyone this, but I once bit a dog. When no one's home, I invite my pals over and we listen to Gloria Estefan. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "18817@7",
+  "sire": "18342@6",
+  "children": [
+    "19661@9",
+    "22168@16",
+    "22855@15",
+    "24346@9",
+    "25128@14",
+    "37012@13",
+    "59429@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20078,
+  "name": "Gen 3 Salmon pouty",
+  "generation": 3,
+  "created_at": "2017-12-01T00:29:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 3 Salmon pouty. I enjoy shakin' dat booty, reading garfield, and riding dirty. I was voted biggest teacher's pet in college. Our friendship will be brilliant, stinky, and full of steak.",
+  "language": "en",
+  "matron": "7091@1",
+  "sire": "12695@2",
+  "children": [
+    "20107@4",
+    "20153@5",
+    "33097@4",
+    "33452@4",
+    "35878@5",
+    "38200@5",
+    "55299@4",
+    "74397@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

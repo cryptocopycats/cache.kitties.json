@@ -1,0 +1,23 @@
+{
+  "id": 22291,
+  "name": "Gen4",
+  "generation": 4,
+  "created_at": "2017-12-01T10:32:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen4. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "16791@3",
+  "sire": "19603@3",
+  "children": [
+    "22559@6",
+    "22704@5",
+    "23603@5",
+    "24081@5",
+    "24751@5",
+    "25800@5",
+    "28900@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

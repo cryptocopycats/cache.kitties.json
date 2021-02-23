@@ -1,0 +1,29 @@
+{
+  "id": 20862,
+  "name": "FastBreedz - Gen 1",
+  "generation": 1,
+  "created_at": "2017-12-01T03:54:00.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm FastBreedz - Gen 1. I'm often referred to as the Hermione Granger of the group. When I'm not people-watching, I'm prank-calling celebrities! Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "2409@0",
+  "sire": "12688@0",
+  "children": [
+    "21148@2",
+    "26015@2",
+    "26065@2",
+    "26115@2",
+    "26290@2",
+    "26618@2",
+    "27238@2",
+    "30185@2",
+    "34953@2",
+    "45776@2",
+    "71859@2",
+    "148581@2",
+    "653834@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

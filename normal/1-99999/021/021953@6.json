@@ -1,0 +1,23 @@
+{
+  "id": 21953,
+  "name": "Snappy",
+  "generation": 6,
+  "created_at": "2017-12-01T08:52:37.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! My name's Snappy. I once peed on Confucius's cat. They had it coming. I'm often described as stinky, and I own it. Our friendship will be preposterous, despicable, and full of hamburgers.",
+  "language": "en",
+  "matron": "19786@5",
+  "sire": "20210@5",
+  "children": [
+    "22109@17",
+    "22349@21",
+    "23052@7",
+    "23105@7",
+    "63635@14",
+    "76577@18",
+    "89273@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

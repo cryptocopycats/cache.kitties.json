@@ -1,0 +1,24 @@
+{
+  "id": 18207,
+  "name": "Paul Gen6/G6/Snappy",
+  "generation": 6,
+  "created_at": "2017-11-30T18:02:45.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Paul Gen6/G6/Snappy. I've never told anyone this, but I once pawed at a dog. I was voted school jock in college. Let's pawty!",
+  "language": "en",
+  "matron": "17652@5",
+  "sire": "17631@4",
+  "children": [
+    "18278@7",
+    "36908@7",
+    "37754@7",
+    "41360@9",
+    "47353@9",
+    "62358@15",
+    "67513@10",
+    "100246@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

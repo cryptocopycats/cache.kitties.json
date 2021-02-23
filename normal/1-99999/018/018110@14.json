@@ -1,0 +1,21 @@
+{
+  "id": 18110,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-30T17:39:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #18110. I'm often referred to as the Chandler Bing of the group. It's not common knowledge, but my ancestry connects me to Confucius. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "15925@12",
+  "sire": "16562@13",
+  "children": [
+    "19205@15",
+    "20273@15",
+    "24973@16",
+    "28473@16",
+    "92621@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

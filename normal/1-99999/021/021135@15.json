@@ -1,0 +1,20 @@
+{
+  "id": 21135,
+  "name": "Rick",
+  "generation": 15,
+  "created_at": "2017-12-01T04:51:59.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! Rick here. I'm here to enjoy spinning sick beats and picking flowers. Some people say I'm the Samwise Gamgee of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "15399@14",
+  "sire": "18683@1",
+  "children": [
+    "23678@16",
+    "154728@16",
+    "259442@23",
+    "308856@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

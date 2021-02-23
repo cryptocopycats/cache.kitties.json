@@ -1,0 +1,20 @@
+{
+  "id": 19140,
+  "name": "Meowme Lannister",
+  "generation": 17,
+  "created_at": "2017-11-30T21:21:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Meowme Lannister. I want to live in a world where people believe the world is flat. I'm often described as fabulous, and I own it. Will you be the ranch dressing to my marmite?",
+  "language": "en",
+  "matron": "13522@16",
+  "sire": "12412@14",
+  "children": [
+    "23026@18",
+    "25054@18",
+    "37619@20",
+    "81656@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

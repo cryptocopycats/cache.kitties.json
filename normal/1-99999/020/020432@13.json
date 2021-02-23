@@ -1,0 +1,23 @@
+{
+  "id": 20432,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-01T01:53:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #20432. I want to live in a world where people believe that one day cats will rule this planet. When I'm not volunteering at the local kitten rescue shelter, I'm riding the bus! Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "9152@12",
+  "sire": "5229@12",
+  "children": [
+    "70622@14",
+    "85644@16",
+    "102508@17",
+    "181953@17",
+    "274867@14",
+    "312278@14",
+    "1914116@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

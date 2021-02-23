@@ -1,0 +1,19 @@
+{
+  "id": 22167,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T09:58:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #22167. I enjoy tricking babies, glaring at the neighbour's cat, and taking selfies. My secret indulgence is chocolate. I look forward to breakdancing with you.",
+  "language": "en",
+  "matron": "19553@16",
+  "sire": "18505@12",
+  "children": [
+    "23062@18",
+    "24659@18",
+    "42431@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

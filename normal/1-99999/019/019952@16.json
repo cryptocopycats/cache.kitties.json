@@ -1,0 +1,20 @@
+{
+  "id": 19952,
+  "name": "Creacionist Cat",
+  "generation": 16,
+  "created_at": "2017-12-01T00:04:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Creacionist Cat. I want to live in a world where people believe the world is flat. I once dreamed of being a Dogwalker. Now I can be found watching reality tv all day. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "18640@9",
+  "sire": "12155@15",
+  "children": [
+    "20554@17",
+    "27680@17",
+    "42394@18",
+    "116090@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

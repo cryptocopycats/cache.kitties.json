@@ -1,0 +1,24 @@
+{
+  "id": 21245,
+  "name": "Gen 4 | Emeraldgreen | rare",
+  "generation": 4,
+  "created_at": "2017-12-01T05:23:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 4 | Emeraldgreen | rare. All you need to know about me is I hate hamburgers with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be hairy, stinky, and full of ice cream.",
+  "language": "en",
+  "matron": "19139@3",
+  "sire": "21222@3",
+  "children": [
+    "21489@5",
+    "22833@17",
+    "24236@5",
+    "41983@5",
+    "48897@5",
+    "54484@5",
+    "76035@5",
+    "136976@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

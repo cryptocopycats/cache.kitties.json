@@ -1,0 +1,24 @@
+{
+  "id": 17839,
+  "name": "Salvador Dali",
+  "generation": 9,
+  "created_at": "2017-11-30T16:25:14.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Salvador Dali. I once peed on King Henry VIII's cat. They had it coming. Sometimes I daydream of a life full of slappin' da bass, steak, and playing chess. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "17475@8",
+  "sire": "17414@8",
+  "children": [
+    "18057@10",
+    "18164@10",
+    "18855@10",
+    "20407@10",
+    "30413@12",
+    "45391@13",
+    "75896@15",
+    "105932@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

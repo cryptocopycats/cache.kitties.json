@@ -1,0 +1,18 @@
+{
+  "id": 20823,
+  "name": "Skyblue Marge",
+  "generation": 13,
+  "created_at": "2017-12-01T03:38:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Skyblue Marge. I'm often referred to as the Marge Simpson of the group. I put pickles on everything. Like, everything: hot dogs, chocolate—everything! Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "7834@12",
+  "sire": "7562@12",
+  "children": [
+    "22069@14",
+    "26077@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

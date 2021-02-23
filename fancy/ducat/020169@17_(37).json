@@ -1,0 +1,26 @@
+{
+  "id": 20169,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T00:53:53.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #20169. I'm often referred to as the Jon Snow of the group. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19389@6",
+  "sire": "19665@16",
+  "children": [
+    "23577@23",
+    "28457@18",
+    "41568@18",
+    "65453@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 37,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

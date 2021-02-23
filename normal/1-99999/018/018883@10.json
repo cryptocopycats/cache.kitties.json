@@ -1,0 +1,18 @@
+{
+  "id": 18883,
+  "name": "Dumble",
+  "generation": 10,
+  "created_at": "2017-11-30T20:18:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Dumble. I enjoy fighting the patriarchy, reciting poetry, and chasing string. I'm often described as preposterous, and I own it. Our friendship will be wondrous, fabulous, and full of ice cream.",
+  "language": "en",
+  "matron": "18625@9",
+  "sire": "18627@8",
+  "children": [
+    "342951@11",
+    "344865@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

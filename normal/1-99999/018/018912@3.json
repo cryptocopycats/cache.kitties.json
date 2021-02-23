@@ -1,0 +1,19 @@
+{
+  "id": 18912,
+  "name": "Muffin | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T20:23:50.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Muffin | Gen3. I'm a Mad Scientist by day, and I like jump-roping by night. I once got in a fight with a goose, and won. I like your face.",
+  "language": "en",
+  "matron": "18539@2",
+  "sire": "18717@2",
+  "children": [
+    "18973@4",
+    "19185@4",
+    "25643@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

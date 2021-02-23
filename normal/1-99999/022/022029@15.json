@@ -1,0 +1,21 @@
+{
+  "id": 22029,
+  "name": "G15",
+  "generation": 15,
+  "created_at": "2017-12-01T09:17:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm G15. I've never told anyone this, but I once clawed a dog. I am 46% hobbit, 52% Mad Scientist, and otherwise bad at math. Our friendship will be tantalizing, smelly, and full of ice cream.",
+  "language": "en",
+  "matron": "19308@14",
+  "sire": "19372@14",
+  "children": [
+    "23683@17",
+    "25132@16",
+    "38739@16",
+    "79939@16",
+    "134201@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

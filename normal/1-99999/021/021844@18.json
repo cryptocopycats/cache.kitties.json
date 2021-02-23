@@ -1,0 +1,21 @@
+{
+  "id": 21844,
+  "name": "Fellini",
+  "generation": 18,
+  "created_at": "2017-12-01T08:21:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Fellini. I believe the world is flat. I once dreamed of being a Foreign Film Director. Now I can be found jump-roping all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "21598@10",
+  "sire": "20552@17",
+  "children": [
+    "25332@19",
+    "35807@19",
+    "49250@19",
+    "245105@19",
+    "446783@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

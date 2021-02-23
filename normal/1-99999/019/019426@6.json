@@ -1,0 +1,24 @@
+{
+  "id": 19426,
+  "name": "Brisk | Gen 6",
+  "generation": 6,
+  "created_at": "2017-11-30T22:06:28.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Brisk | Gen 6. I'm a professional Dogwalker and I love ice cream. In my free time, I can usually be found petulant or playing chess. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18937@3",
+  "sire": "18951@5",
+  "children": [
+    "21177@11",
+    "31649@14",
+    "36817@24",
+    "40708@11",
+    "45727@10",
+    "62509@10",
+    "82199@7",
+    "106849@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

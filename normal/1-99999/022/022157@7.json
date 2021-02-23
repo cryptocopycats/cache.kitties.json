@@ -1,0 +1,21 @@
+{
+  "id": 22157,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-01T09:52:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #22157. My friends describe me as annoying and smelly. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "17949@6",
+  "sire": "17908@5",
+  "children": [
+    "23974@18",
+    "24700@12",
+    "24728@8",
+    "26673@17",
+    "27191@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

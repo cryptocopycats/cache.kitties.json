@@ -1,0 +1,23 @@
+{
+  "id": 19270,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-30T21:40:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #19270. I'm often referred to as the Bart Simpson of the group. I like to listen to Beyoncé while grooming. Don't judge me. Our friendship will be despicable, vegan, and full of salad.",
+  "language": "en",
+  "matron": "18476@2",
+  "sire": "19011@4",
+  "children": [
+    "19383@20",
+    "19519@21",
+    "22744@7",
+    "25126@21",
+    "36361@21",
+    "45694@21",
+    "60065@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17972,
+  "name": "Hephaestus",
+  "generation": 13,
+  "created_at": "2017-11-30T17:06:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Hephaestus. I'm a Aerobics Athlete  by day, and I like playing chess by night. When I'm not watching reality tv, I'm mocking dogs! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "15605@8",
+  "sire": "15606@12",
+  "children": [
+    "18957@14",
+    "19771@14",
+    "25047@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

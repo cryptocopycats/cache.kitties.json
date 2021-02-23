@@ -1,0 +1,18 @@
+{
+  "id": 18999,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-11-30T20:50:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #18999. All you need to know about me is I hate wet food with a passion. I'm convinced that the world is flat. One day I'll prove it. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "18612@3",
+  "sire": "18832@21",
+  "children": [
+    "31515@23",
+    "119346@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

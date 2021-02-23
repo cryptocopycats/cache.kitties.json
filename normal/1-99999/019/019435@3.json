@@ -1,0 +1,20 @@
+{
+  "id": 19435,
+  "name": "Cleo | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T22:09:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Cleo | Gen3. I'm a Aerobics Athlete  by day, and I like siring for status by night. I'm often described as smelly, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19332@2",
+  "sire": "18583@2",
+  "children": [
+    "19521@4",
+    "19677@4",
+    "23580@4",
+    "23981@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 17678,
+  "name": "Mousse 🐱 duck",
+  "generation": 8,
+  "created_at": "2017-11-30T15:47:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Mousse 🐱 duck. All you need to know about me is I hate wet food with a passion. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "17174@6",
+  "sire": "17428@7",
+  "children": [
+    "17771@9",
+    "18113@9",
+    "18655@9",
+    "19816@9",
+    "23015@9",
+    "26770@9",
+    "84348@9",
+    "100299@9",
+    "219213@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 15,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21294,
+  "name": "Pizza",
+  "generation": 15,
+  "created_at": "2017-12-01T05:37:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Pizza. I enjoy slappin' da bass, staying woke, and eating lasagna. I once got in a fight with a rabbit, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "18021@14",
+  "sire": "18479@14",
+  "children": [
+    "31739@16",
+    "36598@19",
+    "92284@16",
+    "426028@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

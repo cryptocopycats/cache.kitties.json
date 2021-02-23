@@ -1,0 +1,19 @@
+{
+  "id": 21629,
+  "name": "Spots",
+  "generation": 14,
+  "created_at": "2017-12-01T07:14:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Spots. I'm often referred to as the Ross Geller of the group. I like to listen to Michael Bolton while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "20748@13",
+  "sire": "20164@12",
+  "children": [
+    "25577@15",
+    "32446@15",
+    "369674@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20342,
+  "name": "Lemon Cakes",
+  "generation": 18,
+  "created_at": "2017-12-01T01:34:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Lemon Cakes. I've never told anyone this, but I once frolicked with a dog. My secret indulgence is chocolate. Let's get busy!",
+  "language": "en",
+  "matron": "18168@17",
+  "sire": "13821@15",
+  "children": [
+    "23686@19",
+    "32775@19",
+    "74338@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

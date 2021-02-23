@@ -1,0 +1,20 @@
+{
+  "id": 18383,
+  "name": "Heathcliff The Great",
+  "generation": 15,
+  "created_at": "2017-11-30T18:51:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Heathcliff The Great. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as seductive, and I own it. Will you be the marmalade to my maple syrup?",
+  "language": "en",
+  "matron": "9626@1",
+  "sire": "18210@14",
+  "children": [
+    "19590@16",
+    "23565@16",
+    "106106@17",
+    "135174@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

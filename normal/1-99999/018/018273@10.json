@@ -1,0 +1,22 @@
+{
+  "id": 18273,
+  "name": "Crimson stripy 10",
+  "generation": 10,
+  "created_at": "2017-11-30T18:28:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Crimson stripy 10. I've never told anyone this, but I once tricked a dog. I'm often described as petulant, and I own it. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "18230@6",
+  "sire": "14244@9",
+  "children": [
+    "18641@11",
+    "19765@13",
+    "35012@12",
+    "45676@11",
+    "65534@11",
+    "197787@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

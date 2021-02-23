@@ -1,0 +1,22 @@
+{
+  "id": 17614,
+  "name": "Orangesoda Sizzurp",
+  "generation": 13,
+  "created_at": "2017-11-30T15:43:27.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Orangesoda Sizzurp. I'm often referred to as the Marge Simpson of the group. It's not common knowledge, but my ancestry connects me to Princess Diana. Our friendship will be despicable, gullible, and full of steak.",
+  "language": "en",
+  "matron": "16142@12",
+  "sire": "16374@10",
+  "children": [
+    "18484@14",
+    "20064@14",
+    "22257@14",
+    "56740@14",
+    "71822@14",
+    "201456@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

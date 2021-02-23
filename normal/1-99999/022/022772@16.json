@@ -1,0 +1,19 @@
+{
+  "id": 22772,
+  "name": "Poppy",
+  "generation": 16,
+  "created_at": "2017-12-01T13:10:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Poppy. All you need to know about me is I hate salad with a passion. I like to listen to Wutang while grooming. Don't judge me. Will you be the peanut butter to my garlic butter?",
+  "language": "en",
+  "matron": "17887@6",
+  "sire": "22357@15",
+  "children": [
+    "54864@17",
+    "80214@17",
+    "229239@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

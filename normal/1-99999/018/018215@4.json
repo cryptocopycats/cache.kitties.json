@@ -1,0 +1,22 @@
+{
+  "id": 18215,
+  "name": "Gen 4 | SNappy",
+  "generation": 4,
+  "created_at": "2017-11-30T18:03:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Gen 4 | SNappy here. I'm here to enjoy riding unicorns and fighting for the people. I was voted school jock in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16572@3",
+  "sire": "18096@2",
+  "children": [
+    "39097@5",
+    "45757@5",
+    "48937@5",
+    "54582@5",
+    "57919@5",
+    "63763@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

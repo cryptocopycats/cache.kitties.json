@@ -1,0 +1,19 @@
+{
+  "id": 21542,
+  "name": "Gen8 Brisk",
+  "generation": 8,
+  "created_at": "2017-12-01T06:45:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Gen8 Brisk. I once peed on Nelson Mandela's cat. They had it coming. I would give it all up to be on Oprah. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "3720@7",
+  "sire": "3321@3",
+  "children": [
+    "51527@16",
+    "82967@20",
+    "960016@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

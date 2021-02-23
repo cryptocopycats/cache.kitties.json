@@ -1,0 +1,19 @@
+{
+  "id": 18489,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-30T19:11:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's Kitty #18489. I once peed on Confucius's cat. They had it coming. I'm often described as despicable, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17457@0",
+  "sire": "18412@2",
+  "children": [
+    "18515@4",
+    "19087@5",
+    "25618@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

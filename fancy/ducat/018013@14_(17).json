@@ -1,0 +1,27 @@
+{
+  "id": 18013,
+  "name": "Mwarm",
+  "generation": 14,
+  "created_at": "2017-11-30T17:13:47.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Mwarm. I'm a professional Dispensary Clerk and I love apple pie. I like to listen to Coldplay while grooming. Don't judge me. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "15674@6",
+  "sire": "7894@13",
+  "children": [
+    "22234@19",
+    "26337@15",
+    "36109@15",
+    "157040@19",
+    "467431@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 17,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

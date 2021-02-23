@@ -1,0 +1,19 @@
+{
+  "id": 20162,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-01T00:52:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #20162. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of tricking babies, cereal, and volunteering at the local kitten rescue shelter. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "18052@17",
+  "sire": "18055@17",
+  "children": [
+    "21859@19",
+    "30186@20",
+    "61084@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

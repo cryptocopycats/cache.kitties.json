@@ -1,0 +1,22 @@
+{
+  "id": 20568,
+  "name": "Fancy Bird Parent",
+  "generation": 15,
+  "created_at": "2017-12-01T02:30:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Fancy Bird Parent. I want to live in a world where people believe the world is flat. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17566@14",
+  "sire": "18442@14",
+  "children": [
+    "27978@16",
+    "29438@16",
+    "35272@16",
+    "60459@16",
+    "115966@16",
+    "144428@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

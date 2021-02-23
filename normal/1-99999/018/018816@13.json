@@ -1,0 +1,23 @@
+{
+  "id": 18816,
+  "name": "Mr. Grey",
+  "generation": 13,
+  "created_at": "2017-11-30T20:09:59.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Mr. Grey. My friends describe me as stinky and seductive. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "17549@12",
+  "sire": "17062@11",
+  "children": [
+    "19425@14",
+    "20451@17",
+    "22164@14",
+    "29921@20",
+    "64351@14",
+    "115392@19",
+    "241444@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

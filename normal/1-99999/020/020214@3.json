@@ -1,0 +1,22 @@
+{
+  "id": 20214,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-01T01:04:35.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #20214. In high school, I was voted school jock. I like to listen to Metallica while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14397@2",
+  "sire": "13599@2",
+  "children": [
+    "110043@4",
+    "110343@4",
+    "114463@4",
+    "118175@4",
+    "135757@4",
+    "140367@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

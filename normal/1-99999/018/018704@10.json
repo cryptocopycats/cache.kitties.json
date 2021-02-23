@@ -1,0 +1,19 @@
+{
+  "id": 18704,
+  "name": "Harriet",
+  "generation": 10,
+  "created_at": "2017-11-30T19:51:32.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Harriet. I'm often referred to as the Hermione Granger of the group. I would give it all up to be on Oprah. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "6075@1",
+  "sire": "4729@9",
+  "children": [
+    "20731@14",
+    "21319@16",
+    "31232@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

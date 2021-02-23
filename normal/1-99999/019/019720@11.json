@@ -1,0 +1,19 @@
+{
+  "id": 19720,
+  "name": "chz",
+  "generation": 11,
+  "created_at": "2017-11-30T23:05:12.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm chz. I'm often referred to as the Michael Scott of the group. It's not common knowledge, but my ancestry connects me to Cleopatra. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "18598@10",
+  "sire": "17720@8",
+  "children": [
+    "68569@12",
+    "75866@12",
+    "141501@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

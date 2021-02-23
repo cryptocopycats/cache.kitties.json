@@ -1,0 +1,19 @@
+{
+  "id": 20168,
+  "name": "Hobbert",
+  "generation": 18,
+  "created_at": "2017-12-01T00:53:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Hobbert. All you need to know about me is I hate chocolate with a passion. My friends describe me as \"gorgeous.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "15342@13",
+  "sire": "12534@17",
+  "children": [
+    "23395@19",
+    "26044@19",
+    "68566@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

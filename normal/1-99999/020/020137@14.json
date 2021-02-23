@@ -1,0 +1,21 @@
+{
+  "id": 20137,
+  "name": "Happy",
+  "generation": 14,
+  "created_at": "2017-12-01T00:49:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Happy. In high school, I was voted biggest teacher's pet. I'm often described as fabulous, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15972@12",
+  "sire": "17983@13",
+  "children": [
+    "22458@15",
+    "27383@15",
+    "45680@15",
+    "482025@15",
+    "498192@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 22133,
+  "name": "RARE",
+  "generation": 18,
+  "created_at": "2017-12-01T09:42:47.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm RARE. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a labradoodle, and won. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "20452@17",
+  "sire": "20451@17",
+  "children": [
+    "29523@19",
+    "45839@19",
+    "96168@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

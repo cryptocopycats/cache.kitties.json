@@ -1,0 +1,20 @@
+{
+  "id": 19730,
+  "name": "Gen6 & brisk +chartreux",
+  "generation": 6,
+  "created_at": "2017-11-30T23:10:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Gen6 & brisk +chartreux. I'm a Ventriloquist by day, and I like mocking dogs by night. Some people say I'm the Bart Simpson of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "19351@5",
+  "sire": "19601@5",
+  "children": [
+    "20264@7",
+    "22071@7",
+    "29450@7",
+    "32903@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

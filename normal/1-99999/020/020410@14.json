@@ -1,0 +1,21 @@
+{
+  "id": 20410,
+  "name": "Fabu",
+  "generation": 14,
+  "created_at": "2017-12-01T01:50:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Fabu. I've never told anyone this, but I once groomed a dog. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, wet food—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11271@13",
+  "sire": "15330@8",
+  "children": [
+    "35725@18",
+    "49860@15",
+    "62115@15",
+    "97914@15",
+    "167681@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

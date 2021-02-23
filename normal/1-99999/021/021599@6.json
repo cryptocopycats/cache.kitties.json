@@ -1,0 +1,24 @@
+{
+  "id": 21599,
+  "name": "G6",
+  "generation": 6,
+  "created_at": "2017-12-01T07:05:54.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm G6. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"seductive.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "21133@5",
+  "sire": "18352@5",
+  "children": [
+    "22899@7",
+    "23318@20",
+    "29537@12",
+    "30441@13",
+    "32362@14",
+    "157697@7",
+    "180193@7",
+    "503272@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

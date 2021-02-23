@@ -1,0 +1,17 @@
+{
+  "id": 20347,
+  "name": "Arcanin",
+  "generation": 15,
+  "created_at": "2017-12-01T01:35:01.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Arcanin. I'm a Ventriloquist by day, and I like watching reality tv by night. Sometimes I daydream of a life full of picking flowers, ice cream, and tricking babies. Let's get busy!",
+  "language": "en",
+  "matron": "17585@11",
+  "sire": "9593@14",
+  "children": [
+    "30340@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

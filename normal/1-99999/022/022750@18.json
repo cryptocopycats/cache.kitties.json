@@ -1,0 +1,20 @@
+{
+  "id": 22750,
+  "name": "Gen 18 | Fuzzinator",
+  "generation": 18,
+  "created_at": "2017-12-01T13:03:42.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Gen 18 | Fuzzinator. I'm often referred to as the Frodo Baggins of the group. I once got in a fight with a platypus, and won. Let's pawty!",
+  "language": "en",
+  "matron": "19607@17",
+  "sire": "19608@16",
+  "children": [
+    "26777@20",
+    "27134@19",
+    "80348@20",
+    "177614@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

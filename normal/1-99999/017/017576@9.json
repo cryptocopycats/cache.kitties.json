@@ -1,0 +1,21 @@
+{
+  "id": 17576,
+  "name": "Fatal Fields",
+  "generation": 9,
+  "created_at": "2017-11-30T15:12:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Fatal Fields. My friends describe me as gullible and vegan. I am 86% hobbit, 19% Dogwalker, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "16615@8",
+  "sire": "17327@8",
+  "children": [
+    "30769@13",
+    "31972@13",
+    "33021@10",
+    "36331@10",
+    "83703@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

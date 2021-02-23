@@ -1,0 +1,20 @@
+{
+  "id": 21881,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T08:32:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #21881. I'm a professional Spin Instructor  and I love wet food. Some people say I'm the Ron Weasley of the group. I like your face.",
+  "language": "en",
+  "matron": "13898@16",
+  "sire": "15515@16",
+  "children": [
+    "55603@18",
+    "207872@18",
+    "233812@18",
+    "307387@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

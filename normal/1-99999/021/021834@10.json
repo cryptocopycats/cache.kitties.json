@@ -1,0 +1,20 @@
+{
+  "id": 21834,
+  "name": "RARE Salmon & Chestnut gen 10",
+  "generation": 10,
+  "created_at": "2017-12-01T08:16:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm RARE Salmon & Chestnut gen 10. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found preposterous or riverdancing. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "11870@9",
+  "sire": "16100@4",
+  "children": [
+    "22320@14",
+    "68127@13",
+    "144631@11",
+    "224868@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

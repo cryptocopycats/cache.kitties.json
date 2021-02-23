@@ -1,0 +1,23 @@
+{
+  "id": 20223,
+  "name": "Rare Dali",
+  "generation": 12,
+  "created_at": "2017-12-01T01:05:27.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Rare Dali. I believe that one day cats will rule this planet. I once got in a fight with a rooster, and won. Let's pawty!",
+  "language": "en",
+  "matron": "5609@11",
+  "sire": "3689@9",
+  "children": [
+    "34679@13",
+    "43728@15",
+    "71704@13",
+    "90353@13",
+    "99331@13",
+    "138041@13",
+    "1424070@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

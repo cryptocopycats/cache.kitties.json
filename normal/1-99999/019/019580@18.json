@@ -1,0 +1,19 @@
+{
+  "id": 19580,
+  "name": "Scratch",
+  "generation": 18,
+  "created_at": "2017-11-30T22:36:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Scratch. I believe that one day cats will rule this planet. I once made a dog kiss. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "17142@11",
+  "sire": "7955@17",
+  "children": [
+    "26723@20",
+    "72970@19",
+    "122610@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

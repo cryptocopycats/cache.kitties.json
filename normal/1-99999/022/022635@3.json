@@ -1,0 +1,26 @@
+{
+  "id": 22635,
+  "name": "Cat 4",
+  "generation": 3,
+  "created_at": "2017-12-01T12:24:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Cat 4. I'm often referred to as the Michael Scott of the group. I once dreamed of being a Skydiving Instructor. Now I can be found running a podcast all day. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "22407@2",
+  "sire": "22528@2",
+  "children": [
+    "22671@4",
+    "34093@4",
+    "34200@4",
+    "34484@4",
+    "35500@4",
+    "36597@4",
+    "40029@4",
+    "48946@6",
+    "68410@8",
+    "113515@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

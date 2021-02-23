@@ -1,0 +1,23 @@
+{
+  "id": 21374,
+  "name": "Cool AF - Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-01T06:00:25.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Cool AF - Gen 8. I'm often referred to as the Peter Griffin of the group. My secret indulgence is lasagna. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "20558@1",
+  "sire": "19617@7",
+  "children": [
+    "35894@9",
+    "39714@12",
+    "55683@9",
+    "56412@12",
+    "177450@10",
+    "319099@10",
+    "349786@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 17736,
+  "name": "Squirrel",
+  "generation": 13,
+  "created_at": "2017-11-30T16:09:53.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Squirrel. I've never told anyone this, but I once pranced with a dog. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Let's get busy!",
+  "language": "en",
+  "matron": "12137@12",
+  "sire": "12291@12",
+  "children": [
+    "52945@14",
+    "63453@14",
+    "63762@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

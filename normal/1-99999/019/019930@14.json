@@ -1,0 +1,21 @@
+{
+  "id": 19930,
+  "name": "Old Papa Cat",
+  "generation": 14,
+  "created_at": "2017-11-30T23:58:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Old Papa Cat. I enjoy spinning sick beats, staying woke, and tripping my owner. I once frolicked with a rhino. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "18576@13",
+  "sire": "5979@12",
+  "children": [
+    "21037@15",
+    "25351@15",
+    "29747@15",
+    "44734@15",
+    "106350@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

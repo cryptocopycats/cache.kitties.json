@@ -1,0 +1,22 @@
+{
+  "id": 18164,
+  "name": "Baal",
+  "generation": 10,
+  "created_at": "2017-11-30T17:52:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Baal. I enjoy riding dirty, breakdancing, and picking flowers. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17455@9",
+  "sire": "17839@9",
+  "children": [
+    "18594@11",
+    "32024@11",
+    "34215@11",
+    "39351@11",
+    "61793@12",
+    "92620@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

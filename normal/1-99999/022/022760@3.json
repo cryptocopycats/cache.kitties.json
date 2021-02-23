@@ -1,0 +1,19 @@
+{
+  "id": 22760,
+  "name": "Scribe G3",
+  "generation": 3,
+  "created_at": "2017-12-01T13:07:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Scribe G3. My friends describe me as wondrous and ridiculous. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "16068@2",
+  "sire": "22483@2",
+  "children": [
+    "22781@4",
+    "22854@4",
+    "22946@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

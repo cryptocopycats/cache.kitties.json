@@ -1,0 +1,22 @@
+{
+  "id": 18833,
+  "name": "Sadie | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T20:11:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Sadie | Gen4. I'm a professional Dogwalker and I love chocolate. I once made a moose jump. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "18642@3",
+  "sire": "18771@3",
+  "children": [
+    "18881@5",
+    "18941@5",
+    "19702@5",
+    "22010@5",
+    "22482@5",
+    "25901@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18432,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-30T18:59:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #18432. I'm often referred to as the Steve Urkel of the group. When I'm not volunteering at the local kitten rescue shelter, I'm reading Danielle Steele! I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "17907@13",
+  "sire": "14549@16",
+  "children": [
+    "23362@18",
+    "86418@20",
+    "113259@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 22433,
+  "name": "Aquaman G7",
+  "generation": 7,
+  "created_at": "2017-12-01T11:17:58.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! My name's Aquaman G7. I once peed on Cleopatra's cat. They had it coming. I would give it all up to star in a soap opera. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "21659@6",
+  "sire": "21325@6",
+  "children": [
+    "31226@8",
+    "33659@8",
+    "34618@10",
+    "35934@8",
+    "41884@8",
+    "49769@18",
+    "87018@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

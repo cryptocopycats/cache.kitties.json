@@ -1,0 +1,25 @@
+{
+  "id": 22600,
+  "name": "Gen 3 Swift Mustard",
+  "generation": 3,
+  "created_at": "2017-12-01T12:09:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 3 Swift Mustard. I'm a professional Foreign Film Director and I love lasagna. My secret indulgence is hamburgers. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "21009@2",
+  "sire": "21255@2",
+  "children": [
+    "52054@4",
+    "56183@4",
+    "68004@5",
+    "76994@4",
+    "84877@4",
+    "123537@4",
+    "140723@4",
+    "168975@4",
+    "204989@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

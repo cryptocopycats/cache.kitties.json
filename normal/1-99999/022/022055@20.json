@@ -1,0 +1,18 @@
+{
+  "id": 22055,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-12-01T09:19:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Gen 20. I enjoy sweating through my feet, slappin' da bass, and eating lasagna. Some people say I'm the Steve Urkel of the group. Will you be the ranch dressing to my marmite?",
+  "language": "en",
+  "matron": "16859@19",
+  "sire": "4496@12",
+  "children": [
+    "23572@21",
+    "62730@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

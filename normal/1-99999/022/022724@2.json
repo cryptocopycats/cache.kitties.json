@@ -1,0 +1,27 @@
+{
+  "id": 22724,
+  "name": "Lizard",
+  "generation": 2,
+  "created_at": "2017-12-01T12:54:41.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Lizard. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"annoying.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5828@1",
+  "sire": "4704@1",
+  "children": [
+    "24972@3",
+    "25292@3",
+    "26400@3",
+    "27691@3",
+    "28622@3",
+    "33801@3",
+    "36584@3",
+    "95777@3",
+    "108801@3",
+    "144064@3",
+    "175077@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

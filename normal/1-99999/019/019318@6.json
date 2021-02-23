@@ -1,0 +1,24 @@
+{
+  "id": 19318,
+  "name": "Sid Spock",
+  "generation": 6,
+  "created_at": "2017-11-30T21:48:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Sid Spock. All you need to know about me is I hate salad with a passion. My great-great-great-great-great-great grandkitty lived with Confucius. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16011@5",
+  "sire": "18941@5",
+  "children": [
+    "24992@15",
+    "34079@24",
+    "49649@8",
+    "65054@8",
+    "73460@8",
+    "92338@7",
+    "303316@10",
+    "344393@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

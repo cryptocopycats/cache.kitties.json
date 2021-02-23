@@ -1,0 +1,22 @@
+{
+  "id": 17907,
+  "name": "Angelina Jolie",
+  "generation": 13,
+  "created_at": "2017-11-30T16:45:00.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Angelina Jolie. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a dog, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "8600@12",
+  "sire": "12238@8",
+  "children": [
+    "18432@17",
+    "22650@14",
+    "25990@19",
+    "31412@17",
+    "91239@21",
+    "217085@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

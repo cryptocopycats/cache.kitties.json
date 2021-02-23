@@ -1,0 +1,24 @@
+{
+  "id": 19487,
+  "name": "Sammy | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T22:17:43.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Sammy | Gen3. I want to live in a world where people believe the world is flat. When I'm not siring for status, I'm swiping right! I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "18539@2",
+  "sire": "18934@2",
+  "children": [
+    "19645@4",
+    "22388@6",
+    "22416@4",
+    "23977@4",
+    "24616@7",
+    "25281@4",
+    "113545@4",
+    "134085@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

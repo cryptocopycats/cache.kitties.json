@@ -1,0 +1,21 @@
+{
+  "id": 18626,
+  "name": "Cheesethief",
+  "generation": 17,
+  "created_at": "2017-11-30T19:37:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Cheesethief. I'm often referred to as the Dwight Schrute of the group. When I'm not riverdancing, I'm talking about how much I lift! Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "15411@5",
+  "sire": "15035@16",
+  "children": [
+    "20808@18",
+    "48815@18",
+    "91530@21",
+    "193274@18",
+    "326706@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 17999,
+  "name": "Purebred Saycheese",
+  "generation": 0,
+  "created_at": "2017-11-30T17:12:41.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Purebred Saycheese. I'm often referred to as the Dwight Schrute of the group. My secret indulgence is hamburgers. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "20700@1",
+    "23114@1",
+    "23283@1",
+    "24810@1",
+    "49822@2",
+    "56152@2",
+    "62687@2",
+    "78422@6",
+    "93767@3",
+    "101282@1",
+    "102677@2",
+    "217135@1",
+    "1490100@1",
+    "1513013@1",
+    "1682501@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

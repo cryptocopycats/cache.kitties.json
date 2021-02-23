@@ -1,0 +1,27 @@
+{
+  "id": 21380,
+  "name": "Flauschi #1",
+  "generation": 1,
+  "created_at": "2017-12-01T06:01:24.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Flauschi #1. I enjoy reading garfield, reciting poetry, and shakin' dat booty. I was voted school jock in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "20172@0",
+  "sire": "20316@0",
+  "children": [
+    "114722@2",
+    "130378@2",
+    "133104@2",
+    "133443@2",
+    "133845@2",
+    "135877@2",
+    "138713@2",
+    "166921@2",
+    "178729@2",
+    "213753@2",
+    "1641515@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

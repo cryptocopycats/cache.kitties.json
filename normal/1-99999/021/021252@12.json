@@ -1,0 +1,19 @@
+{
+  "id": 21252,
+  "name": "Gen 12 - mintgreen chocolate",
+  "generation": 12,
+  "created_at": "2017-12-01T05:28:06.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen 12 - mintgreen chocolate. I'm often referred to as the Lisa Simpson of the group. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4095@8",
+  "sire": "4350@11",
+  "children": [
+    "21675@13",
+    "37733@16",
+    "82356@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18472,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-30T19:09:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #18472. I've never told anyone this, but I once kissed a dog. I like to listen to Metallica while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13806@0",
+  "sire": "13686@0",
+  "children": [
+    "18507@2",
+    "18554@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

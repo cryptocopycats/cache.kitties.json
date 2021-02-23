@@ -1,0 +1,22 @@
+{
+  "id": 17923,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-30T16:49:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #17923. I'm a Mad Scientist by day, and I like reading Danielle Steele by night. I once cleaned a gecko. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "15820@13",
+  "sire": "14033@8",
+  "children": [
+    "50166@15",
+    "52682@19",
+    "61827@15",
+    "92048@15",
+    "106355@17",
+    "261231@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 20231,
+  "name": "ToothSandy",
+  "generation": 19,
+  "created_at": "2017-12-01T01:07:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm ToothSandy. My friends describe me as vegan and raunchy. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Our friendship will be vegan, raunchy, and full of cereal.",
+  "language": "en",
+  "matron": "10181@18",
+  "sire": "1219@0",
+  "children": [
+    "24469@20",
+    "29436@20",
+    "61987@20",
+    "258897@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

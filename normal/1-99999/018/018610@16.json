@@ -1,0 +1,19 @@
+{
+  "id": 18610,
+  "name": "Ittod",
+  "generation": 16,
+  "created_at": "2017-11-30T19:35:05.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Ittod. In high school, I was voted school jock. I am 35% gremlin, 75% Dogwalker, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "18321@11",
+  "sire": "18212@15",
+  "children": [
+    "21962@17",
+    "24060@17",
+    "30329@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

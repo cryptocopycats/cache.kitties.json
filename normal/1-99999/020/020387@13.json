@@ -1,0 +1,20 @@
+{
+  "id": 20387,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-12-01T01:42:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 13. I enjoy tripping my owner, breakdancing, and picking on mice. I once dreamed of being a Spin Instructor . Now I can be found watching reality tv all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18581@12",
+  "sire": "10978@12",
+  "children": [
+    "20832@14",
+    "23817@14",
+    "26752@15",
+    "59392@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

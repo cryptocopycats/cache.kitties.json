@@ -1,0 +1,19 @@
+{
+  "id": 22746,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-01T13:01:57.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #22746. My friends describe me as petulant and preposterous. I once got in a fight with a goose, and won. Let's pawty!",
+  "language": "en",
+  "matron": "18292@12",
+  "sire": "19010@17",
+  "children": [
+    "26779@19",
+    "45784@19",
+    "69976@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

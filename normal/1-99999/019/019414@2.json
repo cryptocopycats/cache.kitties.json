@@ -1,0 +1,28 @@
+{
+  "id": 19414,
+  "name": "Bubba | Gen2",
+  "generation": 2,
+  "created_at": "2017-11-30T22:06:14.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Bubba | Gen2. I want to live in a world where people believe the world is flat. I once got in a fight with a rooster, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18143@1",
+  "sire": "19281@1",
+  "children": [
+    "19633@3",
+    "19746@3",
+    "21958@3",
+    "22177@3",
+    "22573@3",
+    "23714@3",
+    "24979@3",
+    "235607@3",
+    "282823@5",
+    "320106@4",
+    "356306@3",
+    "386296@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

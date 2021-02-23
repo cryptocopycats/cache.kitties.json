@@ -1,0 +1,20 @@
+{
+  "id": 22492,
+  "name": "74: GEN 12",
+  "generation": 12,
+  "created_at": "2017-12-01T11:31:46.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! 74: GEN 12 here. I'm here to enjoy glaring at the neighbour's cat and taking selfies. I once made a moose scare. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "15603@10",
+  "sire": "16022@11",
+  "children": [
+    "24796@13",
+    "25962@13",
+    "29672@13",
+    "45655@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

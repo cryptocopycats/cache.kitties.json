@@ -1,0 +1,24 @@
+{
+  "id": 20112,
+  "name": "BLOORDRED | GEN 9",
+  "generation": 9,
+  "created_at": "2017-12-01T00:37:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm BLOORDRED | GEN 9. My friends describe me as stinky and vegan. I am 5% sphinx, 73% Foreign Film Director, and otherwise bad at math. Will you be the garlic butter to my wasabi?",
+  "language": "en",
+  "matron": "19770@6",
+  "sire": "19791@8",
+  "children": [
+    "20262@10",
+    "20577@10",
+    "21271@10",
+    "22393@10",
+    "25895@17",
+    "32828@10",
+    "38843@10",
+    "61450@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

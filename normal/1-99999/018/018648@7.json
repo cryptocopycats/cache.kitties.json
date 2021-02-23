@@ -1,0 +1,20 @@
+{
+  "id": 18648,
+  "name": "Bubble #98",
+  "generation": 7,
+  "created_at": "2017-11-30T19:43:33.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Bubble #98. I'm a Mad Scientist by day, and I like practicing witchcraft by night. My friends describe me as \"despicable.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18122@6",
+  "sire": "18162@3",
+  "children": [
+    "25469@8",
+    "25742@8",
+    "26745@8",
+    "38377@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18408,
+  "name": "Opsis",
+  "generation": 11,
+  "created_at": "2017-11-30T18:57:06.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Opsis here. I'm here to enjoy sitting on your computer and grooming. My friends describe me as \"hairy.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "17994@9",
+  "sire": "18128@10",
+  "children": [
+    "19276@12",
+    "96695@12",
+    "222900@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

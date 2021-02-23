@@ -1,0 +1,24 @@
+{
+  "id": 21490,
+  "name": "Gen3 Swift Kittencream",
+  "generation": 3,
+  "created_at": "2017-12-01T06:31:52.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen3 Swift Kittencream. I want to live in a world where people believe the world is flat. I like to listen to Wutang while grooming. Don't judge me. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "21158@2",
+  "sire": "20801@2",
+  "children": [
+    "36033@10",
+    "53798@19",
+    "59381@10",
+    "85367@4",
+    "115019@4",
+    "117378@4",
+    "121687@4",
+    "142599@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

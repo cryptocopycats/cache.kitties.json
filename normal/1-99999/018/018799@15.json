@@ -1,0 +1,19 @@
+{
+  "id": 18799,
+  "name": "PUNicorn",
+  "generation": 15,
+  "created_at": "2017-11-30T20:07:03.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm PUNicorn. I enjoy riding unicorns, hitting on yo' man, and breakdancing. My secret indulgence is wet food. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "15858@14",
+  "sire": "16850@13",
+  "children": [
+    "42096@16",
+    "55117@17",
+    "65038@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

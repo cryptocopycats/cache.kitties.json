@@ -1,0 +1,20 @@
+{
+  "id": 20132,
+  "name": "SUPER RARE BUBBLEGUM!",
+  "generation": 15,
+  "created_at": "2017-12-01T00:44:30.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm SUPER RARE BUBBLEGUM!. In high school, I was voted biggest teacher's pet. I once got in a fight with a rooster, and won. Let's get busy!",
+  "language": "en",
+  "matron": "13783@13",
+  "sire": "17488@14",
+  "children": [
+    "22701@16",
+    "53872@18",
+    "64158@17",
+    "94437@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 18546,
+  "name": "Parent of First Dracula",
+  "generation": 13,
+  "created_at": "2017-11-30T19:23:21.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Parent of First Dracula. I'm a professional Mad Scientist and I love wet food. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6864@12",
+  "sire": "16737@12",
+  "children": [
+    "21869@17",
+    "23272@14",
+    "30369@14",
+    "52514@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

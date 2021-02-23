@@ -1,0 +1,20 @@
+{
+  "id": 18981,
+  "name": "Molly | Gen3",
+  "generation": 3,
+  "created_at": "2017-11-30T20:40:36.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Molly | Gen3. I enjoy watching Stranger Things, sitting on your computer, and tricking babies. When I'm not braiding people's hair, I'm practicing witchcraft! I like your face.",
+  "language": "en",
+  "matron": "18570@2",
+  "sire": "18836@2",
+  "children": [
+    "19179@4",
+    "19284@4",
+    "24168@4",
+    "25633@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

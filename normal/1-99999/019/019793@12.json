@@ -1,0 +1,20 @@
+{
+  "id": 19793,
+  "name": "Mr Mewingtons",
+  "generation": 12,
+  "created_at": "2017-11-30T23:25:18.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Mr Mewingtons. My friends describe me as brilliant and stinky. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "19005@10",
+  "sire": "6195@11",
+  "children": [
+    "20974@15",
+    "29074@13",
+    "30989@14",
+    "31682@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

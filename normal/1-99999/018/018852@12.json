@@ -1,0 +1,17 @@
+{
+  "id": 18852,
+  "name": "Peach",
+  "generation": 12,
+  "created_at": "2017-11-30T20:12:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Peach. My friends describe me as prickly and brilliant. Sometimes I daydream of a life full of staying woke, salad, and reading Danielle Steele. I like your face.",
+  "language": "en",
+  "matron": "16145@4",
+  "sire": "18465@11",
+  "children": [
+    "19549@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

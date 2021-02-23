@@ -1,0 +1,29 @@
+{
+  "id": 18814,
+  "name": "Cheese",
+  "generation": 0,
+  "created_at": "2017-11-30T20:09:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Cheese. My friends describe me as voluptuous and petulant. I am 62% sphinx, 91% Foreign Film Director, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "22100@1",
+    "22115@1",
+    "22171@1",
+    "22249@1",
+    "22386@1",
+    "22582@1",
+    "23008@1",
+    "23604@1",
+    "28195@1",
+    "37546@1",
+    "67118@1",
+    "126830@1",
+    "249801@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

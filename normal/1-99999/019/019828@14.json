@@ -1,0 +1,18 @@
+{
+  "id": 19828,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-30T23:35:44.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Gen 14. I'm a professional Spin Instructor  and I love cantaloupe. When I'm not playing chess, I'm swiping left! I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "18177@11",
+  "sire": "16620@13",
+  "children": [
+    "19891@15",
+    "23834@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

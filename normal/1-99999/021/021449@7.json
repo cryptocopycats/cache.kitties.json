@@ -1,0 +1,21 @@
+{
+  "id": 21449,
+  "name": "Thai",
+  "generation": 7,
+  "created_at": "2017-12-01T06:21:31.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Thai. I've never told anyone this, but I once clawed a dog. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "20198@5",
+  "sire": "19545@6",
+  "children": [
+    "33416@17",
+    "33876@10",
+    "34623@8",
+    "45809@8",
+    "53770@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21709,
+  "name": "cat5",
+  "generation": 11,
+  "created_at": "2017-12-01T07:43:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm cat5. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "21521@9",
+  "sire": "21597@10",
+  "children": [
+    "56174@12",
+    "61690@13",
+    "66765@19",
+    "85783@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

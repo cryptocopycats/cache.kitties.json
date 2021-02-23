@@ -1,0 +1,22 @@
+{
+  "id": 20497,
+  "name": "Gen8 Plod",
+  "generation": 8,
+  "created_at": "2017-12-01T02:07:50.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Gen8 Plod. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Skydiving Instructor. Now I can be found practicing witchcraft all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "17803@6",
+  "sire": "18529@7",
+  "children": [
+    "20621@10",
+    "20848@10",
+    "21268@9",
+    "23982@9",
+    "40265@15",
+    "65239@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

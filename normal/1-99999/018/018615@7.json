@@ -1,0 +1,21 @@
+{
+  "id": 18615,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-30T19:36:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #18615. I'm a Aerobics Athlete  by day, and I like watching reality tv by night. I once got in a fight with a labradoodle, and won. I like your face.",
+  "language": "en",
+  "matron": "13900@0",
+  "sire": "18554@6",
+  "children": [
+    "18773@20",
+    "19421@19",
+    "20515@8",
+    "20781@13",
+    "28859@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

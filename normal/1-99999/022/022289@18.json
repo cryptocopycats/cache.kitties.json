@@ -1,0 +1,19 @@
+{
+  "id": 22289,
+  "name": "Fritter",
+  "generation": 18,
+  "created_at": "2017-12-01T10:30:38.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Fritter. I believe the world is flat. When no one's home, I invite my pals over and we listen to Michael Bolton. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "20490@17",
+  "sire": "16059@17",
+  "children": [
+    "26149@19",
+    "27332@19",
+    "79576@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

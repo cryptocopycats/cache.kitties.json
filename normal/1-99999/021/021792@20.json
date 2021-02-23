@@ -1,0 +1,19 @@
+{
+  "id": 21792,
+  "name": "Good Starter Kitty",
+  "generation": 20,
+  "created_at": "2017-12-01T08:00:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Good Starter Kitty. All you need to know about me is I hate ice cream with a passion. My secret indulgence is salad. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "13663@14",
+  "sire": "17901@19",
+  "children": [
+    "27591@21",
+    "43114@21",
+    "204548@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

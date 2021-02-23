@@ -1,0 +1,19 @@
+{
+  "id": 20744,
+  "name": "G2 Stock",
+  "generation": 2,
+  "created_at": "2017-12-01T03:24:20.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm G2 Stock. My friends describe me as wondrous and stinky. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I like your face.",
+  "language": "en",
+  "matron": "20516@1",
+  "sire": "20519@1",
+  "children": [
+    "136924@3",
+    "147653@3",
+    "1102215@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

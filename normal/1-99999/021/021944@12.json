@@ -1,0 +1,20 @@
+{
+  "id": 21944,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-01T08:49:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #21944. I'm a Culinary Sanitation Specialist by day, and I like volunteering at the local kitten rescue shelter by night. I once clawed a platypus. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "20049@11",
+  "sire": "21559@2",
+  "children": [
+    "30505@13",
+    "34428@13",
+    "37274@13",
+    "68285@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

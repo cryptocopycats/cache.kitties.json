@@ -1,0 +1,20 @@
+{
+  "id": 18906,
+  "name": "G6 | 1",
+  "generation": 6,
+  "created_at": "2017-11-30T20:22:39.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm G6 | 1. I've never told anyone this, but I once pranced with a dog. I once made a platypus play. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "17228@4",
+  "sire": "18705@5",
+  "children": [
+    "19883@7",
+    "19954@7",
+    "20258@7",
+    "45700@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

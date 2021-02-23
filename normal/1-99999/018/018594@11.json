@@ -1,0 +1,23 @@
+{
+  "id": 18594,
+  "name": "Scarlet Kitto",
+  "generation": 11,
+  "created_at": "2017-11-30T19:31:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Scarlet Kitto. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. Our friendship will be vegan, despicable, and full of apple pie.",
+  "language": "en",
+  "matron": "18262@10",
+  "sire": "18164@10",
+  "children": [
+    "18966@12",
+    "20114@12",
+    "24644@13",
+    "26746@16",
+    "28715@14",
+    "45015@18",
+    "83232@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

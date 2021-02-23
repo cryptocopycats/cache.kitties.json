@@ -1,0 +1,19 @@
+{
+  "id": 20589,
+  "name": "Sasha",
+  "generation": 17,
+  "created_at": "2017-12-01T02:35:03.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Sasha. I'm often referred to as the Homer Simpson of the group. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11900@10",
+  "sire": "9221@16",
+  "children": [
+    "40632@18",
+    "59208@18",
+    "94653@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

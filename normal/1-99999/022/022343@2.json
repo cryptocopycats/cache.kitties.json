@@ -1,0 +1,20 @@
+{
+  "id": 22343,
+  "name": "G2 Mittens",
+  "generation": 2,
+  "created_at": "2017-12-01T10:43:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm G2 Mittens. I'm often referred to as the Steve Urkel of the group. When no one's home, I invite my pals over and we listen to Ace of Base. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5484@1",
+  "sire": "5556@1",
+  "children": [
+    "25035@3",
+    "35157@3",
+    "72213@4",
+    "267089@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

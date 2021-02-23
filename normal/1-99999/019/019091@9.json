@@ -1,0 +1,23 @@
+{
+  "id": 19091,
+  "name": "Gen 9 Snappy",
+  "generation": 9,
+  "created_at": "2017-11-30T21:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Gen 9 Snappy. I'm often referred to as the Ross Geller of the group. Sometimes I daydream of a life full of riding unicorns, cereal, and mocking dogs. Let's pawty!",
+  "language": "en",
+  "matron": "16968@8",
+  "sire": "14897@5",
+  "children": [
+    "20991@18",
+    "21373@12",
+    "22871@10",
+    "27780@18",
+    "33363@12",
+    "37184@10",
+    "58415@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

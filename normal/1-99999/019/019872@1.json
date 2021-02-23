@@ -1,0 +1,26 @@
+{
+  "id": 19872,
+  "name": "Mauve",
+  "generation": 1,
+  "created_at": "2017-11-30T23:46:15.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Mauve. I'm a Train Conductor by day, and I like sleeping in fresh laundry by night. When no one's home, I invite my pals over and we listen to Wutang. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "14719@0",
+  "sire": "19137@0",
+  "children": [
+    "20445@10",
+    "76869@2",
+    "78845@2",
+    "83113@2",
+    "95356@2",
+    "107296@3",
+    "115277@2",
+    "118452@2",
+    "154533@2",
+    "213501@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

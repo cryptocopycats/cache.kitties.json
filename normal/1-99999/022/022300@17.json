@@ -1,0 +1,22 @@
+{
+  "id": 22300,
+  "name": "Vicki 17",
+  "generation": 17,
+  "created_at": "2017-12-01T10:36:55.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Vicki 17. I enjoy being a nevernude, fighting for the people, and grooming. When I'm not jump-roping, I'm playing chess! I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "15804@16",
+  "sire": "17041@15",
+  "children": [
+    "55690@18",
+    "74345@18",
+    "96127@18",
+    "119418@18",
+    "346675@18",
+    "409820@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

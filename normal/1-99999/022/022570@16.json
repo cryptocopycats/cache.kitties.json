@@ -1,0 +1,20 @@
+{
+  "id": 22570,
+  "name": "SodaFire",
+  "generation": 16,
+  "created_at": "2017-12-01T12:00:28.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm SodaFire. I enjoy reading garfield, glaring at the neighbour's cat, and riding dirty. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "22482@5",
+  "sire": "16165@15",
+  "children": [
+    "24056@17",
+    "28853@17",
+    "44032@17",
+    "90168@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

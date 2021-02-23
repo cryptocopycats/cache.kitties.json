@@ -1,0 +1,23 @@
+{
+  "id": 19901,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-11-30T23:50:16.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Gen 4. I'm often referred to as the Cersei Lannister of the group. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I like your face.",
+  "language": "en",
+  "matron": "18400@1",
+  "sire": "18592@3",
+  "children": [
+    "20061@21",
+    "25848@6",
+    "26487@19",
+    "26880@8",
+    "28843@22",
+    "34112@21",
+    "139146@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

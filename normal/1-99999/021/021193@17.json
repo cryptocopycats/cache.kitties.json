@@ -1,0 +1,21 @@
+{
+  "id": 21193,
+  "name": "Taro Cakes",
+  "generation": 17,
+  "created_at": "2017-12-01T05:11:17.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Taro Cakes. I'm often referred to as the Niles Crane of the group. I once dreamed of being a Dispensary Clerk. Now I can be found playing chess all day. I like your face.",
+  "language": "en",
+  "matron": "19106@16",
+  "sire": "18881@5",
+  "children": [
+    "23041@18",
+    "23976@18",
+    "45421@18",
+    "113749@18",
+    "391311@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

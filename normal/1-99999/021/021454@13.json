@@ -1,0 +1,18 @@
+{
+  "id": 21454,
+  "name": "Brisk",
+  "generation": 13,
+  "created_at": "2017-12-01T06:23:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Brisk. I'm a Spin Instructor  by day, and I like riverdancing by night. I once snuggled a platypus. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "13376@10",
+  "sire": "12447@12",
+  "children": [
+    "23218@14",
+    "71026@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

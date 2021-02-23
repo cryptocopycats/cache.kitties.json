@@ -1,0 +1,19 @@
+{
+  "id": 18754,
+  "name": "Daisy | Gen9 & Brisk",
+  "generation": 9,
+  "created_at": "2017-11-30T19:58:04.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! Daisy | Gen9 & Brisk here. I'm here to enjoy eating lasagna and reciting poetry. I once made a platypus leap. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "17891@8",
+  "sire": "18453@8",
+  "children": [
+    "19861@10",
+    "19908@10",
+    "20313@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

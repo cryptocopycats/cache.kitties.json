@@ -1,0 +1,23 @@
+{
+  "id": 21763,
+  "name": "Cow Pie",
+  "generation": 13,
+  "created_at": "2017-12-01T07:53:39.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Cow Pie. I'm a professional Foreign Film Director and I love apple pie. My secret indulgence is chocolate. I like your face.",
+  "language": "en",
+  "matron": "16774@12",
+  "sire": "1224@0",
+  "children": [
+    "22237@14",
+    "24108@17",
+    "29749@15",
+    "30317@15",
+    "39816@18",
+    "93006@18",
+    "288073@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

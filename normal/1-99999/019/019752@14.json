@@ -1,0 +1,21 @@
+{
+  "id": 19752,
+  "name": "G14 | Sluggish | Chicken",
+  "generation": 14,
+  "created_at": "2017-11-30T23:13:40.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm G14 | Sluggish | Chicken. In high school, I was voted biggest teacher's pet. I once made a gecko ignore. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "19181@12",
+  "sire": "13987@13",
+  "children": [
+    "21526@18",
+    "25131@17",
+    "29532@16",
+    "44428@16",
+    "93907@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

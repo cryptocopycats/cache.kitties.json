@@ -1,0 +1,18 @@
+{
+  "id": 21161,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-01T05:03:48.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #21161. My friends describe me as prickly and petulant. When no one's home, I invite my pals over and we listen to Beyoncé. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "18138@16",
+  "sire": "18140@19",
+  "children": [
+    "26794@21",
+    "124812@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

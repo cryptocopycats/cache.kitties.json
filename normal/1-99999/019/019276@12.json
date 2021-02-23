@@ -1,0 +1,19 @@
+{
+  "id": 19276,
+  "name": "Storms",
+  "generation": 12,
+  "created_at": "2017-11-30T21:42:17.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Storms. I've never told anyone this, but I once pawed at a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "18408@11",
+  "sire": "18341@11",
+  "children": [
+    "19845@13",
+    "169554@13",
+    "240353@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

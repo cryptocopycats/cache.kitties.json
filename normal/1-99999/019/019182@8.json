@@ -1,0 +1,24 @@
+{
+  "id": 19182,
+  "name": "Low ID + 6 Retired Traits",
+  "generation": 8,
+  "created_at": "2017-11-30T21:23:23.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Low ID + 6 Retired Traits. I'm often referred to as the Niles Crane of the group. When I'm not sleeping in fresh laundry, I'm tricking babies! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4027@4",
+  "sire": "11558@7",
+  "children": [
+    "20204@12",
+    "20490@17",
+    "21661@10",
+    "22653@9",
+    "25845@9",
+    "42070@11",
+    "72338@11",
+    "120206@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

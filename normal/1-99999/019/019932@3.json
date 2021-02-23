@@ -1,0 +1,24 @@
+{
+  "id": 19932,
+  "name": "Gen 3 Sw",
+  "generation": 3,
+  "created_at": "2017-11-30T23:59:08.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Gen 3 Sw. All you need to know about me is I hate hamburgers with a passion. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19863@2",
+  "sire": "19838@2",
+  "children": [
+    "19970@4",
+    "20032@4",
+    "95234@4",
+    "109201@4",
+    "110412@4",
+    "114270@4",
+    "124105@4",
+    "140940@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

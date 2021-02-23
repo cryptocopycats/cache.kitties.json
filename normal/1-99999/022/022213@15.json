@@ -1,0 +1,21 @@
+{
+  "id": 22213,
+  "name": "Gen 15 Jag Genes",
+  "generation": 15,
+  "created_at": "2017-12-01T10:07:04.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen 15 Jag Genes. My friends describe me as despicable and brilliant. My secret indulgence is hamburgers. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "19808@14",
+  "sire": "6837@14",
+  "children": [
+    "25219@16",
+    "51372@16",
+    "52349@16",
+    "80925@16",
+    "374574@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

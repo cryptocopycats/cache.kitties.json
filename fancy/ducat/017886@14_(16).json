@@ -1,0 +1,29 @@
+{
+  "id": 17886,
+  "name": "GurrGurr G14C5",
+  "generation": 14,
+  "created_at": "2017-11-30T16:40:09.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm GurrGurr G14C5. I want to live in a world where people believe the world is flat. My friends describe me as \"preposterous.\" It's... accurate. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "12392@13",
+  "sire": "11684@11",
+  "children": [
+    "20281@15",
+    "23180@15",
+    "35921@18",
+    "61542@15",
+    "75294@15",
+    "319262@15",
+    "1106084@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 16,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

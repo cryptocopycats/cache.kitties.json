@@ -1,0 +1,19 @@
+{
+  "id": 18699,
+  "name": "Rare Fabulous",
+  "generation": 16,
+  "created_at": "2017-11-30T19:50:54.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Rare Fabulous. I believe that one day cats will rule this planet. I like to listen to Wutang while grooming. Don't judge me. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "16665@1",
+  "sire": "16970@15",
+  "children": [
+    "19349@17",
+    "63916@17",
+    "91594@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

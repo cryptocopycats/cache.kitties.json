@@ -1,0 +1,20 @@
+{
+  "id": 20057,
+  "name": "Base Kitty",
+  "generation": 15,
+  "created_at": "2017-12-01T00:25:33.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Base Kitty. All you need to know about me is I hate hamburgers with a passion. Sometimes I daydream of a life full of shakin' dat booty, salad, and swiping left. Let's get busy!",
+  "language": "en",
+  "matron": "3975@6",
+  "sire": "10608@14",
+  "children": [
+    "22846@16",
+    "26206@17",
+    "58837@16",
+    "157049@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

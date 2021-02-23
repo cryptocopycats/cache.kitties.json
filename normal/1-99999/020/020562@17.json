@@ -1,0 +1,17 @@
+{
+  "id": 20562,
+  "name": "G17 Plod",
+  "generation": 17,
+  "created_at": "2017-12-01T02:28:34.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm G17 Plod. I'm a professional Aerobics Athlete  and I love ice cream. I once got in a fight with a moose, and won. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "7585@9",
+  "sire": "16844@16",
+  "children": [
+    "107230@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 18795,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-30T20:05:11.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! My name's Kitty #18795. I once peed on Nelson Mandela's cat. They had it coming. My secret indulgence is ice cream. Will you be the maple syrup to my ranch dressing?",
+  "language": "en",
+  "matron": "16110@12",
+  "sire": "16258@14",
+  "children": [
+    "19927@16",
+    "20056@16",
+    "33858@16",
+    "48839@16",
+    "116766@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

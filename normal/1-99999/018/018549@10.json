@@ -1,0 +1,20 @@
+{
+  "id": 18549,
+  "name": "Celtic",
+  "generation": 10,
+  "created_at": "2017-11-30T19:24:56.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Celtic. I'm a Private Dancer  by day, and I like riverdancing by night. I like to listen to Frank Sinatra while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "18008@9",
+  "sire": "18254@9",
+  "children": [
+    "37555@18",
+    "40781@14",
+    "45131@15",
+    "48810@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

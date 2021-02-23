@@ -1,0 +1,18 @@
+{
+  "id": 21593,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-01T07:04:11.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #21593. I've never told anyone this, but I once pranced with a dog. I once made a chimpanzee ignore. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "21567@5",
+  "sire": "21568@10",
+  "children": [
+    "21795@12",
+    "48728@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

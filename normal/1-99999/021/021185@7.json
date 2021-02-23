@@ -1,0 +1,21 @@
+{
+  "id": 21185,
+  "name": "Bloodred Spock Snappy Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-01T05:11:05.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! Bloodred Spock Snappy Gen 7 here. I'm here to enjoy glaring at the neighbour's cat and watching Stranger Things. Some people say I'm the Peter Griffin of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "20198@5",
+  "sire": "19545@6",
+  "children": [
+    "21570@12",
+    "23193@12",
+    "27504@8",
+    "69285@8",
+    "76385@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

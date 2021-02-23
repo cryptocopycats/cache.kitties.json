@@ -1,0 +1,21 @@
+{
+  "id": 21911,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-01T08:39:44.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #21911. I believe the world is flat. My friends describe me as \"gullible.\" It's... accurate. Our friendship will be hairy, ridiculous, and full of cereal.",
+  "language": "en",
+  "matron": "21229@1",
+  "sire": "21635@14",
+  "children": [
+    "21927@16",
+    "24277@16",
+    "31998@19",
+    "48925@16",
+    "74501@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

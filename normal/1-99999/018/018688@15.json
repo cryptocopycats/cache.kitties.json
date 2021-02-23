@@ -1,0 +1,20 @@
+{
+  "id": 18688,
+  "name": "Boobles",
+  "generation": 15,
+  "created_at": "2017-11-30T19:47:51.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Boobles. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "13736@14",
+  "sire": "15431@13",
+  "children": [
+    "20151@16",
+    "25343@16",
+    "96269@21",
+    "123640@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 18708,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-30T19:52:35.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #18708. In high school, I was voted school jock. I once got in a fight with a gecko, and won. Will you be the cinammon to my peanut butter?",
+  "language": "en",
+  "matron": "13916@7",
+  "sire": "14982@8",
+  "children": [
+    "20679@14",
+    "20690@14",
+    "21790@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21021,
+  "name": "Pure Ruby",
+  "generation": 10,
+  "created_at": "2017-12-01T04:28:18.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Pure Ruby. I'm a professional Culinary Sanitation Specialist and I love lasagna. I put marmite on everything. Like, everything: hot dogs, wet food—everything! I look forward to tripping my owner with you.",
+  "language": "en",
+  "matron": "20712@8",
+  "sire": "20828@9",
+  "children": [
+    "50297@11",
+    "75272@12",
+    "84956@12",
+    "210393@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

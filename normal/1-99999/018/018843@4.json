@@ -1,0 +1,18 @@
+{
+  "id": 18843,
+  "name": "Fluffy | Gen4",
+  "generation": 4,
+  "created_at": "2017-11-30T20:11:52.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Fluffy | Gen4. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "18710@3",
+  "sire": "18771@3",
+  "children": [
+    "19073@5",
+    "19149@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

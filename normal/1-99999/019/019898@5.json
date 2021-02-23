@@ -1,0 +1,18 @@
+{
+  "id": 19898,
+  "name": "Slippery Towel",
+  "generation": 5,
+  "created_at": "2017-11-30T23:49:02.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Slippery Towel. I believe that one day cats will rule this planet. My secret indulgence is cereal. Let's pawty!",
+  "language": "en",
+  "matron": "16671@4",
+  "sire": "19639@4",
+  "children": [
+    "31020@13",
+    "34105@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

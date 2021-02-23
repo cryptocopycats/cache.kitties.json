@@ -1,0 +1,25 @@
+{
+  "id": 19409,
+  "name": "Patches | Gen 3",
+  "generation": 3,
+  "created_at": "2017-11-30T22:06:01.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Patches | Gen 3. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Let's get busy!",
+  "language": "en",
+  "matron": "4599@2",
+  "sire": "4043@2",
+  "children": [
+    "53216@4",
+    "54704@4",
+    "66918@4",
+    "76620@4",
+    "90213@4",
+    "203622@4",
+    "264831@5",
+    "272959@5",
+    "283768@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

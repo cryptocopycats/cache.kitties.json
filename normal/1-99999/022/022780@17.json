@@ -1,0 +1,19 @@
+{
+  "id": 22780,
+  "name": "bubblegum",
+  "generation": 17,
+  "created_at": "2017-12-01T13:13:45.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm bubblegum. I'm a professional Dispensary Clerk and I love lasagna. I'm often described as raunchy, and I own it. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "14922@16",
+  "sire": "4602@6",
+  "children": [
+    "24556@18",
+    "29137@19",
+    "67276@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

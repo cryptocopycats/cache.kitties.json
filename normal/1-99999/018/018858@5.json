@@ -1,0 +1,20 @@
+{
+  "id": 18858,
+  "name": "Ziggy | Gen5",
+  "generation": 5,
+  "created_at": "2017-11-30T20:12:42.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Ziggy | Gen5. All you need to know about me is I hate hamburgers with a passion. My friends describe me as \"smelly.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "18609@4",
+  "sire": "18778@4",
+  "children": [
+    "19134@6",
+    "19159@6",
+    "19365@6",
+    "22537@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

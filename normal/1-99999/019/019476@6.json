@@ -1,0 +1,19 @@
+{
+  "id": 19476,
+  "name": "Heidi | Gen6",
+  "generation": 6,
+  "created_at": "2017-11-30T22:15:07.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Heidi | Gen6. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of breakdancing, ice cream, and playing chess. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16398@5",
+  "sire": "18881@5",
+  "children": [
+    "19625@7",
+    "19819@7",
+    "22491@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

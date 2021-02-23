@@ -1,0 +1,19 @@
+{
+  "id": 19985,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-01T00:10:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #19985. I believe the world is flat. When no one's home, I invite my pals over and we listen to Gloria Estefan. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6003@6",
+  "sire": "19762@16",
+  "children": [
+    "20235@18",
+    "50123@18",
+    "164657@20"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

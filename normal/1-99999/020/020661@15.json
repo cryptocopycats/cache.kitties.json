@@ -1,0 +1,17 @@
+{
+  "id": 20661,
+  "name": "Gen15|Plod",
+  "generation": 15,
+  "created_at": "2017-12-01T02:55:13.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Gen15|Plod. I've never told anyone this, but I once groomed a dog. My friends describe me as \"petulant.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7165@14",
+  "sire": "11557@14",
+  "children": [
+    "29223@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21723,
+  "name": "Bebe's Cat",
+  "generation": 19,
+  "created_at": "2017-12-01T07:45:29.000Z",
+  "birthday": "2017-12-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Bebe's Cat. I'm a Spin Instructor  by day, and I like braiding people's hair by night. My secret indulgence is hamburgers. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "14315@12",
+  "sire": "18106@18",
+  "children": [
+    "28919@20",
+    "42054@20",
+    "65378@20",
+    "223483@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

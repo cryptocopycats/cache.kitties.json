@@ -1,0 +1,20 @@
+{
+  "id": 19085,
+  "name": "4 G15 Catapulto",
+  "generation": 15,
+  "created_at": "2017-11-30T21:06:25.000Z",
+  "birthday": "2017-11-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm 4 G15 Catapulto. I'm a Train Conductor by day, and I like swiping right by night. I once cleaned a rooster. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3812@3",
+  "sire": "10748@14",
+  "children": [
+    "22474@16",
+    "23948@16",
+    "36778@16",
+    "69302@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
