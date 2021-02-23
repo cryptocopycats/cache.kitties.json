@@ -8,7 +8,7 @@ The basename of json file is the id (e.g. `1`)
 plus the generation (e.g. `0`)
 resulting in `1@0`.
 For non-normal kitties (exclusive, fancy, etc.)
-if there's a ranking it gets add at the end
+if there's a ranking it gets added at the end
 e.g. (`001431@0_(1)`) is the shipcat fancy
 with the id `1431`, generation `0`, and no. `1` in the fancy ranking.
 
@@ -29,7 +29,7 @@ in blocks of one hundred thousand e.g.:
 - /200_000-299_999
 - ...
 
-and inside the block again in blocks of one thousand e.g.
+and inside the block again in blocks of one thousand e.g.:
 - /000
 - /001
 - /002
