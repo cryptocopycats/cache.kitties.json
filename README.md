@@ -29,7 +29,7 @@ in blocks of one hundred thousand e.g.:
 - /200_000-299_999
 - ...
 
-and inside the blocks again in blocks of one thousand e.g.
+and inside the block again in blocks of one thousand e.g.
 - /000
 - /001
 - /002
@@ -43,7 +43,7 @@ and inside the blocks again in blocks of one thousand e.g.
 
 Known 404 Not Found Kitty IDs / Pages (1369 Total).
 To verify try `cryptokitties.co/kitty/<id>`
-e.g. [`cryptokitties.co/kitty/888`](https://www.cryptokitties.co/kitty/888)
+e.g. [`cryptokitties.co/kitty/888`](https://www.cryptokitties.co/kitty/888) resulting in [`cryptokitties.co/404`](https://www.cryptokitties.co/404).
 
 
 - 130          -- retired Chef Furry exclusive
