@@ -1,0 +1,32 @@
+{
+  "id": 1458,
+  "name": "Top 2000 Gen0 Kitty",
+  "generation": 0,
+  "created_at": "2017-11-23T10:35:02.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Top 2000 Gen0 Kitty. I've never told anyone this, but I once loved a dog. My friends describe me as \"wondrous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3545@1",
+    "5100@1",
+    "5820@1",
+    "7217@1",
+    "13072@3",
+    "13562@3",
+    "23722@9",
+    "37071@10",
+    "44199@1",
+    "74393@1",
+    "100147@8",
+    "134129@1",
+    "316289@1",
+    "632713@1",
+    "714685@1",
+    "785377@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

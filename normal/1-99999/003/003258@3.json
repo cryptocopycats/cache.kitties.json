@@ -1,0 +1,28 @@
+{
+  "id": 3258,
+  "name": "G3 Sluggish",
+  "generation": 3,
+  "created_at": "2017-11-23T23:15:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm G3 Sluggish. I'm a professional Train Conductor and I love lasagna. My friends describe me as \"smelly.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3090@2",
+  "sire": "1219@0",
+  "children": [
+    "3406@4",
+    "3446@4",
+    "3477@4",
+    "3554@4",
+    "4007@6",
+    "4502@6",
+    "5901@4",
+    "7652@4",
+    "8172@12",
+    "9268@13",
+    "16708@16",
+    "72775@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

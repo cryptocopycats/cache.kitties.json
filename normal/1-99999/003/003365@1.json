@@ -1,0 +1,27 @@
+{
+  "id": 3365,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T23:59:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #3365. I'm a professional Dogwalker and I love cantaloupe. My great-great-great-great-great-great grandkitty lived with Princess Diana. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "1167@0",
+  "sire": "1113@0",
+  "children": [
+    "186543@2",
+    "186871@2",
+    "189023@2",
+    "189365@2",
+    "190156@2",
+    "193903@2",
+    "194160@2",
+    "203469@2",
+    "217052@2",
+    "243089@2",
+    "259727@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3253,
+  "name": "Tiger Stripes",
+  "generation": 2,
+  "created_at": "2017-11-23T23:14:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Tiger Stripes. I want to live in a world where people believe the world is flat. I once got in a fight with a gecko, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1069@0",
+  "sire": "3034@1",
+  "children": [
+    "3265@3",
+    "3323@9",
+    "3413@3",
+    "3452@3",
+    "3702@5",
+    "3840@6",
+    "4654@4",
+    "6620@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

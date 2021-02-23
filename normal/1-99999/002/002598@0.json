@@ -1,0 +1,27 @@
+{
+  "id": 2598,
+  "name": "Sailor Moon",
+  "generation": 0,
+  "created_at": "2017-11-23T13:45:06.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Sailor Moon. I believe the world is flat. In my free time, I can usually be found preposterous or volunteering at the local kitten rescue shelter. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6400@9",
+    "6582@11",
+    "7341@3",
+    "7856@1",
+    "7982@1",
+    "8114@11",
+    "9128@11",
+    "36883@2",
+    "91455@1",
+    "115130@1",
+    "507256@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

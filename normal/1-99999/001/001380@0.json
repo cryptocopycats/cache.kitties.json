@@ -1,0 +1,20 @@
+{
+  "id": 1380,
+  "name": "Coco",
+  "generation": 0,
+  "created_at": "2017-11-23T10:22:14.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Coco here. I'm here to enjoy chasing string and picking on mice. I once got in a fight with a gecko, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3628@7",
+    "15747@8",
+    "260620@6",
+    "546011@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

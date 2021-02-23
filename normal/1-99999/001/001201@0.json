@@ -1,0 +1,31 @@
+{
+  "id": 1201,
+  "name": "Kitty 1201",
+  "generation": 0,
+  "created_at": "2017-11-23T09:52:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty 1201. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3162@1",
+    "4624@7",
+    "12260@10",
+    "12330@13",
+    "13569@17",
+    "17694@14",
+    "23818@9",
+    "28894@15",
+    "31104@3",
+    "40798@1",
+    "211242@6",
+    "344668@1",
+    "392033@1",
+    "414595@1",
+    "435979@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

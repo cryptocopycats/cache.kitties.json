@@ -1,0 +1,24 @@
+{
+  "id": 3336,
+  "name": "Bubblegum #3",
+  "generation": 6,
+  "created_at": "2017-11-23T23:49:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! Bubblegum #3 here. I'm here to enjoy taking selfies and eating lasagna. I once dreamed of being a Spin Instructor . Now I can be found tricking babies all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "3316@5",
+  "sire": "1242@0",
+  "children": [
+    "3368@7",
+    "3422@7",
+    "3920@7",
+    "4331@8",
+    "5179@11",
+    "6176@14",
+    "8406@7",
+    "27015@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

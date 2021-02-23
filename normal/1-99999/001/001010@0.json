@@ -1,0 +1,24 @@
+{
+  "id": 1010,
+  "name": "Meowster Redwhiskers",
+  "generation": 0,
+  "created_at": "2017-11-23T09:20:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Meowster Redwhiskers. I'm a professional Dispensary Clerk and I love wet food. I put ranch dressing on everything. Like, everything: hot dogs, steak—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3029@1",
+    "3054@1",
+    "3116@2",
+    "3128@3",
+    "3204@1",
+    "3308@3",
+    "4522@9",
+    "5293@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

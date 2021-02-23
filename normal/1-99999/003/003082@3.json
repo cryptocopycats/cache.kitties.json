@@ -1,0 +1,26 @@
+{
+  "id": 3082,
+  "name": "Gen 3 Slow Thicc Kitty",
+  "generation": 3,
+  "created_at": "2017-11-23T21:01:40.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 3 Slow Thicc Kitty. I'm often referred to as the Steve Urkel of the group. I'm often described as fabulous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1077@0",
+  "sire": "3015@2",
+  "children": [
+    "13047@4",
+    "21266@4",
+    "27297@4",
+    "27462@6",
+    "36538@8",
+    "54750@6",
+    "61811@21",
+    "84097@23",
+    "86138@8",
+    "121335@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

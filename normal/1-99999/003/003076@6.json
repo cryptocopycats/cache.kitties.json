@@ -1,0 +1,19 @@
+{
+  "id": 3076,
+  "name": "1st Gen6 Ever",
+  "generation": 6,
+  "created_at": "2017-11-23T20:53:14.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm 1st Gen6 Ever. I've never told anyone this, but I once licked a dog. I once got in a fight with a rhino, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3071@5",
+  "sire": "3048@3",
+  "children": [
+    "3083@7",
+    "4721@7",
+    "4822@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

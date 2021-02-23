@@ -1,0 +1,17 @@
+{
+  "id": 3274,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-23T23:24:40.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #3274. I've never told anyone this, but I once clawed a dog. In my free time, I can usually be found tantalizing or summoning ghosts. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "1279@0",
+  "sire": "3264@1",
+  "children": [
+    "3784@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

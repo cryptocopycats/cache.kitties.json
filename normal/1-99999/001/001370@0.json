@@ -1,0 +1,32 @@
+{
+  "id": 1370,
+  "name": "матрос",
+  "generation": 0,
+  "created_at": "2017-11-23T10:22:14.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm матрос. I enjoy watching Stranger Things, sweating through my feet, and breakdancing. My secret indulgence is salad. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5773@7",
+    "299778@1",
+    "300875@1",
+    "312318@1",
+    "332061@21",
+    "352427@16",
+    "354725@18",
+    "512345@1",
+    "515936@1",
+    "520133@4",
+    "535162@4",
+    "587097@1",
+    "618816@1",
+    "633203@4",
+    "1288876@1",
+    "1774591@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

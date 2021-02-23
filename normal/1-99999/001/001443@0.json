@@ -1,0 +1,26 @@
+{
+  "id": 1443,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:33:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #1443. I enjoy picking on mice, chasing string, and picking flowers. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "41490@1",
+    "41741@1",
+    "42029@1",
+    "42489@1",
+    "42581@1",
+    "43309@1",
+    "45488@1",
+    "48656@1",
+    "69180@1",
+    "79898@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

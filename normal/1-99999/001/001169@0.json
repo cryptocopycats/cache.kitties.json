@@ -1,0 +1,23 @@
+{
+  "id": 1169,
+  "name": "Justin",
+  "generation": 0,
+  "created_at": "2017-11-23T09:46:53.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Justin. My friends describe me as prickly and ridiculous. I'm often described as brilliant, and I own it. Our friendship will be prickly, ridiculous, and full of apple pie.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3070@2",
+    "3072@1",
+    "3074@2",
+    "3826@1",
+    "4458@1",
+    "5864@1",
+    "6664@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

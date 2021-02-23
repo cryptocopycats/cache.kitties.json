@@ -1,0 +1,25 @@
+{
+  "id": 3083,
+  "name": "TWEETY BIRD READY",
+  "generation": 7,
+  "created_at": "2017-11-23T21:03:20.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm TWEETY BIRD READY. I'm a professional Dispensary Clerk and I love apple pie. I was voted school jock in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3002@1",
+  "sire": "3076@6",
+  "children": [
+    "14517@8",
+    "14669@13",
+    "16328@8",
+    "16865@10",
+    "18314@8",
+    "22987@16",
+    "27201@11",
+    "40655@13",
+    "111957@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

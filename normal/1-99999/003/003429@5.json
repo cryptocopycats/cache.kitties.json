@@ -1,0 +1,22 @@
+{
+  "id": 3429,
+  "name": "Big Pun",
+  "generation": 5,
+  "created_at": "2017-11-24T00:22:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Big Pun. I'm often referred to as the Chandler Bing of the group. My friends describe me as \"raunchy.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "3148@1",
+  "sire": "3290@4",
+  "children": [
+    "3467@6",
+    "3500@6",
+    "3571@6",
+    "3884@6",
+    "14779@6",
+    "15776@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

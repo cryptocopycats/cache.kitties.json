@@ -1,0 +1,25 @@
+{
+  "id": 3024,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T20:07:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #3024. I'm a professional Ventriloquist and I love wet food. I once got in a fight with a dolphin, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "1077@0",
+  "sire": "1002@0",
+  "children": [
+    "3081@6",
+    "4662@7",
+    "4721@7",
+    "4815@12",
+    "6187@8",
+    "6920@12",
+    "92821@2",
+    "241464@6",
+    "266128@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

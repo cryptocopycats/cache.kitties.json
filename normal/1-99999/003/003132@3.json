@@ -1,0 +1,22 @@
+{
+  "id": 3132,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-23T22:21:25.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! My name's Kitty #3132. I once peed on Marie Antoinette's cat. They had it coming. I like to listen to Mariah Carey while grooming. Don't judge me. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "1216@0",
+  "sire": "3053@2",
+  "children": [
+    "3145@4",
+    "3220@4",
+    "3284@6",
+    "3383@4",
+    "3914@6",
+    "4134@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

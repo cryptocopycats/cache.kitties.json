@@ -1,0 +1,26 @@
+{
+  "id": 2516,
+  "name": "Gen 0 | Strawberry",
+  "generation": 0,
+  "created_at": "2017-11-23T13:31:35.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 0 | Strawberry. All you need to know about me is I hate ice cream with a passion. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7941@9",
+    "9819@9",
+    "11188@12",
+    "13059@1",
+    "33623@1",
+    "34370@1",
+    "35759@1",
+    "62703@2",
+    "86181@1",
+    "120093@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

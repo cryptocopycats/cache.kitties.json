@@ -1,0 +1,21 @@
+{
+  "id": 3478,
+  "name": "Fluffy tail",
+  "generation": 6,
+  "created_at": "2017-11-24T00:35:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Fluffy tail. I'm a Spin Instructor  by day, and I like reading Danielle Steele by night. I put ranch dressing on everything. Like, everything: hot dogs, chocolate—everything! Let's pawty!",
+  "language": "en",
+  "matron": "3126@5",
+  "sire": "1073@0",
+  "children": [
+    "3559@7",
+    "3594@7",
+    "4165@7",
+    "5094@7",
+    "5760@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

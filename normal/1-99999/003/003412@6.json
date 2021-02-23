@@ -1,0 +1,19 @@
+{
+  "id": 3412,
+  "name": "Neon Man",
+  "generation": 6,
+  "created_at": "2017-11-24T00:13:58.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Neon Man. I've never told anyone this, but I once licked a dog. I was voted biggest teacher's pet in college. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "1393@0",
+  "sire": "3187@5",
+  "children": [
+    "5712@7",
+    "6579@10",
+    "7506@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

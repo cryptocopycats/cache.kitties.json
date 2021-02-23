@@ -1,0 +1,18 @@
+{
+  "id": 1115,
+  "name": "Kitty #1115",
+  "generation": 0,
+  "created_at": "2017-11-23T09:38:54.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #1115. I believe that one day cats will rule this planet. I'm often described as hairy, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3341@1",
+    "4008@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

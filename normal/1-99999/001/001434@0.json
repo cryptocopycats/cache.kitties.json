@@ -1,0 +1,26 @@
+{
+  "id": 1434,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:33:21.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #1434. My friends describe me as smelly and stinky. Some people say I'm the Marge Simpson of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "38178@1",
+    "38320@1",
+    "38591@1",
+    "38876@1",
+    "40133@1",
+    "40341@1",
+    "41491@1",
+    "45031@1",
+    "51251@1",
+    "77228@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

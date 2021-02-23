@@ -1,0 +1,22 @@
+{
+  "id": 1476,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:38:33.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #1476. In high school, I was voted school jock. I'm often described as petulant, and I own it. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7296@12",
+    "15383@1",
+    "15510@1",
+    "15592@1",
+    "15792@1",
+    "18221@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

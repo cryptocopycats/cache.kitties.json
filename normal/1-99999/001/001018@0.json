@@ -1,0 +1,20 @@
+{
+  "id": 1018,
+  "name": "12TH OLDEST CAT",
+  "generation": 0,
+  "created_at": "2017-11-23T09:21:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm 12TH OLDEST CAT. I'm often referred to as the Jon Snow of the group. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3053@2",
+    "3516@6",
+    "11032@7",
+    "11187@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

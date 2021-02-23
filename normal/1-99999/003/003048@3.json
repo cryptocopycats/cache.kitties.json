@@ -1,0 +1,22 @@
+{
+  "id": 3048,
+  "name": "1st Gen3 Ever",
+  "generation": 3,
+  "created_at": "2017-11-23T20:20:33.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm 1st Gen3 Ever. I'm a Aerobics Athlete  by day, and I like swiping right by night. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1077@0",
+  "sire": "3015@2",
+  "children": [
+    "3062@4",
+    "3076@6",
+    "3086@4",
+    "4274@10",
+    "4739@9",
+    "5299@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

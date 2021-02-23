@@ -1,0 +1,25 @@
+{
+  "id": 1372,
+  "name": "Fuzzderp",
+  "generation": 0,
+  "created_at": "2017-11-23T10:22:14.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Fuzzderp. I enjoy slappin' da bass, taking selfies, and watching Stranger Things. I like to listen to Metallica while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3276@1",
+    "3363@1",
+    "3426@1",
+    "3805@6",
+    "3910@3",
+    "5098@1",
+    "6165@13",
+    "7802@14",
+    "96380@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1070,
+  "name": "Murray - Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T09:34:03.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Murray - Gen 0. I enjoy riding unicorns, licking doorknobs, and fighting for the people. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3138@1",
+    "3139@1",
+    "3155@1",
+    "3241@3",
+    "5554@6",
+    "5918@6",
+    "13341@10",
+    "14187@19",
+    "15114@8",
+    "329962@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

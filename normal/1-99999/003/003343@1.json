@@ -1,0 +1,21 @@
+{
+  "id": 3343,
+  "name": "B - Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-23T23:50:05.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's B - Gen 1. I once peed on Confucius's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Confucius. Our friendship will be petulant, despicable, and full of wet food.",
+  "language": "en",
+  "matron": "1385@0",
+  "sire": "1081@0",
+  "children": [
+    "4070@3",
+    "4223@5",
+    "32299@2",
+    "38852@8",
+    "351087@2"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

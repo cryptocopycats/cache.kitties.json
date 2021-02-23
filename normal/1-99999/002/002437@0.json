@@ -1,0 +1,25 @@
+{
+  "id": 2437,
+  "name": "Derp",
+  "generation": 0,
+  "created_at": "2017-11-23T13:19:51.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Derp. I'm a Spin Instructor  by day, and I like swiping right by night. In my free time, I can usually be found raunchy or siring for status. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "15383@1",
+    "15510@1",
+    "15592@1",
+    "15790@14",
+    "15792@1",
+    "18203@14",
+    "20239@16",
+    "41332@14",
+    "78262@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

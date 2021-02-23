@@ -1,0 +1,26 @@
+{
+  "id": 1016,
+  "name": "Musette Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T09:21:21.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Musette Gen 0. All you need to know about me is I hate chocolate with a passion. My great-great-great-great-great-great grandkitty lived with Princess Diana. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3006@1",
+    "3065@1",
+    "3088@3",
+    "3224@2",
+    "3488@8",
+    "3631@7",
+    "4296@6",
+    "4873@7",
+    "5926@1",
+    "13043@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3477,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-11-24T00:35:37.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's G4. I once peed on Marie Antoinette's cat. They had it coming. I once pawed at a rooster. I don't like to talk about it. Will you be the maple syrup to my peanut butter?",
+  "language": "en",
+  "matron": "3010@1",
+  "sire": "3258@3",
+  "children": [
+    "3511@5",
+    "3530@5",
+    "3618@5",
+    "4082@9",
+    "5957@10",
+    "6817@12",
+    "18248@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

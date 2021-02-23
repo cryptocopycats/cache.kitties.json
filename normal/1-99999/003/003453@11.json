@@ -1,0 +1,22 @@
+{
+  "id": 3453,
+  "name": "1st Gen11 ever",
+  "generation": 11,
+  "created_at": "2017-11-24T00:27:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm 1st Gen11 ever. I'm a Ventriloquist by day, and I like playing chess by night. When I'm not prank-calling celebrities, I'm swiping right! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3210@2",
+  "sire": "3401@10",
+  "children": [
+    "4388@12",
+    "4656@12",
+    "5017@12",
+    "6237@12",
+    "6762@12",
+    "9405@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3244,
+  "name": "Lil' lil",
+  "generation": 5,
+  "created_at": "2017-11-23T23:14:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Lil' lil. My friends describe me as brilliant and ridiculous. My friends describe me as \"gorgeous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1269@0",
+  "sire": "3142@4",
+  "children": [
+    "3490@8",
+    "3571@6",
+    "3683@9",
+    "3994@9",
+    "5053@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

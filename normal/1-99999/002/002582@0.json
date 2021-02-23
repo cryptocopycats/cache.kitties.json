@@ -1,0 +1,26 @@
+{
+  "id": 2582,
+  "name": "xiaomi0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:45:06.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm xiaomi0. I'm often referred to as the Marge Simpson of the group. I'm often described as brilliant, and I own it. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "11860@10",
+    "13486@1",
+    "13640@12",
+    "14844@12",
+    "15342@13",
+    "15365@16",
+    "234609@1",
+    "243189@3",
+    "321091@2",
+    "327152@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

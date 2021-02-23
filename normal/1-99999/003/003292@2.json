@@ -1,0 +1,28 @@
+{
+  "id": 3292,
+  "name": "Hamburgular",
+  "generation": 2,
+  "created_at": "2017-11-23T23:31:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Hamburgular. I'm a professional Aerobics Athlete  and I love hamburgers. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Our friendship will be seductive, annoying, and full of salad.",
+  "language": "en",
+  "matron": "1398@0",
+  "sire": "3211@1",
+  "children": [
+    "3334@3",
+    "3352@5",
+    "3486@9",
+    "3853@3",
+    "3973@8",
+    "4355@12",
+    "5404@3",
+    "8050@11",
+    "21655@13",
+    "69183@3",
+    "149859@3",
+    "213504@3"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

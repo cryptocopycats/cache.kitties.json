@@ -1,0 +1,24 @@
+{
+  "id": 2194,
+  "name": "Virgin Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T12:41:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Virgin Gen 0. I've never told anyone this, but I once clawed a dog. I am 72% troll, 8% Spin Instructor , and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "873640@3",
+    "1769429@1",
+    "1789313@1",
+    "1790684@1",
+    "1790863@1",
+    "1816515@1",
+    "1874123@1",
+    "1874144@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1279,
+  "name": "The Cat who Peed",
+  "generation": 0,
+  "created_at": "2017-11-23T10:06:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's The Cat who Peed. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"ridiculous.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3274@2",
+    "3560@1",
+    "3579@1",
+    "3589@4",
+    "3685@4",
+    "8661@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

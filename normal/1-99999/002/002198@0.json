@@ -1,0 +1,29 @@
+{
+  "id": 2198,
+  "name": "Gino",
+  "generation": 0,
+  "created_at": "2017-11-23T12:41:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gino. I enjoy fighting for the people, sitting on your computer, and slappin' da bass. My secret indulgence is apple pie. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "144819@1",
+    "210014@1",
+    "210195@1",
+    "210554@1",
+    "210802@1",
+    "212972@1",
+    "216575@1",
+    "221926@1",
+    "238198@1",
+    "265320@1",
+    "288890@1",
+    "289834@3",
+    "365443@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

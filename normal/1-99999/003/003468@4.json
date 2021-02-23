@@ -1,0 +1,25 @@
+{
+  "id": 3468,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-24T00:33:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #3468. I've never told anyone this, but I once licked a dog. I once got in a fight with a moose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3111@2",
+  "sire": "3444@3",
+  "children": [
+    "3530@5",
+    "3608@5",
+    "3707@7",
+    "3999@5",
+    "4202@9",
+    "4501@9",
+    "5292@14",
+    "7365@7",
+    "14268@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1243,
+  "name": "Wolf X 1243",
+  "generation": 0,
+  "created_at": "2017-11-23T09:59:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Wolf X 1243. I'm a Skydiving Instructor by day, and I like running a podcast by night. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Our friendship will be petulant, gullible, and full of hamburgers.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3556@1",
+    "188241@1",
+    "189161@1",
+    "1212562@10",
+    "1238880@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1403,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:26:04.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #1403. My friends describe me as stinky and brilliant. My friends describe me as \"gullible.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3885@1",
+    "3955@1",
+    "235951@1",
+    "236310@15",
+    "237799@10",
+    "238864@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

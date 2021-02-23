@@ -1,0 +1,23 @@
+{
+  "id": 3441,
+  "name": "Blep",
+  "generation": 7,
+  "created_at": "2017-11-24T00:25:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! Blep here. I'm here to enjoy being a nevernude and riding unicorns. I would give it all up to star in a soap opera. Will you be the wasabi to my pickles?",
+  "language": "en",
+  "matron": "3352@5",
+  "sire": "3407@6",
+  "children": [
+    "3466@8",
+    "3757@8",
+    "4015@8",
+    "4331@8",
+    "6843@8",
+    "8065@11",
+    "22706@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

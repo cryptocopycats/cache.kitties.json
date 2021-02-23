@@ -1,0 +1,21 @@
+{
+  "id": 3009,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T19:56:32.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #3009. I'm a Dispensary Clerk by day, and I like swiping left by night. When I'm not siring for status, I'm riverdancing! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1059@0",
+  "sire": "1089@0",
+  "children": [
+    "3037@2",
+    "3047@2",
+    "5906@2",
+    "8096@3",
+    "17677@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

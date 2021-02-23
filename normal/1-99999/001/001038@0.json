@@ -1,0 +1,30 @@
+{
+  "id": 1038,
+  "name": "#1038 RARE",
+  "generation": 0,
+  "created_at": "2017-11-23T09:25:47.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm #1038 RARE. I believe the world is flat. Some people say I'm the Homer Simpson of the group. Will you be the garlic butter to my marmite?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3023@1",
+    "3034@1",
+    "3065@1",
+    "3073@3",
+    "3115@3",
+    "3254@3",
+    "4487@4",
+    "6847@10",
+    "7920@12",
+    "110735@1",
+    "131100@1",
+    "185676@20",
+    "304820@13",
+    "383480@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

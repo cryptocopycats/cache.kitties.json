@@ -1,0 +1,23 @@
+{
+  "id": 3205,
+  "name": "Floatboat",
+  "generation": 6,
+  "created_at": "2017-11-23T23:01:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Floatboat here. I'm here to enjoy chasing red dots and reading garfield. I am 5% troll, 11% Aerobics Athlete , and otherwise bad at math. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "1224@0",
+  "sire": "3196@5",
+  "children": [
+    "3296@7",
+    "3409@7",
+    "3631@7",
+    "3720@7",
+    "4534@10",
+    "5831@12",
+    "7285@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

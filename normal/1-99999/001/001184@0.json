@@ -1,0 +1,20 @@
+{
+  "id": 1184,
+  "name": "Pi",
+  "generation": 0,
+  "created_at": "2017-11-23T09:50:07.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Pi. I enjoy reading garfield, glaring at the neighbour's cat, and tripping my owner. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3227@1",
+    "3416@1",
+    "5500@1",
+    "5693@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

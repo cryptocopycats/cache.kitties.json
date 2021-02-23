@@ -1,0 +1,19 @@
+{
+  "id": 3216,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-23T23:04:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #3216. I'm a professional Mad Scientist and I love ice cream. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "1246@0",
+  "sire": "3171@3",
+  "children": [
+    "3250@5",
+    "3835@5",
+    "5930@7"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2215,
+  "name": "G0",
+  "generation": 0,
+  "created_at": "2017-11-23T12:41:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm G0. In high school, I was voted biggest teacher's pet. I am 16% elf, 46% Foreign Film Director, and otherwise bad at math. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5958@1",
+    "6036@3",
+    "6614@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

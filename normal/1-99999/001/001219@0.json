@@ -1,0 +1,30 @@
+{
+  "id": 1219,
+  "name": "Founder Cat",
+  "generation": 0,
+  "created_at": "2017-11-23T09:55:07.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Founder Cat. I want to live in a world where people believe the world is flat. I once got in a fight with a rhino, and won. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3111@2",
+    "3258@3",
+    "3511@5",
+    "3551@4",
+    "3618@5",
+    "4058@7",
+    "4303@5",
+    "5309@7",
+    "5876@2",
+    "7729@12",
+    "20231@19",
+    "36110@19",
+    "162081@5",
+    "333201@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

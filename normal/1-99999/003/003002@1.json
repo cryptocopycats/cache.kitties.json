@@ -1,0 +1,26 @@
+{
+  "id": 3002,
+  "name": "2nd Gen1 Ever",
+  "generation": 1,
+  "created_at": "2017-11-23T19:49:19.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 2nd Gen1 Ever. My friends describe me as stinky and hairy. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1077@0",
+  "sire": "1002@0",
+  "children": [
+    "3015@2",
+    "3059@2",
+    "3083@7",
+    "3690@9",
+    "4746@11",
+    "4760@9",
+    "6225@10",
+    "6797@3",
+    "8099@10",
+    "9106@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

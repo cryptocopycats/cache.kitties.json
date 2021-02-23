@@ -1,0 +1,31 @@
+{
+  "id": 1195,
+  "name": "Gen 0 Please Love Me",
+  "generation": 0,
+  "created_at": "2017-11-23T09:52:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Gen 0 Please Love Me. I enjoy fighting for the people, glaring at the neighbour's cat, and sitting on your computer. Some people say I'm the Cersei Lannister of the group. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3436@1",
+    "3532@1",
+    "3954@1",
+    "136017@3",
+    "153015@5",
+    "189017@1",
+    "206279@16",
+    "219088@16",
+    "268974@1",
+    "290180@1",
+    "345888@22",
+    "364233@1",
+    "414451@2",
+    "440487@1",
+    "749280@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

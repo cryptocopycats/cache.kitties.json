@@ -1,0 +1,28 @@
+{
+  "id": 3398,
+  "name": "Gen 3 | 🌷 Grumpy Cat 🌷",
+  "generation": 3,
+  "created_at": "2017-11-24T00:11:13.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen 3 | 🌷 Grumpy Cat 🌷. I believe the world is flat. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3051@2",
+  "sire": "1151@0",
+  "children": [
+    "3535@4",
+    "3960@8",
+    "29888@5",
+    "42597@4",
+    "62528@5",
+    "67238@11",
+    "81802@4",
+    "93505@4",
+    "132238@8",
+    "208362@9",
+    "301598@13",
+    "395169@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

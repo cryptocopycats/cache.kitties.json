@@ -1,0 +1,31 @@
+{
+  "id": 1191,
+  "name": "a",
+  "generation": 0,
+  "created_at": "2017-11-23T09:50:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm a. I've never told anyone this, but I once pawed at a dog. I put cinammon on everything. Like, everything: hot dogs, lasagna—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3290@4",
+    "3469@2",
+    "15642@1",
+    "285268@2",
+    "287053@2",
+    "292487@2",
+    "304821@1",
+    "306154@1",
+    "320254@1",
+    "337861@1",
+    "347502@1",
+    "502111@1",
+    "640423@1",
+    "1233506@3",
+    "1638380@9"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

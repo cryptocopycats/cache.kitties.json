@@ -1,0 +1,22 @@
+{
+  "id": 1463,
+  "name": "low id 1.2",
+  "generation": 0,
+  "created_at": "2017-11-23T10:35:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm low id 1.2. In high school, I was voted school jock. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3592@1",
+    "123631@1",
+    "124624@1",
+    "150555@1",
+    "155452@1",
+    "159067@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

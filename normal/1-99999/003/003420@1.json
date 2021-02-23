@@ -1,0 +1,25 @@
+{
+  "id": 3420,
+  "name": "Spotty McSpotSpot GEN 1",
+  "generation": 1,
+  "created_at": "2017-11-24T00:16:38.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! My name's Spotty McSpotSpot GEN 1. I once peed on Princess Diana's cat. They had it coming. I once made a rooster kiss. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1113@0",
+  "sire": "1117@0",
+  "children": [
+    "3493@2",
+    "3557@2",
+    "4650@6",
+    "5243@3",
+    "19436@2",
+    "20222@4",
+    "21756@2",
+    "26753@2",
+    "34966@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

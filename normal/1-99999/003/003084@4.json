@@ -1,0 +1,25 @@
+{
+  "id": 3084,
+  "name": "Glass of Milk",
+  "generation": 4,
+  "created_at": "2017-11-23T21:03:20.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Glass of Milk. I'm often referred to as the Peter Griffin of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "1100@0",
+  "sire": "3073@3",
+  "children": [
+    "3271@5",
+    "3291@5",
+    "3355@5",
+    "4706@7",
+    "6259@5",
+    "8165@5",
+    "11154@14",
+    "13737@9",
+    "53311@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1387,
+  "name": "Kitty #1387",
+  "generation": 0,
+  "created_at": "2017-11-23T10:24:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #1387. I enjoy fighting for the people, chasing string, and tricking babies. I once dreamed of being a Dogwalker. Now I can be found riding the bus all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3722@1",
+    "142876@1",
+    "143112@1",
+    "146656@1",
+    "155417@1",
+    "157812@1",
+    "171221@1",
+    "276527@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

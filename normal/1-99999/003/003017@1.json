@@ -1,0 +1,23 @@
+{
+  "id": 3017,
+  "name": "Gen 1 | Purple",
+  "generation": 1,
+  "created_at": "2017-11-23T20:04:21.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 1 | Purple. My friends describe me as petulant and vegan. When I'm not volunteering at the local kitten rescue shelter, I'm riding the bus! Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "1078@0",
+  "sire": "1056@0",
+  "children": [
+    "5889@2",
+    "5947@2",
+    "15544@4",
+    "21559@2",
+    "36912@9",
+    "293228@2",
+    "336629@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

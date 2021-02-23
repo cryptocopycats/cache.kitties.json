@@ -1,0 +1,18 @@
+{
+  "id": 3355,
+  "name": "Pasta Sauce",
+  "generation": 5,
+  "created_at": "2017-11-23T23:55:55.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Pasta Sauce. I enjoy fighting for the people, eating lasagna, and chasing string. I like to listen to Gloria Estefan while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "3084@4",
+  "sire": "1131@0",
+  "children": [
+    "3458@6",
+    "51529@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

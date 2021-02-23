@@ -1,0 +1,20 @@
+{
+  "id": 3307,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-23T23:38:12.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! My name's Kitty #3307. I once peed on King Henry VIII's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3264@1",
+  "sire": "1414@0",
+  "children": [
+    "3565@3",
+    "3597@3",
+    "3645@4",
+    "3796@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

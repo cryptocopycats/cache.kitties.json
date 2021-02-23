@@ -1,0 +1,22 @@
+{
+  "id": 2420,
+  "name": "B - Gen 0 - 4",
+  "generation": 0,
+  "created_at": "2017-11-23T13:15:15.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! My name's B - Gen 0 - 4. I once peed on John F. Kennedy Jr.'s cat. They had it coming. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7170@1",
+    "8643@6",
+    "8691@5",
+    "32299@2",
+    "39019@1",
+    "69171@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

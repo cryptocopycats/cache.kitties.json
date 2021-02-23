@@ -1,0 +1,22 @@
+{
+  "id": 3257,
+  "name": "Gen4 - Chubby Kitty",
+  "generation": 4,
+  "created_at": "2017-11-23T23:15:06.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Gen4 - Chubby Kitty here. I'm here to enjoy chasing red dots and hitting on yo' man. I'm often described as despicable, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3212@3",
+  "sire": "3005@1",
+  "children": [
+    "3760@5",
+    "7419@5",
+    "13881@5",
+    "14256@5",
+    "55697@5",
+    "57229@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

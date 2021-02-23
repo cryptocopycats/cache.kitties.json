@@ -1,0 +1,19 @@
+{
+  "id": 3145,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-23T22:30:54.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Kitty #3145. I enjoy riding unicorns, chasing red dots, and grooming. My friends describe me as \"voluptuous.\" It's... accurate. Our friendship will be vegan, wondrous, and full of lasagna.",
+  "language": "en",
+  "matron": "3132@3",
+  "sire": "1210@0",
+  "children": [
+    "3919@7",
+    "4326@5",
+    "4425@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

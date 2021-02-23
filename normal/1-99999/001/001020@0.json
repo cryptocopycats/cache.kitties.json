@@ -1,0 +1,18 @@
+{
+  "id": 1020,
+  "name": "Gen 0 - 1020",
+  "generation": 0,
+  "created_at": "2017-11-23T09:22:26.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen 0 - 1020. In high school, I was voted biggest teacher's pet. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be despicable, seductive, and full of apple pie.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3004@1",
+    "4465@2"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

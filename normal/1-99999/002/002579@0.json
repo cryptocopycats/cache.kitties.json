@@ -1,0 +1,28 @@
+{
+  "id": 2579,
+  "name": "Lilli",
+  "generation": 0,
+  "created_at": "2017-11-23T13:45:00.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Lilli. I enjoy reciting poetry, riding unicorns, and tripping my owner. When I'm not talking about how much I lift, I'm practicing witchcraft! It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "12229@10",
+    "13974@2",
+    "14086@4",
+    "14138@11",
+    "14831@1",
+    "16246@16",
+    "127277@1",
+    "136569@2",
+    "146816@1",
+    "173787@1",
+    "232010@1",
+    "249818@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

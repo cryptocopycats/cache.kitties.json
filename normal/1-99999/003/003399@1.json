@@ -1,0 +1,17 @@
+{
+  "id": 3399,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T00:11:13.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #3399. I'm often referred to as the Chandler Bing of the group. I am 90% oracle, 7% Mad Scientist, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "1305@0",
+  "sire": "1384@0",
+  "children": [
+    "28103@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

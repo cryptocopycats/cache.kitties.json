@@ -1,0 +1,17 @@
+{
+  "id": 3206,
+  "name": "Marcus swift",
+  "generation": 2,
+  "created_at": "2017-11-23T23:01:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Marcus swift. I'm often referred to as the Samwise Gamgee of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1168@0",
+  "sire": "3164@1",
+  "children": [
+    "3464@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

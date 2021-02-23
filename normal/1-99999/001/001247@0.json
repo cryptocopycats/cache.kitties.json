@@ -1,0 +1,25 @@
+{
+  "id": 1247,
+  "name": "1247",
+  "generation": 0,
+  "created_at": "2017-11-23T09:59:49.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm 1247. In high school, I was voted school jock. I once got in a fight with a rooster, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3140@1",
+    "10236@1",
+    "10258@1",
+    "10476@1",
+    "10540@1",
+    "10626@4",
+    "335968@1",
+    "354217@1",
+    "423506@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

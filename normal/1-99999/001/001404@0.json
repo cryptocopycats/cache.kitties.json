@@ -1,0 +1,28 @@
+{
+  "id": 1404,
+  "name": "g0 1404",
+  "generation": 0,
+  "created_at": "2017-11-23T10:26:04.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm g0 1404. I'm a Skydiving Instructor by day, and I like riding the bus by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "8165@5",
+    "8185@14",
+    "8198@13",
+    "9402@12",
+    "9421@8",
+    "10443@1",
+    "24740@1",
+    "27777@1",
+    "40503@1",
+    "49406@7",
+    "103566@1",
+    "135125@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

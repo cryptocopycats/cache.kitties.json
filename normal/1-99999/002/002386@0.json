@@ -1,0 +1,32 @@
+{
+  "id": 2386,
+  "name": "Gen0 - Eggplant",
+  "generation": 0,
+  "created_at": "2017-11-23T13:10:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen0 - Eggplant. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5972@1",
+    "8441@10",
+    "9673@1",
+    "20893@1",
+    "33623@1",
+    "52949@2",
+    "121991@1",
+    "127955@1",
+    "139237@1",
+    "177239@7",
+    "227891@7",
+    "274120@1",
+    "317376@1",
+    "412278@1",
+    "464037@1",
+    "709023@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

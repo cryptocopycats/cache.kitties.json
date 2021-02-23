@@ -1,0 +1,25 @@
+{
+  "id": 1001,
+  "name": "TheFirst",
+  "generation": 0,
+  "created_at": "2017-11-23T09:18:57.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm TheFirst. In high school, I was voted most likely to work at NASA. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3043@1",
+    "3153@1",
+    "3239@6",
+    "3567@6",
+    "5438@9",
+    "10219@14",
+    "10423@2",
+    "14066@1",
+    "15116@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

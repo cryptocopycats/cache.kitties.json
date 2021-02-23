@@ -1,0 +1,19 @@
+{
+  "id": 3280,
+  "name": "Nimrod",
+  "generation": 5,
+  "created_at": "2017-11-23T23:27:11.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! Nimrod here. I'm here to enjoy chasing string and licking doorknobs. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "3137@4",
+  "sire": "1044@0",
+  "children": [
+    "4045@6",
+    "5548@6",
+    "14946@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

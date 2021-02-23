@@ -1,0 +1,25 @@
+{
+  "id": 1076,
+  "name": "Wahnsinn",
+  "generation": 0,
+  "created_at": "2017-11-23T09:34:03.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Wahnsinn. My friends describe me as preposterous and wondrous. I once headbutted a dolphin. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3281@1",
+    "3311@1",
+    "3561@3",
+    "4160@4",
+    "4264@5",
+    "5619@4",
+    "6008@5",
+    "50577@9",
+    "77644@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

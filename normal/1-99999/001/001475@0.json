@@ -1,0 +1,23 @@
+{
+  "id": 1475,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T10:38:33.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen 0. I'm often referred to as the Neville Longbottom of the group. In my free time, I can usually be found preposterous or watching reality tv. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3299@1",
+    "769700@1",
+    "1587012@1",
+    "1683447@1",
+    "1684337@1",
+    "1687790@1",
+    "1862098@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

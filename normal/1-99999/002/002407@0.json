@@ -1,0 +1,19 @@
+{
+  "id": 2407,
+  "name": "Chanandeler",
+  "generation": 0,
+  "created_at": "2017-11-23T13:13:07.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Chanandeler. I'm often referred to as the Chandler Bing of the group. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Our friendship will be ridiculous, gorgeous, and full of hamburgers.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24904@16",
+    "96380@1",
+    "197979@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

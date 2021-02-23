@@ -1,0 +1,23 @@
+{
+  "id": 3054,
+  "name": "Ultima | G1 | Snappy",
+  "generation": 1,
+  "created_at": "2017-11-23T20:25:42.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Ultima | G1 | Snappy. I'm a Skydiving Instructor by day, and I like prank-calling celebrities by night. Some people say I'm the Frodo Baggins of the group. I look forward to fighting the patriarchy with you.",
+  "language": "en",
+  "matron": "1010@0",
+  "sire": "1035@0",
+  "children": [
+    "3118@2",
+    "3210@2",
+    "3374@3",
+    "5363@7",
+    "30874@2",
+    "31467@3",
+    "46276@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 3018,
+  "name": "Saul-2, 2nd Gen2  in game",
+  "generation": 2,
+  "created_at": "2017-11-23T20:04:21.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Saul-2, 2nd Gen2  in game. I once peed on Marie Antoinette's cat. They had it coming. I put marmite on everything. Like, everything: hot dogs, chocolate—everything! Let's get busy!",
+  "language": "en",
+  "matron": "1043@0",
+  "sire": "3003@1",
+  "children": [
+    "3677@3",
+    "3867@5",
+    "4053@10",
+    "4186@8",
+    "4406@8",
+    "4643@12",
+    "5493@12",
+    "8891@12",
+    "9504@3",
+    "17301@3",
+    "49290@13",
+    "329851@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3350,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T23:54:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! My name's Kitty #3350. I once peed on Confucius's cat. They had it coming. Some people say I'm the Ron Weasley of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "1305@0",
+  "sire": "1378@0",
+  "children": [
+    "3370@2",
+    "3389@2",
+    "3419@2",
+    "51192@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

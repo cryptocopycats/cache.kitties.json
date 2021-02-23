@@ -1,0 +1,18 @@
+{
+  "id": 1414,
+  "name": "G0",
+  "generation": 0,
+  "created_at": "2017-11-23T10:28:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm G0. In high school, I was voted most likely to work at NASA. Some people say I'm the Neville Longbottom of the group. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3307@2",
+    "10799@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

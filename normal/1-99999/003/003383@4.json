@@ -1,0 +1,22 @@
+{
+  "id": 3383,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-24T00:05:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #3383. I believe the world is flat. My secret indulgence is lasagna. Let's pawty!",
+  "language": "en",
+  "matron": "3132@3",
+  "sire": "3277@3",
+  "children": [
+    "3527@5",
+    "3549@5",
+    "3837@5",
+    "3929@7",
+    "4081@8",
+    "4434@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

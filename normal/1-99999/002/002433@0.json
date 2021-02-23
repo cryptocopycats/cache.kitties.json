@@ -1,0 +1,18 @@
+{
+  "id": 2433,
+  "name": "Orange Dream",
+  "generation": 0,
+  "created_at": "2017-11-23T13:19:51.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Orange Dream. I'm a professional Train Conductor and I love steak. I once dreamed of being a Ventriloquist. Now I can be found tricking babies all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6390@10",
+    "6558@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

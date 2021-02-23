@@ -1,0 +1,22 @@
+{
+  "id": 2442,
+  "name": "GEN0 SUPER RARE",
+  "generation": 0,
+  "created_at": "2017-11-23T13:19:51.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm GEN0 SUPER RARE. I'm a professional Train Conductor and I love wet food. I'm often described as ridiculous, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7120@9",
+    "10821@14",
+    "54277@16",
+    "231522@2",
+    "267116@21",
+    "311548@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

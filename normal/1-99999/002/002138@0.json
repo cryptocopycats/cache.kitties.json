@@ -1,0 +1,25 @@
+{
+  "id": 2138,
+  "name": "Desiree",
+  "generation": 0,
+  "created_at": "2017-11-23T12:29:26.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Desiree. I'm a Mad Scientist by day, and I like siring for status by night. In my free time, I can usually be found vegan or practicing witchcraft. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6919@1",
+    "6924@12",
+    "7167@15",
+    "7661@12",
+    "28371@19",
+    "340944@1",
+    "348747@1",
+    "361249@1",
+    "370725@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

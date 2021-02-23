@@ -1,0 +1,22 @@
+{
+  "id": 1007,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T09:20:42.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #1007. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of sweating through my feet, hamburgers, and running a podcast. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3060@3",
+    "3107@3",
+    "9509@12",
+    "10285@12",
+    "15478@17",
+    "69761@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3230,
+  "name": "Great Grandparent",
+  "generation": 1,
+  "created_at": "2017-11-23T23:08:40.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Great Grandparent. I believe that one day cats will rule this planet. I'm often described as stinky, and I own it. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "1178@0",
+  "sire": "1110@0",
+  "children": [
+    "206105@2",
+    "206289@2",
+    "206481@2",
+    "206752@2",
+    "207482@2",
+    "210734@2",
+    "213093@2",
+    "218002@2",
+    "229052@2",
+    "247229@2",
+    "275189@2",
+    "276836@2",
+    "371952@2",
+    "414266@2",
+    "1400161@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

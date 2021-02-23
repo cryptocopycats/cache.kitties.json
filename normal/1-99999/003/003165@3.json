@@ -1,0 +1,26 @@
+{
+  "id": 3165,
+  "name": "3165",
+  "generation": 3,
+  "created_at": "2017-11-23T22:40:26.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm 3165. My friends describe me as voluptuous and gullible. It's not common knowledge, but my ancestry connects me to King Henry VIII. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1044@0",
+  "sire": "3113@2",
+  "children": [
+    "3314@4",
+    "3576@4",
+    "3593@9",
+    "3708@6",
+    "3880@5",
+    "4028@4",
+    "4361@4",
+    "18306@4",
+    "42334@4",
+    "197099@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

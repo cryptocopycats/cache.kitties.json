@@ -1,0 +1,21 @@
+{
+  "id": 3273,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-23T23:20:18.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #3273. I enjoy breakdancing, eating lasagna, and chasing red dots. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "3174@1",
+  "sire": "3219@3",
+  "children": [
+    "3855@8",
+    "3968@7",
+    "4113@5",
+    "4275@5",
+    "4957@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

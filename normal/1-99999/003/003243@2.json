@@ -1,0 +1,18 @@
+{
+  "id": 3243,
+  "name": "I like food",
+  "generation": 2,
+  "created_at": "2017-11-23T23:14:06.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I like food here. I'm here to enjoy breakdancing and watching Stranger Things. My secret indulgence is hamburgers. I like your face.",
+  "language": "en",
+  "matron": "3065@1",
+  "sire": "1327@0",
+  "children": [
+    "3265@3",
+    "12528@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

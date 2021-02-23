@@ -1,0 +1,21 @@
+{
+  "id": 2217,
+  "name": "Green Lantern (G0/1C)",
+  "generation": 0,
+  "created_at": "2017-11-23T12:41:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! Green Lantern (G0/1C) here. I'm here to enjoy sweating through my feet and reading garfield. When no one's home, I invite my pals over and we listen to Metallica. Will you be the peanut butter to my soy sauce?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "9198@6",
+    "11723@12",
+    "11965@12",
+    "12002@14",
+    "17235@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

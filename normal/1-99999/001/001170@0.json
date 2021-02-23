@@ -1,0 +1,31 @@
+{
+  "id": 1170,
+  "name": "Penelope",
+  "generation": 0,
+  "created_at": "2017-11-23T09:46:53.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Penelope. I'm often referred to as the Lisa Simpson of the group. I once made a gecko ignore. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "4383@2",
+    "4831@2",
+    "7130@2",
+    "8179@1",
+    "29479@5",
+    "45370@1",
+    "137641@1",
+    "139034@1",
+    "165686@1",
+    "246546@1",
+    "276548@1",
+    "320181@1",
+    "389629@1",
+    "463906@9",
+    "1050395@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

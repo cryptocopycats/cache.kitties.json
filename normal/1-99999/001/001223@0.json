@@ -1,0 +1,30 @@
+{
+  "id": 1223,
+  "name": "$$1223$$ Gen0",
+  "generation": 0,
+  "created_at": "2017-11-23T09:55:47.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm $1223$ Gen0. All you need to know about me is I hate cereal with a passion. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "13896@13",
+    "14300@7",
+    "14754@8",
+    "15116@1",
+    "57404@10",
+    "114851@1",
+    "130634@1",
+    "164849@1",
+    "178043@5",
+    "319602@1",
+    "339015@1",
+    "385599@1",
+    "416388@1",
+    "464097@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

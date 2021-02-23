@@ -1,0 +1,17 @@
+{
+  "id": 2572,
+  "name": "Artist",
+  "generation": 0,
+  "created_at": "2017-11-23T13:40:55.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! Artist here. I'm here to enjoy spinning sick beats and reciting poetry. In my free time, I can usually be found prickly or riding the bus. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "10708@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

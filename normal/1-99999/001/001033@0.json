@@ -1,0 +1,30 @@
+{
+  "id": 1033,
+  "name": "Sassi",
+  "generation": 0,
+  "created_at": "2017-11-23T09:25:47.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Sassi. I enjoy eating until I loathe myself, taking selfies, and sitting on your computer. My secret indulgence is wet food. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3117@1",
+    "3163@1",
+    "3182@1",
+    "3629@5",
+    "3698@1",
+    "6108@3",
+    "10624@1",
+    "11119@9",
+    "14556@1",
+    "19436@2",
+    "425521@1",
+    "506643@1",
+    "597387@13",
+    "1585002@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

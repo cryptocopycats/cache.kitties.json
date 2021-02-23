@@ -1,0 +1,18 @@
+{
+  "id": 2086,
+  "name": "Gen 0 - 2086",
+  "generation": 0,
+  "created_at": "2017-11-23T12:20:37.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 0 - 2086. I enjoy riding dirty, sitting on your computer, and reading garfield. I once cleaned a gecko. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6018@2",
+    "128390@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

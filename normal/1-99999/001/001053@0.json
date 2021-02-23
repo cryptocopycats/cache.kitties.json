@@ -1,0 +1,21 @@
+{
+  "id": 1053,
+  "name": "One White Parent",
+  "generation": 0,
+  "created_at": "2017-11-23T09:29:19.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm One White Parent. I'm a professional Ventriloquist and I love lasagna. I like to listen to Wutang while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3029@1",
+    "4060@12",
+    "6013@12",
+    "8116@12",
+    "34747@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

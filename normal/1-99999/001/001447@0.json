@@ -1,0 +1,26 @@
+{
+  "id": 1447,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:33:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #1447. I've never told anyone this, but I once clawed a dog. My friends describe me as \"brilliant.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "39404@1",
+    "41803@1",
+    "42029@1",
+    "42418@1",
+    "42489@1",
+    "43856@1",
+    "45521@1",
+    "52533@1",
+    "63443@1",
+    "91956@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

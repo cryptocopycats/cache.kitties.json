@@ -1,0 +1,18 @@
+{
+  "id": 1229,
+  "name": "Greyson",
+  "generation": 0,
+  "created_at": "2017-11-23T09:57:46.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Greyson. I believe the world is flat. My secret indulgence is cereal. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3455@1",
+    "11151@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

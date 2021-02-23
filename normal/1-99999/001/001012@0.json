@@ -1,0 +1,19 @@
+{
+  "id": 1012,
+  "name": "G0 - Chop",
+  "generation": 0,
+  "created_at": "2017-11-23T09:20:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm G0 - Chop. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of riding unicorns, apple pie, and summoning ghosts. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3591@4",
+    "3622@2",
+    "3646@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

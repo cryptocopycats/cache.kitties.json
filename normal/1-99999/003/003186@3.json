@@ -1,0 +1,20 @@
+{
+  "id": 3186,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-23T22:50:49.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #3186. In high school, I was voted school jock. I am 7% oracle, 25% Private Dancer , and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3070@2",
+  "sire": "1283@0",
+  "children": [
+    "3197@4",
+    "5550@6",
+    "66484@14",
+    "214456@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

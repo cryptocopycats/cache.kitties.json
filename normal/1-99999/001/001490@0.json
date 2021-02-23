@@ -1,0 +1,22 @@
+{
+  "id": 1490,
+  "name": "low id 1.2",
+  "generation": 0,
+  "created_at": "2017-11-23T10:40:42.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm low id 1.2. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Coldplay while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3878@1",
+    "4780@1",
+    "143135@1",
+    "143368@1",
+    "155452@1",
+    "159067@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

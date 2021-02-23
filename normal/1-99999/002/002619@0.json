@@ -1,0 +1,30 @@
+{
+  "id": 2619,
+  "name": "G0 Chihuahua",
+  "generation": 0,
+  "created_at": "2017-11-23T13:48:25.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm G0 Chihuahua. I'm a professional Ventriloquist and I love chocolate. I once got in a fight with a platypus, and won. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6869@10",
+    "7769@13",
+    "9923@1",
+    "9931@1",
+    "10566@9",
+    "12038@14",
+    "12495@1",
+    "22958@1",
+    "38230@1",
+    "41629@2",
+    "59974@1",
+    "92980@1",
+    "214250@1",
+    "415836@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

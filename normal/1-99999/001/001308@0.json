@@ -1,0 +1,28 @@
+{
+  "id": 1308,
+  "name": "Gen0 - The Original Pinkie",
+  "generation": 0,
+  "created_at": "2017-11-23T10:12:20.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen0 - The Original Pinkie. I'm a professional Train Conductor and I love chocolate. I put marmalade on everything. Like, everything: hot dogs, hamburgers—everything! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5691@1",
+    "5972@1",
+    "9679@1",
+    "9691@1",
+    "14729@12",
+    "55693@1",
+    "77644@1",
+    "229087@6",
+    "246077@11",
+    "285271@4",
+    "318518@7",
+    "381544@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

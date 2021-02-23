@@ -1,0 +1,28 @@
+{
+  "id": 3120,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T21:57:28.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #3120. I'm often referred to as the Marge Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be gorgeous, brilliant, and full of cereal.",
+  "language": "en",
+  "matron": "1091@0",
+  "sire": "1049@0",
+  "children": [
+    "3125@2",
+    "3168@2",
+    "3213@3",
+    "3303@4",
+    "4192@2",
+    "4354@7",
+    "5339@3",
+    "6729@7",
+    "9903@7",
+    "12285@15",
+    "61425@7",
+    "102105@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

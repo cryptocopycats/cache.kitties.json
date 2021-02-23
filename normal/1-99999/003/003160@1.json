@@ -1,0 +1,20 @@
+{
+  "id": 3160,
+  "name": "Le Trigre (1st tigerpunk)",
+  "generation": 1,
+  "created_at": "2017-11-23T22:38:55.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Le Trigre (1st tigerpunk). I've never told anyone this, but I once licked a dog. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Let's pawty!",
+  "language": "en",
+  "matron": "1300@0",
+  "sire": "1251@0",
+  "children": [
+    "3171@3",
+    "3277@3",
+    "3713@6",
+    "8120@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

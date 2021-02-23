@@ -1,0 +1,21 @@
+{
+  "id": 2170,
+  "name": "Grey Kitty",
+  "generation": 0,
+  "created_at": "2017-11-23T12:33:36.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Grey Kitty. I'm a professional Private Dancer  and I love cantaloupe. When I'm not people-watching, I'm swiping right! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "271880@1",
+    "311111@1",
+    "312215@1",
+    "314462@7",
+    "326962@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

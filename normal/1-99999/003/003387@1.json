@@ -1,0 +1,27 @@
+{
+  "id": 3387,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T00:05:50.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #3387. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of hitting on yo' man, apple pie, and prank-calling celebrities. Let's get busy!",
+  "language": "en",
+  "matron": "1186@0",
+  "sire": "1181@0",
+  "children": [
+    "3553@2",
+    "128137@10",
+    "144539@5",
+    "240844@10",
+    "278887@2",
+    "287678@2",
+    "305301@4",
+    "310758@3",
+    "320114@2",
+    "331489@2",
+    "364691@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2040,
+  "name": "Mooshi Firetail",
+  "generation": 0,
+  "created_at": "2017-11-23T12:20:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Mooshi Firetail. I'm a Culinary Sanitation Specialist by day, and I like tricking babies by night. I put marmalade on everything. Like, everything: hot dogs, cereal—everything! Our friendship will be gullible, seductive, and full of chocolate.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5798@1",
+    "5811@3",
+    "5832@10",
+    "5877@5",
+    "6009@2",
+    "6154@9",
+    "25441@7",
+    "173993@7",
+    "313412@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

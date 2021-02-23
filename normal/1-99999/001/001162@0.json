@@ -1,0 +1,21 @@
+{
+  "id": 1162,
+  "name": "Mr. Fluffy Face",
+  "generation": 0,
+  "created_at": "2017-11-23T09:45:43.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Mr. Fluffy Face. I'm a professional Foreign Film Director and I love wet food. In my free time, I can usually be found gullible or mocking dogs. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3681@4",
+    "75492@1",
+    "80470@1",
+    "121447@1",
+    "175026@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

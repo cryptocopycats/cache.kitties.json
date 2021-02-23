@@ -1,0 +1,26 @@
+{
+  "id": 1446,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:33:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #1446. I believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "38322@1",
+    "38486@1",
+    "38726@1",
+    "38960@1",
+    "39404@1",
+    "40133@1",
+    "40508@1",
+    "45031@1",
+    "52906@1",
+    "69180@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

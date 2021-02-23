@@ -1,0 +1,33 @@
+{
+  "id": 1280,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T10:07:15.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 0. I'm a professional Train Conductor and I love lasagna. I was voted school jock in college. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3178@1",
+    "3240@1",
+    "3498@1",
+    "3582@3",
+    "3633@3",
+    "5486@2",
+    "8921@11",
+    "1671288@1",
+    "1678678@1",
+    "1747462@1",
+    "1768670@1",
+    "1775065@1",
+    "1788032@1",
+    "1839774@1",
+    "1848815@1",
+    "1872319@1",
+    "1880192@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3467,
+  "name": "Tounge",
+  "generation": 6,
+  "created_at": "2017-11-24T00:33:10.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Tounge. I'm a Culinary Sanitation Specialist by day, and I like sleeping in fresh laundry by night. I once made a platypus sulk. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "3237@3",
+  "sire": "3429@5",
+  "children": [
+    "27368@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

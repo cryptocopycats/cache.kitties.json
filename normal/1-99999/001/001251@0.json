@@ -1,0 +1,20 @@
+{
+  "id": 1251,
+  "name": "Charles",
+  "generation": 0,
+  "created_at": "2017-11-23T10:01:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Charles. I enjoy reciting poetry, grooming, and shakin' dat booty. I was voted most likely to work at NASA in college. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3160@1",
+    "3294@2",
+    "8144@2",
+    "11089@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

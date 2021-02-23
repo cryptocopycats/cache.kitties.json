@@ -1,0 +1,19 @@
+{
+  "id": 1125,
+  "name": "Marley",
+  "generation": 0,
+  "created_at": "2017-11-23T09:39:41.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Marley. I'm a Dogwalker by day, and I like practicing witchcraft by night. In my free time, I can usually be found despicable or summoning ghosts. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3236@1",
+    "20895@14",
+    "1973093@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

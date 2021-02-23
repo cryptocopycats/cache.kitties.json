@@ -1,0 +1,20 @@
+{
+  "id": 1098,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T09:35:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #1098. I'm often referred to as the Steve Urkel of the group. I once made a rhino ignore. Can you make my stinky dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3031@1",
+    "3104@3",
+    "29262@17",
+    "69761@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 3261,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-23T23:17:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #3261. I'm often referred to as the Steve Urkel of the group. My secret indulgence is hamburgers. Let's get busy!",
+  "language": "en",
+  "matron": "1058@0",
+  "sire": "3168@2",
+  "children": [
+    "3303@4",
+    "4136@4",
+    "10638@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

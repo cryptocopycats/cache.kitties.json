@@ -1,0 +1,19 @@
+{
+  "id": 1165,
+  "name": "Gen 0 Snappy",
+  "generation": 0,
+  "created_at": "2017-11-23T09:46:09.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 0 Snappy. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of riding unicorns, ice cream, and swiping left. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5491@1",
+    "8516@1",
+    "8803@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

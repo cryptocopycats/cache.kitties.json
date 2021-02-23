@@ -1,0 +1,20 @@
+{
+  "id": 2115,
+  "name": "Early Access Gen 0, Sailor Dad",
+  "generation": 0,
+  "created_at": "2017-11-23T12:25:08.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Early Access Gen 0, Sailor Dad. I'm a professional Dogwalker and I love apple pie. I was voted most likely to work at NASA in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5826@1",
+    "88887@6",
+    "124996@6",
+    "145884@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

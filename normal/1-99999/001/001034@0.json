@@ -1,0 +1,25 @@
+{
+  "id": 1034,
+  "name": "Oleg",
+  "generation": 0,
+  "created_at": "2017-11-23T09:25:47.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Oleg. I've never told anyone this, but I once headbutted a dog. When no one's home, I invite my pals over and we listen to Michael Bolton. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3049@2",
+    "3068@1",
+    "3078@1",
+    "3214@4",
+    "3324@3",
+    "3668@2",
+    "3815@4",
+    "4458@1",
+    "10052@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

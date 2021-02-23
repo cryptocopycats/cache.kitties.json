@@ -1,0 +1,19 @@
+{
+  "id": 3192,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T22:54:49.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Kitty #3192 here. I'm here to enjoy staying woke and picking flowers. I put marmalade on everything. Like, everything: hot dogs, steak—everything! Let's pawty!",
+  "language": "en",
+  "matron": "1164@0",
+  "sire": "1067@0",
+  "children": [
+    "3207@2",
+    "3354@2",
+    "3440@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

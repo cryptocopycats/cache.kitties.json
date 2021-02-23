@@ -1,0 +1,30 @@
+{
+  "id": 2658,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:55:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Gen 0 here. I'm here to enjoy reciting poetry and riding dirty. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6025@8",
+    "6037@1",
+    "6903@1",
+    "11981@12",
+    "12166@12",
+    "13694@5",
+    "16935@4",
+    "23264@12",
+    "29471@1",
+    "49865@5",
+    "107407@1",
+    "529502@1",
+    "841227@1",
+    "1587012@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

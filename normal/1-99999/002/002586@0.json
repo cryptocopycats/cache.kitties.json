@@ -1,0 +1,26 @@
+{
+  "id": 2586,
+  "name": "Gregorio",
+  "generation": 0,
+  "created_at": "2017-11-23T13:45:06.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gregorio. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Aretha Franklin. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6215@5",
+    "6381@6",
+    "6405@5",
+    "13119@6",
+    "14764@7",
+    "51074@8",
+    "55143@7",
+    "82416@1",
+    "430313@1",
+    "758451@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

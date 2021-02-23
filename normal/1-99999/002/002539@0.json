@@ -1,0 +1,21 @@
+{
+  "id": 2539,
+  "name": "Vivi (Gen 0)",
+  "generation": 0,
+  "created_at": "2017-11-23T13:35:23.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Vivi (Gen 0). My friends describe me as voluptuous and vegan. When I'm not practicing witchcraft, I'm volunteering at the local kitten rescue shelter! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "12837@12",
+    "26526@15",
+    "49871@7",
+    "52272@7",
+    "77816@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

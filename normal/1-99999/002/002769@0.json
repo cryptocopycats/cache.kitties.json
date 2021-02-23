@@ -1,0 +1,17 @@
+{
+  "id": 2769,
+  "name": "Berry",
+  "generation": 0,
+  "created_at": "2017-11-23T14:13:31.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's Berry. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Michael Scott of the group. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6422@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

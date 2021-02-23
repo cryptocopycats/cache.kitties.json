@@ -1,0 +1,20 @@
+{
+  "id": 3370,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-24T00:00:44.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #3370. I'm a professional Dogwalker and I love wet food. I was voted school jock in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3350@1",
+  "sire": "1323@0",
+  "children": [
+    "3388@3",
+    "3410@3",
+    "27785@3",
+    "37661@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

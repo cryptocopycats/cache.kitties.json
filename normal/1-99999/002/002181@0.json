@@ -1,0 +1,29 @@
+{
+  "id": 2181,
+  "name": "Green Fritz Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T12:36:31.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Green Fritz Gen 0. I'm a professional Mad Scientist and I love steak. When no one's home, I invite my pals over and we listen to Rihanna. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5990@3",
+    "6028@1",
+    "6140@13",
+    "6174@1",
+    "6462@1",
+    "7276@5",
+    "10441@4",
+    "11006@1",
+    "41165@1",
+    "65093@1",
+    "121847@1",
+    "216359@1",
+    "227025@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

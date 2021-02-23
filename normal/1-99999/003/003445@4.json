@@ -1,0 +1,24 @@
+{
+  "id": 3445,
+  "name": "Snow",
+  "generation": 4,
+  "created_at": "2017-11-24T00:25:54.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Snow. I once peed on Mother Theresa's cat. They had it coming. I put marmalade on everything. Like, everything: hot dogs, hamburgers—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1392@0",
+  "sire": "3215@3",
+  "children": [
+    "3522@5",
+    "3570@5",
+    "3614@7",
+    "3770@10",
+    "4213@5",
+    "5384@5",
+    "5716@10",
+    "17604@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

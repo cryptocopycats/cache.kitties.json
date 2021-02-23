@@ -1,0 +1,25 @@
+{
+  "id": 1328,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:13:41.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #1328. I'm a Skydiving Instructor by day, and I like reading Danielle Steele by night. I am 3% sphinx, 22% Foreign Film Director, and otherwise bad at math. Will you be the marmalade to my ranch dressing?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3362@1",
+    "3375@6",
+    "3411@1",
+    "4682@7",
+    "4741@2",
+    "5036@9",
+    "8234@14",
+    "8342@1",
+    "20047@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

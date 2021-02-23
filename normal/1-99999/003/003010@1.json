@@ -1,0 +1,26 @@
+{
+  "id": 3010,
+  "name": "La Semilla - Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-23T19:57:20.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm La Semilla - Gen 1. All you need to know about me is I hate steak with a passion. I was voted most likely to work at NASA in college. Will you be the marmite to my wasabi?",
+  "language": "en",
+  "matron": "1041@0",
+  "sire": "1058@0",
+  "children": [
+    "3090@2",
+    "3093@2",
+    "3102@2",
+    "3111@2",
+    "3477@4",
+    "3608@5",
+    "10394@2",
+    "11408@2",
+    "13126@15",
+    "17333@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

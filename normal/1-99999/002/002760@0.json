@@ -1,0 +1,20 @@
+{
+  "id": 2760,
+  "name": "Neeko - Gen0",
+  "generation": 0,
+  "created_at": "2017-11-23T14:13:31.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Neeko - Gen0. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "9003@1",
+    "9009@1",
+    "11039@10",
+    "11433@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

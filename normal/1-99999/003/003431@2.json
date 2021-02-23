@@ -1,0 +1,24 @@
+{
+  "id": 3431,
+  "name": "Watermelon Bubblegum",
+  "generation": 2,
+  "created_at": "2017-11-24T00:22:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Watermelon Bubblegum. I enjoy hitting on yo' man, chasing red dots, and taking selfies. I put ranch dressing on everything. Like, everything: hot dogs, salad—everything! Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "1304@0",
+  "sire": "3363@1",
+  "children": [
+    "3483@8",
+    "3757@8",
+    "3806@3",
+    "3922@6",
+    "21721@15",
+    "25495@14",
+    "171431@3",
+    "183758@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

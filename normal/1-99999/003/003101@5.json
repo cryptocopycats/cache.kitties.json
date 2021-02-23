@@ -1,0 +1,20 @@
+{
+  "id": 3101,
+  "name": "Lasagni (Gen 5)",
+  "generation": 5,
+  "created_at": "2017-11-23T21:33:11.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Lasagni (Gen 5). I'm a professional Spin Instructor  and I love chocolate. Sometimes I daydream of a life full of eating lasagna, steak, and people-watching. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3092@4",
+  "sire": "1017@0",
+  "children": [
+    "9092@6",
+    "55058@17",
+    "287489@7",
+    "289320@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

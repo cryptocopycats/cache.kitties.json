@@ -1,0 +1,25 @@
+{
+  "id": 2439,
+  "name": "Gen 0 Kitty #2439",
+  "generation": 0,
+  "created_at": "2017-11-23T13:19:51.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Gen 0 Kitty #2439. My friends describe me as raunchy and prickly. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6758@1",
+    "13434@1",
+    "33794@1",
+    "36661@5",
+    "56024@1",
+    "61764@1",
+    "70695@16",
+    "76353@1",
+    "86269@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3232,
+  "name": "Wa Yamk",
+  "generation": 1,
+  "created_at": "2017-11-23T23:09:46.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Wa Yamk. I enjoy riding unicorns, picking flowers, and fighting for the people. Sometimes I daydream of a life full of chasing red dots, chocolate, and tricking babies. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1261@0",
+  "sire": "1303@0",
+  "children": [
+    "3624@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

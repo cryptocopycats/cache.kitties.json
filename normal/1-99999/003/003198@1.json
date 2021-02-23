@@ -1,0 +1,23 @@
+{
+  "id": 3198,
+  "name": "Clashic (Gen 1)",
+  "generation": 1,
+  "created_at": "2017-11-23T22:56:18.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Clashic (Gen 1). In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1127@0",
+  "sire": "1085@0",
+  "children": [
+    "3229@2",
+    "9069@2",
+    "9077@2",
+    "9080@2",
+    "9134@2",
+    "271341@2",
+    "289081@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

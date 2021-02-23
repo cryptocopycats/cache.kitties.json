@@ -1,0 +1,20 @@
+{
+  "id": 3231,
+  "name": "gatal",
+  "generation": 1,
+  "created_at": "2017-11-23T23:08:40.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm gatal. I'm a Spin Instructor  by day, and I like volunteering at the local kitten rescue shelter by night. I once licked a chimpanzee. I don't like to talk about it. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "1228@0",
+  "sire": "1118@0",
+  "children": [
+    "3373@4",
+    "4840@10",
+    "46773@3",
+    "127053@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3210,
+  "name": "Kitty #3210",
+  "generation": 2,
+  "created_at": "2017-11-23T23:01:35.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #3210. I'm a professional Aerobics Athlete  and I love lasagna. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1187@0",
+  "sire": "3054@1",
+  "children": [
+    "3260@3",
+    "3324@3",
+    "3453@11",
+    "4422@11",
+    "4566@3",
+    "4740@5",
+    "5015@6",
+    "6257@3",
+    "7739@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1258,
+  "name": "Gen Zero #1258",
+  "generation": 0,
+  "created_at": "2017-11-23T10:02:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen Zero #1258. In high school, I was voted biggest teacher's pet. Some people say I'm the Homer Simpson of the group. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3150@5",
+    "4238@1",
+    "8399@1",
+    "8435@8",
+    "45138@2",
+    "45470@1",
+    "51301@6",
+    "81210@1",
+    "88084@1",
+    "198907@1",
+    "253748@1",
+    "327776@1",
+    "332709@2",
+    "402510@1",
+    "451937@1",
+    "464503@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

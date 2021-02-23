@@ -1,0 +1,20 @@
+{
+  "id": 1177,
+  "name": "Darcy",
+  "generation": 0,
+  "created_at": "2017-11-23T09:48:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Darcy. In high school, I was voted most likely to work at NASA. Some people say I'm the Peter Griffin of the group. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3164@1",
+    "3455@1",
+    "3562@2",
+    "11090@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

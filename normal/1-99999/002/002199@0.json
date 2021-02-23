@@ -1,0 +1,17 @@
+{
+  "id": 2199,
+  "name": "Gen 0, no kids",
+  "generation": 0,
+  "created_at": "2017-11-23T12:41:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 0, no kids. I've never told anyone this, but I once cleaned a dog. It's not common knowledge, but my ancestry connects me to Cleopatra. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3014,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T20:02:43.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #3014. All you need to know about me is I hate steak with a passion. I put cinammon on everything. Like, everything: hot dogs, ice cream—everything! I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "1064@0",
+  "sire": "1086@0",
+  "children": [
+    "3039@2",
+    "3159@2",
+    "3450@3",
+    "3507@4"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

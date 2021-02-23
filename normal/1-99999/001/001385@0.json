@@ -1,0 +1,21 @@
+{
+  "id": 1385,
+  "name": "B - Gen 0 - 2",
+  "generation": 0,
+  "created_at": "2017-11-23T10:24:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's B - Gen 0 - 2. I once peed on Nelson Mandela's cat. They had it coming. I once dreamed of being a Ventriloquist. Now I can be found people-watching all day. Will you be the maple syrup to my soy sauce?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3343@1",
+    "3546@2",
+    "23842@10",
+    "35819@1",
+    "69171@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

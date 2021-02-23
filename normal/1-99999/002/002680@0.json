@@ -1,0 +1,22 @@
+{
+  "id": 2680,
+  "name": "gen0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:58:41.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! My name's gen0. I once peed on Cleopatra's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "8896@7",
+    "9393@3",
+    "9427@2",
+    "9549@14",
+    "52580@17",
+    "738397@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

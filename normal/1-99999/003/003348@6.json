@@ -1,0 +1,22 @@
+{
+  "id": 3348,
+  "name": "Chubby Paw",
+  "generation": 6,
+  "created_at": "2017-11-23T23:54:37.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Chubby Paw. I'm a Aerobics Athlete  by day, and I like swiping left by night. I once got in a fight with a dolphin, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3320@5",
+  "sire": "3312@1",
+  "children": [
+    "14015@7",
+    "56889@7",
+    "80546@7",
+    "121213@7",
+    "151605@8",
+    "257584@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

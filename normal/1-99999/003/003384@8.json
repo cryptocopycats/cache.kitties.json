@@ -1,0 +1,20 @@
+{
+  "id": 3384,
+  "name": "Ol' Greg",
+  "generation": 8,
+  "created_at": "2017-11-24T00:05:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Ol' Greg. I'm often referred to as the Chandler Bing of the group. I put marmite on everything. Like, everything: hot dogs, cantaloupe—everything! Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "3242@7",
+  "sire": "3246@6",
+  "children": [
+    "3437@9",
+    "3733@9",
+    "4421@9",
+    "48471@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

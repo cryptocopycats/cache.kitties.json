@@ -1,0 +1,23 @@
+{
+  "id": 2203,
+  "name": "Gen 0 - coffee-pouty",
+  "generation": 0,
+  "created_at": "2017-11-23T12:41:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Gen 0 - coffee-pouty here. I'm here to enjoy fighting the patriarchy and eating until I loathe myself. I once made a rabbit trot. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "8424@7",
+    "10512@4",
+    "33622@1",
+    "33787@1",
+    "34170@1",
+    "35114@1",
+    "154216@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1376,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:22:14.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! Kitty #1376 here. I'm here to enjoy eating lasagna and watching Stranger Things. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3356@1",
+    "3388@3",
+    "27805@1",
+    "28118@1",
+    "28422@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

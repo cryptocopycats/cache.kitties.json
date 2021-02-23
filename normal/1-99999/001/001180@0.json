@@ -1,0 +1,22 @@
+{
+  "id": 1180,
+  "name": "OG Sphynx",
+  "generation": 0,
+  "created_at": "2017-11-23T09:48:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm OG Sphynx. I enjoy grooming, fighting for the people, and breakdancing. I'm often described as prickly, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3716@1",
+    "199511@5",
+    "200242@11",
+    "200881@13",
+    "201033@5",
+    "214250@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

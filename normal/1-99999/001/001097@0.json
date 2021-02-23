@@ -1,0 +1,22 @@
+{
+  "id": 1097,
+  "name": "Edgar",
+  "generation": 0,
+  "created_at": "2017-11-23T09:35:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Edgar. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3008@1",
+    "3036@1",
+    "3064@3",
+    "339370@1",
+    "354217@1",
+    "360224@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1297,
+  "name": "Genghis Khan",
+  "generation": 0,
+  "created_at": "2017-11-23T10:08:15.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Genghis Khan. I enjoy eating lasagna, eating until I loathe myself, and sweating through my feet. Sometimes I daydream of a life full of chasing red dots, cereal, and swiping right. Our friendship will be voluptuous, prickly, and full of hamburgers.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3166@5",
+    "3195@2",
+    "5733@9",
+    "13536@13",
+    "19948@12",
+    "66760@1",
+    "70308@1",
+    "99804@14",
+    "153360@8",
+    "273341@1",
+    "279078@1",
+    "314062@7"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

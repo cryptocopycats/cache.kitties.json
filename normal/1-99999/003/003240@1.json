@@ -1,0 +1,19 @@
+{
+  "id": 3240,
+  "name": "3240",
+  "generation": 1,
+  "created_at": "2017-11-23T23:11:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 3240. I'm often referred to as the Frodo Baggins of the group. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1043@0",
+  "sire": "1280@0",
+  "children": [
+    "3552@2",
+    "3684@2",
+    "5364@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

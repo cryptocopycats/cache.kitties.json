@@ -1,0 +1,28 @@
+{
+  "id": 1426,
+  "name": "purebreed: munchkin",
+  "generation": 0,
+  "created_at": "2017-11-23T10:29:59.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm purebreed: munchkin. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Amelia Earhart. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3282@1",
+    "3329@1",
+    "3367@1",
+    "3394@1",
+    "130307@1",
+    "533275@1",
+    "558773@1",
+    "564410@1",
+    "709209@1",
+    "740694@1",
+    "836832@1",
+    "1305448@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

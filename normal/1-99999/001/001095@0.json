@@ -1,0 +1,18 @@
+{
+  "id": 1095,
+  "name": "Juan",
+  "generation": 0,
+  "created_at": "2017-11-23T09:35:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Juan. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3585@1",
+    "3640@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

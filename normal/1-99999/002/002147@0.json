@@ -1,0 +1,22 @@
+{
+  "id": 2147,
+  "name": "Helen says no",
+  "generation": 0,
+  "created_at": "2017-11-23T12:29:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Helen says no. I'm a Mad Scientist by day, and I like people-watching by night. My secret indulgence is wet food. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "314788@1",
+    "315332@1",
+    "316502@1",
+    "317370@1",
+    "322259@1",
+    "324675@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

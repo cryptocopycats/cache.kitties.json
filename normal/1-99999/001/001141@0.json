@@ -1,0 +1,30 @@
+{
+  "id": 1141,
+  "name": "Top 2000 Gen0 Kitty",
+  "generation": 0,
+  "created_at": "2017-11-23T09:42:35.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Top 2000 Gen0 Kitty. All you need to know about me is I hate lasagna with a passion. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3156@6",
+    "3180@5",
+    "4247@1",
+    "46906@15",
+    "94701@1",
+    "97022@1",
+    "172595@1",
+    "187816@1",
+    "201486@1",
+    "231203@1",
+    "273211@1",
+    "300318@1",
+    "365011@1",
+    "454208@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

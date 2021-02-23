@@ -1,0 +1,22 @@
+{
+  "id": 2361,
+  "name": "Gen 0 Original Green",
+  "generation": 0,
+  "created_at": "2017-11-23T13:06:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen 0 Original Green. My friends describe me as hairy and vegan. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6423@9",
+    "6526@6",
+    "7333@13",
+    "7840@11",
+    "34851@1",
+    "115865@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

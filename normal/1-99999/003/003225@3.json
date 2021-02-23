@@ -1,0 +1,23 @@
+{
+  "id": 3225,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-23T23:06:27.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #3225. I'm a Spin Instructor  by day, and I like running a podcast by night. I put garlic butter on everything. Like, everything: hot dogs, lasagna—everything! I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "3200@2",
+  "sire": "1057@0",
+  "children": [
+    "3695@4",
+    "3718@10",
+    "3872@4",
+    "3940@6",
+    "4132@8",
+    "4505@6",
+    "4809@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

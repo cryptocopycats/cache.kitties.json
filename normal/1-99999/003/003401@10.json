@@ -1,0 +1,22 @@
+{
+  "id": 3401,
+  "name": "Minto",
+  "generation": 10,
+  "created_at": "2017-11-24T00:12:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Minto. I'm a professional Foreign Film Director and I love apple pie. My friends describe me as \"prickly.\" It's... accurate. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "1402@0",
+  "sire": "3323@9",
+  "children": [
+    "3453@11",
+    "4422@11",
+    "4917@11",
+    "6986@11",
+    "7148@11",
+    "11305@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 502,
+  "name": "五粮液",
+  "generation": 0,
+  "created_at": "2017-11-23T07:56:03.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm 五粮液. I'm a Dogwalker by day, and I like jump-roping by night. I was voted biggest teacher's pet in college. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "22217@3",
+    "30909@7",
+    "35865@8",
+    "37321@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

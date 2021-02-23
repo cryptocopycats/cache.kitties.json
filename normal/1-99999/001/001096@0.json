@@ -1,0 +1,18 @@
+{
+  "id": 1096,
+  "name": "Squirrely",
+  "generation": 0,
+  "created_at": "2017-11-23T09:35:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Squirrely. All you need to know about me is I hate cereal with a passion. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "4443@6",
+    "11256@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

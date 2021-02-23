@@ -1,0 +1,21 @@
+{
+  "id": 2502,
+  "name": "#2502 GEN 0 Garfield",
+  "generation": 0,
+  "created_at": "2017-11-23T13:28:59.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm #2502 GEN 0 Garfield. I enjoy shakin' dat booty, glaring at the neighbour's cat, and reading garfield. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7812@1",
+    "9443@1",
+    "9625@2",
+    "65207@6",
+    "97369@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

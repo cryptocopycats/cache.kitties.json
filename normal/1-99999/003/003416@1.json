@@ -1,0 +1,25 @@
+{
+  "id": 3416,
+  "name": "Collector's Under 5000 Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-24T00:15:14.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! Collector's Under 5000 Gen 1 here. I'm here to enjoy staying woke and chasing red dots. I am 28% elf, 72% Dispensary Clerk, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1184@0",
+  "sire": "1129@0",
+  "children": [
+    "133104@2",
+    "133443@2",
+    "133845@2",
+    "134671@2",
+    "135199@2",
+    "136607@2",
+    "145303@7",
+    "148507@7",
+    "192547@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

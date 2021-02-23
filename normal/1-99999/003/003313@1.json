@@ -1,0 +1,17 @@
+{
+  "id": 3313,
+  "name": "cat",
+  "generation": 1,
+  "created_at": "2017-11-23T23:39:20.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm cat. I'm a Skydiving Instructor by day, and I like riverdancing by night. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1199@0",
+  "sire": "1035@0",
+  "children": [
+    "33576@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

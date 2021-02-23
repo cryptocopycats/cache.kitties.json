@@ -1,0 +1,22 @@
+{
+  "id": 2723,
+  "name": "Tekir (Gen 0, pre-launch)",
+  "generation": 0,
+  "created_at": "2017-11-23T14:07:18.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Tekir (Gen 0, pre-launch). I'm a professional Mad Scientist and I love ice cream. In my free time, I can usually be found gorgeous or reading Danielle Steele. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6079@1",
+    "7195@1",
+    "7250@1",
+    "16236@17",
+    "32791@19",
+    "33854@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

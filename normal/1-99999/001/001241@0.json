@@ -1,0 +1,20 @@
+{
+  "id": 1241,
+  "name": "RARE LUCKY Gen 0 幸运",
+  "generation": 0,
+  "created_at": "2017-11-23T09:59:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm RARE LUCKY Gen 0 幸运. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Rihanna. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3393@1",
+    "6616@1",
+    "13339@1",
+    "486213@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

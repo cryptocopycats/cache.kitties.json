@@ -1,0 +1,21 @@
+{
+  "id": 1113,
+  "name": "Kitty #1113",
+  "generation": 0,
+  "created_at": "2017-11-23T09:38:54.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #1113. I'm a Dispensary Clerk by day, and I like running a podcast by night. When I'm not summoning ghosts, I'm people-watching! Our friendship will be smelly, seductive, and full of chocolate.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3331@1",
+    "3365@1",
+    "3420@1",
+    "4679@1",
+    "15397@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

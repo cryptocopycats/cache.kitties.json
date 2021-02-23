@@ -1,0 +1,18 @@
+{
+  "id": 2101,
+  "name": "Gen 0 Swift",
+  "generation": 0,
+  "created_at": "2017-11-23T12:24:48.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 0 Swift. My friends describe me as wondrous and gullible. My great-great-great-great-great-great grandkitty lived with Mother Theresa. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5880@9",
+    "54382@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

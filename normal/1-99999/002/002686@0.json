@@ -1,0 +1,22 @@
+{
+  "id": 2686,
+  "name": "G0 | Binks",
+  "generation": 0,
+  "created_at": "2017-11-23T14:00:06.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm G0 | Binks. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"gorgeous.\" It's... accurate. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "43894@1",
+    "48331@1",
+    "48881@1",
+    "188709@1",
+    "467903@2",
+    "949977@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

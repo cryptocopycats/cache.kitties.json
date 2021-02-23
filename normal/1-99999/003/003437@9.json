@@ -1,0 +1,22 @@
+{
+  "id": 3437,
+  "name": "Despicable Pete Purr",
+  "generation": 9,
+  "created_at": "2017-11-24T00:25:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Despicable Pete Purr. I want to live in a world where people believe the world is flat. I'm often described as despicable, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "3347@6",
+  "sire": "3384@8",
+  "children": [
+    "3540@10",
+    "4362@10",
+    "5432@14",
+    "5791@10",
+    "7071@10",
+    "7261@10"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3044,
+  "name": "Jon Snow",
+  "generation": 2,
+  "created_at": "2017-11-23T20:15:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Jon Snow. My friends describe me as stinky and smelly. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "1039@0",
+  "sire": "3030@1",
+  "children": [
+    "3512@3",
+    "3744@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

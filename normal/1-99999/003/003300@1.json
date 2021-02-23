@@ -1,0 +1,30 @@
+{
+  "id": 3300,
+  "name": "LUCKY NUMBER 3300",
+  "generation": 1,
+  "created_at": "2017-11-23T23:33:16.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm LUCKY NUMBER 3300. I've never told anyone this, but I once groomed a dog. I was voted school jock in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1192@0",
+  "sire": "1105@0",
+  "children": [
+    "182522@2",
+    "186654@2",
+    "186950@2",
+    "188061@2",
+    "189661@2",
+    "195042@2",
+    "207830@3",
+    "212600@2",
+    "230781@2",
+    "256523@2",
+    "286175@2",
+    "329699@2",
+    "373820@2",
+    "505329@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

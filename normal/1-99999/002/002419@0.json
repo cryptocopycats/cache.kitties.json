@@ -1,0 +1,28 @@
+{
+  "id": 2419,
+  "name": "Cozy Cat",
+  "generation": 0,
+  "created_at": "2017-11-23T13:15:13.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Cozy Cat. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Cleopatra. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "9691@1",
+    "33235@1",
+    "55684@1",
+    "228136@5",
+    "236015@1",
+    "246014@1",
+    "250114@12",
+    "251480@14",
+    "291249@1",
+    "291550@11",
+    "318946@7",
+    "462274@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

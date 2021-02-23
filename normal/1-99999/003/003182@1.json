@@ -1,0 +1,21 @@
+{
+  "id": 3182,
+  "name": "Longbottom",
+  "generation": 1,
+  "created_at": "2017-11-23T22:49:23.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Longbottom. I'm often referred to as the Neville Longbottom of the group. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1033@0",
+  "sire": "1040@0",
+  "children": [
+    "9236@2",
+    "10144@2",
+    "133089@6",
+    "146402@6",
+    "193661@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

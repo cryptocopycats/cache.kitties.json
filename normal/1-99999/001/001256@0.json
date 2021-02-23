@@ -1,0 +1,25 @@
+{
+  "id": 1256,
+  "name": "Stumpy",
+  "generation": 0,
+  "created_at": "2017-11-23T10:01:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Stumpy. I want to live in a world where people believe that one day cats will rule this planet. I once made a goose sulk. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3369@1",
+    "16322@14",
+    "260526@25",
+    "306057@1",
+    "307720@1",
+    "309095@1",
+    "311022@1",
+    "314554@1",
+    "321537@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

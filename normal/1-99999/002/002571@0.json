@@ -1,0 +1,18 @@
+{
+  "id": 2571,
+  "name": "Stinky",
+  "generation": 0,
+  "created_at": "2017-11-23T13:40:55.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Stinky. My friends describe me as stinky and raunchy. My secret indulgence is ice cream. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "9865@13",
+    "10778@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

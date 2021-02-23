@@ -1,0 +1,21 @@
+{
+  "id": 1089,
+  "name": "Faux Garfield",
+  "generation": 0,
+  "created_at": "2017-11-23T09:34:12.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Faux Garfield. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found preposterous or braiding people's hair. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3009@1",
+    "3019@1",
+    "8923@5",
+    "10445@2",
+    "19987@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

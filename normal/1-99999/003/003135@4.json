@@ -1,0 +1,23 @@
+{
+  "id": 3135,
+  "name": "Gen4 Slow",
+  "generation": 4,
+  "created_at": "2017-11-23T22:25:57.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen4 Slow. I'm often referred to as the Dwight Schrute of the group. I once got in a fight with a goose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1203@0",
+  "sire": "3107@3",
+  "children": [
+    "3166@5",
+    "13923@8",
+    "14080@15",
+    "14423@10",
+    "16457@18",
+    "17488@14",
+    "23859@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

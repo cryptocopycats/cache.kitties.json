@@ -1,0 +1,25 @@
+{
+  "id": 3065,
+  "name": "Catnip",
+  "generation": 1,
+  "created_at": "2017-11-23T20:33:54.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Catnip. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Wutang while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "1038@0",
+  "sire": "1016@0",
+  "children": [
+    "3069@2",
+    "3243@2",
+    "3413@3",
+    "3535@4",
+    "4127@3",
+    "4307@7",
+    "6705@5",
+    "7426@12",
+    "8190@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

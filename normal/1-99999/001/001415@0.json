@@ -1,0 +1,18 @@
+{
+  "id": 1415,
+  "name": "Guerrero",
+  "generation": 0,
+  "created_at": "2017-11-23T10:28:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Guerrero. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of slappin' da bass, lasagna, and volunteering at the local kitten rescue shelter. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3404@3",
+    "11484@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

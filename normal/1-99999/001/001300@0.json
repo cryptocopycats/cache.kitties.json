@@ -1,0 +1,19 @@
+{
+  "id": 1300,
+  "name": "Garth",
+  "generation": 0,
+  "created_at": "2017-11-23T10:08:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Garth. My friends describe me as wondrous and seductive. I'm often described as fabulous, and I own it. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3160@1",
+    "3951@7",
+    "11155@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

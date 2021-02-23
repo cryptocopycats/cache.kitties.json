@@ -1,0 +1,20 @@
+{
+  "id": 3386,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-11-24T00:05:47.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #3386. I'm often referred to as the Homer Simpson of the group. I like to listen to Coldplay while grooming. Don't judge me. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "1092@0",
+  "sire": "3248@2",
+  "children": [
+    "4109@4",
+    "4144@6",
+    "5446@13",
+    "142222@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

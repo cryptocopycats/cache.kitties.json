@@ -1,0 +1,28 @@
+{
+  "id": 2615,
+  "name": "Minty - Gen0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:48:25.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Minty - Gen0. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6993@10",
+    "8991@7",
+    "9001@16",
+    "9415@1",
+    "9500@1",
+    "9585@1",
+    "9895@1",
+    "13055@1",
+    "13058@1",
+    "57006@1",
+    "87857@9",
+    "137756@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

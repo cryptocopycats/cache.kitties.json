@@ -1,0 +1,19 @@
+{
+  "id": 3295,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-23T23:31:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #3295. I'm often referred to as the Ron Weasley of the group. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Let's pawty!",
+  "language": "en",
+  "matron": "3269@1",
+  "sire": "1382@0",
+  "children": [
+    "3325@3",
+    "3548@3",
+    "16598@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

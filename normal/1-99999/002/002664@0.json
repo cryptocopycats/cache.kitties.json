@@ -1,0 +1,25 @@
+{
+  "id": 2664,
+  "name": "G0 | Snappy",
+  "generation": 0,
+  "created_at": "2017-11-23T13:56:09.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's G0 | Snappy. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Niles Crane of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "11705@13",
+    "12062@13",
+    "12429@11",
+    "30820@8",
+    "39361@17",
+    "77601@3",
+    "99283@5",
+    "116125@1",
+    "162408@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

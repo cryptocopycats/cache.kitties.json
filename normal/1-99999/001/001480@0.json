@@ -1,0 +1,32 @@
+{
+  "id": 1480,
+  "name": "Top 2000 Gen0",
+  "generation": 0,
+  "created_at": "2017-11-23T10:38:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Top 2000 Gen0. I'm a professional Skydiving Instructor and I love lasagna. Some people say I'm the Michael Scott of the group. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "53211@1",
+    "74912@1",
+    "84162@1",
+    "85497@1",
+    "88821@1",
+    "100279@1",
+    "102825@2",
+    "103404@1",
+    "108546@1",
+    "119773@1",
+    "136170@1",
+    "200638@1",
+    "320148@1",
+    "396240@1",
+    "414248@1",
+    "521869@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

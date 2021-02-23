@@ -1,0 +1,32 @@
+{
+  "id": 2099,
+  "name": "EARLY #2099 GEN 0",
+  "generation": 0,
+  "created_at": "2017-11-23T12:24:48.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm EARLY #2099 GEN 0. I believe that one day cats will rule this planet. Some people say I'm the Samwise Gamgee of the group. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6768@1",
+    "6799@2",
+    "6813@1",
+    "6945@9",
+    "7223@3",
+    "7563@14",
+    "7775@9",
+    "13926@1",
+    "274028@1",
+    "319085@1",
+    "322606@1",
+    "351914@1",
+    "402510@1",
+    "557036@1",
+    "616146@1",
+    "1172166@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

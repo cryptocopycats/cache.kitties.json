@@ -1,0 +1,30 @@
+{
+  "id": 1203,
+  "name": "1203 - gen 0 - Slug",
+  "generation": 0,
+  "created_at": "2017-11-23T09:52:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm 1203 - gen 0 - Slug. I'm a Mad Scientist by day, and I like pole dancing by night. In my free time, I can usually be found gullible or mocking dogs. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3135@4",
+    "4914@6",
+    "5213@8",
+    "9913@14",
+    "10290@1",
+    "10434@4",
+    "10710@1",
+    "11932@8",
+    "12224@3",
+    "17625@1",
+    "23290@1",
+    "58575@1",
+    "163414@1",
+    "188682@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

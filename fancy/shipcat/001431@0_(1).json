@@ -1,0 +1,27 @@
+{
+  "id": 1431,
+  "name": "Liam - Very First Fancy Cat!!!",
+  "generation": 0,
+  "created_at": "2017-11-23T10:33:21.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hello darkness, my old friend! I'm Liam - Very First Fancy Cat!!!. I tend to sashay when I'm excited. I'm descended from Nyan Cat. Please pay attention to me.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3297@1",
+    "4510@4",
+    "17518@13",
+    "23379@5",
+    "24795@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

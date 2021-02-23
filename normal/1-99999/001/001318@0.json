@@ -1,0 +1,30 @@
+{
+  "id": 1318,
+  "name": "Foobaz - Gen0 - LOW",
+  "generation": 0,
+  "created_at": "2017-11-23T10:12:53.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Foobaz - Gen0 - LOW. All you need to know about me is I hate hamburgers with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "8634@1",
+    "8669@1",
+    "10062@1",
+    "10068@1",
+    "10287@1",
+    "10486@1",
+    "10769@1",
+    "12762@1",
+    "14567@1",
+    "18562@1",
+    "24152@1",
+    "45478@1",
+    "138463@1",
+    "340259@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

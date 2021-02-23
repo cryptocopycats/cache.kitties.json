@@ -1,0 +1,19 @@
+{
+  "id": 3213,
+  "name": "Gene",
+  "generation": 3,
+  "created_at": "2017-11-23T23:01:35.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Gene. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Marge Simpson of the group. Will you be the ranch dressing to my peanut butter?",
+  "language": "en",
+  "matron": "3190@2",
+  "sire": "3120@1",
+  "children": [
+    "3377@4",
+    "3681@4",
+    "20710@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

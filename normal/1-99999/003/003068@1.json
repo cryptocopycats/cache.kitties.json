@@ -1,0 +1,20 @@
+{
+  "id": 3068,
+  "name": "Jenkins",
+  "generation": 1,
+  "created_at": "2017-11-23T20:39:11.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Jenkins. I enjoy slappin' da bass, picking on mice, and spinning sick beats. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Let's get busy!",
+  "language": "en",
+  "matron": "1034@0",
+  "sire": "1014@0",
+  "children": [
+    "3070@2",
+    "3074@2",
+    "3218@2",
+    "3461@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

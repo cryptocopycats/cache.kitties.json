@@ -1,0 +1,22 @@
+{
+  "id": 3285,
+  "name": "Phruple",
+  "generation": 7,
+  "created_at": "2017-11-23T23:28:36.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Phruple. I'm a Mad Scientist by day, and I like people-watching by night. I once got in a fight with a rabbit, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3246@6",
+  "sire": "3251@5",
+  "children": [
+    "3332@8",
+    "3496@8",
+    "4276@8",
+    "5242@10",
+    "5933@11",
+    "7025@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

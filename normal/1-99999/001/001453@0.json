@@ -1,0 +1,26 @@
+{
+  "id": 1453,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:35:02.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #1453. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "38178@1",
+    "38320@1",
+    "38591@1",
+    "38876@1",
+    "39354@1",
+    "40147@1",
+    "41301@1",
+    "45527@1",
+    "56755@1",
+    "84216@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

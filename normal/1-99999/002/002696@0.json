@@ -1,0 +1,26 @@
+{
+  "id": 2696,
+  "name": "Derpy",
+  "generation": 0,
+  "created_at": "2017-11-23T14:01:26.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Derpy. My friends describe me as vegan and raunchy. Some people say I'm the Cersei Lannister of the group. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "10114@14",
+    "19453@14",
+    "31433@13",
+    "78877@1",
+    "80345@5",
+    "91832@1",
+    "95470@1",
+    "98884@1",
+    "107066@1",
+    "115127@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

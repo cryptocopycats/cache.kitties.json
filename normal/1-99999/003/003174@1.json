@@ -1,0 +1,28 @@
+{
+  "id": 3174,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T22:45:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #3174. In high school, I was voted most likely to work at NASA. I once dreamed of being a Ventriloquist. Now I can be found watching reality tv all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1045@0",
+  "sire": "1210@0",
+  "children": [
+    "3189@4",
+    "3212@3",
+    "3273@4",
+    "3933@6",
+    "3962@8",
+    "8272@8",
+    "8278@13",
+    "9540@14",
+    "10297@10",
+    "19525@3",
+    "27014@3",
+    "64011@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

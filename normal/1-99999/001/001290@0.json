@@ -1,0 +1,19 @@
+{
+  "id": 1290,
+  "name": "Doggy",
+  "generation": 0,
+  "created_at": "2017-11-23T10:07:15.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Doggy. I'm a professional Dogwalker and I love salad. When I'm not tricking babies, I'm swiping left! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3167@1",
+    "3177@1",
+    "3443@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

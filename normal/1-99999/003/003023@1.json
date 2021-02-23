@@ -1,0 +1,18 @@
+{
+  "id": 3023,
+  "name": "Part 6225",
+  "generation": 1,
+  "created_at": "2017-11-23T20:06:12.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Part 6225. My friends describe me as hairy and seductive. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1038@0",
+  "sire": "1069@0",
+  "children": [
+    "6539@6",
+    "6594@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

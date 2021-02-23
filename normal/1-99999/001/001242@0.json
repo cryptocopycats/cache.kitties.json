@@ -1,0 +1,26 @@
+{
+  "id": 1242,
+  "name": "Seal Seal",
+  "generation": 0,
+  "created_at": "2017-11-23T09:59:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Seal Seal. All you need to know about me is I hate cereal with a passion. In my free time, I can usually be found tantalizing or practicing witchcraft. Can you make my stinky dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3336@6",
+    "3426@1",
+    "3779@1",
+    "3856@4",
+    "3901@9",
+    "4104@7",
+    "5098@1",
+    "7815@16",
+    "22099@8",
+    "111330@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

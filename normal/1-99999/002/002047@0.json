@@ -1,0 +1,21 @@
+{
+  "id": 2047,
+  "name": "Seamaker Gen0",
+  "generation": 0,
+  "created_at": "2017-11-23T12:20:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Seamaker Gen0. In high school, I was voted school jock. I once snuggled a rhino. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6322@8",
+    "6385@4",
+    "6527@11",
+    "13436@1",
+    "31083@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

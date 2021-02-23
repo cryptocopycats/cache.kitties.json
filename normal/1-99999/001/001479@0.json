@@ -1,0 +1,20 @@
+{
+  "id": 1479,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:38:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #1479. I'm a Mad Scientist by day, and I like talking about how much I lift by night. I once bit a rooster. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3353@1",
+    "144723@1",
+    "170563@2",
+    "1088642@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

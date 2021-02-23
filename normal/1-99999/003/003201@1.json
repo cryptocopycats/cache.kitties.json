@@ -1,0 +1,26 @@
+{
+  "id": 3201,
+  "name": "Ethstatic Kitty",
+  "generation": 1,
+  "created_at": "2017-11-23T22:57:05.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! My name's Ethstatic Kitty. I once peed on Confucius's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1277@0",
+  "sire": "1116@0",
+  "children": [
+    "35566@7",
+    "49222@2",
+    "90407@2",
+    "93077@2",
+    "94507@2",
+    "95980@2",
+    "99019@2",
+    "125344@2",
+    "141782@2",
+    "277981@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

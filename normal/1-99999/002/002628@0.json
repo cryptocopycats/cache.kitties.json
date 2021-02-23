@@ -1,0 +1,22 @@
+{
+  "id": 2628,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:51:40.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 0. I'm a professional Train Conductor and I love wet food. When I'm not summoning ghosts, I'm prank-calling celebrities! Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6075@1",
+    "6158@1",
+    "6247@1",
+    "7555@3",
+    "8139@11",
+    "11463@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

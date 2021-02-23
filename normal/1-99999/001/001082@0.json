@@ -1,0 +1,22 @@
+{
+  "id": 1082,
+  "name": "Faux Avatar",
+  "generation": 0,
+  "created_at": "2017-11-23T09:34:12.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! Faux Avatar here. I'm here to enjoy spinning sick beats and riding dirty. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3019@1",
+    "3037@2",
+    "5172@6",
+    "5904@1",
+    "7542@2",
+    "7633@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

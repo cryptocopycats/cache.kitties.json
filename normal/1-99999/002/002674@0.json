@@ -1,0 +1,25 @@
+{
+  "id": 2674,
+  "name": "ETH gen0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:58:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm ETH gen0. My friends describe me as tantalizing and prickly. I would give it all up to star in a soap opera. Will you be the ghost pepper hot sauce to my soy sauce?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6810@1",
+    "6887@11",
+    "7005@8",
+    "7017@1",
+    "7037@4",
+    "8194@1",
+    "9478@11",
+    "59150@1",
+    "96370@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

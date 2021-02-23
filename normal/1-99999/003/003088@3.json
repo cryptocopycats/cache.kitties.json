@@ -1,0 +1,28 @@
+{
+  "id": 3088,
+  "name": "Iceblink",
+  "generation": 3,
+  "created_at": "2017-11-23T21:09:49.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Iceblink. I want to live in a world where people believe that one day cats will rule this planet. When I'm not running a podcast, I'm riding the bus! Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "1016@0",
+  "sire": "3020@2",
+  "children": [
+    "3096@4",
+    "3097@4",
+    "3124@4",
+    "3137@4",
+    "3214@4",
+    "3359@4",
+    "4147@4",
+    "4666@4",
+    "6769@12",
+    "7624@14",
+    "8941@13",
+    "114249@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

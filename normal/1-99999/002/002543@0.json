@@ -1,0 +1,19 @@
+{
+  "id": 2543,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T13:35:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #2543. In high school, I was voted school jock. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7201@2",
+    "12618@1",
+    "23404@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

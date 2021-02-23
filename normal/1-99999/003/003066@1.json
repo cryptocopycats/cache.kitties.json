@@ -1,0 +1,22 @@
+{
+  "id": 3066,
+  "name": "#3066 Gen 1 Brisk",
+  "generation": 1,
+  "created_at": "2017-11-23T20:36:07.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm #3066 Gen 1 Brisk. I'm often referred to as the Bart Simpson of the group. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "1045@0",
+  "sire": "1062@0",
+  "children": [
+    "3114@4",
+    "33834@3",
+    "35061@4",
+    "40033@2",
+    "45016@8",
+    "46308@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

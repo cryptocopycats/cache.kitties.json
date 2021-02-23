@@ -1,0 +1,22 @@
+{
+  "id": 3432,
+  "name": "Angelo Yarntail",
+  "generation": 5,
+  "created_at": "2017-11-24T00:22:20.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Angelo Yarntail. I'm often referred to as the Jon Snow of the group. My friends describe me as \"ridiculous.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3373@4",
+  "sire": "3211@1",
+  "children": [
+    "5968@6",
+    "6004@8",
+    "6142@15",
+    "7104@15",
+    "7338@15",
+    "9483@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

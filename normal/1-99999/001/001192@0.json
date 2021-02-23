@@ -1,0 +1,23 @@
+{
+  "id": 1192,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T09:52:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #1192. I enjoy reciting poetry, sweating through my feet, and picking flowers. I once got in a fight with a dolphin, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3300@1",
+    "4781@1",
+    "214765@1",
+    "215588@1",
+    "236661@1",
+    "238332@9",
+    "254574@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

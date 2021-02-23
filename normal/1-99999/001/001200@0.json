@@ -1,0 +1,22 @@
+{
+  "id": 1200,
+  "name": "Kitty #1200",
+  "generation": 0,
+  "created_at": "2017-11-23T09:52:34.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's Kitty #1200. I once peed on King Henry VIII's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with King Henry VIII. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3090@2",
+    "3093@2",
+    "3102@2",
+    "3331@1",
+    "3532@1",
+    "150443@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

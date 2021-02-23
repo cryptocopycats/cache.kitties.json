@@ -1,0 +1,25 @@
+{
+  "id": 3434,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-24T00:25:32.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #3434. I want to live in a world where people believe that one day cats will rule this planet. I put soy sauce on everything. Like, everything: hot dogs, hamburgers—everything! I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "1381@0",
+  "sire": "1270@0",
+  "children": [
+    "205009@2",
+    "205126@2",
+    "205425@2",
+    "205834@2",
+    "226527@3",
+    "229223@2",
+    "235517@2",
+    "240480@2",
+    "265080@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1185,
+  "name": "Bright",
+  "generation": 0,
+  "created_at": "2017-11-23T09:50:24.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Bright. I'm a Private Dancer  by day, and I like summoning ghosts by night. I like to listen to Metallica while grooming. Don't judge me. Will you be the soy sauce to my marmite?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3400@1",
+    "3482@1",
+    "184197@1",
+    "450059@9",
+    "1420483@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

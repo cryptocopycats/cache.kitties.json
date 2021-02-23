@@ -1,0 +1,18 @@
+{
+  "id": 2162,
+  "name": "gen0 swift",
+  "generation": 0,
+  "created_at": "2017-11-23T12:33:19.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm gen0 swift. In high school, I was voted school jock. I was voted school jock in college. Our friendship will be prickly, seductive, and full of wet food.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "8052@1",
+    "11075@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

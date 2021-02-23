@@ -1,0 +1,21 @@
+{
+  "id": 1271,
+  "name": "Swift Coffee Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T10:06:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Swift Coffee Gen 0. I'm a professional Spin Instructor  and I love chocolate. I once kissed a moose. I don't like to talk about it. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5533@1",
+    "244932@4",
+    "261813@9",
+    "348463@1",
+    "498789@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

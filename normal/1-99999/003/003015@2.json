@@ -1,0 +1,22 @@
+{
+  "id": 3015,
+  "name": "1st Gen2 Ever",
+  "generation": 2,
+  "created_at": "2017-11-23T20:02:43.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! 1st Gen2 Ever here. I'm here to enjoy glaring at the neighbour's cat and riding dirty. My friends describe me as \"voluptuous.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1074@0",
+  "sire": "3002@1",
+  "children": [
+    "3048@3",
+    "3082@3",
+    "4209@3",
+    "4689@8",
+    "4818@8",
+    "6607@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

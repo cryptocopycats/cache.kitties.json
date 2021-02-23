@@ -1,0 +1,22 @@
+{
+  "id": 3393,
+  "name": "Alice",
+  "generation": 1,
+  "created_at": "2017-11-24T00:11:13.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Alice. I'm a Mad Scientist by day, and I like playing chess by night. I am 52% gremlin, 0% Culinary Sanitation Specialist, and otherwise bad at math. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "1241@0",
+  "sire": "1157@0",
+  "children": [
+    "6854@2",
+    "7482@2",
+    "9107@2",
+    "13456@2",
+    "35255@2",
+    "71872@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

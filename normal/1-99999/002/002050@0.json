@@ -1,0 +1,17 @@
+{
+  "id": 2050,
+  "name": "Tigre",
+  "generation": 0,
+  "created_at": "2017-11-23T12:20:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Tigre. I'm often referred to as the Neville Longbottom of the group. I once made a rabbit enjoy. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7531@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

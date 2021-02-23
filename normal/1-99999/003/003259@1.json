@@ -1,0 +1,28 @@
+{
+  "id": 3259,
+  "name": "#2 Bubblegum",
+  "generation": 1,
+  "created_at": "2017-11-23T23:16:26.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm #2 Bubblegum. In high school, I was voted most likely to work at NASA. My secret indulgence is salad. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1187@0",
+  "sire": "1267@0",
+  "children": [
+    "3266@2",
+    "3337@2",
+    "4408@5",
+    "4475@2",
+    "4733@8",
+    "4798@7",
+    "13040@2",
+    "68477@2",
+    "180990@3",
+    "200400@3",
+    "235221@3",
+    "304859@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

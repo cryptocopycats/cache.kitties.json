@@ -1,0 +1,20 @@
+{
+  "id": 3377,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-24T00:03:23.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #3377. I'm often referred to as the Neville Longbottom of the group. I would give it all up to be on Oprah. Let's pawty!",
+  "language": "en",
+  "matron": "3364@2",
+  "sire": "3213@3",
+  "children": [
+    "3700@5",
+    "4211@5",
+    "6060@10",
+    "20925@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

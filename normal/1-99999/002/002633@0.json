@@ -1,0 +1,22 @@
+{
+  "id": 2633,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T13:51:55.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #2633. I'm a professional Dogwalker and I love cereal. I would give it all up for a Chanel purse. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "10291@15",
+    "10488@14",
+    "20257@8",
+    "23317@18",
+    "23647@13",
+    "27234@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

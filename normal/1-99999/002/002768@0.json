@@ -1,0 +1,27 @@
+{
+  "id": 2768,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T14:13:31.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Gen 0. I'm often referred to as the Michael Scott of the group. I am 45% fairy, 22% Dispensary Clerk, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6038@1",
+    "6050@1",
+    "6469@4",
+    "9291@2",
+    "9652@15",
+    "31284@1",
+    "32315@1",
+    "34666@1",
+    "39731@1",
+    "69232@1",
+    "86181@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2005,
+  "name": "James Bond",
+  "generation": 0,
+  "created_at": "2017-11-23T12:09:18.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm James Bond. I enjoy breakdancing, chasing red dots, and reading garfield. I once got in a fight with a gecko, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "13620@1",
+    "15235@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

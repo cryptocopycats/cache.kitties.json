@@ -1,0 +1,29 @@
+{
+  "id": 2493,
+  "name": "花花",
+  "generation": 0,
+  "created_at": "2017-11-23T13:28:17.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm 花花. I'm a professional Dogwalker and I love apple pie. I was voted school jock in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "24270@9",
+    "140465@1",
+    "140816@1",
+    "141096@1",
+    "141987@1",
+    "143385@1",
+    "146551@1",
+    "152133@1",
+    "164778@1",
+    "191283@1",
+    "225092@1",
+    "305829@2",
+    "377499@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

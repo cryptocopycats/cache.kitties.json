@@ -1,0 +1,20 @@
+{
+  "id": 2015,
+  "name": "Mittens",
+  "generation": 0,
+  "created_at": "2017-11-23T12:09:18.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! My name's Mittens. I once peed on Amelia Earhart's cat. They had it coming. I once dreamed of being a Skydiving Instructor. Now I can be found sleeping in fresh laundry all day. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7423@7",
+    "7441@10",
+    "7446@10",
+    "7785@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

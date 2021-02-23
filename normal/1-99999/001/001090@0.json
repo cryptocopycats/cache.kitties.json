@@ -1,0 +1,18 @@
+{
+  "id": 1090,
+  "name": "Gen 0 - 1090",
+  "generation": 0,
+  "created_at": "2017-11-23T09:34:12.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Gen 0 - 1090. I'm a Foreign Film Director by day, and I like reading Danielle Steele by night. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I look forward to tripping my owner with you.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3040@2",
+    "3451@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

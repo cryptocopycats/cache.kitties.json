@@ -1,0 +1,20 @@
+{
+  "id": 1260,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:02:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #1260. All you need to know about me is I hate lasagna with a passion. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3607@1",
+    "10556@2",
+    "10599@3",
+    "10701@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

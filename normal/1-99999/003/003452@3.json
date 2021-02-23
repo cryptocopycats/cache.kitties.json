@@ -1,0 +1,22 @@
+{
+  "id": 3452,
+  "name": "Purp",
+  "generation": 3,
+  "created_at": "2017-11-24T00:27:42.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Purp. I'm a professional Foreign Film Director and I love hamburgers. I once got in a fight with a rabbit, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1393@0",
+  "sire": "3253@2",
+  "children": [
+    "3642@4",
+    "3660@4",
+    "4901@4",
+    "4968@4",
+    "5264@4",
+    "151083@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3047,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-23T20:17:49.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #3047. I believe that one day cats will rule this planet. I am 90% fairy, 80% Dispensary Clerk, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "3031@1",
+  "sire": "3009@1",
+  "children": [
+    "3060@3",
+    "3104@3"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

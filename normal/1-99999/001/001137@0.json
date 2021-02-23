@@ -1,0 +1,25 @@
+{
+  "id": 1137,
+  "name": "Generic Grey Kitty",
+  "generation": 0,
+  "created_at": "2017-11-23T09:41:48.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Generic Grey Kitty. My friends describe me as preposterous and brilliant. Sometimes I daydream of a life full of taking selfies, chocolate, and mocking dogs. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3664@3",
+    "3693@2",
+    "3727@6",
+    "3809@6",
+    "10134@1",
+    "10151@1",
+    "10603@1",
+    "13643@8",
+    "16459@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

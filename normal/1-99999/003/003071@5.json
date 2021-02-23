@@ -1,0 +1,23 @@
+{
+  "id": 3071,
+  "name": "5 MintGreen",
+  "generation": 5,
+  "created_at": "2017-11-23T20:46:18.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm 5 MintGreen. I'm a professional Foreign Film Director and I love cantaloupe. I would give it all up for a Chanel purse. Let's pawty!",
+  "language": "en",
+  "matron": "3059@2",
+  "sire": "3062@4",
+  "children": [
+    "3076@6",
+    "3081@6",
+    "3649@6",
+    "4755@6",
+    "10674@13",
+    "13159@13",
+    "15941@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

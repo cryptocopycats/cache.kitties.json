@@ -1,0 +1,28 @@
+{
+  "id": 1301,
+  "name": "acl Oldy",
+  "generation": 0,
+  "created_at": "2017-11-23T10:08:44.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm acl Oldy. I'm often referred to as the Hermione Granger of the group. I like to listen to Rihanna while grooming. Don't judge me. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "13882@1",
+    "24640@1",
+    "39182@1",
+    "64049@4",
+    "229139@7",
+    "231369@5",
+    "244975@5",
+    "253246@8",
+    "284364@1",
+    "309598@3",
+    "314933@1",
+    "410728@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

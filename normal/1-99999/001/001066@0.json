@@ -1,0 +1,17 @@
+{
+  "id": 1066,
+  "name": "Fred",
+  "generation": 0,
+  "created_at": "2017-11-23T09:29:46.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Fred here. I'm here to enjoy breakdancing and fighting the patriarchy. Sometimes I daydream of a life full of watching Stranger Things, wet food, and mocking dogs. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "4427@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

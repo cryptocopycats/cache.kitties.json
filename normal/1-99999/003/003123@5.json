@@ -1,0 +1,17 @@
+{
+  "id": 3123,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-23T22:00:39.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #3123. I'm a Culinary Sanitation Specialist by day, and I like riding the bus by night. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3114@4",
+  "sire": "3046@2",
+  "children": [
+    "4350@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

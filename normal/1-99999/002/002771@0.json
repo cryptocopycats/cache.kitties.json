@@ -1,0 +1,26 @@
+{
+  "id": 2771,
+  "name": "Bazooka",
+  "generation": 0,
+  "created_at": "2017-11-23T14:14:19.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Bazooka. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Mad Scientist. Now I can be found tricking babies all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6038@1",
+    "6050@1",
+    "6097@3",
+    "6467@3",
+    "9289@5",
+    "92672@1",
+    "93497@1",
+    "104230@1",
+    "150533@1",
+    "1852125@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

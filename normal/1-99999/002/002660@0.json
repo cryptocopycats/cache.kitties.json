@@ -1,0 +1,22 @@
+{
+  "id": 2660,
+  "name": "Gen 0 - RARE",
+  "generation": 0,
+  "created_at": "2017-11-23T13:55:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 0 - RARE. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6058@1",
+    "6089@1",
+    "33622@1",
+    "33787@1",
+    "34170@1",
+    "35114@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

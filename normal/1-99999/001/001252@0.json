@@ -1,0 +1,21 @@
+{
+  "id": 1252,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:01:30.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #1252. I'm a professional Ventriloquist and I love ice cream. I was voted biggest teacher's pet in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3788@1",
+    "5701@1",
+    "121820@3",
+    "121906@3",
+    "225456@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

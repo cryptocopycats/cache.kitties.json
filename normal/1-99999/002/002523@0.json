@@ -1,0 +1,19 @@
+{
+  "id": 2523,
+  "name": "Happy Go Gen Zero",
+  "generation": 0,
+  "created_at": "2017-11-23T13:32:36.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Happy Go Gen Zero. I'm often referred to as the Hermione Granger of the group. I once got in a fight with a chimpanzee, and won. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "9647@7",
+    "143533@1",
+    "171211@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

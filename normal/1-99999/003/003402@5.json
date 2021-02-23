@@ -1,0 +1,27 @@
+{
+  "id": 3402,
+  "name": "Custard Pie",
+  "generation": 5,
+  "created_at": "2017-11-24T00:12:26.000Z",
+  "birthday": "2017-11-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Custard Pie. I enjoy tripping my owner, watching Stranger Things, and eating lasagna. I once made a dolphin trot. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1473@0",
+  "sire": "3359@4",
+  "children": [
+    "4404@6",
+    "4472@7",
+    "4702@6",
+    "4837@7",
+    "5015@6",
+    "5258@6",
+    "5754@9",
+    "14357@6",
+    "22672@6",
+    "65351@8",
+    "490089@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

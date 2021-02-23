@@ -1,0 +1,22 @@
+{
+  "id": 3178,
+  "name": "Garfield | Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-23T22:49:02.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! Garfield | Gen 1 here. I'm here to enjoy fighting for the people and breakdancing. I am 39% hobbit, 33% Spin Instructor , and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1275@0",
+  "sire": "1280@0",
+  "children": [
+    "47778@2",
+    "49375@2",
+    "53794@4",
+    "54004@2",
+    "57990@2",
+    "65426@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

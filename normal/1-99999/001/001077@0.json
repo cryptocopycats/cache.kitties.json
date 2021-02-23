@@ -1,0 +1,32 @@
+{
+  "id": 1077,
+  "name": "Kitty 1077",
+  "generation": 0,
+  "created_at": "2017-11-23T09:34:03.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty 1077. My friends describe me as tantalizing and smelly. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found people-watching all day. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3002@1",
+    "3024@1",
+    "3048@3",
+    "3082@3",
+    "3302@5",
+    "4209@3",
+    "4755@6",
+    "6590@12",
+    "6806@4",
+    "16771@18",
+    "26822@12",
+    "177078@1",
+    "262975@1",
+    "306673@1",
+    "416779@1",
+    "417388@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

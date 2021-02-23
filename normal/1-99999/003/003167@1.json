@@ -1,0 +1,21 @@
+{
+  "id": 3167,
+  "name": "Fidel Catstro",
+  "generation": 1,
+  "created_at": "2017-11-23T22:40:31.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Fidel Catstro. I've never told anyone this, but I once pranced with a dog. I once dreamed of being a Dispensary Clerk. Now I can be found jump-roping all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1290@0",
+  "sire": "1057@0",
+  "children": [
+    "4155@5",
+    "4168@2",
+    "4530@7",
+    "11907@17",
+    "35208@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

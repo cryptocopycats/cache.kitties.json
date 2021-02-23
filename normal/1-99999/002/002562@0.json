@@ -1,0 +1,19 @@
+{
+  "id": 2562,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T13:39:02.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #2562. I've never told anyone this, but I once frolicked with a dog. I like to listen to Metallica while grooming. Don't judge me. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "12618@1",
+    "27592@11",
+    "35814@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

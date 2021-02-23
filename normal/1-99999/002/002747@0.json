@@ -1,0 +1,24 @@
+{
+  "id": 2747,
+  "name": "Gen 0 | Concerned Kitty",
+  "generation": 0,
+  "created_at": "2017-11-23T14:13:31.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Gen 0 | Concerned Kitty. I'm a Dispensary Clerk by day, and I like riding the bus by night. Some people say I'm the Steve Urkel of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7413@7",
+    "11224@9",
+    "11404@9",
+    "14062@12",
+    "14926@11",
+    "15379@11",
+    "16730@4",
+    "25620@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2072,
+  "name": "Bieber Bopper [Gen 0, #2072]",
+  "generation": 0,
+  "created_at": "2017-11-23T12:20:37.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Bieber Bopper [Gen 0, #2072]. I want to live in a world where people believe the world is flat. I like to listen to Justin Bieber while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5789@12",
+    "7096@13",
+    "11316@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

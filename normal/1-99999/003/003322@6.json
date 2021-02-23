@@ -1,0 +1,25 @@
+{
+  "id": 3322,
+  "name": "French Man (Gen 6)",
+  "generation": 6,
+  "created_at": "2017-11-23T23:44:40.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm French Man (Gen 6). I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3176@5",
+  "sire": "3077@3",
+  "children": [
+    "3496@8",
+    "3682@7",
+    "4280@12",
+    "5135@8",
+    "5815@7",
+    "7229@10",
+    "7246@7",
+    "9864@7",
+    "287489@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

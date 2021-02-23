@@ -1,0 +1,29 @@
+{
+  "id": 2770,
+  "name": "Elon Musk",
+  "generation": 0,
+  "created_at": "2017-11-23T14:13:43.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Elon Musk. I want to live in a world where people believe the world is flat. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "33924@14",
+    "36718@2",
+    "40921@12",
+    "140816@1",
+    "141096@1",
+    "141987@1",
+    "143385@1",
+    "146551@1",
+    "164778@1",
+    "191283@1",
+    "225092@1",
+    "328223@1",
+    "374559@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3086,
+  "name": "4th Gen4 Ever",
+  "generation": 4,
+  "created_at": "2017-11-23T21:07:17.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm 4th Gen4 Ever. I'm a professional Train Conductor and I love steak. I would give it all up for a Chanel purse. Our friendship will be fabulous, hairy, and full of hamburgers.",
+  "language": "en",
+  "matron": "3048@3",
+  "sire": "3075@1",
+  "children": [
+    "3152@7",
+    "3302@5",
+    "3615@8",
+    "4684@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

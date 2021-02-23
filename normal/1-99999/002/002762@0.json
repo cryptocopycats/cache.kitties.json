@@ -1,0 +1,30 @@
+{
+  "id": 2762,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T14:13:31.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's Gen 0. I once peed on Confucius's cat. They had it coming. I put soy sauce on everything. Like, everything: hot dogs, ice cream—everything! I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6023@1",
+    "6912@1",
+    "11676@1",
+    "11772@1",
+    "11790@11",
+    "13180@12",
+    "15530@5",
+    "16578@2",
+    "20570@12",
+    "25772@1",
+    "30073@4",
+    "50512@3",
+    "216485@12",
+    "362105@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

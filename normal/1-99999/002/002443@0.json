@@ -1,0 +1,24 @@
+{
+  "id": 2443,
+  "name": "Furr Cobain (Gen 0)",
+  "generation": 0,
+  "created_at": "2017-11-23T13:19:51.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Furr Cobain (Gen 0). I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be ridiculous, voluptuous, and full of apple pie.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7081@5",
+    "7090@1",
+    "7105@2",
+    "7150@9",
+    "7382@10",
+    "9092@6",
+    "9134@2",
+    "73375@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

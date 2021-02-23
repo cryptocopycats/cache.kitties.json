@@ -1,0 +1,18 @@
+{
+  "id": 3235,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T23:09:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #3235. I'm often referred to as the Hermione Granger of the group. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "1375@0",
+  "sire": "1145@0",
+  "children": [
+    "254072@2",
+    "279880@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

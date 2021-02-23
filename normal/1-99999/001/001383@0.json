@@ -1,0 +1,23 @@
+{
+  "id": 1383,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:24:22.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Kitty #1383 here. I'm here to enjoy slappin' da bass and reciting poetry. When I'm not riding the bus, I'm siring for status! Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3362@1",
+    "3411@1",
+    "4678@1",
+    "5029@8",
+    "8358@16",
+    "8469@11",
+    "15313@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

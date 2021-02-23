@@ -1,0 +1,28 @@
+{
+  "id": 2062,
+  "name": "Pacha Bisou",
+  "generation": 0,
+  "created_at": "2017-11-23T12:20:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Pacha Bisou. I believe the world is flat. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, apple pie—everything! I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5919@12",
+    "6536@12",
+    "6560@15",
+    "6637@10",
+    "6964@17",
+    "34854@1",
+    "36839@1",
+    "48881@1",
+    "153328@3",
+    "175027@4",
+    "272713@5",
+    "347356@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

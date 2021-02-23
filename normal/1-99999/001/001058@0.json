@@ -1,0 +1,22 @@
+{
+  "id": 1058,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T09:29:19.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Kitty #1058. I once peed on Amelia Earhart's cat. They had it coming. My secret indulgence is cereal. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3010@1",
+    "3028@1",
+    "3133@3",
+    "3261@3",
+    "4199@2",
+    "4392@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

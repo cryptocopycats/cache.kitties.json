@@ -1,0 +1,23 @@
+{
+  "id": 3287,
+  "name": "The Dub",
+  "generation": 6,
+  "created_at": "2017-11-23T23:29:49.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's The Dub. I once peed on Marie Antoinette's cat. They had it coming. I put peanut butter on everything. Like, everything: hot dogs, steak—everything! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1224@0",
+  "sire": "3196@5",
+  "children": [
+    "3705@7",
+    "3987@9",
+    "4030@7",
+    "4279@7",
+    "4521@11",
+    "5436@7",
+    "17146@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

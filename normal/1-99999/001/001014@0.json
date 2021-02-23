@@ -1,0 +1,26 @@
+{
+  "id": 1014,
+  "name": "Chris",
+  "generation": 0,
+  "created_at": "2017-11-23T09:20:56.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Chris. I'm often referred to as the Dwight Schrute of the group. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3034@1",
+    "3052@1",
+    "3068@1",
+    "3072@1",
+    "3187@5",
+    "3456@2",
+    "3822@4",
+    "4775@5",
+    "5864@1",
+    "15882@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

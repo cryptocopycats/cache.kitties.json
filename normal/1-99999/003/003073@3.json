@@ -1,0 +1,27 @@
+{
+  "id": 3073,
+  "name": "Snow Queen",
+  "generation": 3,
+  "created_at": "2017-11-23T20:49:14.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Snow Queen. I enjoy breakdancing, slappin' da bass, and staying woke. I put cinammon on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3069@2",
+  "sire": "1038@0",
+  "children": [
+    "3084@4",
+    "3233@4",
+    "3396@4",
+    "3492@4",
+    "3971@5",
+    "4182@6",
+    "6471@9",
+    "6516@5",
+    "8151@11",
+    "9348@11",
+    "367494@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

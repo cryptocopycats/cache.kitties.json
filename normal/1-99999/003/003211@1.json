@@ -1,0 +1,29 @@
+{
+  "id": 3211,
+  "name": "Glowbo - Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-23T23:01:35.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! My name's Glowbo - Gen 1. I once peed on Confucius's cat. They had it coming. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "1087@0",
+  "sire": "1224@0",
+  "children": [
+    "3292@2",
+    "3333@2",
+    "3364@2",
+    "3432@5",
+    "3525@2",
+    "3764@8",
+    "3908@6",
+    "4666@4",
+    "4998@11",
+    "7190@2",
+    "9291@2",
+    "10679@16",
+    "166334@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

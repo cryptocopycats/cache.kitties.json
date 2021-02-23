@@ -1,0 +1,23 @@
+{
+  "id": 2591,
+  "name": "Gen0 Pawlina",
+  "generation": 0,
+  "created_at": "2017-11-23T13:45:06.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen0 Pawlina. I enjoy grooming, tripping my owner, and eating lasagna. My friends describe me as \"ridiculous.\" It's... accurate. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "11065@2",
+    "11106@1",
+    "11113@2",
+    "11201@1",
+    "12372@1",
+    "23262@1",
+    "45349@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

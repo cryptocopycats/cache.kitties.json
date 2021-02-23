@@ -1,0 +1,31 @@
+{
+  "id": 2013,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T12:09:18.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 0. I'm a Foreign Film Director by day, and I like sleeping in fresh laundry by night. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "96102@5",
+    "97886@22",
+    "98093@11",
+    "1401022@1",
+    "1401329@1",
+    "1402485@1",
+    "1402769@1",
+    "1403061@1",
+    "1403690@1",
+    "1502815@1",
+    "1504338@1",
+    "1506754@1",
+    "1781182@1",
+    "1790521@1",
+    "1872625@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

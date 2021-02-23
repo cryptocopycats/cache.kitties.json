@@ -1,0 +1,22 @@
+{
+  "id": 1317,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T10:12:53.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #1317. I want to live in a world where people believe the world is flat. Some people say I'm the Peter Griffin of the group. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3651@4",
+    "27813@2",
+    "28416@1",
+    "30460@3",
+    "34666@1",
+    "58637@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

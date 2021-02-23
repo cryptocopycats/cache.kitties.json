@@ -1,0 +1,25 @@
+{
+  "id": 2436,
+  "name": "G0 A",
+  "generation": 0,
+  "created_at": "2017-11-23T13:19:51.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G0 A. I want to live in a world where people believe the world is flat. Some people say I'm the Neville Longbottom of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "11215@20",
+    "26766@1",
+    "27315@1",
+    "35586@4",
+    "35649@1",
+    "36428@5",
+    "39097@5",
+    "43462@1",
+    "112051@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

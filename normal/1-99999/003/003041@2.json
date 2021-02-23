@@ -1,0 +1,17 @@
+{
+  "id": 3041,
+  "name": "C3P0",
+  "generation": 2,
+  "created_at": "2017-11-23T20:14:41.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm C3P0. I enjoy eating lasagna, reciting poetry, and eating until I loathe myself. I once clawed a chimpanzee. I don't like to talk about it. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "1054@0",
+  "sire": "3033@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false
+}

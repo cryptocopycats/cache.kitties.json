@@ -1,0 +1,26 @@
+{
+  "id": 2353,
+  "name": "0x",
+  "generation": 0,
+  "created_at": "2017-11-23T13:05:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm 0x. I want to live in a world where people believe the world is flat. My friends describe me as \"despicable.\" It's... accurate. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "38293@8",
+    "82124@6",
+    "90407@2",
+    "93077@2",
+    "94507@2",
+    "95980@2",
+    "99019@2",
+    "125344@2",
+    "141782@2",
+    "277981@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

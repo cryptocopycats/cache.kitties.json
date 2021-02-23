@@ -1,0 +1,18 @@
+{
+  "id": 3004,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T19:53:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #3004. All you need to know about me is I hate hamburgers with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be prickly, despicable, and full of wet food.",
+  "language": "en",
+  "matron": "1020@0",
+  "sire": "1092@0",
+  "children": [
+    "3040@2",
+    "4491@5"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

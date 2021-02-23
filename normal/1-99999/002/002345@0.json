@@ -1,0 +1,19 @@
+{
+  "id": 2345,
+  "name": null,
+  "generation": 0,
+  "created_at": "2017-11-23T13:03:04.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #2345. I enjoy shakin' dat booty, picking flowers, and riding unicorns. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "27821@9",
+    "30515@1",
+    "31234@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

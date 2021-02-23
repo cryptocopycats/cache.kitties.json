@@ -1,0 +1,23 @@
+{
+  "id": 3191,
+  "name": "NCH - Gen6 - Calico+Tongue",
+  "generation": 6,
+  "created_at": "2017-11-23T22:54:38.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm NCH - Gen6 - Calico+Tongue. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3176@5",
+  "sire": "3064@3",
+  "children": [
+    "3242@7",
+    "3310@7",
+    "3874@7",
+    "4421@9",
+    "5077@8",
+    "15801@7",
+    "29067@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

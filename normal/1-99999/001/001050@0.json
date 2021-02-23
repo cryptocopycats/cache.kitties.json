@@ -1,0 +1,17 @@
+{
+  "id": 1050,
+  "name": "Xavier",
+  "generation": 0,
+  "created_at": "2017-11-23T09:29:19.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Xavier. I enjoy watching Stranger Things, shakin' dat booty, and tricking babies. I am 97% gremlin, 13% Spin Instructor , and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "3109@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

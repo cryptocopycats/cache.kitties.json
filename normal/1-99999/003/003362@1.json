@@ -1,0 +1,23 @@
+{
+  "id": 3362,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-23T23:57:45.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #3362. My friends describe me as ridiculous and petulant. My secret indulgence is lasagna. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "1383@0",
+  "sire": "1328@0",
+  "children": [
+    "4618@2",
+    "4719@8",
+    "5009@10",
+    "8150@12",
+    "8210@9",
+    "8326@10",
+    "8370@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

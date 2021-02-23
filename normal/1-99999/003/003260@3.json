@@ -1,0 +1,22 @@
+{
+  "id": 3260,
+  "name": "Struwelpeter",
+  "generation": 3,
+  "created_at": "2017-11-23T23:17:10.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Struwelpeter. All you need to know about me is I hate cereal with a passion. I was voted biggest teacher's pet in college. Our friendship will be smelly, ridiculous, and full of wet food.",
+  "language": "en",
+  "matron": "3210@2",
+  "sire": "1142@0",
+  "children": [
+    "3279@4",
+    "3339@4",
+    "4370@9",
+    "4468@8",
+    "51244@4",
+    "204566@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

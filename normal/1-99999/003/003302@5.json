@@ -1,0 +1,27 @@
+{
+  "id": 3302,
+  "name": "⚡ Zebrita",
+  "generation": 5,
+  "created_at": "2017-11-23T23:35:05.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm ⚡ Zebrita. I believe the world is flat. I put marmite on everything. Like, everything: hot dogs, apple pie—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1077@0",
+  "sire": "3086@4",
+  "children": [
+    "3649@6",
+    "4714@6",
+    "10432@6",
+    "10984@13",
+    "11145@6",
+    "12421@9",
+    "14299@9",
+    "19629@15",
+    "27493@9",
+    "61729@8",
+    "168380@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

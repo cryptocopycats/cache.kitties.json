@@ -1,0 +1,26 @@
+{
+  "id": 2409,
+  "name": "Lime the 1st - Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:13:41.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! My name's Lime the 1st - Gen 0. I once peed on Mother Theresa's cat. They had it coming. When no one's home, I invite my pals over and we listen to Michael Bolton. Can you make my gullible dreams come true?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6035@2",
+    "6603@5",
+    "9829@1",
+    "19649@1",
+    "19876@1",
+    "20862@1",
+    "71498@1",
+    "110190@1",
+    "155701@1",
+    "202570@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

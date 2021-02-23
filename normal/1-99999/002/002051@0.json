@@ -1,0 +1,27 @@
+{
+  "id": 2051,
+  "name": "Razzle",
+  "generation": 0,
+  "created_at": "2017-11-23T12:20:29.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! Razzle here. I'm here to enjoy taking selfies and sitting on your computer. I'm often described as wondrous, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "5883@2",
+    "5992@6",
+    "10624@1",
+    "14555@4",
+    "14797@3",
+    "16114@4",
+    "21089@11",
+    "422898@1",
+    "425725@10",
+    "430048@1",
+    "597786@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

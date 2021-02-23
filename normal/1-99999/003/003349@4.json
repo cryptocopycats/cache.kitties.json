@@ -1,0 +1,17 @@
+{
+  "id": 3349,
+  "name": "Slurp",
+  "generation": 4,
+  "created_at": "2017-11-23T23:54:52.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Slurp. In high school, I was voted most likely to work at NASA. I like to listen to Mariah Carey while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "1085@0",
+  "sire": "3115@3",
+  "children": [
+    "4124@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

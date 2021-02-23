@@ -1,0 +1,21 @@
+{
+  "id": 2561,
+  "name": "Gen0  The Rock Says",
+  "generation": 0,
+  "created_at": "2017-11-23T13:39:02.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! My name's Gen0  The Rock Says. I once peed on Martin Luther King Jr.'s cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "7203@8",
+    "7213@8",
+    "8589@15",
+    "10223@17",
+    "11330@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

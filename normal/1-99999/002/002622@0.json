@@ -1,0 +1,20 @@
+{
+  "id": 2622,
+  "name": "Gen 0",
+  "generation": 0,
+  "created_at": "2017-11-23T13:48:54.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 0. I enjoy riding dirty, riding unicorns, and eating lasagna. I am 80% gremlin, 4% Culinary Sanitation Specialist, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "6058@1",
+    "6089@1",
+    "6387@1",
+    "8520@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
