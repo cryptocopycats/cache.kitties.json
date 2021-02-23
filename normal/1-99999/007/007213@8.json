@@ -1,0 +1,21 @@
+{
+  "id": 7213,
+  "name": "3",
+  "generation": 8,
+  "created_at": "2017-11-25T17:51:49.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm 3. I'm a Skydiving Instructor by day, and I like swiping left by night. I put cinammon on everything. Like, everything: hot dogs, steak—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2561@0",
+  "sire": "7204@7",
+  "children": [
+    "9890@13",
+    "54997@15",
+    "60235@17",
+    "88356@11",
+    "93366@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

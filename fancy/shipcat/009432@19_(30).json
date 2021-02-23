@@ -1,0 +1,25 @@
+{
+  "id": 9432,
+  "name": "Gen 19 Fancy Sailor",
+  "generation": 19,
+  "created_at": "2017-11-27T23:14:37.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 19 Fancy Sailor. I believe the world is flat. When I'm not siring for status, I'm swiping right! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "8930@18",
+  "sire": "6158@1",
+  "children": [
+    "10124@20",
+    "13988@20",
+    "70231@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 30,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

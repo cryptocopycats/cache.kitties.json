@@ -1,0 +1,20 @@
+{
+  "id": 7580,
+  "name": "Marty",
+  "generation": 11,
+  "created_at": "2017-11-25T23:41:38.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Marty. I want to live in a world where people believe the world is flat. My secret indulgence is chocolate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7316@10",
+  "sire": "7171@7",
+  "children": [
+    "7725@12",
+    "14681@17",
+    "118910@12",
+    "285413@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

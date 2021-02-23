@@ -1,0 +1,22 @@
+{
+  "id": 8631,
+  "name": "Super Cat 8631",
+  "generation": 14,
+  "created_at": "2017-11-26T21:52:21.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Super Cat 8631. I enjoy riding unicorns, chasing red dots, and tricking babies. My secret indulgence is salad. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "2542@0",
+  "sire": "7822@13",
+  "children": [
+    "8790@15",
+    "9365@15",
+    "71109@15",
+    "87463@15",
+    "138057@20",
+    "263886@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

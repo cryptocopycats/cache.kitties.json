@@ -1,0 +1,23 @@
+{
+  "id": 6597,
+  "name": "Blue Meanie",
+  "generation": 9,
+  "created_at": "2017-11-25T06:36:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Blue Meanie. I enjoy staying woke, hitting on yo' man, and fighting for the people. When no one's home, I invite my pals over and we listen to Beyoncé. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4912@8",
+  "sire": "2672@0",
+  "children": [
+    "7226@13",
+    "7336@10",
+    "10793@12",
+    "12442@15",
+    "14657@13",
+    "17101@16",
+    "43710@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

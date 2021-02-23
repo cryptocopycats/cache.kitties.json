@@ -1,0 +1,23 @@
+{
+  "id": 9779,
+  "name": "Meowna Lisa",
+  "generation": 17,
+  "created_at": "2017-11-28T07:52:49.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Meowna Lisa. I've never told anyone this, but I once cleaned a dog. My secret indulgence is hamburgers. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "5858@10",
+  "sire": "9559@16",
+  "children": [
+    "11385@18",
+    "16668@18",
+    "32040@18",
+    "78127@18",
+    "372250@18",
+    "457905@18",
+    "477468@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

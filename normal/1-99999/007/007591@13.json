@@ -1,0 +1,19 @@
+{
+  "id": 7591,
+  "name": "Barry Sizzler",
+  "generation": 13,
+  "created_at": "2017-11-25T23:53:06.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Barry Sizzler. I've never told anyone this, but I once loved a dog. I once loved a rabbit. I don't like to talk about it. Will you be the ghost pepper hot sauce to my pickles?",
+  "language": "en",
+  "matron": "5501@12",
+  "sire": "4343@6",
+  "children": [
+    "39018@14",
+    "42011@14",
+    "64341@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

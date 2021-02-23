@@ -1,0 +1,22 @@
+{
+  "id": 8182,
+  "name": "TigerPunk",
+  "generation": 12,
+  "created_at": "2017-11-26T10:21:47.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's TigerPunk. I once peed on Amelia Earhart's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6806@4",
+  "sire": "7857@11",
+  "children": [
+    "13372@13",
+    "16867@13",
+    "19346@13",
+    "27916@16",
+    "64611@13",
+    "138539@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

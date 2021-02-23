@@ -1,0 +1,18 @@
+{
+  "id": 9933,
+  "name": "Bushy - Gen3",
+  "generation": 3,
+  "created_at": "2017-11-28T11:35:20.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Bushy - Gen3. I enjoy eating until I loathe myself, staying woke, and riding unicorns. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "9767@2",
+  "sire": "9927@2",
+  "children": [
+    "9960@4",
+    "10362@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

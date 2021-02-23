@@ -1,0 +1,18 @@
+{
+  "id": 7447,
+  "name": "90's Cat",
+  "generation": 7,
+  "created_at": "2017-11-25T21:53:20.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm 90's Cat. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. Will you be the cinammon to my peanut butter?",
+  "language": "en",
+  "matron": "2366@0",
+  "sire": "7292@6",
+  "children": [
+    "7796@8",
+    "7865@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

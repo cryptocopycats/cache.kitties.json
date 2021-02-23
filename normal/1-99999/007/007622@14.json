@@ -1,0 +1,19 @@
+{
+  "id": 7622,
+  "name": "Gen 14 Otaku",
+  "generation": 14,
+  "created_at": "2017-11-26T00:15:15.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen 14 Otaku. I believe that one day cats will rule this planet. My secret indulgence is salad. I like your face.",
+  "language": "en",
+  "matron": "7428@13",
+  "sire": "7432@9",
+  "children": [
+    "7803@15",
+    "8362@15",
+    "68840@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

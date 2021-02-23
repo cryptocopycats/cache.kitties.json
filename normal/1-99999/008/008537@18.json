@@ -1,0 +1,20 @@
+{
+  "id": 8537,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-26T19:09:58.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #8537. I'm a Skydiving Instructor by day, and I like practicing witchcraft by night. Some people say I'm the Michael Scott of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8209@16",
+  "sire": "8214@17",
+  "children": [
+    "8623@19",
+    "10095@19",
+    "18725@19",
+    "68084@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

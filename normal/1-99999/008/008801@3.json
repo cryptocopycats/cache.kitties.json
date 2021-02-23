@@ -1,0 +1,18 @@
+{
+  "id": 8801,
+  "name": "Gen 3 Snappy",
+  "generation": 3,
+  "created_at": "2017-11-27T02:45:53.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 3 Snappy. My friends describe me as smelly and despicable. I am 56% hobbit, 94% Skydiving Instructor, and otherwise bad at math. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "2153@0",
+  "sire": "8517@2",
+  "children": [
+    "8814@4",
+    "9337@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

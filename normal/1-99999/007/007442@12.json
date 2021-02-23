@@ -1,0 +1,18 @@
+{
+  "id": 7442,
+  "name": "80's Cat",
+  "generation": 12,
+  "created_at": "2017-11-25T21:51:06.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 80's Cat. I'm often referred to as the Ross Geller of the group. I was voted most likely to work at NASA in college. Will you be the maple syrup to my pickles?",
+  "language": "en",
+  "matron": "7307@11",
+  "sire": "4308@10",
+  "children": [
+    "7593@14",
+    "7814@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

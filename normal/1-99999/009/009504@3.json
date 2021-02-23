@@ -1,0 +1,21 @@
+{
+  "id": 9504,
+  "name": "Love Crazy",
+  "generation": 3,
+  "created_at": "2017-11-28T00:56:35.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Love Crazy. In high school, I was voted most likely to work at NASA. I once loved a dolphin. I don't like to talk about it. Will you be the ghost pepper hot sauce to my maple syrup?",
+  "language": "en",
+  "matron": "2728@0",
+  "sire": "3018@2",
+  "children": [
+    "9522@4",
+    "10072@4",
+    "21006@14",
+    "25326@15",
+    "25619@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

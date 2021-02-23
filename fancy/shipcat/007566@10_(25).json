@@ -1,0 +1,25 @@
+{
+  "id": 7566,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T23:30:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #7566. In high school, I was voted most likely to work at NASA. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "7477@9",
+  "sire": "6118@1",
+  "children": [
+    "7649@11",
+    "7691@11",
+    "24006@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 25,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

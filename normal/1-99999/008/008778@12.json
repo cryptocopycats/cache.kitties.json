@@ -1,0 +1,21 @@
+{
+  "id": 8778,
+  "name": "Whiskas",
+  "generation": 12,
+  "created_at": "2017-11-27T02:19:49.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Whiskas. I've never told anyone this, but I once bit a dog. In my free time, I can usually be found petulant or sleeping in fresh laundry. Will you be the marmite to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "8632@11",
+  "sire": "2232@0",
+  "children": [
+    "8860@17",
+    "9360@16",
+    "56861@13",
+    "219767@13",
+    "283100@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7609,
+  "name": "7609",
+  "generation": 13,
+  "created_at": "2017-11-26T00:06:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm 7609. I'm a professional Mad Scientist and I love cereal. My friends describe me as \"hairy.\" It's... accurate. I look forward to breakdancing with you.",
+  "language": "en",
+  "matron": "5607@11",
+  "sire": "5267@12",
+  "children": [
+    "7878@14",
+    "15790@14",
+    "18203@14",
+    "39792@14",
+    "71816@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

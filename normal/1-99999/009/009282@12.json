@@ -1,0 +1,18 @@
+{
+  "id": 9282,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-27T17:38:26.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Kitty #9282. I once peed on Marie Antoinette's cat. They had it coming. My secret indulgence is ice cream. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "7234@9",
+  "sire": "8235@11",
+  "children": [
+    "9383@14",
+    "9568@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

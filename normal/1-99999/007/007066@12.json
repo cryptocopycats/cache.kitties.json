@@ -1,0 +1,19 @@
+{
+  "id": 7066,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T14:28:44.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #7066. My friends describe me as wondrous and vegan. I like to listen to Frank Sinatra while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3496@8",
+  "sire": "4336@11",
+  "children": [
+    "7259@14",
+    "11004@16",
+    "12140@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9456,
+  "name": "FIRST 10K",
+  "generation": 13,
+  "created_at": "2017-11-27T23:48:07.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm FIRST 10K. I'm a professional Culinary Sanitation Specialist and I love lasagna. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "9451@3",
+  "sire": "6143@12",
+  "children": [
+    "14841@14",
+    "20426@14",
+    "64006@14",
+    "74144@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

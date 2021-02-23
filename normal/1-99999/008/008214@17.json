@@ -1,0 +1,20 @@
+{
+  "id": 8214,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-26T10:51:59.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Gen 17. I believe the world is flat. When I'm not riding the bus, I'm tricking babies! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6640@16",
+  "sire": "5763@15",
+  "children": [
+    "8537@18",
+    "9117@18",
+    "10029@18",
+    "12226@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

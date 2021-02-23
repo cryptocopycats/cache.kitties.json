@@ -1,0 +1,20 @@
+{
+  "id": 8477,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T17:33:24.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #8477. I want to live in a world where people believe the world is flat. I put maple syrup on everything. Like, everything: hot dogs, wet food—everything! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7523@7",
+  "sire": "8429@10",
+  "children": [
+    "8514@13",
+    "8656@12",
+    "10099@12",
+    "54692@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

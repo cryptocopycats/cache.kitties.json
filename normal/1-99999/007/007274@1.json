@@ -1,0 +1,31 @@
+{
+  "id": 7274,
+  "name": "Gen 1 | 👑 Queen 👑",
+  "generation": 1,
+  "created_at": "2017-11-25T18:38:29.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Gen 1 | 👑 Queen 👑. I'm a Mad Scientist by day, and I like sleeping in fresh laundry by night. My friends describe me as \"tantalizing.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "2104@0",
+  "sire": "2107@0",
+  "children": [
+    "10524@4",
+    "14273@13",
+    "20662@2",
+    "28279@2",
+    "38723@2",
+    "61181@4",
+    "64541@2",
+    "69782@2",
+    "71155@2",
+    "86426@2",
+    "109169@2",
+    "176596@2",
+    "279915@6",
+    "378530@3",
+    "794456@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

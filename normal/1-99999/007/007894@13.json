@@ -1,0 +1,24 @@
+{
+  "id": 7894,
+  "name": "Crazz",
+  "generation": 13,
+  "created_at": "2017-11-26T04:59:50.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Crazz. I'm often referred to as the Samwise Gamgee of the group. I am 49% elf, 2% Train Conductor, and otherwise bad at math. Will you be the peanut butter to my soy sauce?",
+  "language": "en",
+  "matron": "6080@11",
+  "sire": "7146@12",
+  "children": [
+    "18013@14",
+    "22236@14",
+    "27390@20",
+    "44851@20",
+    "52979@14",
+    "200776@14",
+    "405058@20",
+    "467730@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

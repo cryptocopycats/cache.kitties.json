@@ -1,0 +1,20 @@
+{
+  "id": 7198,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T17:31:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #7198. My friends describe me as fabulous and wondrous. My great-great-great-great-great-great grandkitty lived with Princess Diana. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6744@8",
+  "sire": "6963@7",
+  "children": [
+    "7499@10",
+    "7582@12",
+    "7715@13",
+    "9978@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8854,
+  "name": "Chip's Kitty",
+  "generation": 15,
+  "created_at": "2017-11-27T04:17:34.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Chip's Kitty. I believe that one day cats will rule this planet. I put marmite on everything. Like, everything: hot dogs, salad—everything! Will you be the ranch dressing to my pickles?",
+  "language": "en",
+  "matron": "8690@14",
+  "sire": "2707@0",
+  "children": [
+    "9089@16",
+    "9260@16",
+    "66776@16",
+    "95929@16",
+    "146014@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

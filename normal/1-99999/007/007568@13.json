@@ -1,0 +1,22 @@
+{
+  "id": 7568,
+  "name": "Meowly Cyrus",
+  "generation": 13,
+  "created_at": "2017-11-25T23:31:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! Meowly Cyrus here. I'm here to enjoy grooming and reading garfield. I once made a goose dance. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "7246@7",
+  "sire": "7344@12",
+  "children": [
+    "12066@16",
+    "12653@14",
+    "13325@14",
+    "17384@14",
+    "64329@17",
+    "446191@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

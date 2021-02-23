@@ -1,0 +1,19 @@
+{
+  "id": 6686,
+  "name": "Teepee",
+  "generation": 16,
+  "created_at": "2017-11-25T07:35:05.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Teepee. All you need to know about me is I hate cereal with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "3826@1",
+  "sire": "5523@15",
+  "children": [
+    "9101@17",
+    "18737@17",
+    "36372@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

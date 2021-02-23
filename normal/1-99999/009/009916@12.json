@@ -1,0 +1,18 @@
+{
+  "id": 9916,
+  "name": "Knows Everything",
+  "generation": 12,
+  "created_at": "2017-11-28T11:00:03.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Knows Everything. I'm often referred to as the Samwise Gamgee of the group. When no one's home, I invite my pals over and we listen to Metallica. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5750@11",
+  "sire": "7246@7",
+  "children": [
+    "10715@15",
+    "41074@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8255,
+  "name": "Cinnamon Sniffer",
+  "generation": 15,
+  "created_at": "2017-11-26T12:02:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Cinnamon Sniffer. I believe the world is flat. I put cinammon on everything. Like, everything: hot dogs, chocolate—everything! Let's pawty!",
+  "language": "en",
+  "matron": "6850@14",
+  "sire": "6943@9",
+  "children": [
+    "14783@18",
+    "21693@18",
+    "30031@18",
+    "53615@18",
+    "118262@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

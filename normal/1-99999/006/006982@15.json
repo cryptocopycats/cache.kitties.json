@@ -1,0 +1,22 @@
+{
+  "id": 6982,
+  "name": "Radioactive dali",
+  "generation": 15,
+  "created_at": "2017-11-25T12:15:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Radioactive dali. In high school, I was voted most likely to work at NASA. I once made a rhino scare. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "6695@14",
+  "sire": "6568@9",
+  "children": [
+    "7429@16",
+    "7752@16",
+    "8193@16",
+    "9436@16",
+    "15454@16",
+    "95090@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

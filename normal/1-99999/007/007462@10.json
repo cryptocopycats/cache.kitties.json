@@ -1,0 +1,22 @@
+{
+  "id": 7462,
+  "name": "Spicy 10",
+  "generation": 10,
+  "created_at": "2017-11-25T22:00:57.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Spicy 10. I believe the world is flat. Some people say I'm the Frodo Baggins of the group. Our friendship will be annoying, preposterous, and full of cereal.",
+  "language": "en",
+  "matron": "5445@9",
+  "sire": "3406@4",
+  "children": [
+    "15356@13",
+    "15516@11",
+    "60469@14",
+    "72726@14",
+    "96077@11",
+    "126000@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

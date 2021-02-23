@@ -1,0 +1,17 @@
+{
+  "id": 9477,
+  "name": "9477 - One child",
+  "generation": 9,
+  "created_at": "2017-11-28T00:10:37.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 9477 - One child. I want to live in a world where people believe the world is flat. I once got in a fight with a rhino, and won. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "6116@6",
+  "sire": "6902@8",
+  "children": [
+    "10160@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6728,
+  "name": "G7 | Plodding",
+  "generation": 7,
+  "created_at": "2017-11-25T08:20:07.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm G7 | Plodding. I'm often referred to as the Homer Simpson of the group. It's not common knowledge, but my ancestry connects me to Princess Diana. I look forward to hitting on yo' man with you.",
+  "language": "en",
+  "matron": "4344@3",
+  "sire": "4289@6",
+  "children": [
+    "7200@8",
+    "7215@8",
+    "7889@10",
+    "8146@10",
+    "10643@14",
+    "23284@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

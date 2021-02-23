@@ -1,0 +1,22 @@
+{
+  "id": 6850,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-25T09:56:18.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 14. I enjoy slappin' da bass, taking selfies, and tricking babies. Some people say I'm the Neville Longbottom of the group. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5916@13",
+  "sire": "6281@1",
+  "children": [
+    "7762@15",
+    "8255@15",
+    "9166@15",
+    "10247@17",
+    "11300@18",
+    "144149@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

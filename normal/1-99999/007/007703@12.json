@@ -1,0 +1,18 @@
+{
+  "id": 7703,
+  "name": "Gertie",
+  "generation": 12,
+  "created_at": "2017-11-26T01:37:44.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! Gertie here. I'm here to enjoy chasing string and eating lasagna. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6474@11",
+  "sire": "6238@5",
+  "children": [
+    "12796@15",
+    "20816@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

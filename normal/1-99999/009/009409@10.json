@@ -1,0 +1,21 @@
+{
+  "id": 9409,
+  "name": "Milk Shake",
+  "generation": 10,
+  "created_at": "2017-11-27T22:28:38.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Milk Shake. All you need to know about me is I hate steak with a passion. I put cinammon on everything. Like, everything: hot dogs, salad—everything! I like your face.",
+  "language": "en",
+  "matron": "4938@9",
+  "sire": "7120@9",
+  "children": [
+    "9755@11",
+    "11064@12",
+    "14949@11",
+    "27276@18",
+    "86541@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

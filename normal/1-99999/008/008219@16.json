@@ -1,0 +1,20 @@
+{
+  "id": 8219,
+  "name": "Bob",
+  "generation": 16,
+  "created_at": "2017-11-26T11:01:30.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Bob. All you need to know about me is I hate cereal with a passion. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Let's get busy!",
+  "language": "en",
+  "matron": "7205@14",
+  "sire": "7381@15",
+  "children": [
+    "8664@17",
+    "10156@17",
+    "95182@17",
+    "406809@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

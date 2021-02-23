@@ -1,0 +1,25 @@
+{
+  "id": 7091,
+  "name": "Gen 1 | G1 | Brisk | LoveCat",
+  "generation": 1,
+  "created_at": "2017-11-25T15:07:31.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen 1 | G1 | Brisk | LoveCat. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Frank Sinatra. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "2544@0",
+  "sire": "2513@0",
+  "children": [
+    "20078@3",
+    "20331@3",
+    "22664@3",
+    "22814@3",
+    "34542@2",
+    "37080@2",
+    "39275@2",
+    "50682@2",
+    "85405@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

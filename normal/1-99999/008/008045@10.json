@@ -1,0 +1,21 @@
+{
+  "id": 8045,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-26T07:34:07.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #8045. I'm a Culinary Sanitation Specialist by day, and I like watching reality tv by night. It's not common knowledge, but my ancestry connects me to Mother Theresa. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7463@9",
+  "sire": "7398@9",
+  "children": [
+    "8114@11",
+    "8215@11",
+    "8674@13",
+    "9011@14",
+    "58823@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

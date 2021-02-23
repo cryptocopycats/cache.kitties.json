@@ -1,0 +1,23 @@
+{
+  "id": 9365,
+  "name": "starter",
+  "generation": 15,
+  "created_at": "2017-11-27T20:59:54.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! starter here. I'm here to enjoy licking doorknobs and watching Stranger Things. My friends describe me as \"gullible.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8631@14",
+  "sire": "8624@13",
+  "children": [
+    "9726@17",
+    "29258@21",
+    "35351@16",
+    "73994@17",
+    "258088@17",
+    "511849@17",
+    "1888431@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

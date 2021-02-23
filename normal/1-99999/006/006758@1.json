@@ -1,0 +1,30 @@
+{
+  "id": 6758,
+  "name": "gen1 (!) lazy garfield",
+  "generation": 1,
+  "created_at": "2017-11-25T08:39:01.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm gen1 (!) lazy garfield. In high school, I was voted most likely to work at NASA. I once made a labradoodle grimace. Let's get busy!",
+  "language": "en",
+  "matron": "2435@0",
+  "sire": "2439@0",
+  "children": [
+    "40249@2",
+    "41578@2",
+    "48257@2",
+    "51546@2",
+    "60498@2",
+    "62195@2",
+    "84490@2",
+    "124280@2",
+    "143249@2",
+    "144174@5",
+    "166196@2",
+    "213043@2",
+    "356106@4",
+    "389377@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

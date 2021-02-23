@@ -1,0 +1,20 @@
+{
+  "id": 8876,
+  "name": "8876",
+  "generation": 17,
+  "created_at": "2017-11-27T04:54:12.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm 8876. I'm a Spin Instructor  by day, and I like riding the bus by night. I once dreamed of being a Mad Scientist. Now I can be found playing chess all day. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "8492@10",
+  "sire": "8711@16",
+  "children": [
+    "9045@18",
+    "9355@18",
+    "36562@18",
+    "95715@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

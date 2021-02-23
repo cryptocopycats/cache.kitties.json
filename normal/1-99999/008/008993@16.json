@@ -1,0 +1,18 @@
+{
+  "id": 8993,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-27T07:43:05.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #8993. I enjoy picking flowers, riding dirty, and chasing red dots. I put soy sauce on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "8596@15",
+  "sire": "7481@15",
+  "children": [
+    "9461@17",
+    "9541@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

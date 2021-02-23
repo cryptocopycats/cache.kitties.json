@@ -1,0 +1,19 @@
+{
+  "id": 8445,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-26T16:41:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #8445. My friends describe me as seductive and petulant. In my free time, I can usually be found ridiculous or watching reality tv. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "7779@13",
+  "sire": "8008@16",
+  "children": [
+    "8832@18",
+    "12226@18",
+    "23553@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

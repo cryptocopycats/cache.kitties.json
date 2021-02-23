@@ -1,0 +1,23 @@
+{
+  "id": 7974,
+  "name": "Munchkin",
+  "generation": 10,
+  "created_at": "2017-11-26T06:31:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Munchkin. In high school, I was voted school jock. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6326@7",
+  "sire": "6109@9",
+  "children": [
+    "11777@11",
+    "12054@11",
+    "12264@11",
+    "13179@11",
+    "19287@11",
+    "24999@12",
+    "56006@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

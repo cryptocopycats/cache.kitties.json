@@ -1,0 +1,19 @@
+{
+  "id": 8070,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T07:55:09.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #8070. I believe that one day cats will rule this planet. I once dreamed of being a Ventriloquist. Now I can be found reading Danielle Steele all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5995@5",
+  "sire": "7710@10",
+  "children": [
+    "8128@12",
+    "9384@14",
+    "10057@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

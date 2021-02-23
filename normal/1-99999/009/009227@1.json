@@ -1,0 +1,26 @@
+{
+  "id": 9227,
+  "name": "🚀 | Gen 1",
+  "generation": 1,
+  "created_at": "2017-11-27T15:35:01.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm 🚀 | Gen 1. I've never told anyone this, but I once groomed a dog. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "1112@0",
+  "sire": "1146@0",
+  "children": [
+    "9236@2",
+    "13290@3",
+    "13307@17",
+    "13420@2",
+    "13599@2",
+    "13875@2",
+    "14374@2",
+    "18658@2",
+    "19863@2",
+    "71872@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

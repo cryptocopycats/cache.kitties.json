@@ -1,0 +1,20 @@
+{
+  "id": 8292,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-11-26T12:47:25.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! My name's Gen 12. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8139@11",
+  "sire": "2625@0",
+  "children": [
+    "55068@13",
+    "64532@13",
+    "66164@13",
+    "87488@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

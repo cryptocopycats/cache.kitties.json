@@ -1,0 +1,19 @@
+{
+  "id": 9531,
+  "name": "Catistotle",
+  "generation": 21,
+  "created_at": "2017-11-28T01:53:52.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Catistotle. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Princess Diana. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "8397@8",
+  "sire": "9513@20",
+  "children": [
+    "11115@22",
+    "23330@22",
+    "116685@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

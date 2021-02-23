@@ -1,0 +1,21 @@
+{
+  "id": 9926,
+  "name": "The Bearded Lady",
+  "generation": 12,
+  "created_at": "2017-11-28T11:24:07.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm The Bearded Lady. I've never told anyone this, but I once loved a dog. I'm often described as petulant, and I own it. Our friendship will be smelly, despicable, and full of salad.",
+  "language": "en",
+  "matron": "9038@11",
+  "sire": "5889@2",
+  "children": [
+    "10651@16",
+    "11994@17",
+    "78657@16",
+    "98323@14",
+    "126517@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

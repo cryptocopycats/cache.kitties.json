@@ -1,0 +1,19 @@
+{
+  "id": 8984,
+  "name": "14",
+  "generation": 14,
+  "created_at": "2017-11-27T07:18:44.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm 14. I enjoy reciting poetry, watching Stranger Things, and sitting on your computer. Some people say I'm the Lisa Simpson of the group. I like your face.",
+  "language": "en",
+  "matron": "7486@13",
+  "sire": "8638@12",
+  "children": [
+    "10119@15",
+    "26902@15",
+    "67284@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

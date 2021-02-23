@@ -1,0 +1,20 @@
+{
+  "id": 8209,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-26T10:50:47.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #8209. I'm a Culinary Sanitation Specialist by day, and I like riding the bus by night. It's not common knowledge, but my ancestry connects me to Confucius. Let's get busy!",
+  "language": "en",
+  "matron": "5401@15",
+  "sire": "5783@10",
+  "children": [
+    "8537@18",
+    "9117@18",
+    "10027@17",
+    "17153@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

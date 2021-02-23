@@ -1,0 +1,22 @@
+{
+  "id": 7688,
+  "name": "Shades",
+  "generation": 15,
+  "created_at": "2017-11-26T01:25:30.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Shades. I'm a Ventriloquist by day, and I like talking about how much I lift by night. In my free time, I can usually be found preposterous or tricking babies. Let's pawty!",
+  "language": "en",
+  "matron": "5109@10",
+  "sire": "7060@14",
+  "children": [
+    "7944@16",
+    "8568@17",
+    "9142@16",
+    "9418@16",
+    "13455@16",
+    "88250@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

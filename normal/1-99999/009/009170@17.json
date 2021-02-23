@@ -1,0 +1,19 @@
+{
+  "id": 9170,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-27T13:50:56.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Gen 17. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "language": "en",
+  "matron": "8095@16",
+  "sire": "6694@15",
+  "children": [
+    "57243@18",
+    "77479@18",
+    "117522@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

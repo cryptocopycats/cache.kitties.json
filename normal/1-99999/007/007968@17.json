@@ -1,0 +1,21 @@
+{
+  "id": 7968,
+  "name": "Mr. Meowerly",
+  "generation": 17,
+  "created_at": "2017-11-26T06:25:05.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Mr. Meowerly. I'm often referred to as the Marge Simpson of the group. My friends describe me as \"smelly.\" It's... accurate. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "6962@16",
+  "sire": "6119@12",
+  "children": [
+    "8384@19",
+    "8764@18",
+    "9971@18",
+    "147122@18",
+    "330082@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

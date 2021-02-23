@@ -1,0 +1,21 @@
+{
+  "id": 8356,
+  "name": "Spots",
+  "generation": 12,
+  "created_at": "2017-11-26T14:33:37.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Spots. All you need to know about me is I hate ice cream with a passion. I once got in a fight with a chimpanzee, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "7918@2",
+  "sire": "8197@11",
+  "children": [
+    "8624@13",
+    "8713@13",
+    "8955@13",
+    "9619@13",
+    "48289@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

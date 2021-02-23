@@ -1,0 +1,17 @@
+{
+  "id": 9291,
+  "name": "Poseidon - Gen2, 1 child",
+  "generation": 2,
+  "created_at": "2017-11-27T18:00:05.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Poseidon - Gen2, 1 child. I enjoy hitting on yo' man, eating until I loathe myself, and fighting for the people. When no one's home, I invite my pals over and we listen to Rihanna. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "2768@0",
+  "sire": "3211@1",
+  "children": [
+    "38910@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

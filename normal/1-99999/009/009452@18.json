@@ -1,0 +1,20 @@
+{
+  "id": 9452,
+  "name": "G18 Fab (ParentsMustacheOtaku)",
+  "generation": 18,
+  "created_at": "2017-11-27T23:36:52.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm G18 Fab (ParentsMustacheOtaku). In high school, I was voted school jock. I like to listen to Michael Bolton while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "8268@17",
+  "sire": "8871@12",
+  "children": [
+    "10354@19",
+    "13398@19",
+    "21153@19",
+    "123440@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

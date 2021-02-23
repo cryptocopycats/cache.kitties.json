@@ -1,0 +1,19 @@
+{
+  "id": 6535,
+  "name": "SoBlue",
+  "generation": 9,
+  "created_at": "2017-11-25T06:03:14.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm SoBlue. I'm a professional Ventriloquist and I love apple pie. My friends describe me as \"despicable.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "6373@8",
+  "sire": "2677@0",
+  "children": [
+    "7143@10",
+    "11131@10",
+    "23037@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

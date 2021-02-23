@@ -1,0 +1,20 @@
+{
+  "id": 8155,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-26T09:44:00.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #8155. My friends describe me as smelly and preposterous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "3770@10",
+  "sire": "6803@13",
+  "children": [
+    "8604@15",
+    "9215@15",
+    "396398@18",
+    "765845@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

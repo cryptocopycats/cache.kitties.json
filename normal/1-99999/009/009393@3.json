@@ -1,0 +1,23 @@
+{
+  "id": 9393,
+  "name": "G3 Plod Bubblegum",
+  "generation": 3,
+  "created_at": "2017-11-27T22:03:50.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm G3 Plod Bubblegum. I want to live in a world where people believe that one day cats will rule this planet. I am 11% fairy, 8% Ventriloquist, and otherwise bad at math. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "2680@0",
+  "sire": "8226@2",
+  "children": [
+    "9408@4",
+    "9423@4",
+    "9475@9",
+    "41399@8",
+    "42374@4",
+    "69651@7",
+    "121359@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7837,
+  "name": "Uggo",
+  "generation": 9,
+  "created_at": "2017-11-26T03:54:47.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Uggo. I'm a Dogwalker by day, and I like summoning ghosts by night. Sometimes I daydream of a life full of picking flowers, salad, and mocking dogs. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4595@8",
+  "sire": "7137@8",
+  "children": [
+    "9280@17",
+    "11703@20",
+    "16657@21",
+    "19257@16",
+    "32957@22",
+    "59765@22",
+    "86737@17",
+    "157619@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

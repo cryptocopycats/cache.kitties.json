@@ -1,0 +1,27 @@
+{
+  "id": 7223,
+  "name": "Fire-breathing Squirrel",
+  "generation": 3,
+  "created_at": "2017-11-25T17:58:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! Fire-breathing Squirrel here. I'm here to enjoy riding dirty and sweating through my feet. I once dreamed of being a Skydiving Instructor. Now I can be found riding the bus all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6891@2",
+  "sire": "2099@0",
+  "children": [
+    "7251@4",
+    "7264@10",
+    "7300@10",
+    "10405@9",
+    "11491@7",
+    "11707@13",
+    "16458@4",
+    "25856@6",
+    "112593@4",
+    "135094@4",
+    "330486@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8587,
+  "name": "Purr",
+  "generation": 15,
+  "created_at": "2017-11-26T21:04:11.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Purr. I'm often referred to as the Niles Crane of the group. I once licked a rabbit. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7809@14",
+  "sire": "8079@7",
+  "children": [
+    "8794@16",
+    "60463@16",
+    "84916@18",
+    "173271@20",
+    "316550@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9133,
+  "name": "Despicable furr",
+  "generation": 7,
+  "created_at": "2017-11-27T12:07:11.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Despicable furr. My friends describe me as stinky and despicable. My friends describe me as \"voluptuous.\" It's... accurate. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "9092@6",
+  "sire": "9077@2",
+  "children": [
+    "9149@8",
+    "9193@8",
+    "162361@8",
+    "164202@8",
+    "367381@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

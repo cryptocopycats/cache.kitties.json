@@ -1,0 +1,18 @@
+{
+  "id": 8078,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-26T08:09:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #8078. I believe the world is flat. When no one's home, I invite my pals over and we listen to Aretha Franklin. Let's pawty!",
+  "language": "en",
+  "matron": "7633@1",
+  "sire": "7509@1",
+  "children": [
+    "8096@3",
+    "16817@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

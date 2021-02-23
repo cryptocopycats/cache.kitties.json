@@ -1,0 +1,22 @@
+{
+  "id": 7497,
+  "name": "Murphy",
+  "generation": 10,
+  "created_at": "2017-11-25T22:32:05.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Murphy. In high school, I was voted biggest teacher's pet. I once got in a fight with a moose, and won. Let's pawty!",
+  "language": "en",
+  "matron": "5872@8",
+  "sire": "5749@9",
+  "children": [
+    "10431@11",
+    "13097@11",
+    "17592@15",
+    "17759@14",
+    "41975@11",
+    "90179@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

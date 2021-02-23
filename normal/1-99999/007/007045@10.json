@@ -1,0 +1,20 @@
+{
+  "id": 7045,
+  "name": "7045",
+  "generation": 10,
+  "created_at": "2017-11-25T13:55:34.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 7045. I enjoy sweating through my feet, picking flowers, and slappin' da bass. I am 79% hobbit, 70% Mad Scientist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2667@0",
+  "sire": "6687@9",
+  "children": [
+    "7136@11",
+    "61714@11",
+    "76712@11",
+    "114590@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

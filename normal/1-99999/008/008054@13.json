@@ -1,0 +1,21 @@
+{
+  "id": 8054,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T07:39:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #8054. My friends describe me as smelly and gullible. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "4807@9",
+  "sire": "7530@12",
+  "children": [
+    "8594@16",
+    "8994@14",
+    "9760@18",
+    "12505@14",
+    "53380@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

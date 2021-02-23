@@ -1,0 +1,19 @@
+{
+  "id": 9777,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-28T07:52:49.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Kitty #9777. I'm a Mad Scientist by day, and I like tricking babies by night. I'm convinced that the world is flat. One day I'll prove it. I look forward to sweating through my feet with you.",
+  "language": "en",
+  "matron": "8374@17",
+  "sire": "8065@11",
+  "children": [
+    "10472@19",
+    "13368@19",
+    "30776@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

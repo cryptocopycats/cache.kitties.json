@@ -1,0 +1,22 @@
+{
+  "id": 7060,
+  "name": "Antiequinox",
+  "generation": 14,
+  "created_at": "2017-11-25T14:18:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Antiequinox. I'm often referred to as the Marge Simpson of the group. It's not common knowledge, but my ancestry connects me to Confucius. I like your face.",
+  "language": "en",
+  "matron": "5639@13",
+  "sire": "6527@11",
+  "children": [
+    "7260@15",
+    "7688@15",
+    "9924@15",
+    "15165@15",
+    "68474@20",
+    "372728@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

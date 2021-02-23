@@ -1,0 +1,22 @@
+{
+  "id": 7257,
+  "name": "Squinty McKitty",
+  "generation": 9,
+  "created_at": "2017-11-25T18:29:07.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Squinty McKitty. I'm a Skydiving Instructor by day, and I like pole dancing by night. I am 44% fairy, 52% Aerobics Athlete , and otherwise bad at math. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "5082@4",
+  "sire": "4688@8",
+  "children": [
+    "10421@10",
+    "12488@10",
+    "13120@14",
+    "14040@15",
+    "16502@13",
+    "265003@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8618,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-26T21:34:07.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Kitty #8618 here. I'm here to enjoy eating lasagna and staying woke. I once got in a fight with a goose, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "7781@16",
+  "sire": "7786@13",
+  "children": [
+    "8962@18",
+    "9250@18",
+    "13202@18",
+    "16827@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

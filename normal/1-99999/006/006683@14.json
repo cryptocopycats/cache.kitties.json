@@ -1,0 +1,18 @@
+{
+  "id": 6683,
+  "name": "Gen14 strawberry lemonade",
+  "generation": 14,
+  "created_at": "2017-11-25T07:33:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen14 strawberry lemonade. I'm a Ventriloquist by day, and I like mocking dogs by night. I once got in a fight with a goose, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6458@13",
+  "sire": "6305@1",
+  "children": [
+    "50677@20",
+    "246107@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

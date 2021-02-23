@@ -1,0 +1,21 @@
+{
+  "id": 6613,
+  "name": "Gen 11",
+  "generation": 11,
+  "created_at": "2017-11-25T06:48:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Gen 11. I'm a Aerobics Athlete  by day, and I like riding the bus by night. My secret indulgence is cereal. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6543@2",
+  "sire": "6449@10",
+  "children": [
+    "39430@12",
+    "58704@12",
+    "69680@12",
+    "79386@12",
+    "95580@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

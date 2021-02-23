@@ -1,0 +1,19 @@
+{
+  "id": 6742,
+  "name": "Collector #6742",
+  "generation": 14,
+  "created_at": "2017-11-25T08:24:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Collector #6742. In high school, I was voted school jock. I like to listen to Frank Sinatra while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6213@7",
+  "sire": "5873@13",
+  "children": [
+    "6991@15",
+    "7214@15",
+    "8345@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

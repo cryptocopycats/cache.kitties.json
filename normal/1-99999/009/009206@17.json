@@ -1,0 +1,20 @@
+{
+  "id": 9206,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-27T14:47:44.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #9206. In high school, I was voted school jock. I like to listen to Mariah Carey while grooming. Don't judge me. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "8016@16",
+  "sire": "8530@13",
+  "children": [
+    "9807@20",
+    "11377@19",
+    "16866@18",
+    "30224@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

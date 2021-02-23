@@ -1,0 +1,19 @@
+{
+  "id": 8298,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-26T12:55:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #8298. I enjoy eating lasagna, shakin' dat booty, and fighting for the people. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4035@9",
+  "sire": "7879@15",
+  "children": [
+    "9199@18",
+    "10507@17",
+    "14372@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

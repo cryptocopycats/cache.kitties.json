@@ -1,0 +1,21 @@
+{
+  "id": 6991,
+  "name": "Astropurr",
+  "generation": 15,
+  "created_at": "2017-11-25T12:29:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Astropurr. I believe the world is flat. My secret indulgence is salad. Let's pawty!",
+  "language": "en",
+  "matron": "6742@14",
+  "sire": "6734@8",
+  "children": [
+    "14011@16",
+    "15979@19",
+    "18232@18",
+    "23622@19",
+    "39101@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

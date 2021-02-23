@@ -1,0 +1,22 @@
+{
+  "id": 7222,
+  "name": "Old Man Kitty",
+  "generation": 11,
+  "created_at": "2017-11-25T17:56:50.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! Old Man Kitty here. I'm here to enjoy breakdancing and picking flowers. Some people say I'm the Bart Simpson of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "6870@2",
+  "sire": "3627@10",
+  "children": [
+    "7344@12",
+    "7346@12",
+    "7668@12",
+    "8433@12",
+    "9225@14",
+    "36570@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

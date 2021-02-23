@@ -1,0 +1,19 @@
+{
+  "id": 8532,
+  "name": "12",
+  "generation": 12,
+  "created_at": "2017-11-26T19:06:38.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 12. I'm often referred to as the Lisa Simpson of the group. I like to listen to Justin Bieber while grooming. Don't judge me. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "5994@11",
+  "sire": "4033@7",
+  "children": [
+    "11585@14",
+    "13744@17",
+    "14928@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

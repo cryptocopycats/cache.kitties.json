@@ -1,0 +1,21 @@
+{
+  "id": 6678,
+  "name": "13",
+  "generation": 13,
+  "created_at": "2017-11-25T07:33:23.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm 13. All you need to know about me is I hate wet food with a passion. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Our friendship will be tantalizing, fabulous, and full of cantaloupe.",
+  "language": "en",
+  "matron": "5887@12",
+  "sire": "2098@0",
+  "children": [
+    "7350@14",
+    "7850@14",
+    "8932@18",
+    "9657@14",
+    "13826@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8087,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T08:21:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #8087. All you need to know about me is I hate steak with a passion. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "5578@6",
+  "sire": "7229@10",
+  "children": [
+    "8636@15",
+    "8681@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

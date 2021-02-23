@@ -1,0 +1,21 @@
+{
+  "id": 9273,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-27T17:08:08.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Kitty #9273 here. I'm here to enjoy picking on mice and staying woke. I once dreamed of being a Train Conductor. Now I can be found braiding people's hair all day. I look forward to grooming with you.",
+  "language": "en",
+  "matron": "9226@11",
+  "sire": "9198@6",
+  "children": [
+    "10918@13",
+    "12516@13",
+    "15316@13",
+    "61445@15",
+    "96166@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

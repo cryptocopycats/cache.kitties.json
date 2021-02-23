@@ -1,0 +1,21 @@
+{
+  "id": 6919,
+  "name": "Elisa",
+  "generation": 1,
+  "created_at": "2017-11-25T10:57:19.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Elisa. I'm a Spin Instructor  by day, and I like siring for status by night. Sometimes I daydream of a life full of eating lasagna, wet food, and swiping left. I like your face.",
+  "language": "en",
+  "matron": "2168@0",
+  "sire": "2138@0",
+  "children": [
+    "13323@8",
+    "13450@19",
+    "13553@16",
+    "15984@3",
+    "16191@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

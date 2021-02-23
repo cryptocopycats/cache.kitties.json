@@ -1,0 +1,21 @@
+{
+  "id": 7041,
+  "name": "Puma Thurman",
+  "generation": 9,
+  "created_at": "2017-11-25T13:48:49.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Puma Thurman. My friends describe me as ridiculous and fabulous. I'm often described as voluptuous, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3176@5",
+  "sire": "6041@8",
+  "children": [
+    "7242@10",
+    "7300@10",
+    "10746@10",
+    "11366@10",
+    "14261@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

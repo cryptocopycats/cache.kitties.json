@@ -1,0 +1,23 @@
+{
+  "id": 7051,
+  "name": "Sprinkles",
+  "generation": 9,
+  "created_at": "2017-11-25T14:06:13.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Sprinkles. I'm a Foreign Film Director by day, and I like watching reality tv by night. My secret indulgence is steak. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4118@8",
+  "sire": "6768@1",
+  "children": [
+    "7235@10",
+    "7342@10",
+    "12260@10",
+    "13623@10",
+    "18900@19",
+    "25770@17",
+    "41838@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

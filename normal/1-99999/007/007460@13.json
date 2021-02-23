@@ -1,0 +1,22 @@
+{
+  "id": 7460,
+  "name": "13",
+  "generation": 13,
+  "created_at": "2017-11-25T22:00:57.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm 13. I enjoy reciting poetry, fighting the patriarchy, and riding dirty. When no one's home, I invite my pals over and we listen to Aretha Franklin. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6844@12",
+  "sire": "5882@10",
+  "children": [
+    "7964@14",
+    "8037@14",
+    "9061@14",
+    "9294@14",
+    "10753@14",
+    "20641@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

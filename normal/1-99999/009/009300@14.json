@@ -1,0 +1,20 @@
+{
+  "id": 9300,
+  "name": "Neon Snowbird",
+  "generation": 14,
+  "created_at": "2017-11-27T18:27:54.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Neon Snowbird. I want to live in a world where people believe the world is flat. I once made a rabbit play. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7398@9",
+  "sire": "7309@13",
+  "children": [
+    "9925@15",
+    "10220@16",
+    "19660@18",
+    "57878@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

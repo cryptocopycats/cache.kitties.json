@@ -1,0 +1,18 @@
+{
+  "id": 9898,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-28T10:23:16.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen 17. I'm a Skydiving Instructor by day, and I like braiding people's hair by night. My secret indulgence is hamburgers. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "9162@11",
+  "sire": "6962@16",
+  "children": [
+    "11858@18",
+    "66757@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

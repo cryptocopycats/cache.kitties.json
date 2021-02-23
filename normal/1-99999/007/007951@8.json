@@ -1,0 +1,21 @@
+{
+  "id": 7951,
+  "name": "Gen 8 | Slow",
+  "generation": 8,
+  "created_at": "2017-11-26T06:11:17.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Gen 8 | Slow. I've never told anyone this, but I once pranced with a dog. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "7730@7",
+  "sire": "7918@2",
+  "children": [
+    "8354@13",
+    "8392@10",
+    "8565@13",
+    "54099@11",
+    "65510@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

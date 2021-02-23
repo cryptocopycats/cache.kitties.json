@@ -1,0 +1,21 @@
+{
+  "id": 9810,
+  "name": "Steady Ed",
+  "generation": 14,
+  "created_at": "2017-11-28T08:29:42.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Steady Ed. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "8941@13",
+  "sire": "7138@6",
+  "children": [
+    "10199@15",
+    "13319@17",
+    "64320@15",
+    "73770@16",
+    "245627@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

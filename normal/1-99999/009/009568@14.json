@@ -1,0 +1,20 @@
+{
+  "id": 9568,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-28T03:06:32.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #9568. In high school, I was voted biggest teacher's pet. I put pickles on everything. Like, everything: hot dogs, ice cream—everything! Our friendship will be preposterous, gullible, and full of cantaloupe.",
+  "language": "en",
+  "matron": "9349@13",
+  "sire": "9282@12",
+  "children": [
+    "10227@15",
+    "10428@15",
+    "13969@15",
+    "23664@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8122,
+  "name": "13",
+  "generation": 13,
+  "created_at": "2017-11-26T08:52:38.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm 13. I'm often referred to as the Ross Geller of the group. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7954@12",
+  "sire": "7978@12",
+  "children": [
+    "9081@14",
+    "9727@14",
+    "17565@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

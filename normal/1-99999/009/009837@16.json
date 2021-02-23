@@ -1,0 +1,20 @@
+{
+  "id": 9837,
+  "name": "Q-Bert",
+  "generation": 16,
+  "created_at": "2017-11-28T08:55:26.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Q-Bert. All you need to know about me is I hate steak with a passion. I once got in a fight with a rooster, and won. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "8396@15",
+  "sire": "7980@13",
+  "children": [
+    "10353@18",
+    "11764@18",
+    "77692@20",
+    "142543@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

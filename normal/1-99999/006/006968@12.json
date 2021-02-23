@@ -1,0 +1,20 @@
+{
+  "id": 6968,
+  "name": "Samantha Queer M100",
+  "generation": 12,
+  "created_at": "2017-11-25T12:04:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Samantha Queer M100. I'm a professional Skydiving Instructor and I love cereal. I am 12% wizard, 8% Mad Scientist, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "5743@9",
+  "sire": "6798@11",
+  "children": [
+    "7124@13",
+    "8283@13",
+    "9042@14",
+    "9066@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9852,
+  "name": "Zebra G6C3",
+  "generation": 6,
+  "created_at": "2017-11-28T09:05:14.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Zebra G6C3. I enjoy eating until I loathe myself, tripping my owner, and chasing red dots. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7631@5",
+  "sire": "7755@1",
+  "children": [
+    "10231@12",
+    "11495@17",
+    "12560@14",
+    "499604@21"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

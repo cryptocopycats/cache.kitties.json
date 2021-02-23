@@ -1,0 +1,19 @@
+{
+  "id": 9768,
+  "name": "Fluffy",
+  "generation": 15,
+  "created_at": "2017-11-28T07:51:43.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Fluffy. I'm often referred to as the Cersei Lannister of the group. When no one's home, I invite my pals over and we listen to Frank Sinatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6242@14",
+  "sire": "5341@11",
+  "children": [
+    "43391@16",
+    "58088@20",
+    "93056@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

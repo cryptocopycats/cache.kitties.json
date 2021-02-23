@@ -1,0 +1,20 @@
+{
+  "id": 7700,
+  "name": "Milky",
+  "generation": 11,
+  "created_at": "2017-11-26T01:34:09.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Milky. My friends describe me as stinky and petulant. I put ranch dressing on everything. Like, everything: hot dogs, wet food—everything! I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "6246@10",
+  "sire": "5404@3",
+  "children": [
+    "7890@12",
+    "8299@14",
+    "33655@15",
+    "48485@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

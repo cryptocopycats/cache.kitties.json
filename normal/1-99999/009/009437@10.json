@@ -1,0 +1,19 @@
+{
+  "id": 9437,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-27T23:19:26.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #9437. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "7641@8",
+  "sire": "7891@9",
+  "children": [
+    "9562@11",
+    "10205@11",
+    "27005@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

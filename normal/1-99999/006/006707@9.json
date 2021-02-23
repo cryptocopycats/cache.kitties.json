@@ -1,0 +1,20 @@
+{
+  "id": 6707,
+  "name": "Jack Nicholsen",
+  "generation": 9,
+  "created_at": "2017-11-25T08:04:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Jack Nicholsen. I'm a professional Dispensary Clerk and I love hamburgers. I once dreamed of being a Private Dancer . Now I can be found watching reality tv all day. Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "2011@0",
+  "sire": "3771@8",
+  "children": [
+    "9288@13",
+    "13106@14",
+    "15029@13",
+    "15262@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8753,
+  "name": "Cindy Clawford",
+  "generation": 14,
+  "created_at": "2017-11-27T01:37:08.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Cindy Clawford. My friends describe me as ridiculous and brilliant. I'm often described as prickly, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8261@13",
+  "sire": "4973@8",
+  "children": [
+    "8924@15",
+    "9210@15",
+    "9961@17",
+    "11403@18",
+    "23099@15",
+    "52100@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7670,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-26T00:59:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Kitty #7670. I'm often referred to as the Marge Simpson of the group. I am 98% hobbit, 87% Aerobics Athlete , and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6060@10",
+  "sire": "4641@11",
+  "children": [
+    "7790@13",
+    "21579@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

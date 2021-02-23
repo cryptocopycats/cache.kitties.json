@@ -1,0 +1,22 @@
+{
+  "id": 9927,
+  "name": "Puddles - Gen2",
+  "generation": 2,
+  "created_at": "2017-11-28T11:24:07.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Puddles - Gen2. My friends describe me as petulant and preposterous. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Will you be the soy sauce to my wasabi?",
+  "language": "en",
+  "matron": "6710@1",
+  "sire": "9895@1",
+  "children": [
+    "9933@3",
+    "9965@3",
+    "13054@3",
+    "13756@3",
+    "13965@3",
+    "14110@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

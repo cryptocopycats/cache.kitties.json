@@ -1,0 +1,23 @@
+{
+  "id": 7033,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T13:43:54.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #7033. My friends describe me as brilliant and wondrous. I once tricked a labradoodle. I don't like to talk about it. I look forward to reciting poetry with you.",
+  "language": "en",
+  "matron": "5302@11",
+  "sire": "5163@13",
+  "children": [
+    "7963@15",
+    "8157@15",
+    "8651@15",
+    "9440@16",
+    "10110@17",
+    "55088@16",
+    "76513@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

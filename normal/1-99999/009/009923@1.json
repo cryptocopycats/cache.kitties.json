@@ -1,0 +1,26 @@
+{
+  "id": 9923,
+  "name": "Gen 1 Chester Mc Nugget",
+  "generation": 1,
+  "created_at": "2017-11-28T11:10:12.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Gen 1 Chester Mc Nugget. In high school, I was voted biggest teacher's pet. I once dreamed of being a Foreign Film Director. Now I can be found practicing witchcraft all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "2617@0",
+  "sire": "2619@0",
+  "children": [
+    "12494@4",
+    "16352@13",
+    "16413@14",
+    "22252@14",
+    "22688@18",
+    "35420@2",
+    "40808@2",
+    "84518@2",
+    "138817@2",
+    "180008@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 6568,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T06:21:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #6568. I'm a professional Culinary Sanitation Specialist and I love apple pie. I once dreamed of being a Ventriloquist. Now I can be found talking about how much I lift all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3594@7",
+  "sire": "5077@8",
+  "children": [
+    "6803@13",
+    "6982@15",
+    "7332@10",
+    "8320@15",
+    "8740@16",
+    "9849@18",
+    "12578@12",
+    "46580@10",
+    "101082@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

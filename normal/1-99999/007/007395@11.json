@@ -1,0 +1,21 @@
+{
+  "id": 7395,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T21:05:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #7395. I've never told anyone this, but I once pawed at a dog. I once pawed at a dolphin. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7206@9",
+  "sire": "5389@10",
+  "children": [
+    "7913@12",
+    "8106@12",
+    "8174@12",
+    "8635@14",
+    "8828@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

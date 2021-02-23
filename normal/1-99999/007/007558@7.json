@@ -1,0 +1,20 @@
+{
+  "id": 7558,
+  "name": "blues brother",
+  "generation": 7,
+  "created_at": "2017-11-25T23:27:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm blues brother. In high school, I was voted school jock. I was voted school jock in college. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "2379@0",
+  "sire": "4245@6",
+  "children": [
+    "7695@13",
+    "7718@11",
+    "22653@9",
+    "343356@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

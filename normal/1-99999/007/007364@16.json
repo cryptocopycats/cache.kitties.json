@@ -1,0 +1,21 @@
+{
+  "id": 7364,
+  "name": "fur_ball",
+  "generation": 16,
+  "created_at": "2017-11-25T20:18:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! My name's fur_ball. I once peed on Nelson Mandela's cat. They had it coming. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6877@15",
+  "sire": "4908@6",
+  "children": [
+    "7909@17",
+    "8607@17",
+    "9468@17",
+    "18389@17",
+    "36880@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7556,
+  "name": "Moustachio",
+  "generation": 12,
+  "created_at": "2017-11-25T23:26:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Moustachio. I'm a professional Skydiving Instructor and I love cereal. My secret indulgence is wet food. Can you make my stinky dreams come true?",
+  "language": "en",
+  "matron": "4146@6",
+  "sire": "7196@11",
+  "children": [
+    "8147@13",
+    "8489@13",
+    "8853@13",
+    "9275@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

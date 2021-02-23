@@ -1,0 +1,24 @@
+{
+  "id": 6869,
+  "name": "Paint Diver",
+  "generation": 10,
+  "created_at": "2017-11-25T10:13:40.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Paint Diver here. I'm here to enjoy taking selfies and chasing string. I like to listen to Ace of Base while grooming. Don't judge me. I look forward to being a nevernude with you.",
+  "language": "en",
+  "matron": "2619@0",
+  "sire": "4921@9",
+  "children": [
+    "6940@11",
+    "7875@12",
+    "9217@12",
+    "10173@13",
+    "10807@15",
+    "17094@14",
+    "29052@13",
+    "53256@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

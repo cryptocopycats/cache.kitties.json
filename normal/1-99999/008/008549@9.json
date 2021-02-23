@@ -1,0 +1,18 @@
+{
+  "id": 8549,
+  "name": "Wizard",
+  "generation": 9,
+  "created_at": "2017-11-26T19:50:50.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! My name's Wizard. I once peed on King Henry VIII's cat. They had it coming. I am 89% wizard, 19% Skydiving Instructor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8410@8",
+  "sire": "8463@4",
+  "children": [
+    "10433@17",
+    "43948@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9020,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-27T08:26:46.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #9020. I enjoy glaring at the neighbour's cat, watching Stranger Things, and grooming. Some people say I'm the Chandler Bing of the group. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "7857@11",
+  "sire": "8099@10",
+  "children": [
+    "9698@13",
+    "16699@16",
+    "20013@14",
+    "58437@13",
+    "240487@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

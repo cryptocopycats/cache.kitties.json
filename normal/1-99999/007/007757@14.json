@@ -1,0 +1,17 @@
+{
+  "id": 7757,
+  "name": "14",
+  "generation": 14,
+  "created_at": "2017-11-26T02:33:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm 14. I'm a Mad Scientist by day, and I like mocking dogs by night. It's not common knowledge, but my ancestry connects me to Princess Diana. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "6566@13",
+  "sire": "5805@9",
+  "children": [
+    "11418@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

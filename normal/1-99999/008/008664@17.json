@@ -1,0 +1,20 @@
+{
+  "id": 8664,
+  "name": "Link",
+  "generation": 17,
+  "created_at": "2017-11-26T23:09:47.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Link. My friends describe me as brilliant and tantalizing. I was voted biggest teacher's pet in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8219@16",
+  "sire": "4315@13",
+  "children": [
+    "9654@18",
+    "12714@18",
+    "18498@20",
+    "79414@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7087,
+  "name": "Grapefruit",
+  "generation": 15,
+  "created_at": "2017-11-25T15:02:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Grapefruit. I enjoy shakin' dat booty, eating lasagna, and riding dirty. When no one's home, I invite my pals over and we listen to Rihanna. I like your face.",
+  "language": "en",
+  "matron": "3058@2",
+  "sire": "5560@14",
+  "children": [
+    "8525@16",
+    "8616@16",
+    "18440@16",
+    "20943@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6934,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T11:10:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #6934. I enjoy watching Stranger Things, taking selfies, and grooming. I once got in a fight with a labradoodle, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3787@10",
+  "sire": "5606@11",
+  "children": [
+    "12350@14",
+    "13381@14",
+    "14488@13",
+    "40241@13",
+    "68258@19",
+    "127474@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

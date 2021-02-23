@@ -1,0 +1,20 @@
+{
+  "id": 7762,
+  "name": "Gen 15 Birthed Sailor",
+  "generation": 15,
+  "created_at": "2017-11-26T02:36:02.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 15 Birthed Sailor. I'm a Private Dancer  by day, and I like sleeping in fresh laundry by night. It's not common knowledge, but my ancestry connects me to Cleopatra. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6850@14",
+  "sire": "6953@13",
+  "children": [
+    "8055@16",
+    "8520@16",
+    "92639@16",
+    "142560@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

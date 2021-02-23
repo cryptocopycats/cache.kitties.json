@@ -1,0 +1,18 @@
+{
+  "id": 8148,
+  "name": "Bubblegum",
+  "generation": 18,
+  "created_at": "2017-11-26T09:34:04.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Bubblegum. I'm a professional Spin Instructor  and I love chocolate. When I'm not riverdancing, I'm siring for status! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7647@17",
+  "sire": "7000@11",
+  "children": [
+    "10019@19",
+    "61796@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

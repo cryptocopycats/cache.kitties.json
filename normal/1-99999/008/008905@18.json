@@ -1,0 +1,19 @@
+{
+  "id": 8905,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-27T05:35:29.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #8905. I'm often referred to as the Neville Longbottom of the group. I would give it all up for a Chanel purse. Our friendship will be despicable, ridiculous, and full of cereal.",
+  "language": "en",
+  "matron": "6283@15",
+  "sire": "6633@17",
+  "children": [
+    "9446@19",
+    "12686@19",
+    "14502@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

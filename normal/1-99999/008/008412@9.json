@@ -1,0 +1,18 @@
+{
+  "id": 8412,
+  "name": "Fifty - Gen9",
+  "generation": 9,
+  "created_at": "2017-11-26T15:52:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Fifty - Gen9. I'm often referred to as the Cersei Lannister of the group. My friends describe me as \"tantalizing.\" It's... accurate. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "8403@4",
+  "sire": "8407@8",
+  "children": [
+    "8971@10",
+    "9870@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

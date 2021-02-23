@@ -1,0 +1,26 @@
+{
+  "id": 7407,
+  "name": "7407",
+  "generation": 6,
+  "created_at": "2017-11-25T21:16:55.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm 7407. I'm a professional Dogwalker and I love apple pie. I would give it all up to star in a soap opera. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4499@5",
+  "sire": "3577@5",
+  "children": [
+    "7415@8",
+    "7478@14",
+    "8118@8",
+    "10672@12",
+    "12217@9",
+    "12773@7",
+    "18423@13",
+    "24144@15",
+    "48271@12",
+    "143613@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

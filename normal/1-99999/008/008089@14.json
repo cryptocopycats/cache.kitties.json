@@ -1,0 +1,20 @@
+{
+  "id": 8089,
+  "name": "JB",
+  "generation": 14,
+  "created_at": "2017-11-26T08:21:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! My name's JB. I once peed on King Henry VIII's cat. They had it coming. I once made a platypus grimace. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "6834@13",
+  "sire": "6010@7",
+  "children": [
+    "8531@15",
+    "9094@15",
+    "10158@15",
+    "20229@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

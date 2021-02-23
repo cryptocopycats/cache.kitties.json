@@ -1,0 +1,30 @@
+{
+  "id": 6582,
+  "name": "ShipKitty!!",
+  "generation": 11,
+  "created_at": "2017-11-25T06:27:20.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm ShipKitty!!. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of sitting on your computer, chocolate, and prank-calling celebrities. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "5558@10",
+  "sire": "2598@0",
+  "children": [
+    "7193@18",
+    "7262@12",
+    "7418@12",
+    "8251@12",
+    "9125@12",
+    "10145@12",
+    "26587@19",
+    "119948@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 21,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

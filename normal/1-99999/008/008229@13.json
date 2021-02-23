@@ -1,0 +1,21 @@
+{
+  "id": 8229,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T11:14:49.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Kitty #8229. I've never told anyone this, but I once headbutted a dog. I would give it all up to be on Oprah. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "6859@12",
+  "sire": "6883@1",
+  "children": [
+    "10306@14",
+    "13322@14",
+    "14425@14",
+    "16140@14",
+    "25527@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

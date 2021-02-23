@@ -1,0 +1,20 @@
+{
+  "id": 8324,
+  "name": "GOLDY",
+  "generation": 15,
+  "created_at": "2017-11-26T13:33:23.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm GOLDY. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I like your face.",
+  "language": "en",
+  "matron": "7374@7",
+  "sire": "8237@14",
+  "children": [
+    "11702@16",
+    "12398@16",
+    "17982@16",
+    "407801@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

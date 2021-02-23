@@ -1,0 +1,18 @@
+{
+  "id": 7769,
+  "name": "Mad Scientist Kitty",
+  "generation": 13,
+  "created_at": "2017-11-26T02:45:19.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Mad Scientist Kitty. I'm a professional Mad Scientist and I love lasagna. I once cleaned a dolphin. I don't like to talk about it. Will you be the cinammon to my ranch dressing?",
+  "language": "en",
+  "matron": "7310@12",
+  "sire": "2619@0",
+  "children": [
+    "12391@14",
+    "35278@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

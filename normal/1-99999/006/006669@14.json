@@ -1,0 +1,21 @@
+{
+  "id": 6669,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T07:27:37.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #6669. I believe the world is flat. Some people say I'm the Lisa Simpson of the group. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "6332@10",
+  "sire": "6264@13",
+  "children": [
+    "9735@15",
+    "14338@15",
+    "19397@15",
+    "31704@15",
+    "91373@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

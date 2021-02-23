@@ -1,0 +1,20 @@
+{
+  "id": 8799,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-27T02:44:31.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #8799. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8627@15",
+  "sire": "8628@16",
+  "children": [
+    "9489@18",
+    "13184@18",
+    "22590@20",
+    "30132@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

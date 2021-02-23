@@ -1,0 +1,19 @@
+{
+  "id": 8269,
+  "name": "Stonewall",
+  "generation": 14,
+  "created_at": "2017-11-26T12:21:33.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Stonewall. I'm often referred to as the Lisa Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "5170@12",
+  "sire": "6622@13",
+  "children": [
+    "11479@16",
+    "14453@16",
+    "17346@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

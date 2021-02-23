@@ -1,0 +1,18 @@
+{
+  "id": 9782,
+  "name": "SkyBlue",
+  "generation": 15,
+  "created_at": "2017-11-28T08:05:02.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm SkyBlue. I'm often referred to as the Homer Simpson of the group. I once made a goose drink. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7623@11",
+  "sire": "7502@14",
+  "children": [
+    "11413@18",
+    "16503@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

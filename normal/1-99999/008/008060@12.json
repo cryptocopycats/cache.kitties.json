@@ -1,0 +1,20 @@
+{
+  "id": 8060,
+  "name": "Trump",
+  "generation": 12,
+  "created_at": "2017-11-26T07:40:48.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Trump. I enjoy eating lasagna, fighting the patriarchy, and tripping my owner. In my free time, I can usually be found petulant or prank-calling celebrities. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "6293@10",
+  "sire": "7362@11",
+  "children": [
+    "8733@16",
+    "8922@13",
+    "12039@13",
+    "15526@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

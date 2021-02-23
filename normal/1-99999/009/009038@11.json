@@ -1,0 +1,20 @@
+{
+  "id": 9038,
+  "name": "9038",
+  "generation": 11,
+  "created_at": "2017-11-27T08:52:41.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 9038. I'm often referred to as the Bart Simpson of the group. I am 68% sphinx, 62% Private Dancer , and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4351@10",
+  "sire": "6267@3",
+  "children": [
+    "9826@13",
+    "9926@12",
+    "64530@13",
+    "70423@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

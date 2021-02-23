@@ -1,0 +1,18 @@
+{
+  "id": 7448,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-25T21:54:38.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #7448. I'm often referred to as the Lisa Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2552@0",
+  "sire": "4183@6",
+  "children": [
+    "7888@8",
+    "10549@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 8423,
+  "name": "Applejack",
+  "generation": 3,
+  "created_at": "2017-11-26T16:04:04.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Applejack. I want to live in a world where people believe that one day cats will rule this planet. I am 37% hobbit, 66% Private Dancer , and otherwise bad at math. Can you make my gullible dreams come true?",
+  "language": "en",
+  "matron": "4216@2",
+  "sire": "8414@2",
+  "children": [
+    "8457@5",
+    "8463@4",
+    "10512@4",
+    "43342@8",
+    "45280@8",
+    "48329@8",
+    "68113@8",
+    "80755@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

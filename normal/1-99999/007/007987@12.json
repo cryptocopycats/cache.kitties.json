@@ -1,0 +1,23 @@
+{
+  "id": 7987,
+  "name": "Cuddles",
+  "generation": 12,
+  "created_at": "2017-11-26T06:43:55.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Cuddles. I've never told anyone this, but I once clawed a dog. I once got in a fight with a platypus, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3827@11",
+  "sire": "5197@11",
+  "children": [
+    "8567@15",
+    "8647@18",
+    "9096@16",
+    "17426@18",
+    "61505@22",
+    "93129@20",
+    "348870@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

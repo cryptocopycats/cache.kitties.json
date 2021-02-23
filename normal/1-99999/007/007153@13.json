@@ -1,0 +1,23 @@
+{
+  "id": 7153,
+  "name": "7153",
+  "generation": 13,
+  "created_at": "2017-11-25T16:44:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm 7153. I've never told anyone this, but I once frolicked with a dog. I like to listen to Wutang while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "7105@2",
+  "sire": "7106@12",
+  "children": [
+    "7381@15",
+    "7967@16",
+    "8175@14",
+    "9208@17",
+    "10418@14",
+    "23921@16",
+    "71363@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

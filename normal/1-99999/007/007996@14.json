@@ -1,0 +1,18 @@
+{
+  "id": 7996,
+  "name": "Peachstory",
+  "generation": 14,
+  "created_at": "2017-11-26T06:50:32.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Peachstory. My friends describe me as seductive and despicable. I once made a moose leap. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "5245@12",
+  "sire": "6805@13",
+  "children": [
+    "10537@15",
+    "12575@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

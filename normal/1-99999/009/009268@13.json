@@ -1,0 +1,19 @@
+{
+  "id": 9268,
+  "name": "13",
+  "generation": 13,
+  "created_at": "2017-11-27T17:02:29.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm 13. I'm often referred to as the Neville Longbottom of the group. I once got in a fight with a chimpanzee, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3258@3",
+  "sire": "6844@12",
+  "children": [
+    "9657@14",
+    "37495@14",
+    "80027@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

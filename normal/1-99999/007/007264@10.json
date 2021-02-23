@@ -1,0 +1,21 @@
+{
+  "id": 7264,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T18:33:30.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #7264. In high school, I was voted biggest teacher's pet. I like to listen to Michael Bolton while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "7218@9",
+  "sire": "7223@3",
+  "children": [
+    "7315@11",
+    "7520@11",
+    "7570@11",
+    "11212@13",
+    "14235@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

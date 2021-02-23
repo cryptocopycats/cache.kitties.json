@@ -1,0 +1,19 @@
+{
+  "id": 6570,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-25T06:22:01.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #6570. I'm a Foreign Film Director by day, and I like pole dancing by night. In my free time, I can usually be found fabulous or playing chess. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6165@13",
+  "sire": "5592@15",
+  "children": [
+    "7186@17",
+    "8374@17",
+    "12441@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

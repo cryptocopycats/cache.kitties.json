@@ -1,0 +1,20 @@
+{
+  "id": 9290,
+  "name": "armed_and_dangerous",
+  "generation": 12,
+  "created_at": "2017-11-27T17:58:06.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm armed_and_dangerous. I'm a professional Dispensary Clerk and I love cereal. When no one's home, I invite my pals over and we listen to Ace of Base. Let's get busy!",
+  "language": "en",
+  "matron": "8752@9",
+  "sire": "5744@11",
+  "children": [
+    "14308@13",
+    "15205@14",
+    "61018@14",
+    "85051@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

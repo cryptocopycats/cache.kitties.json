@@ -1,0 +1,22 @@
+{
+  "id": 8128,
+  "name": "Whitebeard",
+  "generation": 12,
+  "created_at": "2017-11-26T09:00:49.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Whitebeard. My friends describe me as smelly and stinky. I am 38% troll, 28% Culinary Sanitation Specialist, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8069@10",
+  "sire": "8070@11",
+  "children": [
+    "9497@15",
+    "11446@13",
+    "12427@16",
+    "14172@13",
+    "21621@18",
+    "101939@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

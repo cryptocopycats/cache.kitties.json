@@ -1,0 +1,19 @@
+{
+  "id": 8822,
+  "name": "Mino Mino",
+  "generation": 10,
+  "created_at": "2017-11-27T03:21:04.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Mino Mino. I'm a professional Culinary Sanitation Specialist and I love cereal. I once dreamed of being a Skydiving Instructor. Now I can be found siring for status all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5090@9",
+  "sire": "8605@8",
+  "children": [
+    "10752@14",
+    "36570@12",
+    "204526@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

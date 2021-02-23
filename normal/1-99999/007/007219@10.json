@@ -1,0 +1,19 @@
+{
+  "id": 7219,
+  "name": "7219",
+  "generation": 10,
+  "created_at": "2017-11-25T17:54:39.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm 7219. I'm often referred to as the Marge Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6004@8",
+  "sire": "5266@9",
+  "children": [
+    "9374@14",
+    "9551@17",
+    "11551@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

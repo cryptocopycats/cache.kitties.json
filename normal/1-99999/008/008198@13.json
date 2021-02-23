@@ -1,0 +1,19 @@
+{
+  "id": 8198,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T10:41:56.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #8198. I'm a professional Mad Scientist and I love cereal. I was voted biggest teacher's pet in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "1404@0",
+  "sire": "7044@12",
+  "children": [
+    "9485@14",
+    "10215@14",
+    "55533@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

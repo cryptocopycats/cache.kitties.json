@@ -1,0 +1,20 @@
+{
+  "id": 8416,
+  "name": "Lovey",
+  "generation": 10,
+  "created_at": "2017-11-26T15:57:15.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Lovey. My friends describe me as wondrous and fabulous. Some people say I'm the Homer Simpson of the group. Let's pawty!",
+  "language": "en",
+  "matron": "5692@7",
+  "sire": "4044@9",
+  "children": [
+    "9740@12",
+    "15453@11",
+    "16818@12",
+    "225240@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

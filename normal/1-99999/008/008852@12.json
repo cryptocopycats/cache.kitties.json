@@ -1,0 +1,18 @@
+{
+  "id": 8852,
+  "name": "Pella",
+  "generation": 12,
+  "created_at": "2017-11-27T04:16:01.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Pella. I'm often referred to as the Cersei Lannister of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "2537@0",
+  "sire": "4440@11",
+  "children": [
+    "8941@13",
+    "9890@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

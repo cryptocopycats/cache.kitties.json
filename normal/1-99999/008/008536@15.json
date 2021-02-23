@@ -1,0 +1,20 @@
+{
+  "id": 8536,
+  "name": "Stripy Green",
+  "generation": 15,
+  "created_at": "2017-11-26T19:09:26.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Stripy Green. My friends describe me as fabulous and voluptuous. When I'm not volunteering at the local kitten rescue shelter, I'm mocking dogs! Let's pawty!",
+  "language": "en",
+  "matron": "3900@8",
+  "sire": "5542@14",
+  "children": [
+    "8679@16",
+    "11262@17",
+    "46260@16",
+    "62612@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9769,
+  "name": "Luke Skywhisker",
+  "generation": 14,
+  "created_at": "2017-11-28T07:51:54.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Luke Skywhisker. I'm a professional Ventriloquist and I love chocolate. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6016@13",
+  "sire": "6942@9",
+  "children": [
+    "11847@15",
+    "50723@18",
+    "74143@16",
+    "107775@15",
+    "143774@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

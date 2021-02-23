@@ -1,0 +1,20 @@
+{
+  "id": 8604,
+  "name": "8604",
+  "generation": 15,
+  "created_at": "2017-11-26T21:23:06.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm 8604. I enjoy grooming, picking flowers, and fighting the patriarchy. I would give it all up for a Chanel purse. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "8155@14",
+  "sire": "5096@10",
+  "children": [
+    "8736@16",
+    "11828@16",
+    "21548@16",
+    "45718@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

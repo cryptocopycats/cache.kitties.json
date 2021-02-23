@@ -1,0 +1,20 @@
+{
+  "id": 7890,
+  "name": "Blancocat",
+  "generation": 12,
+  "created_at": "2017-11-26T04:56:40.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Blancocat. In high school, I was voted biggest teacher's pet. I put pickles on everything. Like, everything: hot dogs, salad—everything! Let's get busy!",
+  "language": "en",
+  "matron": "7700@11",
+  "sire": "7835@10",
+  "children": [
+    "8027@14",
+    "28955@17",
+    "31904@18",
+    "48285@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

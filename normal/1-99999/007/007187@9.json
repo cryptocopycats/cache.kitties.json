@@ -1,0 +1,25 @@
+{
+  "id": 7187,
+  "name": "Hilakleiner",
+  "generation": 9,
+  "created_at": "2017-11-25T17:12:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Hilakleiner. I'm often referred to as the Neville Longbottom of the group. I was voted biggest teacher's pet in college. I like your face.",
+  "language": "en",
+  "matron": "3466@8",
+  "sire": "2383@0",
+  "children": [
+    "10313@10",
+    "10469@12",
+    "12565@15",
+    "13064@14",
+    "28116@10",
+    "47256@14",
+    "78073@14",
+    "112864@14",
+    "184610@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

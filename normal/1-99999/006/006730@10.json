@@ -1,0 +1,19 @@
+{
+  "id": 6730,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T08:20:38.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #6730. I'm often referred to as the Samwise Gamgee of the group. When I'm not practicing witchcraft, I'm pole dancing! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4537@9",
+  "sire": "4097@5",
+  "children": [
+    "58709@15",
+    "85319@11",
+    "112204@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

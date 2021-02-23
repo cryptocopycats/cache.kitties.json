@@ -1,0 +1,23 @@
+{
+  "id": 6863,
+  "name": "PONI",
+  "generation": 11,
+  "created_at": "2017-11-25T10:10:26.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm PONI. I've never told anyone this, but I once tricked a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "5156@8",
+  "sire": "6225@10",
+  "children": [
+    "7768@12",
+    "12138@12",
+    "12904@16",
+    "13123@12",
+    "20089@12",
+    "57556@15",
+    "1314266@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6805,
+  "name": "Passifox",
+  "generation": 13,
+  "created_at": "2017-11-25T09:17:41.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Passifox. My friends describe me as vegan and wondrous. I once made a dog play. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5580@12",
+  "sire": "5675@3",
+  "children": [
+    "7657@14",
+    "7996@14",
+    "11929@14",
+    "14417@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

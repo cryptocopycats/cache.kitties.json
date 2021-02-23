@@ -1,0 +1,22 @@
+{
+  "id": 7432,
+  "name": "Zoomer Kid",
+  "generation": 9,
+  "created_at": "2017-11-25T21:47:41.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Zoomer Kid. I believe the world is flat. I once made a goose kiss. Our friendship will be stinky, prickly, and full of salad.",
+  "language": "en",
+  "matron": "5454@6",
+  "sire": "4371@8",
+  "children": [
+    "7613@12",
+    "7622@14",
+    "7798@12",
+    "8476@15",
+    "81392@11",
+    "90678@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

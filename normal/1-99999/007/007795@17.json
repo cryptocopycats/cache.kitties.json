@@ -1,0 +1,18 @@
+{
+  "id": 7795,
+  "name": "Tempura Maki",
+  "generation": 17,
+  "created_at": "2017-11-26T03:15:18.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Tempura Maki. I believe the world is flat. My friends describe me as \"wondrous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5216@10",
+  "sire": "7443@16",
+  "children": [
+    "9643@18",
+    "16170@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

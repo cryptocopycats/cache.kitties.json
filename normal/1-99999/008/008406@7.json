@@ -1,0 +1,23 @@
+{
+  "id": 8406,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-26T15:42:50.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #8406. I've never told anyone this, but I once pawed at a dog. I like to listen to Wutang while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "3336@6",
+  "sire": "6162@6",
+  "children": [
+    "9513@20",
+    "9700@8",
+    "10951@9",
+    "12096@16",
+    "14457@11",
+    "16937@11",
+    "29336@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

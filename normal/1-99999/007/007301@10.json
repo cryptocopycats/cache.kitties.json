@@ -1,0 +1,17 @@
+{
+  "id": 7301,
+  "name": "Neon Stripe Kitty",
+  "generation": 10,
+  "created_at": "2017-11-25T19:04:28.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Neon Stripe Kitty. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7258@9",
+  "sire": "2567@0",
+  "children": [
+    "7567@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

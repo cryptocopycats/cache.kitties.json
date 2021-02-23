@@ -1,0 +1,20 @@
+{
+  "id": 8672,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-26T23:20:55.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Kitty #8672. I've never told anyone this, but I once cleaned a dog. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "3848@9",
+  "sire": "7838@13",
+  "children": [
+    "9285@15",
+    "9944@15",
+    "12593@15",
+    "29010@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

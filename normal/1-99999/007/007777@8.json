@@ -1,0 +1,21 @@
+{
+  "id": 7777,
+  "name": "Gen 8",
+  "generation": 8,
+  "created_at": "2017-11-26T02:53:22.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Gen 8. I'm often referred to as the Lisa Simpson of the group. When I'm not swiping right, I'm prank-calling celebrities! Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "2600@0",
+  "sire": "6138@7",
+  "children": [
+    "8015@10",
+    "8901@17",
+    "11275@14",
+    "16859@19",
+    "252908@26"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

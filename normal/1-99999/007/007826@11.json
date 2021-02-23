@@ -1,0 +1,22 @@
+{
+  "id": 7826,
+  "name": "Sad Cubby",
+  "generation": 11,
+  "created_at": "2017-11-26T03:42:30.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Sad Cubby. My friends describe me as petulant and brilliant. In my free time, I can usually be found hairy or practicing witchcraft. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4271@10",
+  "sire": "2368@0",
+  "children": [
+    "11614@12",
+    "14478@13",
+    "15419@14",
+    "38841@12",
+    "73999@14",
+    "103890@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

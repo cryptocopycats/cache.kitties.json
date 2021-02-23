@@ -1,0 +1,21 @@
+{
+  "id": 7215,
+  "name": "Poom Poom",
+  "generation": 8,
+  "created_at": "2017-11-25T17:51:49.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Poom Poom. I'm a professional Mad Scientist and I love lasagna. In my free time, I can usually be found prickly or watching reality tv. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6728@7",
+  "sire": "5339@3",
+  "children": [
+    "7291@9",
+    "7732@9",
+    "24050@14",
+    "40534@12",
+    "55214@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

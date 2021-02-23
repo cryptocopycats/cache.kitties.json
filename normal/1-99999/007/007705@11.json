@@ -1,0 +1,20 @@
+{
+  "id": 7705,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T01:39:29.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #7705. I've never told anyone this, but I once pranced with a dog. I would give it all up to star in a soap opera. I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "3422@7",
+  "sire": "3844@10",
+  "children": [
+    "10894@12",
+    "66595@13",
+    "201158@13",
+    "274719@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

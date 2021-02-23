@@ -1,0 +1,21 @@
+{
+  "id": 9274,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-27T17:10:55.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Kitty #9274. I once peed on Princess Diana's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3835@5",
+  "sire": "5982@8",
+  "children": [
+    "9306@10",
+    "9582@13",
+    "70915@10",
+    "80908@12",
+    "101198@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6854,
+  "name": "Lasereyes",
+  "generation": 2,
+  "created_at": "2017-11-25T10:01:15.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Lasereyes. I've never told anyone this, but I once cleaned a dog. When I'm not swiping left, I'm talking about how much I lift! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2227@0",
+  "sire": "3393@1",
+  "children": [
+    "9304@13",
+    "9323@11",
+    "9536@17",
+    "87613@3",
+    "182651@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

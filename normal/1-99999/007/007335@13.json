@@ -1,0 +1,20 @@
+{
+  "id": 7335,
+  "name": "Just a Simple Cat",
+  "generation": 13,
+  "created_at": "2017-11-25T19:51:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Just a Simple Cat. I'm a professional Mad Scientist and I love hamburgers. I'm often described as vegan, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7048@12",
+  "sire": "3859@5",
+  "children": [
+    "10570@15",
+    "11803@14",
+    "54101@16",
+    "71673@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

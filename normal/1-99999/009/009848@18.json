@@ -1,0 +1,18 @@
+{
+  "id": 9848,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-28T09:05:14.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #9848. I've never told anyone this, but I once loved a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8380@17",
+  "sire": "8028@13",
+  "children": [
+    "18354@19",
+    "27425@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

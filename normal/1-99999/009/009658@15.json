@@ -1,0 +1,18 @@
+{
+  "id": 9658,
+  "name": "Cambridge",
+  "generation": 15,
+  "created_at": "2017-11-28T05:48:18.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! My name's Cambridge. I once peed on King Henry VIII's cat. They had it coming. Sometimes I daydream of a life full of chasing string, steak, and playing chess. Will you be the cinammon to my soy sauce?",
+  "language": "en",
+  "matron": "8115@12",
+  "sire": "7709@14",
+  "children": [
+    "10511@16",
+    "11740@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

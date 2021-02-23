@@ -1,0 +1,22 @@
+{
+  "id": 6987,
+  "name": "Aphrodite",
+  "generation": 15,
+  "created_at": "2017-11-25T12:19:03.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! My name's Aphrodite. I once peed on Mother Theresa's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Mother Theresa. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6158@1",
+  "sire": "5804@14",
+  "children": [
+    "11287@18",
+    "11760@16",
+    "15562@16",
+    "32110@16",
+    "85026@16",
+    "298490@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

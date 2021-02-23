@@ -1,0 +1,23 @@
+{
+  "id": 6948,
+  "name": "Steeler",
+  "generation": 11,
+  "created_at": "2017-11-25T11:28:41.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! Steeler here. I'm here to enjoy watching Stranger Things and breakdancing. When I'm not running a podcast, I'm prank-calling celebrities! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5114@10",
+  "sire": "5536@8",
+  "children": [
+    "9665@12",
+    "16906@12",
+    "17423@14",
+    "28474@16",
+    "54517@19",
+    "58536@14",
+    "988031@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8577,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-26T20:45:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! My name's Kitty #8577. I once peed on Martin Luther King Jr.'s cat. They had it coming. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6651@16",
+  "sire": "8011@16",
+  "children": [
+    "9204@19",
+    "9802@18",
+    "13247@19",
+    "16939@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

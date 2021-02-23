@@ -1,0 +1,24 @@
+{
+  "id": 6771,
+  "name": "Fabulous",
+  "generation": 6,
+  "created_at": "2017-11-25T08:51:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Fabulous. I'm a Dispensary Clerk by day, and I like practicing witchcraft by night. When no one's home, I invite my pals over and we listen to Gloria Estefan. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "3852@3",
+  "sire": "6754@5",
+  "children": [
+    "8802@7",
+    "10424@7",
+    "11511@10",
+    "28376@16",
+    "36620@18",
+    "52304@7",
+    "57146@7",
+    "78833@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9004,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-11-27T07:59:03.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Gen 18. My friends describe me as fabulous and gullible. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8270@17",
+  "sire": "6668@11",
+  "children": [
+    "107578@19",
+    "117566@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

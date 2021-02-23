@@ -1,0 +1,24 @@
+{
+  "id": 8632,
+  "name": "Starter G11",
+  "generation": 11,
+  "created_at": "2017-11-26T21:53:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Starter G11. I'm a professional Spin Instructor  and I love cereal. I was voted school jock in college. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "8492@10",
+  "sire": "8550@10",
+  "children": [
+    "8675@15",
+    "8778@12",
+    "8952@17",
+    "9624@17",
+    "66428@19",
+    "93704@12",
+    "216709@12",
+    "441063@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

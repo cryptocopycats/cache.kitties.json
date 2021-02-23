@@ -1,0 +1,18 @@
+{
+  "id": 9802,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-11-28T08:25:34.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #9802. I've never told anyone this, but I once bit a dog. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8577@17",
+  "sire": "8821@17",
+  "children": [
+    "11370@20",
+    "17168@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

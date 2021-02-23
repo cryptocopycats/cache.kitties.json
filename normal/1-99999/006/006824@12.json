@@ -1,0 +1,20 @@
+{
+  "id": 6824,
+  "name": "Purple Rain",
+  "generation": 12,
+  "created_at": "2017-11-25T09:34:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Purple Rain. My friends describe me as brilliant and annoying. I put garlic butter on everything. Like, everything: hot dogs, lasagna—everything! Let's pawty!",
+  "language": "en",
+  "matron": "6602@11",
+  "sire": "6152@11",
+  "children": [
+    "8136@13",
+    "8473@16",
+    "9161@17",
+    "9878@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

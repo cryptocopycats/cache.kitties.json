@@ -1,0 +1,20 @@
+{
+  "id": 9806,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-28T08:26:37.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! My name's Gen 17. I once peed on Marie Antoinette's cat. They had it coming. I once pranced with a platypus. I don't like to talk about it. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "8626@16",
+  "sire": "8627@15",
+  "children": [
+    "10379@18",
+    "15148@18",
+    "20940@18",
+    "25618@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

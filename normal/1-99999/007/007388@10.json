@@ -1,0 +1,23 @@
+{
+  "id": 7388,
+  "name": "Zirkon",
+  "generation": 10,
+  "created_at": "2017-11-25T21:00:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Zirkon. In high school, I was voted school jock. Sometimes I daydream of a life full of reading garfield, salad, and people-watching. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "6938@9",
+  "sire": "4186@8",
+  "children": [
+    "7929@17",
+    "19657@15",
+    "22413@12",
+    "25488@13",
+    "32684@15",
+    "69693@17",
+    "89706@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8982,
+  "name": "Lady cat cat",
+  "generation": 15,
+  "created_at": "2017-11-27T07:17:27.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Lady cat cat. I'm often referred to as the Chandler Bing of the group. Some people say I'm the Chandler Bing of the group. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "8166@14",
+  "sire": "6297@13",
+  "children": [
+    "10242@16",
+    "12616@16",
+    "17012@16",
+    "37212@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7416,
+  "name": "Neapolitan",
+  "generation": 10,
+  "created_at": "2017-11-25T21:31:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Neapolitan. In high school, I was voted most likely to work at NASA. I once made a rooster enjoy. Our friendship will be despicable, petulant, and full of hamburgers.",
+  "language": "en",
+  "matron": "4183@6",
+  "sire": "7238@9",
+  "children": [
+    "7577@11",
+    "8872@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

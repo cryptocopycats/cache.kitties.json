@@ -1,0 +1,21 @@
+{
+  "id": 9063,
+  "name": "G16/Sluggish",
+  "generation": 16,
+  "created_at": "2017-11-27T09:22:08.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm G16/Sluggish. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's get busy!",
+  "language": "en",
+  "matron": "8288@15",
+  "sire": "7182@12",
+  "children": [
+    "9840@17",
+    "10138@17",
+    "12917@17",
+    "18634@21",
+    "25396@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

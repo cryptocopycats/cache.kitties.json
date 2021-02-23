@@ -1,0 +1,22 @@
+{
+  "id": 9701,
+  "name": "Neville",
+  "generation": 13,
+  "created_at": "2017-11-28T06:42:48.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Neville here. I'm here to enjoy riding dirty and chasing string. In my free time, I can usually be found stinky or braiding people's hair. Our friendship will be tantalizing, annoying, and full of lasagna.",
+  "language": "en",
+  "matron": "6656@12",
+  "sire": "6846@12",
+  "children": [
+    "12927@14",
+    "15041@14",
+    "17493@14",
+    "48953@14",
+    "65124@20",
+    "95256@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

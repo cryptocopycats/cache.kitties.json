@@ -1,0 +1,21 @@
+{
+  "id": 7625,
+  "name": "G15",
+  "generation": 15,
+  "created_at": "2017-11-26T00:16:05.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm G15. I'm often referred to as the Samwise Gamgee of the group. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "7326@14",
+  "sire": "7285@7",
+  "children": [
+    "7886@16",
+    "11587@16",
+    "14163@16",
+    "19920@16",
+    "52686@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

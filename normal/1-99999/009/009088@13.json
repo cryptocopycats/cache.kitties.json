@@ -1,0 +1,21 @@
+{
+  "id": 9088,
+  "name": "PrettyKitty",
+  "generation": 13,
+  "created_at": "2017-11-27T10:16:40.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm PrettyKitty. I'm a professional Mad Scientist and I love salad. It's not common knowledge, but my ancestry connects me to Mother Theresa. I like your face.",
+  "language": "en",
+  "matron": "3730@8",
+  "sire": "7797@12",
+  "children": [
+    "50706@14",
+    "59133@22",
+    "91899@14",
+    "218794@20",
+    "251085@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

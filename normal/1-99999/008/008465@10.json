@@ -1,0 +1,22 @@
+{
+  "id": 8465,
+  "name": "Vanilla Bean",
+  "generation": 10,
+  "created_at": "2017-11-26T17:16:59.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Vanilla Bean. My friends describe me as smelly and gorgeous. My secret indulgence is chocolate. Let's get busy!",
+  "language": "en",
+  "matron": "4259@7",
+  "sire": "4938@9",
+  "children": [
+    "8478@11",
+    "8608@15",
+    "10442@11",
+    "59528@11",
+    "78562@11",
+    "425149@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

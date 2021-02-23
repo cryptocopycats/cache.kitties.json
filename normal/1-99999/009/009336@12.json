@@ -1,0 +1,18 @@
+{
+  "id": 9336,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-27T20:00:35.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #9336. I'm a professional Train Conductor and I love salad. When no one's home, I invite my pals over and we listen to Ace of Base. I like your face.",
+  "language": "en",
+  "matron": "5084@3",
+  "sire": "9054@11",
+  "children": [
+    "10011@16",
+    "12480@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

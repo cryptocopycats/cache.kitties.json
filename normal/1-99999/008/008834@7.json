@@ -1,0 +1,20 @@
+{
+  "id": 8834,
+  "name": "B - Gen 7",
+  "generation": 7,
+  "created_at": "2017-11-27T03:44:15.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm B - Gen 7. I enjoy fighting the patriarchy, taking selfies, and sitting on your computer. My secret indulgence is lasagna. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4112@4",
+  "sire": "8643@6",
+  "children": [
+    "9712@8",
+    "10505@11",
+    "10539@8",
+    "38852@8"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6795,
+  "name": "Methyl Ethyl",
+  "generation": 8,
+  "created_at": "2017-11-25T09:09:41.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Methyl Ethyl. I'm a Ventriloquist by day, and I like mocking dogs by night. In my free time, I can usually be found voluptuous or pole dancing. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "4822@7",
+  "sire": "2068@0",
+  "children": [
+    "12006@17",
+    "26575@9",
+    "41601@12",
+    "41953@10",
+    "68666@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

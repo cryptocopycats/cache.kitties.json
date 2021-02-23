@@ -1,0 +1,21 @@
+{
+  "id": 6612,
+  "name": "Lime Glasses",
+  "generation": 12,
+  "created_at": "2017-11-25T06:48:43.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! Lime Glasses here. I'm here to enjoy shakin' dat booty and fighting the patriarchy. I like to listen to Coldplay while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6371@11",
+  "sire": "5502@10",
+  "children": [
+    "11271@13",
+    "13124@13",
+    "14720@13",
+    "43821@13",
+    "60097@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

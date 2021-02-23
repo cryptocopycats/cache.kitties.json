@@ -1,0 +1,22 @@
+{
+  "id": 9198,
+  "name": "Schrodinger's Kitty",
+  "generation": 6,
+  "created_at": "2017-11-27T14:27:13.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Schrodinger's Kitty. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "5731@5",
+  "sire": "2217@0",
+  "children": [
+    "9273@12",
+    "9287@10",
+    "43212@8",
+    "62654@18",
+    "65501@19",
+    "69984@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8050,
+  "name": "Gina",
+  "generation": 11,
+  "created_at": "2017-11-26T07:35:54.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gina. I'm a Spin Instructor  by day, and I like swiping left by night. I am 10% oracle, 80% Spin Instructor , and otherwise bad at math. Our friendship will be fabulous, stinky, and full of chocolate.",
+  "language": "en",
+  "matron": "3292@2",
+  "sire": "5370@10",
+  "children": [
+    "11182@12",
+    "12050@12",
+    "14986@12",
+    "42926@13",
+    "63256@15",
+    "88972@12",
+    "112189@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

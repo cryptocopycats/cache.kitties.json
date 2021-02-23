@@ -1,0 +1,21 @@
+{
+  "id": 7655,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T00:45:35.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #7655. I'm often referred to as the Peter Griffin of the group. When I'm not sleeping in fresh laundry, I'm mocking dogs! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6114@5",
+  "sire": "6019@12",
+  "children": [
+    "8208@14",
+    "9795@14",
+    "11570@14",
+    "18099@18",
+    "81828@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

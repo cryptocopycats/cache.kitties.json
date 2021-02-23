@@ -1,0 +1,18 @@
+{
+  "id": 7394,
+  "name": "Apples",
+  "generation": 13,
+  "created_at": "2017-11-25T21:05:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Apples. My friends describe me as fabulous and gullible. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Our friendship will be fabulous, gullible, and full of apple pie.",
+  "language": "en",
+  "matron": "7251@4",
+  "sire": "7344@12",
+  "children": [
+    "7563@14",
+    "13165@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

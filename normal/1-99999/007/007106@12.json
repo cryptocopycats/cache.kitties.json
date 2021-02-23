@@ -1,0 +1,21 @@
+{
+  "id": 7106,
+  "name": "MrQ",
+  "generation": 12,
+  "created_at": "2017-11-25T15:26:59.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm MrQ. I've never told anyone this, but I once cleaned a dog. I put marmalade on everything. Like, everything: hot dogs, apple pie—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7079@5",
+  "sire": "7093@11",
+  "children": [
+    "7153@13",
+    "7772@13",
+    "8318@16",
+    "25348@13",
+    "55064@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

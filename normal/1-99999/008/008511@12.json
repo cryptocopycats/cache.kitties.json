@@ -1,0 +1,21 @@
+{
+  "id": 8511,
+  "name": "Milk",
+  "generation": 12,
+  "created_at": "2017-11-26T18:37:01.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Milk. My friends describe me as preposterous and stinky. My secret indulgence is steak. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8430@9",
+  "sire": "8478@11",
+  "children": [
+    "8610@13",
+    "10860@18",
+    "52766@17",
+    "108425@13",
+    "189605@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

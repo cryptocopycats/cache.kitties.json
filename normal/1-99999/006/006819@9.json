@@ -1,0 +1,20 @@
+{
+  "id": 6819,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T09:30:18.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #6819. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Cleopatra. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5617@8",
+  "sire": "3596@7",
+  "children": [
+    "7868@10",
+    "11906@10",
+    "653322@11",
+    "688574@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7549,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T23:22:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! Kitty #7549 here. I'm here to enjoy slappin' da bass and reciting poetry. I like to listen to Frank Sinatra while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5427@10",
+  "sire": "6799@2",
+  "children": [
+    "8142@12",
+    "10411@13",
+    "13356@14",
+    "15467@14",
+    "19486@12",
+    "25620@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

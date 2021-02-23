@@ -1,0 +1,18 @@
+{
+  "id": 8012,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-26T07:03:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #8012. I want to live in a world where people believe that one day cats will rule this planet. I once made a platypus dance. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6046@14",
+  "sire": "3824@10",
+  "children": [
+    "20928@17",
+    "21807@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

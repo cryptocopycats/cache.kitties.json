@@ -1,0 +1,23 @@
+{
+  "id": 7291,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T18:54:32.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #7291. I enjoy reciting poetry, taking selfies, and riding unicorns. My friends describe me as \"prickly.\" It's... accurate. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "6383@6",
+  "sire": "7215@8",
+  "children": [
+    "7319@10",
+    "7710@10",
+    "8069@10",
+    "8146@10",
+    "8744@10",
+    "9346@13",
+    "10233@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

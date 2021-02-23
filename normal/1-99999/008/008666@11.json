@@ -1,0 +1,23 @@
+{
+  "id": 8666,
+  "name": "Starter G11",
+  "generation": 11,
+  "created_at": "2017-11-26T23:10:56.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Starter G11. All you need to know about me is I hate salad with a passion. I once snuggled a labradoodle. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "8622@6",
+  "sire": "8550@10",
+  "children": [
+    "8713@13",
+    "8937@16",
+    "9281@16",
+    "30583@16",
+    "44206@16",
+    "106731@12",
+    "174792@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

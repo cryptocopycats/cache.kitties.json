@@ -1,0 +1,19 @@
+{
+  "id": 9577,
+  "name": "Snuffelz",
+  "generation": 15,
+  "created_at": "2017-11-28T03:28:17.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! Snuffelz here. I'm here to enjoy picking flowers and eating lasagna. It's not common knowledge, but my ancestry connects me to Mother Theresa. Will you be the peanut butter to my wasabi?",
+  "language": "en",
+  "matron": "6696@11",
+  "sire": "8994@14",
+  "children": [
+    "11734@17",
+    "12455@16",
+    "69641@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

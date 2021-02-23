@@ -1,0 +1,18 @@
+{
+  "id": 8606,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T21:23:43.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #8606. I enjoy chasing red dots, fighting the patriarchy, and glaring at the neighbour's cat. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "8174@12",
+  "sire": "8400@8",
+  "children": [
+    "8907@14",
+    "8970@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

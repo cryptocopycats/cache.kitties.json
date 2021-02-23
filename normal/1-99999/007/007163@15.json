@@ -1,0 +1,21 @@
+{
+  "id": 7163,
+  "name": "Beardsly",
+  "generation": 15,
+  "created_at": "2017-11-25T16:51:14.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Beardsly. I'm often referred to as the Cersei Lannister of the group. When I'm not running a podcast, I'm jump-roping! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "5645@12",
+  "sire": "4967@14",
+  "children": [
+    "8588@16",
+    "9272@20",
+    "9741@16",
+    "49420@16",
+    "114892@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

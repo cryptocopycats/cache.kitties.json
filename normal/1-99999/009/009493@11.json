@@ -1,0 +1,22 @@
+{
+  "id": 9493,
+  "name": "Plod Hopper",
+  "generation": 11,
+  "created_at": "2017-11-28T00:29:27.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Plod Hopper. I'm often referred to as the Michael Scott of the group. My friends describe me as \"seductive.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5858@10",
+  "sire": "4363@10",
+  "children": [
+    "9670@12",
+    "9794@12",
+    "11740@16",
+    "13594@12",
+    "22253@14",
+    "35073@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

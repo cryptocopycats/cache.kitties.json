@@ -1,0 +1,19 @@
+{
+  "id": 8476,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-26T17:32:43.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #8476. I'm a Dispensary Clerk by day, and I like watching reality tv by night. When no one's home, I invite my pals over and we listen to Gloria Estefan. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7432@9",
+  "sire": "7922@14",
+  "children": [
+    "8644@16",
+    "51865@16",
+    "77873@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

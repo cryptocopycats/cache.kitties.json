@@ -1,0 +1,24 @@
+{
+  "id": 6927,
+  "name": "G10/Sluggish",
+  "generation": 10,
+  "created_at": "2017-11-25T11:05:34.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm G10/Sluggish. I'm often referred to as the Dwight Schrute of the group. I would give it all up to be on Oprah. I like your face.",
+  "language": "en",
+  "matron": "6551@9",
+  "sire": "6454@8",
+  "children": [
+    "7303@11",
+    "7425@16",
+    "8066@15",
+    "8722@17",
+    "9277@16",
+    "10105@20",
+    "18425@18",
+    "73023@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

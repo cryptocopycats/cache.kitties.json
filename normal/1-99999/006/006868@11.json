@@ -1,0 +1,20 @@
+{
+  "id": 6868,
+  "name": "Kitty Purry",
+  "generation": 11,
+  "created_at": "2017-11-25T10:13:20.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty Purry. My friends describe me as petulant and despicable. It's not common knowledge, but my ancestry connects me to Mother Theresa. Let's pawty!",
+  "language": "en",
+  "matron": "4730@9",
+  "sire": "4829@10",
+  "children": [
+    "7525@12",
+    "8336@13",
+    "8361@17",
+    "13392@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

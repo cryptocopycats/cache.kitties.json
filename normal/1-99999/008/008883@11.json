@@ -1,0 +1,23 @@
+{
+  "id": 8883,
+  "name": "Calzone",
+  "generation": 11,
+  "created_at": "2017-11-27T05:08:18.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! Calzone here. I'm here to enjoy reciting poetry and riding dirty. I once made a dolphin dance. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "7064@1",
+  "sire": "8878@10",
+  "children": [
+    "10580@12",
+    "12757@13",
+    "13081@12",
+    "14939@13",
+    "45728@19",
+    "71588@12",
+    "419068@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

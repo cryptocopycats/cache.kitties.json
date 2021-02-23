@@ -1,0 +1,21 @@
+{
+  "id": 8380,
+  "name": "Sandoval",
+  "generation": 17,
+  "created_at": "2017-11-26T14:56:02.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Sandoval. I'm a Foreign Film Director by day, and I like playing chess by night. I was voted school jock in college. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "4637@13",
+  "sire": "6825@16",
+  "children": [
+    "9848@18",
+    "47433@18",
+    "72486@18",
+    "209478@18",
+    "357746@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

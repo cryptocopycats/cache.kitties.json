@@ -1,0 +1,20 @@
+{
+  "id": 7338,
+  "name": "Cosmo Kramer",
+  "generation": 15,
+  "created_at": "2017-11-25T19:52:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Cosmo Kramer. I enjoy grooming, spinning sick beats, and riding dirty. I once made a platypus kiss. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "6946@14",
+  "sire": "3432@5",
+  "children": [
+    "9785@16",
+    "10111@16",
+    "13103@16",
+    "25431@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

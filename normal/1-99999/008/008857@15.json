@@ -1,0 +1,19 @@
+{
+  "id": 8857,
+  "name": "Nate",
+  "generation": 15,
+  "created_at": "2017-11-27T04:20:28.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! Nate here. I'm here to enjoy being a nevernude and grooming. My friends describe me as \"vegan.\" It's... accurate. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "8175@14",
+  "sire": "7985@10",
+  "children": [
+    "11207@16",
+    "11685@16",
+    "18043@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

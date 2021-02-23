@@ -1,0 +1,24 @@
+{
+  "id": 7253,
+  "name": "Mustache Mustache",
+  "generation": 10,
+  "created_at": "2017-11-25T18:24:31.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Mustache Mustache. I'm a professional Train Conductor and I love lasagna. When no one's home, I invite my pals over and we listen to Mariah Carey. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "2141@0",
+  "sire": "5859@9",
+  "children": [
+    "8302@11",
+    "9179@13",
+    "10416@11",
+    "10943@11",
+    "11984@11",
+    "15183@14",
+    "34573@14",
+    "120565@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

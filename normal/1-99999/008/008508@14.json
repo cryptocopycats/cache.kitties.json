@@ -1,0 +1,20 @@
+{
+  "id": 8508,
+  "name": "8508",
+  "generation": 14,
+  "created_at": "2017-11-26T18:33:15.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm 8508. My friends describe me as voluptuous and raunchy. Some people say I'm the Homer Simpson of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8425@13",
+  "sire": "4255@8",
+  "children": [
+    "8662@15",
+    "22613@15",
+    "37928@18",
+    "45890@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

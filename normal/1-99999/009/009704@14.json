@@ -1,0 +1,18 @@
+{
+  "id": 9704,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-28T06:43:57.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #9704. My friends describe me as seductive and prickly. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "8042@13",
+  "sire": "6822@13",
+  "children": [
+    "68813@15",
+    "71941@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

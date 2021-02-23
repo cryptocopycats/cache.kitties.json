@@ -1,0 +1,21 @@
+{
+  "id": 6856,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T10:02:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #6856. I believe the world is flat. I put marmite on everything. Like, everything: hot dogs, hamburgers—everything! Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "5413@10",
+  "sire": "5711@10",
+  "children": [
+    "8172@12",
+    "14020@16",
+    "20433@13",
+    "22944@13",
+    "28082@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

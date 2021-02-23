@@ -1,0 +1,18 @@
+{
+  "id": 9655,
+  "name": "Feldt - Gen11",
+  "generation": 11,
+  "created_at": "2017-11-28T05:45:08.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Feldt - Gen11. My friends describe me as brilliant and hairy. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be brilliant, hairy, and full of cereal.",
+  "language": "en",
+  "matron": "8321@10",
+  "sire": "8971@10",
+  "children": [
+    "9729@12",
+    "9859@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

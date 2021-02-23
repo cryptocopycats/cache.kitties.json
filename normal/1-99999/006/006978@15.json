@@ -1,0 +1,22 @@
+{
+  "id": 6978,
+  "name": "G15/Slow",
+  "generation": 15,
+  "created_at": "2017-11-25T12:11:13.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! G15/Slow here. I'm here to enjoy chasing string and breakdancing. I once got in a fight with a chimpanzee, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6517@14",
+  "sire": "6363@7",
+  "children": [
+    "7425@16",
+    "8561@17",
+    "12284@16",
+    "22480@16",
+    "73344@16",
+    "100858@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

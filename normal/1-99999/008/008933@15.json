@@ -1,0 +1,18 @@
+{
+  "id": 8933,
+  "name": "Snow Princess",
+  "generation": 15,
+  "created_at": "2017-11-27T06:11:17.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Snow Princess. I'm often referred to as the Peter Griffin of the group. When no one's home, I invite my pals over and we listen to Aretha Franklin. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5197@11",
+  "sire": "7109@14",
+  "children": [
+    "9689@16",
+    "46102@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

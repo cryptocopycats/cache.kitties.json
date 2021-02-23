@@ -1,0 +1,25 @@
+{
+  "id": 7392,
+  "name": "G4 Jack",
+  "generation": 4,
+  "created_at": "2017-11-25T21:03:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G4 Jack. My friends describe me as voluptuous and preposterous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3609@3",
+  "sire": "1390@0",
+  "children": [
+    "10881@9",
+    "10888@10",
+    "10907@11",
+    "11881@5",
+    "13708@9",
+    "13921@14",
+    "16891@6",
+    "21069@15",
+    "26485@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

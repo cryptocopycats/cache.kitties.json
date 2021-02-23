@@ -1,0 +1,20 @@
+{
+  "id": 8020,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-26T07:11:14.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! My name's Kitty #8020. I once peed on Cleopatra's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's pawty!",
+  "language": "en",
+  "matron": "3504@5",
+  "sire": "7537@14",
+  "children": [
+    "10653@18",
+    "12788@16",
+    "51709@16",
+    "80041@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

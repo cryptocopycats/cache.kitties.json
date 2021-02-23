@@ -1,0 +1,23 @@
+{
+  "id": 7105,
+  "name": "Racer",
+  "generation": 2,
+  "created_at": "2017-11-25T15:24:47.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Racer. I enjoy riding unicorns, fighting for the people, and tricking babies. My secret indulgence is wet food. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "2443@0",
+  "sire": "7095@1",
+  "children": [
+    "7110@3",
+    "7142@8",
+    "7153@13",
+    "7383@14",
+    "7550@15",
+    "7725@12",
+    "8137@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

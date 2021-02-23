@@ -1,0 +1,22 @@
+{
+  "id": 9107,
+  "name": "SnickerDoodle",
+  "generation": 2,
+  "created_at": "2017-11-27T11:13:21.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm SnickerDoodle. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "2227@0",
+  "sire": "3393@1",
+  "children": [
+    "12203@6",
+    "18272@6",
+    "18443@6",
+    "21776@6",
+    "64274@6",
+    "371831@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

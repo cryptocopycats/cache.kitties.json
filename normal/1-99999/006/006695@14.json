@@ -1,0 +1,22 @@
+{
+  "id": 6695,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T07:53:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! Kitty #6695 here. I'm here to enjoy grooming and licking doorknobs. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "5165@13",
+  "sire": "5302@11",
+  "children": [
+    "6982@15",
+    "7298@15",
+    "8660@15",
+    "9749@15",
+    "18471@17",
+    "51031@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

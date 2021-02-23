@@ -1,0 +1,21 @@
+{
+  "id": 7526,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T22:56:50.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #7526. I'm a Mad Scientist by day, and I like playing chess by night. Sometimes I daydream of a life full of picking flowers, wet food, and prank-calling celebrities. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7242@10",
+  "sire": "7302@3",
+  "children": [
+    "7692@12",
+    "10489@15",
+    "10959@15",
+    "11972@15",
+    "14228@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

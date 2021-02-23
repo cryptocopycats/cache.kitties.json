@@ -1,0 +1,20 @@
+{
+  "id": 6554,
+  "name": "Rughaus",
+  "generation": 11,
+  "created_at": "2017-11-25T06:13:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Rughaus. I've never told anyone this, but I once licked a dog. Some people say I'm the Marge Simpson of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4281@10",
+  "sire": "2053@0",
+  "children": [
+    "6717@14",
+    "7675@13",
+    "52861@13",
+    "64327@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

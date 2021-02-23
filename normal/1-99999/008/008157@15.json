@@ -1,0 +1,19 @@
+{
+  "id": 8157,
+  "name": "8157",
+  "generation": 15,
+  "created_at": "2017-11-26T09:44:57.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm 8157. I've never told anyone this, but I once bit a dog. When no one's home, I invite my pals over and we listen to Frank Sinatra. I like your face.",
+  "language": "en",
+  "matron": "5096@10",
+  "sire": "7033@14",
+  "children": [
+    "8542@16",
+    "58419@16",
+    "86038@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

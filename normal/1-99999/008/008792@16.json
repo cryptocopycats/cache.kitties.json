@@ -1,0 +1,19 @@
+{
+  "id": 8792,
+  "name": "JB 2nd Gen",
+  "generation": 16,
+  "created_at": "2017-11-27T02:37:58.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm JB 2nd Gen. I enjoy glaring at the neighbour's cat, taking selfies, and reading garfield. I once dreamed of being a Ventriloquist. Now I can be found people-watching all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6358@4",
+  "sire": "8531@15",
+  "children": [
+    "9048@17",
+    "10187@17",
+    "26708@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

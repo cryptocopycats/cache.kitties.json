@@ -1,0 +1,17 @@
+{
+  "id": 7327,
+  "name": "Pokey",
+  "generation": 8,
+  "created_at": "2017-11-25T19:46:52.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Pokey. I'm a Spin Instructor  by day, and I like volunteering at the local kitten rescue shelter by night. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2654@0",
+  "sire": "5896@7",
+  "children": [
+    "7355@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

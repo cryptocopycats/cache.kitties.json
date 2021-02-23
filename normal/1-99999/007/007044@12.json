@@ -1,0 +1,19 @@
+{
+  "id": 7044,
+  "name": "7044",
+  "generation": 12,
+  "created_at": "2017-11-25T13:55:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm 7044. I'm a professional Dogwalker and I love steak. I once got in a fight with a dolphin, and won. Our friendship will be voluptuous, smelly, and full of cereal.",
+  "language": "en",
+  "matron": "5773@7",
+  "sire": "5249@11",
+  "children": [
+    "8198@13",
+    "9534@14",
+    "10745@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

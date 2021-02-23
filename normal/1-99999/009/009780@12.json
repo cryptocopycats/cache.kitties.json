@@ -1,0 +1,18 @@
+{
+  "id": 9780,
+  "name": "Goatee",
+  "generation": 12,
+  "created_at": "2017-11-28T07:55:48.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Goatee. I enjoy fighting for the people, picking on mice, and grooming. Some people say I'm the Dwight Schrute of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "9695@10",
+  "sire": "8130@11",
+  "children": [
+    "9949@14",
+    "15395@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

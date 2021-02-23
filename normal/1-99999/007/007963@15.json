@@ -1,0 +1,21 @@
+{
+  "id": 7963,
+  "name": "Milk Grenadine",
+  "generation": 15,
+  "created_at": "2017-11-26T06:21:16.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! My name's Milk Grenadine. I once peed on King Henry VIII's cat. They had it coming. When I'm not swiping right, I'm braiding people's hair! I like your face.",
+  "language": "en",
+  "matron": "6297@13",
+  "sire": "7033@14",
+  "children": [
+    "8592@16",
+    "9279@16",
+    "9301@16",
+    "60407@16",
+    "122456@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

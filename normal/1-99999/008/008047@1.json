@@ -1,0 +1,18 @@
+{
+  "id": 8047,
+  "name": "gen1 swift",
+  "generation": 1,
+  "created_at": "2017-11-26T07:34:28.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm gen1 swift. I believe that one day cats will rule this planet. I'm often described as despicable, and I own it. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "2016@0",
+  "sire": "2023@0",
+  "children": [
+    "10803@15",
+    "11490@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

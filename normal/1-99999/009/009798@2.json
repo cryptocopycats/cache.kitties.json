@@ -1,0 +1,17 @@
+{
+  "id": 9798,
+  "name": "Eggplant - Gen2",
+  "generation": 2,
+  "created_at": "2017-11-28T08:22:42.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Eggplant - Gen2. I'm a professional Spin Instructor  and I love apple pie. My secret indulgence is salad. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "3497@1",
+  "sire": "6770@1",
+  "children": [
+    "9928@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

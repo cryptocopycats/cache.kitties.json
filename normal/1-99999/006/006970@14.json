@@ -1,0 +1,19 @@
+{
+  "id": 6970,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T12:04:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #6970. I'm a professional Train Conductor and I love ice cream. My secret indulgence is cantaloupe. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5199@13",
+  "sire": "4210@9",
+  "children": [
+    "7220@15",
+    "11222@17",
+    "16573@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

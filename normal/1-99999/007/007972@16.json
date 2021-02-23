@@ -1,0 +1,21 @@
+{
+  "id": 7972,
+  "name": "Harold",
+  "generation": 16,
+  "created_at": "2017-11-26T06:29:43.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Harold. I enjoy reading garfield, glaring at the neighbour's cat, and fighting the patriarchy. My great-great-great-great-great-great grandkitty lived with Princess Diana. Let's get busy!",
+  "language": "en",
+  "matron": "3528@9",
+  "sire": "5260@15",
+  "children": [
+    "10161@17",
+    "69500@21",
+    "108556@17",
+    "151203@21",
+    "338228@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

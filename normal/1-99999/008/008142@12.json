@@ -1,0 +1,18 @@
+{
+  "id": 8142,
+  "name": "Gremlin",
+  "generation": 12,
+  "created_at": "2017-11-26T09:27:08.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Gremlin. I enjoy breakdancing, shakin' dat booty, and eating lasagna. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1264@0",
+  "sire": "7549@11",
+  "children": [
+    "8395@14",
+    "8763@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

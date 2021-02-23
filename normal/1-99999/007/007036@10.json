@@ -1,0 +1,23 @@
+{
+  "id": 7036,
+  "name": "actually dog",
+  "generation": 10,
+  "created_at": "2017-11-25T13:44:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm actually dog. In high school, I was voted most likely to work at NASA. I put marmite on everything. Like, everything: hot dogs, steak—everything! I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "7012@9",
+  "sire": "7011@2",
+  "children": [
+    "9420@11",
+    "15158@14",
+    "50681@19",
+    "65238@19",
+    "88203@15",
+    "99936@11",
+    "179090@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7344,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T19:58:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #7344. I believe the world is flat. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7242@10",
+  "sire": "7222@11",
+  "children": [
+    "7394@13",
+    "7568@13",
+    "11212@13",
+    "11654@13",
+    "15140@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

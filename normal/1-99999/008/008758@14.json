@@ -1,0 +1,23 @@
+{
+  "id": 8758,
+  "name": "Katy Purry",
+  "generation": 14,
+  "created_at": "2017-11-27T01:44:23.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Katy Purry here. I'm here to enjoy glaring at the neighbour's cat and spinning sick beats. I once clawed a rabbit. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "8674@13",
+  "sire": "8158@11",
+  "children": [
+    "8924@15",
+    "9210@15",
+    "9329@15",
+    "15210@15",
+    "26432@15",
+    "34510@15",
+    "230357@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

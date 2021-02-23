@@ -1,0 +1,21 @@
+{
+  "id": 8130,
+  "name": "Salad",
+  "generation": 11,
+  "created_at": "2017-11-26T09:05:40.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Salad. I'm a professional Culinary Sanitation Specialist and I love salad. My great-great-great-great-great-great grandkitty lived with Confucius. Let's pawty!",
+  "language": "en",
+  "matron": "3484@6",
+  "sire": "7782@10",
+  "children": [
+    "8258@13",
+    "9628@12",
+    "9780@12",
+    "10954@12",
+    "14776@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8035,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-26T07:23:23.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #8035. I've never told anyone this, but I once groomed a dog. It's not common knowledge, but my ancestry connects me to Mother Theresa. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1304@0",
+  "sire": "5361@13",
+  "children": [
+    "20434@15",
+    "22996@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

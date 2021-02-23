@@ -1,0 +1,19 @@
+{
+  "id": 9418,
+  "name": "Quincy",
+  "generation": 16,
+  "created_at": "2017-11-27T22:42:17.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! My name's Quincy. I once peed on Mother Theresa's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7980@13",
+  "sire": "7688@15",
+  "children": [
+    "9885@18",
+    "13245@17",
+    "62618@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

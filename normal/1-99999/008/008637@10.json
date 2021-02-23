@@ -1,0 +1,18 @@
+{
+  "id": 8637,
+  "name": "Mittens",
+  "generation": 10,
+  "created_at": "2017-11-26T22:01:38.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Mittens. I believe the world is flat. In my free time, I can usually be found stinky or swiping left. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6341@9",
+  "sire": "5347@9",
+  "children": [
+    "11763@11",
+    "15229@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

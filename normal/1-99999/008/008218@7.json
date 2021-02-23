@@ -1,0 +1,25 @@
+{
+  "id": 8218,
+  "name": "ぴんこ",
+  "generation": 7,
+  "created_at": "2017-11-26T11:00:41.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm ぴんこ. I'm a professional Dispensary Clerk and I love lasagna. My friends describe me as \"petulant.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "2560@0",
+  "sire": "4045@6",
+  "children": [
+    "14717@10",
+    "14931@12",
+    "15172@10",
+    "18295@17",
+    "22714@17",
+    "30125@18",
+    "232127@11",
+    "282365@8",
+    "359668@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 6956,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-25T11:46:20.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 14. I'm often referred to as the Marge Simpson of the group. I am 80% fairy, 81% Dogwalker, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6478@13",
+  "sire": "6543@2",
+  "children": [
+    "12047@15",
+    "56258@15",
+    "63285@15",
+    "104763@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

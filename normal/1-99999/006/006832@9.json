@@ -1,0 +1,21 @@
+{
+  "id": 6832,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T09:40:29.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #6832. I believe that one day cats will rule this planet. In my free time, I can usually be found annoying or watching reality tv. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5926@1",
+  "sire": "4571@8",
+  "children": [
+    "8111@12",
+    "8337@16",
+    "20545@17",
+    "65532@16",
+    "276634@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8668,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T23:13:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #8668. I'm often referred to as the Steve Urkel of the group. My secret indulgence is salad. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "8099@10",
+  "sire": "6171@2",
+  "children": [
+    "8781@13",
+    "8816@12",
+    "9763@13",
+    "10408@12",
+    "13990@12",
+    "26822@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

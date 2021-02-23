@@ -1,0 +1,21 @@
+{
+  "id": 9889,
+  "name": "Iggy - Gen1",
+  "generation": 1,
+  "created_at": "2017-11-28T10:17:26.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Iggy - Gen1 here. I'm here to enjoy tricking babies and reading garfield. I like to listen to Coldplay while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "2592@0",
+  "sire": "2413@0",
+  "children": [
+    "11327@2",
+    "11350@2",
+    "11428@2",
+    "15946@2",
+    "22471@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

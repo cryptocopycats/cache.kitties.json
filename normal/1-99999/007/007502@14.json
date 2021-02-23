@@ -1,0 +1,19 @@
+{
+  "id": 7502,
+  "name": "Gottfried",
+  "generation": 14,
+  "created_at": "2017-11-25T22:42:40.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's Gottfried. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Steve Urkel of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4315@13",
+  "sire": "3459@8",
+  "children": [
+    "8683@15",
+    "9327@17",
+    "9782@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

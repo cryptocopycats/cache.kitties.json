@@ -1,0 +1,22 @@
+{
+  "id": 6877,
+  "name": "paw_paw",
+  "generation": 15,
+  "created_at": "2017-11-25T10:20:27.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm paw_paw. I'm often referred to as the Dwight Schrute of the group. I once dreamed of being a Spin Instructor . Now I can be found playing chess all day. I look forward to fighting the patriarchy with you.",
+  "language": "en",
+  "matron": "6343@12",
+  "sire": "6334@14",
+  "children": [
+    "7364@16",
+    "7533@16",
+    "8609@16",
+    "8693@16",
+    "13248@16",
+    "210877@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

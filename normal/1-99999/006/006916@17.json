@@ -1,0 +1,19 @@
+{
+  "id": 6916,
+  "name": "Lizzard",
+  "generation": 17,
+  "created_at": "2017-11-25T10:55:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Lizzard. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "6761@12",
+  "sire": "6750@16",
+  "children": [
+    "8286@18",
+    "26871@18",
+    "44305@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

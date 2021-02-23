@@ -1,0 +1,20 @@
+{
+  "id": 8259,
+  "name": "SkepticCat",
+  "generation": 17,
+  "created_at": "2017-11-26T12:10:52.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm SkepticCat. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "7831@16",
+  "sire": "7565@11",
+  "children": [
+    "10750@18",
+    "13861@18",
+    "66319@18",
+    "292236@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

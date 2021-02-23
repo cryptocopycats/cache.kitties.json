@@ -1,0 +1,23 @@
+{
+  "id": 7313,
+  "name": "Punky",
+  "generation": 11,
+  "created_at": "2017-11-25T19:21:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Punky. I'm often referred to as the Jon Snow of the group. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5359@9",
+  "sire": "6054@10",
+  "children": [
+    "9370@12",
+    "11923@12",
+    "36639@20",
+    "42481@19",
+    "214289@15",
+    "317436@12",
+    "412650@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

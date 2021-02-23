@@ -1,0 +1,26 @@
+{
+  "id": 7137,
+  "name": "Monsieur Le Chat",
+  "generation": 8,
+  "created_at": "2017-11-25T16:24:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Monsieur Le Chat. I'm a Aerobics Athlete  by day, and I like tricking babies by night. Some people say I'm the Neville Longbottom of the group. Let's get busy!",
+  "language": "en",
+  "matron": "3968@7",
+  "sire": "2616@0",
+  "children": [
+    "7837@9",
+    "9030@12",
+    "11353@9",
+    "12645@19",
+    "21105@13",
+    "40045@18",
+    "57389@9",
+    "200344@9",
+    "248626@9",
+    "465709@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

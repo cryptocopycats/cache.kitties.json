@@ -1,0 +1,20 @@
+{
+  "id": 9688,
+  "name": "9688",
+  "generation": 9,
+  "created_at": "2017-11-28T06:14:17.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 9688. My friends describe me as ridiculous and smelly. My friends describe me as \"prickly.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7246@7",
+  "sire": "5399@8",
+  "children": [
+    "10293@10",
+    "17705@10",
+    "18850@14",
+    "51369@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

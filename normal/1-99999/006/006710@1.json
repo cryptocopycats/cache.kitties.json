@@ -1,0 +1,27 @@
+{
+  "id": 6710,
+  "name": "Dirts - Gen1",
+  "generation": 1,
+  "created_at": "2017-11-25T08:05:55.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Dirts - Gen1. My friends describe me as smelly and vegan. I'm often described as raunchy, and I own it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "2035@0",
+  "sire": "2045@0",
+  "children": [
+    "6891@2",
+    "7235@10",
+    "7302@3",
+    "9836@2",
+    "9927@2",
+    "10001@2",
+    "11549@2",
+    "20000@2",
+    "50678@2",
+    "61417@2",
+    "85524@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

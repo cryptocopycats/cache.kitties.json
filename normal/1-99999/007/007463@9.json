@@ -1,0 +1,23 @@
+{
+  "id": 7463,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T22:00:57.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #7463. All you need to know about me is I hate steak with a passion. I'm often described as petulant, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6588@8",
+  "sire": "6118@1",
+  "children": [
+    "7872@10",
+    "8045@10",
+    "8162@13",
+    "8485@13",
+    "8782@17",
+    "9338@16",
+    "51937@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

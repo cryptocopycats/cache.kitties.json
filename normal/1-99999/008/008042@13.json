@@ -1,0 +1,19 @@
+{
+  "id": 8042,
+  "name": "Amethyst",
+  "generation": 13,
+  "created_at": "2017-11-26T07:28:18.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Amethyst. I've never told anyone this, but I once cleaned a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5799@11",
+  "sire": "7297@12",
+  "children": [
+    "9704@14",
+    "12571@14",
+    "49825@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

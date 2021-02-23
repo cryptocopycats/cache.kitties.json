@@ -1,0 +1,25 @@
+{
+  "id": 6774,
+  "name": "6774",
+  "generation": 1,
+  "created_at": "2017-11-25T08:54:49.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm 6774. My friends describe me as preposterous and voluptuous. I once got in a fight with a moose, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "2297@0",
+  "sire": "2298@0",
+  "children": [
+    "6882@2",
+    "6926@11",
+    "7013@9",
+    "12725@2",
+    "12862@12",
+    "15608@2",
+    "58154@2",
+    "70613@2",
+    "309917@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

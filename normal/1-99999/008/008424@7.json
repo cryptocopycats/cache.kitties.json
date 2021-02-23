@@ -1,0 +1,25 @@
+{
+  "id": 8424,
+  "name": "Riza",
+  "generation": 7,
+  "created_at": "2017-11-26T16:04:04.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Riza. My friends describe me as petulant and despicable. My secret indulgence is apple pie. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "3156@6",
+  "sire": "2203@0",
+  "children": [
+    "10559@8",
+    "45159@8",
+    "50910@8",
+    "81343@8",
+    "99005@17",
+    "138309@8",
+    "220072@13",
+    "227940@8",
+    "320137@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

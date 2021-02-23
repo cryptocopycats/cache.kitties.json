@@ -1,0 +1,22 @@
+{
+  "id": 7477,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T22:13:24.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #7477. In high school, I was voted school jock. My friends describe me as \"brilliant.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5351@3",
+  "sire": "6466@8",
+  "children": [
+    "7566@10",
+    "7684@13",
+    "8830@10",
+    "9220@13",
+    "11039@10",
+    "19454@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

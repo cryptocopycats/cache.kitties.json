@@ -1,0 +1,21 @@
+{
+  "id": 7570,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T23:34:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Kitty #7570. My friends describe me as prickly and gorgeous. I'm often described as preposterous, and I own it. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "7467@5",
+  "sire": "7264@10",
+  "children": [
+    "7650@12",
+    "11143@12",
+    "11459@12",
+    "11461@14",
+    "16058@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

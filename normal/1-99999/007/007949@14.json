@@ -1,0 +1,20 @@
+{
+  "id": 7949,
+  "name": "Cat Benatar",
+  "generation": 14,
+  "created_at": "2017-11-26T06:11:12.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Cat Benatar. I'm a Skydiving Instructor by day, and I like swiping left by night. I once kissed a dolphin. I don't like to talk about it. I look forward to tripping my owner with you.",
+  "language": "en",
+  "matron": "5998@13",
+  "sire": "2059@0",
+  "children": [
+    "10251@15",
+    "12482@15",
+    "18350@15",
+    "24505@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 6592,
+  "name": "Oticamille",
+  "generation": 16,
+  "created_at": "2017-11-25T06:32:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Oticamille. All you need to know about me is I hate cereal with a passion. When no one's home, I invite my pals over and we listen to Frank Sinatra. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "6514@5",
+  "sire": "6569@15",
+  "children": [
+    "7074@17",
+    "7997@17",
+    "11845@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

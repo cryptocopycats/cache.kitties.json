@@ -1,0 +1,22 @@
+{
+  "id": 8341,
+  "name": "NASA",
+  "generation": 11,
+  "created_at": "2017-11-26T14:12:32.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm NASA. In high school, I was voted most likely to work at NASA. Some people say I'm the Steve Urkel of the group. Let's get busy!",
+  "language": "en",
+  "matron": "3484@6",
+  "sire": "5085@10",
+  "children": [
+    "8825@13",
+    "9194@13",
+    "9576@13",
+    "9742@14",
+    "12099@15",
+    "14375@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

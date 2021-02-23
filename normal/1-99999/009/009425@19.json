@@ -1,0 +1,19 @@
+{
+  "id": 9425,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-11-27T23:01:00.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #9425. I'm a professional Dogwalker and I love wet food. I would give it all up to star in a soap opera. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "8928@17",
+  "sire": "8962@18",
+  "children": [
+    "10067@20",
+    "12290@20",
+    "22590@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

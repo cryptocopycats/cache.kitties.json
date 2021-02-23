@@ -1,0 +1,21 @@
+{
+  "id": 9765,
+  "name": "Tongue - Gen5 - Tongue",
+  "generation": 5,
+  "created_at": "2017-11-28T07:41:23.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Tongue - Gen5 - Tongue. I believe the world is flat. I was voted most likely to work at NASA in college. I like your face.",
+  "language": "en",
+  "matron": "6112@4",
+  "sire": "1287@0",
+  "children": [
+    "9805@6",
+    "9901@6",
+    "10078@6",
+    "13970@6",
+    "16296@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

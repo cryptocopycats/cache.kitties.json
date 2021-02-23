@@ -1,0 +1,21 @@
+{
+  "id": 9394,
+  "name": "9394 - Sailor Parent",
+  "generation": 12,
+  "created_at": "2017-11-27T22:05:10.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm 9394 - Sailor Parent. My friends describe me as wondrous and hairy. I am 60% gremlin, 80% Train Conductor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "1473@0",
+  "sire": "5341@11",
+  "children": [
+    "11457@13",
+    "12008@13",
+    "17436@14",
+    "60468@13",
+    "95715@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

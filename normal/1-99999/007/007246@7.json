@@ -1,0 +1,26 @@
+{
+  "id": 7246,
+  "name": "Lickerish",
+  "generation": 7,
+  "created_at": "2017-11-25T18:21:34.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Lickerish. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "7233@3",
+  "sire": "3322@6",
+  "children": [
+    "7568@13",
+    "9688@9",
+    "9916@12",
+    "10571@13",
+    "15954@14",
+    "20450@14",
+    "23839@8",
+    "48223@8",
+    "80493@10",
+    "149518@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

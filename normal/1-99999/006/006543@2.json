@@ -1,0 +1,30 @@
+{
+  "id": 6543,
+  "name": "Nimbus",
+  "generation": 2,
+  "created_at": "2017-11-25T06:05:18.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Nimbus. I'm often referred to as the Samwise Gamgee of the group. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, ice cream—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "6158@1",
+  "sire": "6281@1",
+  "children": [
+    "6574@13",
+    "6613@11",
+    "6676@10",
+    "6956@14",
+    "7030@15",
+    "7848@12",
+    "8095@16",
+    "8443@16",
+    "9162@11",
+    "18161@14",
+    "29548@5",
+    "162057@17",
+    "190590@5",
+    "394635@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

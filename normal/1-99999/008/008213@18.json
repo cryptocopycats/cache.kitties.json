@@ -1,0 +1,19 @@
+{
+  "id": 8213,
+  "name": "Cobbles",
+  "generation": 18,
+  "created_at": "2017-11-26T10:51:59.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Cobbles. I enjoy watching Stranger Things, eating until I loathe myself, and picking on mice. Sometimes I daydream of a life full of fighting for the people, salad, and swiping left. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "6653@17",
+  "sire": "5985@13",
+  "children": [
+    "8900@19",
+    "11379@19",
+    "32221@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

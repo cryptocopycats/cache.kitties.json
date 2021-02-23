@@ -1,0 +1,22 @@
+{
+  "id": 8621,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-26T21:38:22.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Gen 15. I've never told anyone this, but I once cleaned a dog. I once made a rabbit grimace. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5778@14",
+  "sire": "5644@13",
+  "children": [
+    "8962@18",
+    "9672@20",
+    "11798@18",
+    "17070@16",
+    "28883@19",
+    "52039@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

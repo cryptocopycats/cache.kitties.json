@@ -1,0 +1,21 @@
+{
+  "id": 9226,
+  "name": "Jake",
+  "generation": 11,
+  "created_at": "2017-11-27T15:34:58.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Jake. I enjoy picking on mice, watching Stranger Things, and riding dirty. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5812@10",
+  "sire": "4914@6",
+  "children": [
+    "9273@12",
+    "11058@12",
+    "11487@12",
+    "13520@12",
+    "17172@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

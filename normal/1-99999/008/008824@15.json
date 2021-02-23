@@ -1,0 +1,20 @@
+{
+  "id": 8824,
+  "name": "Salmon - Gen15",
+  "generation": 15,
+  "created_at": "2017-11-27T03:26:16.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Salmon - Gen15. I'm a Dogwalker by day, and I like people-watching by night. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "6277@6",
+  "sire": "7430@14",
+  "children": [
+    "9001@16",
+    "9021@16",
+    "10283@16",
+    "10865@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

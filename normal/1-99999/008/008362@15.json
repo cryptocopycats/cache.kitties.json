@@ -1,0 +1,17 @@
+{
+  "id": 8362,
+  "name": "8362 - One Child",
+  "generation": 15,
+  "created_at": "2017-11-26T14:37:13.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm 8362 - One Child. I want to live in a world where people believe the world is flat. I once dreamed of being a Mad Scientist. Now I can be found running a podcast all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8064@10",
+  "sire": "7622@14",
+  "children": [
+    "8572@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

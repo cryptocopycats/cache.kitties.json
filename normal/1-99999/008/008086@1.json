@@ -1,0 +1,20 @@
+{
+  "id": 8086,
+  "name": "Spats {B}",
+  "generation": 1,
+  "created_at": "2017-11-26T08:19:53.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Spats {B}. I once peed on Nelson Mandela's cat. They had it coming. I once dreamed of being a Dispensary Clerk. Now I can be found swiping left all day. Let's pawty!",
+  "language": "en",
+  "matron": "2484@0",
+  "sire": "2485@0",
+  "children": [
+    "37203@2",
+    "74343@2",
+    "81868@2",
+    "117027@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

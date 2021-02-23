@@ -1,0 +1,20 @@
+{
+  "id": 7110,
+  "name": "Bob",
+  "generation": 3,
+  "created_at": "2017-11-25T15:31:16.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Bob. I'm a Private Dancer  by day, and I like playing chess by night. When no one's home, I invite my pals over and we listen to Beyoncé. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7101@1",
+  "sire": "7105@2",
+  "children": [
+    "7138@6",
+    "8569@4",
+    "70732@4",
+    "87196@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

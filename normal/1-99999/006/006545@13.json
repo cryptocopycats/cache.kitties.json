@@ -1,0 +1,19 @@
+{
+  "id": 6545,
+  "name": "Bombastastic",
+  "generation": 13,
+  "created_at": "2017-11-25T06:05:49.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Bombastastic. All you need to know about me is I hate hamburgers with a passion. When no one's home, I invite my pals over and we listen to Aretha Franklin. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5132@12",
+  "sire": "5058@11",
+  "children": [
+    "6717@14",
+    "7667@14",
+    "9897@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

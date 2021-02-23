@@ -1,0 +1,24 @@
+{
+  "id": 8044,
+  "name": "8044",
+  "generation": 6,
+  "created_at": "2017-11-26T07:33:08.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm 8044. I enjoy being a nevernude, tricking babies, and watching Stranger Things. I like to listen to Aretha Franklin while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "6206@5",
+  "sire": "6797@3",
+  "children": [
+    "8068@14",
+    "8252@14",
+    "10037@15",
+    "13692@7",
+    "14615@11",
+    "16752@15",
+    "21989@15",
+    "31989@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

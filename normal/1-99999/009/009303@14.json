@@ -1,0 +1,23 @@
+{
+  "id": 9303,
+  "name": "Winerlop",
+  "generation": 14,
+  "created_at": "2017-11-27T18:29:39.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Winerlop. I'm often referred to as the Bart Simpson of the group. I once got in a fight with a rabbit, and won. Will you be the soy sauce to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "7822@13",
+  "sire": "8482@12",
+  "children": [
+    "35879@16",
+    "42720@18",
+    "53995@18",
+    "313100@20",
+    "357441@20",
+    "391781@20",
+    "968906@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 7413,
+  "name": "Percy",
+  "generation": 7,
+  "created_at": "2017-11-25T21:28:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Percy. All you need to know about me is I hate cantaloupe with a passion. When I'm not tricking babies, I'm swiping left! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4572@6",
+  "sire": "2747@0",
+  "children": [
+    "7541@10",
+    "7585@9",
+    "8013@15",
+    "31967@9",
+    "38772@10",
+    "41639@8",
+    "59396@10",
+    "83423@9",
+    "165532@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

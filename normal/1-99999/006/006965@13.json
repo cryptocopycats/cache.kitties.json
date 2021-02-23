@@ -1,0 +1,20 @@
+{
+  "id": 6965,
+  "name": "Clever",
+  "generation": 13,
+  "created_at": "2017-11-25T11:59:36.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Clever here. I'm here to enjoy picking flowers and reading garfield. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Will you be the peanut butter to my wasabi?",
+  "language": "en",
+  "matron": "5541@12",
+  "sire": "3859@5",
+  "children": [
+    "7345@14",
+    "10912@16",
+    "11253@14",
+    "16175@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

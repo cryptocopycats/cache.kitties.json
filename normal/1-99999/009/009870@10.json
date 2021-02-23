@@ -1,0 +1,18 @@
+{
+  "id": 9870,
+  "name": "Plum - Gen10",
+  "generation": 10,
+  "created_at": "2017-11-28T09:39:29.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Plum - Gen10. I believe the world is flat. I am 88% troll, 38% Train Conductor, and otherwise bad at math. Will you be the marmite to my ranch dressing?",
+  "language": "en",
+  "matron": "8412@9",
+  "sire": "9773@9",
+  "children": [
+    "9970@11",
+    "13995@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

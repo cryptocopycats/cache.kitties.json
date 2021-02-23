@@ -1,0 +1,22 @@
+{
+  "id": 8550,
+  "name": "8550",
+  "generation": 10,
+  "created_at": "2017-11-26T19:50:50.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm 8550. I'm a Culinary Sanitation Specialist by day, and I like jump-roping by night. When I'm not volunteering at the local kitten rescue shelter, I'm siring for status! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "7990@9",
+  "sire": "8459@9",
+  "children": [
+    "8632@11",
+    "8666@11",
+    "9147@18",
+    "9379@18",
+    "12977@11",
+    "70829@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

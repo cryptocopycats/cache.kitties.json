@@ -1,0 +1,19 @@
+{
+  "id": 8135,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-26T09:19:53.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #8135. I've never told anyone this, but I once clawed a dog. My friends describe me as \"smelly.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4289@6",
+  "sire": "6777@6",
+  "children": [
+    "10638@8",
+    "53402@15",
+    "61167@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

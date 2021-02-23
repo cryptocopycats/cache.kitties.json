@@ -1,0 +1,18 @@
+{
+  "id": 7334,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T19:50:43.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Kitty #7334. I once peed on Confucius's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2699@0",
+  "sire": "5993@8",
+  "children": [
+    "196998@10",
+    "230264@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

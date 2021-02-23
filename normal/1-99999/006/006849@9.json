@@ -1,0 +1,21 @@
+{
+  "id": 6849,
+  "name": "Bluebuddy (V)",
+  "generation": 9,
+  "created_at": "2017-11-25T09:55:18.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Bluebuddy (V). I'm often referred to as the Michael Scott of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6734@8",
+  "sire": "3391@6",
+  "children": [
+    "8335@12",
+    "9442@12",
+    "13030@12",
+    "15739@16",
+    "20215@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

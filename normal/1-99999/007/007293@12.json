@@ -1,0 +1,20 @@
+{
+  "id": 7293,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T18:57:07.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Kitty #7293 here. I'm here to enjoy eating lasagna and sweating through my feet. I put marmite on everything. Like, everything: hot dogs, wet food—everything! I like your face.",
+  "language": "en",
+  "matron": "6818@11",
+  "sire": "4141@10",
+  "children": [
+    "16830@13",
+    "51727@14",
+    "54060@13",
+    "73968@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

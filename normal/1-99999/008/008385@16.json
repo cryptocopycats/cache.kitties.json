@@ -1,0 +1,21 @@
+{
+  "id": 8385,
+  "name": "Punkin",
+  "generation": 16,
+  "created_at": "2017-11-26T15:09:09.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Punkin here. I'm here to enjoy grooming and fighting the patriarchy. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "8223@15",
+  "sire": "7780@14",
+  "children": [
+    "8546@17",
+    "10028@17",
+    "12178@18",
+    "118084@17",
+    "247777@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6726,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-25T08:19:58.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #6726. In high school, I was voted biggest teacher's pet. I am 87% elf, 89% Foreign Film Director, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6260@6",
+  "sire": "5339@3",
+  "children": [
+    "9699@14",
+    "9920@15",
+    "10572@8",
+    "10873@15",
+    "11192@15",
+    "12344@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

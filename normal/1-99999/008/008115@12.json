@@ -1,0 +1,20 @@
+{
+  "id": 8115,
+  "name": "Marlene",
+  "generation": 12,
+  "created_at": "2017-11-26T08:48:26.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Marlene. I'm a professional Ventriloquist and I love chocolate. When no one's home, I invite my pals over and we listen to Ace of Base. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6691@11",
+  "sire": "6664@1",
+  "children": [
+    "9093@16",
+    "9658@15",
+    "15549@13",
+    "40050@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

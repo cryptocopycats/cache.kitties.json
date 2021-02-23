@@ -1,0 +1,28 @@
+{
+  "id": 6664,
+  "name": "Space Cake",
+  "generation": 1,
+  "created_at": "2017-11-25T07:27:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Space Cake. I enjoy being a nevernude, sitting on your computer, and breakdancing. My secret indulgence is salad. Our friendship will be hairy, despicable, and full of steak.",
+  "language": "en",
+  "matron": "2392@0",
+  "sire": "1169@0",
+  "children": [
+    "6687@9",
+    "8071@9",
+    "8115@12",
+    "8233@15",
+    "12709@13",
+    "15322@2",
+    "34834@2",
+    "39591@2",
+    "60299@2",
+    "105563@2",
+    "144106@2",
+    "175076@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

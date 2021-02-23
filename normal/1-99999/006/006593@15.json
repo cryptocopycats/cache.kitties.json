@@ -1,0 +1,19 @@
+{
+  "id": 6593,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-25T06:32:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #6593. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3892@11",
+  "sire": "5543@14",
+  "children": [
+    "7808@16",
+    "11354@16",
+    "15871@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

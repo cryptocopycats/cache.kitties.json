@@ -1,0 +1,18 @@
+{
+  "id": 7199,
+  "name": "7199",
+  "generation": 3,
+  "created_at": "2017-11-25T17:34:40.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm 7199. I've never told anyone this, but I once bit a dog. I'm often described as stinky, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "2678@0",
+  "sire": "6523@2",
+  "children": [
+    "11049@10",
+    "58800@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

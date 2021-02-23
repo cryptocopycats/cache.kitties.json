@@ -1,0 +1,19 @@
+{
+  "id": 8162,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T09:51:41.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #8162. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Cleopatra. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7463@9",
+  "sire": "8014@12",
+  "children": [
+    "8415@14",
+    "8665@14",
+    "8827@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8111,
+  "name": "Purps",
+  "generation": 12,
+  "created_at": "2017-11-26T08:43:40.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Purps. I'm a Skydiving Instructor by day, and I like riverdancing by night. I once dreamed of being a Spin Instructor . Now I can be found people-watching all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "6239@11",
+  "sire": "6832@9",
+  "children": [
+    "8273@13",
+    "15907@14",
+    "20365@19",
+    "20419@16",
+    "29715@17",
+    "68920@16",
+    "98549@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

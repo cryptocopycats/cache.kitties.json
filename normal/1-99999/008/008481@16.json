@@ -1,0 +1,20 @@
+{
+  "id": 8481,
+  "name": "Winkie",
+  "generation": 16,
+  "created_at": "2017-11-26T17:38:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Winkie. In high school, I was voted biggest teacher's pet. My secret indulgence is ice cream. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8320@15",
+  "sire": "4881@12",
+  "children": [
+    "9893@17",
+    "63797@18",
+    "97491@18",
+    "122152@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

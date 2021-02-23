@@ -1,0 +1,21 @@
+{
+  "id": 8482,
+  "name": "8482",
+  "generation": 12,
+  "created_at": "2017-11-26T17:38:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm 8482. I want to live in a world where people believe that one day cats will rule this planet. I once made a rhino play. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8459@9",
+  "sire": "8447@11",
+  "children": [
+    "8565@13",
+    "9303@14",
+    "51149@13",
+    "69647@18",
+    "77487@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

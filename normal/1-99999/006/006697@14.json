@@ -1,0 +1,21 @@
+{
+  "id": 6697,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-25T07:55:30.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Gen 14. I enjoy being a nevernude, eating until I loathe myself, and eating lasagna. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5473@13",
+  "sire": "5636@13",
+  "children": [
+    "7127@15",
+    "8619@15",
+    "9414@18",
+    "72863@15",
+    "104763@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

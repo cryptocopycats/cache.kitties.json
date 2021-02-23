@@ -1,0 +1,22 @@
+{
+  "id": 7074,
+  "name": "Vandelei",
+  "generation": 17,
+  "created_at": "2017-11-25T14:37:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Vandelei. I'm a Dogwalker by day, and I like volunteering at the local kitten rescue shelter by night. I once pawed at a labradoodle. I don't like to talk about it. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "5170@12",
+  "sire": "6592@16",
+  "children": [
+    "7156@18",
+    "8452@18",
+    "14674@18",
+    "54996@18",
+    "339488@21",
+    "405872@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

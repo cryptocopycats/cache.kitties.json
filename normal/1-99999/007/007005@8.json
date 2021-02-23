@@ -1,0 +1,19 @@
+{
+  "id": 7005,
+  "name": "7005",
+  "generation": 8,
+  "created_at": "2017-11-25T12:56:11.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm 7005. I want to live in a world where people believe the world is flat. My secret indulgence is cantaloupe. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "2674@0",
+  "sire": "6890@7",
+  "children": [
+    "7012@9",
+    "9434@9",
+    "10215@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

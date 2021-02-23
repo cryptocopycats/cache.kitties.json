@@ -1,0 +1,20 @@
+{
+  "id": 6694,
+  "name": "The Walrus",
+  "generation": 15,
+  "created_at": "2017-11-25T07:47:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm The Walrus. I want to live in a world where people believe the world is flat. I would give it all up to star in a soap opera. Let's get busy!",
+  "language": "en",
+  "matron": "6271@14",
+  "sire": "5661@14",
+  "children": [
+    "6962@16",
+    "8263@16",
+    "9170@17",
+    "11575@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8530,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-11-26T19:03:26.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Gen 13. I enjoy eating until I loathe myself, eating lasagna, and picking on mice. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "4987@12",
+  "sire": "5310@9",
+  "children": [
+    "8663@16",
+    "9206@17",
+    "10028@17",
+    "12198@15",
+    "22696@15",
+    "72883@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

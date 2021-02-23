@@ -1,0 +1,20 @@
+{
+  "id": 7713,
+  "name": "7713",
+  "generation": 12,
+  "created_at": "2017-11-26T01:46:16.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm 7713. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a gecko, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "7623@11",
+  "sire": "7120@9",
+  "children": [
+    "7902@13",
+    "8137@13",
+    "14930@13",
+    "523631@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

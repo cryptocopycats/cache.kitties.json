@@ -1,0 +1,19 @@
+{
+  "id": 8186,
+  "name": "Dilem",
+  "generation": 6,
+  "created_at": "2017-11-26T10:29:28.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Dilem. My friends describe me as preposterous and hairy. In my free time, I can usually be found stinky or people-watching. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2486@0",
+  "sire": "3509@5",
+  "children": [
+    "48610@11",
+    "143333@10",
+    "197162@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

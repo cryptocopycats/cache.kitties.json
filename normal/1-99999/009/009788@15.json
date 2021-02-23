@@ -1,0 +1,19 @@
+{
+  "id": 9788,
+  "name": "Happiest",
+  "generation": 15,
+  "created_at": "2017-11-28T08:11:44.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's Happiest. I once peed on Martin Luther King Jr.'s cat. They had it coming. I would give it all up for a Chanel purse. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "8274@11",
+  "sire": "8249@14",
+  "children": [
+    "15654@16",
+    "17774@16",
+    "24811@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

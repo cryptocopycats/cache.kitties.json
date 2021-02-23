@@ -1,0 +1,20 @@
+{
+  "id": 8748,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-11-27T01:34:06.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 13. In high school, I was voted most likely to work at NASA. I'm often described as prickly, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8139@11",
+  "sire": "6461@12",
+  "children": [
+    "55528@14",
+    "60846@14",
+    "72590@14",
+    "100057@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

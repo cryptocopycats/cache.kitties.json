@@ -1,0 +1,21 @@
+{
+  "id": 6837,
+  "name": "Sailor gene",
+  "generation": 14,
+  "created_at": "2017-11-25T09:47:16.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Sailor gene. In high school, I was voted most likely to work at NASA. My secret indulgence is wet food. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5096@10",
+  "sire": "5476@13",
+  "children": [
+    "7429@16",
+    "8660@15",
+    "10125@15",
+    "11299@18",
+    "22213@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

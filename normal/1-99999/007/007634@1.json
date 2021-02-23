@@ -1,0 +1,24 @@
+{
+  "id": 7634,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-26T00:25:26.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's Kitty #7634. I once peed on King Henry VIII's cat. They had it coming. I once clawed a rhino. I don't like to talk about it. Will you be the garlic butter to my maple syrup?",
+  "language": "en",
+  "matron": "1249@0",
+  "sire": "2196@0",
+  "children": [
+    "7790@13",
+    "8097@16",
+    "10812@12",
+    "10983@14",
+    "11017@2",
+    "11189@2",
+    "13913@2",
+    "20951@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

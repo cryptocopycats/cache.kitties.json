@@ -1,0 +1,20 @@
+{
+  "id": 9764,
+  "name": "Smudge {N}",
+  "generation": 14,
+  "created_at": "2017-11-28T07:37:45.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Smudge {N}. My friends describe me as brilliant and tantalizing. I like to listen to Metallica while grooming. Don't judge me. I look forward to staying woke with you.",
+  "language": "en",
+  "matron": "5261@7",
+  "sire": "6439@13",
+  "children": [
+    "11294@16",
+    "15178@15",
+    "52939@15",
+    "117443@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

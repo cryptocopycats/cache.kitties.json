@@ -1,0 +1,21 @@
+{
+  "id": 8163,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T09:51:41.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #8163. I'm a professional Train Conductor and I love steak. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be annoying, gullible, and full of cantaloupe.",
+  "language": "en",
+  "matron": "7872@10",
+  "sire": "8000@7",
+  "children": [
+    "8363@13",
+    "8658@14",
+    "8974@17",
+    "9113@15",
+    "19303@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

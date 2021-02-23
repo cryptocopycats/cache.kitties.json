@@ -1,0 +1,18 @@
+{
+  "id": 9352,
+  "name": "G18",
+  "generation": 18,
+  "created_at": "2017-11-27T20:47:01.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm G18. I'm often referred to as the Marge Simpson of the group. I once licked a rabbit. I don't like to talk about it. Our friendship will be stinky, hairy, and full of cereal.",
+  "language": "en",
+  "matron": "8946@17",
+  "sire": "8945@15",
+  "children": [
+    "10328@21",
+    "77776@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8217,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-26T10:58:45.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #8217. I've never told anyone this, but I once frolicked with a dog. I like to listen to Ace of Base while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "5138@12",
+  "sire": "5781@13",
+  "children": [
+    "8472@17",
+    "12184@19",
+    "18978@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

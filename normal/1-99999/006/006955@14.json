@@ -1,0 +1,21 @@
+{
+  "id": 6955,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T11:43:45.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #6955. I'm often referred to as the Michael Scott of the group. I once made a dolphin scare. Our friendship will be prickly, smelly, and full of ice cream.",
+  "language": "en",
+  "matron": "5316@12",
+  "sire": "5978@13",
+  "children": [
+    "9629@15",
+    "13951@18",
+    "18859@15",
+    "24005@15",
+    "55196@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

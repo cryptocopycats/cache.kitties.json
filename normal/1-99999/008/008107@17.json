@@ -1,0 +1,20 @@
+{
+  "id": 8107,
+  "name": "17",
+  "generation": 17,
+  "created_at": "2017-11-26T08:36:19.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm 17. My friends describe me as tantalizing and seductive. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I like your face.",
+  "language": "en",
+  "matron": "6051@13",
+  "sire": "7451@16",
+  "children": [
+    "8932@18",
+    "10155@18",
+    "13514@18",
+    "30952@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

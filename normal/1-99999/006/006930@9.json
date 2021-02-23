@@ -1,0 +1,24 @@
+{
+  "id": 6930,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T11:06:54.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #6930. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4684@8",
+  "sire": "4818@8",
+  "children": [
+    "8041@10",
+    "12204@10",
+    "13653@10",
+    "28993@10",
+    "38155@10",
+    "51778@10",
+    "238321@10",
+    "412276@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7906,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-26T05:04:30.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #7906. My friends describe me as smelly and fabulous. I once got in a fight with a platypus, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "2429@0",
+  "sire": "5821@14",
+  "children": [
+    "7946@16",
+    "9462@16",
+    "11795@18",
+    "20504@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

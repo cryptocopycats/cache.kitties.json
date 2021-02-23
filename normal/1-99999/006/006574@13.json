@@ -1,0 +1,24 @@
+{
+  "id": 6574,
+  "name": "Tamed Tiger Flower Power",
+  "generation": 13,
+  "created_at": "2017-11-25T06:23:37.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Tamed Tiger Flower Power. In high school, I was voted most likely to work at NASA. I like to listen to Metallica while grooming. Don't judge me. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "6543@2",
+  "sire": "4952@12",
+  "children": [
+    "6839@14",
+    "8327@14",
+    "8935@17",
+    "9419@17",
+    "11618@17",
+    "82605@16",
+    "92070@15",
+    "298571@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 7221,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T17:56:50.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #7221. My friends describe me as wondrous and voluptuous. When I'm not siring for status, I'm riverdancing! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2277@0",
+  "sire": "6778@11",
+  "children": [
+    "11996@13",
+    "18924@13",
+    "22971@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

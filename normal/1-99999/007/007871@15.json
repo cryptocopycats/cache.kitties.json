@@ -1,0 +1,21 @@
+{
+  "id": 7871,
+  "name": "EARLGREY",
+  "generation": 15,
+  "created_at": "2017-11-26T04:44:50.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm EARLGREY. I want to live in a world where people believe that one day cats will rule this planet. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5132@12",
+  "sire": "6631@14",
+  "children": [
+    "10795@16",
+    "14220@16",
+    "23694@16",
+    "74338@19",
+    "101666@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

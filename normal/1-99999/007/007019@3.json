@@ -1,0 +1,21 @@
+{
+  "id": 7019,
+  "name": "Gen 3 Cat #7019",
+  "generation": 3,
+  "created_at": "2017-11-25T13:14:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 3 Cat #7019. All you need to know about me is I hate chocolate with a passion. I'm often described as wondrous, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "2692@0",
+  "sire": "7011@2",
+  "children": [
+    "7037@4",
+    "7062@8",
+    "8236@7",
+    "9434@9",
+    "9457@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

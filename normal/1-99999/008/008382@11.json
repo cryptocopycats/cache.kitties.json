@@ -1,0 +1,21 @@
+{
+  "id": 8382,
+  "name": "Salmoon",
+  "generation": 11,
+  "created_at": "2017-11-26T15:04:00.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Salmoon. My friends describe me as seductive and fabulous. In my free time, I can usually be found tantalizing or jump-roping. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4653@9",
+  "sire": "6993@10",
+  "children": [
+    "9030@12",
+    "11671@12",
+    "12167@12",
+    "14851@16",
+    "47940@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

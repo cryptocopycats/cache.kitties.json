@@ -1,0 +1,18 @@
+{
+  "id": 7933,
+  "name": "Jane Pawston",
+  "generation": 14,
+  "created_at": "2017-11-26T05:46:44.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Jane Pawston. I'm a professional Ventriloquist and I love wet food. I'm often described as ridiculous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7772@13",
+  "sire": "7725@12",
+  "children": [
+    "8456@15",
+    "8967@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

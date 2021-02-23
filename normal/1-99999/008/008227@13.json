@@ -1,0 +1,20 @@
+{
+  "id": 8227,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T11:08:57.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #8227. All you need to know about me is I hate chocolate with a passion. I like to listen to Michael Bolton while grooming. Don't judge me. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "4995@11",
+  "sire": "5288@12",
+  "children": [
+    "8365@14",
+    "8677@16",
+    "11275@14",
+    "20181@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

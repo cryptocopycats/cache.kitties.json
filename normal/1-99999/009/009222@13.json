@@ -1,0 +1,18 @@
+{
+  "id": 9222,
+  "name": "Old Salt",
+  "generation": 13,
+  "created_at": "2017-11-27T15:21:44.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! Old Salt here. I'm here to enjoy grooming and sitting on your computer. My friends describe me as \"stinky.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "5018@6",
+  "sire": "5017@12",
+  "children": [
+    "12560@14",
+    "111779@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

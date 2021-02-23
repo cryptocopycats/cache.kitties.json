@@ -1,0 +1,19 @@
+{
+  "id": 9694,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-28T06:26:29.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #9694. I'm a professional Train Conductor and I love cantaloupe. Sometimes I daydream of a life full of watching Stranger Things, ice cream, and braiding people's hair. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "8866@14",
+  "sire": "8869@13",
+  "children": [
+    "49201@16",
+    "92375@19",
+    "387640@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

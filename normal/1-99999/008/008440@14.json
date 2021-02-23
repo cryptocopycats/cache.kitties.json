@@ -1,0 +1,19 @@
+{
+  "id": 8440,
+  "name": "8440",
+  "generation": 14,
+  "created_at": "2017-11-26T16:34:24.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm 8440. All you need to know about me is I hate hamburgers with a passion. I am 61% sphinx, 73% Skydiving Instructor, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "8354@13",
+  "sire": "8043@2",
+  "children": [
+    "8611@15",
+    "8685@15",
+    "74634@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

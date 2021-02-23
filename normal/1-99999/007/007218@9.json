@@ -1,0 +1,23 @@
+{
+  "id": 7218,
+  "name": "Rare Kittie, Top 7000",
+  "generation": 9,
+  "created_at": "2017-11-25T17:52:58.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Rare Kittie, Top 7000. In high school, I was voted biggest teacher's pet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "6884@2",
+  "sire": "7052@8",
+  "children": [
+    "7264@10",
+    "7299@10",
+    "10936@10",
+    "11944@14",
+    "12871@10",
+    "66440@14",
+    "100043@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

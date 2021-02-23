@@ -1,0 +1,25 @@
+{
+  "id": 9342,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-27T20:11:32.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #9342. I want to live in a world where people believe that one day cats will rule this planet. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! Let's get busy!",
+  "language": "en",
+  "matron": "2142@0",
+  "sire": "5003@1",
+  "children": [
+    "10153@3",
+    "39269@18",
+    "39491@4",
+    "39827@4",
+    "40360@4",
+    "42175@3",
+    "45088@3",
+    "54607@4",
+    "111655@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

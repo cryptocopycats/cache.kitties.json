@@ -1,0 +1,22 @@
+{
+  "id": 7869,
+  "name": "Sousfarmer",
+  "generation": 14,
+  "created_at": "2017-11-26T04:44:40.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Sousfarmer. I'm a Ventriloquist by day, and I like riverdancing by night. In my free time, I can usually be found tantalizing or summoning ghosts. Will you be the marmite to my ranch dressing?",
+  "language": "en",
+  "matron": "5983@13",
+  "sire": "6170@11",
+  "children": [
+    "10551@15",
+    "14516@15",
+    "61445@15",
+    "101970@15",
+    "200698@15",
+    "265755@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

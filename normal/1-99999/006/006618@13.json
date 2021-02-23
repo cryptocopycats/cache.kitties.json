@@ -1,0 +1,19 @@
+{
+  "id": 6618,
+  "name": "Joy Alloy",
+  "generation": 13,
+  "created_at": "2017-11-25T06:50:24.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Joy Alloy. I enjoy chasing red dots, breakdancing, and licking doorknobs. I am 2% wizard, 21% Spin Instructor , and otherwise bad at math. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "6514@5",
+  "sire": "6584@12",
+  "children": [
+    "6793@15",
+    "12130@17",
+    "49434@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

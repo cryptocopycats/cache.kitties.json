@@ -1,0 +1,23 @@
+{
+  "id": 9144,
+  "name": "9144",
+  "generation": 12,
+  "created_at": "2017-11-27T12:31:38.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm 9144. I'm a Skydiving Instructor by day, and I like riding the bus by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7319@10",
+  "sire": "8235@11",
+  "children": [
+    "19690@13",
+    "23069@14",
+    "24140@17",
+    "37731@15",
+    "61491@13",
+    "111502@13",
+    "139719@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

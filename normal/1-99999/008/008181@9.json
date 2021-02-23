@@ -1,0 +1,20 @@
+{
+  "id": 8181,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-26T10:21:47.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #8181. I'm often referred to as the Frodo Baggins of the group. I like to listen to Justin Bieber while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5029@8",
+  "sire": "4708@8",
+  "children": [
+    "8264@11",
+    "8326@10",
+    "8428@10",
+    "10791@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

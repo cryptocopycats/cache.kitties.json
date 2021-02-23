@@ -1,0 +1,22 @@
+{
+  "id": 9454,
+  "name": "Newton",
+  "generation": 15,
+  "created_at": "2017-11-27T23:47:06.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Newton. I want to live in a world where people believe the world is flat. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4967@14",
+  "sire": "4962@13",
+  "children": [
+    "15328@16",
+    "101057@16",
+    "117601@16",
+    "145296@16",
+    "225822@16",
+    "327264@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

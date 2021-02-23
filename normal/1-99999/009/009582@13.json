@@ -1,0 +1,18 @@
+{
+  "id": 9582,
+  "name": "Lady Meow",
+  "generation": 13,
+  "created_at": "2017-11-28T03:37:41.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Lady Meow. I'm a Culinary Sanitation Specialist by day, and I like summoning ghosts by night. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Let's get busy!",
+  "language": "en",
+  "matron": "9274@9",
+  "sire": "9509@12",
+  "children": [
+    "10141@14",
+    "515347@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

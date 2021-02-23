@@ -1,0 +1,29 @@
+{
+  "id": 7780,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-26T02:56:30.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Gen 14. I'm a Mad Scientist by day, and I like prank-calling celebrities by night. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "2603@0",
+  "sire": "5977@13",
+  "children": [
+    "7895@15",
+    "8385@16",
+    "12686@19",
+    "15208@18",
+    "30262@15",
+    "72838@22",
+    "252892@25"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 27,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

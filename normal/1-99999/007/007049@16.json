@@ -1,0 +1,21 @@
+{
+  "id": 7049,
+  "name": "7049",
+  "generation": 16,
+  "created_at": "2017-11-25T14:04:55.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm 7049. I'm often referred to as the Michael Scott of the group. My friends describe me as \"gullible.\" It's... accurate. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "6997@9",
+  "sire": "5741@15",
+  "children": [
+    "9270@17",
+    "9979@17",
+    "15875@21",
+    "23082@17",
+    "37361@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

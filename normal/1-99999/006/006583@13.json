@@ -1,0 +1,21 @@
+{
+  "id": 6583,
+  "name": "6583",
+  "generation": 13,
+  "created_at": "2017-11-25T06:28:53.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm 6583. I've never told anyone this, but I once cleaned a dog. I once dreamed of being a Spin Instructor . Now I can be found jump-roping all day. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4697@7",
+  "sire": "5822@12",
+  "children": [
+    "32902@14",
+    "35456@14",
+    "38074@14",
+    "62319@15",
+    "77335@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

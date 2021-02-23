@@ -1,0 +1,23 @@
+{
+  "id": 6723,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-25T08:19:07.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #6723. My friends describe me as smelly and voluptuous. It's not common knowledge, but my ancestry connects me to Confucius. Let's get busy!",
+  "language": "en",
+  "matron": "6123@12",
+  "sire": "6351@16",
+  "children": [
+    "7193@18",
+    "8275@18",
+    "9853@18",
+    "23159@18",
+    "266420@18",
+    "432277@18",
+    "1408103@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

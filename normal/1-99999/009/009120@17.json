@@ -1,0 +1,19 @@
+{
+  "id": 9120,
+  "name": "Ruby",
+  "generation": 17,
+  "created_at": "2017-11-27T11:45:10.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Ruby. I'm often referred to as the Frodo Baggins of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "8594@16",
+  "sire": "8733@16",
+  "children": [
+    "9546@18",
+    "12241@18",
+    "72280@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7623,
+  "name": "7326",
+  "generation": 11,
+  "created_at": "2017-11-26T00:15:15.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm 7326. In high school, I was voted most likely to work at NASA. My friends describe me as \"vegan.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5089@8",
+  "sire": "5924@10",
+  "children": [
+    "7713@12",
+    "8134@16",
+    "8175@14",
+    "9099@15",
+    "9782@15",
+    "20493@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

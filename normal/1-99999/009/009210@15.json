@@ -1,0 +1,18 @@
+{
+  "id": 9210,
+  "name": "Smiley Kitty",
+  "generation": 15,
+  "created_at": "2017-11-27T15:04:28.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Smiley Kitty. I'm a professional Aerobics Athlete  and I love ice cream. I put cinammon on everything. Like, everything: hot dogs, hamburgers—everything! Our friendship will be hairy, stinky, and full of cereal.",
+  "language": "en",
+  "matron": "8758@14",
+  "sire": "8753@14",
+  "children": [
+    "9875@19",
+    "47559@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

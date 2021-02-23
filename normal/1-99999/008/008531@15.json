@@ -1,0 +1,19 @@
+{
+  "id": 8531,
+  "name": "JB",
+  "generation": 15,
+  "created_at": "2017-11-26T19:06:38.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm JB. I'm often referred to as the Hermione Granger of the group. In my free time, I can usually be found voluptuous or practicing witchcraft. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7746@13",
+  "sire": "8089@14",
+  "children": [
+    "8756@16",
+    "8792@16",
+    "10096@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

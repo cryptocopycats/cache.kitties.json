@@ -1,0 +1,18 @@
+{
+  "id": 7569,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T23:32:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #7569. I'm often referred to as the Bart Simpson of the group. I'm often described as petulant, and I own it. Will you be the peanut butter to my ranch dressing?",
+  "language": "en",
+  "matron": "7302@3",
+  "sire": "7494@13",
+  "children": [
+    "7584@15",
+    "29198@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

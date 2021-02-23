@@ -1,0 +1,23 @@
+{
+  "id": 8544,
+  "name": "3 | Fur Ball",
+  "generation": 3,
+  "created_at": "2017-11-26T19:34:02.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm 3 | Fur Ball. In high school, I was voted biggest teacher's pet. My friends describe me as \"wondrous.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "1087@0",
+  "sire": "3074@2",
+  "children": [
+    "10618@10",
+    "12256@17",
+    "48299@5",
+    "51835@5",
+    "57939@4",
+    "68607@4",
+    "100542@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

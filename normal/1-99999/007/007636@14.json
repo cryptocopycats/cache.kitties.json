@@ -1,0 +1,19 @@
+{
+  "id": 7636,
+  "name": "Beans",
+  "generation": 14,
+  "created_at": "2017-11-26T00:25:54.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! My name's Beans. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When no one's home, I invite my pals over and we listen to Frank Sinatra. I hope we can be prickly friends.",
+  "language": "en",
+  "matron": "3957@8",
+  "sire": "5522@13",
+  "children": [
+    "12282@17",
+    "20626@17",
+    "34810@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

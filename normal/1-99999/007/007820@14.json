@@ -1,0 +1,20 @@
+{
+  "id": 7820,
+  "name": "7820",
+  "generation": 14,
+  "created_at": "2017-11-26T03:38:26.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm 7820. All you need to know about me is I hate steak with a passion. I once bit a rhino. I don't like to talk about it. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "7242@10",
+  "sire": "7522@13",
+  "children": [
+    "10700@15",
+    "11687@17",
+    "16169@15",
+    "82725@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

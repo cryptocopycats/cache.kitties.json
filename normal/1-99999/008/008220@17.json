@@ -1,0 +1,20 @@
+{
+  "id": 8220,
+  "name": "Wolverine",
+  "generation": 17,
+  "created_at": "2017-11-26T11:02:52.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Wolverine. My friends describe me as smelly and raunchy. Sometimes I daydream of a life full of eating until I loathe myself, cereal, and summoning ghosts. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5578@6",
+  "sire": "7752@16",
+  "children": [
+    "8601@18",
+    "9167@18",
+    "9397@18",
+    "163089@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

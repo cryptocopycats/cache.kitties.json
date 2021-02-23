@@ -1,0 +1,20 @@
+{
+  "id": 7024,
+  "name": "14",
+  "generation": 14,
+  "created_at": "2017-11-25T13:27:56.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm 14. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3986@6",
+  "sire": "6463@13",
+  "children": [
+    "7114@15",
+    "9094@15",
+    "10159@15",
+    "13768@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

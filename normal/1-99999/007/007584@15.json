@@ -1,0 +1,19 @@
+{
+  "id": 7584,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-25T23:46:37.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #7584. I enjoy picking flowers, reciting poetry, and spinning sick beats. I once pranced with a goose. I don't like to talk about it. Our friendship will be fabulous, hairy, and full of cantaloupe.",
+  "language": "en",
+  "matron": "7233@3",
+  "sire": "7569@14",
+  "children": [
+    "10912@16",
+    "11168@16",
+    "16176@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

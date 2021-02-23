@@ -1,0 +1,24 @@
+{
+  "id": 7300,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T19:03:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #7300. I'm a professional Foreign Film Director and I love salad. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7223@3",
+  "sire": "7041@9",
+  "children": [
+    "11788@12",
+    "12253@19",
+    "18690@18",
+    "21912@11",
+    "25689@11",
+    "29623@18",
+    "74652@11",
+    "190931@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

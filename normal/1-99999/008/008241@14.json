@@ -1,0 +1,23 @@
+{
+  "id": 8241,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-26T11:39:14.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen 14. I enjoy watching Stranger Things, picking flowers, and slappin' da bass. My secret indulgence is apple pie. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "4951@12",
+  "sire": "7786@13",
+  "children": [
+    "8574@18",
+    "8832@18",
+    "10027@17",
+    "13203@15",
+    "17600@18",
+    "26067@15",
+    "252675@26"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

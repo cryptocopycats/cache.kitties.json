@@ -1,0 +1,25 @@
+{
+  "id": 9463,
+  "name": "Gilbert",
+  "generation": 9,
+  "created_at": "2017-11-27T23:51:12.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Gilbert. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the garlic butter to my marmalade?",
+  "language": "en",
+  "matron": "8236@7",
+  "sire": "7483@8",
+  "children": [
+    "12325@10",
+    "12662@10",
+    "17229@10",
+    "18152@14",
+    "20363@10",
+    "42695@12",
+    "93780@10",
+    "101665@10",
+    "422231@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

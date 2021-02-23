@@ -1,0 +1,19 @@
+{
+  "id": 7052,
+  "name": "Rex",
+  "generation": 8,
+  "created_at": "2017-11-25T14:07:13.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Rex. I enjoy riding dirty, breakdancing, and eating lasagna. When no one's home, I invite my pals over and we listen to Frank Sinatra. Let's pawty!",
+  "language": "en",
+  "matron": "2704@0",
+  "sire": "4098@7",
+  "children": [
+    "7218@9",
+    "7295@9",
+    "13157@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

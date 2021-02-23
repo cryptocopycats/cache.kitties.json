@@ -1,0 +1,19 @@
+{
+  "id": 7136,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T16:24:12.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #7136. I'm a Ventriloquist by day, and I like riverdancing by night. I like to listen to Ace of Base while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7045@10",
+  "sire": "6958@10",
+  "children": [
+    "70641@13",
+    "109793@12",
+    "115670@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

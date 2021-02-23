@@ -1,0 +1,20 @@
+{
+  "id": 9166,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-27T13:42:19.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Gen 15. All you need to know about me is I hate cereal with a passion. My secret indulgence is wet food. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6850@14",
+  "sire": "6119@12",
+  "children": [
+    "51889@16",
+    "64596@16",
+    "87647@16",
+    "113829@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

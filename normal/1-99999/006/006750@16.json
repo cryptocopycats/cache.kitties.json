@@ -1,0 +1,20 @@
+{
+  "id": 6750,
+  "name": "G16/Sluggish",
+  "generation": 16,
+  "created_at": "2017-11-25T08:31:38.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm G16/Sluggish. All you need to know about me is I hate wet food with a passion. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Let's pawty!",
+  "language": "en",
+  "matron": "6454@8",
+  "sire": "6544@15",
+  "children": [
+    "6916@17",
+    "11556@17",
+    "18406@18",
+    "33322@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

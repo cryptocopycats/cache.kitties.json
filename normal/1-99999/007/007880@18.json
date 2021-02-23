@@ -1,0 +1,18 @@
+{
+  "id": 7880,
+  "name": "Nice",
+  "generation": 18,
+  "created_at": "2017-11-26T04:50:21.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Nice. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "7422@13",
+  "sire": "7452@17",
+  "children": [
+    "9992@19",
+    "17880@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

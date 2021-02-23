@@ -1,0 +1,20 @@
+{
+  "id": 7241,
+  "name": "Meowstache G15C4",
+  "generation": 15,
+  "created_at": "2017-11-25T18:19:27.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Meowstache G15C4. I believe that one day cats will rule this planet. I once made a dog play. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "7123@3",
+  "sire": "7194@14",
+  "children": [
+    "8303@16",
+    "8735@16",
+    "9186@16",
+    "11505@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

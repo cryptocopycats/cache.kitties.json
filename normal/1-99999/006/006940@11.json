@@ -1,0 +1,23 @@
+{
+  "id": 6940,
+  "name": "Rare",
+  "generation": 11,
+  "created_at": "2017-11-25T11:19:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Rare. I believe that one day cats will rule this planet. I'm often described as hairy, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6869@10",
+  "sire": "3339@4",
+  "children": [
+    "7111@12",
+    "11501@12",
+    "11950@12",
+    "13320@12",
+    "19200@12",
+    "27384@12",
+    "84656@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

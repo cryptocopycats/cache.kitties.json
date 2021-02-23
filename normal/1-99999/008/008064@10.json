@@ -1,0 +1,18 @@
+{
+  "id": 8064,
+  "name": "Bubblegum",
+  "generation": 10,
+  "created_at": "2017-11-26T07:48:21.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Bubblegum. I'm a professional Mad Scientist and I love cantaloupe. In my free time, I can usually be found voluptuous or tricking babies. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4111@9",
+  "sire": "4371@8",
+  "children": [
+    "8362@15",
+    "17400@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

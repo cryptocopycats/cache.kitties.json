@@ -1,0 +1,19 @@
+{
+  "id": 8248,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-26T11:48:14.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #8248. I'm a Ventriloquist by day, and I like talking about how much I lift by night. My secret indulgence is cereal. Can you make my gullible dreams come true?",
+  "language": "en",
+  "matron": "7134@14",
+  "sire": "5791@10",
+  "children": [
+    "8473@16",
+    "8763@16",
+    "9900@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8921,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-27T05:51:11.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #8921. My friends describe me as seductive and vegan. I once made a platypus lay. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7360@10",
+  "sire": "1280@0",
+  "children": [
+    "9025@14",
+    "9541@17",
+    "13313@16",
+    "64051@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

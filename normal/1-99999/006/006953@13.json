@@ -1,0 +1,21 @@
+{
+  "id": 6953,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-11-25T11:41:32.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Gen 13. I once peed on Confucius's cat. They had it coming. I put marmalade on everything. Like, everything: hot dogs, ice cream—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6676@10",
+  "sire": "6119@12",
+  "children": [
+    "7762@15",
+    "8289@15",
+    "12868@14",
+    "68593@14",
+    "96366@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

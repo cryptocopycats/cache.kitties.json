@@ -1,0 +1,21 @@
+{
+  "id": 8553,
+  "name": "8553",
+  "generation": 13,
+  "created_at": "2017-11-26T19:56:53.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm 8553. I'm a professional Train Conductor and I love ice cream. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2235@0",
+  "sire": "8433@12",
+  "children": [
+    "8640@14",
+    "9225@14",
+    "50701@14",
+    "69216@14",
+    "82287@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

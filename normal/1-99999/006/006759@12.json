@@ -1,0 +1,21 @@
+{
+  "id": 6759,
+  "name": "Nathalie Portman",
+  "generation": 12,
+  "created_at": "2017-11-25T08:39:20.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Nathalie Portman. In high school, I was voted school jock. I like to listen to Gloria Estefan while grooming. Don't judge me. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "5905@11",
+  "sire": "6080@11",
+  "children": [
+    "7245@13",
+    "7896@13",
+    "9503@13",
+    "15029@13",
+    "31484@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

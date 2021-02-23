@@ -1,0 +1,21 @@
+{
+  "id": 9224,
+  "name": "秋天的竹子",
+  "generation": 13,
+  "created_at": "2017-11-27T15:25:25.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 秋天的竹子. I'm often referred to as the Homer Simpson of the group. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4875@9",
+  "sire": "5251@12",
+  "children": [
+    "9460@16",
+    "9962@14",
+    "10219@14",
+    "11943@14",
+    "17076@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

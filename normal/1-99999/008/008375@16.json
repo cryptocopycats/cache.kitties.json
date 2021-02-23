@@ -1,0 +1,19 @@
+{
+  "id": 8375,
+  "name": "Gen 16",
+  "generation": 16,
+  "created_at": "2017-11-26T14:47:33.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 16. I've never told anyone this, but I once frolicked with a dog. Some people say I'm the Frodo Baggins of the group. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "8196@15",
+  "sire": "2746@0",
+  "children": [
+    "59411@17",
+    "92975@17",
+    "117343@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

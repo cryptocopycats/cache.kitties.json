@@ -1,0 +1,20 @@
+{
+  "id": 7276,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-11-25T18:39:55.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! My name's Kitty #7276. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"vegan.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7177@4",
+  "sire": "2181@0",
+  "children": [
+    "7329@6",
+    "7559@14",
+    "7589@6",
+    "7689@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9705,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-28T06:43:57.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #9705. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Aretha Franklin. Will you be the cinammon to my pickles?",
+  "language": "en",
+  "matron": "6389@11",
+  "sire": "6550@16",
+  "children": [
+    "18182@18",
+    "28571@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

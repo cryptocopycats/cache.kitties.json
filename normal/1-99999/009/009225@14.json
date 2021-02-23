@@ -1,0 +1,18 @@
+{
+  "id": 9225,
+  "name": "Ollie Socks",
+  "generation": 14,
+  "created_at": "2017-11-27T15:29:50.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Ollie Socks. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Train Conductor. Now I can be found talking about how much I lift all day. Our friendship will be annoying, raunchy, and full of salad.",
+  "language": "en",
+  "matron": "7222@11",
+  "sire": "8553@13",
+  "children": [
+    "11133@15",
+    "81698@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

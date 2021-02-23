@@ -1,0 +1,21 @@
+{
+  "id": 8841,
+  "name": "Kenuchi",
+  "generation": 2,
+  "created_at": "2017-11-27T03:57:20.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kenuchi. In high school, I was voted biggest teacher's pet. My secret indulgence is steak. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3732@1",
+  "sire": "2537@0",
+  "children": [
+    "9716@7",
+    "10169@16",
+    "50704@11",
+    "58760@10",
+    "76372@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

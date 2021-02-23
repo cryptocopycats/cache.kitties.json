@@ -1,0 +1,18 @@
+{
+  "id": 9690,
+  "name": "Emmy",
+  "generation": 13,
+  "created_at": "2017-11-28T06:19:19.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Emmy. I enjoy sweating through my feet, watching Stranger Things, and picking on mice. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "4621@5",
+  "sire": "9670@12",
+  "children": [
+    "16051@14",
+    "21664@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

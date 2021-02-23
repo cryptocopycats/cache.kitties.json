@@ -1,0 +1,18 @@
+{
+  "id": 8342,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-11-26T14:14:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #8342. I've never told anyone this, but I once frolicked with a dog. It's not common knowledge, but my ancestry connects me to Cleopatra. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2413@0",
+  "sire": "1328@0",
+  "children": [
+    "8391@11",
+    "11286@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

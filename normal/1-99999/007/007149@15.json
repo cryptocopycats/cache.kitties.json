@@ -1,0 +1,22 @@
+{
+  "id": 7149,
+  "name": "Best Buddy Ever",
+  "generation": 15,
+  "created_at": "2017-11-25T16:38:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Best Buddy Ever. I enjoy glaring at the neighbour's cat, riding unicorns, and reciting poetry. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "2639@0",
+  "sire": "6743@14",
+  "children": [
+    "7255@16",
+    "11283@16",
+    "14158@16",
+    "16083@16",
+    "23372@18",
+    "204094@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

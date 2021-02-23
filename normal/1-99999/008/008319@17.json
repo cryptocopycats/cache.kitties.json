@@ -1,0 +1,19 @@
+{
+  "id": 8319,
+  "name": "Oro",
+  "generation": 17,
+  "created_at": "2017-11-26T13:25:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Oro. My friends describe me as vegan and ridiculous. Some people say I'm the Cersei Lannister of the group. Our friendship will be vegan, ridiculous, and full of ice cream.",
+  "language": "en",
+  "matron": "7524@16",
+  "sire": "7165@14",
+  "children": [
+    "9028@18",
+    "12113@18",
+    "17700@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

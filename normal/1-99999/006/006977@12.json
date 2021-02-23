@@ -1,0 +1,19 @@
+{
+  "id": 6977,
+  "name": "Top 7000 Kitty",
+  "generation": 12,
+  "created_at": "2017-11-25T12:11:13.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Top 7000 Kitty. I've never told anyone this, but I once groomed a dog. I'm convinced that the world is flat. One day I'll prove it. I hope we can be hairy friends.",
+  "language": "en",
+  "matron": "6734@8",
+  "sire": "6195@11",
+  "children": [
+    "7085@14",
+    "7899@13",
+    "11847@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

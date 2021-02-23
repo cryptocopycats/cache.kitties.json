@@ -1,0 +1,19 @@
+{
+  "id": 8719,
+  "name": "8719",
+  "generation": 19,
+  "created_at": "2017-11-27T00:44:23.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 8719. I'm a Dogwalker by day, and I like volunteering at the local kitten rescue shelter by night. When I'm not jump-roping, I'm practicing witchcraft! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "5194@11",
+  "sire": "8647@18",
+  "children": [
+    "9272@20",
+    "12627@20",
+    "49777@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 9714,
+  "name": "9714 FANCY",
+  "generation": 16,
+  "created_at": "2017-11-28T06:44:21.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 9714 FANCY. My friends describe me as ridiculous and brilliant. I'm often described as raunchy, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "6311@13",
+  "sire": "6495@15",
+  "children": [
+    "15694@18",
+    "18116@17",
+    "22199@17",
+    "36031@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 32,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

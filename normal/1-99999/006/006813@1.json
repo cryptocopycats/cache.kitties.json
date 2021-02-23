@@ -1,0 +1,21 @@
+{
+  "id": 6813,
+  "name": "Lasagna-cat",
+  "generation": 1,
+  "created_at": "2017-11-25T09:23:59.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Lasagna-cat. I enjoy taking selfies, riding unicorns, and eating lasagna. I would give it all up to star in a soap opera. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "2099@0",
+  "sire": "2773@0",
+  "children": [
+    "7379@17",
+    "7385@2",
+    "8585@2",
+    "10564@17",
+    "454350@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

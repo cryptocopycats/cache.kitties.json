@@ -1,0 +1,19 @@
+{
+  "id": 9205,
+  "name": "Tigerstripe",
+  "generation": 16,
+  "created_at": "2017-11-27T14:47:44.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Tigerstripe. All you need to know about me is I hate cereal with a passion. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8598@14",
+  "sire": "7038@15",
+  "children": [
+    "10433@17",
+    "52766@17",
+    "236706@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

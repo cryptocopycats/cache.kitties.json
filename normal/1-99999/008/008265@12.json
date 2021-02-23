@@ -1,0 +1,22 @@
+{
+  "id": 8265,
+  "name": "Happee",
+  "generation": 12,
+  "created_at": "2017-11-26T12:13:04.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Happee. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "7976@11",
+  "sire": "3421@5",
+  "children": [
+    "9752@15",
+    "9947@13",
+    "11214@14",
+    "13989@18",
+    "14128@13",
+    "23674@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6764,
+  "name": "Vitalik Buterin",
+  "generation": 8,
+  "created_at": "2017-11-25T08:43:49.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Vitalik Buterin. I'm a professional Dogwalker and I love cereal. In my free time, I can usually be found despicable or jump-roping. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "2522@0",
+  "sire": "3423@7",
+  "children": [
+    "7941@9",
+    "9664@11",
+    "9789@10",
+    "65286@9",
+    "80637@20",
+    "112771@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

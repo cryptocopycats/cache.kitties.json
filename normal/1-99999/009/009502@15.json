@@ -1,0 +1,18 @@
+{
+  "id": 9502,
+  "name": "Mintstake",
+  "generation": 15,
+  "created_at": "2017-11-28T00:56:20.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Mintstake. I'm a Train Conductor by day, and I like pole dancing by night. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found reading Danielle Steele all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "4350@11",
+  "sire": "8690@14",
+  "children": [
+    "52761@21",
+    "65037@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

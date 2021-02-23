@@ -1,0 +1,21 @@
+{
+  "id": 8611,
+  "name": "8611",
+  "generation": 15,
+  "created_at": "2017-11-26T21:29:22.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm 8611. In high school, I was voted school jock. My secret indulgence is cereal. Let's pawty!",
+  "language": "en",
+  "matron": "8440@14",
+  "sire": "8401@1",
+  "children": [
+    "8785@18",
+    "9143@16",
+    "9281@16",
+    "122456@16",
+    "139911@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8201,
+  "name": "8201",
+  "generation": 13,
+  "created_at": "2017-11-26T10:43:36.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm 8201. I'm a professional Ventriloquist and I love steak. I'm often described as prickly, and I own it. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "7002@1",
+  "sire": "5885@12",
+  "children": [
+    "9535@15",
+    "10743@16",
+    "52474@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

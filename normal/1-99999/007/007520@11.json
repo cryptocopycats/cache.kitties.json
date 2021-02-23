@@ -1,0 +1,21 @@
+{
+  "id": 7520,
+  "name": "Key Lime Pi",
+  "generation": 11,
+  "created_at": "2017-11-25T22:53:52.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Key Lime Pi. I'm a professional Foreign Film Director and I love chocolate. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "7264@10",
+  "sire": "7302@3",
+  "children": [
+    "7685@13",
+    "10534@12",
+    "11191@16",
+    "12104@17",
+    "16076@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

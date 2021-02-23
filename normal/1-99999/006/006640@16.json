@@ -1,0 +1,20 @@
+{
+  "id": 6640,
+  "name": "Poirot",
+  "generation": 16,
+  "created_at": "2017-11-25T07:03:56.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Poirot. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "5032@15",
+  "sire": "5138@12",
+  "children": [
+    "8214@17",
+    "8818@17",
+    "19146@17",
+    "59408@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

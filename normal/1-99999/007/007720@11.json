@@ -1,0 +1,21 @@
+{
+  "id": 7720,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T01:48:41.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #7720. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Princess Diana. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7200@8",
+  "sire": "7319@10",
+  "children": [
+    "8004@12",
+    "8533@12",
+    "9022@13",
+    "9738@12",
+    "11545@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

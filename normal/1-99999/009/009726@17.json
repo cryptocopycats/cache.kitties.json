@@ -1,0 +1,19 @@
+{
+  "id": 9726,
+  "name": "9726",
+  "generation": 17,
+  "created_at": "2017-11-28T06:48:34.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm 9726. I'm a professional Foreign Film Director and I love cereal. I once got in a fight with a dolphin, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "9363@16",
+  "sire": "9365@15",
+  "children": [
+    "11550@18",
+    "41435@18",
+    "95696@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8426,
+  "name": "11",
+  "generation": 11,
+  "created_at": "2017-11-26T16:12:44.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm 11. I'm a professional Dispensary Clerk and I love apple pie. I am 70% wizard, 54% Mad Scientist, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "5711@10",
+  "sire": "6605@8",
+  "children": [
+    "8586@14",
+    "10073@18",
+    "12848@18",
+    "16697@12",
+    "24463@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7009,
+  "name": "Marvin Gen 15",
+  "generation": 15,
+  "created_at": "2017-11-25T13:02:14.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! Marvin Gen 15 here. I'm here to enjoy riding unicorns and eating lasagna. When I'm not riding the bus, I'm prank-calling celebrities! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "5966@14",
+  "sire": "5164@11",
+  "children": [
+    "7444@16",
+    "7998@16",
+    "10006@16",
+    "19772@16",
+    "32214@16",
+    "349422@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

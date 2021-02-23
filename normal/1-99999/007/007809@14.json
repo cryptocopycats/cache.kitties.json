@@ -1,0 +1,20 @@
+{
+  "id": 7809,
+  "name": "7809",
+  "generation": 14,
+  "created_at": "2017-11-26T03:31:31.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm 7809. I'm often referred to as the Samwise Gamgee of the group. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7698@9",
+  "sire": "5000@13",
+  "children": [
+    "7830@15",
+    "8587@15",
+    "73145@15",
+    "105947@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

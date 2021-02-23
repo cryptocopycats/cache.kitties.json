@@ -1,0 +1,20 @@
+{
+  "id": 7656,
+  "name": "Aslan",
+  "generation": 8,
+  "created_at": "2017-11-26T00:48:05.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Aslan. In high school, I was voted school jock. I once frolicked with a rooster. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "4452@7",
+  "sire": "6269@1",
+  "children": [
+    "12289@9",
+    "13156@10",
+    "14078@9",
+    "1437561@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

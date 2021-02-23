@@ -1,0 +1,19 @@
+{
+  "id": 7343,
+  "name": "Leon",
+  "generation": 14,
+  "created_at": "2017-11-25T19:58:10.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Leon. I've never told anyone this, but I once pranced with a dog. It's not common knowledge, but my ancestry connects me to Mother Theresa. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5591@6",
+  "sire": "6189@13",
+  "children": [
+    "7435@15",
+    "10020@16",
+    "22415@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

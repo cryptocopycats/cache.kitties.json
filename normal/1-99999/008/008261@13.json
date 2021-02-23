@@ -1,0 +1,19 @@
+{
+  "id": 8261,
+  "name": "Tiger Kitty",
+  "generation": 13,
+  "created_at": "2017-11-26T12:12:17.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Tiger Kitty here. I'm here to enjoy shakin' dat booty and glaring at the neighbour's cat. I am 11% troll, 31% Dogwalker, and otherwise bad at math. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6445@12",
+  "sire": "4525@6",
+  "children": [
+    "8753@14",
+    "9296@14",
+    "55102@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

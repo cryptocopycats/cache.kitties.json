@@ -1,0 +1,20 @@
+{
+  "id": 7930,
+  "name": "Striped Smiler",
+  "generation": 6,
+  "created_at": "2017-11-26T05:44:44.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Striped Smiler. I believe that one day cats will rule this planet. I'm often described as preposterous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "4610@5",
+  "sire": "2774@0",
+  "children": [
+    "8000@7",
+    "8158@11",
+    "8699@14",
+    "10098@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

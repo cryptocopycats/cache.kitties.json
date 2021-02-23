@@ -1,0 +1,18 @@
+{
+  "id": 9174,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-11-27T13:58:15.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 18. In high school, I was voted most likely to work at NASA. I once made a moose pester. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "8892@17",
+  "sire": "8124@14",
+  "children": [
+    "65347@19",
+    "92760@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

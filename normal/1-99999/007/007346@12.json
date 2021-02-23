@@ -1,0 +1,22 @@
+{
+  "id": 7346,
+  "name": "Miyagi",
+  "generation": 12,
+  "created_at": "2017-11-25T19:59:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Miyagi. I believe the world is flat. When no one's home, I invite my pals over and we listen to Gloria Estefan. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6508@11",
+  "sire": "7222@11",
+  "children": [
+    "7522@13",
+    "10470@13",
+    "11961@13",
+    "13244@13",
+    "19894@13",
+    "55078@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

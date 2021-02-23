@@ -1,0 +1,20 @@
+{
+  "id": 8821,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-27T03:19:26.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #8821. In high school, I was voted biggest teacher's pet. I am 43% elf, 60% Dogwalker, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8525@16",
+  "sire": "8526@13",
+  "children": [
+    "9802@18",
+    "11798@18",
+    "17060@18",
+    "29935@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

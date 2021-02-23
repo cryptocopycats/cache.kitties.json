@@ -1,0 +1,28 @@
+{
+  "id": 6865,
+  "name": "6865",
+  "generation": 2,
+  "created_at": "2017-11-25T10:10:26.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm 6865. All you need to know about me is I hate cereal with a passion. My secret indulgence is apple pie. I like your face.",
+  "language": "en",
+  "matron": "6810@1",
+  "sire": "2360@0",
+  "children": [
+    "7363@12",
+    "8138@12",
+    "10256@3",
+    "10707@3",
+    "12664@4",
+    "14425@14",
+    "15435@5",
+    "28116@10",
+    "39661@13",
+    "102536@3",
+    "137163@3",
+    "215872@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

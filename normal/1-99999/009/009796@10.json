@@ -1,0 +1,21 @@
+{
+  "id": 9796,
+  "name": "Chatmonix G10C4",
+  "generation": 10,
+  "created_at": "2017-11-28T08:22:07.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Chatmonix G10C4. I'm often referred to as the Hermione Granger of the group. My friends describe me as \"vegan.\" It's... accurate. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "5749@9",
+  "sire": "4938@9",
+  "children": [
+    "9897@14",
+    "10211@18",
+    "10583@15",
+    "12097@12",
+    "20959@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

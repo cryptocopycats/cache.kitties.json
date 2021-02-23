@@ -1,0 +1,20 @@
+{
+  "id": 8525,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-26T18:57:31.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Kitty #8525. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "4067@10",
+  "sire": "7087@15",
+  "children": [
+    "8821@17",
+    "10082@18",
+    "11262@17",
+    "31653@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

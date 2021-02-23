@@ -1,0 +1,19 @@
+{
+  "id": 9419,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-11-27T22:45:00.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Gen 17. All you need to know about me is I hate lasagna with a passion. When I'm not playing chess, I'm pole dancing! Our friendship will be fabulous, ridiculous, and full of ice cream.",
+  "language": "en",
+  "matron": "8263@16",
+  "sire": "6574@13",
+  "children": [
+    "9971@18",
+    "64347@18",
+    "92566@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

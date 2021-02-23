@@ -1,0 +1,22 @@
+{
+  "id": 7848,
+  "name": "7848",
+  "generation": 12,
+  "created_at": "2017-11-26T04:14:22.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! 7848 here. I'm here to enjoy chasing string and watching Stranger Things. My secret indulgence is cantaloupe. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6543@2",
+  "sire": "6668@11",
+  "children": [
+    "8055@16",
+    "8308@13",
+    "9391@18",
+    "13198@13",
+    "20080@18",
+    "56458@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

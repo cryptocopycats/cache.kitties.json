@@ -1,0 +1,19 @@
+{
+  "id": 7850,
+  "name": "14",
+  "generation": 14,
+  "created_at": "2017-11-26T04:15:32.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm 14. I've never told anyone this, but I once tricked a dog. I once tricked a moose. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6678@13",
+  "sire": "6133@12",
+  "children": [
+    "8774@15",
+    "9910@15",
+    "20219@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

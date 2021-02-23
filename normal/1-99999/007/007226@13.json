@@ -1,0 +1,22 @@
+{
+  "id": 7226,
+  "name": "Leap",
+  "generation": 13,
+  "created_at": "2017-11-25T18:03:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Leap. I'm often referred to as the Niles Crane of the group. I once got in a fight with a labradoodle, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "6597@9",
+  "sire": "5659@12",
+  "children": [
+    "7386@14",
+    "7893@15",
+    "11183@14",
+    "16680@14",
+    "24422@14",
+    "60598@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

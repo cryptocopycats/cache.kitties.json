@@ -1,0 +1,22 @@
+{
+  "id": 6645,
+  "name": "Gen 10",
+  "generation": 10,
+  "created_at": "2017-11-25T07:08:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen 10. I've never told anyone this, but I once loved a dog. I once dreamed of being a Ventriloquist. Now I can be found summoning ghosts all day. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "6397@9",
+  "sire": "2704@0",
+  "children": [
+    "8139@11",
+    "39523@11",
+    "60806@11",
+    "67098@11",
+    "71225@11",
+    "117840@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

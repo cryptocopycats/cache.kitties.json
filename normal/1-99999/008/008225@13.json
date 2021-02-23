@@ -1,0 +1,19 @@
+{
+  "id": 8225,
+  "name": "8225 - Sailor Parent",
+  "generation": 13,
+  "created_at": "2017-11-26T11:08:09.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm 8225 - Sailor Parent. I've never told anyone this, but I once snuggled a dog. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "3284@6",
+  "sire": "6308@12",
+  "children": [
+    "8707@14",
+    "58875@14",
+    "68583@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

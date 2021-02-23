@@ -1,0 +1,21 @@
+{
+  "id": 6605,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-11-25T06:43:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Kitty #6605. I want to live in a world where people believe the world is flat. I put maple syrup on everything. Like, everything: hot dogs, cereal—everything! I look forward to tripping my owner with you.",
+  "language": "en",
+  "matron": "4029@7",
+  "sire": "6326@7",
+  "children": [
+    "7606@9",
+    "7978@12",
+    "8426@11",
+    "8756@16",
+    "9725@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

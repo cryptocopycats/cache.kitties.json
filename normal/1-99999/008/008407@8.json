@@ -1,0 +1,21 @@
+{
+  "id": 8407,
+  "name": "Fish | Sailors Child",
+  "generation": 8,
+  "created_at": "2017-11-26T15:43:51.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Fish | Sailors Child. In high school, I was voted most likely to work at NASA. I am 22% oracle, 57% Ventriloquist, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "8399@1",
+  "sire": "6989@7",
+  "children": [
+    "8412@9",
+    "51103@9",
+    "54469@9",
+    "68675@9",
+    "84731@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7319,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T19:28:20.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #7319. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "7234@9",
+  "sire": "7291@9",
+  "children": [
+    "7720@11",
+    "8171@11",
+    "8590@13",
+    "9144@12",
+    "10057@12",
+    "13445@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7240,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-25T18:17:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #7240. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of grooming, wet food, and summoning ghosts. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "6516@5",
+  "sire": "6624@10",
+  "children": [
+    "7318@12",
+    "7547@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

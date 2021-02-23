@@ -1,0 +1,19 @@
+{
+  "id": 6577,
+  "name": "JB",
+  "generation": 12,
+  "created_at": "2017-11-25T06:23:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm JB. I'm a Skydiving Instructor by day, and I like reading Danielle Steele by night. I would give it all up to star in a soap opera. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "2525@0",
+  "sire": "6413@11",
+  "children": [
+    "7746@13",
+    "8948@13",
+    "9941@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

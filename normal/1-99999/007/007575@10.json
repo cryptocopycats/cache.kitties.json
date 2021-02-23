@@ -1,0 +1,21 @@
+{
+  "id": 7575,
+  "name": "Einstein 10 Plodding",
+  "generation": 10,
+  "created_at": "2017-11-25T23:39:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Einstein 10 Plodding. My friends describe me as prickly and voluptuous. I'm often described as brilliant, and I own it. Will you be the pickles to my cinammon?",
+  "language": "en",
+  "matron": "3426@1",
+  "sire": "3893@9",
+  "children": [
+    "7590@11",
+    "13090@13",
+    "36395@11",
+    "43819@19",
+    "77958@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

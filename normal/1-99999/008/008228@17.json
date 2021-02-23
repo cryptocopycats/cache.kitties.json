@@ -1,0 +1,19 @@
+{
+  "id": 8228,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-26T11:08:57.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #8228. All you need to know about me is I hate chocolate with a passion. My friends describe me as \"vegan.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4902@14",
+  "sire": "5505@16",
+  "children": [
+    "8575@18",
+    "12178@18",
+    "34899@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

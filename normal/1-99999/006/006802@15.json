@@ -1,0 +1,24 @@
+{
+  "id": 6802,
+  "name": "Monsieur Capus",
+  "generation": 15,
+  "created_at": "2017-11-25T09:13:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Monsieur Capus. All you need to know about me is I hate chocolate with a passion. In my free time, I can usually be found petulant or swiping left. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "5743@9",
+  "sire": "5746@14",
+  "children": [
+    "6888@16",
+    "7438@16",
+    "7469@16",
+    "9221@16",
+    "9460@16",
+    "106719@16",
+    "266948@19",
+    "493185@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

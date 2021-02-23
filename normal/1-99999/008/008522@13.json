@@ -1,0 +1,19 @@
+{
+  "id": 8522,
+  "name": "I Am Malamute",
+  "generation": 13,
+  "created_at": "2017-11-26T18:57:31.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm I Am Malamute. My friends describe me as ridiculous and seductive. Some people say I'm the Samwise Gamgee of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "4317@9",
+  "sire": "5833@12",
+  "children": [
+    "8831@17",
+    "10776@15",
+    "42879@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

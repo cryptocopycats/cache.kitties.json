@@ -1,0 +1,24 @@
+{
+  "id": 8118,
+  "name": "8118",
+  "generation": 8,
+  "created_at": "2017-11-26T08:48:38.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm 8118. I believe that one day cats will rule this planet. I once got in a fight with a rhino, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "7374@7",
+  "sire": "7407@6",
+  "children": [
+    "9750@11",
+    "28746@22",
+    "29422@16",
+    "52760@9",
+    "79802@9",
+    "99903@12",
+    "184495@21",
+    "193797@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

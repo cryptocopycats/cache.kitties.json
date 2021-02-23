@@ -1,0 +1,23 @@
+{
+  "id": 9665,
+  "name": "Green Maw",
+  "generation": 12,
+  "created_at": "2017-11-28T05:57:59.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Green Maw. I enjoy riding unicorns, breakdancing, and licking doorknobs. Sometimes I daydream of a life full of eating lasagna, ice cream, and swiping left. Let's pawty!",
+  "language": "en",
+  "matron": "6310@10",
+  "sire": "6948@11",
+  "children": [
+    "12691@14",
+    "15348@14",
+    "16403@15",
+    "22042@14",
+    "26967@13",
+    "74221@13",
+    "141163@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

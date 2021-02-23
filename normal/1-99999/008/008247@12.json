@@ -1,0 +1,18 @@
+{
+  "id": 8247,
+  "name": "Hermione",
+  "generation": 12,
+  "created_at": "2017-11-26T11:48:14.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Hermione. I'm often referred to as the Hermione Granger of the group. It's not common knowledge, but my ancestry connects me to Cleopatra. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3421@5",
+  "sire": "5750@11",
+  "children": [
+    "8825@13",
+    "60544@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

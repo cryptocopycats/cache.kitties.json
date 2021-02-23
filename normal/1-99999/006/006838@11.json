@@ -1,0 +1,22 @@
+{
+  "id": 6838,
+  "name": "Gen 11",
+  "generation": 11,
+  "created_at": "2017-11-25T09:47:16.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Gen 11. I once peed on Confucius's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Confucius. Will you be the marmite to my maple syrup?",
+  "language": "en",
+  "matron": "4857@9",
+  "sire": "5516@10",
+  "children": [
+    "39430@12",
+    "50680@12",
+    "57937@12",
+    "69680@12",
+    "90007@12",
+    "92518@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

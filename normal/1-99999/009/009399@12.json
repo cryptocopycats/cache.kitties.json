@@ -1,0 +1,20 @@
+{
+  "id": 9399,
+  "name": "Bubblegum Bruiser",
+  "generation": 12,
+  "created_at": "2017-11-27T22:11:55.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Bubblegum Bruiser. I'm a Train Conductor by day, and I like people-watching by night. I once dreamed of being a Dogwalker. Now I can be found mocking dogs all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7017@1",
+  "sire": "5249@11",
+  "children": [
+    "9484@13",
+    "49221@13",
+    "101561@21",
+    "500572@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

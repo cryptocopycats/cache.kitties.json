@@ -1,0 +1,21 @@
+{
+  "id": 7285,
+  "name": "Kitty #7285",
+  "generation": 7,
+  "created_at": "2017-11-25T18:51:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #7285. I'm a professional Foreign Film Director and I love ice cream. Sometimes I daydream of a life full of fighting for the people, cantaloupe, and prank-calling celebrities. I like your face.",
+  "language": "en",
+  "matron": "3205@6",
+  "sire": "6108@3",
+  "children": [
+    "7625@15",
+    "7653@13",
+    "70230@8",
+    "164813@16",
+    "254280@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

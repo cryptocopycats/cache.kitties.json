@@ -1,0 +1,20 @@
+{
+  "id": 9118,
+  "name": "Tootin' Poops",
+  "generation": 11,
+  "created_at": "2017-11-27T11:40:14.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Tootin' Poops. I've never told anyone this, but I once loved a dog. I once loved a rhino. I don't like to talk about it. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "4363@10",
+  "sire": "8200@9",
+  "children": [
+    "9683@12",
+    "50183@12",
+    "54682@13",
+    "65578@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

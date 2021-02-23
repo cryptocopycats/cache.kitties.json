@@ -1,0 +1,17 @@
+{
+  "id": 7867,
+  "name": "7867 - One Child",
+  "generation": 10,
+  "created_at": "2017-11-26T04:38:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm 7867 - One Child. My friends describe me as gorgeous and preposterous. I put wasabi on everything. Like, everything: hot dogs, cantaloupe—everything! Will you be the soy sauce to my ranch dressing?",
+  "language": "en",
+  "matron": "2542@0",
+  "sire": "7804@9",
+  "children": [
+    "60280@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

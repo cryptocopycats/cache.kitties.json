@@ -1,0 +1,26 @@
+{
+  "id": 7095,
+  "name": "Purrto",
+  "generation": 1,
+  "created_at": "2017-11-25T15:11:11.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Purrto. I'm often referred to as the Niles Crane of the group. I once dreamed of being a Ventriloquist. Now I can be found volunteering at the local kitten rescue shelter all day. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "2541@0",
+  "sire": "2538@0",
+  "children": [
+    "7105@2",
+    "10321@6",
+    "10582@12",
+    "10605@12",
+    "12437@12",
+    "13378@16",
+    "14932@14",
+    "18460@14",
+    "116685@22",
+    "118590@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

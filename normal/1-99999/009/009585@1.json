@@ -1,0 +1,23 @@
+{
+  "id": 9585,
+  "name": "Gen 1 No.1",
+  "generation": 1,
+  "created_at": "2017-11-28T03:43:55.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 1 No.1. I'm a professional Dogwalker and I love salad. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "2615@0",
+  "sire": "2592@0",
+  "children": [
+    "83977@2",
+    "84609@2",
+    "86102@2",
+    "88876@2",
+    "93097@2",
+    "100740@2",
+    "174231@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

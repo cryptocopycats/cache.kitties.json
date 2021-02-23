@@ -1,0 +1,20 @@
+{
+  "id": 9387,
+  "name": "Professor Boots",
+  "generation": 17,
+  "created_at": "2017-11-27T21:52:53.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Professor Boots. I'm often referred to as the Hermione Granger of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "9216@15",
+  "sire": "9142@16",
+  "children": [
+    "9818@18",
+    "11413@18",
+    "20390@18",
+    "46861@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

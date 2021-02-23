@@ -1,0 +1,20 @@
+{
+  "id": 7706,
+  "name": "Early Gen",
+  "generation": 6,
+  "created_at": "2017-11-26T01:39:31.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Early Gen. I've never told anyone this, but I once licked a dog. I like to listen to Coldplay while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "1377@0",
+  "sire": "3448@5",
+  "children": [
+    "10437@16",
+    "45277@16",
+    "53650@7",
+    "57401@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

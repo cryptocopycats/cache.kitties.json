@@ -1,0 +1,23 @@
+{
+  "id": 6852,
+  "name": "Top 7000 Kitty",
+  "generation": 13,
+  "created_at": "2017-11-25T09:58:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Top 7000 Kitty. I'm a Mad Scientist by day, and I like siring for status by night. Some people say I'm the Frodo Baggins of the group. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "6023@1",
+  "sire": "6443@12",
+  "children": [
+    "7050@14",
+    "7188@14",
+    "7400@14",
+    "9019@14",
+    "9913@14",
+    "12412@14",
+    "31176@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

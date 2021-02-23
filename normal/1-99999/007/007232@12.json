@@ -1,0 +1,21 @@
+{
+  "id": 7232,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-25T18:09:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! My name's Kitty #7232. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I put marmite on everything. Like, everything: hot dogs, cantaloupe—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "2669@0",
+  "sire": "5168@11",
+  "children": [
+    "9842@13",
+    "17666@13",
+    "19233@13",
+    "59760@14",
+    "60473@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

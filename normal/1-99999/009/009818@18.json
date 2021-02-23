@@ -1,0 +1,19 @@
+{
+  "id": 9818,
+  "name": "Sir Stash",
+  "generation": 18,
+  "created_at": "2017-11-28T08:37:53.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Sir Stash here. I'm here to enjoy glaring at the neighbour's cat and sweating through my feet. When no one's home, I invite my pals over and we listen to Coldplay. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "7967@16",
+  "sire": "9387@17",
+  "children": [
+    "12661@19",
+    "18561@19",
+    "91037@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

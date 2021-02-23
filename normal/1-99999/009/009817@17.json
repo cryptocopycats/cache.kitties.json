@@ -1,0 +1,18 @@
+{
+  "id": 9817,
+  "name": "Zelda Magestic",
+  "generation": 17,
+  "created_at": "2017-11-28T08:35:38.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Zelda Magestic. I'm often referred to as the Chandler Bing of the group. When no one's home, I invite my pals over and we listen to Ace of Base. Will you be the pickles to my peanut butter?",
+  "language": "en",
+  "matron": "3137@4",
+  "sire": "7596@16",
+  "children": [
+    "10224@18",
+    "11859@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

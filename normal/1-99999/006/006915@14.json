@@ -1,0 +1,19 @@
+{
+  "id": 6915,
+  "name": "Simba",
+  "generation": 14,
+  "created_at": "2017-11-25T10:54:43.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Simba. My friends describe me as gullible and wondrous. In my free time, I can usually be found raunchy or prank-calling celebrities. Let's get busy!",
+  "language": "en",
+  "matron": "4922@9",
+  "sire": "4864@13",
+  "children": [
+    "10819@15",
+    "11827@15",
+    "16426@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

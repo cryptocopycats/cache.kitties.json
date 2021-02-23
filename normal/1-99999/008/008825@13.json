@@ -1,0 +1,21 @@
+{
+  "id": 8825,
+  "name": "Good kitty",
+  "generation": 13,
+  "created_at": "2017-11-27T03:31:13.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's Good kitty. I once peed on John F. Kennedy Jr.'s cat. They had it coming. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8341@11",
+  "sire": "8247@12",
+  "children": [
+    "9524@14",
+    "12179@15",
+    "13803@14",
+    "19918@17",
+    "27677@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8849,
+  "name": "Stinky Burp Burt",
+  "generation": 14,
+  "created_at": "2017-11-27T04:10:17.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Stinky Burp Burt. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "language": "en",
+  "matron": "8820@1",
+  "sire": "8835@13",
+  "children": [
+    "10570@15",
+    "17119@15",
+    "25178@15",
+    "197066@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7631,
+  "name": "Gen 5 | Calicool Limegreen",
+  "generation": 5,
+  "created_at": "2017-11-26T00:20:52.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Gen 5 | Calicool Limegreen. I believe the world is flat. I am 47% wizard, 13% Dispensary Clerk, and otherwise bad at math. Will you be the ghost pepper hot sauce to my cinammon?",
+  "language": "en",
+  "matron": "3335@1",
+  "sire": "6262@4",
+  "children": [
+    "9505@16",
+    "9852@6",
+    "9911@15",
+    "10042@16",
+    "10253@13",
+    "12424@7",
+    "14968@17",
+    "83789@6",
+    "156464@6",
+    "242405@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

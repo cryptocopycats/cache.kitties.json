@@ -1,0 +1,24 @@
+{
+  "id": 7732,
+  "name": "Pretty",
+  "generation": 9,
+  "created_at": "2017-11-26T02:01:37.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Pretty. I'm often referred to as the Michael Scott of the group. I once made a rabbit kiss. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "7215@8",
+  "sire": "6963@7",
+  "children": [
+    "9835@10",
+    "10129@10",
+    "36690@10",
+    "52346@15",
+    "159054@15",
+    "184517@15",
+    "260901@21",
+    "492593@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

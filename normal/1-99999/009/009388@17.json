@@ -1,0 +1,19 @@
+{
+  "id": 9388,
+  "name": "#4 Wingtips",
+  "generation": 17,
+  "created_at": "2017-11-27T21:55:27.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm #4 Wingtips. I'm often referred to as the Jon Snow of the group. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "9353@10",
+  "sire": "9347@16",
+  "children": [
+    "9756@18",
+    "11194@18",
+    "26860@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

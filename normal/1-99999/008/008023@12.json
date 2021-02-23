@@ -1,0 +1,19 @@
+{
+  "id": 8023,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-11-26T07:15:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #8023. In high school, I was voted biggest teacher's pet. I once made a chimpanzee lay. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "4139@5",
+  "sire": "4327@11",
+  "children": [
+    "18808@20",
+    "20434@15",
+    "22107@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

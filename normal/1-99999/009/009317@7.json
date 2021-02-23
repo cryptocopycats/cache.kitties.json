@@ -1,0 +1,20 @@
+{
+  "id": 9317,
+  "name": "Templar",
+  "generation": 7,
+  "created_at": "2017-11-27T18:55:05.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! Templar here. I'm here to enjoy taking selfies and being a nevernude. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I look forward to being a nevernude with you.",
+  "language": "en",
+  "matron": "3905@6",
+  "sire": "3204@1",
+  "children": [
+    "9373@8",
+    "9822@9",
+    "14504@12",
+    "50710@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7715,
+  "name": "Golden Starter",
+  "generation": 13,
+  "created_at": "2017-11-26T01:47:33.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Golden Starter. I want to live in a world where people believe the world is flat. I once got in a fight with a rabbit, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "7198@9",
+  "sire": "7583@12",
+  "children": [
+    "36876@14",
+    "52284@14",
+    "63370@14",
+    "293941@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8833,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-27T03:42:31.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Kitty #8833. I once peed on Confucius's cat. They had it coming. In my free time, I can usually be found preposterous or braiding people's hair. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "7779@13",
+  "sire": "5764@12",
+  "children": [
+    "9682@15",
+    "9800@19",
+    "10164@16",
+    "16866@18",
+    "28893@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

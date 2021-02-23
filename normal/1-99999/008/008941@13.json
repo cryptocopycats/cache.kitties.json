@@ -1,0 +1,22 @@
+{
+  "id": 8941,
+  "name": "GreenCat",
+  "generation": 13,
+  "created_at": "2017-11-27T06:24:55.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm GreenCat. I'm a professional Ventriloquist and I love wet food. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8852@12",
+  "sire": "3088@3",
+  "children": [
+    "9810@14",
+    "10750@18",
+    "14363@14",
+    "22131@20",
+    "26236@15",
+    "258732@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

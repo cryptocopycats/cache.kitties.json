@@ -1,0 +1,20 @@
+{
+  "id": 8565,
+  "name": "Bubblegum Breeder",
+  "generation": 13,
+  "created_at": "2017-11-26T20:24:04.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Bubblegum Breeder. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "7951@8",
+  "sire": "8482@12",
+  "children": [
+    "8790@15",
+    "10833@14",
+    "58527@14",
+    "66627@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7360,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-11-25T20:14:26.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #7360. I enjoy grooming, fighting for the people, and eating until I loathe myself. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "6210@7",
+  "sire": "4807@9",
+  "children": [
+    "7530@12",
+    "8921@11",
+    "15740@15",
+    "75986@17"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

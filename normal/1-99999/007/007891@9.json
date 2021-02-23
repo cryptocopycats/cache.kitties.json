@@ -1,0 +1,20 @@
+{
+  "id": 7891,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-26T04:57:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Kitty #7891. In high school, I was voted most likely to work at NASA. I'm often described as raunchy, and I own it. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "7539@2",
+  "sire": "7689@8",
+  "children": [
+    "9039@14",
+    "9259@15",
+    "9437@10",
+    "15604@13"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

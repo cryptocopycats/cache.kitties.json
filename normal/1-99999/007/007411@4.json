@@ -1,0 +1,20 @@
+{
+  "id": 7411,
+  "name": "GEN 4",
+  "generation": 4,
+  "created_at": "2017-11-25T21:26:41.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm GEN 4. My friends describe me as petulant and gullible. When I'm not swiping left, I'm braiding people's hair! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "6573@3",
+  "sire": "1069@0",
+  "children": [
+    "14316@9",
+    "14647@5",
+    "16813@5",
+    "18407@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 9247,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-27T16:23:53.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen 14. I'm a professional Dispensary Clerk and I love lasagna. I am 0% gremlin, 77% Dispensary Clerk, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5916@13",
+  "sire": "5402@10",
+  "children": [
+    "65303@15",
+    "72663@15",
+    "87273@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

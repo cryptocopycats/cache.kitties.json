@@ -1,0 +1,21 @@
+{
+  "id": 8138,
+  "name": "Cat Henry VIII | Gen 12 | Slug",
+  "generation": 12,
+  "created_at": "2017-11-26T09:21:08.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Cat Henry VIII | Gen 12 | Slug. In high school, I was voted school jock. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's pawty!",
+  "language": "en",
+  "matron": "6865@2",
+  "sire": "6932@11",
+  "children": [
+    "10411@13",
+    "11190@19",
+    "14478@13",
+    "50863@18",
+    "97349@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

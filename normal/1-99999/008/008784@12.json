@@ -1,0 +1,22 @@
+{
+  "id": 8784,
+  "name": "Eros",
+  "generation": 12,
+  "created_at": "2017-11-27T02:26:35.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Eros. I'm often referred to as the Bart Simpson of the group. I once made a dolphin play. Will you be the marmite to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "8253@9",
+  "sire": "8139@11",
+  "children": [
+    "11760@16",
+    "12914@13",
+    "15433@13",
+    "27010@13",
+    "85026@16",
+    "139030@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7551,
+  "name": "C | Gen 2",
+  "generation": 2,
+  "created_at": "2017-11-25T23:25:54.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm C | Gen 2. I'm a Dogwalker by day, and I like reading Danielle Steele by night. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5904@1",
+  "sire": "2066@0",
+  "children": [
+    "9464@18",
+    "48277@3",
+    "61017@3",
+    "86589@3",
+    "103343@4",
+    "105284@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

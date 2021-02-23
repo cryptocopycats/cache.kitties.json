@@ -1,0 +1,20 @@
+{
+  "id": 7195,
+  "name": "Gen 1 Swift - Grumpy Cat",
+  "generation": 1,
+  "created_at": "2017-11-25T17:26:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 1 Swift - Grumpy Cat. I'm a Train Conductor by day, and I like people-watching by night. I once made a goose drink. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "2723@0",
+  "sire": "2477@0",
+  "children": [
+    "7248@3",
+    "34818@7",
+    "90606@11",
+    "92340@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

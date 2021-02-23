@@ -1,0 +1,20 @@
+{
+  "id": 9980,
+  "name": "Phyrexian Meow",
+  "generation": 16,
+  "created_at": "2017-11-28T13:08:14.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Phyrexian Meow. I'm a Dogwalker by day, and I like riding the bus by night. Some people say I'm the Lisa Simpson of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "7892@15",
+  "sire": "5595@13",
+  "children": [
+    "12561@17",
+    "16919@17",
+    "20280@17",
+    "75015@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8100,
+  "name": "Snowy Whiskers",
+  "generation": 14,
+  "created_at": "2017-11-26T08:34:15.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Snowy Whiskers. I want to live in a world where people believe the world is flat. My secret indulgence is steak. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "7975@11",
+  "sire": "7981@13",
+  "children": [
+    "8696@16",
+    "9047@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

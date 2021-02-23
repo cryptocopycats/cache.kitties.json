@@ -1,0 +1,27 @@
+{
+  "id": 6989,
+  "name": "The Sloop John B",
+  "generation": 7,
+  "created_at": "2017-11-25T12:21:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! The Sloop John B here. I'm here to enjoy hitting on yo' man and eating until I loathe myself. It's not common knowledge, but my ancestry connects me to Marie Antoinette. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "5611@6",
+  "sire": "2253@0",
+  "children": [
+    "7004@8",
+    "8407@8",
+    "9212@8",
+    "74267@8",
+    "84157@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 22,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

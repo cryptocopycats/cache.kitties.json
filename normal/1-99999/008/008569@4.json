@@ -1,0 +1,18 @@
+{
+  "id": 8569,
+  "name": "Gio",
+  "generation": 4,
+  "created_at": "2017-11-26T20:35:55.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Gio. I believe the world is flat. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "2566@0",
+  "sire": "7110@3",
+  "children": [
+    "8911@10",
+    "10925@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8088,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-11-26T08:21:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #8088. My friends describe me as voluptuous and ridiculous. My friends describe me as \"petulant.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6803@13",
+  "sire": "7629@16",
+  "children": [
+    "8710@18",
+    "9049@18",
+    "9857@18",
+    "19235@20",
+    "78018@18",
+    "263656@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

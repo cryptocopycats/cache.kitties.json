@@ -1,0 +1,20 @@
+{
+  "id": 7853,
+  "name": "Vanilla Mocha",
+  "generation": 7,
+  "created_at": "2017-11-26T04:19:40.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Vanilla Mocha. I'm a Dogwalker by day, and I like mocking dogs by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Let's pawty!",
+  "language": "en",
+  "matron": "7610@6",
+  "sire": "6067@1",
+  "children": [
+    "7990@9",
+    "15292@15",
+    "52623@8",
+    "197894@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

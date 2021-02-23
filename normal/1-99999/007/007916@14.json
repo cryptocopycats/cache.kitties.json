@@ -1,0 +1,22 @@
+{
+  "id": 7916,
+  "name": "Grumpy Kat",
+  "generation": 14,
+  "created_at": "2017-11-26T05:16:17.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Grumpy Kat. I'm a Mad Scientist by day, and I like mocking dogs by night. When no one's home, I invite my pals over and we listen to Beyoncé. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "7711@13",
+  "sire": "6067@1",
+  "children": [
+    "7940@15",
+    "8323@15",
+    "9262@15",
+    "99882@15",
+    "122555@18",
+    "302479@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

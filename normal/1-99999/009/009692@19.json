@@ -1,0 +1,18 @@
+{
+  "id": 9692,
+  "name": "Lula Papaya",
+  "generation": 19,
+  "created_at": "2017-11-28T06:21:23.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Lula Papaya. I'm a Dispensary Clerk by day, and I like riding the bus by night. Sometimes I daydream of a life full of sitting on your computer, steak, and people-watching. Will you be the soy sauce to my peanut butter?",
+  "language": "en",
+  "matron": "9495@5",
+  "sire": "9510@18",
+  "children": [
+    "12086@20",
+    "25407@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

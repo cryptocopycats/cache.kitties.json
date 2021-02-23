@@ -1,0 +1,21 @@
+{
+  "id": 9295,
+  "name": "Snow White Overcoat",
+  "generation": 17,
+  "created_at": "2017-11-27T18:08:10.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Snow White Overcoat. I'm a Aerobics Athlete  by day, and I like volunteering at the local kitten rescue shelter by night. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "8479@16",
+  "sire": "8674@13",
+  "children": [
+    "9649@18",
+    "10387@18",
+    "15207@18",
+    "26418@18",
+    "38063@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

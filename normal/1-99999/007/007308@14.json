@@ -1,0 +1,20 @@
+{
+  "id": 7308,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-11-25T19:12:21.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 14. My friends describe me as gullible and vegan. I once got in a fight with a gecko, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "6696@11",
+  "sire": "6845@13",
+  "children": [
+    "12342@16",
+    "12453@15",
+    "19496@17",
+    "60845@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9681,
+  "name": "HappyShooter",
+  "generation": 12,
+  "created_at": "2017-11-28T06:09:18.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm HappyShooter. My friends describe me as ridiculous and hairy. I once got in a fight with a rhino, and won. Our friendship will be ridiculous, hairy, and full of hamburgers.",
+  "language": "en",
+  "matron": "8021@11",
+  "sire": "9428@9",
+  "children": [
+    "48475@15",
+    "151465@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

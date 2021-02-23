@@ -1,0 +1,19 @@
+{
+  "id": 6809,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-11-25T09:19:17.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! My name's Kitty #6809. I once peed on King Henry VIII's cat. They had it coming. I once pranced with a gecko. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "2042@0",
+  "sire": "4750@13",
+  "children": [
+    "6885@15",
+    "10037@15",
+    "48259@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

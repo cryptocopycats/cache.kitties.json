@@ -1,0 +1,22 @@
+{
+  "id": 8381,
+  "name": "Fred",
+  "generation": 14,
+  "created_at": "2017-11-26T14:59:59.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Fred. My friends describe me as gorgeous and despicable. My secret indulgence is cantaloupe. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4315@13",
+  "sire": "7094@6",
+  "children": [
+    "10967@15",
+    "11926@15",
+    "15535@15",
+    "21342@15",
+    "36818@15",
+    "140854@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

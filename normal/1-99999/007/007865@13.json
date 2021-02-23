@@ -1,0 +1,17 @@
+{
+  "id": 7865,
+  "name": "Hacker Jack",
+  "generation": 13,
+  "created_at": "2017-11-26T04:37:10.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Hacker Jack. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"brilliant.\" It's... accurate. Will you be the maple syrup to my peanut butter?",
+  "language": "en",
+  "matron": "7547@12",
+  "sire": "7447@7",
+  "children": [
+    "8812@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

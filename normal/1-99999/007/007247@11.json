@@ -1,0 +1,17 @@
+{
+  "id": 7247,
+  "name": "La Vie En Rose",
+  "generation": 11,
+  "created_at": "2017-11-25T18:21:57.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm La Vie En Rose. I'm a Dispensary Clerk by day, and I like tricking babies by night. When I'm not sleeping in fresh laundry, I'm swiping right! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6870@2",
+  "sire": "7235@10",
+  "children": [
+    "7267@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

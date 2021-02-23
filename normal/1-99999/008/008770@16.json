@@ -1,0 +1,19 @@
+{
+  "id": 8770,
+  "name": "8770",
+  "generation": 16,
+  "created_at": "2017-11-27T02:11:11.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm 8770. I want to live in a world where people believe that one day cats will rule this planet. I once clawed a rhino. I don't like to talk about it. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "7940@15",
+  "sire": "8492@10",
+  "children": [
+    "8860@17",
+    "9623@17",
+    "58089@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

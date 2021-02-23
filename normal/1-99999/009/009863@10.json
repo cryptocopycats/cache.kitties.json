@@ -1,0 +1,19 @@
+{
+  "id": 9863,
+  "name": "skyblue g10",
+  "generation": 10,
+  "created_at": "2017-11-28T09:25:24.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! skyblue g10 here. I'm here to enjoy watching Stranger Things and glaring at the neighbour's cat. My secret indulgence is cereal. Will you be the marmalade to my peanut butter?",
+  "language": "en",
+  "matron": "8071@9",
+  "sire": "9829@1",
+  "children": [
+    "10401@11",
+    "15039@11",
+    "32369@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

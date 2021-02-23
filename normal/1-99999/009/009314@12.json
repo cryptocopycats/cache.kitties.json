@@ -1,0 +1,20 @@
+{
+  "id": 9314,
+  "name": "LittyKitty",
+  "generation": 12,
+  "created_at": "2017-11-27T18:50:54.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm LittyKitty. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a rooster, and won. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "8379@11",
+  "sire": "9176@7",
+  "children": [
+    "10166@13",
+    "10711@13",
+    "60653@13",
+    "83145@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

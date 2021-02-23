@@ -1,0 +1,20 @@
+{
+  "id": 9671,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-28T06:04:20.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty #9671. I've never told anyone this, but I once tricked a dog. I am 25% sphinx, 93% Skydiving Instructor, and otherwise bad at math. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "8015@10",
+  "sire": "7778@14",
+  "children": [
+    "10900@17",
+    "12288@21",
+    "15152@16",
+    "23548@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

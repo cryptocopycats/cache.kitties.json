@@ -1,0 +1,21 @@
+{
+  "id": 7807,
+  "name": "Burgers",
+  "generation": 15,
+  "created_at": "2017-11-26T03:31:31.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Burgers. I've never told anyone this, but I once pranced with a dog. My secret indulgence is cantaloupe. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "7563@14",
+  "sire": "7315@11",
+  "children": [
+    "10713@16",
+    "11683@16",
+    "16112@16",
+    "104623@23",
+    "135165@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

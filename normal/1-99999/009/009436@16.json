@@ -1,0 +1,21 @@
+{
+  "id": 9436,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-11-27T23:18:11.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Kitty #9436. In high school, I was voted biggest teacher's pet. I'm convinced that the world is flat. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "6982@15",
+  "sire": "8287@14",
+  "children": [
+    "10780@17",
+    "12710@17",
+    "21565@20",
+    "44982@17",
+    "62361@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

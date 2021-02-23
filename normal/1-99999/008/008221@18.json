@@ -1,0 +1,21 @@
+{
+  "id": 8221,
+  "name": "Hamburger",
+  "generation": 18,
+  "created_at": "2017-11-26T11:02:52.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Hamburger. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. My secret indulgence is hamburgers. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "3031@1",
+  "sire": "8189@17",
+  "children": [
+    "11195@19",
+    "21137@19",
+    "121293@19",
+    "246431@19",
+    "274418@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

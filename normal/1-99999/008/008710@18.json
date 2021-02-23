@@ -1,0 +1,20 @@
+{
+  "id": 8710,
+  "name": "Yellow-Ish",
+  "generation": 18,
+  "created_at": "2017-11-27T00:36:26.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Yellow-Ish. I'm a Aerobics Athlete  by day, and I like reading Danielle Steele by night. Sometimes I daydream of a life full of riding unicorns, ice cream, and prank-calling celebrities. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "5163@13",
+  "sire": "8088@17",
+  "children": [
+    "12162@19",
+    "17596@19",
+    "29468@19",
+    "54927@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

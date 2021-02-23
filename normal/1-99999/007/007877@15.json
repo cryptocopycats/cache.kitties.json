@@ -1,0 +1,18 @@
+{
+  "id": 7877,
+  "name": "Gardenette",
+  "generation": 15,
+  "created_at": "2017-11-26T04:48:32.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gardenette. I've never told anyone this, but I once pranced with a dog. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, ice cream—everything! Will you be the cinammon to my ranch dressing?",
+  "language": "en",
+  "matron": "6150@14",
+  "sire": "6414@13",
+  "children": [
+    "14472@16",
+    "40050@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

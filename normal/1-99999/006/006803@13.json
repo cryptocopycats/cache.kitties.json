@@ -1,0 +1,23 @@
+{
+  "id": 6803,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-25T09:13:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #6803. I believe the world is flat. When no one's home, I invite my pals over and we listen to Beyoncé. I like your face.",
+  "language": "en",
+  "matron": "6506@12",
+  "sire": "6568@9",
+  "children": [
+    "7600@14",
+    "8088@17",
+    "8155@14",
+    "8287@14",
+    "10576@14",
+    "20149@14",
+    "71123@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

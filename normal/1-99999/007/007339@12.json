@@ -1,0 +1,20 @@
+{
+  "id": 7339,
+  "name": "Smitten",
+  "generation": 12,
+  "created_at": "2017-11-25T19:55:04.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Smitten. I'm a professional Train Conductor and I love cantaloupe. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "7273@11",
+  "sire": "2100@0",
+  "children": [
+    "11439@13",
+    "16277@13",
+    "19902@15",
+    "21830@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

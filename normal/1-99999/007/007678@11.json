@@ -1,0 +1,18 @@
+{
+  "id": 7678,
+  "name": "Purbluet",
+  "generation": 11,
+  "created_at": "2017-11-26T01:06:21.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Purbluet. All you need to know about me is I hate steak with a passion. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Let's get busy!",
+  "language": "en",
+  "matron": "6275@7",
+  "sire": "6542@10",
+  "children": [
+    "13283@12",
+    "55410@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

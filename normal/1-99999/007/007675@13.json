@@ -1,0 +1,19 @@
+{
+  "id": 7675,
+  "name": "Boop",
+  "generation": 13,
+  "created_at": "2017-11-26T01:03:21.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Boop. I'm a Private Dancer  by day, and I like practicing witchcraft by night. I like to listen to Mariah Carey while grooming. Don't judge me. Our friendship will be fabulous, hairy, and full of lasagna.",
+  "language": "en",
+  "matron": "6484@12",
+  "sire": "6554@11",
+  "children": [
+    "10325@14",
+    "13837@14",
+    "40825@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

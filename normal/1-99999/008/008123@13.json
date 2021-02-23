@@ -1,0 +1,19 @@
+{
+  "id": 8123,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T08:58:14.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #8123. I've never told anyone this, but I once clawed a dog. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "5141@12",
+  "sire": "5808@11",
+  "children": [
+    "10510@14",
+    "11601@16",
+    "11678@14"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

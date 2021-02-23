@@ -1,0 +1,22 @@
+{
+  "id": 6880,
+  "name": "Pubico",
+  "generation": 14,
+  "created_at": "2017-11-25T10:21:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Pubico. All you need to know about me is I hate lasagna with a passion. My secret indulgence is wet food. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "6280@12",
+  "sire": "6312@13",
+  "children": [
+    "12602@15",
+    "13101@15",
+    "14550@15",
+    "18157@15",
+    "24099@15",
+    "75748@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

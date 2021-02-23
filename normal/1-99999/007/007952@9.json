@@ -1,0 +1,21 @@
+{
+  "id": 7952,
+  "name": "CowCat Parent",
+  "generation": 9,
+  "created_at": "2017-11-26T06:13:34.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! CowCat Parent here. I'm here to enjoy fighting for the people and fighting the patriarchy. My secret indulgence is apple pie. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "6344@8",
+  "sire": "6526@6",
+  "children": [
+    "8014@12",
+    "8437@15",
+    "8775@15",
+    "9006@15",
+    "15391@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7606,
+  "name": "9",
+  "generation": 9,
+  "created_at": "2017-11-26T00:05:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm 9. All you need to know about me is I hate steak with a passion. I am 60% gremlin, 95% Train Conductor, and otherwise bad at math. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "6605@8",
+  "sire": "4396@8",
+  "children": [
+    "7785@10",
+    "7849@13",
+    "8700@14",
+    "9082@12",
+    "9811@13",
+    "13773@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

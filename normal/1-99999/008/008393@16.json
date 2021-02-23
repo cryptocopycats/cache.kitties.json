@@ -1,0 +1,20 @@
+{
+  "id": 8393,
+  "name": "Meowthew",
+  "generation": 16,
+  "created_at": "2017-11-26T15:24:38.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Meowthew. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Frank Sinatra. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "7619@15",
+  "sire": "7723@15",
+  "children": [
+    "39747@20",
+    "85511@17",
+    "90004@23",
+    "116479@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

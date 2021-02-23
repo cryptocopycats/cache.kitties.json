@@ -1,0 +1,21 @@
+{
+  "id": 8417,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-11-26T16:02:20.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #8417. I enjoy riding unicorns, chasing string, and fighting for the people. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "4282@3",
+  "sire": "3074@2",
+  "children": [
+    "8457@5",
+    "10525@5",
+    "74416@22",
+    "95265@11",
+    "233685@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

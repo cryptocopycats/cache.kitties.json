@@ -1,0 +1,23 @@
+{
+  "id": 6690,
+  "name": "Tiger",
+  "generation": 15,
+  "created_at": "2017-11-25T07:40:52.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Tiger. I believe that one day cats will rule this planet. My secret indulgence is apple pie. Let's pawty!",
+  "language": "en",
+  "matron": "5964@13",
+  "sire": "6289@14",
+  "children": [
+    "9715@16",
+    "14352@16",
+    "19164@16",
+    "33103@18",
+    "44609@20",
+    "106076@21",
+    "390406@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

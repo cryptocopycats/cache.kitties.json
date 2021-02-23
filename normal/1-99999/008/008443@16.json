@@ -1,0 +1,20 @@
+{
+  "id": 8443,
+  "name": "8442",
+  "generation": 16,
+  "created_at": "2017-11-26T16:37:16.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 8442. My friends describe me as smelly and ridiculous. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "6543@2",
+  "sire": "5304@15",
+  "children": [
+    "8892@17",
+    "9024@17",
+    "13992@17",
+    "68456@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

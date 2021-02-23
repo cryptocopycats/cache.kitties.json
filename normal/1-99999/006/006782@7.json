@@ -1,0 +1,20 @@
+{
+  "id": 6782,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-11-25T09:01:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #6782. I'm a Aerobics Athlete  by day, and I like summoning ghosts by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "language": "en",
+  "matron": "4548@6",
+  "sire": "2621@0",
+  "children": [
+    "6840@8",
+    "10168@8",
+    "13400@17",
+    "147878@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

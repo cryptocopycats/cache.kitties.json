@@ -1,0 +1,19 @@
+{
+  "id": 9204,
+  "name": "BLU BOI",
+  "generation": 19,
+  "created_at": "2017-11-27T14:47:44.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm BLU BOI. I enjoy reading garfield, picking flowers, and tripping my owner. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "8575@18",
+  "sire": "8577@17",
+  "children": [
+    "9807@20",
+    "13235@20",
+    "51948@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

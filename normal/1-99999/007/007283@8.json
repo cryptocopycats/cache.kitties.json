@@ -1,0 +1,23 @@
+{
+  "id": 7283,
+  "name": "Hits Biggington",
+  "generation": 8,
+  "created_at": "2017-11-25T18:51:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Hits Biggington. I'm a Aerobics Athlete  by day, and I like pole dancing by night. I am 33% oracle, 48% Aerobics Athlete , and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "2592@0",
+  "sire": "5720@7",
+  "children": [
+    "10414@10",
+    "10561@10",
+    "10823@9",
+    "11328@9",
+    "11974@10",
+    "16575@9",
+    "53984@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

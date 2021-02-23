@@ -1,0 +1,21 @@
+{
+  "id": 7548,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-11-25T23:21:48.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #7548. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Mariah Carey. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "3407@6",
+  "sire": "6843@8",
+  "children": [
+    "7672@11",
+    "7824@14",
+    "8038@11",
+    "20190@14",
+    "21965@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

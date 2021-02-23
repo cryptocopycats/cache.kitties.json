@@ -1,0 +1,18 @@
+{
+  "id": 8026,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-11-26T07:15:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #8026. I want to live in a world where people believe that one day cats will rule this planet. When I'm not swiping left, I'm swiping right! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "3995@11",
+  "sire": "5610@14",
+  "children": [
+    "21062@17",
+    "21966@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

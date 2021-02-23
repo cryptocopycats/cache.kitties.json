@@ -1,0 +1,19 @@
+{
+  "id": 9934,
+  "name": "Katz",
+  "generation": 20,
+  "created_at": "2017-11-28T11:35:20.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Katz. I'm a Dogwalker by day, and I like mocking dogs by night. When no one's home, I invite my pals over and we listen to Gloria Estefan. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "9826@13",
+  "sire": "8067@19",
+  "children": [
+    "11402@21",
+    "27433@21",
+    "152004@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

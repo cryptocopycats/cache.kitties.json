@@ -1,0 +1,19 @@
+{
+  "id": 9002,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-27T07:54:21.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #9002. My friends describe me as vegan and stinky. I once made a rooster grimace. Can you make my ridiculous dreams come true?",
+  "language": "en",
+  "matron": "7530@12",
+  "sire": "6066@9",
+  "children": [
+    "9459@17",
+    "9567@14",
+    "10808@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8174,
+  "name": "Snow White",
+  "generation": 12,
+  "created_at": "2017-11-26T10:12:24.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Snow White. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of breakdancing, lasagna, and volunteering at the local kitten rescue shelter. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "8113@11",
+  "sire": "7395@11",
+  "children": [
+    "8606@13",
+    "8780@13",
+    "102826@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7686,
+  "name": "Dr Dance Pants",
+  "generation": 7,
+  "created_at": "2017-11-26T01:20:28.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Dr Dance Pants. I'm a Foreign Film Director by day, and I like running a podcast by night. In my free time, I can usually be found brilliant or pole dancing. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "7610@6",
+  "sire": "2542@0",
+  "children": [
+    "7708@8",
+    "7745@8",
+    "7822@13",
+    "7932@8",
+    "8164@8",
+    "8592@16",
+    "9305@8",
+    "70778@8",
+    "75879@9",
+    "303327@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

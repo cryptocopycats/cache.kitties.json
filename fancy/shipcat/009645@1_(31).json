@@ -1,0 +1,32 @@
+{
+  "id": 9645,
+  "name": "Sailor Moon-1-PK/ST",
+  "generation": 1,
+  "created_at": "2017-11-28T05:33:38.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! Sailor Moon-1-PK/ST here. I'm here to enjoy taking selfies and fighting for the people. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "2732@0",
+  "sire": "2728@0",
+  "children": [
+    "9886@16",
+    "10035@14",
+    "10129@10",
+    "10270@9",
+    "10969@18",
+    "11597@14",
+    "12754@3",
+    "23199@11",
+    "25115@16",
+    "180410@2"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 31,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

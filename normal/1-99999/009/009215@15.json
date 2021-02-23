@@ -1,0 +1,22 @@
+{
+  "id": 9215,
+  "name": "The blind tiger",
+  "generation": 15,
+  "created_at": "2017-11-27T15:09:58.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm The blind tiger. I'm often referred to as the Jon Snow of the group. In my free time, I can usually be found preposterous or people-watching. Our friendship will be fabulous, despicable, and full of salad.",
+  "language": "en",
+  "matron": "8155@14",
+  "sire": "7332@10",
+  "children": [
+    "9912@16",
+    "20038@16",
+    "21437@16",
+    "70349@16",
+    "123067@18",
+    "364148@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

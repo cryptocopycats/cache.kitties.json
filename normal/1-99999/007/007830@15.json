@@ -1,0 +1,20 @@
+{
+  "id": 7830,
+  "name": "Turnip",
+  "generation": 15,
+  "created_at": "2017-11-26T03:45:00.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Turnip. I enjoy tripping my owner, being a nevernude, and riding unicorns. I'm often described as gullible, and I own it. I like your face.",
+  "language": "en",
+  "matron": "6067@1",
+  "sire": "7809@14",
+  "children": [
+    "7948@16",
+    "8583@16",
+    "68470@16",
+    "105252@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

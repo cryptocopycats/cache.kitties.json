@@ -1,0 +1,23 @@
+{
+  "id": 6960,
+  "name": "Dali Parent",
+  "generation": 11,
+  "created_at": "2017-11-25T11:48:08.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Dali Parent. I'm a professional Dogwalker and I love wet food. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "2376@0",
+  "sire": "6804@10",
+  "children": [
+    "11498@12",
+    "12591@12",
+    "15767@13",
+    "16756@12",
+    "26101@17",
+    "38980@17",
+    "75650@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

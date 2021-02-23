@@ -1,0 +1,19 @@
+{
+  "id": 8513,
+  "name": "Itty Bitty Titty Kitty",
+  "generation": 9,
+  "created_at": "2017-11-26T18:40:54.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Itty Bitty Titty Kitty. I'm a professional Train Conductor and I love hamburgers. I once got in a fight with a chimpanzee, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "5823@8",
+  "sire": "1285@0",
+  "children": [
+    "8684@10",
+    "31685@10",
+    "48930@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

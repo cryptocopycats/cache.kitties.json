@@ -1,0 +1,21 @@
+{
+  "id": 8448,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-11-26T16:49:26.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 12. All you need to know about me is I hate wet food with a passion. I once loved a chimpanzee. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "6668@11",
+  "sire": "5402@10",
+  "children": [
+    "8791@14",
+    "9219@13",
+    "9319@19",
+    "64532@13",
+    "93493@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

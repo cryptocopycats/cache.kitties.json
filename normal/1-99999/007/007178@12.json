@@ -1,0 +1,22 @@
+{
+  "id": 7178,
+  "name": "Mme Lunette G12C6",
+  "generation": 12,
+  "created_at": "2017-11-25T17:01:03.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Mme Lunette G12C6. I've never told anyone this, but I once snuggled a dog. I put soy sauce on everything. Like, everything: hot dogs, cereal—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5743@9",
+  "sire": "5535@11",
+  "children": [
+    "7496@13",
+    "7759@13",
+    "8499@13",
+    "9182@14",
+    "10253@13",
+    "11496@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8246,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-26T11:48:14.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #8246. My friends describe me as brilliant and prickly. I once got in a fight with a rabbit, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "8154@12",
+  "sire": "8127@9",
+  "children": [
+    "9651@14",
+    "97714@16",
+    "137292@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7001,
+  "name": "Firsty",
+  "generation": 1,
+  "created_at": "2017-11-25T12:51:51.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Firsty. I'm a professional Dispensary Clerk and I love cereal. I'm often described as prickly, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2738@0",
+  "sire": "2676@0",
+  "children": [
+    "7011@2",
+    "9552@13",
+    "12019@8",
+    "12486@8",
+    "13262@14",
+    "13762@11",
+    "14463@7",
+    "21325@6",
+    "23724@2",
+    "23888@15",
+    "32846@2",
+    "84518@2",
+    "136933@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

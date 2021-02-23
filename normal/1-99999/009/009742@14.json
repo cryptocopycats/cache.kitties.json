@@ -1,0 +1,22 @@
+{
+  "id": 9742,
+  "name": "Johnny Hallyday",
+  "generation": 14,
+  "created_at": "2017-11-28T07:08:32.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's Johnny Hallyday. I once peed on Nelson Mandela's cat. They had it coming. I put ranch dressing on everything. Like, everything: hot dogs, salad—everything! I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "9600@13",
+  "sire": "8341@11",
+  "children": [
+    "12250@15",
+    "15689@15",
+    "61515@15",
+    "239333@18",
+    "274381@18",
+    "1504357@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

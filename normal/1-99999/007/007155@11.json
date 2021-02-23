@@ -1,0 +1,19 @@
+{
+  "id": 7155,
+  "name": "NASAkitty",
+  "generation": 11,
+  "created_at": "2017-11-25T16:44:00.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm NASAkitty. All you need to know about me is I hate ice cream with a passion. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "6561@5",
+  "sire": "7143@10",
+  "children": [
+    "7161@12",
+    "11290@14",
+    "21657@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

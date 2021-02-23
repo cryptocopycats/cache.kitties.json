@@ -1,0 +1,19 @@
+{
+  "id": 9272,
+  "name": "Milo",
+  "generation": 20,
+  "created_at": "2017-11-27T17:08:08.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Milo. I'm a Skydiving Instructor by day, and I like jump-roping by night. I'm often described as ridiculous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "8719@19",
+  "sire": "7163@15",
+  "children": [
+    "17632@21",
+    "48463@21",
+    "422240@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

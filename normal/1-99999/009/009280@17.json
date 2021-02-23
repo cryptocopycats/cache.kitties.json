@@ -1,0 +1,19 @@
+{
+  "id": 9280,
+  "name": "CatEther",
+  "generation": 17,
+  "created_at": "2017-11-27T17:35:52.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm CatEther. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of sitting on your computer, wet food, and swiping right. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7671@16",
+  "sire": "7837@9",
+  "children": [
+    "66233@18",
+    "87938@18",
+    "116166@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

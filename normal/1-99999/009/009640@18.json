@@ -1,0 +1,17 @@
+{
+  "id": 9640,
+  "name": "Shining",
+  "generation": 18,
+  "created_at": "2017-11-28T05:23:42.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Shining. I'm a professional Ventriloquist and I love apple pie. My friends describe me as \"gullible.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "7412@15",
+  "sire": "7647@17",
+  "children": [
+    "18003@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

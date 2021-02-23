@@ -1,0 +1,20 @@
+{
+  "id": 7080,
+  "name": "Chocolate",
+  "generation": 14,
+  "created_at": "2017-11-25T14:51:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Chocolate. I'm a Dispensary Clerk by day, and I like people-watching by night. I once dreamed of being a Aerobics Athlete . Now I can be found tricking babies all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "6937@13",
+  "sire": "6377@11",
+  "children": [
+    "8233@15",
+    "11832@15",
+    "15860@18",
+    "53787@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

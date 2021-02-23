@@ -1,0 +1,21 @@
+{
+  "id": 7042,
+  "name": "Moo (V)",
+  "generation": 15,
+  "created_at": "2017-11-25T13:48:49.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Moo (V). My friends describe me as tantalizing and vegan. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can you make my petulant dreams come true?",
+  "language": "en",
+  "matron": "5872@8",
+  "sire": "6242@14",
+  "children": [
+    "89401@19",
+    "91939@16",
+    "140125@18",
+    "208035@20",
+    "296036@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6534,
+  "name": "gen9 / cymric / brisk",
+  "generation": 9,
+  "created_at": "2017-11-25T06:02:25.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm gen9 / cymric / brisk. I enjoy reading garfield, glaring at the neighbour's cat, and reciting poetry. I am 84% hobbit, 87% Skydiving Instructor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "5364@2",
+  "sire": "6193@8",
+  "children": [
+    "10838@10",
+    "11913@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

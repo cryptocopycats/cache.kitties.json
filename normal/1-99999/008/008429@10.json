@@ -1,0 +1,21 @@
+{
+  "id": 8429,
+  "name": "Catú",
+  "generation": 10,
+  "created_at": "2017-11-26T16:19:52.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Catú. I'm often referred to as the Samwise Gamgee of the group. I like to listen to Wutang while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "4255@8",
+  "sire": "7244@9",
+  "children": [
+    "8477@11",
+    "8709@13",
+    "8757@12",
+    "9820@14",
+    "60418@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

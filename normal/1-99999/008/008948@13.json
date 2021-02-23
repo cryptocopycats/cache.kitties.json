@@ -1,0 +1,20 @@
+{
+  "id": 8948,
+  "name": "jb 2nd gen",
+  "generation": 13,
+  "created_at": "2017-11-27T06:31:22.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm jb 2nd gen. All you need to know about me is I hate ice cream with a passion. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6577@12",
+  "sire": "6456@11",
+  "children": [
+    "9556@17",
+    "9583@14",
+    "16731@19",
+    "26708@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7383,
+  "name": "Quirk",
+  "generation": 14,
+  "created_at": "2017-11-25T20:49:35.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Quirk. I believe that one day cats will rule this planet. I once licked a chimpanzee. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "6751@13",
+  "sire": "7105@2",
+  "children": [
+    "7794@15",
+    "8320@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

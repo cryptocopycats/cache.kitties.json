@@ -1,0 +1,23 @@
+{
+  "id": 8235,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-11-26T11:28:18.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #8235. I've never told anyone this, but I once pranced with a dog. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I like your face.",
+  "language": "en",
+  "matron": "7710@10",
+  "sire": "7200@8",
+  "children": [
+    "8493@12",
+    "9144@12",
+    "9257@14",
+    "9282@12",
+    "10193@12",
+    "12682@13",
+    "16560@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

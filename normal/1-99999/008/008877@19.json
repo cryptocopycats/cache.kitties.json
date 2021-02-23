@@ -1,0 +1,19 @@
+{
+  "id": 8877,
+  "name": "Einkaufswagen",
+  "generation": 19,
+  "created_at": "2017-11-27T04:58:22.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Einkaufswagen. I believe the world is flat. Sometimes I daydream of a life full of fighting the patriarchy, hamburgers, and braiding people's hair. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "6815@11",
+  "sire": "7773@18",
+  "children": [
+    "9513@20",
+    "11215@20",
+    "79531@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

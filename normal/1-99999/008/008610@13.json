@@ -1,0 +1,19 @@
+{
+  "id": 8610,
+  "name": "Bubbles G13",
+  "generation": 13,
+  "created_at": "2017-11-26T21:27:46.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Bubbles G13. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "8419@9",
+  "sire": "8511@12",
+  "children": [
+    "48452@15",
+    "211754@14",
+    "259623@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

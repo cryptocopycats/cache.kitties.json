@@ -1,0 +1,21 @@
+{
+  "id": 9651,
+  "name": "MeowCow",
+  "generation": 14,
+  "created_at": "2017-11-28T05:38:26.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! MeowCow here. I'm here to enjoy watching Stranger Things and staying woke. I am 16% wizard, 37% Mad Scientist, and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "8246@13",
+  "sire": "8250@13",
+  "children": [
+    "18372@15",
+    "22864@15",
+    "29249@15",
+    "42187@17",
+    "277641@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

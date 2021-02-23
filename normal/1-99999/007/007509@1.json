@@ -1,0 +1,20 @@
+{
+  "id": 7509,
+  "name": "Gen 1 cloudy snappy white",
+  "generation": 1,
+  "created_at": "2017-11-25T22:44:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 1 cloudy snappy white. I'm a Aerobics Athlete  by day, and I like running a podcast by night. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "2066@0",
+  "sire": "1056@0",
+  "children": [
+    "7542@2",
+    "7544@13",
+    "8078@2",
+    "8914@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

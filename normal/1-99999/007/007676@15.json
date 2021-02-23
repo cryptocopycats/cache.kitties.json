@@ -1,0 +1,21 @@
+{
+  "id": 7676,
+  "name": "Astromint",
+  "generation": 15,
+  "created_at": "2017-11-26T01:04:58.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Astromint. I enjoy eating lasagna, tripping my owner, and watching Stranger Things. I put soy sauce on everything. Like, everything: hot dogs, cantaloupe—everything! I hope we can be annoying friends.",
+  "language": "en",
+  "matron": "6717@14",
+  "sire": "6900@11",
+  "children": [
+    "8032@16",
+    "11479@16",
+    "14453@16",
+    "20637@19",
+    "144459@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

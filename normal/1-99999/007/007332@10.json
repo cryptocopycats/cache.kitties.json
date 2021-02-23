@@ -1,0 +1,23 @@
+{
+  "id": 7332,
+  "name": "Sailor gene 2",
+  "generation": 10,
+  "created_at": "2017-11-25T19:49:02.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Sailor gene 2. I'm often referred to as the Ross Geller of the group. I was voted most likely to work at NASA in college. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "6568@9",
+  "sire": "3103@1",
+  "children": [
+    "8518@11",
+    "9215@15",
+    "11823@16",
+    "12183@18",
+    "17561@17",
+    "21919@11",
+    "92706@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

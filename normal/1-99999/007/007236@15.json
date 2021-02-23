@@ -1,0 +1,18 @@
+{
+  "id": 7236,
+  "name": "Old Simple",
+  "generation": 15,
+  "created_at": "2017-11-25T18:12:46.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Old Simple. My friends describe me as preposterous and wondrous. I put cinammon on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "5411@11",
+  "sire": "6298@14",
+  "children": [
+    "10020@16",
+    "207555@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

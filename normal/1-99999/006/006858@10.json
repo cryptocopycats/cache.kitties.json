@@ -1,0 +1,23 @@
+{
+  "id": 6858,
+  "name": "Lucky",
+  "generation": 10,
+  "created_at": "2017-11-25T10:06:58.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Lucky. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4739@9",
+  "sire": "2004@0",
+  "children": [
+    "7768@12",
+    "12364@12",
+    "14119@14",
+    "18011@11",
+    "30052@18",
+    "48260@17",
+    "71802@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

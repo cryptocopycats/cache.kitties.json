@@ -1,0 +1,21 @@
+{
+  "id": 9684,
+  "name": "Bart-Jan",
+  "generation": 8,
+  "created_at": "2017-11-28T06:09:18.000Z",
+  "birthday": "2017-11-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Bart-Jan. I'm a professional Skydiving Instructor and I love apple pie. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "9364@7",
+  "sire": "9557@3",
+  "children": [
+    "35111@9",
+    "35796@9",
+    "53937@21",
+    "66783@19",
+    "81168@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

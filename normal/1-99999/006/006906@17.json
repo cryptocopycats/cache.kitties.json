@@ -1,0 +1,19 @@
+{
+  "id": 6906,
+  "name": "6909",
+  "generation": 17,
+  "created_at": "2017-11-25T10:42:09.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm 6909. I've never told anyone this, but I once kissed a dog. I once kissed a platypus. I don't like to talk about it. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "6034@16",
+  "sire": "5976@10",
+  "children": [
+    "77479@18",
+    "92566@18",
+    "117522@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

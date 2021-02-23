@@ -1,0 +1,24 @@
+{
+  "id": 7903,
+  "name": "John",
+  "generation": 5,
+  "created_at": "2017-11-26T05:03:40.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm John. I'm often referred to as the Jon Snow of the group. When no one's home, I invite my pals over and we listen to Wutang. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "1085@0",
+  "sire": "4531@4",
+  "children": [
+    "8379@11",
+    "9211@6",
+    "10122@6",
+    "10542@9",
+    "10796@9",
+    "13636@6",
+    "14694@7",
+    "20654@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

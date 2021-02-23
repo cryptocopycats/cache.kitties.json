@@ -1,0 +1,24 @@
+{
+  "id": 6870,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-11-25T10:15:24.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Kitty #6870 here. I'm here to enjoy staying woke and riding unicorns. I once made a moose trot. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "2100@0",
+  "sire": "6768@1",
+  "children": [
+    "7222@11",
+    "7247@11",
+    "7302@3",
+    "11178@15",
+    "11356@12",
+    "12865@13",
+    "13872@14",
+    "15851@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

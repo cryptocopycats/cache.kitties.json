@@ -1,0 +1,23 @@
+{
+  "id": 8923,
+  "name": "Ross Geller",
+  "generation": 5,
+  "created_at": "2017-11-27T05:52:10.000Z",
+  "birthday": "2017-11-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Ross Geller. I'm often referred to as the Ross Geller of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "1089@0",
+  "sire": "8657@4",
+  "children": [
+    "65925@6",
+    "72331@16",
+    "76410@20",
+    "78522@18",
+    "82382@12",
+    "87210@8",
+    "154072@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

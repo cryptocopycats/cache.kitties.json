@@ -1,0 +1,22 @@
+{
+  "id": 8320,
+  "name": "Ouiji",
+  "generation": 15,
+  "created_at": "2017-11-26T13:25:42.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Ouiji. I want to live in a world where people believe the world is flat. Some people say I'm the Ross Geller of the group. I like your face.",
+  "language": "en",
+  "matron": "7383@14",
+  "sire": "6568@9",
+  "children": [
+    "8481@16",
+    "50696@16",
+    "84868@16",
+    "93745@16",
+    "120540@16",
+    "197141@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

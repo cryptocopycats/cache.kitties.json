@@ -1,0 +1,19 @@
+{
+  "id": 6563,
+  "name": "Milk Please",
+  "generation": 9,
+  "created_at": "2017-11-25T06:17:30.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! Milk Please here. I'm here to enjoy riding unicorns and watching Stranger Things. My friends describe me as \"prickly.\" It's... accurate. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "4444@8",
+  "sire": "2366@0",
+  "children": [
+    "6624@10",
+    "7488@10",
+    "7859@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 6789,
+  "name": "Mary",
+  "generation": 1,
+  "created_at": "2017-11-25T09:01:33.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Mary. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "1041@0",
+  "sire": "2225@0",
+  "children": [
+    "18767@5",
+    "64598@3",
+    "66601@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

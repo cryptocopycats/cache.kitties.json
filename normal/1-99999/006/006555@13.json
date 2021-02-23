@@ -1,0 +1,22 @@
+{
+  "id": 6555,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-11-25T06:13:22.000Z",
+  "birthday": "2017-11-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Kitty #6555. I've never told anyone this, but I once pranced with a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "5686@11",
+  "sire": "6103@12",
+  "children": [
+    "6755@14",
+    "9839@15",
+    "15283@14",
+    "22178@15",
+    "71483@20",
+    "134417@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

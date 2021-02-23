@@ -1,0 +1,23 @@
+{
+  "id": 7984,
+  "name": "Salmon|RoyalPurple|MintGreen",
+  "generation": 7,
+  "created_at": "2017-11-26T06:42:06.000Z",
+  "birthday": "2017-11-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Salmon|RoyalPurple|MintGreen. I'm a Mad Scientist by day, and I like siring for status by night. I once got in a fight with a rhino, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "5986@1",
+  "sire": "6299@6",
+  "children": [
+    "8998@18",
+    "10503@15",
+    "10795@16",
+    "12872@13",
+    "14220@16",
+    "38137@8",
+    "61471@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
