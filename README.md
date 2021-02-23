@@ -2,11 +2,38 @@
 
 
 All meta data one json file at a time.
+Example - [`exclusive/genesis/000001@0_(1).json`](exclusive/genesis/000001@0_(1).json):
+
+``` json
+{
+  "id": 1,
+  "name": "Genesis",
+  "generation": 0,
+  "created_at": "2017-11-23T06:19:59.000Z",
+  "birthday": "2017-11-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Greetings, human. I am Genesis... ",
+  "kitty_type": "exclusive",
+  "is_fancy": true,
+  "is_exclusive": true,
+  "fancy_type": "Genesis",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1
+}
+```
+
+
+
 Naming / filing convention:
 
-The basename of json file is the id (e.g. `1`)
+The basename of json file is the id (e.g. `000001`)
 plus the generation (e.g. `0`)
-resulting in `1@0`.
+resulting in `000001@0`.
 For non-normal kitties (exclusive, fancy, etc.)
 if there's a ranking it gets added at the end
 e.g. (`001431@0_(1)`) is the shipcat fancy
