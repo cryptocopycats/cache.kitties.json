@@ -1,0 +1,19 @@
+{
+  "id": 32822,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-02T22:05:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #32822. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as hairy, and I own it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "31465@10",
+  "sire": "30678@14",
+  "children": [
+    "35461@16",
+    "73234@19",
+    "156315@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

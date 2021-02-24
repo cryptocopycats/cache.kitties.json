@@ -1,0 +1,19 @@
+{
+  "id": 28660,
+  "name": "Vitalik Cuterin",
+  "generation": 18,
+  "created_at": "2017-12-02T11:09:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Vitalik Cuterin. I want to live in a world where people believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "23289@17",
+  "sire": "15446@17",
+  "children": [
+    "29250@19",
+    "51002@19",
+    "298645@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

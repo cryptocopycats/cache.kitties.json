@@ -1,0 +1,19 @@
+{
+  "id": 33588,
+  "name": "second one",
+  "generation": 14,
+  "created_at": "2017-12-02T23:30:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's second one. I once peed on King Henry VIII's cat. They had it coming. I once kissed a moose. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "31787@13",
+  "sire": "32431@1",
+  "children": [
+    "40013@15",
+    "51858@15",
+    "106867@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

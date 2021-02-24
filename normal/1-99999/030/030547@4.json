@@ -1,0 +1,23 @@
+{
+  "id": 30547,
+  "name": "Floof",
+  "generation": 4,
+  "created_at": "2017-12-02T17:10:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Floof. I enjoy breakdancing, chasing string, and taking selfies. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "15929@2",
+  "sire": "27745@3",
+  "children": [
+    "30729@5",
+    "31172@5",
+    "32092@5",
+    "32597@5",
+    "39755@5",
+    "52542@5",
+    "72569@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

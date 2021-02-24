@@ -1,0 +1,19 @@
+{
+  "id": 32467,
+  "name": "Seal",
+  "generation": 17,
+  "created_at": "2017-12-02T21:22:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Seal here. I'm here to enjoy reading garfield and eating lasagna. It's not common knowledge, but my ancestry connects me to Confucius. I hope we can be preposterous friends.",
+  "language": "en",
+  "matron": "26851@6",
+  "sire": "19741@16",
+  "children": [
+    "32652@18",
+    "55732@18",
+    "108153@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33232,
+  "name": "Claude",
+  "generation": 5,
+  "created_at": "2017-12-02T22:49:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Claude here. I'm here to enjoy chasing string and eating lasagna. I'm often described as annoying, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "32611@4",
+  "sire": "32859@3",
+  "children": [
+    "39405@6",
+    "39410@6",
+    "39869@6",
+    "40824@6",
+    "42665@6",
+    "46311@7",
+    "53228@8",
+    "71238@6",
+    "75273@6",
+    "118829@6",
+    "165649@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

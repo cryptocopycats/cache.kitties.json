@@ -1,0 +1,18 @@
+{
+  "id": 32236,
+  "name": "Gen 6 Snappy Beard",
+  "generation": 6,
+  "created_at": "2017-12-02T20:56:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Gen 6 Snappy Beard. I'm a professional Spin Instructor  and I love chocolate. I'm often described as preposterous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30881@5",
+  "sire": "31683@5",
+  "children": [
+    "32885@12",
+    "41092@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

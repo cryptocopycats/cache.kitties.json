@@ -1,0 +1,21 @@
+{
+  "id": 32438,
+  "name": "Potatoes",
+  "generation": 8,
+  "created_at": "2017-12-02T21:18:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Potatoes. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of watching Stranger Things, apple pie, and talking about how much I lift. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "30146@7",
+  "sire": "4234@7",
+  "children": [
+    "35382@9",
+    "38253@9",
+    "42651@18",
+    "72495@9",
+    "325176@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

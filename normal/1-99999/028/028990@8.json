@@ -1,0 +1,19 @@
+{
+  "id": 28990,
+  "name": "G8 PL Mauve",
+  "generation": 8,
+  "created_at": "2017-12-02T12:13:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm G8 PL Mauve. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Lisa Simpson of the group. Let's pawty!",
+  "language": "en",
+  "matron": "27286@7",
+  "sire": "22632@7",
+  "children": [
+    "34088@9",
+    "36935@9",
+    "38204@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

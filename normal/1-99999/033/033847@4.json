@@ -1,0 +1,18 @@
+{
+  "id": 33847,
+  "name": "Gen4 SN",
+  "generation": 4,
+  "created_at": "2017-12-02T23:55:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Gen4 SN. I believe the world is flat. Sometimes I daydream of a life full of hitting on yo' man, cereal, and riding the bus. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "28656@3",
+  "sire": "14358@3",
+  "children": [
+    "34027@5",
+    "36548@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 33859,
+  "name": "D Tongue D Cymric",
+  "generation": 8,
+  "created_at": "2017-12-02T23:59:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm D Tongue D Cymric. I'm a professional Ventriloquist and I love salad. Some people say I'm the Chandler Bing of the group. Will you be the ranch dressing to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25165@7",
+  "sire": "28439@7",
+  "children": [
+    "36411@9",
+    "37590@14",
+    "39116@10",
+    "40821@9",
+    "52860@9",
+    "79156@9",
+    "105276@13",
+    "214902@9",
+    "555545@9",
+    "646383@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 224,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

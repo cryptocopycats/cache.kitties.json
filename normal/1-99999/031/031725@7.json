@@ -1,0 +1,18 @@
+{
+  "id": 31725,
+  "name": "Snappy Donald Trump",
+  "generation": 7,
+  "created_at": "2017-12-02T19:45:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Snappy Donald Trump. I'm often referred to as the Marge Simpson of the group. I am 92% fairy, 12% Train Conductor, and otherwise bad at math. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "30603@4",
+  "sire": "29073@6",
+  "children": [
+    "40025@13",
+    "313622@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

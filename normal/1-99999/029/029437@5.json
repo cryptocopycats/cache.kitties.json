@@ -1,0 +1,20 @@
+{
+  "id": 29437,
+  "name": "Gen 5 Green OrangeSoda",
+  "generation": 5,
+  "created_at": "2017-12-02T13:50:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Gen 5 Green OrangeSoda. My friends describe me as prickly and petulant. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "28695@4",
+  "sire": "29095@4",
+  "children": [
+    "29769@6",
+    "30005@6",
+    "30324@6",
+    "120124@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

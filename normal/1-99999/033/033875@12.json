@@ -1,0 +1,20 @@
+{
+  "id": 33875,
+  "name": "G12 Zoom",
+  "generation": 12,
+  "created_at": "2017-12-02T23:59:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm G12 Zoom. My friends describe me as petulant and voluptuous. I am 8% fairy, 12% Skydiving Instructor, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "26096@11",
+  "sire": "32837@6",
+  "children": [
+    "35128@13",
+    "80244@14",
+    "87388@17",
+    "169290@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

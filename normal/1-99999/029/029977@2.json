@@ -1,0 +1,28 @@
+{
+  "id": 29977,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T15:29:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Gen 2. I'm often referred to as the Homer Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29917@1",
+  "sire": "29918@1",
+  "children": [
+    "30055@3",
+    "30106@3",
+    "30910@3",
+    "31030@3",
+    "31684@3",
+    "32468@3",
+    "36540@3",
+    "44297@3",
+    "65011@3",
+    "65651@3",
+    "144190@3",
+    "146663@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

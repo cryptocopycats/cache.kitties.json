@@ -1,0 +1,28 @@
+{
+  "id": 33319,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T23:05:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Gen 2. I'm a professional Culinary Sanitation Specialist and I love chocolate. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "31286@1",
+  "sire": "32573@1",
+  "children": [
+    "34080@3",
+    "34242@3",
+    "34413@3",
+    "35119@3",
+    "36535@3",
+    "44156@3",
+    "49486@3",
+    "69296@3",
+    "87440@3",
+    "135558@3",
+    "166897@3",
+    "258339@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

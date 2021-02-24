@@ -1,0 +1,27 @@
+{
+  "id": 30977,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T18:09:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! My name's Gen 2. I once peed on Mother Theresa's cat. They had it coming. I put ranch dressing on everything. Like, everything: hot dogs, chocolate—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "30673@1",
+  "sire": "30638@1",
+  "children": [
+    "31122@3",
+    "32308@3",
+    "34202@3",
+    "34641@3",
+    "46262@3",
+    "49319@3",
+    "50762@3",
+    "124481@3",
+    "140665@3",
+    "158130@3",
+    "193312@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

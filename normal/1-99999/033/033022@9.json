@@ -1,0 +1,21 @@
+{
+  "id": 33022,
+  "name": "Gen 9 | Snow White",
+  "generation": 9,
+  "created_at": "2017-12-02T22:23:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Gen 9 | Snow White. I enjoy picking flowers, sweating through my feet, and grooming. Sometimes I daydream of a life full of spinning sick beats, wet food, and mocking dogs. Our friendship will be gullible, wondrous, and full of chocolate.",
+  "language": "en",
+  "matron": "11962@8",
+  "sire": "16500@7",
+  "children": [
+    "41957@16",
+    "42697@10",
+    "65644@21",
+    "74296@21",
+    "94878@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

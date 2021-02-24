@@ -1,0 +1,21 @@
+{
+  "id": 28689,
+  "name": "Skyblue",
+  "generation": 6,
+  "created_at": "2017-12-02T11:16:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Skyblue. I enjoy reading garfield, slappin' da bass, and picking on mice. I like to listen to Justin Bieber while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24222@4",
+  "sire": "28657@5",
+  "children": [
+    "34408@7",
+    "34560@7",
+    "38166@7",
+    "59126@7",
+    "154438@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 32818,
+  "name": "Seahawk",
+  "generation": 13,
+  "created_at": "2017-12-02T22:05:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Seahawk. I once peed on Princess Diana's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "25571@11",
+  "sire": "5688@12",
+  "children": [
+    "42543@14",
+    "52220@21",
+    "62002@14",
+    "86392@14",
+    "122786@14",
+    "165496@14",
+    "309382@17",
+    "406743@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

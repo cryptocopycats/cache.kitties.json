@@ -1,0 +1,18 @@
+{
+  "id": 28553,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T10:46:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! Gen 6 here. I'm here to enjoy staying woke and spinning sick beats. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Our friendship will be brilliant, voluptuous, and full of hamburgers.",
+  "language": "en",
+  "matron": "27971@5",
+  "sire": "24691@5",
+  "children": [
+    "28794@7",
+    "29763@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

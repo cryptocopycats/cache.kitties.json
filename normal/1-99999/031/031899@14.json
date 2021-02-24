@@ -1,0 +1,20 @@
+{
+  "id": 31899,
+  "name": "Unicorn Kibbler",
+  "generation": 14,
+  "created_at": "2017-12-02T20:09:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Unicorn Kibbler here. I'm here to enjoy riding unicorns and glaring at the neighbour's cat. When no one's home, I invite my pals over and we listen to Ace of Base. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "29310@5",
+  "sire": "30767@13",
+  "children": [
+    "34106@15",
+    "39657@17",
+    "138265@15",
+    "269251@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31866,
+  "name": "Snappy Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T20:08:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Snappy Gen 6. I'm a professional Ventriloquist and I love hamburgers. I am 74% oracle, 51% Mad Scientist, and otherwise bad at math. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "29119@5",
+  "sire": "31451@5",
+  "children": [
+    "33218@7",
+    "34674@7",
+    "46395@7",
+    "166834@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 33491,
+  "name": "Mewk (Gen 13)",
+  "generation": 13,
+  "created_at": "2017-12-02T23:20:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Mewk (Gen 13). I'm a professional Dogwalker and I love cantaloupe. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the ranch dressing to my pickles?",
+  "language": "en",
+  "matron": "32860@9",
+  "sire": "22850@12",
+  "children": [
+    "35146@14",
+    "40860@14",
+    "52522@16",
+    "74388@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

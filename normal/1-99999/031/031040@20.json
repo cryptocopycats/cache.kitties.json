@@ -1,0 +1,19 @@
+{
+  "id": 31040,
+  "name": "Harrisson Ford",
+  "generation": 20,
+  "created_at": "2017-12-02T18:15:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Harrisson Ford. My friends describe me as brilliant and vegan. My secret indulgence is cereal. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "28116@10",
+  "sire": "28255@19",
+  "children": [
+    "49323@21",
+    "114347@21",
+    "130270@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

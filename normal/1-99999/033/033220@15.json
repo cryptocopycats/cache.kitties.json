@@ -1,0 +1,18 @@
+{
+  "id": 33220,
+  "name": "The Zombie Apocalypse",
+  "generation": 15,
+  "created_at": "2017-12-02T22:49:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm The Zombie Apocalypse. I'm a professional Train Conductor and I love steak. I put garlic butter on everything. Like, everything: hot dogs, lasagna—everything! I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "27456@8",
+  "sire": "24050@14",
+  "children": [
+    "40602@16",
+    "56670@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

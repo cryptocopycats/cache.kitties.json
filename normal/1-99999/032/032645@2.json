@@ -1,0 +1,27 @@
+{
+  "id": 32645,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T21:42:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! My name's Gen 2. I once peed on King Henry VIII's cat. They had it coming. I like to listen to Coldplay while grooming. Don't judge me. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "32588@1",
+  "sire": "32573@1",
+  "children": [
+    "33076@3",
+    "34419@3",
+    "34860@3",
+    "35329@3",
+    "36504@3",
+    "46432@3",
+    "46883@3",
+    "55829@3",
+    "71357@3",
+    "116462@3",
+    "144160@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

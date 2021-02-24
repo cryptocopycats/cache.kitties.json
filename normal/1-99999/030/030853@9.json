@@ -1,0 +1,21 @@
+{
+  "id": 30853,
+  "name": "G9 | BC",
+  "generation": 9,
+  "created_at": "2017-12-02T17:51:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm G9 | BC. I'm often referred to as the Jon Snow of the group. I once pawed at a labradoodle. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "28456@8",
+  "sire": "29126@8",
+  "children": [
+    "31327@10",
+    "31969@10",
+    "33523@10",
+    "46297@10",
+    "71027@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

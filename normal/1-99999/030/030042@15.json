@@ -1,0 +1,20 @@
+{
+  "id": 30042,
+  "name": "Mkat",
+  "generation": 15,
+  "created_at": "2017-12-02T15:40:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Mkat. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Skydiving Instructor. Now I can be found pole dancing all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "25202@12",
+  "sire": "20173@14",
+  "children": [
+    "31670@20",
+    "31933@16",
+    "64667@16",
+    "254737@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

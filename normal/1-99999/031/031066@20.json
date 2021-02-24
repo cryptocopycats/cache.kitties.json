@@ -1,0 +1,18 @@
+{
+  "id": 31066,
+  "name": "Orangey McSpoodle",
+  "generation": 20,
+  "created_at": "2017-12-02T18:21:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Orangey McSpoodle. I'm a Train Conductor by day, and I like siring for status by night. Some people say I'm the Bart Simpson of the group. I look forward to grooming with you.",
+  "language": "en",
+  "matron": "25251@19",
+  "sire": "17360@7",
+  "children": [
+    "51853@21",
+    "72921@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

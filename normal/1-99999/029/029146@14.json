@@ -1,0 +1,19 @@
+{
+  "id": 29146,
+  "name": "Wooden Fella",
+  "generation": 14,
+  "created_at": "2017-12-02T12:49:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Wooden Fella. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I like your face.",
+  "language": "en",
+  "matron": "5857@13",
+  "sire": "21173@12",
+  "children": [
+    "68345@15",
+    "161187@15",
+    "196469@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

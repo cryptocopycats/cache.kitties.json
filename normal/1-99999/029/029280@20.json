@@ -1,0 +1,19 @@
+{
+  "id": 29280,
+  "name": "Muadi",
+  "generation": 20,
+  "created_at": "2017-12-02T13:19:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Muadi. I'm a Foreign Film Director by day, and I like riding the bus by night. My secret indulgence is salad. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "25921@17",
+  "sire": "20365@19",
+  "children": [
+    "89890@21",
+    "202165@21",
+    "320169@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

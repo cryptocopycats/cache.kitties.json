@@ -1,0 +1,18 @@
+{
+  "id": 31038,
+  "name": "Lick Lickley",
+  "generation": 17,
+  "created_at": "2017-12-02T18:15:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Lick Lickley. I'm a professional Skydiving Instructor and I love ice cream. I once got in a fight with a chimpanzee, and won. Let's get busy!",
+  "language": "en",
+  "matron": "23087@16",
+  "sire": "24265@15",
+  "children": [
+    "386122@18",
+    "393618@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

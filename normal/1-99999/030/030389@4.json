@@ -1,0 +1,25 @@
+{
+  "id": 30389,
+  "name": "Gen 4 - Duck Parent",
+  "generation": 4,
+  "created_at": "2017-12-02T16:36:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gen 4 - Duck Parent. All you need to know about me is I hate cantaloupe with a passion. I once got in a fight with a chimpanzee, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "29971@3",
+  "sire": "30360@3",
+  "children": [
+    "30445@5",
+    "30577@5",
+    "31213@5",
+    "34330@5",
+    "37116@5",
+    "40178@5",
+    "49299@5",
+    "64147@5",
+    "107695@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

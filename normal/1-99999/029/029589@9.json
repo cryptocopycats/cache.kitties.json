@@ -1,0 +1,20 @@
+{
+  "id": 29589,
+  "name": "Gen9 Plodding Cymric",
+  "generation": 9,
+  "created_at": "2017-12-02T14:16:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen9 Plodding Cymric. I'm a professional Mad Scientist and I love salad. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "19267@5",
+  "sire": "28595@8",
+  "children": [
+    "29905@10",
+    "33411@10",
+    "42162@11",
+    "64662@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

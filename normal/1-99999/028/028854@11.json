@@ -1,0 +1,21 @@
+{
+  "id": 28854,
+  "name": "CCCookie",
+  "generation": 11,
+  "created_at": "2017-12-02T11:56:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm CCCookie. I'm often referred to as the Neville Longbottom of the group. It's not common knowledge, but my ancestry connects me to Mother Theresa. Let's get busy!",
+  "language": "en",
+  "matron": "4016@2",
+  "sire": "18696@10",
+  "children": [
+    "30343@12",
+    "42761@12",
+    "46154@15",
+    "53443@12",
+    "83576@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 32882,
+  "name": "Sailor father",
+  "generation": 7,
+  "created_at": "2017-12-02T22:12:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Sailor father. I enjoy fighting the patriarchy, chasing string, and tricking babies. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "32707@6",
+  "sire": "30528@2",
+  "children": [
+    "33174@8",
+    "33930@8",
+    "47515@9",
+    "58417@11",
+    "58483@15",
+    "88438@11",
+    "178384@18",
+    "219404@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

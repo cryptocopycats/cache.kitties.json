@@ -1,0 +1,18 @@
+{
+  "id": 28415,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-02T10:22:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #28415. I'm a professional Mad Scientist and I love apple pie. I like to listen to Gloria Estefan while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "28220@3",
+  "sire": "28326@1",
+  "children": [
+    "30533@5",
+    "30539@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

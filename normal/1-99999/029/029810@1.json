@@ -1,0 +1,18 @@
+{
+  "id": 29810,
+  "name": "Gen1 - Swift - GreenBelly",
+  "generation": 1,
+  "created_at": "2017-12-02T15:01:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gen1 - Swift - GreenBelly. I'm often referred to as the Peter Griffin of the group. When no one's home, I invite my pals over and we listen to Wutang. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "28978@0",
+  "sire": "27472@0",
+  "children": [
+    "30544@4",
+    "30556@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33906,
+  "name": "Gen4 Saycheese Charteux",
+  "generation": 4,
+  "created_at": "2017-12-03T00:04:03.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen4 Saycheese Charteux. I believe the world is flat. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Will you be the maple syrup to my cinammon?",
+  "language": "en",
+  "matron": "27879@2",
+  "sire": "30535@3",
+  "children": [
+    "35527@5",
+    "35751@5",
+    "36533@5",
+    "46554@5",
+    "49587@16",
+    "83553@7",
+    "113440@7",
+    "133240@7",
+    "151625@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

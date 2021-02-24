@@ -1,0 +1,18 @@
+{
+  "id": 33891,
+  "name": "Recessive Duck Gene",
+  "generation": 19,
+  "created_at": "2017-12-03T00:01:34.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Recessive Duck Gene. I'm a professional Mad Scientist and I love apple pie. I once made a labradoodle sulk. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "20148@15",
+  "sire": "26060@18",
+  "children": [
+    "45322@20",
+    "72658@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

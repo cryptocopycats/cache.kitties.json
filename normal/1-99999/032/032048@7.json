@@ -1,0 +1,18 @@
+{
+  "id": 32048,
+  "name": "G7 calicool",
+  "generation": 7,
+  "created_at": "2017-12-02T20:30:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm G7 calicool. I've never told anyone this, but I once bit a dog. I once bit a rabbit. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "28094@3",
+  "sire": "28352@6",
+  "children": [
+    "56122@8",
+    "72766@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 29723,
+  "name": "Rossi Yellow",
+  "generation": 18,
+  "created_at": "2017-12-02T14:39:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Rossi Yellow. I've never told anyone this, but I once loved a dog. I am 66% hobbit, 62% Ventriloquist, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "22292@17",
+  "sire": "21172@15",
+  "children": [
+    "31912@19",
+    "82122@19",
+    "203753@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 31501,
+  "name": "Gen 2 Swift",
+  "generation": 2,
+  "created_at": "2017-12-02T19:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Gen 2 Swift. I'm often referred to as the Frodo Baggins of the group. My secret indulgence is ice cream. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "18796@1",
+  "sire": "6182@1",
+  "children": [
+    "33808@3",
+    "34672@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

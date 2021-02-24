@@ -1,0 +1,23 @@
+{
+  "id": 33792,
+  "name": "G4 | Butters",
+  "generation": 4,
+  "created_at": "2017-12-02T23:49:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm G4 | Butters. I've never told anyone this, but I once pranced with a dog. I once pranced with a gecko. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "32814@3",
+  "sire": "33222@3",
+  "children": [
+    "34491@5",
+    "36463@15",
+    "52986@5",
+    "59575@5",
+    "77324@5",
+    "78680@5",
+    "117866@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

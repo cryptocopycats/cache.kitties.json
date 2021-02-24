@@ -1,0 +1,21 @@
+{
+  "id": 32575,
+  "name": "G9 Peach, Saycheese",
+  "generation": 9,
+  "created_at": "2017-12-02T21:34:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm G9 Peach, Saycheese. I've never told anyone this, but I once bit a dog. I once bit a moose. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "28061@8",
+  "sire": "29386@8",
+  "children": [
+    "32869@10",
+    "38261@10",
+    "53549@14",
+    "63601@10",
+    "76384@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 29183,
+  "name": "Gray Gary",
+  "generation": 11,
+  "created_at": "2017-12-02T12:58:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gray Gary. I enjoy picking flowers, eating lasagna, and staying woke. I was voted most likely to work at NASA in college. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "29111@7",
+  "sire": "29135@10",
+  "children": [
+    "30476@12",
+    "31573@12",
+    "34086@17",
+    "56762@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

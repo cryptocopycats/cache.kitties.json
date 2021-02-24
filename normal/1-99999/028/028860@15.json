@@ -1,0 +1,21 @@
+{
+  "id": 28860,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-12-02T11:57:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! My name's Gen 15. I once peed on Cleopatra's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Cleopatra. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "24197@13",
+  "sire": "19425@14",
+  "children": [
+    "32948@21",
+    "37861@17",
+    "66266@16",
+    "90205@16",
+    "134420@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

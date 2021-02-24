@@ -1,0 +1,24 @@
+{
+  "id": 32015,
+  "name": "Gen 4 | Virgin | Scarlet",
+  "generation": 4,
+  "created_at": "2017-12-02T20:27:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 4 | Virgin | Scarlet. I've never told anyone this, but I once cleaned a dog. I once got in a fight with a goose, and won. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "27472@0",
+  "sire": "30556@3",
+  "children": [
+    "32651@5",
+    "42575@5",
+    "42885@5",
+    "43901@5",
+    "50377@5",
+    "54056@5",
+    "65779@5",
+    "71176@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

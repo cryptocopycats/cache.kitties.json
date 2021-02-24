@@ -1,0 +1,17 @@
+{
+  "id": 30040,
+  "name": "MEW Gen 18",
+  "generation": 18,
+  "created_at": "2017-12-02T15:40:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm MEW Gen 18. I'm often referred to as the Homer Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "26994@17",
+  "sire": "23501@15",
+  "children": [
+    "51065@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

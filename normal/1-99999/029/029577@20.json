@@ -1,0 +1,18 @@
+{
+  "id": 29577,
+  "name": "Blubble-Romeli",
+  "generation": 20,
+  "created_at": "2017-12-02T14:14:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm Blubble-Romeli. I've never told anyone this, but I once frolicked with a dog. I once got in a fight with a rabbit, and won. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "13405@15",
+  "sire": "17876@19",
+  "children": [
+    "61811@21",
+    "73467@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

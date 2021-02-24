@@ -1,0 +1,21 @@
+{
+  "id": 30438,
+  "name": "Rare Gen 10 Otaku",
+  "generation": 10,
+  "created_at": "2017-12-02T16:42:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Rare Gen 10 Otaku. All you need to know about me is I hate apple pie with a passion. I once made a moose kiss. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "29855@9",
+  "sire": "29929@9",
+  "children": [
+    "30845@14",
+    "41973@14",
+    "47551@16",
+    "55216@11",
+    "63737@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

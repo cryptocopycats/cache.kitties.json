@@ -1,0 +1,18 @@
+{
+  "id": 30600,
+  "name": "18",
+  "generation": 18,
+  "created_at": "2017-12-02T17:19:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! My name's 18. I once peed on Marie Antoinette's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "13768@17",
+  "sire": "20229@15",
+  "children": [
+    "61260@20",
+    "85264@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

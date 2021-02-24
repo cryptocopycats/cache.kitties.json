@@ -1,0 +1,28 @@
+{
+  "id": 30535,
+  "name": "Gen3 Gold & Shadow Grey",
+  "generation": 3,
+  "created_at": "2017-12-02T17:08:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Gen3 Gold & Shadow Grey. I've never told anyone this, but I once loved a dog. I was voted most likely to work at NASA in college. Our friendship will be hairy, petulant, and full of apple pie.",
+  "language": "en",
+  "matron": "30281@2",
+  "sire": "29765@1",
+  "children": [
+    "33279@4",
+    "33660@4",
+    "33906@4",
+    "34795@4",
+    "35465@4",
+    "36596@4",
+    "46266@4",
+    "60406@4",
+    "75332@4",
+    "111634@4",
+    "169419@4",
+    "283202@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

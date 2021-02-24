@@ -1,0 +1,24 @@
+{
+  "id": 31724,
+  "name": "Moscow",
+  "generation": 4,
+  "created_at": "2017-12-02T19:45:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Moscow. I'm a professional Foreign Film Director and I love ice cream. When no one's home, I invite my pals over and we listen to Coldplay. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30855@3",
+  "sire": "31302@3",
+  "children": [
+    "31996@5",
+    "32034@5",
+    "32943@5",
+    "35778@5",
+    "37470@5",
+    "40706@7",
+    "49369@5",
+    "69075@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

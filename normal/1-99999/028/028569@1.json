@@ -1,0 +1,24 @@
+{
+  "id": 28569,
+  "name": "G1, SWIFT, Salmon",
+  "generation": 1,
+  "created_at": "2017-12-02T10:49:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm G1, SWIFT, Salmon. I'm a Dogwalker by day, and I like swiping right by night. I once tricked a goose. I don't like to talk about it. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "20582@0",
+  "sire": "20645@0",
+  "children": [
+    "49197@2",
+    "315780@12",
+    "329265@2",
+    "329627@2",
+    "330237@2",
+    "332166@9",
+    "338824@2",
+    "402009@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

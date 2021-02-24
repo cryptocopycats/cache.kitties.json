@@ -1,0 +1,22 @@
+{
+  "id": 30047,
+  "name": "Mustache Parents",
+  "generation": 17,
+  "created_at": "2017-12-02T15:40:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Mustache Parents. All you need to know about me is I hate chocolate with a passion. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20876@16",
+  "sire": "18312@13",
+  "children": [
+    "35071@18",
+    "49284@20",
+    "78193@19",
+    "122963@18",
+    "245766@18",
+    "368692@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

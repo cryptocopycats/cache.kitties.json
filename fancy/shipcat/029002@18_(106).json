@@ -1,0 +1,24 @@
+{
+  "id": 29002,
+  "name": "Sailor C.",
+  "generation": 18,
+  "created_at": "2017-12-02T12:15:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Sailor C.. All you need to know about me is I hate cantaloupe with a passion. I once got in a fight with a chimpanzee, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "22223@17",
+  "sire": "16691@14",
+  "children": [
+    "111279@19",
+    "371195@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 106,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

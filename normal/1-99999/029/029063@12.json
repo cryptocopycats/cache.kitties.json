@@ -1,0 +1,19 @@
+{
+  "id": 29063,
+  "name": "Fancy Parent G12",
+  "generation": 12,
+  "created_at": "2017-12-02T12:28:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Fancy Parent G12. In high school, I was voted school jock. I once headbutted a rooster. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "17695@9",
+  "sire": "21227@11",
+  "children": [
+    "29829@18",
+    "36732@13",
+    "65541@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

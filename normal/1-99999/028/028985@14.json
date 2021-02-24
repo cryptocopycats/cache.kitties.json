@@ -1,0 +1,19 @@
+{
+  "id": 28985,
+  "name": "Plodding",
+  "generation": 14,
+  "created_at": "2017-12-02T12:13:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Plodding. I'm a professional Skydiving Instructor and I love hamburgers. I am 27% oracle, 59% Train Conductor, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "24687@12",
+  "sire": "19533@13",
+  "children": [
+    "32949@23",
+    "38046@15",
+    "64460@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

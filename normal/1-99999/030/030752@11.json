@@ -1,0 +1,25 @@
+{
+  "id": 30752,
+  "name": "G11 - mint+choco+calic",
+  "generation": 11,
+  "created_at": "2017-12-02T17:38:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm G11 - mint+choco+calic. I enjoy watching Stranger Things, spinning sick beats, and licking doorknobs. Some people say I'm the Jon Snow of the group. Let's pawty!",
+  "language": "en",
+  "matron": "19288@6",
+  "sire": "24100@10",
+  "children": [
+    "32250@12",
+    "36787@12",
+    "44701@12",
+    "48792@12",
+    "60970@13",
+    "92665@14",
+    "119666@12",
+    "186606@16",
+    "826991@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

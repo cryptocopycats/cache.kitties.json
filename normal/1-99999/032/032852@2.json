@@ -1,0 +1,22 @@
+{
+  "id": 32852,
+  "name": "Gen2",
+  "generation": 2,
+  "created_at": "2017-12-02T22:10:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen2. I'm a professional Spin Instructor  and I love hamburgers. Sometimes I daydream of a life full of riding dirty, cereal, and mocking dogs. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "10276@1",
+  "sire": "29460@1",
+  "children": [
+    "33080@4",
+    "33193@3",
+    "33348@4",
+    "34186@3",
+    "34321@3",
+    "41698@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

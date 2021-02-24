@@ -1,0 +1,22 @@
+{
+  "id": 29401,
+  "name": "Gen 8 Plodding",
+  "generation": 8,
+  "created_at": "2017-12-02T13:45:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 8 Plodding. I've never told anyone this, but I once kissed a dog. I once kissed a moose. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "22731@5",
+  "sire": "26009@7",
+  "children": [
+    "29906@11",
+    "33409@9",
+    "42150@9",
+    "77608@10",
+    "84645@20",
+    "97557@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

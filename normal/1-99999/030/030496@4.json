@@ -1,0 +1,27 @@
+{
+  "id": 30496,
+  "name": "Szabo",
+  "generation": 4,
+  "created_at": "2017-12-02T16:53:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Szabo. I enjoy sweating through my feet, spinning sick beats, and shakin' dat booty. I once got in a fight with a platypus, and won. Let's get busy!",
+  "language": "en",
+  "matron": "14131@3",
+  "sire": "30006@3",
+  "children": [
+    "30880@6",
+    "37220@5",
+    "37998@7",
+    "38982@5",
+    "40415@5",
+    "43794@5",
+    "45342@5",
+    "63672@7",
+    "66570@5",
+    "104274@5",
+    "261943@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

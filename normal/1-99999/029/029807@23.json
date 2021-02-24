@@ -1,0 +1,17 @@
+{
+  "id": 29807,
+  "name": "Gen 23",
+  "generation": 23,
+  "created_at": "2017-12-02T15:00:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 23. In high school, I was voted most likely to work at NASA. I once got in a fight with a moose, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17595@22",
+  "sire": "17600@18",
+  "children": [
+    "43903@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

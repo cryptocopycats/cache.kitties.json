@@ -1,0 +1,20 @@
+{
+  "id": 31883,
+  "name": "Gen 9 Lolo",
+  "generation": 9,
+  "created_at": "2017-12-02T20:09:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gen 9 Lolo. I enjoy fighting for the people, taking selfies, and grooming. I once dreamed of being a Private Dancer . Now I can be found riding the bus all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "27776@6",
+  "sire": "24539@8",
+  "children": [
+    "40161@10",
+    "46661@10",
+    "46737@10",
+    "50564@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

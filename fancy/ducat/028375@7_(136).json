@@ -1,0 +1,29 @@
+{
+  "id": 28375,
+  "name": "G7 Bird | 1st gen",
+  "generation": 7,
+  "created_at": "2017-12-02T10:14:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm G7 Bird | 1st gen. I believe that one day cats will rule this planet. When I'm not sleeping in fresh laundry, I'm swiping left! Our friendship will be prickly, preposterous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24990@6",
+  "sire": "28295@6",
+  "children": [
+    "28691@8",
+    "28778@8",
+    "29126@8",
+    "30861@8",
+    "33275@8",
+    "39321@8",
+    "59894@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 136,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

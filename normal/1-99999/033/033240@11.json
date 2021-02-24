@@ -1,0 +1,17 @@
+{
+  "id": 33240,
+  "name": "Spunky",
+  "generation": 11,
+  "created_at": "2017-12-02T22:51:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Spunky. All you need to know about me is I hate steak with a passion. When I'm not mocking dogs, I'm sleeping in fresh laundry! Let's get busy!",
+  "language": "en",
+  "matron": "29741@10",
+  "sire": "30035@5",
+  "children": [
+    "102618@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 31316,
+  "name": "Gen12",
+  "generation": 12,
+  "created_at": "2017-12-02T18:55:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen12. I'm a Mad Scientist by day, and I like pole dancing by night. I'm often described as seductive, and I own it. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "24473@9",
+  "sire": "26078@11",
+  "children": [
+    "48702@13",
+    "49341@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

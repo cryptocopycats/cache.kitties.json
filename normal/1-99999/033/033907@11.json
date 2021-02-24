@@ -1,0 +1,24 @@
+{
+  "id": 33907,
+  "name": "Colombus",
+  "generation": 11,
+  "created_at": "2017-12-03T00:04:03.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Colombus. I'm often referred to as the Niles Crane of the group. Some people say I'm the Niles Crane of the group. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "30274@4",
+  "sire": "31196@10",
+  "children": [
+    "52191@16",
+    "54793@12",
+    "65442@12",
+    "70290@19",
+    "77918@15",
+    "103293@20",
+    "170165@12",
+    "355466@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

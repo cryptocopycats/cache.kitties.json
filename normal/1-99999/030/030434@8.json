@@ -1,0 +1,21 @@
+{
+  "id": 30434,
+  "name": "Demogorogon",
+  "generation": 8,
+  "created_at": "2017-12-02T16:42:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Demogorogon. I've never told anyone this, but I once loved a dog. Sometimes I daydream of a life full of watching Stranger Things, cereal, and talking about how much I lift. Let's get busy!",
+  "language": "en",
+  "matron": "28016@7",
+  "sire": "27891@7",
+  "children": [
+    "30604@9",
+    "31119@10",
+    "32372@13",
+    "37303@13",
+    "66247@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

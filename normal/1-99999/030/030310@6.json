@@ -1,0 +1,19 @@
+{
+  "id": 30310,
+  "name": "Gen 6 Dalík",
+  "generation": 6,
+  "created_at": "2017-12-02T16:25:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 6 Dalík. I enjoy picking flowers, shakin' dat booty, and reciting poetry. In my free time, I can usually be found vegan or practicing witchcraft. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "29037@5",
+  "sire": "28657@5",
+  "children": [
+    "30751@7",
+    "42235@7",
+    "54429@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

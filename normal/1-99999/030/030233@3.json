@@ -1,0 +1,24 @@
+{
+  "id": 30233,
+  "name": "gen3",
+  "generation": 3,
+  "created_at": "2017-12-02T16:11:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm gen3. I'm often referred to as the Hermione Granger of the group. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21355@2",
+  "sire": "20924@2",
+  "children": [
+    "30480@5",
+    "30702@4",
+    "31274@4",
+    "31732@5",
+    "37816@6",
+    "38889@4",
+    "58171@4",
+    "75374@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

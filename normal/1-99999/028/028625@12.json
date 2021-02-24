@@ -1,0 +1,20 @@
+{
+  "id": 28625,
+  "name": "Propacata",
+  "generation": 12,
+  "created_at": "2017-12-02T11:01:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Propacata. I've never told anyone this, but I once cleaned a dog. My secret indulgence is chocolate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "27516@11",
+  "sire": "21324@10",
+  "children": [
+    "30164@13",
+    "32249@16",
+    "46144@17",
+    "76529@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

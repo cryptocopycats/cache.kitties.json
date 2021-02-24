@@ -1,0 +1,27 @@
+{
+  "id": 31149,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T18:33:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Gen 2. I'm often referred to as the Marge Simpson of the group. When I'm not talking about how much I lift, I'm sleeping in fresh laundry! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "30222@1",
+  "sire": "29917@1",
+  "children": [
+    "31749@3",
+    "32156@3",
+    "32301@3",
+    "32321@3",
+    "33166@3",
+    "35372@3",
+    "38280@3",
+    "43153@3",
+    "64975@3",
+    "82213@3",
+    "153576@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

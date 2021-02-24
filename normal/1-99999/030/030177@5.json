@@ -1,0 +1,24 @@
+{
+  "id": 30177,
+  "name": "Vitalik",
+  "generation": 5,
+  "created_at": "2017-12-02T16:00:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Vitalik. My friends describe me as petulant and annoying. I put pickles on everything. Like, everything: hot dogs, steak—everything! Let's get busy!",
+  "language": "en",
+  "matron": "25186@4",
+  "sire": "27377@3",
+  "children": [
+    "36801@6",
+    "37704@6",
+    "38358@6",
+    "54460@6",
+    "76164@6",
+    "83975@6",
+    "98933@6",
+    "120712@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

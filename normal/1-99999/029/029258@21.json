@@ -1,0 +1,18 @@
+{
+  "id": 29258,
+  "name": "Captain Wobblermuffins",
+  "generation": 21,
+  "created_at": "2017-12-02T13:16:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Captain Wobblermuffins. I'm a Train Conductor by day, and I like riding the bus by night. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "9365@15",
+  "sire": "10056@20",
+  "children": [
+    "35608@22",
+    "76309@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

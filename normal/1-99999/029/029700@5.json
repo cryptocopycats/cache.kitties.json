@@ -1,0 +1,24 @@
+{
+  "id": 29700,
+  "name": "Gen 5 Chart",
+  "generation": 5,
+  "created_at": "2017-12-02T14:37:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Gen 5 Chart. I once peed on Martin Luther King Jr.'s cat. They had it coming. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I look forward to fighting the patriarchy with you.",
+  "language": "en",
+  "matron": "29428@4",
+  "sire": "28455@4",
+  "children": [
+    "29769@6",
+    "30005@6",
+    "30324@6",
+    "31778@6",
+    "32138@7",
+    "35055@7",
+    "42022@6",
+    "46021@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

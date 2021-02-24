@@ -1,0 +1,26 @@
+{
+  "id": 31302,
+  "name": "Gen 3 Snappy",
+  "generation": 3,
+  "created_at": "2017-12-02T18:54:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 3 Snappy. All you need to know about me is I hate ice cream with a passion. I would give it all up to star in a soap opera. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "14807@2",
+  "sire": "30396@2",
+  "children": [
+    "31674@4",
+    "31724@4",
+    "34315@4",
+    "46330@4",
+    "48254@4",
+    "165729@4",
+    "172214@4",
+    "191873@4",
+    "219941@4",
+    "252442@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

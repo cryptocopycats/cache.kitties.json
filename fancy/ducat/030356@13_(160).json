@@ -1,0 +1,28 @@
+{
+  "id": 30356,
+  "name": "Taine Fancy",
+  "generation": 13,
+  "created_at": "2017-12-02T16:31:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Taine Fancy. I'm a professional Dispensary Clerk and I love ice cream. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I look forward to eating until I loathe myself with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30079@9",
+  "sire": "19647@12",
+  "children": [
+    "31398@14",
+    "32823@14",
+    "42178@14",
+    "46064@19",
+    "79874@14",
+    "93194@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 160,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

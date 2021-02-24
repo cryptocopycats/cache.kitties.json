@@ -1,0 +1,21 @@
+{
+  "id": 28330,
+  "name": "Russell Westbrook",
+  "generation": 9,
+  "created_at": "2017-12-02T10:06:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Russell Westbrook. My friends describe me as hairy and preposterous. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Will you be the pickles to my marmalade?",
+  "language": "en",
+  "matron": "18597@8",
+  "sire": "26742@6",
+  "children": [
+    "53927@10",
+    "58595@14",
+    "81649@17",
+    "170118@10",
+    "231675@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

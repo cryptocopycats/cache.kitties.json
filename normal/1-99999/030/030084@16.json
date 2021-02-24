@@ -1,0 +1,19 @@
+{
+  "id": 30084,
+  "name": "Simple Sarah",
+  "generation": 16,
+  "created_at": "2017-12-02T15:48:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Simple Sarah. I'm often referred to as the Ross Geller of the group. I'm often described as prickly, and I own it. Our friendship will be brilliant, stinky, and full of chocolate.",
+  "language": "en",
+  "matron": "8669@1",
+  "sire": "24938@15",
+  "children": [
+    "37001@17",
+    "64473@17",
+    "116952@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

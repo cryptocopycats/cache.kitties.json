@@ -1,0 +1,26 @@
+{
+  "id": 29971,
+  "name": "Gen 3 - A",
+  "generation": 3,
+  "created_at": "2017-12-02T15:29:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Gen 3 - A. I'm a Dispensary Clerk by day, and I like pole dancing by night. Sometimes I daydream of a life full of eating lasagna, wet food, and running a podcast. Our friendship will be prickly, petulant, and full of lasagna.",
+  "language": "en",
+  "matron": "29484@2",
+  "sire": "14435@2",
+  "children": [
+    "30389@4",
+    "30470@4",
+    "30603@4",
+    "30754@4",
+    "31242@4",
+    "36373@4",
+    "41181@4",
+    "42913@4",
+    "127184@4",
+    "191689@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

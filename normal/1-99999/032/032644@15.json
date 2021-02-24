@@ -1,0 +1,18 @@
+{
+  "id": 32644,
+  "name": "Lost",
+  "generation": 15,
+  "created_at": "2017-12-02T21:42:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Lost. I want to live in a world where people believe that one day cats will rule this planet. I am 67% wizard, 16% Dogwalker, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "13549@3",
+  "sire": "32569@14",
+  "children": [
+    "34987@16",
+    "46457@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

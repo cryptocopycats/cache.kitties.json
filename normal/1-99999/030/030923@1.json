@@ -1,0 +1,25 @@
+{
+  "id": 30923,
+  "name": "VITALIK BUTERIN",
+  "generation": 1,
+  "created_at": "2017-12-02T18:02:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm VITALIK BUTERIN. I want to live in a world where people believe that one day cats will rule this planet. I once licked a rooster. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "2629@0",
+  "sire": "2597@0",
+  "children": [
+    "31988@8",
+    "70562@2",
+    "74028@2",
+    "83909@2",
+    "85780@2",
+    "89972@2",
+    "92203@2",
+    "102957@2",
+    "307600@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

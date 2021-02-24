@@ -1,0 +1,25 @@
+{
+  "id": 32709,
+  "name": "bob | gen2 salmon",
+  "generation": 2,
+  "created_at": "2017-12-02T21:50:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm bob | gen2 salmon. All you need to know about me is I hate ice cream with a passion. Sometimes I daydream of a life full of breakdancing, cantaloupe, and pole dancing. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "20681@1",
+  "sire": "10769@1",
+  "children": [
+    "35734@3",
+    "36123@3",
+    "36722@3",
+    "38111@3",
+    "40659@3",
+    "41159@3",
+    "44227@3",
+    "63433@3",
+    "113199@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

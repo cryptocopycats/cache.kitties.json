@@ -1,0 +1,20 @@
+{
+  "id": 29848,
+  "name": "Gen 4 - Swift",
+  "generation": 4,
+  "created_at": "2017-12-02T15:06:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Gen 4 - Swift. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "29673@3",
+  "sire": "28400@3",
+  "children": [
+    "30030@6",
+    "30143@6",
+    "30458@6",
+    "30924@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

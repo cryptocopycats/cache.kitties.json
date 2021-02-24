@@ -1,0 +1,24 @@
+{
+  "id": 30967,
+  "name": "Gen5 Mauveover",
+  "generation": 5,
+  "created_at": "2017-12-02T18:09:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen5 Mauveover. I believe the world is flat. I like to listen to Gloria Estefan while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "30735@4",
+  "sire": "30904@4",
+  "children": [
+    "31125@6",
+    "36047@6",
+    "39106@7",
+    "47533@6",
+    "49903@6",
+    "53194@6",
+    "65943@8",
+    "88839@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

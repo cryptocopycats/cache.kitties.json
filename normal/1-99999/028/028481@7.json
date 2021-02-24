@@ -1,0 +1,25 @@
+{
+  "id": 28481,
+  "name": "Perezoso",
+  "generation": 7,
+  "created_at": "2017-12-02T10:36:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Perezoso. My friends describe me as voluptuous and gullible. I once made a platypus leap. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "28141@6",
+  "sire": "24255@6",
+  "children": [
+    "39941@8",
+    "41045@9",
+    "42219@8",
+    "46140@9",
+    "61368@9",
+    "80499@9",
+    "160953@8",
+    "185652@8",
+    "221573@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

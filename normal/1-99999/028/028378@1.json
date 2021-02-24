@@ -1,0 +1,21 @@
+{
+  "id": 28378,
+  "name": "Peach Scarlet",
+  "generation": 1,
+  "created_at": "2017-12-02T10:14:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Peach Scarlet. I'm a professional Aerobics Athlete  and I love salad. I once got in a fight with a platypus, and won. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16475@0",
+  "sire": "24682@0",
+  "children": [
+    "36917@2",
+    "37585@2",
+    "55359@2",
+    "76610@2",
+    "100860@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

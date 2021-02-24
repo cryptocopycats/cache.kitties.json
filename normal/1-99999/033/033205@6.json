@@ -1,0 +1,20 @@
+{
+  "id": 33205,
+  "name": "RedEyes - Gen 6 - Otaku",
+  "generation": 6,
+  "created_at": "2017-12-02T22:47:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm RedEyes - Gen 6 - Otaku. I've never told anyone this, but I once kissed a dog. Some people say I'm the Marge Simpson of the group. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "22707@4",
+  "sire": "20060@5",
+  "children": [
+    "35059@7",
+    "36320@7",
+    "37396@8",
+    "39159@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

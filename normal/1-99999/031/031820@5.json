@@ -1,0 +1,21 @@
+{
+  "id": 31820,
+  "name": "Gen 5 Yellooo Kittyyyy",
+  "generation": 5,
+  "created_at": "2017-12-02T20:01:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 5 Yellooo Kittyyyy. My friends describe me as stinky and seductive. I once dreamed of being a Mad Scientist. Now I can be found running a podcast all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30878@4",
+  "sire": "31404@4",
+  "children": [
+    "32183@6",
+    "32483@6",
+    "40179@6",
+    "41224@6",
+    "46393@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

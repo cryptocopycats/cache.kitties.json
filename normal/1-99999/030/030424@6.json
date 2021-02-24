@@ -1,0 +1,22 @@
+{
+  "id": 30424,
+  "name": "Gen 6 Royal",
+  "generation": 6,
+  "created_at": "2017-12-02T16:41:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Gen 6 Royal. I'm a professional Spin Instructor  and I love cereal. Some people say I'm the Ross Geller of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "30033@5",
+  "sire": "11396@5",
+  "children": [
+    "30783@7",
+    "31045@7",
+    "31205@7",
+    "32762@7",
+    "39090@7",
+    "46256@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

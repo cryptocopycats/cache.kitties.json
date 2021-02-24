@@ -1,0 +1,19 @@
+{
+  "id": 30610,
+  "name": "I Paw the Sign",
+  "generation": 12,
+  "created_at": "2017-12-02T17:20:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm I Paw the Sign. I've never told anyone this, but I once pawed at a dog. When no one's home, I invite my pals over and we listen to Ace of Base. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26341@11",
+  "sire": "29310@5",
+  "children": [
+    "32850@13",
+    "36542@15",
+    "39429@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

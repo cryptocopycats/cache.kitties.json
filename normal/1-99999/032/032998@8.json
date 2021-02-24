@@ -1,0 +1,22 @@
+{
+  "id": 32998,
+  "name": "Gen8 Plodding Cymric Spock",
+  "generation": 8,
+  "created_at": "2017-12-02T22:20:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Gen8 Plodding Cymric Spock here. I'm here to enjoy riding unicorns and tricking babies. I would give it all up to be on Oprah. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "31141@6",
+  "sire": "30071@7",
+  "children": [
+    "41275@10",
+    "42557@9",
+    "62574@10",
+    "78357@16",
+    "90847@16",
+    "129469@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

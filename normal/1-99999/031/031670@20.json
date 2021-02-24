@@ -1,0 +1,18 @@
+{
+  "id": 31670,
+  "name": "Rare Himalayan Kitty",
+  "generation": 20,
+  "created_at": "2017-12-02T19:40:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Rare Himalayan Kitty. My friends describe me as gullible and tantalizing. When I'm not sleeping in fresh laundry, I'm tricking babies! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30042@15",
+  "sire": "29870@19",
+  "children": [
+    "31948@21",
+    "95524@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

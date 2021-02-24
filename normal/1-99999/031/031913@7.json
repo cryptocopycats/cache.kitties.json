@@ -1,0 +1,20 @@
+{
+  "id": 31913,
+  "name": "BeardOtaku (0.23% Rarity)",
+  "generation": 7,
+  "created_at": "2017-12-02T20:09:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm BeardOtaku (0.23% Rarity). My friends describe me as raunchy and wondrous. Some people say I'm the Bart Simpson of the group. I like your face.",
+  "language": "en",
+  "matron": "23838@5",
+  "sire": "30576@6",
+  "children": [
+    "45895@8",
+    "174860@8",
+    "356636@13",
+    "365655@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

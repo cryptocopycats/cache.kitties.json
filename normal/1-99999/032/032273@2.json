@@ -1,0 +1,27 @@
+{
+  "id": 32273,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T20:57:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 2. I'm often referred to as the Jon Snow of the group. I once pranced with a gecko. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "30022@1",
+  "sire": "31286@1",
+  "children": [
+    "32636@3",
+    "32665@3",
+    "34230@3",
+    "35445@3",
+    "36737@3",
+    "36969@3",
+    "46432@3",
+    "142758@3",
+    "154712@3",
+    "183080@3",
+    "228915@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

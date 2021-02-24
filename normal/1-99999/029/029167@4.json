@@ -1,0 +1,25 @@
+{
+  "id": 29167,
+  "name": "G4 Ralph Schrödinger",
+  "generation": 4,
+  "created_at": "2017-12-02T12:54:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G4 Ralph Schrödinger. I'm a professional Mad Scientist and I love chocolate. I'm often described as fabulous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "28053@3",
+  "sire": "27512@3",
+  "children": [
+    "66511@5",
+    "67702@5",
+    "67858@5",
+    "79542@5",
+    "97299@5",
+    "108234@5",
+    "113977@5",
+    "151789@17",
+    "209653@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

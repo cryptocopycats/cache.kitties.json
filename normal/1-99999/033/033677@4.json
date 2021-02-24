@@ -1,0 +1,23 @@
+{
+  "id": 33677,
+  "name": "Gen 4 | Plodding",
+  "generation": 4,
+  "created_at": "2017-12-02T23:38:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Gen 4 | Plodding. I enjoy being a nevernude, licking doorknobs, and riding dirty. Sometimes I daydream of a life full of fighting for the people, hamburgers, and sleeping in fresh laundry. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "33629@3",
+  "sire": "32954@3",
+  "children": [
+    "33830@5",
+    "33942@5",
+    "34482@5",
+    "41574@5",
+    "46536@5",
+    "222029@8",
+    "237568@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

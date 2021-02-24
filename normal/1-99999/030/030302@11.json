@@ -1,0 +1,20 @@
+{
+  "id": 30302,
+  "name": "Luigi",
+  "generation": 11,
+  "created_at": "2017-12-02T16:24:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Luigi. I want to live in a world where people believe the world is flat. When I'm not practicing witchcraft, I'm running a podcast! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "28640@10",
+  "sire": "28639@10",
+  "children": [
+    "30593@12",
+    "33063@12",
+    "44138@12",
+    "96133@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

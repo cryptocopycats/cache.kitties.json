@@ -1,0 +1,24 @@
+{
+  "id": 30702,
+  "name": "gen4",
+  "generation": 4,
+  "created_at": "2017-12-02T17:31:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! gen4 here. I'm here to enjoy hitting on yo' man and fighting for the people. I'm often described as hairy, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30233@3",
+  "sire": "23071@3",
+  "children": [
+    "30836@5",
+    "31157@5",
+    "31454@5",
+    "37800@5",
+    "40152@5",
+    "46279@5",
+    "65808@5",
+    "87161@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

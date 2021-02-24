@@ -1,0 +1,21 @@
+{
+  "id": 30456,
+  "name": "Biank",
+  "generation": 11,
+  "created_at": "2017-12-02T16:47:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Biank. My friends describe me as hairy and raunchy. In my free time, I can usually be found despicable or practicing witchcraft. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "12521@10",
+  "sire": "12418@10",
+  "children": [
+    "34874@15",
+    "35134@13",
+    "54037@15",
+    "58602@16",
+    "87368@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 32358,
+  "name": "Mr. Plum-Bum",
+  "generation": 12,
+  "created_at": "2017-12-02T21:07:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Mr. Plum-Bum. My friends describe me as brilliant and ridiculous. I'm often described as annoying, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "28895@11",
+  "sire": "31130@10",
+  "children": [
+    "55377@13",
+    "57485@14",
+    "77898@21",
+    "110606@20",
+    "141045@13",
+    "235114@20"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

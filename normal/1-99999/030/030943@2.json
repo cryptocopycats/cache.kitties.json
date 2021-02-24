@@ -1,0 +1,27 @@
+{
+  "id": 30943,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T18:02:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Gen 2. I'm a Skydiving Instructor by day, and I like people-watching by night. My secret indulgence is chocolate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30022@1",
+  "sire": "29839@1",
+  "children": [
+    "30988@3",
+    "31882@3",
+    "32180@3",
+    "34413@3",
+    "36842@3",
+    "44179@3",
+    "46460@3",
+    "56913@3",
+    "79769@3",
+    "126743@3",
+    "146347@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

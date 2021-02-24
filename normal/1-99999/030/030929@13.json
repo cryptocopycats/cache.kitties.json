@@ -1,0 +1,22 @@
+{
+  "id": 30929,
+  "name": "Choco | Gen 13",
+  "generation": 13,
+  "created_at": "2017-12-02T18:02:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Choco | Gen 13. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Mother Theresa. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "14735@12",
+  "sire": "14768@12",
+  "children": [
+    "35925@15",
+    "37117@14",
+    "46304@14",
+    "60622@14",
+    "377966@14",
+    "445676@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

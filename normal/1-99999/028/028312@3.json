@@ -1,0 +1,23 @@
+{
+  "id": 28312,
+  "name": "G3 | Socks",
+  "generation": 3,
+  "created_at": "2017-12-02T10:06:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! G3 | Socks here. I'm here to enjoy grooming and reciting poetry. I like to listen to Metallica while grooming. Don't judge me. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "27322@2",
+  "sire": "27162@2",
+  "children": [
+    "34323@4",
+    "53216@4",
+    "58238@4",
+    "66007@4",
+    "75053@4",
+    "80578@4",
+    "138170@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

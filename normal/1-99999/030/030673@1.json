@@ -1,0 +1,33 @@
+{
+  "id": 30673,
+  "name": "Gen 1",
+  "generation": 1,
+  "created_at": "2017-12-02T17:30:12.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Gen 1. I want to live in a world where people believe the world is flat. I am 0% gremlin, 3% Skydiving Instructor, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "29873@0",
+  "sire": "29730@0",
+  "children": [
+    "30977@2",
+    "31689@2",
+    "31753@2",
+    "31895@2",
+    "32307@2",
+    "34412@2",
+    "49270@2",
+    "49274@2",
+    "51243@2",
+    "77009@2",
+    "138886@2",
+    "159202@2",
+    "253767@2",
+    "732867@2",
+    "907180@2",
+    "1213571@2",
+    "1414041@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31116,
+  "name": "Linda Gen 6 (rare attributes)",
+  "generation": 6,
+  "created_at": "2017-12-02T18:30:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Linda Gen 6 (rare attributes). I'm a Ventriloquist by day, and I like people-watching by night. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "14706@3",
+  "sire": "13918@5",
+  "children": [
+    "32441@14",
+    "32673@7",
+    "42358@8",
+    "46286@15",
+    "46314@14",
+    "57141@15",
+    "78684@15",
+    "92262@18",
+    "151636@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

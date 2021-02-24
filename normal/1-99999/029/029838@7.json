@@ -1,0 +1,24 @@
+{
+  "id": 29838,
+  "name": "Gen 7 STARTER",
+  "generation": 7,
+  "created_at": "2017-12-02T15:04:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 7 STARTER. I want to live in a world where people believe that one day cats will rule this planet. I once clawed a platypus. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "29358@6",
+  "sire": "29628@6",
+  "children": [
+    "30635@9",
+    "30824@12",
+    "33628@8",
+    "40518@17",
+    "40575@8",
+    "52199@8",
+    "337683@8",
+    "355022@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

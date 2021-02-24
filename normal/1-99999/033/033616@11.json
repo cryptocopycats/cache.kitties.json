@@ -1,0 +1,18 @@
+{
+  "id": 33616,
+  "name": "Gen 11",
+  "generation": 11,
+  "created_at": "2017-12-02T23:32:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! Gen 11 here. I'm here to enjoy staying woke and fighting for the people. In my free time, I can usually be found wondrous or swiping left. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "32968@10",
+  "sire": "33024@6",
+  "children": [
+    "35630@14",
+    "36112@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 32133,
+  "name": "G15 Feathers Keaton",
+  "generation": 15,
+  "created_at": "2017-12-02T20:38:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm G15 Feathers Keaton. I'm a professional Aerobics Athlete  and I love cantaloupe. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "2449@0",
+  "sire": "21517@14",
+  "children": [
+    "32879@16",
+    "58788@16",
+    "100827@16",
+    "121945@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 195,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

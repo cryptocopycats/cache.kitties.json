@@ -1,0 +1,22 @@
+{
+  "id": 29543,
+  "name": "Vampire",
+  "generation": 10,
+  "created_at": "2017-12-02T14:08:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Vampire. I enjoy riding unicorns, shakin' dat booty, and riding dirty. My friends describe me as \"raunchy.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "27543@9",
+  "sire": "26523@8",
+  "children": [
+    "35481@11",
+    "36524@11",
+    "37783@12",
+    "55275@11",
+    "78069@18",
+    "137564@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

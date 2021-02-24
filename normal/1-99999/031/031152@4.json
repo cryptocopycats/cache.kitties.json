@@ -1,0 +1,24 @@
+{
+  "id": 31152,
+  "name": "G4 - cymric - plodding 4h",
+  "generation": 4,
+  "created_at": "2017-12-02T18:33:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm G4 - cymric - plodding 4h. I enjoy watching Stranger Things, tricking babies, and picking flowers. I put marmalade on everything. Like, everything: hot dogs, ice cream—everything! I like your face.",
+  "language": "en",
+  "matron": "30997@3",
+  "sire": "30569@3",
+  "children": [
+    "31408@5",
+    "41985@5",
+    "44007@5",
+    "49313@5",
+    "58122@5",
+    "87069@5",
+    "103206@5",
+    "281510@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

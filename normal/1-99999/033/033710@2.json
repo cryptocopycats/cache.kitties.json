@@ -1,0 +1,27 @@
+{
+  "id": 33710,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T23:42:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Gen 2. I'm often referred to as the Ross Geller of the group. My great-great-great-great-great-great grandkitty lived with Princess Diana. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "29839@1",
+  "sire": "30112@1",
+  "children": [
+    "34080@3",
+    "34242@3",
+    "34985@3",
+    "36794@3",
+    "43255@3",
+    "48418@3",
+    "49506@3",
+    "50809@3",
+    "71349@3",
+    "141923@3",
+    "182207@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

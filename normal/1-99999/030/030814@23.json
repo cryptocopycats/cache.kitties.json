@@ -1,0 +1,18 @@
+{
+  "id": 30814,
+  "name": "Blind Kitty",
+  "generation": 23,
+  "created_at": "2017-12-02T17:47:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Blind Kitty. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Michael Bolton. Can you make my preposterous dreams come true?",
+  "language": "en",
+  "matron": "27074@17",
+  "sire": "28228@22",
+  "children": [
+    "35010@24",
+    "97726@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

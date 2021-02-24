@@ -1,0 +1,21 @@
+{
+  "id": 32359,
+  "name": "OLD",
+  "generation": 5,
+  "created_at": "2017-12-02T21:07:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm OLD. I enjoy licking doorknobs, breakdancing, and riding dirty. I once loved a dolphin. I don't like to talk about it. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "30315@4",
+  "sire": "32185@4",
+  "children": [
+    "32483@6",
+    "45140@6",
+    "58729@6",
+    "61610@6",
+    "65173@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

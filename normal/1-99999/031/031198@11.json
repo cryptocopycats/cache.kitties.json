@@ -1,0 +1,20 @@
+{
+  "id": 31198,
+  "name": "Mariner 1",
+  "generation": 11,
+  "created_at": "2017-12-02T18:37:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! My name's Mariner 1. I once peed on Amelia Earhart's cat. They had it coming. In my free time, I can usually be found raunchy or tricking babies. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "30799@9",
+  "sire": "29904@10",
+  "children": [
+    "31973@12",
+    "32219@12",
+    "46245@12",
+    "93235@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

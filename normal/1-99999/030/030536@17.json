@@ -1,0 +1,20 @@
+{
+  "id": 30536,
+  "name": "Marsha",
+  "generation": 17,
+  "created_at": "2017-12-02T17:09:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Marsha. I've never told anyone this, but I once clawed a dog. I once made a rhino play. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "13521@16",
+  "sire": "13542@15",
+  "children": [
+    "35106@18",
+    "48245@18",
+    "56868@18",
+    "119828@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

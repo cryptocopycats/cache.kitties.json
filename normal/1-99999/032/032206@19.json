@@ -1,0 +1,17 @@
+{
+  "id": 32206,
+  "name": "HAL 9000 (G19)",
+  "generation": 19,
+  "created_at": "2017-12-02T20:48:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm HAL 9000 (G19). I believe that one day cats will rule this planet. When I'm not braiding people's hair, I'm volunteering at the local kitten rescue shelter! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26845@18",
+  "sire": "26834@18",
+  "children": [
+    "42646@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

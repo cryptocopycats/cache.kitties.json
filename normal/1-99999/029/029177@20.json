@@ -1,0 +1,19 @@
+{
+  "id": 29177,
+  "name": "Mrs. Tiger",
+  "generation": 20,
+  "created_at": "2017-12-02T12:57:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Mrs. Tiger. All you need to know about me is I hate wet food with a passion. I was voted school jock in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "18357@19",
+  "sire": "10726@11",
+  "children": [
+    "49227@21",
+    "243129@21",
+    "388037@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

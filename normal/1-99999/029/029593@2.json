@@ -1,0 +1,27 @@
+{
+  "id": 29593,
+  "name": "Bubblegum Emerald",
+  "generation": 2,
+  "created_at": "2017-12-02T14:16:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Bubblegum Emerald. I want to live in a world where people believe the world is flat. I once made a dolphin jump. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "27909@1",
+  "sire": "9931@1",
+  "children": [
+    "29608@3",
+    "29770@3",
+    "43600@3",
+    "52999@3",
+    "62321@3",
+    "68147@3",
+    "85801@3",
+    "122008@3",
+    "123893@3",
+    "148419@3",
+    "222035@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

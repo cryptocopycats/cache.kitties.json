@@ -1,0 +1,22 @@
+{
+  "id": 29802,
+  "name": "HamBone",
+  "generation": 8,
+  "created_at": "2017-12-02T15:00:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm HamBone. In high school, I was voted school jock. Sometimes I daydream of a life full of riding dirty, salad, and prank-calling celebrities. I like your face.",
+  "language": "en",
+  "matron": "29698@7",
+  "sire": "29742@7",
+  "children": [
+    "103659@9",
+    "105313@9",
+    "107580@9",
+    "123918@13",
+    "142923@13",
+    "194664@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

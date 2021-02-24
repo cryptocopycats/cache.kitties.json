@@ -1,0 +1,19 @@
+{
+  "id": 32602,
+  "name": "G4",
+  "generation": 4,
+  "created_at": "2017-12-02T21:40:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G4. I enjoy reciting poetry, riding unicorns, and slappin' da bass. Sometimes I daydream of a life full of shakin' dat booty, wet food, and riding the bus. Let's pawty!",
+  "language": "en",
+  "matron": "31839@3",
+  "sire": "32452@3",
+  "children": [
+    "32923@5",
+    "53640@5",
+    "64432@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

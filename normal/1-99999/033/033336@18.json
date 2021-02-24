@@ -1,0 +1,18 @@
+{
+  "id": 33336,
+  "name": "Golden Catty",
+  "generation": 18,
+  "created_at": "2017-12-02T23:06:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! My name's Golden Catty. I once peed on Nelson Mandela's cat. They had it coming. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "21373@12",
+  "sire": "26635@17",
+  "children": [
+    "37823@19",
+    "76479@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

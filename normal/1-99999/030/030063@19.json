@@ -1,0 +1,18 @@
+{
+  "id": 30063,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-02T15:43:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Kitty #30063. I'm often referred to as the Lisa Simpson of the group. When I'm not siring for status, I'm running a podcast! I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "25470@13",
+  "sire": "20623@18",
+  "children": [
+    "56475@20",
+    "229661@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

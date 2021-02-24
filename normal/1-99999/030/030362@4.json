@@ -1,0 +1,18 @@
+{
+  "id": 30362,
+  "name": "Gen 4 Tigřík",
+  "generation": 4,
+  "created_at": "2017-12-02T16:32:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 4 Tigřík. I'm often referred to as the Dwight Schrute of the group. I once got in a fight with a dog, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29638@3",
+  "sire": "30258@3",
+  "children": [
+    "30937@5",
+    "38279@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

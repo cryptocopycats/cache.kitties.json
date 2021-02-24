@@ -1,0 +1,23 @@
+{
+  "id": 31914,
+  "name": "G9 starter",
+  "generation": 9,
+  "created_at": "2017-12-02T20:09:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm G9 starter. In high school, I was voted most likely to work at NASA. I once made a labradoodle ignore. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "31291@4",
+  "sire": "31325@8",
+  "children": [
+    "42943@10",
+    "49384@10",
+    "64233@10",
+    "75579@10",
+    "97290@10",
+    "102490@10",
+    "355186@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

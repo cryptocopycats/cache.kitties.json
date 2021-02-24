@@ -1,0 +1,21 @@
+{
+  "id": 33014,
+  "name": "Molly",
+  "generation": 13,
+  "created_at": "2017-12-02T22:22:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Molly. I'm a professional Foreign Film Director and I love apple pie. I once dreamed of being a Mad Scientist. Now I can be found reading Danielle Steele all day. Our friendship will be tantalizing, gorgeous, and full of wet food.",
+  "language": "en",
+  "matron": "30711@12",
+  "sire": "20605@11",
+  "children": [
+    "63827@14",
+    "75291@14",
+    "95966@14",
+    "154062@14",
+    "171843@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

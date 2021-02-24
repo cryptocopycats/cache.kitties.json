@@ -1,0 +1,23 @@
+{
+  "id": 30440,
+  "name": "G2 Virgin Gold Fly Kat Fly",
+  "generation": 2,
+  "created_at": "2017-12-02T16:44:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm G2 Virgin Gold Fly Kat Fly. In high school, I was voted school jock. I once made a dolphin kiss. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29889@1",
+  "sire": "26918@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 162,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,21 @@
+{
+  "id": 33021,
+  "name": "10",
+  "generation": 10,
+  "created_at": "2017-12-02T22:22:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm 10. I enjoy chasing red dots, tricking babies, and fighting the patriarchy. I was voted biggest teacher's pet in college. Let's pawty!",
+  "language": "en",
+  "matron": "17576@9",
+  "sire": "19163@6",
+  "children": [
+    "33739@11",
+    "68317@18",
+    "80785@17",
+    "90922@11",
+    "111265@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

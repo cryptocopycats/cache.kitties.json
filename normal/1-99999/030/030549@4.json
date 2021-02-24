@@ -1,0 +1,22 @@
+{
+  "id": 30549,
+  "name": "G4 | Spock",
+  "generation": 4,
+  "created_at": "2017-12-02T17:10:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm G4 | Spock. I enjoy being a nevernude, slappin' da bass, and tricking babies. My secret indulgence is steak. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "20650@3",
+  "sire": "20199@3",
+  "children": [
+    "30707@5",
+    "30734@5",
+    "31163@5",
+    "32215@5",
+    "33776@5",
+    "67926@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

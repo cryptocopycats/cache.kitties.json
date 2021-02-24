@@ -1,0 +1,18 @@
+{
+  "id": 28395,
+  "name": "Gen20 Sluggish",
+  "generation": 20,
+  "created_at": "2017-12-02T10:19:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Gen20 Sluggish. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "24922@1",
+  "sire": "28356@19",
+  "children": [
+    "40093@21",
+    "113686@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

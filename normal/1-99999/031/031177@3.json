@@ -1,0 +1,24 @@
+{
+  "id": 31177,
+  "name": "Luckystripe",
+  "generation": 3,
+  "created_at": "2017-12-02T18:33:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Luckystripe. I've never told anyone this, but I once headbutted a dog. I once got in a fight with a gecko, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "27175@2",
+  "sire": "19067@1",
+  "children": [
+    "31294@4",
+    "31471@4",
+    "31901@4",
+    "32056@4",
+    "33505@5",
+    "38239@4",
+    "48632@4",
+    "60238@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

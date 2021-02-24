@@ -1,0 +1,19 @@
+{
+  "id": 33258,
+  "name": "Albert Einstein",
+  "generation": 20,
+  "created_at": "2017-12-02T22:53:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Albert Einstein. I enjoy picking on mice, slappin' da bass, and eating until I loathe myself. My secret indulgence is salad. Let's get busy!",
+  "language": "en",
+  "matron": "17396@14",
+  "sire": "28491@19",
+  "children": [
+    "52694@21",
+    "118101@21",
+    "290273@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

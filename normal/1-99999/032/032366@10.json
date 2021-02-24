@@ -1,0 +1,19 @@
+{
+  "id": 32366,
+  "name": "10",
+  "generation": 10,
+  "created_at": "2017-12-02T21:07:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! 10 here. I'm here to enjoy chasing red dots and watching Stranger Things. When no one's home, I invite my pals over and we listen to Coldplay. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "27030@7",
+  "sire": "30117@9",
+  "children": [
+    "34347@11",
+    "36939@13",
+    "40069@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

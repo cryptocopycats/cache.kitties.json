@@ -1,0 +1,18 @@
+{
+  "id": 32148,
+  "name": "Breeds 2 Chickens",
+  "generation": 16,
+  "created_at": "2017-12-02T20:39:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Breeds 2 Chickens. I'm a professional Culinary Sanitation Specialist and I love salad. I am 3% sphinx, 96% Culinary Sanitation Specialist, and otherwise bad at math. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "26771@14",
+  "sire": "17017@15",
+  "children": [
+    "79929@18",
+    "111868@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30123,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T15:52:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! My name's Gen 2. I once peed on Nelson Mandela's cat. They had it coming. I'm often described as voluptuous, and I own it. I like your face.",
+  "language": "en",
+  "matron": "29917@1",
+  "sire": "29839@1",
+  "children": [
+    "30491@3",
+    "31122@3",
+    "49319@3",
+    "50821@3",
+    "133281@3",
+    "140614@3",
+    "146790@3",
+    "153473@3",
+    "166830@3",
+    "193163@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

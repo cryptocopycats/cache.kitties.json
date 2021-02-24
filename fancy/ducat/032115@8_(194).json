@@ -1,0 +1,25 @@
+{
+  "id": 32115,
+  "name": "G8 Alomost pure lineage + sail",
+  "generation": 8,
+  "created_at": "2017-12-02T20:37:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm G8 Alomost pure lineage + sail. I enjoy picking flowers, sweating through my feet, and staying woke. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31004@7",
+  "sire": "31298@7",
+  "children": [
+    "33917@9",
+    "34290@9",
+    "35371@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 194,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

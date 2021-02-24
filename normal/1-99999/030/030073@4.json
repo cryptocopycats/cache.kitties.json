@@ -1,0 +1,18 @@
+{
+  "id": 30073,
+  "name": "g4 gold cymric",
+  "generation": 4,
+  "created_at": "2017-12-02T15:43:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm g4 gold cymric. I enjoy watching Stranger Things, reciting poetry, and slappin' da bass. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I like your face.",
+  "language": "en",
+  "matron": "27485@3",
+  "sire": "2762@0",
+  "children": [
+    "31679@5",
+    "36990@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

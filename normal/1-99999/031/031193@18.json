@@ -1,0 +1,18 @@
+{
+  "id": 31193,
+  "name": "Jaguar Gene IV",
+  "generation": 18,
+  "created_at": "2017-12-02T18:36:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Jaguar Gene IV. My friends describe me as stinky and seductive. My friends describe me as \"petulant.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "21891@17",
+  "sire": "24511@10",
+  "children": [
+    "40909@19",
+    "77995@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

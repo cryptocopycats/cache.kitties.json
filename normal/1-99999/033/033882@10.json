@@ -1,0 +1,21 @@
+{
+  "id": 33882,
+  "name": "Kitty 33882",
+  "generation": 10,
+  "created_at": "2017-12-02T23:59:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! My name's Kitty 33882. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once bit a rabbit. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15951@8",
+  "sire": "33256@9",
+  "children": [
+    "46553@15",
+    "59562@11",
+    "66731@16",
+    "81287@16",
+    "118391@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

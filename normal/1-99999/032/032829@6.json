@@ -1,0 +1,18 @@
+{
+  "id": 32829,
+  "name": "Snappy Gen 6 Virgin",
+  "generation": 6,
+  "created_at": "2017-12-02T22:08:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Snappy Gen 6 Virgin. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "32612@5",
+  "sire": "32158@4",
+  "children": [
+    "147961@13",
+    "159273@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

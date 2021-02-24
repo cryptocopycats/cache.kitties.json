@@ -1,0 +1,19 @@
+{
+  "id": 32864,
+  "name": "Cream",
+  "generation": 10,
+  "created_at": "2017-12-02T22:12:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Cream. I'm a professional Ventriloquist and I love salad. I am 60% gremlin, 96% Skydiving Instructor, and otherwise bad at math. Our friendship will be fabulous, voluptuous, and full of ice cream.",
+  "language": "en",
+  "matron": "31392@9",
+  "sire": "32047@9",
+  "children": [
+    "51834@11",
+    "59338@11",
+    "75720@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

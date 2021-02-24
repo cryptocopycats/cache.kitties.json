@@ -1,0 +1,19 @@
+{
+  "id": 33065,
+  "name": "Otto von DaBrain",
+  "generation": 18,
+  "created_at": "2017-12-02T22:27:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Otto von DaBrain. My friends describe me as despicable and prickly. Sometimes I daydream of a life full of eating until I loathe myself, hamburgers, and mocking dogs. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "32057@11",
+  "sire": "16443@17",
+  "children": [
+    "43884@19",
+    "55553@19",
+    "136322@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

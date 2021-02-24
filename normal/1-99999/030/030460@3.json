@@ -1,0 +1,19 @@
+{
+  "id": 30460,
+  "name": "Snappy | Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T16:49:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! My name's Snappy | Gen 3. I once peed on Amelia Earhart's cat. They had it coming. I'm often described as despicable, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "28052@2",
+  "sire": "1317@0",
+  "children": [
+    "31022@6",
+    "31558@6",
+    "34128@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

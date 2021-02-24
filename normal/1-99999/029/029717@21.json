@@ -1,0 +1,19 @@
+{
+  "id": 29717,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-02T14:39:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #29717. I'm often referred to as the Marge Simpson of the group. Some people say I'm the Marge Simpson of the group. Let's get busy!",
+  "language": "en",
+  "matron": "12761@0",
+  "sire": "21162@20",
+  "children": [
+    "83195@22",
+    "160317@22",
+    "348080@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

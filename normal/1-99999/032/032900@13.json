@@ -1,0 +1,22 @@
+{
+  "id": 32900,
+  "name": "Piggy Cat",
+  "generation": 13,
+  "created_at": "2017-12-02T22:14:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! My name's Piggy Cat. I once peed on Amelia Earhart's cat. They had it coming. I'm often described as prickly, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "28063@11",
+  "sire": "6391@12",
+  "children": [
+    "39725@14",
+    "46524@14",
+    "65048@14",
+    "83825@14",
+    "141153@14",
+    "667834@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

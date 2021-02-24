@@ -1,0 +1,28 @@
+{
+  "id": 30032,
+  "name": "G4 Bird",
+  "generation": 4,
+  "created_at": "2017-12-02T15:39:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm G4 Bird. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of glaring at the neighbour's cat, hamburgers, and mocking dogs. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19612@3",
+  "sire": "20650@3",
+  "children": [
+    "30253@6",
+    "33415@5",
+    "34951@5",
+    "130280@5",
+    "267521@5",
+    "441900@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 155,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

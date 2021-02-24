@@ -1,0 +1,27 @@
+{
+  "id": 28455,
+  "name": "Chartreux em",
+  "generation": 4,
+  "created_at": "2017-12-02T10:28:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Chartreux em. All you need to know about me is I hate ice cream with a passion. I like to listen to Coldplay while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "25913@3",
+  "sire": "14786@1",
+  "children": [
+    "28501@5",
+    "29700@5",
+    "49191@5",
+    "53419@5",
+    "54923@6",
+    "64464@5",
+    "69743@6",
+    "182984@5",
+    "317808@5",
+    "523143@5",
+    "644939@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

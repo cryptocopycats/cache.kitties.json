@@ -1,0 +1,22 @@
+{
+  "id": 32240,
+  "name": "Murchik",
+  "generation": 17,
+  "created_at": "2017-12-02T20:56:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Murchik. I'm a Train Conductor by day, and I like talking about how much I lift by night. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "26969@3",
+  "sire": "22250@16",
+  "children": [
+    "33461@18",
+    "53783@18",
+    "84253@18",
+    "163901@18",
+    "281070@18",
+    "377937@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

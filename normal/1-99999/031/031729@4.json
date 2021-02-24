@@ -1,0 +1,21 @@
+{
+  "id": 31729,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-02T19:45:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Gen 4. I once peed on Mother Theresa's cat. They had it coming. I am 47% oracle, 34% Train Conductor, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "23846@3",
+  "sire": "31497@3",
+  "children": [
+    "32729@18",
+    "33646@8",
+    "38594@8",
+    "124135@12",
+    "286129@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

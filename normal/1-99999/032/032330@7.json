@@ -1,0 +1,19 @@
+{
+  "id": 32330,
+  "name": "Gen 7 - Snappy",
+  "generation": 7,
+  "created_at": "2017-12-02T21:01:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen 7 - Snappy. My friends describe me as preposterous and petulant. When no one's home, I invite my pals over and we listen to Mariah Carey. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "28542@6",
+  "sire": "29079@5",
+  "children": [
+    "34308@8",
+    "44547@8",
+    "66303@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

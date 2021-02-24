@@ -1,0 +1,24 @@
+{
+  "id": 33731,
+  "name": "Gen 9 | Dali, Snappy",
+  "generation": 9,
+  "created_at": "2017-12-02T23:45:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen 9 | Dali, Snappy. My friends describe me as annoying and petulant. I'm often described as prickly, and I own it. Will you be the ranch dressing to my peanut butter?",
+  "language": "en",
+  "matron": "30305@6",
+  "sire": "31063@8",
+  "children": [
+    "35075@10",
+    "35653@10",
+    "42477@10",
+    "43433@10",
+    "68576@10",
+    "96421@10",
+    "120331@10",
+    "172365@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

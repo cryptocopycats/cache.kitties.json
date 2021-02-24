@@ -1,0 +1,20 @@
+{
+  "id": 33154,
+  "name": "Squirrel",
+  "generation": 20,
+  "created_at": "2017-12-02T22:39:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Squirrel. I want to live in a world where people believe that one day cats will rule this planet. I am 93% troll, 20% Private Dancer , and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "27878@12",
+  "sire": "29491@19",
+  "children": [
+    "43966@21",
+    "97192@21",
+    "258602@23",
+    "371991@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 29632,
+  "name": "CyBird #1",
+  "generation": 11,
+  "created_at": "2017-12-02T14:24:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm CyBird #1. I enjoy chasing string, hitting on yo' man, and eating lasagna. It's not common knowledge, but my ancestry connects me to Cleopatra. Will you be the cinammon to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29200@10",
+  "sire": "29309@10",
+  "children": [
+    "30081@12",
+    "33984@12",
+    "43729@12",
+    "121794@12",
+    "183459@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 152,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

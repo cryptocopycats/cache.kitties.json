@@ -1,0 +1,21 @@
+{
+  "id": 28537,
+  "name": "50 Shades of Spay",
+  "generation": 15,
+  "created_at": "2017-12-02T10:44:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm 50 Shades of Spay. I've never told anyone this, but I once frolicked with a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16383@14",
+  "sire": "11141@7",
+  "children": [
+    "65109@16",
+    "84024@16",
+    "92124@16",
+    "118568@16",
+    "288656@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

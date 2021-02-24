@@ -1,0 +1,20 @@
+{
+  "id": 33233,
+  "name": "Sherlock Holmes",
+  "generation": 10,
+  "created_at": "2017-12-02T22:49:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Sherlock Holmes. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "20828@9",
+  "sire": "27617@8",
+  "children": [
+    "60496@11",
+    "68685@11",
+    "73950@11",
+    "87270@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

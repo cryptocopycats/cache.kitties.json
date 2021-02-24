@@ -1,0 +1,22 @@
+{
+  "id": 30841,
+  "name": "ASCII Spam",
+  "generation": 13,
+  "created_at": "2017-12-02T17:50:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm ASCII Spam. I've never told anyone this, but I once pawed at a dog. I once made a dolphin grimace. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "12012@12",
+  "sire": "18621@10",
+  "children": [
+    "36315@17",
+    "45360@14",
+    "85376@20",
+    "107002@14",
+    "118634@14",
+    "316603@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

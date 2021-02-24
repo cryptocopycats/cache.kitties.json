@@ -1,0 +1,20 @@
+{
+  "id": 28568,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-02T10:49:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Gen 14. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Peter Griffin of the group. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "20816@13",
+  "sire": "19389@6",
+  "children": [
+    "33674@15",
+    "35882@15",
+    "44721@18",
+    "75382@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

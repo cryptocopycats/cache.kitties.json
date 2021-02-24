@@ -1,0 +1,19 @@
+{
+  "id": 29500,
+  "name": "Ahven",
+  "generation": 17,
+  "created_at": "2017-12-02T14:01:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! My name's Ahven. I once peed on Confucius's cat. They had it coming. When I'm not watching reality tv, I'm tricking babies! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "28973@7",
+  "sire": "29199@16",
+  "children": [
+    "31009@18",
+    "58256@18",
+    "90039@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

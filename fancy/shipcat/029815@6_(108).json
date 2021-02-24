@@ -1,0 +1,31 @@
+{
+  "id": 29815,
+  "name": "Sailor Pete",
+  "generation": 6,
+  "created_at": "2017-12-02T15:01:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Sailor Pete. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "23130@5",
+  "sire": "20749@0",
+  "children": [
+    "45795@7",
+    "48334@7",
+    "51714@7",
+    "75847@9",
+    "84602@8",
+    "105170@7",
+    "290211@14",
+    "321607@14",
+    "333840@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 108,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

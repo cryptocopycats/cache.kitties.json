@@ -1,0 +1,21 @@
+{
+  "id": 31859,
+  "name": "Gen 9 Snappy",
+  "generation": 9,
+  "created_at": "2017-12-02T20:06:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Gen 9 Snappy. I've never told anyone this, but I once licked a dog. Some people say I'm the Neville Longbottom of the group. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "30864@4",
+  "sire": "31354@8",
+  "children": [
+    "32275@12",
+    "42433@16",
+    "203004@10",
+    "282693@10",
+    "324513@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

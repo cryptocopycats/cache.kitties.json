@@ -1,0 +1,20 @@
+{
+  "id": 33422,
+  "name": "Gen 8 . Scarlet Jag Genes",
+  "generation": 8,
+  "created_at": "2017-12-02T23:15:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen 8 . Scarlet Jag Genes. I'm a Dogwalker by day, and I like practicing witchcraft by night. My friends describe me as \"gullible.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "25082@7",
+  "sire": "23004@7",
+  "children": [
+    "33839@15",
+    "51230@14",
+    "88380@15",
+    "287425@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

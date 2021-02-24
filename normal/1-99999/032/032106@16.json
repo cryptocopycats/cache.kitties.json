@@ -1,0 +1,19 @@
+{
+  "id": 32106,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-02T20:37:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #32106. I'm a professional Mad Scientist and I love hamburgers. Sometimes I daydream of a life full of staying woke, wet food, and reading Danielle Steele. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "30373@15",
+  "sire": "19046@7",
+  "children": [
+    "45253@17",
+    "115893@17",
+    "218606@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 32526,
+  "name": "Popsicle",
+  "generation": 18,
+  "created_at": "2017-12-02T21:28:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Popsicle. I've never told anyone this, but I once groomed a dog. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "30595@9",
+  "sire": "23197@17",
+  "children": [
+    "74194@19",
+    "92461@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

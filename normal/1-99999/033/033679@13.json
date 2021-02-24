@@ -1,0 +1,21 @@
+{
+  "id": 33679,
+  "name": "Marge (Gen 13)",
+  "generation": 13,
+  "created_at": "2017-12-02T23:38:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Marge (Gen 13). I've never told anyone this, but I once cleaned a dog. Some people say I'm the Marge Simpson of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "32402@12",
+  "sire": "24594@10",
+  "children": [
+    "39380@14",
+    "40313@14",
+    "51178@14",
+    "84222@14",
+    "223496@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

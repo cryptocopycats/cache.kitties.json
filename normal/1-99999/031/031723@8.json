@@ -1,0 +1,18 @@
+{
+  "id": 31723,
+  "name": "Tires",
+  "generation": 8,
+  "created_at": "2017-12-02T19:45:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Tires. I believe the world is flat. I was voted school jock in college. Let's get busy!",
+  "language": "en",
+  "matron": "30682@6",
+  "sire": "31205@7",
+  "children": [
+    "36965@9",
+    "59622@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

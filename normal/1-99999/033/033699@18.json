@@ -1,0 +1,19 @@
+{
+  "id": 33699,
+  "name": "Warcat - Slow - Gen 18",
+  "generation": 18,
+  "created_at": "2017-12-02T23:40:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Warcat - Slow - Gen 18. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "29540@14",
+  "sire": "18005@17",
+  "children": [
+    "36088@19",
+    "63641@19",
+    "144687@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

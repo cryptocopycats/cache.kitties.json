@@ -1,0 +1,24 @@
+{
+  "id": 29474,
+  "name": "Snappy",
+  "generation": 6,
+  "created_at": "2017-12-02T13:57:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Snappy. In high school, I was voted most likely to work at NASA. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "29134@5",
+  "sire": "29037@5",
+  "children": [
+    "35554@7",
+    "35749@12",
+    "36505@7",
+    "41936@10",
+    "49011@9",
+    "56899@9",
+    "80451@7",
+    "122752@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

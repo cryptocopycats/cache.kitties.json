@@ -1,0 +1,21 @@
+{
+  "id": 31634,
+  "name": "Gen 2 Mouse Hunter",
+  "generation": 2,
+  "created_at": "2017-12-02T19:38:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Gen 2 Mouse Hunter. I'm often referred to as the Lisa Simpson of the group. I am 2% elf, 85% Ventriloquist, and otherwise bad at math. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "6190@1",
+  "sire": "5840@1",
+  "children": [
+    "33086@3",
+    "33126@3",
+    "42737@3",
+    "49289@3",
+    "61707@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

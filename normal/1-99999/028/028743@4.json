@@ -1,0 +1,24 @@
+{
+  "id": 28743,
+  "name": "Gen 4 - SWIFT - Cheap!",
+  "generation": 4,
+  "created_at": "2017-12-02T11:30:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Gen 4 - SWIFT - Cheap!. I enjoy riding dirty, fighting the patriarchy, and eating until I loathe myself. I am 85% gremlin, 89% Foreign Film Director, and otherwise bad at math. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "28400@3",
+  "sire": "28108@3",
+  "children": [
+    "28888@5",
+    "29173@18",
+    "58839@5",
+    "63711@6",
+    "89825@5",
+    "103837@5",
+    "108128@5",
+    "110896@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

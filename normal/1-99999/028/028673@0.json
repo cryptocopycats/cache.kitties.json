@@ -1,0 +1,19 @@
+{
+  "id": 28673,
+  "name": "Omega Gen0",
+  "generation": 0,
+  "created_at": "2017-12-02T11:12:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Omega Gen0. I'm a Aerobics Athlete  by day, and I like swiping right by night. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. I like your face.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "29583@1",
+    "29595@1",
+    "51129@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 30834,
+  "name": "Rare Fairy Dust",
+  "generation": 22,
+  "created_at": "2017-12-02T17:50:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Rare Fairy Dust. In high school, I was voted biggest teacher's pet. I'm often described as ridiculous, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "12006@17",
+  "sire": "16603@21",
+  "children": [
+    "55209@23",
+    "291449@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33706,
+  "name": "SwampStripes G4",
+  "generation": 4,
+  "created_at": "2017-12-02T23:40:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm SwampStripes G4. I'm a Ventriloquist by day, and I like mocking dogs by night. My secret indulgence is cantaloupe. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "33632@3",
+  "sire": "32217@3",
+  "children": [
+    "69335@5",
+    "91153@5",
+    "92705@6",
+    "93180@6",
+    "96551@5",
+    "133604@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

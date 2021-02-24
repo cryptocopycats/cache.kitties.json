@@ -1,0 +1,26 @@
+{
+  "id": 33916,
+  "name": "G3 Swift Broccoli",
+  "generation": 3,
+  "created_at": "2017-12-03T00:04:03.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm G3 Swift Broccoli. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "language": "en",
+  "matron": "29812@2",
+  "sire": "33746@2",
+  "children": [
+    "34685@12",
+    "34905@5",
+    "35128@13",
+    "35899@4",
+    "36925@4",
+    "43068@4",
+    "46555@7",
+    "61476@4",
+    "68746@10",
+    "97504@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

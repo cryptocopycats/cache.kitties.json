@@ -1,0 +1,23 @@
+{
+  "id": 33681,
+  "name": "Basic",
+  "generation": 4,
+  "created_at": "2017-12-02T23:38:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Basic. My friends describe me as smelly and raunchy. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "21571@3",
+  "sire": "33321@3",
+  "children": [
+    "33872@5",
+    "34415@5",
+    "59417@5",
+    "105404@5",
+    "169036@5",
+    "185445@5",
+    "185507@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

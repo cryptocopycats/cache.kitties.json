@@ -1,0 +1,20 @@
+{
+  "id": 29091,
+  "name": "Radioactive Taïg | Tiger 5%",
+  "generation": 16,
+  "created_at": "2017-12-02T12:38:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Radioactive Taïg | Tiger 5%. I believe the world is flat. When no one's home, I invite my pals over and we listen to Michael Bolton. Our friendship will be preposterous, prickly, and full of steak.",
+  "language": "en",
+  "matron": "20029@15",
+  "sire": "23376@10",
+  "children": [
+    "50676@17",
+    "72126@19",
+    "96072@17",
+    "126628@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

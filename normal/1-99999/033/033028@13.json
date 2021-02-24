@@ -1,0 +1,21 @@
+{
+  "id": 33028,
+  "name": "Charlie",
+  "generation": 13,
+  "created_at": "2017-12-02T22:23:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Charlie. I'm a professional Spin Instructor  and I love steak. My friends describe me as \"raunchy.\" It's... accurate. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "31624@4",
+  "sire": "31764@12",
+  "children": [
+    "39131@14",
+    "39599@14",
+    "54864@17",
+    "80214@17",
+    "229239@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

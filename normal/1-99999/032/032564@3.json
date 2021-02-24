@@ -1,0 +1,27 @@
+{
+  "id": 32564,
+  "name": "Gen 3 - Snappy",
+  "generation": 3,
+  "created_at": "2017-12-02T21:34:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Gen 3 - Snappy. I'm often referred to as the Homer Simpson of the group. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "32244@2",
+  "sire": "31885@1",
+  "children": [
+    "33119@6",
+    "33348@4",
+    "33680@7",
+    "36384@4",
+    "40955@4",
+    "41036@4",
+    "43258@4",
+    "47285@4",
+    "218943@4",
+    "454574@6",
+    "458797@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

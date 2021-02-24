@@ -1,0 +1,22 @@
+{
+  "id": 33817,
+  "name": "Orango Royal Spock",
+  "generation": 8,
+  "created_at": "2017-12-02T23:50:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Orango Royal Spock. I've never told anyone this, but I once groomed a dog. I like to listen to Wutang while grooming. Don't judge me. Will you be the garlic butter to my marmite?",
+  "language": "en",
+  "matron": "33634@4",
+  "sire": "33002@7",
+  "children": [
+    "52588@10",
+    "53226@9",
+    "54758@9",
+    "61064@11",
+    "801523@12",
+    "813390@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

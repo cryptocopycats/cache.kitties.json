@@ -1,0 +1,30 @@
+{
+  "id": 33518,
+  "name": "VINTAGE CAT",
+  "generation": 3,
+  "created_at": "2017-12-02T23:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm VINTAGE CAT. My friends describe me as hairy and despicable. I put cinammon on everything. Like, everything: hot dogs, cantaloupe—everything! In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "28023@2",
+  "sire": "27920@2",
+  "children": [
+    "33744@4",
+    "33920@4",
+    "34584@4",
+    "50869@4",
+    "59308@4",
+    "80661@4",
+    "97038@4",
+    "151173@4",
+    "177442@4",
+    "213495@4",
+    "277148@4",
+    "345161@4",
+    "400103@4",
+    "476452@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 28484,
+  "name": "Gen3 Emerald",
+  "generation": 3,
+  "created_at": "2017-12-02T10:36:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! My name's Gen3 Emerald. I once peed on King Henry VIII's cat. They had it coming. I once dreamed of being a Mad Scientist. Now I can be found siring for status all day. I like your face.",
+  "language": "en",
+  "matron": "27804@2",
+  "sire": "27867@2",
+  "children": [
+    "35896@4",
+    "42781@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

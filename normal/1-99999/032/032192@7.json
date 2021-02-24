@@ -1,0 +1,25 @@
+{
+  "id": 32192,
+  "name": "Gen 7 Snappy Beard",
+  "generation": 7,
+  "created_at": "2017-12-02T20:47:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 7 Snappy Beard. I enjoy taking selfies, riding unicorns, and watching Stranger Things. I once dreamed of being a Ventriloquist. Now I can be found tricking babies all day. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "31252@6",
+  "sire": "31683@5",
+  "children": [
+    "32758@12",
+    "32897@9",
+    "33465@10",
+    "34778@10",
+    "37251@8",
+    "46413@9",
+    "63632@12",
+    "91453@8",
+    "132274@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

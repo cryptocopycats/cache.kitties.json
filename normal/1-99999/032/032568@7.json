@@ -1,0 +1,26 @@
+{
+  "id": 32568,
+  "name": "Gen 7 Brisk 1",
+  "generation": 7,
+  "created_at": "2017-12-02T21:34:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 7 Brisk 1. I believe that one day cats will rule this planet. My secret indulgence is chocolate. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "32457@6",
+  "sire": "30881@5",
+  "children": [
+    "32782@8",
+    "41353@8",
+    "42724@8",
+    "46381@8",
+    "54834@8",
+    "171839@8",
+    "198277@8",
+    "305125@8",
+    "338146@8",
+    "459359@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

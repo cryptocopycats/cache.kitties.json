@@ -1,0 +1,26 @@
+{
+  "id": 33713,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-02T23:42:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #33713. My friends describe me as gorgeous and smelly. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "24933@2",
+  "sire": "5335@2",
+  "children": [
+    "33762@7",
+    "33921@6",
+    "34058@8",
+    "36664@5",
+    "37804@7",
+    "39400@7",
+    "42469@7",
+    "42808@4",
+    "50131@5",
+    "100663@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

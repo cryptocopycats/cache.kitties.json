@@ -1,0 +1,18 @@
+{
+  "id": 28472,
+  "name": "Azazel, G16",
+  "generation": 16,
+  "created_at": "2017-12-02T10:30:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Azazel, G16. I want to live in a world where people believe that one day cats will rule this planet. When I'm not tricking babies, I'm practicing witchcraft! Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "22740@14",
+  "sire": "21993@15",
+  "children": [
+    "31073@17",
+    "46139@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

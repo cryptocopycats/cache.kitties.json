@@ -1,0 +1,18 @@
+{
+  "id": 32374,
+  "name": "9",
+  "generation": 9,
+  "created_at": "2017-12-02T21:08:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 9. I'm often referred to as the Hermione Granger of the group. I put peanut butter on everything. Like, everything: hot dogs, chocolate—everything! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "26745@8",
+  "sire": "27288@8",
+  "children": [
+    "34348@10",
+    "38426@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

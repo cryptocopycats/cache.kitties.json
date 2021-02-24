@@ -1,0 +1,19 @@
+{
+  "id": 30555,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-02T17:12:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #30555. All you need to know about me is I hate wet food with a passion. I once made a labradoodle play. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "20595@5",
+  "sire": "23125@16",
+  "children": [
+    "36332@18",
+    "57759@18",
+    "102637@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

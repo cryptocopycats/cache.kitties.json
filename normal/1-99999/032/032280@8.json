@@ -1,0 +1,23 @@
+{
+  "id": 32280,
+  "name": "WhoAmI Snappy",
+  "generation": 8,
+  "created_at": "2017-12-02T20:59:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm WhoAmI Snappy. I enjoy hitting on yo' man, eating lasagna, and grooming. I once dreamed of being a Private Dancer . Now I can be found braiding people's hair all day. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "31441@5",
+  "sire": "31430@7",
+  "children": [
+    "32391@9",
+    "33256@9",
+    "34710@14",
+    "37967@15",
+    "43987@15",
+    "61697@14",
+    "94318@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

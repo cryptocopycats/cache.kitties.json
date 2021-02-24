@@ -1,0 +1,20 @@
+{
+  "id": 33058,
+  "name": "Muffin",
+  "generation": 15,
+  "created_at": "2017-12-02T22:26:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Muffin. My friends describe me as gorgeous and brilliant. My secret indulgence is apple pie. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30391@14",
+  "sire": "22413@12",
+  "children": [
+    "58234@16",
+    "61331@18",
+    "85482@16",
+    "117144@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

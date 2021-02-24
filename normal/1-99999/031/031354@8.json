@@ -1,0 +1,22 @@
+{
+  "id": 31354,
+  "name": "Gen 8 Brisk Orange",
+  "generation": 8,
+  "created_at": "2017-12-02T18:59:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 8 Brisk Orange. I'm often referred to as the Chandler Bing of the group. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, chocolate—everything! Our friendship will be despicable, raunchy, and full of steak.",
+  "language": "en",
+  "matron": "30886@4",
+  "sire": "31069@7",
+  "children": [
+    "31859@9",
+    "32127@10",
+    "38250@9",
+    "202341@9",
+    "288302@9",
+    "324330@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

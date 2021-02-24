@@ -1,0 +1,20 @@
+{
+  "id": 33478,
+  "name": "Annabelle Brighteyes",
+  "generation": 11,
+  "created_at": "2017-12-02T23:19:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Annabelle Brighteyes. I want to live in a world where people believe the world is flat. I once got in a fight with a dolphin, and won. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "30298@10",
+  "sire": "29317@10",
+  "children": [
+    "49232@12",
+    "56777@13",
+    "81042@12",
+    "93797@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

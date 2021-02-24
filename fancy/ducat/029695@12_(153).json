@@ -1,0 +1,24 @@
+{
+  "id": 29695,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-02T14:37:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #29695. My friends describe me as voluptuous and despicable. I am 29% elf, 93% Dogwalker, and otherwise bad at math. Will you be the marmalade to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23499@0",
+  "sire": "27331@11",
+  "children": [
+    "35488@13",
+    "104212@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 153,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

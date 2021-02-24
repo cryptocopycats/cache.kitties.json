@@ -1,0 +1,21 @@
+{
+  "id": 28958,
+  "name": "Justin",
+  "generation": 17,
+  "created_at": "2017-12-02T12:08:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Justin. All you need to know about me is I hate chocolate with a passion. My friends describe me as \"preposterous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14383@16",
+  "sire": "19249@10",
+  "children": [
+    "52007@18",
+    "74068@18",
+    "116174@18",
+    "329222@18",
+    "376430@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

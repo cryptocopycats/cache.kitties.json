@@ -1,0 +1,25 @@
+{
+  "id": 30323,
+  "name": "Kitty McBirdy Cat",
+  "generation": 14,
+  "created_at": "2017-12-02T16:28:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty McBirdy Cat. I want to live in a world where people believe the world is flat. I put pickles on everything. Like, everything: hot dogs, salad—everything! Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "11389@13",
+  "sire": "25302@13",
+  "children": [
+    "32332@15",
+    "37292@15",
+    "46954@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 159,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

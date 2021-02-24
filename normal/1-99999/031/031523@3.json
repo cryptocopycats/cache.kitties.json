@@ -1,0 +1,24 @@
+{
+  "id": 31523,
+  "name": "Gen 3 - Gold Emeraldgreen!",
+  "generation": 3,
+  "created_at": "2017-12-02T19:25:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Gen 3 - Gold Emeraldgreen!. In high school, I was voted most likely to work at NASA. I am 38% oracle, 91% Ventriloquist, and otherwise bad at math. Will you be the soy sauce to my wasabi?",
+  "language": "en",
+  "matron": "26865@2",
+  "sire": "31293@2",
+  "children": [
+    "37784@5",
+    "37973@4",
+    "38456@4",
+    "43229@4",
+    "109534@4",
+    "148058@4",
+    "182103@4",
+    "263192@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

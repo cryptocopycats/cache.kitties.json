@@ -1,0 +1,18 @@
+{
+  "id": 28668,
+  "name": "Snapper",
+  "generation": 6,
+  "created_at": "2017-12-02T11:11:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Snapper. My friends describe me as gullible and smelly. Sometimes I daydream of a life full of eating until I loathe myself, wet food, and mocking dogs. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "4601@5",
+  "sire": "4623@3",
+  "children": [
+    "36852@16",
+    "289638@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

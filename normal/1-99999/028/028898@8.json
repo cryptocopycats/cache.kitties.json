@@ -1,0 +1,19 @@
+{
+  "id": 28898,
+  "name": "G8",
+  "generation": 8,
+  "created_at": "2017-12-02T11:57:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm G8. I'm often referred to as the Dwight Schrute of the group. It's not common knowledge, but my ancestry connects me to Mother Theresa. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "20307@7",
+  "sire": "15445@7",
+  "children": [
+    "38084@9",
+    "43040@9",
+    "63942@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

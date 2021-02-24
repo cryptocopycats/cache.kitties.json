@@ -1,0 +1,19 @@
+{
+  "id": 30441,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-02T16:47:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #30441. I enjoy glaring at the neighbour's cat, watching Stranger Things, and eating lasagna. I'm often described as gullible, and I own it. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "21599@6",
+  "sire": "29295@12",
+  "children": [
+    "31246@14",
+    "33977@14",
+    "306565@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

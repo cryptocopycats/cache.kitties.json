@@ -1,0 +1,21 @@
+{
+  "id": 32051,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-02T20:30:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #32051. I'm often referred to as the Michael Scott of the group. When no one's home, I invite my pals over and we listen to Coldplay. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "17665@8",
+  "sire": "25811@8",
+  "children": [
+    "34165@11",
+    "145499@13",
+    "419982@15",
+    "431852@15",
+    "436123@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

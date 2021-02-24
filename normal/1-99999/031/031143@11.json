@@ -1,0 +1,18 @@
+{
+  "id": 31143,
+  "name": "Sapphire",
+  "generation": 11,
+  "created_at": "2017-12-02T18:32:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Sapphire. I enjoy reading garfield, grooming, and riding dirty. In my free time, I can usually be found hairy or volunteering at the local kitten rescue shelter. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23941@6",
+  "sire": "30748@10",
+  "children": [
+    "46318@13",
+    "79270@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

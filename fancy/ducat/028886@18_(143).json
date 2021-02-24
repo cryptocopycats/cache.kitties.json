@@ -1,0 +1,24 @@
+{
+  "id": 28886,
+  "name": "Fancy Duck Bird",
+  "generation": 18,
+  "created_at": "2017-12-02T11:57:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's Fancy Duck Bird. I once peed on Martin Luther King Jr.'s cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19202@12",
+  "sire": "19564@17",
+  "children": [
+    "30579@19",
+    "59780@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 143,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

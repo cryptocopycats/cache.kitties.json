@@ -1,0 +1,26 @@
+{
+  "id": 33724,
+  "name": "Tomy | Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T23:42:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Tomy | Gen 6. My friends describe me as gorgeous and despicable. I like to listen to Aretha Franklin while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16060@5",
+  "sire": "33366@3",
+  "children": [
+    "33762@7",
+    "34389@19",
+    "37152@9",
+    "37373@7",
+    "42254@7",
+    "49624@11",
+    "86192@7",
+    "110080@7",
+    "246997@19",
+    "331766@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

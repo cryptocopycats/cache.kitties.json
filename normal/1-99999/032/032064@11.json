@@ -1,0 +1,20 @@
+{
+  "id": 32064,
+  "name": "Happy G11 Plodding",
+  "generation": 11,
+  "created_at": "2017-12-02T20:32:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Happy G11 Plodding. In high school, I was voted biggest teacher's pet. I'm often described as petulant, and I own it. I like your face.",
+  "language": "en",
+  "matron": "28640@10",
+  "sire": "28639@10",
+  "children": [
+    "35603@12",
+    "42319@20",
+    "51212@12",
+    "127745@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

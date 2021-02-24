@@ -1,0 +1,18 @@
+{
+  "id": 32523,
+  "name": "Laser",
+  "generation": 11,
+  "created_at": "2017-12-02T21:28:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Laser. I'm a Skydiving Instructor by day, and I like watching reality tv by night. My secret indulgence is salad. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "11652@10",
+  "sire": "10655@9",
+  "children": [
+    "32885@12",
+    "86033@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

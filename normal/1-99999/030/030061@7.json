@@ -1,0 +1,19 @@
+{
+  "id": 30061,
+  "name": "Gen 7 - Briskky",
+  "generation": 7,
+  "created_at": "2017-12-02T15:42:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Gen 7 - Briskky. I've never told anyone this, but I once clawed a dog. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "29231@6",
+  "sire": "29079@5",
+  "children": [
+    "31325@8",
+    "34856@8",
+    "46228@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31429,
+  "name": "Gen 6 Fancy Duck Gene 1/4 ship",
+  "generation": 6,
+  "created_at": "2017-12-02T19:18:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Gen 6 Fancy Duck Gene 1/4 ship. I'm often referred to as the Homer Simpson of the group. I once made a gecko ignore. Let's get busy!",
+  "language": "en",
+  "matron": "29119@5",
+  "sire": "31258@5",
+  "children": [
+    "41242@15",
+    "70803@7",
+    "113712@11",
+    "115451@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

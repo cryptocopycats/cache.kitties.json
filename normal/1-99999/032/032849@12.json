@@ -1,0 +1,18 @@
+{
+  "id": 32849,
+  "name": "sam",
+  "generation": 12,
+  "created_at": "2017-12-02T22:10:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm sam. I'm often referred to as the Dwight Schrute of the group. I once dreamed of being a Ventriloquist. Now I can be found playing chess all day. I like your face.",
+  "language": "en",
+  "matron": "27590@10",
+  "sire": "4509@11",
+  "children": [
+    "36729@13",
+    "51772@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 29247,
+  "name": "Gen13 Cymric Bird",
+  "generation": 13,
+  "created_at": "2017-12-02T13:15:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen13 Cymric Bird. I'm often referred to as the Ross Geller of the group. My friends describe me as \"ridiculous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26732@11",
+  "sire": "28692@12",
+  "children": [
+    "29984@14",
+    "51509@14",
+    "55384@14",
+    "83363@14",
+    "331167@14",
+    "331925@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 147,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

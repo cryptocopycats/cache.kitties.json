@@ -1,0 +1,20 @@
+{
+  "id": 30278,
+  "name": "Sweetheart",
+  "generation": 14,
+  "created_at": "2017-12-02T16:20:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Sweetheart here. I'm here to enjoy breakdancing and grooming. Sometimes I daydream of a life full of eating lasagna, lasagna, and riding the bus. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "28156@13",
+  "sire": "28731@10",
+  "children": [
+    "32095@15",
+    "35516@15",
+    "52600@23",
+    "87269@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

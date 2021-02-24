@@ -1,0 +1,27 @@
+{
+  "id": 30497,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T16:53:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Gen 2. My friends describe me as seductive and vegan. I would give it all up to be on Oprah. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "29868@1",
+  "sire": "29958@1",
+  "children": [
+    "30910@3",
+    "31257@3",
+    "33169@3",
+    "36224@3",
+    "43461@3",
+    "46262@3",
+    "53678@3",
+    "130865@3",
+    "140685@3",
+    "157958@3",
+    "193192@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

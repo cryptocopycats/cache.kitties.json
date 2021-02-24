@@ -1,0 +1,25 @@
+{
+  "id": 30018,
+  "name": "Gen 2 Swift saycheese",
+  "generation": 2,
+  "created_at": "2017-12-02T15:34:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 2 Swift saycheese. I'm a professional Dispensary Clerk and I love salad. In my free time, I can usually be found hairy or people-watching. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "29328@1",
+  "sire": "3185@1",
+  "children": [
+    "38281@3",
+    "38641@3",
+    "39290@3",
+    "39976@3",
+    "40951@3",
+    "43165@3",
+    "46272@3",
+    "54601@5",
+    "83819@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

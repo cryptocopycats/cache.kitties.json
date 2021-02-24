@@ -1,0 +1,18 @@
+{
+  "id": 30838,
+  "name": "Lemonade!",
+  "generation": 15,
+  "created_at": "2017-12-02T17:50:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Lemonade!. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "26288@4",
+  "sire": "29488@14",
+  "children": [
+    "35143@16",
+    "39992@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

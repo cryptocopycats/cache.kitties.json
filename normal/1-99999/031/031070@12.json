@@ -1,0 +1,18 @@
+{
+  "id": 31070,
+  "name": "Brisk",
+  "generation": 12,
+  "created_at": "2017-12-02T18:22:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Brisk. I believe the world is flat. I like to listen to Mariah Carey while grooming. Don't judge me. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "14570@10",
+  "sire": "21257@11",
+  "children": [
+    "43181@20",
+    "49324@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

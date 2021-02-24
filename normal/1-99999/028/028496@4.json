@@ -1,0 +1,21 @@
+{
+  "id": 28496,
+  "name": "Spurow",
+  "generation": 4,
+  "created_at": "2017-12-02T10:38:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Spurow. I'm a professional Spin Instructor  and I love ice cream. I'm often described as vegan, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "27506@3",
+  "sire": "28170@3",
+  "children": [
+    "28786@5",
+    "40462@5",
+    "41909@5",
+    "64574@5",
+    "66309@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

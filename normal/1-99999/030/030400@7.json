@@ -1,0 +1,23 @@
+{
+  "id": 30400,
+  "name": "Scarlet G7",
+  "generation": 7,
+  "created_at": "2017-12-02T16:37:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Scarlet G7. I enjoy tricking babies, chasing string, and fighting the patriarchy. Sometimes I daydream of a life full of riding unicorns, chocolate, and riding the bus. Can you make my hairy dreams come true?",
+  "language": "en",
+  "matron": "29402@4",
+  "sire": "19806@6",
+  "children": [
+    "30668@8",
+    "41126@8",
+    "42330@14",
+    "46255@13",
+    "77061@11",
+    "200146@8",
+    "270795@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

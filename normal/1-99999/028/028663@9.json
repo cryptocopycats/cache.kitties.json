@@ -1,0 +1,20 @@
+{
+  "id": 28663,
+  "name": "Gen9 Plodding",
+  "generation": 9,
+  "created_at": "2017-12-02T11:09:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen9 Plodding. I believe the world is flat. I once got in a fight with a dog, and won. Let's pawty!",
+  "language": "en",
+  "matron": "28398@8",
+  "sire": "16828@5",
+  "children": [
+    "29007@10",
+    "29156@10",
+    "29760@10",
+    "38775@18"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

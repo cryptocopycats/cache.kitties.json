@@ -1,0 +1,25 @@
+{
+  "id": 30363,
+  "name": "TWEETY BIRD DOUBLE | BREEDER",
+  "generation": 17,
+  "created_at": "2017-12-02T16:32:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm TWEETY BIRD DOUBLE | BREEDER. All you need to know about me is I hate apple pie with a passion. It's not common knowledge, but my ancestry connects me to King Henry VIII. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24410@5",
+  "sire": "27978@16",
+  "children": [
+    "39593@18",
+    "40475@18",
+    "61605@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 161,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

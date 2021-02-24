@@ -1,0 +1,18 @@
+{
+  "id": 30550,
+  "name": "BAMF",
+  "generation": 12,
+  "created_at": "2017-12-02T17:10:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm BAMF. I enjoy reading garfield, fighting for the people, and licking doorknobs. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "30030@6",
+  "sire": "16099@11",
+  "children": [
+    "58790@14",
+    "67971@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

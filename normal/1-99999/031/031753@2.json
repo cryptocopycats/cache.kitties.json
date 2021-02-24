@@ -1,0 +1,27 @@
+{
+  "id": 31753,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T19:48:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Gen 2. I believe that one day cats will rule this planet. In my free time, I can usually be found tantalizing or summoning ghosts. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30673@1",
+  "sire": "31285@1",
+  "children": [
+    "31993@3",
+    "32156@3",
+    "32301@3",
+    "32878@3",
+    "35329@3",
+    "35557@3",
+    "43827@3",
+    "52417@3",
+    "151219@3",
+    "154542@3",
+    "193269@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 28616,
+  "name": "gen 7 - 28616",
+  "generation": 7,
+  "created_at": "2017-12-02T10:57:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm gen 7 - 28616. I'm often referred to as the Bart Simpson of the group. I put peanut butter on everything. Like, everything: hot dogs, hamburgers—everything! Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "26118@5",
+  "sire": "24072@6",
+  "children": [
+    "31491@9",
+    "32556@8",
+    "34008@8",
+    "34459@10",
+    "44743@12",
+    "61641@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

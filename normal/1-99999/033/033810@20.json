@@ -1,0 +1,19 @@
+{
+  "id": 33810,
+  "name": "Mr. Peanut",
+  "generation": 20,
+  "created_at": "2017-12-02T23:49:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Mr. Peanut. I've never told anyone this, but I once headbutted a dog. I put peanut butter on everything. Like, everything: hot dogs, cereal—everything! Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "28341@13",
+  "sire": "28504@19",
+  "children": [
+    "45753@21",
+    "113629@21",
+    "135701@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

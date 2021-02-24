@@ -1,0 +1,23 @@
+{
+  "id": 28845,
+  "name": "Gen 13 Fancy Bird Duck",
+  "generation": 13,
+  "created_at": "2017-12-02T11:56:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Gen 13 Fancy Bird Duck. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Train Conductor. Now I can be found braiding people's hair all day. Our friendship will be voluptuous, petulant, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "10500@12",
+  "sire": "24585@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 142,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 30604,
+  "name": "Feline Musk",
+  "generation": 9,
+  "created_at": "2017-12-02T17:20:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Feline Musk. I'm a Mad Scientist by day, and I like volunteering at the local kitten rescue shelter by night. It's not common knowledge, but my ancestry connects me to Mother Theresa. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30434@8",
+  "sire": "29497@8",
+  "children": [
+    "30895@10",
+    "31219@10",
+    "32820@17",
+    "38571@10",
+    "62496@10",
+    "84526@12",
+    "93885@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

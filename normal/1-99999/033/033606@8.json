@@ -1,0 +1,18 @@
+{
+  "id": 33606,
+  "name": "LuckyCoffee G8",
+  "generation": 8,
+  "created_at": "2017-12-02T23:31:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm LuckyCoffee G8. I'm a Train Conductor by day, and I like summoning ghosts by night. I once made a rhino leap. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "30545@6",
+  "sire": "31750@7",
+  "children": [
+    "49336@9",
+    "53139@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

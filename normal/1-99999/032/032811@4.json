@@ -1,0 +1,26 @@
+{
+  "id": 32811,
+  "name": "4C",
+  "generation": 4,
+  "created_at": "2017-12-02T22:05:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm 4C. I'm often referred to as the Neville Longbottom of the group. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "24880@3",
+  "sire": "3991@3",
+  "children": [
+    "46470@5",
+    "50048@5",
+    "52031@8",
+    "54866@5",
+    "68818@5",
+    "77294@5",
+    "87284@5",
+    "89915@5",
+    "114856@6",
+    "132228@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

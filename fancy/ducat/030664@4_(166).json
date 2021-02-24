@@ -1,0 +1,32 @@
+{
+  "id": 30664,
+  "name": "Gen 4 - Virgin | Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-02T17:28:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Gen 4 - Virgin | Fancy!. I want to live in a world where people believe the world is flat. Some people say I'm the Niles Crane of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30556@3",
+  "sire": "29857@1",
+  "children": [
+    "32129@5",
+    "47959@7",
+    "52345@7",
+    "61887@6",
+    "66742@7",
+    "68917@6",
+    "73462@7",
+    "95112@6",
+    "146854@7",
+    "306810@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 166,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

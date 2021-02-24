@@ -1,0 +1,18 @@
+{
+  "id": 28550,
+  "name": "Queen",
+  "generation": 14,
+  "created_at": "2017-12-02T10:46:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's Queen. I once peed on King Henry VIII's cat. They had it coming. I like to listen to Wutang while grooming. Don't judge me. Will you be the marmite to my pickles?",
+  "language": "en",
+  "matron": "19868@2",
+  "sire": "21470@13",
+  "children": [
+    "35381@17",
+    "49196@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 32949,
+  "name": "George Bailey",
+  "generation": 23,
+  "created_at": "2017-12-02T22:16:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm George Bailey. I'm a professional Private Dancer  and I love salad. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "28985@14",
+  "sire": "30811@22",
+  "children": [
+    "34188@24",
+    "77430@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

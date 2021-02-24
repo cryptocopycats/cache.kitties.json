@@ -1,0 +1,28 @@
+{
+  "id": 31689,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T19:41:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Gen 2. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When no one's home, I invite my pals over and we listen to Wutang. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30673@1",
+  "sire": "29918@1",
+  "children": [
+    "31707@3",
+    "31833@3",
+    "32180@3",
+    "34849@3",
+    "35119@3",
+    "36793@3",
+    "46754@3",
+    "64975@3",
+    "124495@3",
+    "140934@3",
+    "174921@3",
+    "254505@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

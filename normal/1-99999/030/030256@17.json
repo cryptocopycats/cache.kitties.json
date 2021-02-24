@@ -1,0 +1,19 @@
+{
+  "id": 30256,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-02T16:16:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Kitty #30256. My friends describe me as despicable and stinky. Some people say I'm the Marge Simpson of the group. Our friendship will be despicable, stinky, and full of wet food.",
+  "language": "en",
+  "matron": "21681@15",
+  "sire": "6513@16",
+  "children": [
+    "39056@18",
+    "55588@18",
+    "100858@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

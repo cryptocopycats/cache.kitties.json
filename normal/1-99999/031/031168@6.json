@@ -1,0 +1,23 @@
+{
+  "id": 31168,
+  "name": "JH-Gen6 - Snappy",
+  "generation": 6,
+  "created_at": "2017-12-02T18:33:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm JH-Gen6 - Snappy. I'm a Mad Scientist by day, and I like pole dancing by night. In my free time, I can usually be found gullible or summoning ghosts. Let's pawty!",
+  "language": "en",
+  "matron": "30088@1",
+  "sire": "30660@5",
+  "children": [
+    "33714@7",
+    "42713@7",
+    "44176@7",
+    "47670@7",
+    "69744@9",
+    "90295@9",
+    "96027@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

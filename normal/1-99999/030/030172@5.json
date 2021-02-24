@@ -1,0 +1,23 @@
+{
+  "id": 30172,
+  "name": "Peach",
+  "generation": 5,
+  "created_at": "2017-12-02T16:00:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Peach. All you need to know about me is I hate lasagna with a passion. In my free time, I can usually be found despicable or prank-calling celebrities. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "26480@4",
+  "sire": "27089@2",
+  "children": [
+    "30287@7",
+    "30643@7",
+    "30998@6",
+    "31539@6",
+    "35809@6",
+    "45397@6",
+    "49264@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

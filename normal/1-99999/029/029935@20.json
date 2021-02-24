@@ -1,0 +1,17 @@
+{
+  "id": 29935,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-12-02T15:23:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 20. I want to live in a world where people believe the world is flat. I would give it all up to star in a soap opera. Our friendship will be raunchy, gullible, and full of wet food.",
+  "language": "en",
+  "matron": "8821@17",
+  "sire": "9800@19",
+  "children": [
+    "44241@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

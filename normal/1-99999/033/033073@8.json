@@ -1,0 +1,20 @@
+{
+  "id": 33073,
+  "name": "G8 | SP1",
+  "generation": 8,
+  "created_at": "2017-12-02T22:29:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm G8 | SP1. I want to live in a world where people believe that one day cats will rule this planet. I put cinammon on everything. Like, everything: hot dogs, ice cream—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "32255@7",
+  "sire": "32736@7",
+  "children": [
+    "33662@9",
+    "35141@9",
+    "61813@9",
+    "88464@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

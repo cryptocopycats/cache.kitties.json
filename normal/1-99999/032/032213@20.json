@@ -1,0 +1,18 @@
+{
+  "id": 32213,
+  "name": "Barney Boots",
+  "generation": 20,
+  "created_at": "2017-12-02T20:49:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! Barney Boots here. I'm here to enjoy riding unicorns and tricking babies. I once got in a fight with a gecko, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "31678@6",
+  "sire": "22102@19",
+  "children": [
+    "45542@21",
+    "104093@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

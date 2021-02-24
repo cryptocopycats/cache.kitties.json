@@ -1,0 +1,27 @@
+{
+  "id": 31699,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T19:43:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 2. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of spinning sick beats, apple pie, and pole dancing. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "31285@1",
+  "sire": "31286@1",
+  "children": [
+    "32220@3",
+    "32260@3",
+    "32497@3",
+    "34577@3",
+    "34957@3",
+    "44160@3",
+    "49367@3",
+    "60408@3",
+    "135075@3",
+    "153644@3",
+    "193483@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

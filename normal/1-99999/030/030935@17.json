@@ -1,0 +1,19 @@
+{
+  "id": 30935,
+  "name": "CutieCat",
+  "generation": 17,
+  "created_at": "2017-12-02T18:02:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm CutieCat. I'm a Mad Scientist by day, and I like riding the bus by night. I like to listen to Mariah Carey while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "17490@10",
+  "sire": "11286@16",
+  "children": [
+    "40755@18",
+    "48161@18",
+    "78364@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

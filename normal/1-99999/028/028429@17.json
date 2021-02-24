@@ -1,0 +1,20 @@
+{
+  "id": 28429,
+  "name": "sir grey",
+  "generation": 17,
+  "created_at": "2017-12-02T10:24:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm sir grey. I'm a Culinary Sanitation Specialist by day, and I like running a podcast by night. I put maple syrup on everything. Like, everything: hot dogs, chocolate—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "8397@8",
+  "sire": "18430@16",
+  "children": [
+    "39084@18",
+    "64521@18",
+    "92008@18",
+    "432404@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

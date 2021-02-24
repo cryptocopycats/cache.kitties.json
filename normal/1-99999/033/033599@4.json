@@ -1,0 +1,24 @@
+{
+  "id": 33599,
+  "name": "Strawberry | Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-02T23:30:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Strawberry | Gen 4. I enjoy reciting poetry, shakin' dat booty, and sitting on your computer. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "20331@3",
+  "sire": "23143@3",
+  "children": [
+    "52513@9",
+    "53983@5",
+    "54017@10",
+    "56939@5",
+    "59001@5",
+    "68003@5",
+    "83729@5",
+    "102648@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

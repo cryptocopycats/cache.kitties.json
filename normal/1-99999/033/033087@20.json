@@ -1,0 +1,18 @@
+{
+  "id": 33087,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-02T22:31:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #33087. I'm often referred to as the Peter Griffin of the group. Some people say I'm the Peter Griffin of the group. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "32390@6",
+  "sire": "23622@19",
+  "children": [
+    "49462@21",
+    "116965@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

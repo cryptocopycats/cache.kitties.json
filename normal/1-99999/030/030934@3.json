@@ -1,0 +1,20 @@
+{
+  "id": 30934,
+  "name": "Pouty Gold",
+  "generation": 3,
+  "created_at": "2017-12-02T18:02:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Pouty Gold. I'm often referred to as the Bart Simpson of the group. In my free time, I can usually be found seductive or swiping right. Can you make my fabulous dreams come true?",
+  "language": "en",
+  "matron": "30051@2",
+  "sire": "30017@2",
+  "children": [
+    "70072@4",
+    "87179@4",
+    "128970@4",
+    "305026@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

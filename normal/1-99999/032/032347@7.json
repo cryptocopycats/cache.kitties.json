@@ -1,0 +1,27 @@
+{
+  "id": 32347,
+  "name": "Gen 7 Dali Cymric",
+  "generation": 7,
+  "created_at": "2017-12-02T21:05:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 7 Dali Cymric. In high school, I was voted most likely to work at NASA. I am 70% sphinx, 74% Dispensary Clerk, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "31643@4",
+  "sire": "31878@6",
+  "children": [
+    "32560@8",
+    "33446@14",
+    "37444@15",
+    "45053@8",
+    "53996@8",
+    "76274@10",
+    "140794@8",
+    "174598@8",
+    "324622@8",
+    "458450@8",
+    "513075@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

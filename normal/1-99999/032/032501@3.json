@@ -1,0 +1,26 @@
+{
+  "id": 32501,
+  "name": "Gen 3 | Spock, Swift",
+  "generation": 3,
+  "created_at": "2017-12-02T21:26:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 3 | Spock, Swift. I'm a Train Conductor by day, and I like riding the bus by night. I was voted biggest teacher's pet in college. Our friendship will be despicable, preposterous, and full of chocolate.",
+  "language": "en",
+  "matron": "32315@1",
+  "sire": "32331@2",
+  "children": [
+    "32760@4",
+    "33289@4",
+    "33507@4",
+    "33883@4",
+    "35075@10",
+    "36423@4",
+    "40671@4",
+    "46452@4",
+    "71472@4",
+    "108963@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

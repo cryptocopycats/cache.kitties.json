@@ -1,0 +1,25 @@
+{
+  "id": 29111,
+  "name": "Pound | Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-02T12:41:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Pound | Gen 7. I once peed on Nelson Mandela's cat. They had it coming. When I'm not practicing witchcraft, I'm talking about how much I lift! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "28810@6",
+  "sire": "22224@4",
+  "children": [
+    "29183@11",
+    "29349@9",
+    "30710@9",
+    "31303@8",
+    "33341@8",
+    "37765@13",
+    "69294@10",
+    "89432@15",
+    "415363@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

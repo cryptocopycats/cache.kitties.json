@@ -1,0 +1,18 @@
+{
+  "id": 29974,
+  "name": "Gen 17",
+  "generation": 17,
+  "created_at": "2017-12-02T15:29:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 17. I've never told anyone this, but I once cleaned a dog. I once cleaned a dog. I don't like to talk about it. Let's pawty!",
+  "language": "en",
+  "matron": "26067@15",
+  "sire": "27634@16",
+  "children": [
+    "38346@19",
+    "44721@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

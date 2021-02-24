@@ -1,0 +1,25 @@
+{
+  "id": 32985,
+  "name": "G5 | Mint",
+  "generation": 5,
+  "created_at": "2017-12-02T22:19:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm G5 | Mint. I'm often referred to as the Michael Scott of the group. I am 69% fairy, 51% Train Conductor, and otherwise bad at math. Will you be the peanut butter to my pickles?",
+  "language": "en",
+  "matron": "31174@4",
+  "sire": "31674@4",
+  "children": [
+    "33207@6",
+    "33406@16",
+    "33852@7",
+    "34631@7",
+    "37039@6",
+    "42161@6",
+    "43313@6",
+    "62838@6",
+    "83453@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

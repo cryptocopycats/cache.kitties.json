@@ -1,0 +1,21 @@
+{
+  "id": 31720,
+  "name": "Minty Chip",
+  "generation": 12,
+  "created_at": "2017-12-02T19:44:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Minty Chip. I'm often referred to as the Chandler Bing of the group. I once snuggled a moose. I don't like to talk about it. Our friendship will be stinky, fabulous, and full of ice cream.",
+  "language": "en",
+  "matron": "26913@4",
+  "sire": "31210@11",
+  "children": [
+    "36029@18",
+    "54824@21",
+    "76357@13",
+    "92754@16",
+    "172274@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

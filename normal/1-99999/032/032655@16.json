@@ -1,0 +1,19 @@
+{
+  "id": 32655,
+  "name": "Sailjag2",
+  "generation": 16,
+  "created_at": "2017-12-02T21:43:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Sailjag2 here. I'm here to enjoy grooming and reading garfield. I was voted school jock in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15009@8",
+  "sire": "13355@15",
+  "children": [
+    "92188@21",
+    "126519@19",
+    "378809@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

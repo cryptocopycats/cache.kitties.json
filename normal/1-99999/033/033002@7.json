@@ -1,0 +1,20 @@
+{
+  "id": 33002,
+  "name": "Gen 7 Handsome",
+  "generation": 7,
+  "created_at": "2017-12-02T22:21:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen 7 Handsome. I'm a professional Dispensary Clerk and I love wet food. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "32679@5",
+  "sire": "32832@6",
+  "children": [
+    "33172@8",
+    "33458@8",
+    "33817@8",
+    "53629@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

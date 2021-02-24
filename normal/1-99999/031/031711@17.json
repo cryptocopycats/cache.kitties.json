@@ -1,0 +1,20 @@
+{
+  "id": 31711,
+  "name": "G7 Zek",
+  "generation": 17,
+  "created_at": "2017-12-02T19:44:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm G7 Zek. My friends describe me as ridiculous and brilliant. I once dreamed of being a Ventriloquist. Now I can be found tricking babies all day. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "30632@13",
+  "sire": "28962@16",
+  "children": [
+    "37773@18",
+    "59709@19",
+    "90795@18",
+    "263313@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

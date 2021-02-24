@@ -1,0 +1,25 @@
+{
+  "id": 32760,
+  "name": "Gen 4 | Spock, Swift",
+  "generation": 4,
+  "created_at": "2017-12-02T21:59:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! My name's Gen 4 | Spock, Swift. I once peed on Cleopatra's cat. They had it coming. I was voted school jock in college. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "32501@3",
+  "sire": "32032@2",
+  "children": [
+    "32964@5",
+    "33141@5",
+    "33549@5",
+    "34224@5",
+    "35885@5",
+    "41133@5",
+    "63710@5",
+    "100799@6",
+    "114537@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 30094,
+  "name": "Peach Limegreen Mauveover",
+  "generation": 3,
+  "created_at": "2017-12-02T15:51:12.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Peach Limegreen Mauveover. I enjoy tricking babies, sitting on your computer, and picking flowers. I'm convinced that the world is flat. One day I'll prove it. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "30017@2",
+  "sire": "30056@2",
+  "children": [
+    "30462@4",
+    "30940@4",
+    "78534@4",
+    "88002@4",
+    "89907@4",
+    "92259@4",
+    "104014@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

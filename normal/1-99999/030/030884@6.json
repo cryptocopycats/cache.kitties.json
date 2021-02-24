@@ -1,0 +1,23 @@
+{
+  "id": 30884,
+  "name": "AquaGold G6",
+  "generation": 6,
+  "created_at": "2017-12-02T17:57:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm AquaGold G6. I'm often referred to as the Lisa Simpson of the group. I'm often described as tantalizing, and I own it. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "24318@4",
+  "sire": "30036@5",
+  "children": [
+    "31063@8",
+    "37127@8",
+    "37937@8",
+    "39642@8",
+    "47081@11",
+    "50602@7",
+    "75372@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

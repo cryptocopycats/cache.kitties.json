@@ -1,0 +1,26 @@
+{
+  "id": 32497,
+  "name": "Gen 3 Scarlet Luckystripe",
+  "generation": 3,
+  "created_at": "2017-12-02T21:26:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen 3 Scarlet Luckystripe. I've never told anyone this, but I once clawed a dog. When no one's home, I invite my pals over and we listen to Coldplay. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "31106@2",
+  "sire": "31699@2",
+  "children": [
+    "66909@4",
+    "68990@4",
+    "74615@4",
+    "93890@4",
+    "104612@4",
+    "123120@4",
+    "135256@4",
+    "142050@4",
+    "166985@4",
+    "240363@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

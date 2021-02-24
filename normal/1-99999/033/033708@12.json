@@ -1,0 +1,21 @@
+{
+  "id": 33708,
+  "name": "Aztec Gen 12",
+  "generation": 12,
+  "created_at": "2017-12-02T23:42:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Aztec Gen 12. All you need to know about me is I hate hamburgers with a passion. I once got in a fight with a dog, and won. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "26356@4",
+  "sire": "25952@11",
+  "children": [
+    "33963@13",
+    "38903@13",
+    "65525@13",
+    "254858@13",
+    "481923@16"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

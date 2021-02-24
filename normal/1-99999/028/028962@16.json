@@ -1,0 +1,18 @@
+{
+  "id": 28962,
+  "name": "Gen 16",
+  "generation": 16,
+  "created_at": "2017-12-02T12:08:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Gen 16. My friends describe me as tantalizing and smelly. When I'm not swiping right, I'm playing chess! Let's pawty!",
+  "language": "en",
+  "matron": "17843@12",
+  "sire": "24427@15",
+  "children": [
+    "31711@17",
+    "93857@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 31068,
+  "name": "Helmoch",
+  "generation": 10,
+  "created_at": "2017-12-02T18:21:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Helmoch. My friends describe me as raunchy and voluptuous. My friends describe me as \"annoying.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "29395@9",
+  "sire": "30176@8",
+  "children": [
+    "33137@16",
+    "34361@11",
+    "49544@19",
+    "69625@13",
+    "78706@16",
+    "104980@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

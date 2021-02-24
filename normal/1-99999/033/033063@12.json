@@ -1,0 +1,20 @@
+{
+  "id": 33063,
+  "name": "Lucky Albino",
+  "generation": 12,
+  "created_at": "2017-12-02T22:27:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Lucky Albino. I enjoy eating lasagna, sweating through my feet, and chasing red dots. Some people say I'm the Ron Weasley of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "30302@11",
+  "sire": "31891@11",
+  "children": [
+    "47992@13",
+    "51993@13",
+    "53776@13",
+    "72617@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

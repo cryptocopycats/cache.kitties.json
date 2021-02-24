@@ -1,0 +1,19 @@
+{
+  "id": 30925,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-02T18:02:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #30925. I'm a professional Mad Scientist and I love cereal. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "language": "en",
+  "matron": "29823@6",
+  "sire": "29748@10",
+  "children": [
+    "50481@12",
+    "62790@12",
+    "198306@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

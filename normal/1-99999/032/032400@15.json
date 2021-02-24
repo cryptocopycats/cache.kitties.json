@@ -1,0 +1,19 @@
+{
+  "id": 32400,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-12-02T21:15:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! Gen 15 here. I'm here to enjoy eating lasagna and fighting the patriarchy. Some people say I'm the Niles Crane of the group. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25988@10",
+  "sire": "11914@14",
+  "children": [
+    "42433@16",
+    "42686@16",
+    "304254@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

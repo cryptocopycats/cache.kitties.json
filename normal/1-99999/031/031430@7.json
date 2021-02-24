@@ -1,0 +1,24 @@
+{
+  "id": 31430,
+  "name": "Sailor Bloodline",
+  "generation": 7,
+  "created_at": "2017-12-02T19:18:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Sailor Bloodline. I've never told anyone this, but I once bit a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "28247@6",
+  "sire": "27747@6",
+  "children": [
+    "31696@8",
+    "31765@8",
+    "32280@8",
+    "33596@11",
+    "36155@11",
+    "46358@8",
+    "71922@11",
+    "94997@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

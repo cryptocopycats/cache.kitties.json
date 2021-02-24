@@ -1,0 +1,28 @@
+{
+  "id": 30514,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T16:58:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Gen 2. I'm a professional Spin Instructor  and I love wet food. My secret indulgence is cantaloupe. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "29839@1",
+  "sire": "30112@1",
+  "children": [
+    "30949@3",
+    "33166@3",
+    "34957@3",
+    "46226@3",
+    "46264@3",
+    "51884@3",
+    "73193@3",
+    "77240@3",
+    "122348@3",
+    "124014@3",
+    "153474@3",
+    "227665@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 31691,
+  "name": "Gen 5 Snappy Beard Lemonade",
+  "generation": 5,
+  "created_at": "2017-12-02T19:42:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 5 Snappy Beard Lemonade. I believe the world is flat. My secret indulgence is salad. Let's pawty!",
+  "language": "en",
+  "matron": "22560@3",
+  "sire": "31643@4",
+  "children": [
+    "31878@6",
+    "40227@8",
+    "55259@8",
+    "60967@13",
+    "83527@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

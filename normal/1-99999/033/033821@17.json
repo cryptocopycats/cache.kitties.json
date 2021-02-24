@@ -1,0 +1,21 @@
+{
+  "id": 33821,
+  "name": "Frida",
+  "generation": 17,
+  "created_at": "2017-12-02T23:53:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Frida. In high school, I was voted biggest teacher's pet. I like to listen to Frank Sinatra while grooming. Don't judge me. I look forward to picking on mice with you.",
+  "language": "en",
+  "matron": "19531@7",
+  "sire": "21895@16",
+  "children": [
+    "49530@18",
+    "70138@18",
+    "113943@18",
+    "355111@21",
+    "429842@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

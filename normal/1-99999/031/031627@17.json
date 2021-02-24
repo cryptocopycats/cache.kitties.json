@@ -1,0 +1,18 @@
+{
+  "id": 31627,
+  "name": "Bloodred - Rare",
+  "generation": 17,
+  "created_at": "2017-12-02T19:38:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Bloodred - Rare. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "16597@15",
+  "sire": "26223@16",
+  "children": [
+    "36139@18",
+    "49194@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

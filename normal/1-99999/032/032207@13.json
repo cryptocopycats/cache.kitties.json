@@ -1,0 +1,20 @@
+{
+  "id": 32207,
+  "name": "Dragitty",
+  "generation": 13,
+  "created_at": "2017-12-02T20:48:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Dragitty. My friends describe me as wondrous and gullible. I once dreamed of being a Dispensary Clerk. Now I can be found playing chess all day. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "30465@12",
+  "sire": "25231@9",
+  "children": [
+    "33117@14",
+    "36230@16",
+    "42062@16",
+    "57706@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 28585,
+  "name": "Rachmaninov",
+  "generation": 13,
+  "created_at": "2017-12-02T10:54:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Rachmaninov. I want to live in a world where people believe that one day cats will rule this planet. When I'm not running a podcast, I'm people-watching! Can you make my voluptuous dreams come true?",
+  "language": "en",
+  "matron": "10991@8",
+  "sire": "16364@12",
+  "children": [
+    "31423@14",
+    "37495@14",
+    "45221@16",
+    "68181@14",
+    "95716@14",
+    "143217@14",
+    "214084@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31028,
+  "name": "Virgin Sphynx",
+  "generation": 15,
+  "created_at": "2017-12-02T18:15:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Virgin Sphynx. In high school, I was voted school jock. My friends describe me as \"annoying.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "28410@6",
+  "sire": "30759@14",
+  "children": [
+    "37458@18",
+    "62190@16",
+    "88810@16",
+    "105094@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

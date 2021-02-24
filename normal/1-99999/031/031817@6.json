@@ -1,0 +1,21 @@
+{
+  "id": 31817,
+  "name": "Gen 6 Chartreux",
+  "generation": 6,
+  "created_at": "2017-12-02T20:00:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Gen 6 Chartreux. I want to live in a world where people believe the world is flat. I'm often described as seductive, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30220@4",
+  "sire": "30787@5",
+  "children": [
+    "32138@7",
+    "42719@7",
+    "45039@7",
+    "46250@7",
+    "54564@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

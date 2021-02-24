@@ -1,0 +1,24 @@
+{
+  "id": 31878,
+  "name": "Cheese",
+  "generation": 6,
+  "created_at": "2017-12-02T20:09:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Cheese. I believe the world is flat. I was voted most likely to work at NASA in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "22377@3",
+  "sire": "31691@5",
+  "children": [
+    "32022@7",
+    "32347@7",
+    "32470@7",
+    "34048@7",
+    "43252@7",
+    "49382@10",
+    "56774@7",
+    "106063@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

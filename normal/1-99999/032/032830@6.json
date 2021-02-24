@@ -1,0 +1,25 @@
+{
+  "id": 32830,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T22:08:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gen 6. I'm often referred to as the Neville Longbottom of the group. My friends describe me as \"seductive.\" It's... accurate. Our friendship will be gullible, tantalizing, and full of wet food.",
+  "language": "en",
+  "matron": "32697@5",
+  "sire": "32679@5",
+  "children": [
+    "33243@9",
+    "33424@7",
+    "35206@7",
+    "35803@7",
+    "38373@7",
+    "63910@7",
+    "79759@7",
+    "89862@7",
+    "119359@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

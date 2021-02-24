@@ -1,0 +1,21 @@
+{
+  "id": 31983,
+  "name": "Mauveover Spock",
+  "generation": 13,
+  "created_at": "2017-12-02T20:22:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Mauveover Spock. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Coldplay. Let's pawty!",
+  "language": "en",
+  "matron": "10763@12",
+  "sire": "20352@10",
+  "children": [
+    "45546@18",
+    "67224@15",
+    "82160@18",
+    "93583@14",
+    "212276@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

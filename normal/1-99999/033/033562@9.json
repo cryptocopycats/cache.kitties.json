@@ -1,0 +1,22 @@
+{
+  "id": 33562,
+  "name": "Gen9 - Munchkin",
+  "generation": 9,
+  "created_at": "2017-12-02T23:27:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Gen9 - Munchkin. I'm a Mad Scientist by day, and I like talking about how much I lift by night. When I'm not mocking dogs, I'm volunteering at the local kitten rescue shelter! I like your face.",
+  "language": "en",
+  "matron": "31172@5",
+  "sire": "31226@8",
+  "children": [
+    "34618@10",
+    "35277@20",
+    "37464@12",
+    "41293@10",
+    "88081@11",
+    "112214@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 30470,
+  "name": "Super Swift Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-02T16:49:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Super Swift Gen 4. I enjoy riding dirty, hitting on yo' man, and picking on mice. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "29971@3",
+  "sire": "28108@3",
+  "children": [
+    "39441@16",
+    "46691@5",
+    "72024@16",
+    "99176@5",
+    "117067@21",
+    "318666@6",
+    "334092@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

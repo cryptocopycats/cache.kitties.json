@@ -1,0 +1,19 @@
+{
+  "id": 32150,
+  "name": "Fabulous Recessive",
+  "generation": 9,
+  "created_at": "2017-12-02T20:39:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Fabulous Recessive. My friends describe me as petulant and despicable. I once bit a rabbit. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "26898@8",
+  "sire": "26041@8",
+  "children": [
+    "33594@10",
+    "34124@10",
+    "46424@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

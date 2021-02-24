@@ -1,0 +1,18 @@
+{
+  "id": 33108,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-12-02T22:36:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Gen 18. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found hairy or pole dancing. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "28533@17",
+  "sire": "18592@3",
+  "children": [
+    "44906@23",
+    "68834@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

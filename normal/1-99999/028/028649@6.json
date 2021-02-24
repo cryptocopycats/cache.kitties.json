@@ -1,0 +1,25 @@
+{
+  "id": 28649,
+  "name": "Uisko",
+  "generation": 6,
+  "created_at": "2017-12-02T11:07:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Uisko. I'm often referred to as the Cersei Lannister of the group. I once headbutted a rooster. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "28525@5",
+  "sire": "28367@5",
+  "children": [
+    "28710@7",
+    "28973@7",
+    "29264@7",
+    "29994@11",
+    "32783@12",
+    "49199@7",
+    "476323@11",
+    "476643@11",
+    "481465@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

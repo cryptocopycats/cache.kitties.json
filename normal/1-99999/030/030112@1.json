@@ -1,0 +1,28 @@
+{
+  "id": 30112,
+  "name": "Gunny",
+  "generation": 1,
+  "created_at": "2017-12-02T15:51:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gunny. I enjoy taking selfies, grooming, and hitting on yo' man. When no one's home, I invite my pals over and we listen to Coldplay. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "26683@0",
+  "sire": "29873@0",
+  "children": [
+    "30514@2",
+    "30995@2",
+    "31919@2",
+    "32329@2",
+    "33710@2",
+    "36052@2",
+    "51873@2",
+    "52933@2",
+    "76948@2",
+    "85431@2",
+    "162999@2",
+    "191461@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 31267,
+  "name": "Gen 7 | brisk",
+  "generation": 7,
+  "created_at": "2017-12-02T18:47:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Gen 7 | brisk. I enjoy taking selfies, fighting for the people, and eating until I loathe myself. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "30924@6",
+  "sire": "30880@6",
+  "children": [
+    "43092@8",
+    "43630@8",
+    "49335@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

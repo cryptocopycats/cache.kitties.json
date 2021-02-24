@@ -1,0 +1,21 @@
+{
+  "id": 28430,
+  "name": "Emerlad",
+  "generation": 18,
+  "created_at": "2017-12-02T10:24:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Emerlad. I enjoy spinning sick beats, picking flowers, and staying woke. When I'm not sleeping in fresh laundry, I'm braiding people's hair! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "17069@17",
+  "sire": "23719@10",
+  "children": [
+    "49190@20",
+    "74707@19",
+    "93969@19",
+    "178471@19",
+    "290297@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

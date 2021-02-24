@@ -1,0 +1,18 @@
+{
+  "id": 30300,
+  "name": "Spark",
+  "generation": 18,
+  "created_at": "2017-12-02T16:23:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Spark. I once peed on Confucius's cat. They had it coming. I would give it all up to star in a soap opera. Let's get busy!",
+  "language": "en",
+  "matron": "28063@11",
+  "sire": "27387@17",
+  "children": [
+    "42197@19",
+    "79649@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

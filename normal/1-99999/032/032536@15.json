@@ -1,0 +1,20 @@
+{
+  "id": 32536,
+  "name": "gen15",
+  "generation": 15,
+  "created_at": "2017-12-02T21:30:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm gen15. All you need to know about me is I hate chocolate with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "23277@14",
+  "sire": "23295@13",
+  "children": [
+    "35522@18",
+    "41063@18",
+    "55680@20",
+    "79443@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

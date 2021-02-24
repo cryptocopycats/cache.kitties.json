@@ -1,0 +1,20 @@
+{
+  "id": 32308,
+  "name": "Gen3 Exotic Blue Kitty",
+  "generation": 3,
+  "created_at": "2017-12-02T21:00:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Gen3 Exotic Blue Kitty. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "language": "en",
+  "matron": "30977@2",
+  "sire": "30051@2",
+  "children": [
+    "72237@4",
+    "79097@4",
+    "86444@4",
+    "87572@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

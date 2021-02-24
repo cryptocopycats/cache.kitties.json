@@ -1,0 +1,19 @@
+{
+  "id": 30259,
+  "name": "G9 BR",
+  "generation": 9,
+  "created_at": "2017-12-02T16:18:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm G9 BR. I'm a Dispensary Clerk by day, and I like summoning ghosts by night. My great-great-great-great-great-great grandkitty lived with Confucius. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14517@8",
+  "sire": "16977@8",
+  "children": [
+    "35035@10",
+    "37960@10",
+    "44125@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

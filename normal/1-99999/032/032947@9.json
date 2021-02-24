@@ -1,0 +1,21 @@
+{
+  "id": 32947,
+  "name": "Scarlet Magra Josa",
+  "generation": 9,
+  "created_at": "2017-12-02T22:16:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Scarlet Magra Josa. I'm often referred to as the Steve Urkel of the group. I once got in a fight with a moose, and won. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "28601@7",
+  "sire": "28719@8",
+  "children": [
+    "41195@10",
+    "52516@11",
+    "61546@11",
+    "73395@10",
+    "95199@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

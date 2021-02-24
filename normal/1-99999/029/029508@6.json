@@ -1,0 +1,18 @@
+{
+  "id": 29508,
+  "name": "Candy Lane",
+  "generation": 6,
+  "created_at": "2017-12-02T14:03:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Candy Lane. I believe that one day cats will rule this planet. I once got in a fight with a rabbit, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26927@3",
+  "sire": "22035@5",
+  "children": [
+    "41297@7",
+    "462350@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

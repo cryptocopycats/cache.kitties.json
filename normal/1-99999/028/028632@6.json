@@ -1,0 +1,18 @@
+{
+  "id": 28632,
+  "name": "Gen6 BR",
+  "generation": 6,
+  "created_at": "2017-12-02T11:03:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen6 BR. I'm often referred to as the Ron Weasley of the group. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be raunchy, gullible, and full of apple pie.",
+  "language": "en",
+  "matron": "27159@5",
+  "sire": "27040@5",
+  "children": [
+    "38243@7",
+    "42110@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 33328,
+  "name": "Gen 1 Fast Virgin",
+  "generation": 1,
+  "created_at": "2017-12-02T23:06:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 1 Fast Virgin. I enjoy picking flowers, chasing red dots, and fighting the patriarchy. My friends describe me as \"fabulous.\" It's... accurate. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "20483@0",
+  "sire": "2438@0",
+  "children": [
+    "67438@2",
+    "68423@2",
+    "68656@2",
+    "70684@2",
+    "73282@2",
+    "93784@2",
+    "98306@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

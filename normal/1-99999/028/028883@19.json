@@ -1,0 +1,19 @@
+{
+  "id": 28883,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-12-02T11:57:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 19. I want to live in a world where people believe that one day cats will rule this planet. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "8621@15",
+  "sire": "17060@18",
+  "children": [
+    "36071@20",
+    "59468@20",
+    "110101@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

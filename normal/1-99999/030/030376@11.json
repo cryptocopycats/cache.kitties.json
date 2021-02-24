@@ -1,0 +1,21 @@
+{
+  "id": 30376,
+  "name": "11",
+  "generation": 11,
+  "created_at": "2017-12-02T16:34:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! My name's 11. I once peed on Nelson Mandela's cat. They had it coming. I am 86% wizard, 63% Aerobics Athlete , and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "26183@5",
+  "sire": "27267@10",
+  "children": [
+    "41600@15",
+    "45543@16",
+    "54206@19",
+    "71768@15",
+    "74277@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

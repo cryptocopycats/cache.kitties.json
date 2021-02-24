@@ -1,0 +1,18 @@
+{
+  "id": 31224,
+  "name": "Lavendar",
+  "generation": 9,
+  "created_at": "2017-12-02T18:40:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Lavendar. I'm a professional Foreign Film Director and I love ice cream. In my free time, I can usually be found raunchy or riverdancing. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "30747@8",
+  "sire": "30972@8",
+  "children": [
+    "54991@13",
+    "382036@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

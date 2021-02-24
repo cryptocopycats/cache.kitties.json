@@ -1,0 +1,25 @@
+{
+  "id": 31497,
+  "name": "Lowest Gen Mainecoon Siring",
+  "generation": 3,
+  "created_at": "2017-12-02T19:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Lowest Gen Mainecoon Siring. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of eating lasagna, cantaloupe, and summoning ghosts. Let's get busy!",
+  "language": "en",
+  "matron": "27148@2",
+  "sire": "18687@1",
+  "children": [
+    "31624@4",
+    "31729@4",
+    "31897@4",
+    "36271@4",
+    "36525@4",
+    "41079@4",
+    "44888@4",
+    "52690@4",
+    "92648@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

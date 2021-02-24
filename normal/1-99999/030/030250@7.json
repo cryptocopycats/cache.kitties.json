@@ -1,0 +1,19 @@
+{
+  "id": 30250,
+  "name": "Basix",
+  "generation": 7,
+  "created_at": "2017-12-02T16:15:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Basix. I enjoy staying woke, picking on mice, and taking selfies. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "30143@6",
+  "sire": "30090@6",
+  "children": [
+    "70689@15",
+    "377572@15",
+    "377974@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

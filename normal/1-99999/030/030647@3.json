@@ -1,0 +1,25 @@
+{
+  "id": 30647,
+  "name": "Gen3 - Dancer",
+  "generation": 3,
+  "created_at": "2017-12-02T17:28:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen3 - Dancer. I enjoy taking selfies, eating lasagna, and breakdancing. My friends describe me as \"fabulous.\" It's... accurate. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "30508@2",
+  "sire": "30518@2",
+  "children": [
+    "33774@4",
+    "42538@4",
+    "42780@4",
+    "43378@4",
+    "44055@4",
+    "49220@4",
+    "65487@4",
+    "71096@4",
+    "86260@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 32195,
+  "name": "Mainey",
+  "generation": 7,
+  "created_at": "2017-12-02T20:47:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Mainey. All you need to know about me is I hate wet food with a passion. My friends describe me as \"prickly.\" It's... accurate. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "31166@6",
+  "sire": "15735@6",
+  "children": [
+    "38936@8",
+    "49398@8",
+    "53193@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

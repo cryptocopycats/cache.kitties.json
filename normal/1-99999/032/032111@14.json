@@ -1,0 +1,18 @@
+{
+  "id": 32111,
+  "name": "Olly",
+  "generation": 14,
+  "created_at": "2017-12-02T20:37:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Olly. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Confucius. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18876@8",
+  "sire": "22888@13",
+  "children": [
+    "35834@15",
+    "60805@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

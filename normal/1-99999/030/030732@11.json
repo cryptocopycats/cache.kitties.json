@@ -1,0 +1,21 @@
+{
+  "id": 30732,
+  "name": "G11 Scarlet",
+  "generation": 11,
+  "created_at": "2017-12-02T17:35:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm G11 Scarlet. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of spinning sick beats, cereal, and riverdancing. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "26913@4",
+  "sire": "30003@10",
+  "children": [
+    "32469@12",
+    "32666@13",
+    "39357@12",
+    "66482@18",
+    "71186@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

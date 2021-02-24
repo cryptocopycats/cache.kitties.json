@@ -1,0 +1,20 @@
+{
+  "id": 33743,
+  "name": "8",
+  "generation": 8,
+  "created_at": "2017-12-02T23:45:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm 8. I'm often referred to as the Homer Simpson of the group. My friends describe me as \"wondrous.\" It's... accurate. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "27030@7",
+  "sire": "28705@6",
+  "children": [
+    "36262@12",
+    "37414@9",
+    "39279@12",
+    "62011@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

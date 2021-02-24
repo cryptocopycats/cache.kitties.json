@@ -1,0 +1,19 @@
+{
+  "id": 33521,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-02T23:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! I'm Kitty #33521. I enjoy grooming, staying woke, and glaring at the neighbour's cat. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I like your face.",
+  "language": "en",
+  "matron": "32759@9",
+  "sire": "33092@7",
+  "children": [
+    "34479@11",
+    "35802@11",
+    "55777@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

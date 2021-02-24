@@ -1,0 +1,24 @@
+{
+  "id": 28583,
+  "name": "Gen 5  - Sphinx",
+  "generation": 5,
+  "created_at": "2017-12-02T10:52:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen 5  - Sphinx. I'm often referred to as the Frodo Baggins of the group. Sometimes I daydream of a life full of reading garfield, wet food, and braiding people's hair. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "28465@4",
+  "sire": "27242@4",
+  "children": [
+    "34621@6",
+    "36077@6",
+    "38600@9",
+    "41029@16",
+    "43847@6",
+    "45124@9",
+    "55364@10",
+    "115949@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

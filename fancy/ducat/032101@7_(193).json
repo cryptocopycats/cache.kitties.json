@@ -1,0 +1,31 @@
+{
+  "id": 32101,
+  "name": "👑 Lord Featherbeard 👑",
+  "generation": 7,
+  "created_at": "2017-12-02T20:35:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm 👑 Lord Featherbeard 👑. I enjoy eating until I loathe myself, being a nevernude, and taking selfies. My secret indulgence is chocolate. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25386@6",
+  "sire": "31520@6",
+  "children": [
+    "36479@8",
+    "36746@16",
+    "38621@9",
+    "39512@10",
+    "47294@11",
+    "51478@8",
+    "61821@8",
+    "94569@8",
+    "1848590@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 193,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

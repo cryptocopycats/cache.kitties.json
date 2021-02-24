@@ -1,0 +1,20 @@
+{
+  "id": 31301,
+  "name": "G4 | BC | Sp",
+  "generation": 4,
+  "created_at": "2017-12-02T18:54:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm G4 | BC | Sp. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Frank Sinatra. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "21025@3",
+  "sire": "30484@3",
+  "children": [
+    "31668@5",
+    "32215@5",
+    "64993@5",
+    "66369@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

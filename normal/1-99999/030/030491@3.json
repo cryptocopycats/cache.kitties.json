@@ -1,0 +1,25 @@
+{
+  "id": 30491,
+  "name": "Gen 3 | Snappy | Peach (1.1%)",
+  "generation": 3,
+  "created_at": "2017-12-02T16:53:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen 3 | Snappy | Peach (1.1%). I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "30123@2",
+  "sire": "30012@2",
+  "children": [
+    "30982@4",
+    "74318@4",
+    "75453@5",
+    "76333@4",
+    "78411@4",
+    "80995@4",
+    "86651@4",
+    "169434@4",
+    "196796@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

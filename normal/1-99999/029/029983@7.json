@@ -1,0 +1,22 @@
+{
+  "id": 29983,
+  "name": "Gen7 Plodding",
+  "generation": 7,
+  "created_at": "2017-12-02T15:29:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen7 Plodding. In high school, I was voted school jock. I was voted school jock in college. I look forward to reading garfield with you.",
+  "language": "en",
+  "matron": "16828@5",
+  "sire": "29251@6",
+  "children": [
+    "32997@8",
+    "41125@10",
+    "43283@9",
+    "62548@10",
+    "70055@10",
+    "108600@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

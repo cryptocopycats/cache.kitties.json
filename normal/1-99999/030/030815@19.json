@@ -1,0 +1,19 @@
+{
+  "id": 30815,
+  "name": "SuspiciousKitty",
+  "generation": 19,
+  "created_at": "2017-12-02T17:47:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! SuspiciousKitty here. I'm here to enjoy sitting on your computer and chasing red dots. My secret indulgence is salad. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "27828@16",
+  "sire": "27911@18",
+  "children": [
+    "35353@20",
+    "76899@20",
+    "326812@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

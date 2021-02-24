@@ -1,0 +1,21 @@
+{
+  "id": 29999,
+  "name": "Sgt Stripes",
+  "generation": 4,
+  "created_at": "2017-12-02T15:34:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Sgt Stripes. My friends describe me as annoying and wondrous. I put garlic butter on everything. Like, everything: hot dogs, ice cream—everything! I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "29212@3",
+  "sire": "29215@2",
+  "children": [
+    "33260@5",
+    "41747@5",
+    "49280@5",
+    "104349@5",
+    "199304@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

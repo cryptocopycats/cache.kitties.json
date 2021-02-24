@@ -1,0 +1,22 @@
+{
+  "id": 33052,
+  "name": "LuckyStripe",
+  "generation": 6,
+  "created_at": "2017-12-02T22:25:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm LuckyStripe. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "14835@5",
+  "sire": "18841@5",
+  "children": [
+    "39794@8",
+    "40198@17",
+    "46486@8",
+    "62691@8",
+    "67018@7",
+    "336634@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

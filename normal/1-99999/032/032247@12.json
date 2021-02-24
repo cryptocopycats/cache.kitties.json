@@ -1,0 +1,19 @@
+{
+  "id": 32247,
+  "name": "YOLO",
+  "generation": 12,
+  "created_at": "2017-12-02T20:56:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm YOLO. I enjoy being a nevernude, reading garfield, and fighting the patriarchy. In my free time, I can usually be found wondrous or playing chess. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "26665@10",
+  "sire": "21605@11",
+  "children": [
+    "33952@14",
+    "38004@13",
+    "55445@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

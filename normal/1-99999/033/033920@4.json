@@ -1,0 +1,19 @@
+{
+  "id": 33920,
+  "name": "Basic",
+  "generation": 4,
+  "created_at": "2017-12-03T00:04:16.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Basic. I enjoy fighting for the people, hitting on yo' man, and staying woke. I once pawed at a rooster. I don't like to talk about it. I look forward to picking flowers with you.",
+  "language": "en",
+  "matron": "26511@3",
+  "sire": "33518@3",
+  "children": [
+    "58039@5",
+    "59119@5",
+    "184868@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

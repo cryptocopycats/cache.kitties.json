@@ -1,0 +1,22 @@
+{
+  "id": 28324,
+  "name": "G7 | Slow Cerulian",
+  "generation": 7,
+  "created_at": "2017-12-02T10:06:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm G7 | Slow Cerulian. I enjoy chasing string, licking doorknobs, and eating lasagna. I once dreamed of being a Ventriloquist. Now I can be found sleeping in fresh laundry all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "28192@6",
+  "sire": "24603@6",
+  "children": [
+    "28530@8",
+    "40882@9",
+    "42091@9",
+    "44183@9",
+    "50717@9",
+    "61618@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

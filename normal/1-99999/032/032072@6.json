@@ -1,0 +1,22 @@
+{
+  "id": 32072,
+  "name": "Sherlock \"Raised Brow\" Holmes",
+  "generation": 6,
+  "created_at": "2017-12-02T20:32:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Sherlock \"Raised Brow\" Holmes. I'm a Aerobics Athlete  by day, and I like mocking dogs by night. I would give it all up to be on Oprah. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "31746@5",
+  "sire": "31920@5",
+  "children": [
+    "32262@7",
+    "32587@7",
+    "44201@8",
+    "59351@7",
+    "67631@12",
+    "114382@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

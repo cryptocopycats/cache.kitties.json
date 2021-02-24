@@ -1,0 +1,24 @@
+{
+  "id": 32462,
+  "name": "Good Starter Gen5",
+  "generation": 5,
+  "created_at": "2017-12-02T21:22:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Good Starter Gen5. I'm a professional Aerobics Athlete  and I love cantaloupe. I'm often described as voluptuous, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "31264@4",
+  "sire": "19769@4",
+  "children": [
+    "34424@9",
+    "40436@6",
+    "41402@6",
+    "45417@6",
+    "53781@6",
+    "62551@6",
+    "77813@6",
+    "129267@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

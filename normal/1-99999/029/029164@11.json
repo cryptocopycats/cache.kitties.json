@@ -1,0 +1,21 @@
+{
+  "id": 29164,
+  "name": "Suzanne",
+  "generation": 11,
+  "created_at": "2017-12-02T12:54:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Suzanne. I'm often referred to as the Hermione Granger of the group. I am 44% hobbit, 83% Private Dancer , and otherwise bad at math. I look forward to eating until I loathe myself with you.",
+  "language": "en",
+  "matron": "26818@10",
+  "sire": "26959@9",
+  "children": [
+    "32628@14",
+    "33231@13",
+    "35166@12",
+    "42800@17",
+    "44680@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

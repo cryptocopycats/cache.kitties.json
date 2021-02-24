@@ -1,0 +1,25 @@
+{
+  "id": 31122,
+  "name": "Silver",
+  "generation": 3,
+  "created_at": "2017-12-02T18:32:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Silver. I believe the world is flat. I once dreamed of being a Ventriloquist. Now I can be found sleeping in fresh laundry all day. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "30123@2",
+  "sire": "30977@2",
+  "children": [
+    "74012@4",
+    "74134@4",
+    "74768@4",
+    "76421@4",
+    "78507@4",
+    "81404@4",
+    "84896@4",
+    "89988@4",
+    "142614@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

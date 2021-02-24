@@ -1,0 +1,27 @@
+{
+  "id": 33463,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T23:19:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! Gen 2 here. I'm here to enjoy picking flowers and watching Stranger Things. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "29958@1",
+  "sire": "29868@1",
+  "children": [
+    "34230@3",
+    "34483@3",
+    "34605@3",
+    "35330@3",
+    "36528@3",
+    "43827@3",
+    "49486@3",
+    "55809@3",
+    "71357@3",
+    "142783@3",
+    "186156@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

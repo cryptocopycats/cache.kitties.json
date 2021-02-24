@@ -1,0 +1,27 @@
+{
+  "id": 33504,
+  "name": "ShipCat 121/2000",
+  "generation": 16,
+  "created_at": "2017-12-02T23:22:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm ShipCat 121/2000. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "24933@2",
+  "sire": "32774@15",
+  "children": [
+    "33769@17",
+    "39917@17",
+    "58586@17",
+    "88772@17",
+    "360265@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 121,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

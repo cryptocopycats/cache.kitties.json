@@ -1,0 +1,24 @@
+{
+  "id": 33119,
+  "name": "Chairman Meow",
+  "generation": 6,
+  "created_at": "2017-12-02T22:36:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Chairman Meow. I've never told anyone this, but I once snuggled a dog. I like to listen to Gloria Estefan while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "32564@3",
+  "sire": "31189@5",
+  "children": [
+    "35065@10",
+    "36228@9",
+    "39212@13",
+    "46490@7",
+    "53863@7",
+    "59526@7",
+    "85384@9",
+    "115778@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

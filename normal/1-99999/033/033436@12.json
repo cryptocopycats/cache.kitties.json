@@ -1,0 +1,18 @@
+{
+  "id": 33436,
+  "name": "Roger",
+  "generation": 12,
+  "created_at": "2017-12-02T23:18:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Roger. In high school, I was voted school jock. When I'm not prank-calling celebrities, I'm riding the bus! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "29760@10",
+  "sire": "29691@11",
+  "children": [
+    "42371@13",
+    "70330@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

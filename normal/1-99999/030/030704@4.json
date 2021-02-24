@@ -1,0 +1,24 @@
+{
+  "id": 30704,
+  "name": "Gen 4 tongue raised brow",
+  "generation": 4,
+  "created_at": "2017-12-02T17:31:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 4 tongue raised brow. I'm a professional Mad Scientist and I love apple pie. When I'm not reading Danielle Steele, I'm playing chess! I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "28148@3",
+  "sire": "29051@3",
+  "children": [
+    "30881@5",
+    "30965@6",
+    "31652@7",
+    "32679@5",
+    "35170@5",
+    "39867@19",
+    "40252@5",
+    "53866@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

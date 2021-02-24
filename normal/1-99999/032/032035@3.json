@@ -1,0 +1,23 @@
+{
+  "id": 32035,
+  "name": "Gen 3 Gold Swampgreen",
+  "generation": 3,
+  "created_at": "2017-12-02T20:29:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Gen 3 Gold Swampgreen. I want to live in a world where people believe the world is flat. I once dreamed of being a Skydiving Instructor. Now I can be found braiding people's hair all day. I like your face.",
+  "language": "en",
+  "matron": "30479@2",
+  "sire": "31761@2",
+  "children": [
+    "76289@8",
+    "76707@4",
+    "80757@4",
+    "86021@7",
+    "103526@4",
+    "117254@4",
+    "122064@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

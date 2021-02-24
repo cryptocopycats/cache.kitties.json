@@ -1,0 +1,19 @@
+{
+  "id": 28358,
+  "name": "G7 | Stock",
+  "generation": 7,
+  "created_at": "2017-12-02T10:11:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm G7 | Stock. I'm often referred to as the Steve Urkel of the group. I once dreamed of being a Private Dancer . Now I can be found sleeping in fresh laundry all day. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "18921@6",
+  "sire": "26640@6",
+  "children": [
+    "28755@8",
+    "29233@8",
+    "31418@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 29620,
+  "name": "Ducat, Gen 8! (#151 / 10,000)",
+  "generation": 8,
+  "created_at": "2017-12-02T14:23:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Ducat, Gen 8! (#151 / 10,000). All you need to know about me is I hate lasagna with a passion. I'm often described as raunchy, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28900@7",
+  "sire": "29496@7",
+  "children": [
+    "49257@11",
+    "54462@12",
+    "78790@12",
+    "102746@9",
+    "104988@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 151,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

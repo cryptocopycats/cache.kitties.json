@@ -1,0 +1,28 @@
+{
+  "id": 29820,
+  "name": "Gen 3 Brisk Cymric Tooth",
+  "generation": 3,
+  "created_at": "2017-12-02T15:02:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Gen 3 Brisk Cymric Tooth. I'm a Mad Scientist by day, and I like tricking babies by night. It's not common knowledge, but my ancestry connects me to Princess Diana. Will you be the garlic butter to my ranch dressing?",
+  "language": "en",
+  "matron": "26960@2",
+  "sire": "28185@2",
+  "children": [
+    "36710@4",
+    "37334@6",
+    "38596@5",
+    "44145@5",
+    "55262@4",
+    "61976@4",
+    "66059@14",
+    "91087@4",
+    "251256@4",
+    "290283@4",
+    "312963@4",
+    "408536@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

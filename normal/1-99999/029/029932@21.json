@@ -1,0 +1,18 @@
+{
+  "id": 29932,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-12-02T15:23:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 21. I'm often referred to as the Cersei Lannister of the group. I am 47% fairy, 0% Culinary Sanitation Specialist, and otherwise bad at math. Our friendship will be brilliant, fabulous, and full of apple pie.",
+  "language": "en",
+  "matron": "12310@20",
+  "sire": "12186@17",
+  "children": [
+    "44241@22",
+    "76099@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

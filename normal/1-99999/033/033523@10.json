@@ -1,0 +1,19 @@
+{
+  "id": 33523,
+  "name": "Roxanne",
+  "generation": 10,
+  "created_at": "2017-12-02T23:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Roxanne. My friends describe me as gullible and fabulous. I like to listen to Rihanna while grooming. Don't judge me. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "30853@9",
+  "sire": "32166@9",
+  "children": [
+    "51036@11",
+    "57539@12",
+    "181807@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

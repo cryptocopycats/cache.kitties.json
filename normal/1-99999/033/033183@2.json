@@ -1,0 +1,28 @@
+{
+  "id": 33183,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T22:43:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Gen 2. I believe that one day cats will rule this planet. I once got in a fight with a goose, and won. Let's get busy!",
+  "language": "en",
+  "matron": "30638@1",
+  "sire": "32944@1",
+  "children": [
+    "34354@3",
+    "34483@3",
+    "35116@3",
+    "35347@3",
+    "36445@3",
+    "44155@3",
+    "46903@3",
+    "55943@3",
+    "71349@3",
+    "122352@3",
+    "125033@3",
+    "182089@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

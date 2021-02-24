@@ -1,0 +1,18 @@
+{
+  "id": 32291,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-02T20:59:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #32291. I believe the world is flat. When no one's home, I invite my pals over and we listen to Wutang. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "31211@8",
+  "sire": "4653@9",
+  "children": [
+    "33466@11",
+    "58479@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 31106,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T18:30:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 2. I enjoy sweating through my feet, hitting on yo' man, and sitting on your computer. When I'm not jump-roping, I'm reading Danielle Steele! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29918@1",
+  "sire": "29917@1",
+  "children": [
+    "31666@3",
+    "31843@3",
+    "32497@3",
+    "34605@3",
+    "36767@3",
+    "44159@3",
+    "50809@3",
+    "73193@3",
+    "141846@3",
+    "157991@3",
+    "193986@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

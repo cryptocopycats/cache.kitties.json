@@ -1,0 +1,28 @@
+{
+  "id": 31919,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T20:16:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Gen 2. I want to live in a world where people believe the world is flat. My secret indulgence is steak. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "30222@1",
+  "sire": "30112@1",
+  "children": [
+    "32088@3",
+    "32157@3",
+    "32407@3",
+    "33448@3",
+    "33635@3",
+    "35347@3",
+    "38384@3",
+    "44001@3",
+    "64947@3",
+    "73033@3",
+    "124929@3",
+    "183068@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

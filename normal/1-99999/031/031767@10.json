@@ -1,0 +1,19 @@
+{
+  "id": 31767,
+  "name": "NEO {shadow}",
+  "generation": 10,
+  "created_at": "2017-12-02T19:51:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm NEO {shadow}. I'm often referred to as the Niles Crane of the group. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "29530@9",
+  "sire": "20289@9",
+  "children": [
+    "37364@11",
+    "41395@15",
+    "59812@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 29735,
+  "name": "Gen 5 Orange Soda",
+  "generation": 5,
+  "created_at": "2017-12-02T14:46:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Gen 5 Orange Soda. I'm a Train Conductor by day, and I like summoning ghosts by night. I'm often described as despicable, and I own it. Will you be the garlic butter to my wasabi?",
+  "language": "en",
+  "matron": "28349@4",
+  "sire": "29345@4",
+  "children": [
+    "31099@6",
+    "65548@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

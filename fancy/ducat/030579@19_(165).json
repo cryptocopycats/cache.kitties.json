@@ -1,0 +1,25 @@
+{
+  "id": 30579,
+  "name": "30579",
+  "generation": 19,
+  "created_at": "2017-12-02T17:18:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm 30579. I'm often referred to as the Neville Longbottom of the group. My secret indulgence is ice cream. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26573@6",
+  "sire": "28886@18",
+  "children": [
+    "39773@20",
+    "80655@20",
+    "84026@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 165,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,21 @@
+{
+  "id": 33081,
+  "name": "Gen 8 | Bubblegum | Dali",
+  "generation": 8,
+  "created_at": "2017-12-02T22:29:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Gen 8 | Bubblegum | Dali. I believe the world is flat. I would give it all up to star in a soap opera. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "16781@7",
+  "sire": "27188@6",
+  "children": [
+    "34209@9",
+    "37354@13",
+    "39463@13",
+    "51449@9",
+    "63092@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

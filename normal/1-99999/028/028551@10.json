@@ -1,0 +1,19 @@
+{
+  "id": 28551,
+  "name": "Gen10- x1",
+  "generation": 10,
+  "created_at": "2017-12-02T10:46:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gen10- x1. All you need to know about me is I hate chocolate with a passion. I am 37% fairy, 91% Aerobics Athlete , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "19835@7",
+  "sire": "25748@9",
+  "children": [
+    "31804@11",
+    "32942@11",
+    "49195@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

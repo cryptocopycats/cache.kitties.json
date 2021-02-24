@@ -1,0 +1,21 @@
+{
+  "id": 28639,
+  "name": "Molly Mocha",
+  "generation": 10,
+  "created_at": "2017-12-02T11:06:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Molly Mocha. In high school, I was voted school jock. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "28434@9",
+  "sire": "22901@9",
+  "children": [
+    "29049@20",
+    "30302@11",
+    "32064@11",
+    "36595@11",
+    "53776@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

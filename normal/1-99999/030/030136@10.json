@@ -1,0 +1,19 @@
+{
+  "id": 30136,
+  "name": "Mr. KittyPuss",
+  "generation": 10,
+  "created_at": "2017-12-02T15:54:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! My name's Mr. KittyPuss. I once peed on Mother Theresa's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Mother Theresa. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "29349@9",
+  "sire": "14645@9",
+  "children": [
+    "32891@11",
+    "38817@14",
+    "44556@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

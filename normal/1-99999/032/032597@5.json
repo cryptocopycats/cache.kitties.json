@@ -1,0 +1,18 @@
+{
+  "id": 32597,
+  "name": "Matly",
+  "generation": 5,
+  "created_at": "2017-12-02T21:37:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Matly. I'm a Dispensary Clerk by day, and I like playing chess by night. I once cleaned a goose. I don't like to talk about it. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "14399@2",
+  "sire": "30547@4",
+  "children": [
+    "49432@6",
+    "51413@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

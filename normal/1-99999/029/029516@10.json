@@ -1,0 +1,22 @@
+{
+  "id": 29516,
+  "name": "Father Of Fancy Duck",
+  "generation": 10,
+  "created_at": "2017-12-02T14:04:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Father Of Fancy Duck. I believe the world is flat. I put garlic butter on everything. Like, everything: hot dogs, ice cream—everything! Let's get busy!",
+  "language": "en",
+  "matron": "28541@4",
+  "sire": "28819@9",
+  "children": [
+    "29906@11",
+    "33985@11",
+    "42162@11",
+    "68642@11",
+    "117101@11",
+    "206785@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

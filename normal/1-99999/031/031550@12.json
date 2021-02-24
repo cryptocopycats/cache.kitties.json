@@ -1,0 +1,19 @@
+{
+  "id": 31550,
+  "name": "Cerulian #14",
+  "generation": 12,
+  "created_at": "2017-12-02T19:29:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Cerulian #14. My friends describe me as despicable and seductive. I once pawed at a rooster. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26035@9",
+  "sire": "27415@11",
+  "children": [
+    "32094@13",
+    "33813@13",
+    "37185@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

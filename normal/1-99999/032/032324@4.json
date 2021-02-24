@@ -1,0 +1,18 @@
+{
+  "id": 32324,
+  "name": "Gen 4 | Snappy",
+  "generation": 4,
+  "created_at": "2017-12-02T21:01:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! Gen 4 | Snappy here. I'm here to enjoy riding unicorns and spinning sick beats. I once made a labradoodle drink. I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "30169@3",
+  "sire": "32122@3",
+  "children": [
+    "40469@7",
+    "41683@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

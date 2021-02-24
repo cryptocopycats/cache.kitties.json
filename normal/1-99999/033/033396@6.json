@@ -1,0 +1,22 @@
+{
+  "id": 33396,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T23:13:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen 6. I'm a professional Dispensary Clerk and I love cereal. I am 56% elf, 45% Culinary Sanitation Specialist, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "32697@5",
+  "sire": "32245@5",
+  "children": [
+    "33999@8",
+    "34554@7",
+    "36959@7",
+    "37775@9",
+    "41119@7",
+    "54987@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

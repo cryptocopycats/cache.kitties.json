@@ -1,0 +1,18 @@
+{
+  "id": 32699,
+  "name": "Mary Jane",
+  "generation": 15,
+  "created_at": "2017-12-02T21:49:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Mary Jane. My friends describe me as prickly and tantalizing. In my free time, I can usually be found brilliant or sleeping in fresh laundry. Our friendship will be prickly, tantalizing, and full of steak.",
+  "language": "en",
+  "matron": "5399@8",
+  "sire": "17758@14",
+  "children": [
+    "43558@17",
+    "55806@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

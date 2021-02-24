@@ -1,0 +1,22 @@
+{
+  "id": 30942,
+  "name": "Swampy",
+  "generation": 15,
+  "created_at": "2017-12-02T18:02:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Swampy. All you need to know about me is I hate salad with a passion. My secret indulgence is apple pie. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "26590@6",
+  "sire": "22237@14",
+  "children": [
+    "35274@18",
+    "43036@16",
+    "64215@16",
+    "92494@16",
+    "123068@17",
+    "323731@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

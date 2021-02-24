@@ -1,0 +1,20 @@
+{
+  "id": 32942,
+  "name": "Snowshoe",
+  "generation": 11,
+  "created_at": "2017-12-02T22:16:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Snowshoe. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Beyoncé. Will you be the maple syrup to my cinammon?",
+  "language": "en",
+  "matron": "28551@10",
+  "sire": "28538@9",
+  "children": [
+    "48478@12",
+    "52163@12",
+    "61250@12",
+    "85420@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

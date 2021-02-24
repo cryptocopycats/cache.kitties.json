@@ -1,0 +1,20 @@
+{
+  "id": 29715,
+  "name": "Episode",
+  "generation": 17,
+  "created_at": "2017-12-02T14:39:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Episode. I want to live in a world where people believe the world is flat. I like to listen to Gloria Estefan while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "8111@12",
+  "sire": "11217@16",
+  "children": [
+    "33800@18",
+    "43715@18",
+    "70727@18",
+    "273123@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

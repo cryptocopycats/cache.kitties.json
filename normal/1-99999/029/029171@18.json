@@ -1,0 +1,21 @@
+{
+  "id": 29171,
+  "name": "Orange Soda",
+  "generation": 18,
+  "created_at": "2017-12-02T12:56:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Orange Soda. My friends describe me as despicable and smelly. I once dreamed of being a Train Conductor. Now I can be found people-watching all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "26040@17",
+  "sire": "26047@17",
+  "children": [
+    "36838@19",
+    "42408@19",
+    "107896@19",
+    "272319@19",
+    "281542@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

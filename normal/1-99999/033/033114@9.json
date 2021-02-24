@@ -1,0 +1,21 @@
+{
+  "id": 33114,
+  "name": "Larry",
+  "generation": 9,
+  "created_at": "2017-12-02T22:36:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Larry. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once made a labradoodle leap. Our friendship will be petulant, wondrous, and full of steak.",
+  "language": "en",
+  "matron": "32151@8",
+  "sire": "32284@7",
+  "children": [
+    "34454@14",
+    "55816@14",
+    "76360@10",
+    "264691@19",
+    "269955@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

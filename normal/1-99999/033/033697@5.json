@@ -1,0 +1,23 @@
+{
+  "id": 33697,
+  "name": "Shingles",
+  "generation": 5,
+  "created_at": "2017-12-02T23:39:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Shingles. I'm a professional Mad Scientist and I love apple pie. I once got in a fight with a gecko, and won. Let's pawty!",
+  "language": "en",
+  "matron": "33631@4",
+  "sire": "33538@4",
+  "children": [
+    "33846@6",
+    "34125@6",
+    "34579@6",
+    "49514@6",
+    "61475@6",
+    "105465@6",
+    "165727@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

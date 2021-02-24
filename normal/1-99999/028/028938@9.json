@@ -1,0 +1,19 @@
+{
+  "id": 28938,
+  "name": "G9 PL",
+  "generation": 9,
+  "created_at": "2017-12-02T12:05:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm G9 PL. I'm a Ventriloquist by day, and I like watching reality tv by night. Sometimes I daydream of a life full of tricking babies, wet food, and summoning ghosts. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "27449@8",
+  "sire": "23550@8",
+  "children": [
+    "29149@10",
+    "34903@10",
+    "37460@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 30322,
+  "name": "Rare LemonTongue",
+  "generation": 17,
+  "created_at": "2017-12-02T16:28:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Rare LemonTongue. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of slappin' da bass, ice cream, and riverdancing. Let's get busy!",
+  "language": "en",
+  "matron": "25244@4",
+  "sire": "25216@16",
+  "children": [
+    "34512@18",
+    "44057@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

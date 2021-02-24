@@ -1,0 +1,21 @@
+{
+  "id": 28722,
+  "name": "Plodding spock",
+  "generation": 12,
+  "created_at": "2017-12-02T11:29:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Plodding spock. I believe that one day cats will rule this planet. I once got in a fight with a dolphin, and won. I look forward to riding dirty with you.",
+  "language": "en",
+  "matron": "26505@3",
+  "sire": "28650@11",
+  "children": [
+    "28952@13",
+    "32666@13",
+    "52521@13",
+    "68283@13",
+    "296866@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

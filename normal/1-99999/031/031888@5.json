@@ -1,0 +1,20 @@
+{
+  "id": 31888,
+  "name": "Bubblegum | Gen5 | Swift",
+  "generation": 5,
+  "created_at": "2017-12-02T20:09:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Bubblegum | Gen5 | Swift. I believe that one day cats will rule this planet. I'm often described as ridiculous, and I own it. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "30513@3",
+  "sire": "31471@4",
+  "children": [
+    "31945@6",
+    "36847@18",
+    "46397@9",
+    "59358@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

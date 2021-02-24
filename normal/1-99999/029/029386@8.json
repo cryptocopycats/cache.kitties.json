@@ -1,0 +1,20 @@
+{
+  "id": 29386,
+  "name": "Gen8 Peach Spock",
+  "generation": 8,
+  "created_at": "2017-12-02T13:42:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Gen8 Peach Spock. I once peed on Martin Luther King Jr.'s cat. They had it coming. Sometimes I daydream of a life full of picking on mice, wet food, and siring for status. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "25227@7",
+  "sire": "25562@7",
+  "children": [
+    "31588@9",
+    "32575@9",
+    "51635@9",
+    "227214@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

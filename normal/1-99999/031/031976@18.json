@@ -1,0 +1,20 @@
+{
+  "id": 31976,
+  "name": "Cheap Starter",
+  "generation": 18,
+  "created_at": "2017-12-02T20:22:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Cheap Starter. I enjoy riding dirty, eating lasagna, and picking flowers. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "4125@5",
+  "sire": "30193@17",
+  "children": [
+    "54648@19",
+    "87977@20",
+    "138488@19",
+    "268905@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

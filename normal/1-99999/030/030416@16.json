@@ -1,0 +1,18 @@
+{
+  "id": 30416,
+  "name": "Brown Eye Bob",
+  "generation": 16,
+  "created_at": "2017-12-02T16:40:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Brown Eye Bob. My friends describe me as gullible and wondrous. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "12636@10",
+  "sire": "12660@15",
+  "children": [
+    "50970@17",
+    "1612779@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

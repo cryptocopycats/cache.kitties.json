@@ -1,0 +1,17 @@
+{
+  "id": 33399,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-02T23:13:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Gen 7. I'm a Train Conductor by day, and I like swiping right by night. I put pickles on everything. Like, everything: hot dogs, apple pie—everything! Let's get busy!",
+  "language": "en",
+  "matron": "20970@5",
+  "sire": "33067@6",
+  "children": [
+    "61456@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

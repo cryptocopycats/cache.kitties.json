@@ -1,0 +1,18 @@
+{
+  "id": 32402,
+  "name": "Student",
+  "generation": 12,
+  "created_at": "2017-12-02T21:15:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Student. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Rihanna. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "12940@11",
+  "sire": "4856@11",
+  "children": [
+    "33679@13",
+    "49405@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 30553,
+  "name": "Gen 2 OG",
+  "generation": 2,
+  "created_at": "2017-12-02T17:11:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 2 OG. In high school, I was voted most likely to work at NASA. My friends describe me as \"vegan.\" It's... accurate. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "5840@1",
+  "sire": "5825@1",
+  "children": [
+    "32078@3",
+    "35021@3",
+    "42603@3",
+    "49304@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31630,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-02T19:38:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's Kitty #31630. I once peed on Amelia Earhart's cat. They had it coming. I once dreamed of being a Skydiving Instructor. Now I can be found running a podcast all day. Will you be the cinammon to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29871@11",
+  "sire": "20857@13",
+  "children": [
+    "50901@15",
+    "72652@17",
+    "99852@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 186,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

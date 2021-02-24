@@ -1,0 +1,19 @@
+{
+  "id": 33868,
+  "name": "Cat Stevens",
+  "generation": 12,
+  "created_at": "2017-12-02T23:59:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Cat Stevens here. I'm here to enjoy picking on mice and eating lasagna. When no one's home, I invite my pals over and we listen to Wutang. Let's get busy!",
+  "language": "en",
+  "matron": "28089@6",
+  "sire": "30591@11",
+  "children": [
+    "42940@13",
+    "51970@16",
+    "92673@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

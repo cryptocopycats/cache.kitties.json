@@ -1,0 +1,30 @@
+{
+  "id": 33653,
+  "name": "Gen 2 Sailor",
+  "generation": 2,
+  "created_at": "2017-12-02T23:35:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Gen 2 Sailor here. I'm here to enjoy sweating through my feet and grooming. Sometimes I daydream of a life full of staying woke, ice cream, and pole dancing. Our friendship will be prickly, hairy, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19309@0",
+  "sire": "5958@1",
+  "children": [
+    "34054@8",
+    "34493@9",
+    "36253@3",
+    "39241@3",
+    "49055@6",
+    "49070@3",
+    "62979@3",
+    "78505@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 123,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 31693,
+  "name": "G8 | Duck & Duck Son | Plod",
+  "generation": 8,
+  "created_at": "2017-12-02T19:42:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm G8 | Duck & Duck Son | Plod. I believe that one day cats will rule this planet. I once made a rabbit kiss. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25296@7",
+  "sire": "25766@7",
+  "children": [
+    "32293@9",
+    "32935@9",
+    "34278@9",
+    "68332@9",
+    "172530@10",
+    "270277@9",
+    "1635880@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 187,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

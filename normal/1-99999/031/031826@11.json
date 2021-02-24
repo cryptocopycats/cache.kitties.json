@@ -1,0 +1,22 @@
+{
+  "id": 31826,
+  "name": "Tinkles",
+  "generation": 11,
+  "created_at": "2017-12-02T20:02:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Tinkles. All you need to know about me is I hate steak with a passion. I put peanut butter on everything. Like, everything: hot dogs, cantaloupe—everything! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "29512@8",
+  "sire": "30907@10",
+  "children": [
+    "46500@19",
+    "46656@19",
+    "49087@20",
+    "49379@14",
+    "100881@14",
+    "171332@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

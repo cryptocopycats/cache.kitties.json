@@ -1,0 +1,26 @@
+{
+  "id": 33914,
+  "name": "Gen 5 | Purple",
+  "generation": 5,
+  "created_at": "2017-12-03T00:04:03.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Gen 5 | Purple. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to King Henry VIII. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "32623@3",
+  "sire": "33663@4",
+  "children": [
+    "34056@6",
+    "34253@6",
+    "34732@6",
+    "36906@6",
+    "39984@9",
+    "49533@6",
+    "62363@6",
+    "87581@6",
+    "124529@6",
+    "183692@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

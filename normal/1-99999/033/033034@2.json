@@ -1,0 +1,23 @@
+{
+  "id": 33034,
+  "name": "Gen 2 Brisk",
+  "generation": 2,
+  "created_at": "2017-12-02T22:23:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen 2 Brisk. I believe the world is flat. When no one's home, I invite my pals over and we listen to Rihanna. Let's get busy!",
+  "language": "en",
+  "matron": "26660@1",
+  "sire": "23265@1",
+  "children": [
+    "33793@3",
+    "34181@3",
+    "34610@3",
+    "37920@3",
+    "45037@3",
+    "172986@3",
+    "229150@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

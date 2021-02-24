@@ -1,0 +1,19 @@
+{
+  "id": 28867,
+  "name": "Gen15 Plodding",
+  "generation": 15,
+  "created_at": "2017-12-02T11:57:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen15 Plodding. In high school, I was voted school jock. When I'm not braiding people's hair, I'm talking about how much I lift! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "11912@12",
+  "sire": "13204@14",
+  "children": [
+    "31401@16",
+    "43844@16",
+    "58692@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

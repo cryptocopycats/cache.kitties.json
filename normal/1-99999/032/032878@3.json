@@ -1,0 +1,24 @@
+{
+  "id": 32878,
+  "name": "Golden Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T22:12:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! Golden Gen 3 here. I'm here to enjoy shakin' dat booty and sitting on your computer. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "31753@2",
+  "sire": "30995@2",
+  "children": [
+    "108892@4",
+    "109481@4",
+    "110378@4",
+    "114200@4",
+    "122131@4",
+    "143400@4",
+    "149451@4",
+    "234741@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

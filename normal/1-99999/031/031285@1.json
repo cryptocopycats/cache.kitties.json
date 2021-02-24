@@ -1,0 +1,31 @@
+{
+  "id": 31285,
+  "name": "Gen 1",
+  "generation": 1,
+  "created_at": "2017-12-02T18:53:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen 1. All you need to know about me is I hate ice cream with a passion. I was voted school jock in college. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26683@0",
+  "sire": "26260@0",
+  "children": [
+    "31660@2",
+    "31699@2",
+    "31753@2",
+    "31895@2",
+    "32674@2",
+    "33591@2",
+    "34136@2",
+    "38449@2",
+    "42876@2",
+    "56908@2",
+    "65630@2",
+    "115540@2",
+    "154120@2",
+    "1215244@2",
+    "1413642@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 30921,
+  "name": "Cheeky Blue",
+  "generation": 19,
+  "created_at": "2017-12-02T18:02:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Cheeky Blue. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10002@16",
+  "sire": "21401@18",
+  "children": [
+    "40275@20",
+    "86961@20",
+    "149212@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

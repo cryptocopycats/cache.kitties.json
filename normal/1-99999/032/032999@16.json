@@ -1,0 +1,20 @@
+{
+  "id": 32999,
+  "name": "Sailor Moon",
+  "generation": 16,
+  "created_at": "2017-12-02T22:21:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Sailor Moon. I've never told anyone this, but I once groomed a dog. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "22979@11",
+  "sire": "25351@15",
+  "children": [
+    "44111@17",
+    "55669@17",
+    "84497@17",
+    "235278@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

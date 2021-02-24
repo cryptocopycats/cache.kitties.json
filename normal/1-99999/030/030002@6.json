@@ -1,0 +1,23 @@
+{
+  "id": 30002,
+  "name": "Redeyes P-Tooth",
+  "generation": 6,
+  "created_at": "2017-12-02T15:34:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Redeyes P-Tooth. All you need to know about me is I hate salad with a passion. When no one's home, I invite my pals over and we listen to Beyoncé. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "24535@4",
+  "sire": "29703@5",
+  "children": [
+    "35723@7",
+    "37658@7",
+    "43368@7",
+    "46220@7",
+    "71303@7",
+    "262488@7",
+    "271432@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

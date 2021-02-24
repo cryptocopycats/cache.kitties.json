@@ -1,0 +1,21 @@
+{
+  "id": 32479,
+  "name": "Bumble",
+  "generation": 12,
+  "created_at": "2017-12-02T21:23:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Bumble. I'm often referred to as the Lisa Simpson of the group. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Let's get busy!",
+  "language": "en",
+  "matron": "30947@10",
+  "sire": "31243@11",
+  "children": [
+    "33927@14",
+    "37143@13",
+    "46447@13",
+    "68326@17",
+    "97223@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

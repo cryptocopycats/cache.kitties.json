@@ -1,0 +1,25 @@
+{
+  "id": 32227,
+  "name": "Spock",
+  "generation": 3,
+  "created_at": "2017-12-02T20:49:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Spock. I've never told anyone this, but I once frolicked with a dog. Some people say I'm the Neville Longbottom of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12725@2",
+  "sire": "28185@2",
+  "children": [
+    "35422@4",
+    "43141@4",
+    "45389@4",
+    "48632@4",
+    "94601@4",
+    "100794@4",
+    "107845@4",
+    "143440@4",
+    "318388@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

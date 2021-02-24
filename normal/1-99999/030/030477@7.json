@@ -1,0 +1,18 @@
+{
+  "id": 30477,
+  "name": "Gen 4 new tigříc",
+  "generation": 7,
+  "created_at": "2017-12-02T16:50:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 4 new tigříc. I'm a professional Mad Scientist and I love ice cream. I was voted biggest teacher's pet in college. Let's get busy!",
+  "language": "en",
+  "matron": "29096@6",
+  "sire": "30119@6",
+  "children": [
+    "32990@8",
+    "38279@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

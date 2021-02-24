@@ -1,0 +1,19 @@
+{
+  "id": 30990,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-02T18:10:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #30990. I'm often referred to as the Chandler Bing of the group. When no one's home, I invite my pals over and we listen to Aretha Franklin. I like your face.",
+  "language": "en",
+  "matron": "18679@16",
+  "sire": "16110@12",
+  "children": [
+    "36510@22",
+    "50898@18",
+    "91748@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 28894,
+  "name": "Santa",
+  "generation": 15,
+  "created_at": "2017-12-02T11:57:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Santa. I've never told anyone this, but I once pranced with a dog. It's not common knowledge, but my ancestry connects me to Mother Theresa. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "12279@14",
+  "sire": "1201@0",
+  "children": [
+    "30469@21",
+    "48686@16",
+    "88650@21",
+    "91136@19",
+    "219107@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29640,
+  "name": "Gen 5 Brisk Raga Limegreen",
+  "generation": 5,
+  "created_at": "2017-12-02T14:26:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Gen 5 Brisk Raga Limegreen. I'm often referred to as the Marge Simpson of the group. I once got in a fight with a rooster, and won. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "14686@4",
+  "sire": "26944@4",
+  "children": [
+    "29869@6",
+    "31043@6",
+    "45315@6",
+    "63411@15",
+    "201119@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

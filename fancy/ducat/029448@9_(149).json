@@ -1,0 +1,25 @@
+{
+  "id": 29448,
+  "name": "Duck Cat (9) | duck kids",
+  "generation": 9,
+  "created_at": "2017-12-02T13:52:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Duck Cat (9) | duck kids. I want to live in a world where people believe the world is flat. I put peanut butter on everything. Like, everything: hot dogs, steak—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25353@3",
+  "sire": "27863@8",
+  "children": [
+    "31184@13",
+    "31917@14",
+    "51343@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 149,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,17 @@
+{
+  "id": 30247,
+  "name": "Gen 25",
+  "generation": 25,
+  "created_at": "2017-12-02T16:15:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 25. I'm a Private Dancer  by day, and I like running a podcast by night. I am 99% hobbit, 25% Train Conductor, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "25671@19",
+  "sire": "25631@24",
+  "children": [
+    "45427@26"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

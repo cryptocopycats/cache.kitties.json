@@ -1,0 +1,18 @@
+{
+  "id": 30772,
+  "name": "Bright Thing",
+  "generation": 20,
+  "created_at": "2017-12-02T17:43:12.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Bright Thing. I believe that one day cats will rule this planet. I am 40% gremlin, 13% Aerobics Athlete , and otherwise bad at math. Will you be the ranch dressing to my pickles?",
+  "language": "en",
+  "matron": "28296@16",
+  "sire": "28235@19",
+  "children": [
+    "35545@21",
+    "94558@21"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

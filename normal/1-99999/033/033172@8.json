@@ -1,0 +1,17 @@
+{
+  "id": 33172,
+  "name": "Gen 8 Fluffy",
+  "generation": 8,
+  "created_at": "2017-12-02T22:43:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Gen 8 Fluffy. I'm a professional Culinary Sanitation Specialist and I love salad. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "31996@5",
+  "sire": "33002@7",
+  "children": [
+    "81880@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31233,
+  "name": "Gold Emerald G3",
+  "generation": 3,
+  "created_at": "2017-12-02T18:43:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Gold Emerald G3. I enjoy reading garfield, slappin' da bass, and glaring at the neighbour's cat. My friends describe me as \"raunchy.\" It's... accurate. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "31162@2",
+  "sire": "31178@2",
+  "children": [
+    "33915@11",
+    "34418@7",
+    "34661@7",
+    "67998@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 31886,
+  "name": "Gen 9 | Steve",
+  "generation": 9,
+  "created_at": "2017-12-02T20:09:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Gen 9 | Steve. I once peed on Confucius's cat. They had it coming. My secret indulgence is apple pie. I hope we can be ridiculous friends.",
+  "language": "en",
+  "matron": "31586@8",
+  "sire": "31591@6",
+  "children": [
+    "32193@10",
+    "33466@11",
+    "46069@10",
+    "59474@10",
+    "73561@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

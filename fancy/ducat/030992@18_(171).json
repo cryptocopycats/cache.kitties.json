@@ -1,0 +1,26 @@
+{
+  "id": 30992,
+  "name": "Gen 18 Duck",
+  "generation": 18,
+  "created_at": "2017-12-02T18:10:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 18 Duck. I enjoy grooming, fighting the patriarchy, and sitting on your computer. I was voted biggest teacher's pet in college. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23526@17",
+  "sire": "25833@16",
+  "children": [
+    "35412@19",
+    "63771@20",
+    "97025@19",
+    "255819@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 171,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

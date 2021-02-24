@@ -1,0 +1,27 @@
+{
+  "id": 28529,
+  "name": "Gold Peach",
+  "generation": 2,
+  "created_at": "2017-12-02T10:43:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! Gold Peach here. I'm here to enjoy grooming and riding unicorns. When I'm not braiding people's hair, I'm summoning ghosts! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26933@1",
+  "sire": "25818@1",
+  "children": [
+    "28966@3",
+    "29609@3",
+    "30421@3",
+    "34533@3",
+    "37273@3",
+    "40902@3",
+    "49129@3",
+    "68895@3",
+    "85801@3",
+    "107122@3",
+    "138355@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

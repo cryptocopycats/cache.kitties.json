@@ -1,0 +1,20 @@
+{
+  "id": 31574,
+  "name": "Z",
+  "generation": 7,
+  "created_at": "2017-12-02T19:30:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Z. I want to live in a world where people believe that one day cats will rule this planet. I am 75% elf, 32% Culinary Sanitation Specialist, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "31099@6",
+  "sire": "31023@6",
+  "children": [
+    "46915@13",
+    "51415@13",
+    "210555@8",
+    "215079@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

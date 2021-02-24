@@ -1,0 +1,29 @@
+{
+  "id": 28959,
+  "name": "G6 Bird | 1st gen",
+  "generation": 6,
+  "created_at": "2017-12-02T12:08:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm G6 Bird | 1st gen. My friends describe me as petulant and stinky. I put peanut butter on everything. Like, everything: hot dogs, salad—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26551@5",
+  "sire": "27349@5",
+  "children": [
+    "29029@7",
+    "31029@7",
+    "31474@8",
+    "34324@7",
+    "36727@7",
+    "267566@7",
+    "334221@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 144,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

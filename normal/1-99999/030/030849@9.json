@@ -1,0 +1,22 @@
+{
+  "id": 30849,
+  "name": "9",
+  "generation": 9,
+  "created_at": "2017-12-02T17:51:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's 9. I once peed on Amelia Earhart's cat. They had it coming. Sometimes I daydream of a life full of fighting for the people, steak, and sleeping in fresh laundry. Let's get busy!",
+  "language": "en",
+  "matron": "27617@8",
+  "sire": "27535@8",
+  "children": [
+    "31465@10",
+    "32577@10",
+    "34348@10",
+    "36614@10",
+    "62239@11",
+    "111739@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 33053,
+  "name": "G4 PLODDING SAILOR PARENT",
+  "generation": 4,
+  "created_at": "2017-12-02T22:25:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm G4 PLODDING SAILOR PARENT. All you need to know about me is I hate hamburgers with a passion. Some people say I'm the Peter Griffin of the group. Let's get busy!",
+  "language": "en",
+  "matron": "32859@3",
+  "sire": "32954@3",
+  "children": [
+    "33221@5",
+    "33434@5",
+    "33822@5",
+    "37413@5",
+    "38531@5",
+    "43346@5",
+    "57117@5",
+    "90610@5",
+    "115609@5",
+    "167152@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

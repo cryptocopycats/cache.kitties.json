@@ -1,0 +1,23 @@
+{
+  "id": 29955,
+  "name": "Cloudy Perm | G4",
+  "generation": 4,
+  "created_at": "2017-12-02T15:28:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Cloudy Perm | G4. I believe the world is flat. Sometimes I daydream of a life full of reciting poetry, ice cream, and riding the bus. Will you be the pickles to my soy sauce?",
+  "language": "en",
+  "matron": "27430@3",
+  "sire": "29513@3",
+  "children": [
+    "34311@5",
+    "41607@5",
+    "68389@5",
+    "72530@5",
+    "128119@5",
+    "133524@8",
+    "135110@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

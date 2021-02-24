@@ -1,0 +1,20 @@
+{
+  "id": 28797,
+  "name": "Bird cat parent",
+  "generation": 15,
+  "created_at": "2017-12-02T11:46:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Bird cat parent. All you need to know about me is I hate hamburgers with a passion. When I'm not riverdancing, I'm prank-calling celebrities! I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "27619@14",
+  "sire": "10416@11",
+  "children": [
+    "33047@16",
+    "37774@16",
+    "60270@16",
+    "100382@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

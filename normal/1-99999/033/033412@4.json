@@ -1,0 +1,23 @@
+{
+  "id": 33412,
+  "name": "Basic",
+  "generation": 4,
+  "created_at": "2017-12-02T23:13:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Basic. I've never told anyone this, but I once clawed a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26511@3",
+  "sire": "30854@3",
+  "children": [
+    "33957@5",
+    "58177@5",
+    "59417@5",
+    "74123@5",
+    "165816@5",
+    "205707@5",
+    "335307@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

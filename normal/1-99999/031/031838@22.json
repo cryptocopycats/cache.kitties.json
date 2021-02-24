@@ -1,0 +1,17 @@
+{
+  "id": 31838,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-02T20:03:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 22. I'm often referred to as the Bart Simpson of the group. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "23152@21",
+  "sire": "24584@20",
+  "children": [
+    "49357@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

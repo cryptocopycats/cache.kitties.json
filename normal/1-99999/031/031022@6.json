@@ -1,0 +1,18 @@
+{
+  "id": 31022,
+  "name": "Snappy | Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T18:15:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Snappy | Gen 6. My friends describe me as prickly and seductive. I would give it all up to star in a soap opera. I look forward to slappin' da bass with you.",
+  "language": "en",
+  "matron": "30460@3",
+  "sire": "29282@5",
+  "children": [
+    "31349@7",
+    "31800@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

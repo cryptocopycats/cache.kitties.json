@@ -1,0 +1,20 @@
+{
+  "id": 30293,
+  "name": "Gen 15 plodding",
+  "generation": 15,
+  "created_at": "2017-12-02T16:22:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Gen 15 plodding. I'm a Ventriloquist by day, and I like swiping right by night. In my free time, I can usually be found tantalizing or summoning ghosts. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "27683@14",
+  "sire": "11046@12",
+  "children": [
+    "40810@16",
+    "65954@18",
+    "92398@18",
+    "228359@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

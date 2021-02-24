@@ -1,0 +1,22 @@
+{
+  "id": 33085,
+  "name": "Gen12 Plodding Cymric",
+  "generation": 12,
+  "created_at": "2017-12-02T22:31:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen12 Plodding Cymric. I've never told anyone this, but I once licked a dog. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be gullible, raunchy, and full of steak.",
+  "language": "en",
+  "matron": "11999@6",
+  "sire": "28412@11",
+  "children": [
+    "42349@13",
+    "111934@21",
+    "143377@13",
+    "163806@21",
+    "202659@13",
+    "255970@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 28877,
+  "name": "Bellisima Gen 0",
+  "generation": 20,
+  "created_at": "2017-12-02T11:57:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Bellisima Gen 0 here. I'm here to enjoy being a nevernude and riding unicorns. My secret indulgence is lasagna. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26441@17",
+  "sire": "26504@19",
+  "children": [
+    "70652@21",
+    "97811@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

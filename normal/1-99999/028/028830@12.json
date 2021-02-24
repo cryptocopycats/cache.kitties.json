@@ -1,0 +1,19 @@
+{
+  "id": 28830,
+  "name": "Gandalf The Orange",
+  "generation": 12,
+  "created_at": "2017-12-02T11:52:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Gandalf The Orange here. I'm here to enjoy reading garfield and grooming. I once got in a fight with a platypus, and won. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "24552@11",
+  "sire": "25749@10",
+  "children": [
+    "54397@13",
+    "59143@13",
+    "76745@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

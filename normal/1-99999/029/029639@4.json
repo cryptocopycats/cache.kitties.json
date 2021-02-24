@@ -1,0 +1,21 @@
+{
+  "id": 29639,
+  "name": "CAC40 | KittySuccess",
+  "generation": 4,
+  "created_at": "2017-12-02T14:25:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm CAC40 | KittySuccess. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "29574@3",
+  "sire": "24121@3",
+  "children": [
+    "29685@5",
+    "42830@5",
+    "43922@5",
+    "47908@5",
+    "51388@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

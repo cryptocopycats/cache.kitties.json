@@ -1,0 +1,24 @@
+{
+  "id": 31778,
+  "name": "Gen 6 Chartreux",
+  "generation": 6,
+  "created_at": "2017-12-02T19:54:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! Gen 6 Chartreux here. I'm here to enjoy licking doorknobs and tripping my owner. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "29700@5",
+  "sire": "30787@5",
+  "children": [
+    "32181@7",
+    "32785@7",
+    "33494@7",
+    "35130@7",
+    "42326@11",
+    "59040@7",
+    "175238@9",
+    "204277@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

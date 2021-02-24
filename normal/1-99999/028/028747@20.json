@@ -1,0 +1,18 @@
+{
+  "id": 28747,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-12-02T11:30:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Gen 20. I'm a professional Dispensary Clerk and I love hamburgers. I once clawed a goose. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "24077@19",
+  "sire": "24119@18",
+  "children": [
+    "42532@21",
+    "98595@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

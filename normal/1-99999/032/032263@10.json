@@ -1,0 +1,19 @@
+{
+  "id": 32263,
+  "name": "Green Glass",
+  "generation": 10,
+  "created_at": "2017-12-02T20:57:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Green Glass. I'm a professional Culinary Sanitation Specialist and I love apple pie. I once pranced with a gecko. I don't like to talk about it. Will you be the garlic butter to my maple syrup?",
+  "language": "en",
+  "matron": "30176@8",
+  "sire": "29395@9",
+  "children": [
+    "49400@14",
+    "60737@15",
+    "125770@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

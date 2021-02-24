@@ -1,0 +1,21 @@
+{
+  "id": 33670,
+  "name": "K-Dawg",
+  "generation": 6,
+  "created_at": "2017-12-02T23:38:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm K-Dawg. I enjoy riding dirty, sweating through my feet, and glaring at the neighbour's cat. My secret indulgence is steak. Our friendship will be gorgeous, wondrous, and full of chocolate.",
+  "language": "en",
+  "matron": "32456@5",
+  "sire": "29119@5",
+  "children": [
+    "34153@9",
+    "34833@9",
+    "35254@7",
+    "38542@9",
+    "55778@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

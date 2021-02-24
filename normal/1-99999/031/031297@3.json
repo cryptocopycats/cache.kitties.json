@@ -1,0 +1,19 @@
+{
+  "id": 31297,
+  "name": "simple G3",
+  "generation": 3,
+  "created_at": "2017-12-02T18:54:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's simple G3. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "27089@2",
+  "sire": "26624@2",
+  "children": [
+    "31521@4",
+    "31661@5",
+    "49339@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

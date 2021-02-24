@@ -1,0 +1,27 @@
+{
+  "id": 30559,
+  "name": "G8 Bird | 1st gen",
+  "generation": 8,
+  "created_at": "2017-12-02T17:12:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's G8 Bird | 1st gen. I once peed on Marie Antoinette's cat. They had it coming. Some people say I'm the Samwise Gamgee of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28960@7",
+  "sire": "30182@7",
+  "children": [
+    "31392@9",
+    "31478@9",
+    "33111@9",
+    "36622@10",
+    "51744@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 164,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

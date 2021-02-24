@@ -1,0 +1,22 @@
+{
+  "id": 33625,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T23:33:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 2. I enjoy sitting on your computer, fighting for the people, and watching Stranger Things. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be stinky friends.",
+  "language": "en",
+  "matron": "11797@1",
+  "sire": "6158@1",
+  "children": [
+    "33877@3",
+    "34135@3",
+    "34378@4",
+    "35478@4",
+    "38104@3",
+    "39144@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

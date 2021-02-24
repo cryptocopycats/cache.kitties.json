@@ -1,0 +1,19 @@
+{
+  "id": 32925,
+  "name": "Peppermint",
+  "generation": 15,
+  "created_at": "2017-12-02T22:15:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Peppermint. I enjoy fighting the patriarchy, watching Stranger Things, and being a nevernude. When no one's home, I invite my pals over and we listen to Gloria Estefan. Will you be the peanut butter to my marmalade?",
+  "language": "en",
+  "matron": "12119@14",
+  "sire": "3925@6",
+  "children": [
+    "37519@16",
+    "53616@16",
+    "76670@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

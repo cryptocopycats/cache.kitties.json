@@ -1,0 +1,23 @@
+{
+  "id": 30003,
+  "name": "Scarlet_Slug_10",
+  "generation": 10,
+  "created_at": "2017-12-02T15:34:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Scarlet_Slug_10. I've never told anyone this, but I once pawed at a dog. My secret indulgence is cereal. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "27298@4",
+  "sire": "27603@9",
+  "children": [
+    "30732@11",
+    "32134@11",
+    "32835@11",
+    "36135@14",
+    "42736@11",
+    "78202@18",
+    "123913@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

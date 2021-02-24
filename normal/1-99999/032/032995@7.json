@@ -1,0 +1,20 @@
+{
+  "id": 32995,
+  "name": "Gen 7 brisk fab",
+  "generation": 7,
+  "created_at": "2017-12-02T22:20:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 7 brisk fab. I believe the world is flat. When no one's home, I invite my pals over and we listen to Gloria Estefan. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16810@6",
+  "sire": "25012@6",
+  "children": [
+    "33553@8",
+    "40618@8",
+    "69088@8",
+    "90552@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 31058,
+  "name": "Gen 3 Just Orange Cat",
+  "generation": 3,
+  "created_at": "2017-12-02T18:17:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Gen 3 Just Orange Cat. My friends describe me as seductive and despicable. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29396@2",
+  "sire": "25874@2",
+  "children": [
+    "31404@4",
+    "33862@4",
+    "47805@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

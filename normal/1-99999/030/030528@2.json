@@ -1,0 +1,28 @@
+{
+  "id": 30528,
+  "name": "Gen 2 | Swift | Lucky Gold!",
+  "generation": 2,
+  "created_at": "2017-12-02T17:08:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Gen 2 | Swift | Lucky Gold!. I enjoy chasing string, slappin' da bass, and sweating through my feet. I put peanut butter on everything. Like, everything: hot dogs, wet food—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "28978@0",
+  "sire": "29765@1",
+  "children": [
+    "30660@5",
+    "32622@3",
+    "32882@7",
+    "33812@3",
+    "34140@3",
+    "42168@3",
+    "51912@3",
+    "66943@6",
+    "86857@3",
+    "113983@5",
+    "357201@3",
+    "417856@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

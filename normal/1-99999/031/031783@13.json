@@ -1,0 +1,22 @@
+{
+  "id": 31783,
+  "name": "Numnum",
+  "generation": 13,
+  "created_at": "2017-12-02T19:55:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Numnum. My friends describe me as despicable and gorgeous. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "31247@11",
+  "sire": "31175@12",
+  "children": [
+    "34572@14",
+    "40600@14",
+    "65422@17",
+    "94206@15",
+    "134264@14",
+    "153467@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

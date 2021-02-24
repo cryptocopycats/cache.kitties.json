@@ -1,0 +1,20 @@
+{
+  "id": 32695,
+  "name": "54",
+  "generation": 10,
+  "created_at": "2017-12-02T21:48:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm 54. My friends describe me as preposterous and wondrous. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "32363@9",
+  "sire": "32284@7",
+  "children": [
+    "33720@11",
+    "35078@11",
+    "37535@11",
+    "300558@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

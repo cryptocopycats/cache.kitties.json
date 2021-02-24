@@ -1,0 +1,19 @@
+{
+  "id": 29594,
+  "name": "G9 | Stock",
+  "generation": 9,
+  "created_at": "2017-12-02T14:16:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G9 | Stock. I've never told anyone this, but I once pranced with a dog. I am 77% sphinx, 72% Ventriloquist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "28203@8",
+  "sire": "29233@8",
+  "children": [
+    "29907@10",
+    "32176@10",
+    "63698@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 31760,
+  "name": "Snappy!",
+  "generation": 6,
+  "created_at": "2017-12-02T19:50:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Snappy!. In high school, I was voted most likely to work at NASA. Some people say I'm the Ross Geller of the group. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "24641@0",
+  "sire": "25632@5",
+  "children": [
+    "34106@15",
+    "37265@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

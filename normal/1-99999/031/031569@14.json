@@ -1,0 +1,22 @@
+{
+  "id": 31569,
+  "name": "Cheap Starter",
+  "generation": 14,
+  "created_at": "2017-12-02T19:30:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Cheap Starter. I've never told anyone this, but I once cleaned a dog. I once made a platypus dance. I like your face.",
+  "language": "en",
+  "matron": "26530@4",
+  "sire": "15393@13",
+  "children": [
+    "52599@15",
+    "58265@15",
+    "209358@18",
+    "270293@18",
+    "313854@18",
+    "368968@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

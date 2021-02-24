@@ -1,0 +1,22 @@
+{
+  "id": 28412,
+  "name": "Gen11 Plodding Cymric",
+  "generation": 11,
+  "created_at": "2017-12-02T10:22:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen11 Plodding Cymric. I enjoy reciting poetry, taking selfies, and fighting for the people. I am 81% sphinx, 57% Train Conductor, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "19485@5",
+  "sire": "11045@10",
+  "children": [
+    "28692@12",
+    "29050@12",
+    "33085@12",
+    "49189@12",
+    "75836@13",
+    "164160@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

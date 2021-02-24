@@ -1,0 +1,18 @@
+{
+  "id": 33122,
+  "name": "Gen 19",
+  "generation": 19,
+  "created_at": "2017-12-02T22:36:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 19. I'm a Dogwalker by day, and I like jump-roping by night. I put ranch dressing on everything. Like, everything: hot dogs, hamburgers—everything! Let's get busy!",
+  "language": "en",
+  "matron": "26499@6",
+  "sire": "31167@18",
+  "children": [
+    "45030@20",
+    "68947@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

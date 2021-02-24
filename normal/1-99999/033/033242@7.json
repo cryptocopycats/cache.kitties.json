@@ -1,0 +1,23 @@
+{
+  "id": 33242,
+  "name": "Gen 7 | Dali",
+  "generation": 7,
+  "created_at": "2017-12-02T22:51:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Gen 7 | Dali. I'm a Skydiving Instructor by day, and I like jump-roping by night. When no one's home, I invite my pals over and we listen to Frank Sinatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "26121@5",
+  "sire": "27188@6",
+  "children": [
+    "36065@9",
+    "37497@10",
+    "40811@9",
+    "51125@8",
+    "54234@8",
+    "66402@10",
+    "93377@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

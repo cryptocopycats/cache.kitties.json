@@ -1,0 +1,20 @@
+{
+  "id": 31587,
+  "name": "Chance the Rappurr",
+  "generation": 13,
+  "created_at": "2017-12-02T19:31:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Chance the Rappurr. I'm a Ventriloquist by day, and I like pole dancing by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "17873@2",
+  "sire": "20114@12",
+  "children": [
+    "32826@14",
+    "57104@14",
+    "77914@15",
+    "146835@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

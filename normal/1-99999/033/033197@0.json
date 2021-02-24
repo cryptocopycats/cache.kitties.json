@@ -1,0 +1,25 @@
+{
+  "id": 33197,
+  "name": "Furry Fox",
+  "generation": 0,
+  "created_at": "2017-12-02T22:44:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Furry Fox. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of staying woke, lasagna, and sleeping in fresh laundry. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "35755@9",
+    "35825@16",
+    "108277@20",
+    "108533@1",
+    "109757@10",
+    "111371@1",
+    "115171@14",
+    "126024@4",
+    "135911@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

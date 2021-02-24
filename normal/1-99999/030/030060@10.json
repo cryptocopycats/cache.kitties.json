@@ -1,0 +1,21 @@
+{
+  "id": 30060,
+  "name": "G10 ChartreuxBlood UR-Parent",
+  "generation": 10,
+  "created_at": "2017-12-02T15:42:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm G10 ChartreuxBlood UR-Parent. I believe the world is flat. When no one's home, I invite my pals over and we listen to Justin Bieber. Our friendship will be wondrous, preposterous, and full of wet food.",
+  "language": "en",
+  "matron": "28392@7",
+  "sire": "29374@9",
+  "children": [
+    "30591@11",
+    "31880@11",
+    "34013@11",
+    "46227@11",
+    "67180@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

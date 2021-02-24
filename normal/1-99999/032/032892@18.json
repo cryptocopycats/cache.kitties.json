@@ -1,0 +1,21 @@
+{
+  "id": 32892,
+  "name": "Whitesleeper",
+  "generation": 18,
+  "created_at": "2017-12-02T22:13:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! My name's Whitesleeper. I once peed on Princess Diana's cat. They had it coming. I like to listen to Rihanna while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "29260@17",
+  "sire": "29277@16",
+  "children": [
+    "43482@19",
+    "66345@19",
+    "117885@19",
+    "355833@19",
+    "1398732@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

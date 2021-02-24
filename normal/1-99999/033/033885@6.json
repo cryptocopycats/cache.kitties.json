@@ -1,0 +1,22 @@
+{
+  "id": 33885,
+  "name": "Chestnut",
+  "generation": 6,
+  "created_at": "2017-12-02T23:59:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Chestnut. I enjoy spinning sick beats, eating lasagna, and watching Stranger Things. I like to listen to Wutang while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "32978@5",
+  "sire": "5340@4",
+  "children": [
+    "52290@7",
+    "55152@7",
+    "117797@7",
+    "119230@7",
+    "161895@9",
+    "229892@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

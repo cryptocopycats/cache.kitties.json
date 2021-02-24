@@ -1,0 +1,18 @@
+{
+  "id": 31062,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-12-02T18:17:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 21. I've never told anyone this, but I once tricked a dog. Some people say I'm the Steve Urkel of the group. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "12290@20",
+  "sire": "13247@19",
+  "children": [
+    "33121@22",
+    "95523@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

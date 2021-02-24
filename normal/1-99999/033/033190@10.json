@@ -1,0 +1,20 @@
+{
+  "id": 33190,
+  "name": "Starter Kitteh | Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-02T22:44:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Starter Kitteh | Gen 10. In high school, I was voted school jock. My secret indulgence is lasagna. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "32890@9",
+  "sire": "31756@5",
+  "children": [
+    "34496@11",
+    "35857@11",
+    "64638@11",
+    "77244@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

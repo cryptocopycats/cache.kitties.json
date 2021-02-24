@@ -1,0 +1,20 @@
+{
+  "id": 31576,
+  "name": "Wondy",
+  "generation": 11,
+  "created_at": "2017-12-02T19:31:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's Wondy. I once peed on Princess Diana's cat. They had it coming. My secret indulgence is cereal. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "25249@10",
+  "sire": "29440@10",
+  "children": [
+    "36519@13",
+    "42802@12",
+    "46373@12",
+    "85734@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

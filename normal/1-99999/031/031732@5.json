@@ -1,0 +1,25 @@
+{
+  "id": 31732,
+  "name": "Grustnyi",
+  "generation": 5,
+  "created_at": "2017-12-02T19:45:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Grustnyi. All you need to know about me is I hate chocolate with a passion. I once licked a dolphin. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30233@3",
+  "sire": "30835@4",
+  "children": [
+    "38194@6",
+    "38877@6",
+    "40354@6",
+    "42447@6",
+    "43857@6",
+    "56227@6",
+    "110445@11",
+    "116198@6",
+    "215415@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

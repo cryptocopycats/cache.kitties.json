@@ -1,0 +1,20 @@
+{
+  "id": 30878,
+  "name": "Gen 4 Tigros",
+  "generation": 4,
+  "created_at": "2017-12-02T17:54:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Gen 4 Tigros. All you need to know about me is I hate wet food with a passion. I am 95% wizard, 99% Culinary Sanitation Specialist, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "29803@3",
+  "sire": "30487@3",
+  "children": [
+    "30937@5",
+    "31238@5",
+    "31820@5",
+    "32546@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

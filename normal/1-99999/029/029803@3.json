@@ -1,0 +1,19 @@
+{
+  "id": 29803,
+  "name": "Gen 3 Tiger Kitty",
+  "generation": 3,
+  "created_at": "2017-12-02T15:00:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Gen 3 Tiger Kitty. I'm a professional Aerobics Athlete  and I love hamburgers. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I like your face.",
+  "language": "en",
+  "matron": "24861@2",
+  "sire": "29133@2",
+  "children": [
+    "29875@4",
+    "30878@4",
+    "32185@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31541,
+  "name": "G10 CHOCOLATE SALMON",
+  "generation": 10,
+  "created_at": "2017-12-02T19:29:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm G10 CHOCOLATE SALMON. My friends describe me as petulant and preposterous. When I'm not riding the bus, I'm practicing witchcraft! I hope we can be raunchy friends.",
+  "language": "en",
+  "matron": "13800@8",
+  "sire": "11822@9",
+  "children": [
+    "41504@11",
+    "101337@11",
+    "107116@14",
+    "314723@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

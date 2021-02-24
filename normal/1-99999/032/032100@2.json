@@ -1,0 +1,27 @@
+{
+  "id": 32100,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T20:35:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Gen 2. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. Our friendship will be tantalizing, petulant, and full of chocolate.",
+  "language": "en",
+  "matron": "30064@1",
+  "sire": "29868@1",
+  "children": [
+    "32209@3",
+    "32216@3",
+    "34301@3",
+    "35449@3",
+    "36535@3",
+    "46417@3",
+    "51884@3",
+    "82213@3",
+    "142123@3",
+    "158122@3",
+    "193284@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

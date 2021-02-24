@@ -1,0 +1,17 @@
+{
+  "id": 33091,
+  "name": "Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-02T22:31:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen 8. I'm a Aerobics Athlete  by day, and I like reading Danielle Steele by night. When I'm not watching reality tv, I'm tricking babies! I like your face.",
+  "language": "en",
+  "matron": "32436@4",
+  "sire": "32904@7",
+  "children": [
+    "33559@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

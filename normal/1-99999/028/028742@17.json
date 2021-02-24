@@ -1,0 +1,19 @@
+{
+  "id": 28742,
+  "name": "Percival",
+  "generation": 17,
+  "created_at": "2017-12-02T11:30:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Percival. All you need to know about me is I hate chocolate with a passion. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "3852@3",
+  "sire": "28376@16",
+  "children": [
+    "29173@18",
+    "77599@21",
+    "110174@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

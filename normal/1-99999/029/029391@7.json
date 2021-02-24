@@ -1,0 +1,24 @@
+{
+  "id": 29391,
+  "name": "Strawberry Salmon [Slow G7]",
+  "generation": 7,
+  "created_at": "2017-12-02T13:42:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Strawberry Salmon [Slow G7]. In high school, I was voted biggest teacher's pet. My friends describe me as \"brilliant.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "24991@6",
+  "sire": "24210@5",
+  "children": [
+    "42425@10",
+    "43994@17",
+    "52455@8",
+    "57373@11",
+    "71831@9",
+    "94164@9",
+    "219412@8",
+    "279604@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

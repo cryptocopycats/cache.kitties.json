@@ -1,0 +1,20 @@
+{
+  "id": 31748,
+  "name": "YOU",
+  "generation": 7,
+  "created_at": "2017-12-02T19:47:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm YOU. I'm often referred to as the Ron Weasley of the group. I am 1% wizard, 90% Spin Instructor , and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "28148@3",
+  "sire": "30965@6",
+  "children": [
+    "31840@8",
+    "33584@8",
+    "59325@8",
+    "386992@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 31513,
+  "name": "Rocky",
+  "generation": 0,
+  "created_at": "2017-12-02T19:23:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Rocky. All you need to know about me is I hate cereal with a passion. When no one's home, I invite my pals over and we listen to Metallica. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "95385@1",
+    "112889@1",
+    "113171@1",
+    "115258@1",
+    "116241@1",
+    "118959@1",
+    "120984@1",
+    "132016@1",
+    "141318@1",
+    "173983@1",
+    "208573@1",
+    "309883@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

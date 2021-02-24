@@ -1,0 +1,27 @@
+{
+  "id": 28766,
+  "name": "Reblanc Lev6 Great Breeder",
+  "generation": 6,
+  "created_at": "2017-12-02T11:39:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Reblanc Lev6 Great Breeder. I'm a professional Skydiving Instructor and I love hamburgers. My friends describe me as \"wondrous.\" It's... accurate. Can't wait to eat chocolate with you!",
+  "language": "en",
+  "matron": "26927@3",
+  "sire": "22035@5",
+  "children": [
+    "29121@7",
+    "30086@12",
+    "31426@7",
+    "32139@18",
+    "66416@7",
+    "72999@7",
+    "111126@7",
+    "134000@7",
+    "194502@7",
+    "219437@7",
+    "387522@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

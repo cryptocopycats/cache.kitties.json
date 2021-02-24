@@ -1,0 +1,17 @@
+{
+  "id": 33167,
+  "name": "Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-02T22:42:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Gen 8. I'm often referred to as the Lisa Simpson of the group. I like to listen to Aretha Franklin while grooming. Don't judge me. I like your face.",
+  "language": "en",
+  "matron": "32241@7",
+  "sire": "32595@7",
+  "children": [
+    "33559@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

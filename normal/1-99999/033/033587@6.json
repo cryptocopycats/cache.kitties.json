@@ -1,0 +1,23 @@
+{
+  "id": 33587,
+  "name": "JH Gen 6 | Virgin | Peach",
+  "generation": 6,
+  "created_at": "2017-12-02T23:29:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm JH Gen 6 | Virgin | Peach. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. Will you be the wasabi to my marmite?",
+  "language": "en",
+  "matron": "32651@5",
+  "sire": "32129@5",
+  "children": [
+    "33714@7",
+    "42713@7",
+    "44176@7",
+    "44764@7",
+    "65841@8",
+    "90261@10",
+    "141342@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

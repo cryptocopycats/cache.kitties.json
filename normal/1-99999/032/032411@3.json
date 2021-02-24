@@ -1,0 +1,28 @@
+{
+  "id": 32411,
+  "name": "Gen 3 大眼胖",
+  "generation": 3,
+  "created_at": "2017-12-02T21:15:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 3 大眼胖. I'm a professional Train Conductor and I love salad. I once snuggled a moose. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "32244@2",
+  "sire": "31885@1",
+  "children": [
+    "33291@4",
+    "36233@4",
+    "41592@4",
+    "42108@8",
+    "42357@4",
+    "98487@4",
+    "104250@4",
+    "217233@4",
+    "246708@4",
+    "314114@5",
+    "349746@4",
+    "369946@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 31273,
+  "name": "Mr. Gen3 the Moth Man",
+  "generation": 3,
+  "created_at": "2017-12-02T18:47:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Mr. Gen3 the Moth Man. My friends describe me as wondrous and seductive. I like to listen to Beyoncé while grooming. Don't judge me. I look forward to hitting on yo' man with you.",
+  "language": "en",
+  "matron": "21148@2",
+  "sire": "19436@2",
+  "children": [
+    "31696@8",
+    "31765@8",
+    "31879@6",
+    "32184@6",
+    "32722@12",
+    "33850@10",
+    "36397@9",
+    "43637@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

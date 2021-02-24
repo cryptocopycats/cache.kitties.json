@@ -1,0 +1,20 @@
+{
+  "id": 33254,
+  "name": "Brisk",
+  "generation": 13,
+  "created_at": "2017-12-02T22:53:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Brisk. I'm a Aerobics Athlete  by day, and I like prank-calling celebrities by night. I once got in a fight with a rhino, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "31974@12",
+  "sire": "28637@12",
+  "children": [
+    "45409@16",
+    "90298@16",
+    "118084@17",
+    "210725@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

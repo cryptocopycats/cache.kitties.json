@@ -1,0 +1,23 @@
+{
+  "id": 32859,
+  "name": "Gen 3 | Swift | Aqua",
+  "generation": 3,
+  "created_at": "2017-12-02T22:11:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Gen 3 | Swift | Aqua. My friends describe me as stinky and despicable. My friends describe me as \"voluptuous.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "27039@2",
+  "sire": "27843@2",
+  "children": [
+    "33053@4",
+    "33232@5",
+    "33400@6",
+    "34066@12",
+    "34872@7",
+    "36350@5",
+    "50769@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 31141,
+  "name": "Good Starter Kitty (GEN6)",
+  "generation": 6,
+  "created_at": "2017-12-02T18:32:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Good Starter Kitty (GEN6). I enjoy sweating through my feet, chasing red dots, and fighting the patriarchy. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19485@5",
+  "sire": "19267@5",
+  "children": [
+    "32998@8",
+    "41208@8",
+    "42558@8",
+    "62559@8",
+    "64699@7",
+    "88607@8",
+    "94892@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

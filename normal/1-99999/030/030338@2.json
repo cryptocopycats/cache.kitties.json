@@ -1,0 +1,23 @@
+{
+  "id": 30338,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-12-02T16:29:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm G2. I want to live in a world where people believe the world is flat. My secret indulgence is cantaloupe. Let's pawty!",
+  "language": "en",
+  "matron": "29136@1",
+  "sire": "30294@1",
+  "children": [
+    "30499@3",
+    "31839@3",
+    "32429@3",
+    "136878@3",
+    "148311@3",
+    "153680@3",
+    "155744@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

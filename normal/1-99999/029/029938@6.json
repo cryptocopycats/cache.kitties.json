@@ -1,0 +1,21 @@
+{
+  "id": 29938,
+  "name": "Plain Juan",
+  "generation": 6,
+  "created_at": "2017-12-02T15:23:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! Plain Juan here. I'm here to enjoy reading garfield and picking flowers. I am 98% oracle, 56% Foreign Film Director, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "20826@5",
+  "sire": "17007@0",
+  "children": [
+    "43984@7",
+    "44810@7",
+    "46215@7",
+    "76903@7",
+    "85864@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

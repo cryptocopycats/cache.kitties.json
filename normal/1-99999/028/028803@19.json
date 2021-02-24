@@ -1,0 +1,19 @@
+{
+  "id": 28803,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-02T11:46:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #28803. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"prickly.\" It's... accurate. Let's pawty!",
+  "language": "en",
+  "matron": "24307@18",
+  "sire": "17060@18",
+  "children": [
+    "36730@23",
+    "83621@21",
+    "109663@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

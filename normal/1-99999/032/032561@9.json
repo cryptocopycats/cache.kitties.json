@@ -1,0 +1,23 @@
+{
+  "id": 32561,
+  "name": "Slippin Ho Slappa",
+  "generation": 9,
+  "created_at": "2017-12-02T21:34:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Slippin Ho Slappa. I've never told anyone this, but I once pranced with a dog. I would give it all up to star in a soap opera. Our friendship will be prickly, ridiculous, and full of chocolate.",
+  "language": "en",
+  "matron": "29497@8",
+  "sire": "30658@8",
+  "children": [
+    "34537@10",
+    "35955@10",
+    "49186@10",
+    "49429@10",
+    "147446@19",
+    "172962@12",
+    "235147@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

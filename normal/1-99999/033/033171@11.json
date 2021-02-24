@@ -1,0 +1,23 @@
+{
+  "id": 33171,
+  "name": "Solomon",
+  "generation": 11,
+  "created_at": "2017-12-02T22:43:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Solomon. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Let's get busy!",
+  "language": "en",
+  "matron": "29521@10",
+  "sire": "29795@9",
+  "children": [
+    "33835@12",
+    "35265@12",
+    "39145@13",
+    "46493@15",
+    "98990@12",
+    "121122@12",
+    "1112874@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

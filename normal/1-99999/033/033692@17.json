@@ -1,0 +1,22 @@
+{
+  "id": 33692,
+  "name": "beep beep",
+  "generation": 17,
+  "created_at": "2017-12-02T23:39:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm beep beep. My friends describe me as ridiculous and vegan. I once got in a fight with a dog, and won. Our friendship will be ridiculous, vegan, and full of lasagna.",
+  "language": "en",
+  "matron": "27798@11",
+  "sire": "31626@16",
+  "children": [
+    "43017@18",
+    "50095@18",
+    "103827@20",
+    "195808@20",
+    "375091@18",
+    "662349@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

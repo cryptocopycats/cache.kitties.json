@@ -1,0 +1,23 @@
+{
+  "id": 32340,
+  "name": "World's 1st $1MIL CryptoKitty!",
+  "generation": 6,
+  "created_at": "2017-12-02T21:05:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm World's 1st $1MIL CryptoKitty!. In high school, I was voted school jock. I once dreamed of being a Aerobics Athlete . Now I can be found sleeping in fresh laundry all day. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "31203@5",
+  "sire": "29051@3",
+  "children": [
+    "32513@7",
+    "33079@7",
+    "33424@7",
+    "35206@7",
+    "35469@7",
+    "63910@7",
+    "90912@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

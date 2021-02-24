@@ -1,0 +1,19 @@
+{
+  "id": 30275,
+  "name": "Tiger",
+  "generation": 15,
+  "created_at": "2017-12-02T16:19:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Tiger. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "22411@14",
+  "sire": "22225@8",
+  "children": [
+    "53653@17",
+    "69455@16",
+    "88916@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 32219,
+  "name": "G12 Mauv",
+  "generation": 12,
+  "created_at": "2017-12-02T20:49:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm G12 Mauv. I'm often referred to as the Samwise Gamgee of the group. I'm often described as petulant, and I own it. Let's pawty!",
+  "language": "en",
+  "matron": "22243@3",
+  "sire": "31198@11",
+  "children": [
+    "43321@13",
+    "118643@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 33520,
+  "name": "Gen 9 Brisk!",
+  "generation": 9,
+  "created_at": "2017-12-02T23:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 9 Brisk!. I've never told anyone this, but I once cleaned a dog. I was voted biggest teacher's pet in college. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "32707@6",
+  "sire": "32230@8",
+  "children": [
+    "34553@10",
+    "123982@10",
+    "137065@10",
+    "142175@10",
+    "178818@10",
+    "217852@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

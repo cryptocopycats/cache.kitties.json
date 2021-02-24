@@ -1,0 +1,23 @@
+{
+  "id": 32074,
+  "name": "Gen 4 Snappy",
+  "generation": 4,
+  "created_at": "2017-12-02T20:32:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! Gen 4 Snappy here. I'm here to enjoy taking selfies and licking doorknobs. I once made a goose trot. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "30753@3",
+  "sire": "14477@3",
+  "children": [
+    "32165@5",
+    "38134@7",
+    "38250@9",
+    "176180@17",
+    "202341@9",
+    "210446@5",
+    "324330@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

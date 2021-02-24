@@ -1,0 +1,23 @@
+{
+  "id": 33247,
+  "name": "Pol Pot",
+  "generation": 10,
+  "created_at": "2017-12-02T22:53:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Pol Pot. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Metallica. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "33033@7",
+  "sire": "32816@9",
+  "children": [
+    "33595@11",
+    "44591@11",
+    "49475@11",
+    "63444@12",
+    "90096@14",
+    "106614@11",
+    "181155@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

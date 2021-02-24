@@ -1,0 +1,17 @@
+{
+  "id": 29525,
+  "name": "Up Gen8",
+  "generation": 8,
+  "created_at": "2017-12-02T14:07:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Up Gen8. I'm a Culinary Sanitation Specialist by day, and I like sleeping in fresh laundry by night. I am 93% elf, 45% Ventriloquist, and otherwise bad at math. Our friendship will be prickly, gullible, and full of wet food.",
+  "language": "en",
+  "matron": "26682@5",
+  "sire": "27218@7",
+  "children": [
+    "51615@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

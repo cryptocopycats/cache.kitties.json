@@ -1,0 +1,23 @@
+{
+  "id": 30176,
+  "name": "Kalbalon",
+  "generation": 8,
+  "created_at": "2017-12-02T16:00:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kalbalon. I'm often referred to as the Chandler Bing of the group. My friends describe me as \"tantalizing.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "29659@7",
+  "sire": "29780@3",
+  "children": [
+    "31068@10",
+    "32263@10",
+    "35637@16",
+    "39382@16",
+    "43504@15",
+    "61723@16",
+    "102601@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

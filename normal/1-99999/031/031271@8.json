@@ -1,0 +1,22 @@
+{
+  "id": 31271,
+  "name": "Nurse Ratched (G8)",
+  "generation": 8,
+  "created_at": "2017-12-02T18:47:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! Nurse Ratched (G8) here. I'm here to enjoy reading garfield and picking flowers. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "30911@5",
+  "sire": "31075@7",
+  "children": [
+    "31962@12",
+    "32266@15",
+    "33352@10",
+    "36870@12",
+    "64636@9",
+    "89320@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

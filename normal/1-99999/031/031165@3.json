@@ -1,0 +1,27 @@
+{
+  "id": 31165,
+  "name": "Gen3 - Swift",
+  "generation": 3,
+  "created_at": "2017-12-02T18:33:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Gen3 - Swift. My friends describe me as vegan and gorgeous. I am 56% elf, 30% Mad Scientist, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "29765@1",
+  "sire": "30605@2",
+  "children": [
+    "31292@4",
+    "33774@4",
+    "33832@4",
+    "42780@4",
+    "50324@4",
+    "61911@4",
+    "62032@4",
+    "72872@4",
+    "123359@5",
+    "126062@4",
+    "189072@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

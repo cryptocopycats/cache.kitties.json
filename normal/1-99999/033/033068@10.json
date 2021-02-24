@@ -1,0 +1,23 @@
+{
+  "id": 33068,
+  "name": "Hermione Granger",
+  "generation": 10,
+  "created_at": "2017-12-02T22:27:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Hermione Granger. I'm often referred to as the Hermione Granger of the group. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, apple pie—everything! I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "24716@9",
+  "sire": "26849@8",
+  "children": [
+    "43324@14",
+    "54465@14",
+    "64446@18",
+    "64653@14",
+    "93529@11",
+    "120151@11",
+    "153142@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

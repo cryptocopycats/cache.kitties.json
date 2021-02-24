@@ -1,0 +1,22 @@
+{
+  "id": 28465,
+  "name": "Gen 4 - Sphinx",
+  "generation": 4,
+  "created_at": "2017-12-02T10:29:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 4 - Sphinx. My friends describe me as brilliant and despicable. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I look forward to chasing red dots with you.",
+  "language": "en",
+  "matron": "28108@3",
+  "sire": "28400@3",
+  "children": [
+    "28583@5",
+    "35883@7",
+    "37567@7",
+    "39112@7",
+    "41215@15",
+    "43835@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

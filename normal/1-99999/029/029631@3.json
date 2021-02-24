@@ -1,0 +1,19 @@
+{
+  "id": 29631,
+  "name": "G3 | Swirl",
+  "generation": 3,
+  "created_at": "2017-12-02T14:24:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm G3 | Swirl. I'm a professional Mad Scientist and I love hamburgers. Some people say I'm the Homer Simpson of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14405@2",
+  "sire": "6720@2",
+  "children": [
+    "29745@4",
+    "30451@4",
+    "30701@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

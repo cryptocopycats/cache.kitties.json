@@ -1,0 +1,19 @@
+{
+  "id": 28365,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-02T10:13:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Kitty #28365. I'm often referred to as the Homer Simpson of the group. I'm often described as annoying, and I own it. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "28029@10",
+  "sire": "6871@14",
+  "children": [
+    "29622@16",
+    "34160@16",
+    "88721@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

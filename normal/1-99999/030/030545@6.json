@@ -1,0 +1,20 @@
+{
+  "id": 30545,
+  "name": "LemonOtaku G6",
+  "generation": 6,
+  "created_at": "2017-12-02T17:10:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm LemonOtaku G6. All you need to know about me is I hate lasagna with a passion. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "29083@4",
+  "sire": "26399@5",
+  "children": [
+    "30898@8",
+    "33200@8",
+    "33606@8",
+    "48655@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

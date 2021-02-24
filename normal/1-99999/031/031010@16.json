@@ -1,0 +1,20 @@
+{
+  "id": 31010,
+  "name": "Puffpuff - Gen 16",
+  "generation": 16,
+  "created_at": "2017-12-02T18:12:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Puffpuff - Gen 16. I believe that one day cats will rule this planet. I once got in a fight with a chimpanzee, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24889@11",
+  "sire": "24970@15",
+  "children": [
+    "32986@17",
+    "49321@17",
+    "60367@17",
+    "207246@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

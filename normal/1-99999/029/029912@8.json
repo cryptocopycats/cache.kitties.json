@@ -1,0 +1,17 @@
+{
+  "id": 29912,
+  "name": "Snappy",
+  "generation": 8,
+  "created_at": "2017-12-02T15:20:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Snappy. In high school, I was voted school jock. I once got in a fight with a dog, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "29520@7",
+  "sire": "28411@6",
+  "children": [
+    "54992@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

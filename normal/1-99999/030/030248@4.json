@@ -1,0 +1,25 @@
+{
+  "id": 30248,
+  "name": "LimeSwampSpock",
+  "generation": 4,
+  "created_at": "2017-12-02T16:15:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm LimeSwampSpock. I want to live in a world where people believe that one day cats will rule this planet. I am 37% hobbit, 75% Skydiving Instructor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "26624@2",
+  "sire": "26552@3",
+  "children": [
+    "30327@5",
+    "31089@5",
+    "32836@5",
+    "34272@5",
+    "37479@5",
+    "40535@6",
+    "49461@5",
+    "143721@5",
+    "331763@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 32571,
+  "name": "Harold",
+  "generation": 17,
+  "created_at": "2017-12-02T21:34:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Harold. My friends describe me as prickly and ridiculous. I once bit a gecko. I don't like to talk about it. Will you be the marmite to my peanut butter?",
+  "language": "en",
+  "matron": "9281@16",
+  "sire": "10990@8",
+  "children": [
+    "52190@18",
+    "72443@18",
+    "108857@18",
+    "219762@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

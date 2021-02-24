@@ -1,0 +1,20 @@
+{
+  "id": 33402,
+  "name": "G8 | Stock",
+  "generation": 8,
+  "created_at": "2017-12-02T23:13:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G8 | Stock. I'm a Skydiving Instructor by day, and I like braiding people's hair by night. I once got in a fight with a goose, and won. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "21164@7",
+  "sire": "29880@7",
+  "children": [
+    "34363@9",
+    "35110@9",
+    "37782@9",
+    "44861@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 31581,
+  "name": "RabbitFood",
+  "generation": 2,
+  "created_at": "2017-12-02T19:31:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm RabbitFood. All you need to know about me is I hate salad with a passion. My friends describe me as \"annoying.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "31416@1",
+  "sire": "24306@1",
+  "children": [
+    "63801@3",
+    "332575@3",
+    "452034@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

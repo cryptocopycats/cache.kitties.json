@@ -1,0 +1,22 @@
+{
+  "id": 31174,
+  "name": "Brisk Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-02T18:33:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Brisk Gen 4. I'm often referred to as the Homer Simpson of the group. My friends describe me as \"preposterous.\" It's... accurate. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "29909@3",
+  "sire": "30569@3",
+  "children": [
+    "31451@5",
+    "31726@5",
+    "32985@5",
+    "34030@5",
+    "36820@5",
+    "46320@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

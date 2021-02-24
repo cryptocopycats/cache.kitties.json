@@ -1,0 +1,24 @@
+{
+  "id": 32244,
+  "name": "PartyBoss",
+  "generation": 2,
+  "created_at": "2017-12-02T20:56:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! PartyBoss here. I'm here to enjoy staying woke and grooming. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "language": "en",
+  "matron": "26507@1",
+  "sire": "3255@1",
+  "children": [
+    "32411@3",
+    "32564@3",
+    "33311@3",
+    "36380@3",
+    "40101@3",
+    "46838@4",
+    "150291@3",
+    "169298@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 30056,
+  "name": "Plodding Dina",
+  "generation": 2,
+  "created_at": "2017-12-02T15:42:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Plodding Dina. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "29985@1",
+  "sire": "29958@1",
+  "children": [
+    "30094@3",
+    "31030@3",
+    "46226@3",
+    "50636@3",
+    "51798@3",
+    "53065@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

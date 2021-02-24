@@ -1,0 +1,24 @@
+{
+  "id": 32495,
+  "name": "NEET",
+  "generation": 4,
+  "created_at": "2017-12-02T21:26:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm NEET. All you need to know about me is I hate chocolate with a passion. I am 85% troll, 63% Train Conductor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30997@3",
+  "sire": "31971@3",
+  "children": [
+    "32658@8",
+    "44194@5",
+    "46450@11",
+    "55366@5",
+    "55558@5",
+    "70279@8",
+    "104476@5",
+    "121915@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

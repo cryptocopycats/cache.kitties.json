@@ -1,0 +1,19 @@
+{
+  "id": 32125,
+  "name": "Colonel Kurtz (G10)",
+  "generation": 10,
+  "created_at": "2017-12-02T20:38:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Colonel Kurtz (G10). I've never told anyone this, but I once groomed a dog. Some people say I'm the Bart Simpson of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "31115@9",
+  "sire": "31075@7",
+  "children": [
+    "32746@11",
+    "35241@13",
+    "52229@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

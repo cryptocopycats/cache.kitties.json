@@ -1,0 +1,23 @@
+{
+  "id": 31934,
+  "name": "G8",
+  "generation": 8,
+  "created_at": "2017-12-02T20:22:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G8. I want to live in a world where people believe the world is flat. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "31434@7",
+  "sire": "31496@7",
+  "children": [
+    "32363@9",
+    "33032@12",
+    "34375@9",
+    "36804@9",
+    "51180@9",
+    "86508@9",
+    "350045@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

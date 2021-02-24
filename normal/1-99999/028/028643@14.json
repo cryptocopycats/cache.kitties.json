@@ -1,0 +1,20 @@
+{
+  "id": 28643,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-02T11:06:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #28643. I've never told anyone this, but I once cleaned a dog. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "14326@11",
+  "sire": "14172@13",
+  "children": [
+    "40651@15",
+    "60611@15",
+    "75850@15",
+    "114536@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

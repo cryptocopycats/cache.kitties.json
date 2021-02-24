@@ -1,0 +1,23 @@
+{
+  "id": 30090,
+  "name": "Bird Killa | Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T15:48:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Bird Killa | Gen 6. I'm a professional Ventriloquist and I love ice cream. I put marmite on everything. Like, everything: hot dogs, chocolate—everything! Let's get busy!",
+  "language": "en",
+  "matron": "29600@5",
+  "sire": "29129@5",
+  "children": [
+    "30250@7",
+    "49037@10",
+    "50187@15",
+    "51536@8",
+    "83635@8",
+    "107500@9",
+    "171734@9"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

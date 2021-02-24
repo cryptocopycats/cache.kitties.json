@@ -1,0 +1,21 @@
+{
+  "id": 28542,
+  "name": "Gen 6 - Snappy",
+  "generation": 6,
+  "created_at": "2017-12-02T10:46:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Gen 6 - Snappy. I once peed on Cleopatra's cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "27437@5",
+  "sire": "24504@3",
+  "children": [
+    "32330@7",
+    "43450@7",
+    "66326@7",
+    "73948@8",
+    "76248@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

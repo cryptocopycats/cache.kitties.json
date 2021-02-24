@@ -1,0 +1,22 @@
+{
+  "id": 30582,
+  "name": "Gen5 swift kitteh",
+  "generation": 5,
+  "created_at": "2017-12-02T17:19:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen5 swift kitteh. I enjoy reading garfield, reciting poetry, and riding unicorns. When no one's home, I invite my pals over and we listen to Michael Bolton. Let's get busy!",
+  "language": "en",
+  "matron": "16251@4",
+  "sire": "16642@3",
+  "children": [
+    "33251@6",
+    "34891@6",
+    "35317@6",
+    "35911@10",
+    "44492@8",
+    "49305@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

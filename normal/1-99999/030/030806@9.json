@@ -1,0 +1,18 @@
+{
+  "id": 30806,
+  "name": "ペルにゃん",
+  "generation": 9,
+  "created_at": "2017-12-02T17:47:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm ペルにゃん. I've never told anyone this, but I once groomed a dog. My secret indulgence is lasagna. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30643@7",
+  "sire": "25003@8",
+  "children": [
+    "31381@10",
+    "31978@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

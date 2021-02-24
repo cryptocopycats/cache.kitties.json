@@ -1,0 +1,18 @@
+{
+  "id": 30229,
+  "name": "[slow]gen18 beard",
+  "generation": 18,
+  "created_at": "2017-12-02T16:11:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm [slow]gen18 beard. I'm often referred to as the Hermione Granger of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "28391@14",
+  "sire": "28963@17",
+  "children": [
+    "38998@19",
+    "93266@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 33067,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T22:27:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Gen 6. All you need to know about me is I hate cereal with a passion. I am 3% troll, 7% Train Conductor, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "25508@2",
+  "sire": "19601@5",
+  "children": [
+    "33399@7",
+    "33555@8",
+    "34668@7",
+    "86180@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

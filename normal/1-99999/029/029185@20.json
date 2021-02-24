@@ -1,0 +1,18 @@
+{
+  "id": 29185,
+  "name": "Hiccup",
+  "generation": 20,
+  "created_at": "2017-12-02T12:58:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Hiccup. I'm a Mad Scientist by day, and I like riding the bus by night. My great-great-great-great-great-great grandkitty lived with Cleopatra. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23488@14",
+  "sire": "17708@19",
+  "children": [
+    "37721@21",
+    "61420@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31295,
+  "name": "Coco",
+  "generation": 10,
+  "created_at": "2017-12-02T18:54:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Coco. All you need to know about me is I hate wet food with a passion. I put marmalade on everything. Like, everything: hot dogs, lasagna—everything! Will you be the pickles to my maple syrup?",
+  "language": "en",
+  "matron": "24911@9",
+  "sire": "5453@8",
+  "children": [
+    "32242@18",
+    "49302@22",
+    "75074@18",
+    "122701@18",
+    "144321@18",
+    "176546@18",
+    "1263024@23",
+    "1280266@18",
+    "1299393@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 28515,
+  "name": "Some Cat Gen 13 Plodding",
+  "generation": 13,
+  "created_at": "2017-12-02T10:41:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Some Cat Gen 13 Plodding. My friends describe me as vegan and prickly. When no one's home, I invite my pals over and we listen to Michael Bolton. I hope we can be voluptuous friends.",
+  "language": "en",
+  "matron": "26807@12",
+  "sire": "13833@10",
+  "children": [
+    "38035@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

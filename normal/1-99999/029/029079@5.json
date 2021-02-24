@@ -1,0 +1,20 @@
+{
+  "id": 29079,
+  "name": "Gen 5 - Snappy",
+  "generation": 5,
+  "created_at": "2017-12-02T12:35:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen 5 - Snappy. I've never told anyone this, but I once loved a dog. I was voted most likely to work at NASA in college. Our friendship will be smelly, hairy, and full of hamburgers.",
+  "language": "en",
+  "matron": "16572@3",
+  "sire": "23677@4",
+  "children": [
+    "30061@7",
+    "32330@7",
+    "65552@6",
+    "70776@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

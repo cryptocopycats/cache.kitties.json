@@ -1,0 +1,19 @@
+{
+  "id": 31300,
+  "name": "Garlickio",
+  "generation": 19,
+  "created_at": "2017-12-02T18:54:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Garlickio. My friends describe me as smelly and vegan. I'm often described as stinky, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "27725@16",
+  "sire": "28028@18",
+  "children": [
+    "41513@20",
+    "70292@20",
+    "119423@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

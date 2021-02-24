@@ -1,0 +1,18 @@
+{
+  "id": 30690,
+  "name": "White",
+  "generation": 18,
+  "created_at": "2017-12-02T17:30:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm White. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Cleopatra. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "23772@17",
+  "sire": "25363@14",
+  "children": [
+    "39867@19",
+    "68139@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30959,
+  "name": "Kael'thas",
+  "generation": 15,
+  "created_at": "2017-12-02T18:09:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kael'thas. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found voluptuous or swiping left. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "29547@14",
+  "sire": "27054@2",
+  "children": [
+    "52923@16",
+    "65806@19",
+    "99144@21",
+    "103741@16",
+    "234516@16",
+    "323179@18",
+    "376829@16",
+    "441873@16",
+    "875848@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

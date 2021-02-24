@@ -1,0 +1,30 @@
+{
+  "id": 30585,
+  "name": "Andrew",
+  "generation": 1,
+  "created_at": "2017-12-02T17:19:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Andrew. All you need to know about me is I hate salad with a passion. I was voted school jock in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "16004@0",
+  "sire": "1282@0",
+  "children": [
+    "32082@5",
+    "32817@12",
+    "41492@2",
+    "46274@4",
+    "48670@2",
+    "49424@22",
+    "53284@2",
+    "59815@2",
+    "74073@2",
+    "92971@2",
+    "98581@2",
+    "205585@2",
+    "311800@2",
+    "539068@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

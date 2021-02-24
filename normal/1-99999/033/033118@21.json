@@ -1,0 +1,19 @@
+{
+  "id": 33118,
+  "name": "Ellen Ripley (G21)",
+  "generation": 21,
+  "created_at": "2017-12-02T22:36:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Ellen Ripley (G21). I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once made a rabbit scare. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "31510@10",
+  "sire": "32059@20",
+  "children": [
+    "37914@22",
+    "277251@22",
+    "792253@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

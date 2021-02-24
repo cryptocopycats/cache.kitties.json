@@ -1,0 +1,21 @@
+{
+  "id": 30299,
+  "name": "Mint-bino gen 11",
+  "generation": 11,
+  "created_at": "2017-12-02T16:23:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Mint-bino gen 11. I believe the world is flat. I once got in a fight with a moose, and won. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "21270@10",
+  "sire": "18326@9",
+  "children": [
+    "33369@13",
+    "36027@12",
+    "43886@12",
+    "55373@12",
+    "97932@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

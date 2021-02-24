@@ -1,0 +1,18 @@
+{
+  "id": 33003,
+  "name": "Dorky",
+  "generation": 18,
+  "created_at": "2017-12-02T22:21:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Dorky. I'm a professional Spin Instructor  and I love apple pie. I like to listen to Rihanna while grooming. Don't judge me. I look forward to staying woke with you.",
+  "language": "en",
+  "matron": "23146@15",
+  "sire": "25430@17",
+  "children": [
+    "74548@20",
+    "152224@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

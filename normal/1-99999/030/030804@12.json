@@ -1,0 +1,23 @@
+{
+  "id": 30804,
+  "name": "B.O.B.",
+  "generation": 12,
+  "created_at": "2017-12-02T17:47:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm B.O.B.. I believe the world is flat. I was voted most likely to work at NASA in college. Let's get busy!",
+  "language": "en",
+  "matron": "14612@5",
+  "sire": "19059@11",
+  "children": [
+    "39412@13",
+    "46290@13",
+    "76315@13",
+    "97881@13",
+    "144364@19",
+    "289577@13",
+    "379293@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

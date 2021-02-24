@@ -1,0 +1,26 @@
+{
+  "id": 31029,
+  "name": "G7 Bird | Pure 1st grade",
+  "generation": 7,
+  "created_at": "2017-12-02T18:15:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! G7 Bird | Pure 1st grade here. I'm here to enjoy picking flowers and hitting on yo' man. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to spinning sick beats with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28959@6",
+  "sire": "30775@6",
+  "children": [
+    "33275@8",
+    "33678@8",
+    "34369@9",
+    "39321@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 173,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

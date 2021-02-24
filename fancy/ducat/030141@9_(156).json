@@ -1,0 +1,27 @@
+{
+  "id": 30141,
+  "name": "😻 G9 FANCY CAT!",
+  "generation": 9,
+  "created_at": "2017-12-02T15:54:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm 😻 G9 FANCY CAT!. My friends describe me as seductive and gorgeous. I would give it all up to star in a soap opera. Will you be the marmalade to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29077@6",
+  "sire": "29758@8",
+  "children": [
+    "31912@19",
+    "32938@10",
+    "34930@18",
+    "69666@17",
+    "186306@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 156,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

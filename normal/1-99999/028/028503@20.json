@@ -1,0 +1,18 @@
+{
+  "id": 28503,
+  "name": "Gen 20",
+  "generation": 20,
+  "created_at": "2017-12-02T10:41:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen 20. In high school, I was voted school jock. My friends describe me as \"smelly.\" It's... accurate. I like your face.",
+  "language": "en",
+  "matron": "23139@19",
+  "sire": "24019@19",
+  "children": [
+    "42567@21",
+    "73250@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

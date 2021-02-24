@@ -1,0 +1,21 @@
+{
+  "id": 33534,
+  "name": "Ancient Pikachu 9'",
+  "generation": 9,
+  "created_at": "2017-12-02T23:22:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Ancient Pikachu 9'. I'm a professional Mad Scientist and I love apple pie. My great-great-great-great-great-great grandkitty lived with Mother Theresa. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "17303@6",
+  "sire": "30140@8",
+  "children": [
+    "53523@10",
+    "57718@17",
+    "71002@10",
+    "72131@11",
+    "83160@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

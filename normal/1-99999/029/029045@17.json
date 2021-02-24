@@ -1,0 +1,18 @@
+{
+  "id": 29045,
+  "name": "Dr Evil",
+  "generation": 17,
+  "created_at": "2017-12-02T12:24:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Dr Evil. I once peed on Martin Luther King Jr.'s cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Let's get busy!",
+  "language": "en",
+  "matron": "25046@15",
+  "sire": "25534@16",
+  "children": [
+    "32226@18",
+    "42287@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 29069,
+  "name": "Gen19 Slow",
+  "generation": 19,
+  "created_at": "2017-12-02T12:28:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen19 Slow. I've never told anyone this, but I once pawed at a dog. When I'm not practicing witchcraft, I'm talking about how much I lift! I like your face.",
+  "language": "en",
+  "matron": "24020@9",
+  "sire": "25102@18",
+  "children": [
+    "29221@20",
+    "64481@20",
+    "98066@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 32187,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T20:47:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 2. I want to live in a world where people believe the world is flat. When I'm not prank-calling celebrities, I'm people-watching! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "29917@1",
+  "sire": "29958@1",
+  "children": [
+    "32447@3",
+    "32898@3",
+    "33238@3",
+    "33617@3",
+    "34641@3",
+    "37134@3",
+    "43255@3",
+    "56903@3",
+    "142755@3",
+    "158210@3",
+    "194066@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

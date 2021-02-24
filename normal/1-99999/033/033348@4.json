@@ -1,0 +1,23 @@
+{
+  "id": 33348,
+  "name": "Gen4 - Snappy",
+  "generation": 4,
+  "created_at": "2017-12-02T23:08:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen4 - Snappy. I believe the world is flat. I once loved a chimpanzee. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "32564@3",
+  "sire": "32852@2",
+  "children": [
+    "33930@8",
+    "34578@13",
+    "35923@10",
+    "39146@5",
+    "45093@5",
+    "57562@5",
+    "74075@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

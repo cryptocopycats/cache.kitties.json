@@ -1,0 +1,18 @@
+{
+  "id": 32094,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-12-02T20:32:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Gen 13. I'm often referred to as the Dwight Schrute of the group. I'm often described as hairy, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "25656@10",
+  "sire": "31550@12",
+  "children": [
+    "34009@14",
+    "35630@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

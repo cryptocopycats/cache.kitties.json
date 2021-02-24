@@ -1,0 +1,17 @@
+{
+  "id": 28785,
+  "name": "Gen6",
+  "generation": 6,
+  "created_at": "2017-12-02T11:45:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen6. I want to live in a world where people believe the world is flat. I am 35% elf, 79% Spin Instructor , and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26829@5",
+  "sire": "26004@5",
+  "children": [
+    "63023@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

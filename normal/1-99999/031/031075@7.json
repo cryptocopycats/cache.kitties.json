@@ -1,0 +1,23 @@
+{
+  "id": 31075,
+  "name": "Hans Gruber G7 BubbSalmonRP",
+  "generation": 7,
+  "created_at": "2017-12-02T18:26:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Hans Gruber G7 BubbSalmonRP. I've never told anyone this, but I once tricked a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "29358@6",
+  "sire": "4151@6",
+  "children": [
+    "31271@8",
+    "31532@8",
+    "32125@10",
+    "33253@8",
+    "35744@8",
+    "41350@8",
+    "111174@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

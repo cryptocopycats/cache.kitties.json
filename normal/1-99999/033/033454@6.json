@@ -1,0 +1,25 @@
+{
+  "id": 33454,
+  "name": "Gen 6 | Parent of Mainecoon",
+  "generation": 6,
+  "created_at": "2017-12-02T23:19:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 6 | Parent of Mainecoon. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Coldplay. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "24927@5",
+  "sire": "31394@5",
+  "children": [
+    "34217@7",
+    "34775@7",
+    "38365@19",
+    "48941@7",
+    "53338@7",
+    "59501@17",
+    "88157@7",
+    "126842@18",
+    "202682@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

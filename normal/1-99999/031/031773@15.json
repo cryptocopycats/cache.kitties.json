@@ -1,0 +1,18 @@
+{
+  "id": 31773,
+  "name": "bark",
+  "generation": 15,
+  "created_at": "2017-12-02T19:51:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm bark. My friends describe me as hairy and voluptuous. I once got in a fight with a gecko, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "22961@14",
+  "sire": "23117@4",
+  "children": [
+    "44760@16",
+    "55078@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

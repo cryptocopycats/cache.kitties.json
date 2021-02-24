@@ -1,0 +1,21 @@
+{
+  "id": 32634,
+  "name": "G8 | Bird + Sailor | SP2",
+  "generation": 8,
+  "created_at": "2017-12-02T21:42:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm G8 | Bird + Sailor | SP2. I'm often referred to as the Samwise Gamgee of the group. I once got in a fight with a labradoodle, and won. I like your face.",
+  "language": "en",
+  "matron": "31298@7",
+  "sire": "31791@7",
+  "children": [
+    "33223@9",
+    "33662@9",
+    "35141@9",
+    "61813@9",
+    "88464@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

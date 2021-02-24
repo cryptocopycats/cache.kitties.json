@@ -1,0 +1,24 @@
+{
+  "id": 31524,
+  "name": "Gen 2  | Strawberry, Swift",
+  "generation": 2,
+  "created_at": "2017-12-02T19:25:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Gen 2  | Strawberry, Swift. I've never told anyone this, but I once kissed a dog. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "27315@1",
+  "sire": "31284@1",
+  "children": [
+    "31923@4",
+    "32144@4",
+    "32341@8",
+    "33261@4",
+    "34100@5",
+    "35885@5",
+    "41220@6",
+    "63710@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

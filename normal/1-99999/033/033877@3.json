@@ -1,0 +1,19 @@
+{
+  "id": 33877,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T23:59:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Gen 3. I believe the world is flat. I'm often described as brilliant, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "11409@2",
+  "sire": "33625@2",
+  "children": [
+    "33979@4",
+    "34034@4",
+    "34570@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

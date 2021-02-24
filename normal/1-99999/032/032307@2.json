@@ -1,0 +1,28 @@
+{
+  "id": 32307,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T21:00:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Gen 2. I'm often referred to as the Marge Simpson of the group. Sometimes I daydream of a life full of sitting on your computer, apple pie, and swiping left. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "30673@1",
+  "sire": "29839@1",
+  "children": [
+    "32412@3",
+    "32500@3",
+    "32665@3",
+    "34198@3",
+    "35372@3",
+    "36767@3",
+    "46436@3",
+    "61258@3",
+    "79738@3",
+    "135193@3",
+    "167089@3",
+    "255683@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 32439,
+  "name": "Izzy Stradlin",
+  "generation": 13,
+  "created_at": "2017-12-02T21:18:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Izzy Stradlin. I'm a professional Foreign Film Director and I love cereal. I was voted biggest teacher's pet in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "5371@12",
+  "sire": "10864@12",
+  "children": [
+    "57713@14",
+    "81543@20",
+    "116346@20",
+    "209725@14",
+    "333364@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

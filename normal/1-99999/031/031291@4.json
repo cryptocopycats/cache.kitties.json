@@ -1,0 +1,20 @@
+{
+  "id": 31291,
+  "name": "Gen 4 - Snappy",
+  "generation": 4,
+  "created_at": "2017-12-02T18:54:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Gen 4 - Snappy. I'm a Foreign Film Director by day, and I like siring for status by night. Some people say I'm the Ross Geller of the group. I like your face.",
+  "language": "en",
+  "matron": "18096@2",
+  "sire": "16572@3",
+  "children": [
+    "31914@9",
+    "33944@5",
+    "44446@5",
+    "65846@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

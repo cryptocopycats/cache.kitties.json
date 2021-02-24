@@ -1,0 +1,20 @@
+{
+  "id": 28422,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-02T10:23:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #28422. My friends describe me as vegan and ridiculous. My great-great-great-great-great-great grandkitty lived with Confucius. I like your face.",
+  "language": "en",
+  "matron": "1376@0",
+  "sire": "28173@2",
+  "children": [
+    "30459@4",
+    "30708@4",
+    "33628@8",
+    "51755@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

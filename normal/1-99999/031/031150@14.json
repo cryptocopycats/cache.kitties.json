@@ -1,0 +1,21 @@
+{
+  "id": 31150,
+  "name": "Blue Suede Shoes",
+  "generation": 14,
+  "created_at": "2017-12-02T18:33:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Blue Suede Shoes. I believe that one day cats will rule this planet. Some people say I'm the Samwise Gamgee of the group. Let's pawty!",
+  "language": "en",
+  "matron": "30183@13",
+  "sire": "30370@13",
+  "children": [
+    "39260@16",
+    "74707@19",
+    "93938@23",
+    "120291@23",
+    "122489@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

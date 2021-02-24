@@ -1,0 +1,21 @@
+{
+  "id": 31949,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-12-02T20:22:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Gen 13. In high school, I was voted biggest teacher's pet. Some people say I'm the Steve Urkel of the group. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "26224@12",
+  "sire": "20417@12",
+  "children": [
+    "33864@14",
+    "35230@14",
+    "53772@14",
+    "56336@14",
+    "183945@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

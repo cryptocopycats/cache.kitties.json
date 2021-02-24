@@ -1,0 +1,24 @@
+{
+  "id": 28410,
+  "name": "Gen 6 | Good Value Starter",
+  "generation": 6,
+  "created_at": "2017-12-02T10:21:23.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Gen 6 | Good Value Starter here. I'm here to enjoy eating lasagna and picking on mice. I am 30% wizard, 49% Private Dancer , and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "14706@3",
+  "sire": "13918@5",
+  "children": [
+    "31028@15",
+    "32606@12",
+    "40562@7",
+    "44691@7",
+    "48282@11",
+    "53370@7",
+    "84027@7",
+    "109062@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

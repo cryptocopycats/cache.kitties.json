@@ -1,0 +1,18 @@
+{
+  "id": 30020,
+  "name": "Starter",
+  "generation": 20,
+  "created_at": "2017-12-02T15:34:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Starter. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Frank Sinatra. I like your face.",
+  "language": "en",
+  "matron": "27712@16",
+  "sire": "27718@19",
+  "children": [
+    "35546@21",
+    "92329@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

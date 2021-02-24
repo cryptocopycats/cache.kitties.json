@@ -1,0 +1,19 @@
+{
+  "id": 31002,
+  "name": "Moonpie",
+  "generation": 20,
+  "created_at": "2017-12-02T18:11:12.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Moonpie. I'm a Skydiving Instructor by day, and I like running a podcast by night. Some people say I'm the Ross Geller of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26157@19",
+  "sire": "26196@17",
+  "children": [
+    "60932@21",
+    "116304@23",
+    "251516@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

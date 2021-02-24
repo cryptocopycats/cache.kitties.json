@@ -1,0 +1,19 @@
+{
+  "id": 29808,
+  "name": "Astrocat",
+  "generation": 12,
+  "created_at": "2017-12-02T15:00:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Astrocat. In high school, I was voted most likely to work at NASA. I am 41% wizard, 22% Foreign Film Director, and otherwise bad at math. I like your face.",
+  "language": "en",
+  "matron": "26341@11",
+  "sire": "26614@11",
+  "children": [
+    "31290@13",
+    "32290@13",
+    "36954@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

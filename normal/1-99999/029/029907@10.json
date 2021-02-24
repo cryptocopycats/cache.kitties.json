@@ -1,0 +1,20 @@
+{
+  "id": 29907,
+  "name": "Rouxgris",
+  "generation": 10,
+  "created_at": "2017-12-02T15:20:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Rouxgris. I've never told anyone this, but I once pawed at a dog. When no one's home, I invite my pals over and we listen to Wutang. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "29284@9",
+  "sire": "29594@9",
+  "children": [
+    "33741@11",
+    "55256@19",
+    "75477@20",
+    "181258@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

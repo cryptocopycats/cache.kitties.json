@@ -1,0 +1,19 @@
+{
+  "id": 33645,
+  "name": "Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-02T23:35:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen 14. I'm a Train Conductor by day, and I like sleeping in fresh laundry by night. In my free time, I can usually be found smelly or playing chess. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "17892@13",
+  "sire": "5071@11",
+  "children": [
+    "40086@15",
+    "49511@15",
+    "99406@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

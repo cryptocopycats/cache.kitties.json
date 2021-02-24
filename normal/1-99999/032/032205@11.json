@@ -1,0 +1,23 @@
+{
+  "id": 32205,
+  "name": "Eric",
+  "generation": 11,
+  "created_at": "2017-12-02T20:48:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Eric. I'm often referred to as the Michael Scott of the group. When I'm not tricking babies, I'm mocking dogs! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "19626@8",
+  "sire": "14748@10",
+  "children": [
+    "33324@14",
+    "34029@12",
+    "40351@14",
+    "50888@18",
+    "51099@16",
+    "84251@18",
+    "162329@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

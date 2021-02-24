@@ -1,0 +1,18 @@
+{
+  "id": 29355,
+  "name": "Gen 5 Snappy",
+  "generation": 5,
+  "created_at": "2017-12-02T13:36:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Gen 5 Snappy. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Can you make my gullible dreams come true?",
+  "language": "en",
+  "matron": "25186@4",
+  "sire": "29308@4",
+  "children": [
+    "46176@7",
+    "71793@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 32277,
+  "name": "The People's Moustache",
+  "generation": 8,
+  "created_at": "2017-12-02T20:58:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! The People's Moustache here. I'm here to enjoy riding dirty and picking on mice. I once got in a fight with a labradoodle, and won. Our friendship will be fabulous, prickly, and full of cantaloupe.",
+  "language": "en",
+  "matron": "31069@7",
+  "sire": "31321@6",
+  "children": [
+    "41956@14",
+    "43864@9",
+    "45208@18",
+    "60232@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

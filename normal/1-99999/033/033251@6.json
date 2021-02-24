@@ -1,0 +1,21 @@
+{
+  "id": 33251,
+  "name": "gen6 snappy",
+  "generation": 6,
+  "created_at": "2017-12-02T22:53:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm gen6 snappy. I'm often referred to as the Jon Snow of the group. I once headbutted a rabbit. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "30582@5",
+  "sire": "32431@1",
+  "children": [
+    "34945@8",
+    "35348@8",
+    "36076@10",
+    "44845@7",
+    "51462@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 31278,
+  "name": "Gen 2 Scarlet Tongue",
+  "generation": 2,
+  "created_at": "2017-12-02T18:48:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen 2 Scarlet Tongue. All you need to know about me is I hate cereal with a passion. I am 96% elf, 9% Mad Scientist, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29970@1",
+  "sire": "30088@1",
+  "children": [
+    "39527@3",
+    "40977@3",
+    "41186@3",
+    "52159@3",
+    "57111@3",
+    "62371@3",
+    "1478658@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 31703,
+  "name": "Gen17 Slow",
+  "generation": 17,
+  "created_at": "2017-12-02T19:43:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen17 Slow. I'm often referred to as the Frodo Baggins of the group. I once made a platypus kiss. I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "24391@16",
+  "sire": "21260@14",
+  "children": [
+    "37068@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

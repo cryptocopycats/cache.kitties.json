@@ -1,0 +1,20 @@
+{
+  "id": 30034,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-02T15:39:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Kitty #30034. I want to live in a world where people believe the world is flat. In my free time, I can usually be found preposterous or pole dancing. I like your face.",
+  "language": "en",
+  "matron": "13905@15",
+  "sire": "17495@15",
+  "children": [
+    "49283@17",
+    "61342@17",
+    "92209@19",
+    "139859@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

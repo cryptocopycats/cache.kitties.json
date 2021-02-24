@@ -1,0 +1,23 @@
+{
+  "id": 32665,
+  "name": "1st 10 Gold Gene!",
+  "generation": 3,
+  "created_at": "2017-12-02T21:45:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm 1st 10 Gold Gene!. In high school, I was voted biggest teacher's pet. My secret indulgence is steak. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "32273@2",
+  "sire": "32307@2",
+  "children": [
+    "70988@5",
+    "73492@6",
+    "74890@6",
+    "99552@8",
+    "103725@10",
+    "119526@4",
+    "200700@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

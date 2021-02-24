@@ -1,0 +1,19 @@
+{
+  "id": 33070,
+  "name": "Golden Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T22:28:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! My name's Golden Gen 3. I once peed on Princess Diana's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Princess Diana. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "32674@2",
+  "sire": "32937@2",
+  "children": [
+    "89539@4",
+    "90055@4",
+    "94270@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

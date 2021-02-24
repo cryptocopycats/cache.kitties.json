@@ -1,0 +1,19 @@
+{
+  "id": 31807,
+  "name": "G9 | 0+",
+  "generation": 9,
+  "created_at": "2017-12-02T20:00:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G9 | 0+. I'm a professional Spin Instructor  and I love lasagna. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "20026@8",
+  "sire": "30861@8",
+  "children": [
+    "32354@10",
+    "45145@10",
+    "65410@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 31093,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T18:27:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen 2. I've never told anyone this, but I once frolicked with a dog. I was voted school jock in college. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "30064@1",
+  "sire": "29868@1",
+  "children": [
+    "31707@3",
+    "34130@3",
+    "50821@3",
+    "55943@3",
+    "56913@3",
+    "130895@3",
+    "140911@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

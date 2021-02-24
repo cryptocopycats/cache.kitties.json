@@ -1,0 +1,17 @@
+{
+  "id": 32185,
+  "name": "Gen 4 Gray Coffee",
+  "generation": 4,
+  "created_at": "2017-12-02T20:47:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Gen 4 Gray Coffee. I believe the world is flat. I once got in a fight with a rabbit, and won. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "29803@3",
+  "sire": "28403@3",
+  "children": [
+    "32359@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

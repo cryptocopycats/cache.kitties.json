@@ -1,0 +1,23 @@
+{
+  "id": 32545,
+  "name": "Ziggy Gen 2 Brisk",
+  "generation": 2,
+  "created_at": "2017-12-02T21:32:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Ziggy Gen 2 Brisk. I've never told anyone this, but I once clawed a dog. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Will you be the pickles to my maple syrup?",
+  "language": "en",
+  "matron": "32349@1",
+  "sire": "32313@1",
+  "children": [
+    "33291@4",
+    "37280@3",
+    "42911@3",
+    "53667@11",
+    "96769@3",
+    "219084@7",
+    "343533@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

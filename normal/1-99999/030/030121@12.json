@@ -1,0 +1,17 @@
+{
+  "id": 30121,
+  "name": "Gen12 Brisk",
+  "generation": 12,
+  "created_at": "2017-12-02T15:52:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen12 Brisk. I'm a professional Skydiving Instructor and I love steak. I would give it all up to be on Oprah. Our friendship will be ridiculous, tantalizing, and full of wet food.",
+  "language": "en",
+  "matron": "23947@1",
+  "sire": "13115@11",
+  "children": [
+    "30868@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

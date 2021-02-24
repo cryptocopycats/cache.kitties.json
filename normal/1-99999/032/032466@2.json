@@ -1,0 +1,21 @@
+{
+  "id": 32466,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-12-02T21:22:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm G2. I'm a professional Dispensary Clerk and I love hamburgers. I'm often described as stinky, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "25166@1",
+  "sire": "32053@1",
+  "children": [
+    "32661@3",
+    "36831@3",
+    "147295@3",
+    "152001@3",
+    "236445@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

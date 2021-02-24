@@ -1,0 +1,26 @@
+{
+  "id": 31179,
+  "name": "Mr 4",
+  "generation": 4,
+  "created_at": "2017-12-02T18:34:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! Mr 4 here. I'm here to enjoy eating lasagna and riding unicorns. I once made a dog drink. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "14131@3",
+  "sire": "30006@3",
+  "children": [
+    "49064@6",
+    "49223@16",
+    "52977@6",
+    "55965@18",
+    "61614@6",
+    "63675@6",
+    "68812@21",
+    "80158@5",
+    "99761@11",
+    "339560@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

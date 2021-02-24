@@ -1,0 +1,23 @@
+{
+  "id": 32204,
+  "name": "gen 18 bird",
+  "generation": 18,
+  "created_at": "2017-12-02T20:48:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's gen 18 bird. I once peed on King Henry VIII's cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23994@17",
+  "sire": "26770@9",
+  "children": [
+    "70723@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 196,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

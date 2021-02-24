@@ -1,0 +1,23 @@
+{
+  "id": 33564,
+  "name": "Cymric Mauveover, bird parent.",
+  "generation": 9,
+  "created_at": "2017-12-02T23:27:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's Cymric Mauveover, bird parent.. I once peed on Mother Theresa's cat. They had it coming. My friends describe me as \"gullible.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "32375@8",
+  "sire": "32865@6",
+  "children": [
+    "33908@17",
+    "36169@10",
+    "42288@14",
+    "44409@13",
+    "47336@10",
+    "65357@10",
+    "118887@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

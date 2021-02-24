@@ -1,0 +1,24 @@
+{
+  "id": 33261,
+  "name": "Gen 4 | Mintgreen, Swift",
+  "generation": 4,
+  "created_at": "2017-12-02T22:53:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Gen 4 | Mintgreen, Swift. I'm a professional Ventriloquist and I love apple pie. It's not common knowledge, but my ancestry connects me to Cleopatra. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "31524@2",
+  "sire": "32814@3",
+  "children": [
+    "33648@5",
+    "33721@6",
+    "34073@5",
+    "35149@6",
+    "36613@5",
+    "41133@5",
+    "63234@5",
+    "113768@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

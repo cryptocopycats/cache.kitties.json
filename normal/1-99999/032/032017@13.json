@@ -1,0 +1,22 @@
+{
+  "id": 32017,
+  "name": "Mada Mada",
+  "generation": 13,
+  "created_at": "2017-12-02T20:27:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Mada Mada. In high school, I was voted most likely to work at NASA. I once got in a fight with a platypus, and won. Can you make my prickly dreams come true?",
+  "language": "en",
+  "matron": "31510@10",
+  "sire": "30078@12",
+  "children": [
+    "33165@14",
+    "35673@14",
+    "77273@17",
+    "78418@21",
+    "91288@14",
+    "215120@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

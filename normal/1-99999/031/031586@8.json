@@ -1,0 +1,24 @@
+{
+  "id": 31586,
+  "name": "Gordon Gekko | G8 [R.B.C.]",
+  "generation": 8,
+  "created_at": "2017-12-02T19:31:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's Gordon Gekko | G8 [R.B.C.]. I once peed on King Henry VIII's cat. They had it coming. I once got in a fight with a dolphin, and won. I hope we can be petulant friends.",
+  "language": "en",
+  "matron": "31069@7",
+  "sire": "31154@7",
+  "children": [
+    "31886@9",
+    "32890@9",
+    "33590@9",
+    "36276@9",
+    "64531@12",
+    "91988@9",
+    "151867@12",
+    "380273@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

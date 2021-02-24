@@ -1,0 +1,23 @@
+{
+  "id": 32797,
+  "name": "Gen 17 / Plodding / Ducat",
+  "generation": 17,
+  "created_at": "2017-12-02T22:03:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Gen 17 / Plodding / Ducat. I believe the world is flat. I once made a labradoodle leap. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22363@15",
+  "sire": "25416@16",
+  "children": [
+    "144685@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 206,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

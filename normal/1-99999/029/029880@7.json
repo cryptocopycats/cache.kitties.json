@@ -1,0 +1,19 @@
+{
+  "id": 29880,
+  "name": "G7 | Stock",
+  "generation": 7,
+  "created_at": "2017-12-02T15:17:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm G7 | Stock. I'm a professional Train Conductor and I love hamburgers. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26640@6",
+  "sire": "29511@6",
+  "children": [
+    "30918@8",
+    "31715@8",
+    "33402@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

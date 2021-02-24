@@ -1,0 +1,22 @@
+{
+  "id": 32893,
+  "name": "Mainecoon",
+  "generation": 7,
+  "created_at": "2017-12-02T22:14:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Mainecoon. I'm often referred to as the Marge Simpson of the group. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Will you be the marmite to my wasabi?",
+  "language": "en",
+  "matron": "22243@3",
+  "sire": "29718@6",
+  "children": [
+    "40833@9",
+    "41399@8",
+    "42708@10",
+    "46479@10",
+    "69255@11",
+    "121359@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

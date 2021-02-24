@@ -1,0 +1,18 @@
+{
+  "id": 31948,
+  "name": "Sucuk Kitty (Gen 21)",
+  "generation": 21,
+  "created_at": "2017-12-02T20:22:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Sucuk Kitty (Gen 21). I'm often referred to as the Cersei Lannister of the group. In my free time, I can usually be found tantalizing or reading Danielle Steele. I hope we can be fabulous friends.",
+  "language": "en",
+  "matron": "30237@5",
+  "sire": "31670@20",
+  "children": [
+    "48869@22",
+    "93775@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

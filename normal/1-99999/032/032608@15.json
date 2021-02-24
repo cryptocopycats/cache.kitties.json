@@ -1,0 +1,20 @@
+{
+  "id": 32608,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-02T21:40:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #32608. I've never told anyone this, but I once snuggled a dog. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "10369@14",
+  "sire": "16512@7",
+  "children": [
+    "55423@16",
+    "55531@16",
+    "86530@18",
+    "151019@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

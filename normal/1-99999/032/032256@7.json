@@ -1,0 +1,23 @@
+{
+  "id": 32256,
+  "name": "Donald Trump!",
+  "generation": 7,
+  "created_at": "2017-12-02T20:56:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Donald Trump!. My friends describe me as ridiculous and preposterous. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "30603@4",
+  "sire": "29073@6",
+  "children": [
+    "32386@13",
+    "32694@8",
+    "33270@8",
+    "36273@14",
+    "40177@14",
+    "68211@15",
+    "163050@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

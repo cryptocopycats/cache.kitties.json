@@ -1,0 +1,18 @@
+{
+  "id": 31254,
+  "name": "Mr. Snufflewhite",
+  "generation": 20,
+  "created_at": "2017-12-02T18:45:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Mr. Snufflewhite. My friends describe me as hairy and wondrous. My friends describe me as \"petulant.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "22876@19",
+  "sire": "26408@10",
+  "children": [
+    "58267@21",
+    "456558@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

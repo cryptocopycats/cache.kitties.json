@@ -1,0 +1,21 @@
+{
+  "id": 32748,
+  "name": "Ragamuffin",
+  "generation": 12,
+  "created_at": "2017-12-02T21:55:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Ragamuffin. I've never told anyone this, but I once loved a dog. I once made a rabbit trot. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "18871@5",
+  "sire": "29123@11",
+  "children": [
+    "54338@15",
+    "65752@13",
+    "67258@13",
+    "73690@13",
+    "116889@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

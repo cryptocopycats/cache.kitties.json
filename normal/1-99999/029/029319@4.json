@@ -1,0 +1,23 @@
+{
+  "id": 29319,
+  "name": "Gen 4 - Cloudwhite",
+  "generation": 4,
+  "created_at": "2017-12-02T13:29:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! My name's Gen 4 - Cloudwhite. I once peed on Marie Antoinette's cat. They had it coming. I put soy sauce on everything. Like, everything: hot dogs, lasagna—everything! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "27430@3",
+  "sire": "27962@2",
+  "children": [
+    "29365@5",
+    "29517@5",
+    "53924@6",
+    "65601@5",
+    "71843@5",
+    "76973@5",
+    "101199@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 29542,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-02T14:08:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #29542. My friends describe me as brilliant and petulant. I once made a goose drink. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "29154@11",
+  "sire": "17840@10",
+  "children": [
+    "30370@13",
+    "34495@16",
+    "287816@13",
+    "311309@13",
+    "344542@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

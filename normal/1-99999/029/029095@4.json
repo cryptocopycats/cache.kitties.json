@@ -1,0 +1,20 @@
+{
+  "id": 29095,
+  "name": "Gen 4 GreenOrange Tiger",
+  "generation": 4,
+  "created_at": "2017-12-02T12:38:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 4 GreenOrange Tiger. I'm a Spin Instructor  by day, and I like tricking babies by night. I once snuggled a labradoodle. I don't like to talk about it. Our friendship will be smelly, fabulous, and full of hamburgers.",
+  "language": "en",
+  "matron": "28248@3",
+  "sire": "28765@3",
+  "children": [
+    "29437@5",
+    "29447@7",
+    "31589@6",
+    "32785@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31987,
+  "name": "G6 | Brisk",
+  "generation": 6,
+  "created_at": "2017-12-02T20:23:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm G6 | Brisk. In high school, I was voted school jock. I was voted school jock in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "29862@5",
+  "sire": "31903@5",
+  "children": [
+    "32262@7",
+    "33013@7",
+    "43136@7",
+    "83697@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

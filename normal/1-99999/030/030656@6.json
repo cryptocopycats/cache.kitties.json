@@ -1,0 +1,21 @@
+{
+  "id": 30656,
+  "name": "Kyrie Irving (read bio)",
+  "generation": 6,
+  "created_at": "2017-12-02T17:28:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kyrie Irving (read bio). I believe the world is flat. I like to listen to Michael Bolton while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "29129@5",
+  "sire": "29235@5",
+  "children": [
+    "31414@11",
+    "36953@7",
+    "55674@11",
+    "69619@11",
+    "220749@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

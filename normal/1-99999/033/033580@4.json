@@ -1,0 +1,23 @@
+{
+  "id": 33580,
+  "name": "Gen 4 Choclate Sizzurp",
+  "generation": 4,
+  "created_at": "2017-12-02T23:28:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 4 Choclate Sizzurp. My friends describe me as brilliant and gullible. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I look forward to chasing red dots with you.",
+  "language": "en",
+  "matron": "26321@3",
+  "sire": "29103@2",
+  "children": [
+    "34329@7",
+    "35142@9",
+    "35197@9",
+    "36404@9",
+    "36973@15",
+    "39044@6",
+    "52629@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 30432,
+  "name": "G6 | Spock",
+  "generation": 6,
+  "created_at": "2017-12-02T16:41:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm G6 | Spock. I believe the world is flat. Sometimes I daydream of a life full of picking on mice, steak, and running a podcast. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "23227@5",
+  "sire": "30316@5",
+  "children": [
+    "30675@7",
+    "66565@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 28678,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-02T11:12:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #28678. My friends describe me as preposterous and gullible. I am 34% sphinx, 54% Dispensary Clerk, and otherwise bad at math. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "18157@15",
+  "sire": "23822@17",
+  "children": [
+    "63921@20",
+    "92134@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

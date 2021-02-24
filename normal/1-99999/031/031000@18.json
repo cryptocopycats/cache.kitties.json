@@ -1,0 +1,19 @@
+{
+  "id": 31000,
+  "name": "Virgin Beard Sphynx",
+  "generation": 18,
+  "created_at": "2017-12-02T18:10:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Virgin Beard Sphynx. My friends describe me as gullible and voluptuous. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "23315@6",
+  "sire": "11343@17",
+  "children": [
+    "62227@19",
+    "95555@19",
+    "141000@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

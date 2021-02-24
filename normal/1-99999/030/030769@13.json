@@ -1,0 +1,20 @@
+{
+  "id": 30769,
+  "name": "Dusty Depot | all son bubbleg",
+  "generation": 13,
+  "created_at": "2017-12-02T17:43:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Dusty Depot | all son bubbleg. I've never told anyone this, but I once bit a dog. I once bit a dolphin. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "17576@9",
+  "sire": "30476@12",
+  "children": [
+    "31742@14",
+    "34906@14",
+    "45214@14",
+    "73900@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

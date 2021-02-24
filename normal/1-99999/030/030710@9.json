@@ -1,0 +1,22 @@
+{
+  "id": 30710,
+  "name": "Catiger | Gen 9",
+  "generation": 9,
+  "created_at": "2017-12-02T17:31:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Catiger | Gen 9. I'm often referred to as the Dwight Schrute of the group. I once pranced with a rabbit. I don't like to talk about it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "25654@8",
+  "sire": "29111@7",
+  "children": [
+    "31188@10",
+    "31785@17",
+    "37797@16",
+    "44884@10",
+    "75240@10",
+    "241723@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

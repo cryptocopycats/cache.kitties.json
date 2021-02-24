@@ -1,0 +1,19 @@
+{
+  "id": 32393,
+  "name": "Gen 12 - Gen 0 parent",
+  "generation": 12,
+  "created_at": "2017-12-02T21:12:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Gen 12 - Gen 0 parent. I'm often referred to as the Samwise Gamgee of the group. I'm often described as vegan, and I own it. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "1099@0",
+  "sire": "14926@11",
+  "children": [
+    "42208@13",
+    "51514@13",
+    "80534@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

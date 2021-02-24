@@ -1,0 +1,20 @@
+{
+  "id": 33095,
+  "name": "Gen 3 | Scarlet, Peach, Swift",
+  "generation": 3,
+  "created_at": "2017-12-02T22:32:00.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Gen 3 | Scarlet, Peach, Swift. All you need to know about me is I hate steak with a passion. I put wasabi on everything. Like, everything: hot dogs, hamburgers—everything! Let's get busy!",
+  "language": "en",
+  "matron": "32766@1",
+  "sire": "32920@2",
+  "children": [
+    "33289@4",
+    "74892@5",
+    "83327@5",
+    "90845@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

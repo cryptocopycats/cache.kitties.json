@@ -1,0 +1,18 @@
+{
+  "id": 29176,
+  "name": "Gen 21",
+  "generation": 21,
+  "created_at": "2017-12-02T12:57:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 21. I enjoy riding dirty, spinning sick beats, and hitting on yo' man. My secret indulgence is lasagna. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "22885@18",
+  "sire": "23361@20",
+  "children": [
+    "42443@22",
+    "59868@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

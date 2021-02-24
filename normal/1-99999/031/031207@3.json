@@ -1,0 +1,20 @@
+{
+  "id": 31207,
+  "name": "Gen3 Bloodred Mauve",
+  "generation": 3,
+  "created_at": "2017-12-02T18:38:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen3 Bloodred Mauve. I'm a professional Aerobics Athlete  and I love cantaloupe. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "31132@2",
+  "sire": "28102@2",
+  "children": [
+    "35871@4",
+    "37277@4",
+    "42799@4",
+    "62562@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 29511,
+  "name": "G6",
+  "generation": 6,
+  "created_at": "2017-12-02T14:04:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm G6. I'm often referred to as the Cersei Lannister of the group. I once dreamed of being a Ventriloquist. Now I can be found talking about how much I lift all day. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "28988@5",
+  "sire": "29421@5",
+  "children": [
+    "29880@7",
+    "30917@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

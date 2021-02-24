@@ -1,0 +1,19 @@
+{
+  "id": 33354,
+  "name": "Gen 5 Snappy Emerald",
+  "generation": 5,
+  "created_at": "2017-12-02T23:08:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Gen 5 Snappy Emerald. All you need to know about me is I hate wet food with a passion. My friends describe me as \"petulant.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30946@4",
+  "sire": "31994@4",
+  "children": [
+    "34304@6",
+    "35296@6",
+    "46509@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

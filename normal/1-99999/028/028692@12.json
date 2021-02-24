@@ -1,0 +1,21 @@
+{
+  "id": 28692,
+  "name": "Gen12 Plodding",
+  "generation": 12,
+  "created_at": "2017-12-02T11:17:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen12 Plodding. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26520@9",
+  "sire": "28412@11",
+  "children": [
+    "29247@13",
+    "30557@13",
+    "49950@16",
+    "71022@15",
+    "120739@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 31054,
+  "name": "Gen 0 Snappy Virgin",
+  "generation": 6,
+  "created_at": "2017-12-02T18:16:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Gen 0 Snappy Virgin. I'm a professional Spin Instructor  and I love wet food. When I'm not mocking dogs, I'm riding the bus! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "30577@5",
+  "sire": "30274@4",
+  "children": [
+    "42835@7",
+    "55287@7",
+    "65559@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

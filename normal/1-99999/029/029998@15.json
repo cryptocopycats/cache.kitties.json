@@ -1,0 +1,22 @@
+{
+  "id": 29998,
+  "name": "bobos",
+  "generation": 15,
+  "created_at": "2017-12-02T15:34:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's bobos. I once peed on Amelia Earhart's cat. They had it coming. I once clawed a rhino. I don't like to talk about it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "20743@3",
+  "sire": "13560@14",
+  "children": [
+    "43017@18",
+    "45611@16",
+    "93759@16",
+    "97744@16",
+    "151985@16",
+    "316337@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

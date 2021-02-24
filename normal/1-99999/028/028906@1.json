@@ -1,0 +1,22 @@
+{
+  "id": 28906,
+  "name": "Bernard",
+  "generation": 1,
+  "created_at": "2017-12-02T11:57:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Bernard. I'm a Ventriloquist by day, and I like riverdancing by night. When no one's home, I invite my pals over and we listen to Ace of Base. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "20691@0",
+  "sire": "11452@0",
+  "children": [
+    "229295@5",
+    "229735@5",
+    "230026@5",
+    "230836@6",
+    "231638@6",
+    "233292@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

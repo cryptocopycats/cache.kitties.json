@@ -1,0 +1,18 @@
+{
+  "id": 29641,
+  "name": "Brutus",
+  "generation": 18,
+  "created_at": "2017-12-02T14:26:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Brutus. I enjoy eating lasagna, tricking babies, and watching Stranger Things. Some people say I'm the Ron Weasley of the group. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "19994@15",
+  "sire": "21530@17",
+  "children": [
+    "38890@19",
+    "76165@19"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

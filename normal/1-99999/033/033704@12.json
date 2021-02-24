@@ -1,0 +1,19 @@
+{
+  "id": 33704,
+  "name": "D",
+  "generation": 12,
+  "created_at": "2017-12-02T23:40:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm D. I'm a Spin Instructor  by day, and I like riding the bus by night. I once dreamed of being a Foreign Film Director. Now I can be found sleeping in fresh laundry all day. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "31865@10",
+  "sire": "31880@11",
+  "children": [
+    "42552@13",
+    "107583@16",
+    "159641@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 28945,
+  "name": "CHATpitot G6",
+  "generation": 6,
+  "created_at": "2017-12-02T12:05:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm CHATpitot G6. All you need to know about me is I hate chocolate with a passion. I once got in a fight with a platypus, and won. I like your face.",
+  "language": "en",
+  "matron": "28888@5",
+  "sire": "28752@5",
+  "children": [
+    "29017@19",
+    "29605@9",
+    "30453@9",
+    "31366@9",
+    "34248@14",
+    "163375@7",
+    "192319@7",
+    "324717@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

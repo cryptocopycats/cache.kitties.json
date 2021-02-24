@@ -1,0 +1,19 @@
+{
+  "id": 30219,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-02T16:10:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #30219. I'm a Dispensary Clerk by day, and I like siring for status by night. Some people say I'm the Ron Weasley of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26555@13",
+  "sire": "19515@18",
+  "children": [
+    "58267@21",
+    "84972@20",
+    "257735@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 32002,
+  "name": "Gen 3 - LB011 - Stable",
+  "generation": 3,
+  "created_at": "2017-12-02T20:27:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's Gen 3 - LB011 - Stable. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once dreamed of being a Mad Scientist. Now I can be found mocking dogs all day. I look forward to fighting for the people with you.",
+  "language": "en",
+  "matron": "20344@1",
+  "sire": "31759@2",
+  "children": [
+    "32436@4",
+    "33175@6",
+    "33771@4",
+    "37166@4",
+    "45979@4",
+    "46407@4",
+    "57000@4",
+    "73230@4",
+    "107023@4",
+    "168034@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

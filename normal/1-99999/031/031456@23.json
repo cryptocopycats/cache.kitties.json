@@ -1,0 +1,18 @@
+{
+  "id": 31456,
+  "name": "Baby Gray",
+  "generation": 23,
+  "created_at": "2017-12-02T19:19:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Baby Gray. I believe the world is flat. I once made a moose jump. I look forward to chasing string with you.",
+  "language": "en",
+  "matron": "21428@12",
+  "sire": "28746@22",
+  "children": [
+    "43497@24",
+    "262469@24"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 33080,
+  "name": "Juan",
+  "generation": 4,
+  "created_at": "2017-12-02T22:29:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Juan. I'm a professional Mad Scientist and I love steak. When no one's home, I invite my pals over and we listen to Ace of Base. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "32780@3",
+  "sire": "32852@2",
+  "children": [
+    "33407@16",
+    "40625@5",
+    "40890@7",
+    "42665@6",
+    "43999@6",
+    "45272@7",
+    "50427@5",
+    "57834@5",
+    "73435@5",
+    "100105@6",
+    "147131@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

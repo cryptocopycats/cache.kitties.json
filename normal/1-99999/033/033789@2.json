@@ -1,0 +1,26 @@
+{
+  "id": 33789,
+  "name": "Gen 2 | SPECIAL EDITION Plod",
+  "generation": 2,
+  "created_at": "2017-12-02T23:49:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 2 | SPECIAL EDITION Plod. I'm often referred to as the Jon Snow of the group. It's not common knowledge, but my ancestry connects me to Mother Theresa. Our friendship will be ridiculous, stinky, and full of ice cream.",
+  "language": "en",
+  "matron": "32646@1",
+  "sire": "32563@1",
+  "children": [
+    "34206@9",
+    "36391@12",
+    "64960@9",
+    "68873@5",
+    "74268@3",
+    "99771@3",
+    "115024@3",
+    "143242@3",
+    "148773@3",
+    "792782@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

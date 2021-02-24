@@ -1,0 +1,17 @@
+{
+  "id": 30251,
+  "name": "Gen 24",
+  "generation": 24,
+  "created_at": "2017-12-02T16:15:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Gen 24. I believe the world is flat. I'm often described as gullible, and I own it. Our friendship will be annoying, brilliant, and full of cantaloupe.",
+  "language": "en",
+  "matron": "25673@19",
+  "sire": "25653@23",
+  "children": [
+    "113276@25"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

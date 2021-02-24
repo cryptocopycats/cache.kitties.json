@@ -1,0 +1,19 @@
+{
+  "id": 30011,
+  "name": "Frida",
+  "generation": 16,
+  "created_at": "2017-12-02T15:34:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Frida. All you need to know about me is I hate hamburgers with a passion. Sometimes I daydream of a life full of slappin' da bass, lasagna, and siring for status. Can't wait to eat ice cream with you!",
+  "language": "en",
+  "matron": "15022@15",
+  "sire": "18513@7",
+  "children": [
+    "35067@17",
+    "46222@17",
+    "76191@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 33461,
+  "name": "gen 18 - 33461",
+  "generation": 18,
+  "created_at": "2017-12-02T23:19:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm gen 18 - 33461. My friends describe me as annoying and fabulous. I'm convinced that the world is flat. One day I'll prove it. I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "25365@10",
+  "sire": "32240@17",
+  "children": [
+    "34941@19",
+    "71481@19",
+    "83808@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 120,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

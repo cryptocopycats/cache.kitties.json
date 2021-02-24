@@ -1,0 +1,18 @@
+{
+  "id": 31041,
+  "name": "Daytona",
+  "generation": 11,
+  "created_at": "2017-12-02T18:16:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Daytona. I'm a Aerobics Athlete  by day, and I like volunteering at the local kitten rescue shelter by night. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, steak—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "22672@6",
+  "sire": "23646@10",
+  "children": [
+    "55119@14",
+    "71845@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

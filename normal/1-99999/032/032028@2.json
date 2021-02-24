@@ -1,0 +1,20 @@
+{
+  "id": 32028,
+  "name": "G2",
+  "generation": 2,
+  "created_at": "2017-12-02T20:27:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm G2. All you need to know about me is I hate lasagna with a passion. My friends describe me as \"vegan.\" It's... accurate. I look forward to watching Stranger Things with you.",
+  "language": "en",
+  "matron": "22214@1",
+  "sire": "12000@1",
+  "children": [
+    "32429@3",
+    "32610@3",
+    "32661@3",
+    "139225@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

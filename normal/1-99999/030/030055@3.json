@@ -1,0 +1,17 @@
+{
+  "id": 30055,
+  "name": "Golden Swift Gen 3 Whixen",
+  "generation": 3,
+  "created_at": "2017-12-02T15:42:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Golden Swift Gen 3 Whixen. I'm a Skydiving Instructor by day, and I like sleeping in fresh laundry by night. My secret indulgence is ice cream. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29977@2",
+  "sire": "30012@2",
+  "children": [
+    "30462@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

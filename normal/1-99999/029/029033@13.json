@@ -1,0 +1,19 @@
+{
+  "id": 29033,
+  "name": "Gatito Penoso",
+  "generation": 13,
+  "created_at": "2017-12-02T12:20:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! My name's Gatito Penoso. I once peed on Nelson Mandela's cat. They had it coming. I am 37% sphinx, 51% Foreign Film Director, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26314@4",
+  "sire": "27272@12",
+  "children": [
+    "33785@14",
+    "36774@14",
+    "52354@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

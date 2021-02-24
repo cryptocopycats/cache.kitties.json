@@ -1,0 +1,19 @@
+{
+  "id": 30348,
+  "name": "Gen12 Plodding",
+  "generation": 12,
+  "created_at": "2017-12-02T16:31:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Gen12 Plodding. I'm a professional Dispensary Clerk and I love cereal. I once dreamed of being a Mad Scientist. Now I can be found talking about how much I lift all day. Let's get busy!",
+  "language": "en",
+  "matron": "12011@9",
+  "sire": "28994@11",
+  "children": [
+    "33995@13",
+    "53511@18",
+    "70887@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

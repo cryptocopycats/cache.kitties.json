@@ -1,0 +1,19 @@
+{
+  "id": 29945,
+  "name": "Plodding",
+  "generation": 17,
+  "created_at": "2017-12-02T15:23:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Plodding. I'm often referred to as the Steve Urkel of the group. My friends describe me as \"brilliant.\" It's... accurate. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "27610@16",
+  "sire": "22909@12",
+  "children": [
+    "35174@18",
+    "41423@18",
+    "49804@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

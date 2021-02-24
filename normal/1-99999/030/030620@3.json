@@ -1,0 +1,25 @@
+{
+  "id": 30620,
+  "name": "Kylo Ren",
+  "generation": 3,
+  "created_at": "2017-12-02T17:22:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kylo Ren. I'm a Dogwalker by day, and I like sleeping in fresh laundry by night. I once frolicked with a rhino. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23778@2",
+  "sire": "29922@2",
+  "children": [
+    "30735@4",
+    "30933@6",
+    "35974@4",
+    "36998@4",
+    "37399@4",
+    "65832@4",
+    "83592@4",
+    "403192@4",
+    "418180@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

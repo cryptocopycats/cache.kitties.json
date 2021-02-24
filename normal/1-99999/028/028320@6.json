@@ -1,0 +1,18 @@
+{
+  "id": 28320,
+  "name": "Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-02T10:06:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Gen 6. I enjoy fighting the patriarchy, riding dirty, and watching Stranger Things. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Our friendship will be hairy, vegan, and full of apple pie.",
+  "language": "en",
+  "matron": "27960@5",
+  "sire": "23937@5",
+  "children": [
+    "28682@7",
+    "31380@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

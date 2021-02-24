@@ -1,0 +1,23 @@
+{
+  "id": 32788,
+  "name": "Two Bird Parents!",
+  "generation": 10,
+  "created_at": "2017-12-02T22:01:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Two Bird Parents!. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "29940@9",
+  "sire": "31799@9",
+  "children": [
+    "59617@11",
+    "72350@11",
+    "251608@20",
+    "270865@13",
+    "285685@11",
+    "306744@12",
+    "362313@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 32388,
+  "name": "Collector's Edition! ★",
+  "generation": 9,
+  "created_at": "2017-12-02T21:12:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Collector's Edition! ★. I'm often referred to as the Ross Geller of the group. I was voted most likely to work at NASA in college. Can't wait to eat steak with you!",
+  "language": "en",
+  "matron": "25296@7",
+  "sire": "26717@8",
+  "children": [
+    "32768@10",
+    "34031@10",
+    "37872@10",
+    "57547@10",
+    "71445@12",
+    "145493@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

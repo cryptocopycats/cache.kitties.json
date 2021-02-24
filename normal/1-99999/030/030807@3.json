@@ -1,0 +1,25 @@
+{
+  "id": 30807,
+  "name": "Petro",
+  "generation": 3,
+  "created_at": "2017-12-02T17:47:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Petro. I'm a Spin Instructor  by day, and I like riverdancing by night. I once made a dolphin scare. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "30663@2",
+  "sire": "16592@2",
+  "children": [
+    "31133@4",
+    "31575@4",
+    "34193@4",
+    "35218@4",
+    "37160@4",
+    "37474@4",
+    "39615@4",
+    "52573@4",
+    "98100@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

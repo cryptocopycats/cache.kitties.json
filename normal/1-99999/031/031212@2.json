@@ -1,0 +1,26 @@
+{
+  "id": 31212,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T18:39:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen 2. I believe that one day cats will rule this planet. I put garlic butter on everything. Like, everything: hot dogs, ice cream—everything! Will you be the soy sauce to my ranch dressing?",
+  "language": "en",
+  "matron": "30022@1",
+  "sire": "29985@1",
+  "children": [
+    "31684@3",
+    "31843@3",
+    "32178@3",
+    "34985@3",
+    "36540@3",
+    "44297@3",
+    "49331@3",
+    "142740@3",
+    "154677@3",
+    "182122@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

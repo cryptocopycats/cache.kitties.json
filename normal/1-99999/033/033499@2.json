@@ -1,0 +1,24 @@
+{
+  "id": 33499,
+  "name": "G2 Cym +Gold parent",
+  "generation": 2,
+  "created_at": "2017-12-02T23:22:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm G2 Cym +Gold parent. My friends describe me as wondrous and voluptuous. I put maple syrup on everything. Like, everything: hot dogs, salad—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "30039@1",
+  "sire": "19916@1",
+  "children": [
+    "33619@3",
+    "42335@4",
+    "44121@4",
+    "47057@3",
+    "79087@3",
+    "80475@4",
+    "111872@4",
+    "189965@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

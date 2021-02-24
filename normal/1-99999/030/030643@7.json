@@ -1,0 +1,22 @@
+{
+  "id": 30643,
+  "name": "G7 Peach Scarlet",
+  "generation": 7,
+  "created_at": "2017-12-02T17:26:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm G7 Peach Scarlet. I enjoy fighting for the people, grooming, and chasing red dots. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30172@5",
+  "sire": "24991@6",
+  "children": [
+    "30806@9",
+    "31337@8",
+    "35979@8",
+    "36665@8",
+    "38017@8",
+    "68384@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

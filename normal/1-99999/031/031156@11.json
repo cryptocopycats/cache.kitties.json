@@ -1,0 +1,18 @@
+{
+  "id": 31156,
+  "name": "G11 Garfield-Catfield",
+  "generation": 11,
+  "created_at": "2017-12-02T18:33:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm G11 Garfield-Catfield. I'm a professional Mad Scientist and I love hamburgers. I put wasabi on everything. Like, everything: hot dogs, salad—everything! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "21698@1",
+  "sire": "28401@10",
+  "children": [
+    "54768@15",
+    "58584@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

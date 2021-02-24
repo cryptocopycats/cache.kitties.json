@@ -1,0 +1,18 @@
+{
+  "id": 29221,
+  "name": "Gen20 Slow",
+  "generation": 20,
+  "created_at": "2017-12-02T13:06:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Gen20 Slow. I've never told anyone this, but I once pranced with a dog. I once dreamed of being a Dogwalker. Now I can be found talking about how much I lift all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23947@1",
+  "sire": "29069@19",
+  "children": [
+    "43347@21",
+    "112937@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

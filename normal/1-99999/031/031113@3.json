@@ -1,0 +1,22 @@
+{
+  "id": 31113,
+  "name": "Scarlet Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T18:30:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Scarlet Gen 3. I'm a Dispensary Clerk by day, and I like running a podcast by night. I would give it all up to be on Oprah. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "30891@2",
+  "sire": "30993@2",
+  "children": [
+    "77293@6",
+    "81263@9",
+    "84157@8",
+    "168000@9",
+    "174794@9",
+    "179579@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

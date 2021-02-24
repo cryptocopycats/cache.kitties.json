@@ -1,0 +1,22 @@
+{
+  "id": 31662,
+  "name": "Catterpie",
+  "generation": 7,
+  "created_at": "2017-12-02T19:39:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Catterpie. My friends describe me as raunchy and hairy. Some people say I'm the Neville Longbottom of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "27399@3",
+  "sire": "31535@6",
+  "children": [
+    "32210@8",
+    "36518@10",
+    "39870@8",
+    "49398@8",
+    "52742@8",
+    "70254@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

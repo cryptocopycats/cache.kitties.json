@@ -1,0 +1,22 @@
+{
+  "id": 32611,
+  "name": "Gen 4 Mintgreen Sphynx",
+  "generation": 4,
+  "created_at": "2017-12-02T21:40:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen 4 Mintgreen Sphynx. My friends describe me as brilliant and fabulous. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "22560@3",
+  "sire": "29567@3",
+  "children": [
+    "33232@5",
+    "33458@8",
+    "34021@5",
+    "34176@7",
+    "36350@5",
+    "50781@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

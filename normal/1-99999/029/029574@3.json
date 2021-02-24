@@ -1,0 +1,25 @@
+{
+  "id": 29574,
+  "name": "Cymric",
+  "generation": 3,
+  "created_at": "2017-12-02T14:14:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Cymric. My friends describe me as wondrous and vegan. My friends describe me as \"annoying.\" It's... accurate. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "29103@2",
+  "sire": "23778@2",
+  "children": [
+    "29639@4",
+    "42224@4",
+    "43449@4",
+    "43775@4",
+    "49254@4",
+    "58860@4",
+    "69224@4",
+    "84510@4",
+    "1768102@7"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

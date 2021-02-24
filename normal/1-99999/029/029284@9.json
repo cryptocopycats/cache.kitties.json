@@ -1,0 +1,20 @@
+{
+  "id": 29284,
+  "name": "G9 | Pure BC",
+  "generation": 9,
+  "created_at": "2017-12-02T13:21:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm G9 | Pure BC. I'm often referred to as the Peter Griffin of the group. My great-great-great-great-great-great grandkitty lived with Confucius. I like your face.",
+  "language": "en",
+  "matron": "29029@7",
+  "sire": "29126@8",
+  "children": [
+    "29505@10",
+    "29907@10",
+    "31229@10",
+    "64182@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

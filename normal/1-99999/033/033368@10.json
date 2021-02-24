@@ -1,0 +1,18 @@
+{
+  "id": 33368,
+  "name": "Morgana",
+  "generation": 10,
+  "created_at": "2017-12-02T23:08:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Morgana. I believe the world is flat. In my free time, I can usually be found prickly or swiping right. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "32109@9",
+  "sire": "32777@9",
+  "children": [
+    "164776@11",
+    "195654@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

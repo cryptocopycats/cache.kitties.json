@@ -1,0 +1,19 @@
+{
+  "id": 33186,
+  "name": "Meowzzarella",
+  "generation": 12,
+  "created_at": "2017-12-02T22:43:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Meowzzarella. All you need to know about me is I hate hamburgers with a passion. I would give it all up for a Chanel purse. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "32619@11",
+  "sire": "32617@6",
+  "children": [
+    "33539@13",
+    "44256@20",
+    "70026@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

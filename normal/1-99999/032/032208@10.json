@@ -1,0 +1,18 @@
+{
+  "id": 32208,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-02T20:48:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #32208. In high school, I was voted biggest teacher's pet. I put ranch dressing on everything. Like, everything: hot dogs, lasagna—everything! Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "32052@7",
+  "sire": "31776@9",
+  "children": [
+    "33420@14",
+    "34037@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

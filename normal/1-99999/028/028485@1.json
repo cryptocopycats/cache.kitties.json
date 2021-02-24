@@ -1,0 +1,18 @@
+{
+  "id": 28485,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-12-02T10:36:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #28485. I enjoy reciting poetry, picking on mice, and chasing string. I am 48% gremlin, 32% Ventriloquist, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "19945@0",
+  "sire": "22902@0",
+  "children": [
+    "49193@11",
+    "198461@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

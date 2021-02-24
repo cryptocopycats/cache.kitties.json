@@ -1,0 +1,22 @@
+{
+  "id": 31891,
+  "name": "Wanda",
+  "generation": 11,
+  "created_at": "2017-12-02T20:09:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Wanda. All you need to know about me is I hate cereal with a passion. I once got in a fight with a moose, and won. Our friendship will be ridiculous, raunchy, and full of chocolate.",
+  "language": "en",
+  "matron": "29307@9",
+  "sire": "24781@10",
+  "children": [
+    "33063@12",
+    "34669@12",
+    "37198@14",
+    "40336@14",
+    "219767@13",
+    "283100@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

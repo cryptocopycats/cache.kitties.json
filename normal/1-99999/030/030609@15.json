@@ -1,0 +1,22 @@
+{
+  "id": 30609,
+  "name": "Dali Chestnut",
+  "generation": 15,
+  "created_at": "2017-12-02T17:20:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Dali Chestnut. I believe the world is flat. I am 34% gremlin, 44% Private Dancer , and otherwise bad at math. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "20560@14",
+  "sire": "22113@14",
+  "children": [
+    "82009@16",
+    "89926@16",
+    "107467@16",
+    "172541@16",
+    "185809@16",
+    "355867@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

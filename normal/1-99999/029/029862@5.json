@@ -1,0 +1,26 @@
+{
+  "id": 29862,
+  "name": "Purry",
+  "generation": 5,
+  "created_at": "2017-12-02T15:09:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Purry. My friends describe me as voluptuous and fabulous. In my free time, I can usually be found ridiculous or reading Danielle Steele. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "29814@3",
+  "sire": "23079@4",
+  "children": [
+    "31987@6",
+    "32146@6",
+    "32491@6",
+    "46211@6",
+    "54633@6",
+    "61353@6",
+    "76526@6",
+    "102275@6",
+    "138287@9",
+    "158836@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

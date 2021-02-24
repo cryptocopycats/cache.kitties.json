@@ -1,0 +1,20 @@
+{
+  "id": 28339,
+  "name": "Minty Salmon",
+  "generation": 14,
+  "created_at": "2017-12-02T10:09:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Minty Salmon. I believe the world is flat. I'm often described as tantalizing, and I own it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "25201@5",
+  "sire": "24575@13",
+  "children": [
+    "47699@15",
+    "51313@15",
+    "88791@19",
+    "256762@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

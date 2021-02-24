@@ -1,0 +1,20 @@
+{
+  "id": 29613,
+  "name": "slow gen17[ins]",
+  "generation": 17,
+  "created_at": "2017-12-02T14:21:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm slow gen17[ins]. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of riding unicorns, cantaloupe, and swiping left. Our friendship will be annoying, hairy, and full of cereal.",
+  "language": "en",
+  "matron": "26733@11",
+  "sire": "14535@16",
+  "children": [
+    "35192@18",
+    "46191@19",
+    "86629@19",
+    "353163@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 33652,
+  "name": "Benny",
+  "generation": 18,
+  "created_at": "2017-12-02T23:35:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Benny. I want to live in a world where people believe the world is flat. I was voted school jock in college. I like your face.",
+  "language": "en",
+  "matron": "24738@10",
+  "sire": "21576@17",
+  "children": [
+    "45154@19",
+    "69981@19",
+    "122665@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

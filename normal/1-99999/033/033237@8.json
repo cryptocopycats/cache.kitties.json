@@ -1,0 +1,21 @@
+{
+  "id": 33237,
+  "name": "Bandito",
+  "generation": 8,
+  "created_at": "2017-12-02T22:51:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Bandito. I'm a professional Aerobics Athlete  and I love lasagna. I was voted school jock in college. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "32977@4",
+  "sire": "33079@7",
+  "children": [
+    "34624@9",
+    "122001@9",
+    "148345@12",
+    "210225@9",
+    "487754@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

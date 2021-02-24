@@ -1,0 +1,17 @@
+{
+  "id": 31104,
+  "name": "Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T18:30:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! Gen 3 here. I'm here to enjoy sweating through my feet and tripping my owner. My friends describe me as \"smelly.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "21538@2",
+  "sire": "1201@0",
+  "children": [
+    "43844@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

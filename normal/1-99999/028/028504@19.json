@@ -1,0 +1,19 @@
+{
+  "id": 28504,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-02T10:41:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #28504. I'm a Mad Scientist by day, and I like volunteering at the local kitten rescue shelter by night. I once dreamed of being a Private Dancer . Now I can be found tricking babies all day. Let's pawty!",
+  "language": "en",
+  "matron": "12181@9",
+  "sire": "20097@18",
+  "children": [
+    "33810@20",
+    "72076@20",
+    "134570@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

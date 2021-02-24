@@ -1,0 +1,27 @@
+{
+  "id": 32802,
+  "name": "Saber",
+  "generation": 3,
+  "created_at": "2017-12-02T22:03:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Saber. In high school, I was voted school jock. I put marmite on everything. Like, everything: hot dogs, lasagna—everything! Can't wait to eat apple pie with you!",
+  "language": "en",
+  "matron": "11444@2",
+  "sire": "11463@1",
+  "children": [
+    "33979@4",
+    "34570@4",
+    "39335@4",
+    "93905@4",
+    "95505@4",
+    "221809@4",
+    "227398@4",
+    "237647@4",
+    "263740@4",
+    "290172@4",
+    "335193@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

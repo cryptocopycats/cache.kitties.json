@@ -1,0 +1,20 @@
+{
+  "id": 31166,
+  "name": "Hite",
+  "generation": 6,
+  "created_at": "2017-12-02T18:33:07.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! Hite here. I'm here to enjoy riding dirty and picking flowers. I like to listen to Coldplay while grooming. Don't judge me. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "27745@3",
+  "sire": "30729@5",
+  "children": [
+    "31672@7",
+    "32195@7",
+    "39367@7",
+    "50780@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

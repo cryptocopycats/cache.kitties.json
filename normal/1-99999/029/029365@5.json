@@ -1,0 +1,25 @@
+{
+  "id": 29365,
+  "name": "Bhaal",
+  "generation": 5,
+  "created_at": "2017-12-02T13:39:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Bhaal. I'm often referred to as the Frodo Baggins of the group. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "29319@4",
+  "sire": "26400@3",
+  "children": [
+    "58253@7",
+    "69621@6",
+    "74019@6",
+    "95237@6",
+    "97698@6",
+    "111866@6",
+    "115414@6",
+    "128334@6",
+    "151433@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

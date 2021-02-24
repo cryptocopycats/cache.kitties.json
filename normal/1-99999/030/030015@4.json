@@ -1,0 +1,19 @@
+{
+  "id": 30015,
+  "name": "Gen 4 Son of Tigers",
+  "generation": 4,
+  "created_at": "2017-12-02T15:34:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! My name's Gen 4 Son of Tigers. I once peed on King Henry VIII's cat. They had it coming. I'm often described as brilliant, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "29441@3",
+  "sire": "29638@3",
+  "children": [
+    "30237@5",
+    "30787@5",
+    "37476@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

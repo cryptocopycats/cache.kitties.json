@@ -1,0 +1,23 @@
+{
+  "id": 32692,
+  "name": "Gen 4 Chestnut Coffee",
+  "generation": 4,
+  "created_at": "2017-12-02T21:47:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Gen 4 Chestnut Coffee. I believe that one day cats will rule this planet. In my free time, I can usually be found tantalizing or people-watching. Our friendship will be fabulous, gorgeous, and full of cereal.",
+  "language": "en",
+  "matron": "31956@3",
+  "sire": "31680@3",
+  "children": [
+    "32978@5",
+    "33230@5",
+    "33380@8",
+    "35680@8",
+    "38821@16",
+    "52756@5",
+    "74921@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

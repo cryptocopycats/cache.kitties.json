@@ -1,0 +1,20 @@
+{
+  "id": 32380,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-02T21:10:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #32380. My friends describe me as prickly and petulant. Sometimes I daydream of a life full of staying woke, apple pie, and playing chess. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "15348@14",
+  "sire": "16554@16",
+  "children": [
+    "148475@18",
+    "183912@18",
+    "275020@18",
+    "328339@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 31309,
+  "name": "Vitalik",
+  "generation": 6,
+  "created_at": "2017-12-02T18:55:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Vitalik. My friends describe me as annoying and fabulous. I'm often described as stinky, and I own it. Let's get busy!",
+  "language": "en",
+  "matron": "31157@5",
+  "sire": "26778@2",
+  "children": [
+    "36537@12",
+    "46449@7",
+    "46678@7",
+    "149624@7",
+    "185864@7",
+    "202250@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

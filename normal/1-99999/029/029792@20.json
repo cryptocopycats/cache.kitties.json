@@ -1,0 +1,19 @@
+{
+  "id": 29792,
+  "name": "Eduardo",
+  "generation": 20,
+  "created_at": "2017-12-02T14:56:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Eduardo. I believe the world is flat. I put cinammon on everything. Like, everything: hot dogs, chocolate—everything! This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "15204@19",
+  "sire": "11035@10",
+  "children": [
+    "46205@21",
+    "97263@21",
+    "112965@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

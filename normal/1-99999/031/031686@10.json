@@ -1,0 +1,21 @@
+{
+  "id": 31686,
+  "name": "Gen 10 IDK",
+  "generation": 10,
+  "created_at": "2017-12-02T19:41:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Gen 10 IDK. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Confucius. I look forward to tricking babies with you.",
+  "language": "en",
+  "matron": "30808@9",
+  "sire": "17695@9",
+  "children": [
+    "36524@11",
+    "36972@11",
+    "40325@14",
+    "53805@12",
+    "73406@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

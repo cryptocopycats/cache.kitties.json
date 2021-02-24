@@ -1,0 +1,24 @@
+{
+  "id": 30660,
+  "name": "Gen5 - Henry",
+  "generation": 5,
+  "created_at": "2017-12-02T17:28:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Gen5 - Henry. I've never told anyone this, but I once headbutted a dog. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30544@4",
+  "sire": "30528@2",
+  "children": [
+    "31168@6",
+    "33725@6",
+    "43069@6",
+    "44330@6",
+    "50414@6",
+    "58678@6",
+    "69602@6",
+    "73531@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

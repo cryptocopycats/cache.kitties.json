@@ -1,0 +1,26 @@
+{
+  "id": 32814,
+  "name": "Gen 3 | Spock, Swift",
+  "generation": 3,
+  "created_at": "2017-12-02T22:05:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Gen 3 | Spock, Swift. I'm a professional Skydiving Instructor and I love wet food. It's not common knowledge, but my ancestry connects me to Cleopatra. Will you be the marmalade to my garlic butter?",
+  "language": "en",
+  "matron": "32315@1",
+  "sire": "32331@2",
+  "children": [
+    "33261@4",
+    "33271@6",
+    "33439@4",
+    "33792@4",
+    "34544@4",
+    "36010@6",
+    "38823@5",
+    "41023@4",
+    "68576@10",
+    "120457@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

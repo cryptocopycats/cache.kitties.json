@@ -1,0 +1,28 @@
+{
+  "id": 30890,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T17:57:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Gen 2. I'm a professional Foreign Film Director and I love apple pie. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "language": "en",
+  "matron": "30064@1",
+  "sire": "29868@1",
+  "children": [
+    "30984@3",
+    "31733@3",
+    "32178@3",
+    "32663@3",
+    "33635@3",
+    "46301@3",
+    "53536@3",
+    "58932@3",
+    "69240@3",
+    "140672@3",
+    "182011@3",
+    "271821@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

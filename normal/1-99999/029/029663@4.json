@@ -1,0 +1,20 @@
+{
+  "id": 29663,
+  "name": "Beard | Coffee | Gen 4 | Brisk",
+  "generation": 4,
+  "created_at": "2017-12-02T14:29:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Beard | Coffee | Gen 4 | Brisk. I believe that one day cats will rule this planet. I once got in a fight with a rooster, and won. Let's pawty!",
+  "language": "en",
+  "matron": "28037@3",
+  "sire": "23990@3",
+  "children": [
+    "42233@5",
+    "42830@5",
+    "43634@5",
+    "53675@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

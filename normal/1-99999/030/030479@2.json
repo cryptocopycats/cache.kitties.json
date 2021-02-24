@@ -1,0 +1,28 @@
+{
+  "id": 30479,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T16:50:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gen 2. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's pawty!",
+  "language": "en",
+  "matron": "30022@1",
+  "sire": "29918@1",
+  "children": [
+    "30949@3",
+    "31105@3",
+    "31749@3",
+    "32035@3",
+    "32260@3",
+    "34202@3",
+    "36704@3",
+    "44250@3",
+    "64942@3",
+    "87440@3",
+    "105089@3",
+    "148356@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

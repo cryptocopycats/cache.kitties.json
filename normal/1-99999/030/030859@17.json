@@ -1,0 +1,19 @@
+{
+  "id": 30859,
+  "name": "小白",
+  "generation": 17,
+  "created_at": "2017-12-02T17:52:37.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm 小白. I want to live in a world where people believe the world is flat. Some people say I'm the Lisa Simpson of the group. Let's get busy!",
+  "language": "en",
+  "matron": "22152@15",
+  "sire": "22881@16",
+  "children": [
+    "56681@19",
+    "72201@18",
+    "146074@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

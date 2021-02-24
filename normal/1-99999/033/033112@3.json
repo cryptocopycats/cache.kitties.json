@@ -1,0 +1,26 @@
+{
+  "id": 33112,
+  "name": "Gen 3 | Peach",
+  "generation": 3,
+  "created_at": "2017-12-02T22:36:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Gen 3 | Peach here. I'm here to enjoy fighting the patriarchy and eating lasagna. My secret indulgence is hamburgers. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "23911@1",
+  "sire": "28071@2",
+  "children": [
+    "70266@4",
+    "87114@4",
+    "87796@4",
+    "88736@4",
+    "90177@4",
+    "91823@4",
+    "107306@4",
+    "110931@4",
+    "197100@4",
+    "236511@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

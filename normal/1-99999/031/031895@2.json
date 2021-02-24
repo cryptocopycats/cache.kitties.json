@@ -1,0 +1,28 @@
+{
+  "id": 31895,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T20:09:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Gen 2. My friends describe me as ridiculous and stinky. I'm often described as smelly, and I own it. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "30673@1",
+  "sire": "31285@1",
+  "children": [
+    "32088@3",
+    "32157@3",
+    "32216@3",
+    "32636@3",
+    "33617@3",
+    "35376@3",
+    "38189@3",
+    "46390@3",
+    "64961@3",
+    "65640@3",
+    "115806@3",
+    "166925@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

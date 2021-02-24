@@ -1,0 +1,21 @@
+{
+  "id": 29120,
+  "name": "Peanut butter",
+  "generation": 8,
+  "created_at": "2017-12-02T12:42:12.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Peanut butter. I enjoy taking selfies, being a nevernude, and tricking babies. I was voted school jock in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "28724@7",
+  "sire": "28973@7",
+  "children": [
+    "29377@9",
+    "50504@9",
+    "111225@11",
+    "118355@9",
+    "162257@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

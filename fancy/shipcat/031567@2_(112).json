@@ -1,0 +1,32 @@
+{
+  "id": 31567,
+  "name": "💎 G2 Ultra Rare Fancy Breeder",
+  "generation": 2,
+  "created_at": "2017-12-02T19:30:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm 💎 G2 Ultra Rare Fancy Breeder. My friends describe me as fabulous and smelly. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "31284@1",
+  "sire": "31039@1",
+  "children": [
+    "31659@3",
+    "33303@7",
+    "36253@3",
+    "46372@3",
+    "46879@4",
+    "51219@3",
+    "54343@3",
+    "72936@3",
+    "497116@3",
+    "566988@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 112,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

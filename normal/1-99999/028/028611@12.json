@@ -1,0 +1,18 @@
+{
+  "id": 28611,
+  "name": "MauvePlod",
+  "generation": 12,
+  "created_at": "2017-12-02T10:57:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm MauvePlod. I'm a Skydiving Instructor by day, and I like mocking dogs by night. I like to listen to Aretha Franklin while grooming. Don't judge me. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "26130@5",
+  "sire": "26030@11",
+  "children": [
+    "29219@13",
+    "32813@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 29990,
+  "name": "Seis",
+  "generation": 6,
+  "created_at": "2017-12-02T15:33:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Seis. I want to live in a world where people believe the world is flat. I once dreamed of being a Ventriloquist. Now I can be found summoning ghosts all day. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "29235@5",
+  "sire": "29129@5",
+  "children": [
+    "30178@7",
+    "30599@16",
+    "31538@7",
+    "35986@7",
+    "40628@11",
+    "51452@15"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

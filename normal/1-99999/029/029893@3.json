@@ -1,0 +1,20 @@
+{
+  "id": 29893,
+  "name": "G3 | 29893 | Snappy",
+  "generation": 3,
+  "created_at": "2017-12-02T15:17:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm G3 | 29893 | Snappy. I've never told anyone this, but I once loved a dog. Some people say I'm the Bart Simpson of the group. Let's pawty!",
+  "language": "en",
+  "matron": "14736@1",
+  "sire": "15684@2",
+  "children": [
+    "29951@4",
+    "31673@4",
+    "44462@4",
+    "66395@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

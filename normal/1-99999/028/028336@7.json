@@ -1,0 +1,19 @@
+{
+  "id": 28336,
+  "name": "Pantha",
+  "generation": 7,
+  "created_at": "2017-12-02T10:09:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Pantha. I want to live in a world where people believe the world is flat. I once made a platypus dance. Let's get busy!",
+  "language": "en",
+  "matron": "28132@6",
+  "sire": "23717@6",
+  "children": [
+    "41291@8",
+    "41897@8",
+    "391851@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

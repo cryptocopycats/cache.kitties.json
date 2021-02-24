@@ -1,0 +1,19 @@
+{
+  "id": 33517,
+  "name": "Gen 4 Tygřice",
+  "generation": 4,
+  "created_at": "2017-12-02T23:22:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! My name's Gen 4 Tygřice. I once peed on Mother Theresa's cat. They had it coming. Sometimes I daydream of a life full of reading garfield, salad, and running a podcast. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "32078@3",
+  "sire": "33086@3",
+  "children": [
+    "34350@8",
+    "41716@6",
+    "42673@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

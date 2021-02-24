@@ -1,0 +1,19 @@
+{
+  "id": 30041,
+  "name": "Humtoo",
+  "generation": 15,
+  "created_at": "2017-12-02T15:40:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Humtoo. My friends describe me as gorgeous and stinky. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Will you be the peanut butter to my wasabi?",
+  "language": "en",
+  "matron": "26389@14",
+  "sire": "26349@10",
+  "children": [
+    "32763@18",
+    "55421@16",
+    "74044@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

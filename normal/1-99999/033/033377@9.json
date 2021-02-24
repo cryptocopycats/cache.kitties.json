@@ -1,0 +1,21 @@
+{
+  "id": 33377,
+  "name": "Caramel Swirl",
+  "generation": 9,
+  "created_at": "2017-12-02T23:08:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Caramel Swirl. In high school, I was voted school jock. I like to listen to Beyoncé while grooming. Don't judge me. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "24421@8",
+  "sire": "3239@6",
+  "children": [
+    "35703@20",
+    "38023@22",
+    "58578@11",
+    "65513@10",
+    "77373@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

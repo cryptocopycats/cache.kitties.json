@@ -1,0 +1,24 @@
+{
+  "id": 33379,
+  "name": "Tasmanian Devil",
+  "generation": 11,
+  "created_at": "2017-12-02T23:10:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Tasmanian Devil. I believe the world is flat. I once got in a fight with a labradoodle, and won. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "32681@4",
+  "sire": "32509@10",
+  "children": [
+    "38218@12",
+    "38602@17",
+    "44143@12",
+    "49426@12",
+    "66826@12",
+    "123255@12",
+    "143018@12",
+    "361748@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

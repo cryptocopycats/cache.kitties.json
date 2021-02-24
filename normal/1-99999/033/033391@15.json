@@ -1,0 +1,20 @@
+{
+  "id": 33391,
+  "name": "Dali",
+  "generation": 15,
+  "created_at": "2017-12-02T23:13:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Dali. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be petulant, despicable, and full of apple pie.",
+  "language": "en",
+  "matron": "29368@7",
+  "sire": "25538@14",
+  "children": [
+    "36000@16",
+    "41454@16",
+    "92221@16",
+    "109212@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

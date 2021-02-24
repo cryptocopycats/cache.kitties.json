@@ -1,0 +1,19 @@
+{
+  "id": 32230,
+  "name": "Gen 8 | Cloudwhite",
+  "generation": 8,
+  "created_at": "2017-12-02T20:50:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 8 | Cloudwhite. I believe the world is flat. I once got in a fight with a labradoodle, and won. Can you make my despicable dreams come true?",
+  "language": "en",
+  "matron": "26848@7",
+  "sire": "28016@7",
+  "children": [
+    "33520@9",
+    "34258@9",
+    "52722@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

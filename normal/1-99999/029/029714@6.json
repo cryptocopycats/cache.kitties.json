@@ -1,0 +1,20 @@
+{
+  "id": 29714,
+  "name": "Bald and Cold",
+  "generation": 6,
+  "created_at": "2017-12-02T14:39:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Bald and Cold. My friends describe me as despicable and fabulous. I once licked a goose. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "29453@5",
+  "sire": "29567@3",
+  "children": [
+    "31561@7",
+    "31869@7",
+    "34818@7",
+    "46602@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

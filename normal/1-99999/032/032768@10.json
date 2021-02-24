@@ -1,0 +1,22 @@
+{
+  "id": 32768,
+  "name": "G10 | Bloodred Spock | Plod",
+  "generation": 10,
+  "created_at": "2017-12-02T21:59:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G10 | Bloodred Spock | Plod. I'm often referred to as the Frodo Baggins of the group. I'm often described as gullible, and I own it. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "32388@9",
+  "sire": "32293@9",
+  "children": [
+    "35135@11",
+    "37388@11",
+    "74351@11",
+    "87109@11",
+    "171140@11",
+    "193346@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 33088,
+  "name": "Nancy the Fancy",
+  "generation": 6,
+  "created_at": "2017-12-02T22:31:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Nancy the Fancy. All you need to know about me is I hate salad with a passion. Some people say I'm the Neville Longbottom of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32456@5",
+  "sire": "31258@5",
+  "children": [
+    "33218@7",
+    "34783@11",
+    "35537@7",
+    "36496@7",
+    "46487@7",
+    "98948@7",
+    "139515@7",
+    "170795@7",
+    "239295@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 212,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

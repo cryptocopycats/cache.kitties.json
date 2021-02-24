@@ -1,0 +1,18 @@
+{
+  "id": 28997,
+  "name": "Gen2 Swift Peppermint",
+  "generation": 2,
+  "created_at": "2017-12-02T12:14:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Gen2 Swift Peppermint. I'm a professional Mad Scientist and I love steak. I once pranced with a dolphin. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "4008@1",
+  "sire": "4704@1",
+  "children": [
+    "59201@3",
+    "124259@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 30526,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-02T17:08:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #30526. I'm a Dogwalker by day, and I like swiping right by night. I once made a gecko pester. Will you be the marmite to my pickles?",
+  "language": "en",
+  "matron": "24325@18",
+  "sire": "19347@13",
+  "children": [
+    "40873@20",
+    "42769@20",
+    "114924@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

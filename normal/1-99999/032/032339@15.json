@@ -1,0 +1,19 @@
+{
+  "id": 32339,
+  "name": "Fury",
+  "generation": 15,
+  "created_at": "2017-12-02T21:05:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Fury. My friends describe me as preposterous and smelly. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "25715@10",
+  "sire": "20947@14",
+  "children": [
+    "73170@16",
+    "89212@17",
+    "194719@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

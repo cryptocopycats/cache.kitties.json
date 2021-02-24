@@ -1,0 +1,23 @@
+{
+  "id": 32718,
+  "name": "Fucky",
+  "generation": 15,
+  "created_at": "2017-12-02T21:51:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Fucky. I believe the world is flat. I once got in a fight with a moose, and won. Will you be the maple syrup to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32650@5",
+  "sire": "27116@14",
+  "children": [
+    "35066@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 203,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

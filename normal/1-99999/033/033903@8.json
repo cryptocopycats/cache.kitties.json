@@ -1,0 +1,21 @@
+{
+  "id": 33903,
+  "name": "Sir Michael Caine",
+  "generation": 8,
+  "created_at": "2017-12-03T00:04:03.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Sir Michael Caine. I once peed on Marie Antoinette's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "31274@4",
+  "sire": "31148@7",
+  "children": [
+    "35907@11",
+    "62958@13",
+    "64898@10",
+    "512759@9",
+    "514033@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

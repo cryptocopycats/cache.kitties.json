@@ -1,0 +1,20 @@
+{
+  "id": 32210,
+  "name": "Thunder",
+  "generation": 8,
+  "created_at": "2017-12-02T20:49:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Thunder here. I'm here to enjoy shakin' dat booty and chasing red dots. Some people say I'm the Steve Urkel of the group. Our friendship will be gullible, smelly, and full of wet food.",
+  "language": "en",
+  "matron": "31662@7",
+  "sire": "24872@6",
+  "children": [
+    "51008@10",
+    "51078@9",
+    "55254@9",
+    "70512@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

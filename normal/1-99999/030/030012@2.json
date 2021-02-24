@@ -1,0 +1,28 @@
+{
+  "id": 30012,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T15:34:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen 2. My friends describe me as prickly and annoying. I once made a dolphin ignore. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "29958@1",
+  "sire": "29985@1",
+  "children": [
+    "30055@3",
+    "30106@3",
+    "30491@3",
+    "30969@3",
+    "32321@3",
+    "33448@3",
+    "36737@3",
+    "49288@3",
+    "65011@3",
+    "123536@3",
+    "146676@3",
+    "240924@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

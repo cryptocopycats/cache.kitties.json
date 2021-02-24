@@ -1,0 +1,19 @@
+{
+  "id": 33880,
+  "name": "Birdie",
+  "generation": 10,
+  "created_at": "2017-12-02T23:59:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Birdie. My friends describe me as voluptuous and tantalizing. When no one's home, I invite my pals over and we listen to Metallica. I look forward to shakin' dat booty with you.",
+  "language": "en",
+  "matron": "32420@3",
+  "sire": "19501@9",
+  "children": [
+    "52274@11",
+    "69583@11",
+    "99910@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 32325,
+  "name": "oh_captain_my_captain",
+  "generation": 17,
+  "created_at": "2017-12-02T21:01:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's oh_captain_my_captain. I once peed on Cleopatra's cat. They had it coming. When I'm not running a podcast, I'm riding the bus! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "25629@16",
+  "sire": "20443@16",
+  "children": [
+    "37236@18",
+    "59030@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 116,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

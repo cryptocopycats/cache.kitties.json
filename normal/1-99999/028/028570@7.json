@@ -1,0 +1,23 @@
+{
+  "id": 28570,
+  "name": "Beetleburst",
+  "generation": 7,
+  "created_at": "2017-12-02T10:49:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Beetleburst. I'm a Dogwalker by day, and I like tricking babies by night. I like to listen to Frank Sinatra while grooming. Don't judge me. Let's get busy!",
+  "language": "en",
+  "matron": "28360@6",
+  "sire": "23809@6",
+  "children": [
+    "30221@9",
+    "38214@14",
+    "39668@9",
+    "45307@13",
+    "58955@10",
+    "88366@8",
+    "90369@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

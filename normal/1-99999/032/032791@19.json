@@ -1,0 +1,18 @@
+{
+  "id": 32791,
+  "name": "Turk",
+  "generation": 19,
+  "created_at": "2017-12-02T22:03:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Turk. My friends describe me as petulant and raunchy. In my free time, I can usually be found fabulous or playing chess. Will you be the ghost pepper hot sauce to my wasabi?",
+  "language": "en",
+  "matron": "2723@0",
+  "sire": "21930@18",
+  "children": [
+    "43360@20",
+    "123701@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

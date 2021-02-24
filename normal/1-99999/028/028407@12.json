@@ -1,0 +1,20 @@
+{
+  "id": 28407,
+  "name": "Pickles",
+  "generation": 12,
+  "created_at": "2017-12-02T10:20:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Pickles. In high school, I was voted biggest teacher's pet. I put pickles on everything. Like, everything: hot dogs, hamburgers—everything! Will you be the ranch dressing to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "26687@11",
+  "sire": "17051@11",
+  "children": [
+    "32745@13",
+    "37099@13",
+    "44222@15",
+    "59569@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

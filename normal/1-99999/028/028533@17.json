@@ -1,0 +1,19 @@
+{
+  "id": 28533,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-02T10:44:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #28533. My friends describe me as vegan and wondrous. I'm convinced that the world is flat. One day I'll prove it. Will you be the marmite to my cinammon?",
+  "language": "en",
+  "matron": "23493@12",
+  "sire": "23737@16",
+  "children": [
+    "33108@18",
+    "44205@23",
+    "72840@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

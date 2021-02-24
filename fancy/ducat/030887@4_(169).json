@@ -1,0 +1,29 @@
+{
+  "id": 30887,
+  "name": "G4 Bird | mix",
+  "generation": 4,
+  "created_at": "2017-12-02T17:57:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! G4 Bird | mix here. I'm here to enjoy licking doorknobs and taking selfies. I was voted biggest teacher's pet in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24759@3",
+  "sire": "30484@3",
+  "children": [
+    "31163@5",
+    "31651@5",
+    "32834@5",
+    "34951@5",
+    "37933@5",
+    "268548@5",
+    "447852@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 169,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

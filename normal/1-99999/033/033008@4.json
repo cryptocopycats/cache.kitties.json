@@ -1,0 +1,21 @@
+{
+  "id": 33008,
+  "name": "Gen4 | Swift | Virigin",
+  "generation": 4,
+  "created_at": "2017-12-02T22:21:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen4 | Swift | Virigin. I'm a professional Dogwalker and I love apple pie. I once made a goose kiss. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "23695@1",
+  "sire": "27811@3",
+  "children": [
+    "94230@5",
+    "97385@5",
+    "108368@5",
+    "115658@10",
+    "162807@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

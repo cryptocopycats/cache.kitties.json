@@ -1,0 +1,25 @@
+{
+  "id": 31799,
+  "name": "G9 Bird",
+  "generation": 9,
+  "created_at": "2017-12-02T19:56:24.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm G9 Bird. I've never told anyone this, but I once tricked a dog. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28691@8",
+  "sire": "31474@8",
+  "children": [
+    "32731@10",
+    "32788@10",
+    "35523@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 190,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

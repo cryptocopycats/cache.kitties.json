@@ -1,0 +1,26 @@
+{
+  "id": 30953,
+  "name": "Gray Emerald Tiger 10",
+  "generation": 10,
+  "created_at": "2017-12-02T18:08:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Gray Emerald Tiger 10. I'm a Mad Scientist by day, and I like swiping right by night. Some people say I'm the Cersei Lannister of the group. Let's pawty!",
+  "language": "en",
+  "matron": "29349@9",
+  "sire": "29817@8",
+  "children": [
+    "31209@11",
+    "32427@11",
+    "34029@12",
+    "40633@15",
+    "46477@13",
+    "79768@11",
+    "140088@20",
+    "267383@15",
+    "387726@21",
+    "457615@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

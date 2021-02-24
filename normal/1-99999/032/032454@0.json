@@ -1,0 +1,31 @@
+{
+  "id": 32454,
+  "name": "1B",
+  "generation": 0,
+  "created_at": "2017-12-02T21:21:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm 1B. All you need to know about me is I hate salad with a passion. I once licked a platypus. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "34636@9",
+    "34809@8",
+    "40858@9",
+    "68975@1",
+    "93881@1",
+    "95857@1",
+    "100059@1",
+    "111383@1",
+    "119314@1",
+    "142193@1",
+    "176589@1",
+    "238876@1",
+    "324740@1",
+    "389812@1",
+    "692768@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 28878,
+  "name": "Mellow Yellow",
+  "generation": 16,
+  "created_at": "2017-12-02T11:57:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Mellow Yellow. I enjoy tricking babies, sitting on your computer, and fighting the patriarchy. It's not common knowledge, but my ancestry connects me to Cleopatra. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "10254@11",
+  "sire": "14489@15",
+  "children": [
+    "74520@17",
+    "92452@18",
+    "120932@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

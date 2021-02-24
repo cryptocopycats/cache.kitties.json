@@ -1,0 +1,18 @@
+{
+  "id": 30958,
+  "name": "Gen 10 Brisk! Breed Faster!",
+  "generation": 10,
+  "created_at": "2017-12-02T18:08:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 10 Brisk! Breed Faster!. I'm a professional Mad Scientist and I love steak. I once frolicked with a chimpanzee. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30350@8",
+  "sire": "29573@9",
+  "children": [
+    "31534@11",
+    "37105@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

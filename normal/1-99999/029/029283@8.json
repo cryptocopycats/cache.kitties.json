@@ -1,0 +1,21 @@
+{
+  "id": 29283,
+  "name": "Green Dash",
+  "generation": 8,
+  "created_at": "2017-12-02T13:21:35.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Green Dash. I once peed on Amelia Earhart's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "24549@7",
+  "sire": "16398@5",
+  "children": [
+    "29653@10",
+    "31537@11",
+    "43271@9",
+    "75442@14",
+    "79138@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 30748,
+  "name": "Ecstacy",
+  "generation": 10,
+  "created_at": "2017-12-02T17:37:18.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Ecstacy. All you need to know about me is I hate wet food with a passion. It's not common knowledge, but my ancestry connects me to Mother Theresa. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "28329@7",
+  "sire": "28278@9",
+  "children": [
+    "31143@11",
+    "46285@11",
+    "68196@14",
+    "106708@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

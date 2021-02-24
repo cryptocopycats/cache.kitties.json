@@ -1,0 +1,18 @@
+{
+  "id": 32957,
+  "name": "PoetryCat",
+  "generation": 22,
+  "created_at": "2017-12-02T22:16:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm PoetryCat. I'm often referred to as the Hermione Granger of the group. Sometimes I daydream of a life full of reciting poetry, cantaloupe, and reading Danielle Steele. Let's get busy!",
+  "language": "en",
+  "matron": "7837@9",
+  "sire": "27182@21",
+  "children": [
+    "77250@23",
+    "79336@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

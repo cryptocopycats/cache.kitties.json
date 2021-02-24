@@ -1,0 +1,23 @@
+{
+  "id": 29149,
+  "name": "Tiny Tina",
+  "generation": 10,
+  "created_at": "2017-12-02T12:49:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's Tiny Tina. I once peed on Confucius's cat. They had it coming. My friends describe me as \"stinky.\" It's... accurate. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "28938@9",
+  "sire": "28471@9",
+  "children": [
+    "29477@11",
+    "30240@11",
+    "32003@11",
+    "37219@15",
+    "53665@12",
+    "88222@17",
+    "176458@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

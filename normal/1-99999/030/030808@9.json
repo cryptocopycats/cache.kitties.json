@@ -1,0 +1,24 @@
+{
+  "id": 30808,
+  "name": "Garfunkle | G9",
+  "generation": 9,
+  "created_at": "2017-12-02T17:47:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Garfunkle | G9. I'm a professional Dogwalker and I love chocolate. I once got in a fight with a gecko, and won. I hope we can be smelly friends.",
+  "language": "en",
+  "matron": "30688@7",
+  "sire": "30367@8",
+  "children": [
+    "31686@10",
+    "35828@10",
+    "37229@10",
+    "40323@12",
+    "53936@13",
+    "75377@14",
+    "117465@10",
+    "131941@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

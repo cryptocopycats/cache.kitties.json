@@ -1,0 +1,21 @@
+{
+  "id": 32654,
+  "name": "G4 TigerPunk Cymric",
+  "generation": 4,
+  "created_at": "2017-12-02T21:43:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm G4 TigerPunk Cymric. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as voluptuous, and I own it. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "32217@3",
+  "sire": "31909@3",
+  "children": [
+    "48654@5",
+    "52432@5",
+    "57722@5",
+    "68267@5",
+    "199864@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

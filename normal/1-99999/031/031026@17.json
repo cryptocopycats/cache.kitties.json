@@ -1,0 +1,19 @@
+{
+  "id": 31026,
+  "name": "Rare Limegreen!",
+  "generation": 17,
+  "created_at": "2017-12-02T18:15:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Rare Limegreen!. I've never told anyone this, but I once headbutted a dog. Some people say I'm the Homer Simpson of the group. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "14582@16",
+  "sire": "10165@14",
+  "children": [
+    "76965@18",
+    "95282@18",
+    "120434@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

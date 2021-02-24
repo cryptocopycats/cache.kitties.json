@@ -1,0 +1,30 @@
+{
+  "id": 32668,
+  "name": "Bird | Fancy Bird Genes",
+  "generation": 7,
+  "created_at": "2017-12-02T21:45:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Bird | Fancy Bird Genes. All you need to know about me is I hate chocolate with a passion. I was voted most likely to work at NASA in college. Will you be the wasabi to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32065@6",
+  "sire": "24724@6",
+  "children": [
+    "32816@9",
+    "43810@8",
+    "47999@8",
+    "58228@8",
+    "83240@8",
+    "171612@8",
+    "208201@8",
+    "271556@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 202,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

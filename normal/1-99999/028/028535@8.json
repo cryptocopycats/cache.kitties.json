@@ -1,0 +1,18 @@
+{
+  "id": 28535,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-02T10:44:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #28535. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "28152@1",
+  "sire": "28252@7",
+  "children": [
+    "30408@9",
+    "54377@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

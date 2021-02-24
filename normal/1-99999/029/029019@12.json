@@ -1,0 +1,22 @@
+{
+  "id": 29019,
+  "name": "Kitty Perry",
+  "generation": 12,
+  "created_at": "2017-12-02T12:19:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Kitty Perry. I enjoy fighting for the people, riding dirty, and tricking babies. I once got in a fight with a dog, and won. Will you be the soy sauce to my maple syrup?",
+  "language": "en",
+  "matron": "26398@4",
+  "sire": "27404@11",
+  "children": [
+    "45196@13",
+    "46824@14",
+    "52219@13",
+    "95399@20",
+    "120740@13",
+    "171529@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

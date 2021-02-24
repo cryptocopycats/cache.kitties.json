@@ -1,0 +1,19 @@
+{
+  "id": 33411,
+  "name": "Gen10 Plodding",
+  "generation": 10,
+  "created_at": "2017-12-02T23:13:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen10 Plodding. I'm often referred to as the Dwight Schrute of the group. When no one's home, I invite my pals over and we listen to Justin Bieber. Let's get busy!",
+  "language": "en",
+  "matron": "29615@8",
+  "sire": "29589@9",
+  "children": [
+    "41669@11",
+    "43344@12",
+    "64553@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

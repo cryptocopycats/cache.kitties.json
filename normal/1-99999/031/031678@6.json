@@ -1,0 +1,23 @@
+{
+  "id": 31678,
+  "name": "Spock Chocolate",
+  "generation": 6,
+  "created_at": "2017-12-02T19:41:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Spock Chocolate. All you need to know about me is I hate salad with a passion. I once got in a fight with a dog, and won. I hope we can be wondrous friends.",
+  "language": "en",
+  "matron": "24641@0",
+  "sire": "25632@5",
+  "children": [
+    "32213@20",
+    "33702@7",
+    "37520@12",
+    "49366@16",
+    "91166@9",
+    "180619@9",
+    "217981@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

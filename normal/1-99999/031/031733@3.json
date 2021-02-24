@@ -1,0 +1,19 @@
+{
+  "id": 31733,
+  "name": "Chartreux Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T19:45:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Chartreux Gen 3. I'm a Dispensary Clerk by day, and I like pole dancing by night. I am 61% gremlin, 18% Mad Scientist, and otherwise bad at math. Let's pawty!",
+  "language": "en",
+  "matron": "30890@2",
+  "sire": "31660@2",
+  "children": [
+    "107385@6",
+    "107655@6",
+    "150877@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

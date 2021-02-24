@@ -1,0 +1,21 @@
+{
+  "id": 33084,
+  "name": "El Moustachio",
+  "generation": 17,
+  "created_at": "2017-12-02T22:31:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm El Moustachio. I'm a Mad Scientist by day, and I like pole dancing by night. I am 78% fairy, 7% Culinary Sanitation Specialist, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30832@14",
+  "sire": "30973@16",
+  "children": [
+    "37882@18",
+    "54571@18",
+    "75082@18",
+    "235816@18",
+    "328409@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

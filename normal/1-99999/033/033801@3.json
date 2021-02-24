@@ -1,0 +1,26 @@
+{
+  "id": 33801,
+  "name": "gold 3",
+  "generation": 3,
+  "created_at": "2017-12-02T23:49:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm gold 3. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "22724@2",
+  "sire": "29812@2",
+  "children": [
+    "35318@4",
+    "35992@5",
+    "37408@14",
+    "37904@14",
+    "39233@17",
+    "66446@4",
+    "68238@4",
+    "77766@4",
+    "139991@4",
+    "183005@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

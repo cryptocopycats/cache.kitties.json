@@ -1,0 +1,23 @@
+{
+  "id": 32513,
+  "name": "Gen 7 Mustache",
+  "generation": 7,
+  "created_at": "2017-12-02T21:28:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! Gen 7 Mustache here. I'm here to enjoy licking doorknobs and eating until I loathe myself. I was voted biggest teacher's pet in college. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "32340@6",
+  "sire": "30750@5",
+  "children": [
+    "32632@8",
+    "32918@8",
+    "33578@8",
+    "33999@8",
+    "35948@9",
+    "49421@9",
+    "81677@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

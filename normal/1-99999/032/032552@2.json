@@ -1,0 +1,27 @@
+{
+  "id": 32552,
+  "name": "Tuek (Gen 2)",
+  "generation": 2,
+  "created_at": "2017-12-02T21:34:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Tuek (Gen 2). I enjoy licking doorknobs, spinning sick beats, and slappin' da bass. Some people say I'm the Michael Scott of the group. I hope we can be gorgeous friends.",
+  "language": "en",
+  "matron": "26507@1",
+  "sire": "2335@0",
+  "children": [
+    "36186@3",
+    "38510@3",
+    "39835@3",
+    "49092@20",
+    "50674@13",
+    "52159@3",
+    "57661@3",
+    "59201@3",
+    "92927@3",
+    "122301@3",
+    "169553@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

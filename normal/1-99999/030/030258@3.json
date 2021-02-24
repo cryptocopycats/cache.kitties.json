@@ -1,0 +1,17 @@
+{
+  "id": 30258,
+  "name": "Gen 3 AquaCat",
+  "generation": 3,
+  "created_at": "2017-12-02T16:17:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 3 AquaCat. I'm a professional Mad Scientist and I love wet food. It's not common knowledge, but my ancestry connects me to Mother Theresa. Our friendship will be smelly, stinky, and full of ice cream.",
+  "language": "en",
+  "matron": "25481@2",
+  "sire": "23651@2",
+  "children": [
+    "30362@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

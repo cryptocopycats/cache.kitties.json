@@ -1,0 +1,19 @@
+{
+  "id": 32775,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-02T21:59:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #32775. I believe the world is flat. I am 61% oracle, 48% Spin Instructor , and otherwise bad at math. Our friendship will be gullible, preposterous, and full of lasagna.",
+  "language": "en",
+  "matron": "20342@18",
+  "sire": "14220@16",
+  "children": [
+    "43130@20",
+    "61521@20",
+    "93705@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

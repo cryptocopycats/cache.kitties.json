@@ -1,0 +1,21 @@
+{
+  "id": 30165,
+  "name": "G10 Slow Emerald",
+  "generation": 10,
+  "created_at": "2017-12-02T16:00:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm G10 Slow Emerald. I'm often referred to as the Homer Simpson of the group. I once got in a fight with a rooster, and won. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "28207@6",
+  "sire": "29483@9",
+  "children": [
+    "30591@11",
+    "31880@11",
+    "33990@11",
+    "46245@12",
+    "67180@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 32705,
+  "name": "Jaguar Gene // Breed // G16",
+  "generation": 16,
+  "created_at": "2017-12-02T21:50:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Jaguar Gene // Breed // G16. I've never told anyone this, but I once snuggled a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "15706@3",
+  "sire": "29013@15",
+  "children": [
+    "40140@17",
+    "52920@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

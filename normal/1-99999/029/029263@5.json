@@ -1,0 +1,22 @@
+{
+  "id": 29263,
+  "name": "Lemon Green",
+  "generation": 5,
+  "created_at": "2017-12-02T13:19:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Lemon Green. I'm a Private Dancer  by day, and I like watching reality tv by night. I'm convinced that the world is flat. One day I'll prove it. I hope we can be despicable friends.",
+  "language": "en",
+  "matron": "29187@4",
+  "sire": "29189@4",
+  "children": [
+    "46170@6",
+    "51806@6",
+    "53021@7",
+    "54063@6",
+    "58445@8",
+    "137542@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

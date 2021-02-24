@@ -1,0 +1,28 @@
+{
+  "id": 30521,
+  "name": "Gen 0 Gold Mountain",
+  "generation": 0,
+  "created_at": "2017-12-02T17:01:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! Gen 0 Gold Mountain here. I'm here to enjoy grooming and eating until I loathe myself. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "32147@1",
+    "34090@1",
+    "34331@20",
+    "34510@15",
+    "34851@1",
+    "34942@4",
+    "40596@1",
+    "100221@1",
+    "134673@1",
+    "148959@1",
+    "180878@1",
+    "507258@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 33596,
+  "name": "Mushroom",
+  "generation": 11,
+  "created_at": "2017-12-02T23:30:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Mushroom. I've never told anyone this, but I once headbutted a dog. My friends describe me as \"brilliant.\" It's... accurate. Can you make my brilliant dreams come true?",
+  "language": "en",
+  "matron": "31430@7",
+  "sire": "6368@10",
+  "children": [
+    "34222@12",
+    "44698@13",
+    "50305@13",
+    "52907@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

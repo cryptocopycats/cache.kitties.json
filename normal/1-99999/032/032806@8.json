@@ -1,0 +1,23 @@
+{
+  "id": 32806,
+  "name": "Snowe",
+  "generation": 8,
+  "created_at": "2017-12-02T22:03:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Snowe. I'm a professional Ventriloquist and I love wet food. I'm often described as voluptuous, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29341@7",
+  "sire": "32262@7",
+  "children": [
+    "42257@9",
+    "43779@9",
+    "48780@9",
+    "55944@9",
+    "75826@13",
+    "169480@19",
+    "205272@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 33199,
+  "name": "Pennywise",
+  "generation": 17,
+  "created_at": "2017-12-02T22:46:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Pennywise. All you need to know about me is I hate cereal with a passion. I once got in a fight with a rabbit, and won. Will you be the soy sauce to my cinammon?",
+  "language": "en",
+  "matron": "26396@5",
+  "sire": "28304@16",
+  "children": [
+    "38323@18",
+    "56485@18",
+    "133643@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

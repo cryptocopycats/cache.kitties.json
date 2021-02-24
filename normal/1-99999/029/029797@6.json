@@ -1,0 +1,25 @@
+{
+  "id": 29797,
+  "name": "Evil",
+  "generation": 6,
+  "created_at": "2017-12-02T15:00:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Evil. I'm often referred to as the Hermione Granger of the group. I put peanut butter on everything. Like, everything: hot dogs, salad—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "24396@5",
+  "sire": "24927@5",
+  "children": [
+    "37992@13",
+    "38834@10",
+    "46887@7",
+    "51058@7",
+    "53358@7",
+    "57647@8",
+    "79700@7",
+    "103532@8",
+    "123056@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

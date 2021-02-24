@@ -1,0 +1,22 @@
+{
+  "id": 28340,
+  "name": "Rita",
+  "generation": 10,
+  "created_at": "2017-12-02T10:09:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Rita. All you need to know about me is I hate apple pie with a passion. I once made a rabbit trot. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "13918@5",
+  "sire": "13878@9",
+  "children": [
+    "28669@11",
+    "30802@11",
+    "42709@14",
+    "49187@14",
+    "69449@11",
+    "96230@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

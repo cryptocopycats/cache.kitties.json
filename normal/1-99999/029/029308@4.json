@@ -1,0 +1,27 @@
+{
+  "id": 29308,
+  "name": "G4 Gold Slow",
+  "generation": 4,
+  "created_at": "2017-12-02T13:27:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm G4 Gold Slow. I'm a professional Train Conductor and I love cantaloupe. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I like your face.",
+  "language": "en",
+  "matron": "27377@3",
+  "sire": "27089@2",
+  "children": [
+    "29355@5",
+    "44384@6",
+    "44769@5",
+    "45420@5",
+    "48399@5",
+    "55297@5",
+    "75235@5",
+    "90980@5",
+    "123946@5",
+    "143168@5",
+    "1170680@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

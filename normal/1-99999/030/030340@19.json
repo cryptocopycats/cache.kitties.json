@@ -1,0 +1,20 @@
+{
+  "id": 30340,
+  "name": "Jeff",
+  "generation": 19,
+  "created_at": "2017-12-02T16:30:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Jeff. In high school, I was voted school jock. Sometimes I daydream of a life full of spinning sick beats, cantaloupe, and sleeping in fresh laundry. Will you be the garlic butter to my maple syrup?",
+  "language": "en",
+  "matron": "17878@18",
+  "sire": "20347@15",
+  "children": [
+    "41122@20",
+    "1151595@20",
+    "1187459@22",
+    "1517669@22"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 29028,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-02T12:19:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #29028. My friends describe me as petulant and hairy. When no one's home, I invite my pals over and we listen to Metallica. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "5826@1",
+  "sire": "5520@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 107,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

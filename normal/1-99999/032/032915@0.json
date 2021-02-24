@@ -1,0 +1,29 @@
+{
+  "id": 32915,
+  "name": "Bunny",
+  "generation": 0,
+  "created_at": "2017-12-02T22:15:48.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Bunny. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of riding dirty, apple pie, and people-watching. Let's get busy!",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "103474@1",
+    "103513@1",
+    "103647@1",
+    "103867@1",
+    "104807@1",
+    "112596@1",
+    "121907@1",
+    "135921@1",
+    "151575@1",
+    "176534@1",
+    "221604@1",
+    "278382@1",
+    "382089@1"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

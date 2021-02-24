@@ -1,0 +1,22 @@
+{
+  "id": 32997,
+  "name": "Ruby",
+  "generation": 8,
+  "created_at": "2017-12-02T22:20:44.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Ruby. All you need to know about me is I hate cantaloupe with a passion. I once headbutted a rabbit. I don't like to talk about it. I like your face.",
+  "language": "en",
+  "matron": "30594@7",
+  "sire": "29983@7",
+  "children": [
+    "41256@9",
+    "43339@11",
+    "62561@9",
+    "70317@9",
+    "96459@9",
+    "1586563@11"
+  ],
+  "hatched": true,
+  "wrapped": true
+}

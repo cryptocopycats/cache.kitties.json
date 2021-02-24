@@ -1,0 +1,21 @@
+{
+  "id": 32821,
+  "name": "Gen 12",
+  "generation": 12,
+  "created_at": "2017-12-02T22:05:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 12. I've never told anyone this, but I once frolicked with a dog. I once got in a fight with a rooster, and won. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "27421@5",
+  "sire": "32540@11",
+  "children": [
+    "34146@15",
+    "37223@15",
+    "64678@15",
+    "111163@13",
+    "212961@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

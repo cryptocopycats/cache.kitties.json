@@ -1,0 +1,25 @@
+{
+  "id": 30508,
+  "name": "Mr. Wigglebutt",
+  "generation": 2,
+  "created_at": "2017-12-02T16:58:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Mr. Wigglebutt. All you need to know about me is I hate wet food with a passion. When no one's home, I invite my pals over and we listen to Justin Bieber. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "29857@1",
+  "sire": "2235@0",
+  "children": [
+    "30556@3",
+    "30647@3",
+    "37211@3",
+    "38002@3",
+    "38881@3",
+    "46263@3",
+    "61455@3",
+    "65739@3",
+    "89457@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

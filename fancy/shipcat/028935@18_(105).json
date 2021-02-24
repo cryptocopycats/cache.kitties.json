@@ -1,0 +1,24 @@
+{
+  "id": 28935,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-02T12:03:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! My name's Kitty #28935. I once peed on John F. Kennedy Jr.'s cat. They had it coming. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "15290@15",
+  "sire": "22199@17",
+  "children": [
+    "40286@19",
+    "411249@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 105,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 30189,
+  "name": "Gen3 peach-mau-cymric",
+  "generation": 3,
+  "created_at": "2017-12-02T16:01:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Gen3 peach-mau-cymric. I enjoy chasing red dots, glaring at the neighbour's cat, and staying woke. I once dreamed of being a Skydiving Instructor. Now I can be found tricking babies all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30037@2",
+  "sire": "29922@2",
+  "children": [
+    "30274@4",
+    "30333@4",
+    "30961@4",
+    "36623@4",
+    "39652@4",
+    "80963@4",
+    "115572@4",
+    "398561@4",
+    "411892@4",
+    "425421@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

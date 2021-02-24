@@ -1,0 +1,18 @@
+{
+  "id": 31544,
+  "name": "gen6 snappy",
+  "generation": 6,
+  "created_at": "2017-12-02T19:29:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm gen6 snappy. I'm often referred to as the Lisa Simpson of the group. I once cleaned a rooster. I don't like to talk about it. Our friendship will be brilliant, tantalizing, and full of hamburgers.",
+  "language": "en",
+  "matron": "31248@3",
+  "sire": "31157@5",
+  "children": [
+    "46370@7",
+    "53498@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 31539,
+  "name": "Mr. Meow",
+  "generation": 6,
+  "created_at": "2017-12-02T19:29:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Mr. Meow. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of taking selfies, salad, and riverdancing. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "30172@5",
+  "sire": "26340@5",
+  "children": [
+    "49344@7",
+    "52900@7",
+    "56727@7",
+    "62668@7",
+    "70467@7",
+    "80020@7",
+    "100956@7",
+    "212384@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

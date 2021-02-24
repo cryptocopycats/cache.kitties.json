@@ -1,0 +1,18 @@
+{
+  "id": 29979,
+  "name": "G8",
+  "generation": 8,
+  "created_at": "2017-12-02T15:29:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm G8. My friends describe me as despicable and wondrous. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "28035@7",
+  "sire": "19963@7",
+  "children": [
+    "30349@9",
+    "32007@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

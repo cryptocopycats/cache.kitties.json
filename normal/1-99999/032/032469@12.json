@@ -1,0 +1,20 @@
+{
+  "id": 32469,
+  "name": "Scarlet brisk",
+  "generation": 12,
+  "created_at": "2017-12-02T21:22:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Scarlet brisk. I believe the world is flat. I once made a moose lay. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "27096@3",
+  "sire": "30732@11",
+  "children": [
+    "49163@13",
+    "54682@13",
+    "63721@21",
+    "89247@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

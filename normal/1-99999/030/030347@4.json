@@ -1,0 +1,24 @@
+{
+  "id": 30347,
+  "name": "CYRMIC DUCK G4",
+  "generation": 4,
+  "created_at": "2017-12-02T16:31:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm CYRMIC DUCK G4. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I look forward to licking doorknobs with you.",
+  "language": "en",
+  "matron": "29989@3",
+  "sire": "30288@3",
+  "children": [
+    "30507@5",
+    "30746@5",
+    "44074@5",
+    "55043@5",
+    "67194@6",
+    "73854@6",
+    "86358@6",
+    "111681@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

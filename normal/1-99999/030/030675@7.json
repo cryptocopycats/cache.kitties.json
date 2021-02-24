@@ -1,0 +1,20 @@
+{
+  "id": 30675,
+  "name": "G7 | Spock",
+  "generation": 7,
+  "created_at": "2017-12-02T17:30:12.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm G7 | Spock. I enjoy watching Stranger Things, taking selfies, and grooming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "30253@6",
+  "sire": "30432@6",
+  "children": [
+    "30918@8",
+    "31728@8",
+    "33031@8",
+    "37508@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

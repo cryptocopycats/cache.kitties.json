@@ -1,0 +1,26 @@
+{
+  "id": 31370,
+  "name": "Bloodred Gold",
+  "generation": 4,
+  "created_at": "2017-12-02T19:01:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Bloodred Gold. I believe the world is flat. I am 60% wizard, 44% Dogwalker, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "31305@3",
+  "sire": "31282@3",
+  "children": [
+    "37048@6",
+    "37681@5",
+    "37809@5",
+    "38633@5",
+    "44950@5",
+    "47583@12",
+    "55671@14",
+    "89686@5",
+    "185309@5",
+    "228340@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

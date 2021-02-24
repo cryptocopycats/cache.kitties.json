@@ -1,0 +1,18 @@
+{
+  "id": 30132,
+  "name": "Gen 18",
+  "generation": 18,
+  "created_at": "2017-12-02T15:54:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! Gen 18 here. I'm here to enjoy grooming and fighting the patriarchy. I like to listen to Coldplay while grooming. Don't judge me. Will you be the maple syrup to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "8799@17",
+  "sire": "17842@0",
+  "children": [
+    "59452@19",
+    "113276@25"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

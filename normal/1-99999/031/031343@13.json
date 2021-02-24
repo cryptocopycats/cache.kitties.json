@@ -1,0 +1,22 @@
+{
+  "id": 31343,
+  "name": "Ruby",
+  "generation": 13,
+  "created_at": "2017-12-02T18:58:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Ruby. All you need to know about me is I hate lasagna with a passion. When no one's home, I invite my pals over and we listen to Coldplay. Let's get busy!",
+  "language": "en",
+  "matron": "18857@7",
+  "sire": "30739@12",
+  "children": [
+    "32416@14",
+    "33927@14",
+    "38818@14",
+    "71477@14",
+    "379460@14",
+    "440335@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 29548,
+  "name": "GEN 5 SNAPPY",
+  "generation": 5,
+  "created_at": "2017-12-02T14:10:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm GEN 5 SNAPPY. I'm often referred to as the Steve Urkel of the group. When I'm not riverdancing, I'm playing chess! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "4026@4",
+  "sire": "6543@2",
+  "children": [
+    "34969@17",
+    "39819@17",
+    "141348@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

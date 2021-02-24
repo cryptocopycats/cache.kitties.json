@@ -1,0 +1,20 @@
+{
+  "id": 31865,
+  "name": "G10 Plod Cerulian",
+  "generation": 10,
+  "created_at": "2017-12-02T20:08:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm G10 Plod Cerulian. My friends describe me as seductive and ridiculous. I like to listen to Beyoncé while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "30747@8",
+  "sire": "30799@9",
+  "children": [
+    "32170@11",
+    "33704@12",
+    "42668@12",
+    "72994@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

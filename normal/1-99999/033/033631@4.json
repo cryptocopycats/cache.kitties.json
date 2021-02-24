@@ -1,0 +1,22 @@
+{
+  "id": 33631,
+  "name": "Ship Ship",
+  "generation": 4,
+  "created_at": "2017-12-02T23:33:31.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Ship Ship. I enjoy reading garfield, slappin' da bass, and riding dirty. I once made a goose enjoy. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "22814@3",
+  "sire": "33364@3",
+  "children": [
+    "33697@5",
+    "33957@5",
+    "50779@5",
+    "60353@5",
+    "105497@5",
+    "173964@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

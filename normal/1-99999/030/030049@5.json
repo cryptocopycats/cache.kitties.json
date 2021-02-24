@@ -1,0 +1,19 @@
+{
+  "id": 30049,
+  "name": "G5 | BP",
+  "generation": 5,
+  "created_at": "2017-12-02T15:40:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm G5 | BP. I'm a professional Aerobics Athlete  and I love lasagna. When I'm not reading Danielle Steele, I'm riding the bus! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "26484@4",
+  "sire": "26000@4",
+  "children": [
+    "30576@6",
+    "30775@6",
+    "62690@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 31439,
+  "name": "Mr. Potter",
+  "generation": 7,
+  "created_at": "2017-12-02T19:19:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Mr. Potter. I'm often referred to as the Bart Simpson of the group. I once got in a fight with a rabbit, and won. I look forward to staying woke with you.",
+  "language": "en",
+  "matron": "31203@5",
+  "sire": "31183@6",
+  "children": [
+    "31636@8",
+    "32222@8",
+    "32870@8",
+    "35464@12",
+    "68906@8",
+    "88607@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

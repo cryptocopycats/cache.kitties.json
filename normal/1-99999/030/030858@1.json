@@ -1,0 +1,30 @@
+{
+  "id": 30858,
+  "name": "Mr. Simple1",
+  "generation": 1,
+  "created_at": "2017-12-02T17:51:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Mr. Simple1. I've never told anyone this, but I once bit a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "12208@0",
+  "sire": "2279@0",
+  "children": [
+    "32730@3",
+    "33268@5",
+    "34827@4",
+    "52053@4",
+    "64453@2",
+    "76535@2",
+    "98581@2",
+    "106712@2",
+    "121083@2",
+    "205585@2",
+    "231332@2",
+    "270818@2",
+    "360801@2",
+    "429795@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

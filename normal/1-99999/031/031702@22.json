@@ -1,0 +1,18 @@
+{
+  "id": 31702,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-02T19:43:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Gen 22. I enjoy breakdancing, slappin' da bass, and fighting for the people. I was voted most likely to work at NASA in college. I like your face.",
+  "language": "en",
+  "matron": "13112@21",
+  "sire": "6271@14",
+  "children": [
+    "126134@23",
+    "172648@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

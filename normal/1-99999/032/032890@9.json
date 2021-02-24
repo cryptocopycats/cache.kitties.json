@@ -1,0 +1,19 @@
+{
+  "id": 32890,
+  "name": "Gen 9 Lemonade",
+  "generation": 9,
+  "created_at": "2017-12-02T22:13:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen 9 Lemonade. My friends describe me as tantalizing and stinky. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Let's pawty!",
+  "language": "en",
+  "matron": "30864@4",
+  "sire": "31586@8",
+  "children": [
+    "33190@10",
+    "35503@10",
+    "37368@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 33431,
+  "name": "Chippy",
+  "generation": 12,
+  "created_at": "2017-12-02T23:18:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Chippy here. I'm here to enjoy riding dirty and grooming. I once made a moose pester. Can't wait to eat cereal with you!",
+  "language": "en",
+  "matron": "15422@9",
+  "sire": "30629@11",
+  "children": [
+    "43469@13",
+    "49496@13",
+    "62662@13",
+    "85523@13",
+    "115493@13",
+    "143776@13",
+    "222475@18",
+    "344713@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

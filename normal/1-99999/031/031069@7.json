@@ -1,0 +1,25 @@
+{
+  "id": 31069,
+  "name": "Gen 7 | Plodding",
+  "generation": 7,
+  "created_at": "2017-12-02T18:21:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Gen 7 | Plodding. I want to live in a world where people believe the world is flat. When I'm not swiping left, I'm siring for status! Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30864@4",
+  "sire": "30951@6",
+  "children": [
+    "31354@8",
+    "31586@8",
+    "32277@8",
+    "32621@8",
+    "38435@9",
+    "44127@9",
+    "73832@9",
+    "108130@9",
+    "113015@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

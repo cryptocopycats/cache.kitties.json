@@ -1,0 +1,26 @@
+{
+  "id": 31520,
+  "name": "rare duck buy it ok",
+  "generation": 6,
+  "created_at": "2017-12-02T19:25:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm rare duck buy it ok. In high school, I was voted biggest teacher's pet. I once got in a fight with a gecko, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31244@5",
+  "sire": "25860@5",
+  "children": [
+    "32101@7",
+    "33831@7",
+    "48405@7",
+    "333441@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 181,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

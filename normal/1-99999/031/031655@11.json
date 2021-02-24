@@ -1,0 +1,20 @@
+{
+  "id": 31655,
+  "name": "Chimney Sweep",
+  "generation": 11,
+  "created_at": "2017-12-02T19:39:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Chimney Sweep. I believe the world is flat. I once dreamed of being a Dogwalker. Now I can be found swiping left all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "18621@10",
+  "sire": "30498@7",
+  "children": [
+    "33051@16",
+    "45045@18",
+    "81128@13",
+    "209263@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

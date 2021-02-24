@@ -1,0 +1,18 @@
+{
+  "id": 31360,
+  "name": "Cheerios",
+  "generation": 18,
+  "created_at": "2017-12-02T18:59:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Cheerios. I enjoy being a nevernude, grooming, and riding unicorns. Sometimes I daydream of a life full of eating lasagna, steak, and playing chess. Will you be the marmalade to my wasabi?",
+  "language": "en",
+  "matron": "16563@9",
+  "sire": "26894@17",
+  "children": [
+    "50038@19",
+    "91994@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

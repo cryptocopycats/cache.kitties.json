@@ -1,0 +1,19 @@
+{
+  "id": 29832,
+  "name": "Gen 3 Choco Laperm",
+  "generation": 3,
+  "created_at": "2017-12-02T15:04:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Gen 3 Choco Laperm. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "26083@2",
+  "sire": "29396@2",
+  "children": [
+    "29875@4",
+    "30144@4",
+    "30485@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

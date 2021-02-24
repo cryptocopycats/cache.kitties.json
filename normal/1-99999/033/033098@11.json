@@ -1,0 +1,20 @@
+{
+  "id": 33098,
+  "name": "The Cheshire Cat",
+  "generation": 11,
+  "created_at": "2017-12-02T22:32:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm The Cheshire Cat. I believe the world is flat. I would give it all up to star in a soap opera. I like your face.",
+  "language": "en",
+  "matron": "25692@2",
+  "sire": "31772@10",
+  "children": [
+    "42672@12",
+    "64279@16",
+    "169090@20",
+    "264006@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

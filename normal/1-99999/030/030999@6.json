@@ -1,0 +1,22 @@
+{
+  "id": 30999,
+  "name": "G6 | Spock",
+  "generation": 6,
+  "created_at": "2017-12-02T18:10:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm G6 | Spock. I believe the world is flat. When I'm not braiding people's hair, I'm reading Danielle Steele! I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "30316@5",
+  "sire": "30746@5",
+  "children": [
+    "31241@7",
+    "31362@7",
+    "32255@7",
+    "37643@8",
+    "50839@7",
+    "56413@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 32759,
+  "name": "VAMP Kitty RARE Brisk Gen 9",
+  "generation": 9,
+  "created_at": "2017-12-02T21:59:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm VAMP Kitty RARE Brisk Gen 9. I'm a Ventriloquist by day, and I like swiping right by night. I once got in a fight with a rhino, and won. Let's get busy!",
+  "language": "en",
+  "matron": "32385@8",
+  "sire": "32383@7",
+  "children": [
+    "33521@10",
+    "34442@11",
+    "40077@18",
+    "43784@10",
+    "442547@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

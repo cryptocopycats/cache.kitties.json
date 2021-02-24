@@ -1,0 +1,22 @@
+{
+  "id": 33179,
+  "name": "Spock Dali (double rare)",
+  "generation": 14,
+  "created_at": "2017-12-02T22:43:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Spock Dali (double rare). I'm a Train Conductor by day, and I like summoning ghosts by night. My secret indulgence is cantaloupe. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "25710@10",
+  "sire": "5612@13",
+  "children": [
+    "36199@15",
+    "37056@15",
+    "63744@19",
+    "85374@15",
+    "100117@15",
+    "169852@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

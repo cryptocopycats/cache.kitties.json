@@ -1,0 +1,27 @@
+{
+  "id": 32349,
+  "name": "G1 | Barry",
+  "generation": 1,
+  "created_at": "2017-12-02T21:05:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm G1 | Barry. I enjoy reading garfield, glaring at the neighbour's cat, and sweating through my feet. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "language": "en",
+  "matron": "2093@0",
+  "sire": "2564@0",
+  "children": [
+    "32404@10",
+    "32545@2",
+    "32734@2",
+    "33130@5",
+    "36917@2",
+    "37585@2",
+    "39868@2",
+    "59718@2",
+    "68919@2",
+    "144395@2",
+    "200932@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

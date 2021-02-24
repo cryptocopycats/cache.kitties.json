@@ -1,0 +1,29 @@
+{
+  "id": 32834,
+  "name": "G5 Bird-1",
+  "generation": 5,
+  "created_at": "2017-12-02T22:09:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm G5 Bird-1. I believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30887@4",
+  "sire": "32482@4",
+  "children": [
+    "33514@6",
+    "33947@6",
+    "34324@7",
+    "34726@6",
+    "36437@6",
+    "58221@6",
+    "268644@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 208,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

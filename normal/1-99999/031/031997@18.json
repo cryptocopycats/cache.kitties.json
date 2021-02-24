@@ -1,0 +1,19 @@
+{
+  "id": 31997,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-02T20:23:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #31997. My friends describe me as tantalizing and ridiculous. I like to listen to Beyoncé while grooming. Don't judge me. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "13435@14",
+  "sire": "18052@17",
+  "children": [
+    "52881@20",
+    "246030@19",
+    "463329@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

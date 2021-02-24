@@ -1,0 +1,24 @@
+{
+  "id": 31172,
+  "name": "NIL Gen 5",
+  "generation": 5,
+  "created_at": "2017-12-02T18:33:10.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! NIL Gen 5 here. I'm here to enjoy fighting the patriarchy and hitting on yo' man. Some people say I'm the Jon Snow of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30547@4",
+  "sire": "27489@4",
+  "children": [
+    "31276@15",
+    "33562@9",
+    "34255@7",
+    "34767@6",
+    "35724@6",
+    "41392@10",
+    "52204@10",
+    "76350@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

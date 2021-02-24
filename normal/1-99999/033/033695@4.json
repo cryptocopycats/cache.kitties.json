@@ -1,0 +1,22 @@
+{
+  "id": 33695,
+  "name": "gen 4 - 33695",
+  "generation": 4,
+  "created_at": "2017-12-02T23:39:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm gen 4 - 33695. I've never told anyone this, but I once bit a dog. I like to listen to Ace of Base while grooming. Don't judge me. I look forward to taking selfies with you.",
+  "language": "en",
+  "matron": "23712@1",
+  "sire": "33115@3",
+  "children": [
+    "37500@11",
+    "39811@5",
+    "42337@5",
+    "44293@5",
+    "46076@5",
+    "49513@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

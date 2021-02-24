@@ -1,0 +1,19 @@
+{
+  "id": 31649,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-02T19:39:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #31649. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a goose, and won. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "11655@13",
+  "sire": "19426@6",
+  "children": [
+    "36116@18",
+    "87874@16",
+    "220270@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

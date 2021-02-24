@@ -1,0 +1,17 @@
+{
+  "id": 31357,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-02T18:59:20.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Gen 22. I'm often referred to as the Marge Simpson of the group. When I'm not summoning ghosts, I'm tricking babies! Our friendship will be annoying, ridiculous, and full of lasagna.",
+  "language": "en",
+  "matron": "22974@21",
+  "sire": "23548@17",
+  "children": [
+    "34002@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

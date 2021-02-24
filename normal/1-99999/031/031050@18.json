@@ -1,0 +1,18 @@
+{
+  "id": 31050,
+  "name": "Professor floof",
+  "generation": 18,
+  "created_at": "2017-12-02T18:16:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Professor floof. I'm a Foreign Film Director by day, and I like running a podcast by night. I put peanut butter on everything. Like, everything: hot dogs, cereal—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "17002@11",
+  "sire": "7909@17",
+  "children": [
+    "79147@19",
+    "114609@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

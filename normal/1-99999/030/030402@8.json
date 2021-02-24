@@ -1,0 +1,20 @@
+{
+  "id": 30402,
+  "name": "Cerulian Hopper",
+  "generation": 8,
+  "created_at": "2017-12-02T16:37:55.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Cerulian Hopper. I'm a professional Spin Instructor  and I love steak. I am 69% fairy, 28% Culinary Sanitation Specialist, and otherwise bad at math. Will you be the peanut butter to my marmite?",
+  "language": "en",
+  "matron": "16791@3",
+  "sire": "23745@7",
+  "children": [
+    "32805@10",
+    "70177@9",
+    "76174@9",
+    "108544@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

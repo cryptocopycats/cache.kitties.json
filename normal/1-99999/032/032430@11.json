@@ -1,0 +1,21 @@
+{
+  "id": 32430,
+  "name": "Raritty",
+  "generation": 11,
+  "created_at": "2017-12-02T21:17:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Raritty. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found vegan or mocking dogs. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "20194@7",
+  "sire": "21096@10",
+  "children": [
+    "32557@12",
+    "34374@12",
+    "35926@14",
+    "42818@12",
+    "58140@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

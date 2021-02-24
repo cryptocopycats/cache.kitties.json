@@ -1,0 +1,22 @@
+{
+  "id": 33605,
+  "name": "Strauss McMurder",
+  "generation": 3,
+  "created_at": "2017-12-02T23:31:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Strauss McMurder here. I'm here to enjoy licking doorknobs and taking selfies. When I'm not volunteering at the local kitten rescue shelter, I'm riding the bus! Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "20043@2",
+  "sire": "27843@2",
+  "children": [
+    "33663@4",
+    "33816@4",
+    "34003@4",
+    "34393@4",
+    "38022@4",
+    "42317@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

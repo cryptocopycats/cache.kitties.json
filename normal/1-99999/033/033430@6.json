@@ -1,0 +1,24 @@
+{
+  "id": 33430,
+  "name": "Whiskery Wiggins",
+  "generation": 6,
+  "created_at": "2017-12-02T23:18:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Whiskery Wiggins. I believe the world is flat. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's get busy!",
+  "language": "en",
+  "matron": "23332@5",
+  "sire": "23482@5",
+  "children": [
+    "33960@22",
+    "34333@8",
+    "41018@7",
+    "53789@12",
+    "62280@7",
+    "126010@10",
+    "151541@8",
+    "244034@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

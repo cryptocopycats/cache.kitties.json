@@ -1,0 +1,20 @@
+{
+  "id": 30711,
+  "name": "Son of a Jaguar",
+  "generation": 12,
+  "created_at": "2017-12-02T17:31:26.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Son of a Jaguar. In high school, I was voted biggest teacher's pet. I once got in a fight with a dog, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "language": "en",
+  "matron": "20584@0",
+  "sire": "14918@11",
+  "children": [
+    "33014@13",
+    "45654@13",
+    "46770@14",
+    "59852@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

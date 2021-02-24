@@ -1,0 +1,25 @@
+{
+  "id": 33222,
+  "name": "Gen 3 | Swift",
+  "generation": 3,
+  "created_at": "2017-12-02T22:49:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Gen 3 | Swift. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Our friendship will be annoying, stinky, and full of apple pie.",
+  "language": "en",
+  "matron": "32920@2",
+  "sire": "33149@2",
+  "children": [
+    "33792@4",
+    "33883@4",
+    "34804@4",
+    "34852@5",
+    "36157@4",
+    "41023@4",
+    "58961@4",
+    "108963@4",
+    "114537@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

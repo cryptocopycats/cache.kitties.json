@@ -1,0 +1,25 @@
+{
+  "id": 33275,
+  "name": "G8 Pure Bird",
+  "generation": 8,
+  "created_at": "2017-12-02T22:59:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm G8 Pure Bird. My friends describe me as prickly and tantalizing. When no one's home, I invite my pals over and we listen to Metallica. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28375@7",
+  "sire": "31029@7",
+  "children": [
+    "33917@9",
+    "35371@9",
+    "36125@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 215,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

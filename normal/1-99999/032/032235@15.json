@@ -1,0 +1,21 @@
+{
+  "id": 32235,
+  "name": "Meow",
+  "generation": 15,
+  "created_at": "2017-12-02T20:56:15.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Meow. I'm a Dogwalker by day, and I like braiding people's hair by night. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Can you make my seductive dreams come true?",
+  "language": "en",
+  "matron": "30418@14",
+  "sire": "23434@13",
+  "children": [
+    "35451@16",
+    "39800@16",
+    "64895@16",
+    "178822@16",
+    "210610@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

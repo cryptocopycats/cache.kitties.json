@@ -1,0 +1,19 @@
+{
+  "id": 33666,
+  "name": "Evergrey",
+  "generation": 10,
+  "created_at": "2017-12-02T23:37:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Evergrey. My friends describe me as gullible and gorgeous. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "10409@2",
+  "sire": "27606@9",
+  "children": [
+    "54078@12",
+    "195243@12",
+    "207416@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

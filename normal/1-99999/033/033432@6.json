@@ -1,0 +1,20 @@
+{
+  "id": 33432,
+  "name": "Bloodred Mauveover Gen 6 Brisk",
+  "generation": 6,
+  "created_at": "2017-12-02T23:18:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Bloodred Mauveover Gen 6 Brisk. I'm often referred to as the Lisa Simpson of the group. My friends describe me as \"ridiculous.\" It's... accurate. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "28037@3",
+  "sire": "23092@5",
+  "children": [
+    "34835@10",
+    "44119@8",
+    "52537@7",
+    "54305@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

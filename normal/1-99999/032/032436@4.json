@@ -1,0 +1,20 @@
+{
+  "id": 32436,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-02T21:18:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 4. I enjoy spinning sick beats, riding unicorns, and eating lasagna. I once tricked a labradoodle. I don't like to talk about it. Will you be the cinammon to my wasabi?",
+  "language": "en",
+  "matron": "31613@3",
+  "sire": "32002@3",
+  "children": [
+    "32595@7",
+    "33091@8",
+    "34320@5",
+    "56685@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 31293,
+  "name": "Gen 2 GOLD",
+  "generation": 2,
+  "created_at": "2017-12-02T18:54:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Gen 2 GOLD. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "27004@1",
+  "sire": "26720@1",
+  "children": [
+    "31523@3",
+    "31801@3",
+    "31822@3",
+    "37054@3",
+    "38305@3",
+    "39352@3",
+    "48420@3",
+    "89537@3",
+    "97693@3",
+    "169544@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

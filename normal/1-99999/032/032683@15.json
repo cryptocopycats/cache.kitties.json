@@ -1,0 +1,17 @@
+{
+  "id": 32683,
+  "name": "Sherbert",
+  "generation": 15,
+  "created_at": "2017-12-02T21:46:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Sherbert. I'm often referred to as the Homer Simpson of the group. I once got in a fight with a rooster, and won. Can't wait to eat lasagna with you!",
+  "language": "en",
+  "matron": "14624@14",
+  "sire": "13890@13",
+  "children": [
+    "65203@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

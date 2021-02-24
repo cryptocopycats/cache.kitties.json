@@ -1,0 +1,20 @@
+{
+  "id": 28425,
+  "name": "Calicool Lemonade",
+  "generation": 11,
+  "created_at": "2017-12-02T10:24:06.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Calicool Lemonade. My friends describe me as wondrous and tantalizing. My friends describe me as \"brilliant.\" It's... accurate. Our friendship will be wondrous, tantalizing, and full of wet food.",
+  "language": "en",
+  "matron": "28093@10",
+  "sire": "23625@10",
+  "children": [
+    "37181@16",
+    "56229@15",
+    "303982@12",
+    "356561@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

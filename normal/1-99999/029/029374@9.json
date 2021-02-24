@@ -1,0 +1,22 @@
+{
+  "id": 29374,
+  "name": "G9 Plod Mauve Spock",
+  "generation": 9,
+  "created_at": "2017-12-02T13:40:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm G9 Plod Mauve Spock. I believe the world is flat. I put pickles on everything. Like, everything: hot dogs, hamburgers—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "27655@5",
+  "sire": "29182@8",
+  "children": [
+    "29904@10",
+    "30060@10",
+    "30724@10",
+    "32909@10",
+    "46151@10",
+    "76754@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

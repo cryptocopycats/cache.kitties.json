@@ -1,0 +1,19 @@
+{
+  "id": 29533,
+  "name": "Bearded Squirrel",
+  "generation": 18,
+  "created_at": "2017-12-02T14:07:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! My name's Bearded Squirrel. I once peed on Princess Diana's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Princess Diana. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "18353@17",
+  "sire": "25048@17",
+  "children": [
+    "44202@19",
+    "68287@19",
+    "116702@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

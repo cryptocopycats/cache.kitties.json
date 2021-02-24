@@ -1,0 +1,18 @@
+{
+  "id": 33303,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-02T23:05:36.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Gen 7. I'm a professional Aerobics Athlete  and I love salad. Some people say I'm the Marge Simpson of the group. Let's pawty!",
+  "language": "en",
+  "matron": "31607@6",
+  "sire": "31567@2",
+  "children": [
+    "53331@8",
+    "54935@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

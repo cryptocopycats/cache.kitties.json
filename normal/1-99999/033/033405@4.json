@@ -1,0 +1,23 @@
+{
+  "id": 33405,
+  "name": "Gen 4 Plodding Otaku",
+  "generation": 4,
+  "created_at": "2017-12-02T23:13:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Gen 4 Plodding Otaku. My friends describe me as stinky and ridiculous. When I'm not summoning ghosts, I'm people-watching! Let's pawty!",
+  "language": "en",
+  "matron": "30435@3",
+  "sire": "31971@3",
+  "children": [
+    "34720@5",
+    "34800@5",
+    "35908@5",
+    "37096@5",
+    "46320@5",
+    "49494@5",
+    "122389@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

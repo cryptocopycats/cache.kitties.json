@@ -1,0 +1,19 @@
+{
+  "id": 31970,
+  "name": "Floopsy",
+  "generation": 18,
+  "created_at": "2017-12-02T20:22:34.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Floopsy. I'm a Train Conductor by day, and I like practicing witchcraft by night. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Let's pawty!",
+  "language": "en",
+  "matron": "26573@6",
+  "sire": "28362@17",
+  "children": [
+    "58939@19",
+    "77809@19",
+    "314610@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 32465,
+  "name": "Amy 3",
+  "generation": 16,
+  "created_at": "2017-12-02T21:22:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Amy 3. I've never told anyone this, but I once snuggled a dog. I was voted school jock in college. Can you make my raunchy dreams come true?",
+  "language": "en",
+  "matron": "31315@13",
+  "sire": "24412@15",
+  "children": [
+    "74413@19",
+    "86699@18",
+    "117229@17",
+    "206006@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

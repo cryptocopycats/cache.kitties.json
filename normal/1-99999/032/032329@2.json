@@ -1,0 +1,28 @@
+{
+  "id": 32329,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T21:01:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Gen 2. I'm a Foreign Film Director by day, and I like riding the bus by night. I once dreamed of being a Private Dancer . Now I can be found people-watching all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "30112@1",
+  "sire": "29918@1",
+  "children": [
+    "32412@3",
+    "32663@3",
+    "33076@3",
+    "34384@3",
+    "35449@3",
+    "36528@3",
+    "46417@3",
+    "52056@3",
+    "61873@3",
+    "130637@3",
+    "158192@3",
+    "252958@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

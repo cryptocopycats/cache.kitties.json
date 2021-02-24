@@ -1,0 +1,22 @@
+{
+  "id": 33509,
+  "name": "Diego",
+  "generation": 11,
+  "created_at": "2017-12-02T23:22:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Diego. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "19578@7",
+  "sire": "26404@10",
+  "children": [
+    "46524@14",
+    "58194@19",
+    "65048@14",
+    "80852@13",
+    "93001@13",
+    "607482@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

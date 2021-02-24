@@ -1,0 +1,23 @@
+{
+  "id": 33141,
+  "name": "Gen 5 | Spock, Swift",
+  "generation": 5,
+  "created_at": "2017-12-02T22:38:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Gen 5 | Spock, Swift. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "32760@4",
+  "sire": "32638@4",
+  "children": [
+    "33271@6",
+    "34022@6",
+    "35149@6",
+    "38694@6",
+    "41220@6",
+    "58928@6",
+    "108048@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

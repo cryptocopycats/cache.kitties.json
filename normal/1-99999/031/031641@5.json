@@ -1,0 +1,21 @@
+{
+  "id": 31641,
+  "name": "Gen5 Skyblue",
+  "generation": 5,
+  "created_at": "2017-12-02T19:38:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Gen5 Skyblue. I enjoy grooming, fighting for the people, and sweating through my feet. I am 0% elf, 42% Private Dancer , and otherwise bad at math. Can't wait to eat wet food with you!",
+  "language": "en",
+  "matron": "31452@4",
+  "sire": "28102@2",
+  "children": [
+    "37048@6",
+    "46383@6",
+    "52400@6",
+    "73053@6",
+    "100040@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

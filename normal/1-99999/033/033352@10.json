@@ -1,0 +1,21 @@
+{
+  "id": 33352,
+  "name": "Norma Rae (G10) Persian",
+  "generation": 10,
+  "created_at": "2017-12-02T23:08:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Norma Rae (G10) Persian. In high school, I was voted school jock. My friends describe me as \"hairy.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "31115@9",
+  "sire": "31271@8",
+  "children": [
+    "33784@11",
+    "35880@11",
+    "38740@11",
+    "53356@17",
+    "93014@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

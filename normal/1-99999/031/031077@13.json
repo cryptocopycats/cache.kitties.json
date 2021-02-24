@@ -1,0 +1,21 @@
+{
+  "id": 31077,
+  "name": "Gen 13 | Purtee",
+  "generation": 13,
+  "created_at": "2017-12-02T18:26:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Gen 13 | Purtee. I believe that one day cats will rule this planet. In my free time, I can usually be found petulant or watching reality tv. Let's get busy!",
+  "language": "en",
+  "matron": "28824@12",
+  "sire": "29035@12",
+  "children": [
+    "33168@14",
+    "51261@14",
+    "75621@14",
+    "91357@18",
+    "137075@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

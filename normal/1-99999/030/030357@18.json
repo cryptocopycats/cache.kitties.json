@@ -1,0 +1,19 @@
+{
+  "id": 30357,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-02T16:32:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #30357. In high school, I was voted school jock. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "15720@17",
+  "sire": "14851@16",
+  "children": [
+    "39788@20",
+    "64454@19",
+    "116862@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

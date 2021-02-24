@@ -1,0 +1,22 @@
+{
+  "id": 30342,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-02T16:30:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #30342. I believe the world is flat. When I'm not braiding people's hair, I'm swiping left! I look forward to eating lasagna with you.",
+  "language": "en",
+  "matron": "29748@10",
+  "sire": "29394@7",
+  "children": [
+    "46207@12",
+    "54400@12",
+    "70941@19",
+    "143352@12",
+    "187102@15",
+    "231999@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

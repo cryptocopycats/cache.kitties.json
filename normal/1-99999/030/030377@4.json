@@ -1,0 +1,19 @@
+{
+  "id": 30377,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-02T16:34:57.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! My name's Kitty #30377. I once peed on Confucius's cat. They had it coming. I once clawed a dog. I don't like to talk about it. Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "28244@3",
+  "sire": "30344@2",
+  "children": [
+    "30431@5",
+    "45989@22",
+    "52644@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

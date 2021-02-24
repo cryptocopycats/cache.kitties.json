@@ -1,0 +1,20 @@
+{
+  "id": 29747,
+  "name": "Kelp",
+  "generation": 15,
+  "created_at": "2017-12-02T14:46:47.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kelp. I'm often referred to as the Chandler Bing of the group. I once dreamed of being a Aerobics Athlete . Now I can be found mocking dogs all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "19930@14",
+  "sire": "15575@10",
+  "children": [
+    "33137@16",
+    "39466@16",
+    "43478@17",
+    "78706@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

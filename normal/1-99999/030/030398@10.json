@@ -1,0 +1,21 @@
+{
+  "id": 30398,
+  "name": "Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-02T16:37:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 10. All you need to know about me is I hate steak with a passion. I'm often described as preposterous, and I own it. Will you be the peanut butter to my cinammon?",
+  "language": "en",
+  "matron": "27525@8",
+  "sire": "4920@9",
+  "children": [
+    "39837@11",
+    "43305@14",
+    "46210@11",
+    "53538@11",
+    "61913@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

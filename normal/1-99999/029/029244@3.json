@@ -1,0 +1,21 @@
+{
+  "id": 29244,
+  "name": "Gen 3 - Snappy, Scarlet, Beard",
+  "generation": 3,
+  "created_at": "2017-12-02T13:12:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Gen 3 - Snappy, Scarlet, Beard. My friends describe me as gullible and gorgeous. I am 44% sphinx, 42% Spin Instructor , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "28017@2",
+  "sire": "29103@2",
+  "children": [
+    "29313@4",
+    "29444@4",
+    "137972@4",
+    "266259@4",
+    "268108@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

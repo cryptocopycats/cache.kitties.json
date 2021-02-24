@@ -1,0 +1,21 @@
+{
+  "id": 31911,
+  "name": "Spock, Gen 9",
+  "generation": 9,
+  "created_at": "2017-12-02T20:09:50.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Spock, Gen 9. I'm a professional Private Dancer  and I love cereal. I put wasabi on everything. Like, everything: hot dogs, chocolate—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "25630@8",
+  "sire": "30898@8",
+  "children": [
+    "40550@12",
+    "46400@19",
+    "52062@19",
+    "84180@12",
+    "325651@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

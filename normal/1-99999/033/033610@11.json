@@ -1,0 +1,19 @@
+{
+  "id": 33610,
+  "name": "Kitty #33610",
+  "generation": 11,
+  "created_at": "2017-12-02T23:31:02.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #33610. I'm often referred to as the Frodo Baggins of the group. I put pickles on everything. Like, everything: hot dogs, ice cream—everything! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "32866@4",
+  "sire": "32669@10",
+  "children": [
+    "37060@12",
+    "38460@12",
+    "41319@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

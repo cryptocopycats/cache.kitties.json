@@ -1,0 +1,25 @@
+{
+  "id": 30612,
+  "name": "Beardie the Fourth",
+  "generation": 4,
+  "created_at": "2017-12-02T17:20:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Beardie the Fourth. In high school, I was voted most likely to work at NASA. I am 13% fairy, 20% Foreign Film Director, and otherwise bad at math. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "28148@3",
+  "sire": "29051@3",
+  "children": [
+    "30750@5",
+    "31112@5",
+    "31756@5",
+    "32054@8",
+    "33986@6",
+    "40396@5",
+    "52001@5",
+    "68679@20",
+    "110575@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

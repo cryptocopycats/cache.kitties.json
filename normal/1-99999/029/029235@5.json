@@ -1,0 +1,25 @@
+{
+  "id": 29235,
+  "name": "Diamond in the ruff",
+  "generation": 5,
+  "created_at": "2017-12-02T13:12:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Diamond in the ruff. I'm often referred to as the Ron Weasley of the group. When no one's home, I invite my pals over and we listen to Michael Bolton. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "28499@4",
+  "sire": "27242@4",
+  "children": [
+    "29619@6",
+    "29990@6",
+    "30656@6",
+    "30877@17",
+    "31006@6",
+    "36638@6",
+    "43962@8",
+    "46772@9",
+    "98860@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

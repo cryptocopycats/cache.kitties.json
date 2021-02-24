@@ -1,0 +1,19 @@
+{
+  "id": 30962,
+  "name": "Crazy Orange Mint Sphinx G11",
+  "generation": 11,
+  "created_at": "2017-12-02T18:09:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Crazy Orange Mint Sphinx G11. My friends describe me as annoying and tantalizing. When I'm not playing chess, I'm practicing witchcraft! It's pawesome to meet you!",
+  "language": "en",
+  "matron": "22153@10",
+  "sire": "12815@10",
+  "children": [
+    "53061@12",
+    "55149@14",
+    "55182@12"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

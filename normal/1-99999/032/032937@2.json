@@ -1,0 +1,28 @@
+{
+  "id": 32937,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T22:16:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Gen 2. All you need to know about me is I hate salad with a passion. Some people say I'm the Ross Geller of the group. Can you make my smelly dreams come true?",
+  "language": "en",
+  "matron": "30064@1",
+  "sire": "30222@1",
+  "children": [
+    "33070@3",
+    "34104@3",
+    "34354@3",
+    "35136@3",
+    "38189@3",
+    "49367@3",
+    "56903@3",
+    "61258@3",
+    "79738@3",
+    "141948@3",
+    "183101@3",
+    "258383@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 30240,
+  "name": "tigerpunk",
+  "generation": 11,
+  "created_at": "2017-12-02T16:15:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm tigerpunk. I'm often referred to as the Frodo Baggins of the group. When no one's home, I invite my pals over and we listen to Wutang. Can't wait to eat hamburgers with you!",
+  "language": "en",
+  "matron": "29153@10",
+  "sire": "29149@10",
+  "children": [
+    "45098@19",
+    "50263@12",
+    "52880@12",
+    "78950@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

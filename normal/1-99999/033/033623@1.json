@@ -1,0 +1,18 @@
+{
+  "id": 33623,
+  "name": "Pikachu | Gen 1 | Swift",
+  "generation": 1,
+  "created_at": "2017-12-02T23:32:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Pikachu | Gen 1 | Swift. I believe the world is flat. When no one's home, I invite my pals over and we listen to Mariah Carey. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "2516@0",
+  "sire": "2386@0",
+  "children": [
+    "52257@2",
+    "71333@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

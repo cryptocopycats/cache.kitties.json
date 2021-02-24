@@ -1,0 +1,23 @@
+{
+  "id": 29767,
+  "name": "PURRRL Harbor",
+  "generation": 9,
+  "created_at": "2017-12-02T14:54:53.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm PURRRL Harbor. I'm a professional Dogwalker and I love hamburgers. I would give it all up to be on Oprah. Can you make my tantalizing dreams come true?",
+  "language": "en",
+  "matron": "28635@8",
+  "sire": "28999@7",
+  "children": [
+    "33158@10",
+    "41100@10",
+    "43319@10",
+    "77940@15",
+    "105961@22",
+    "204805@20",
+    "688041@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

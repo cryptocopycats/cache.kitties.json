@@ -1,0 +1,22 @@
+{
+  "id": 29023,
+  "name": "G4 | Pouty Munchkin",
+  "generation": 4,
+  "created_at": "2017-12-02T12:19:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! G4 | Pouty Munchkin here. I'm here to enjoy reciting poetry and watching Stranger Things. I once made a rhino play. Let's pawty!",
+  "language": "en",
+  "matron": "28400@3",
+  "sire": "28108@3",
+  "children": [
+    "29129@5",
+    "30796@5",
+    "36167@5",
+    "37242@5",
+    "51295@5",
+    "58024@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

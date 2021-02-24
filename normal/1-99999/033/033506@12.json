@@ -1,0 +1,22 @@
+{
+  "id": 33506,
+  "name": "Derpy Fiona",
+  "generation": 12,
+  "created_at": "2017-12-02T23:22:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Derpy Fiona. My friends describe me as voluptuous and gullible. I would give it all up to be on Oprah. Will you be the ranch dressing to my ghost pepper hot sauce?",
+  "language": "en",
+  "matron": "29383@10",
+  "sire": "30198@11",
+  "children": [
+    "53921@13",
+    "60247@14",
+    "75705@13",
+    "112020@16",
+    "168914@13",
+    "186449@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

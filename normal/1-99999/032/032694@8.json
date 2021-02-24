@@ -1,0 +1,20 @@
+{
+  "id": 32694,
+  "name": "Mister Monsieur",
+  "generation": 8,
+  "created_at": "2017-12-02T21:47:40.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Mister Monsieur. All you need to know about me is I hate steak with a passion. I once snuggled a rooster. I don't like to talk about it. Let's pawty!",
+  "language": "en",
+  "matron": "32256@7",
+  "sire": "32278@7",
+  "children": [
+    "32816@9",
+    "37896@15",
+    "39934@9",
+    "52591@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

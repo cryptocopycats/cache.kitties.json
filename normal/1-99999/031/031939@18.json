@@ -1,0 +1,19 @@
+{
+  "id": 31939,
+  "name": "slow gen18",
+  "generation": 18,
+  "created_at": "2017-12-02T20:22:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm slow gen18. I'm a professional Train Conductor and I love salad. Some people say I'm the Steve Urkel of the group. I hope we can be brilliant friends.",
+  "language": "en",
+  "matron": "27312@17",
+  "sire": "27341@16",
+  "children": [
+    "42032@19",
+    "76145@19",
+    "332050@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

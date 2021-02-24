@@ -1,0 +1,21 @@
+{
+  "id": 30401,
+  "name": "Wadjet",
+  "generation": 7,
+  "created_at": "2017-12-02T16:37:49.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Wadjet. My friends describe me as ridiculous and seductive. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Our friendship will be ridiculous, seductive, and full of chocolate.",
+  "language": "en",
+  "matron": "28574@6",
+  "sire": "26875@6",
+  "children": [
+    "30500@8",
+    "31057@14",
+    "75921@8",
+    "169086@11",
+    "218989@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 32843,
+  "name": "Gen 5 Lucky",
+  "generation": 5,
+  "created_at": "2017-12-02T22:09:56.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 5 Lucky. I've never told anyone this, but I once clawed a dog. When no one's home, I invite my pals over and we listen to Wutang. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "24370@4",
+  "sire": "27460@4",
+  "children": [
+    "54348@6",
+    "59430@6",
+    "60375@8",
+    "68780@6",
+    "75490@6",
+    "86676@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

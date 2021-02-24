@@ -1,0 +1,24 @@
+{
+  "id": 32334,
+  "name": "Gen8 Scarlet Rose",
+  "generation": 8,
+  "created_at": "2017-12-02T21:05:04.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen8 Scarlet Rose. I want to live in a world where people believe the world is flat. Some people say I'm the Ross Geller of the group. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "26213@7",
+  "sire": "26291@7",
+  "children": [
+    "32935@9",
+    "34278@9",
+    "34790@10",
+    "43200@9",
+    "52674@15",
+    "71823@11",
+    "83843@11",
+    "111713@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

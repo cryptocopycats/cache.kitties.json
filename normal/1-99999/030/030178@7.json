@@ -1,0 +1,22 @@
+{
+  "id": 30178,
+  "name": "Snappy",
+  "generation": 7,
+  "created_at": "2017-12-02T16:00:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! My name's Snappy. I once peed on Marie Antoinette's cat. They had it coming. I like to listen to Ace of Base while grooming. Don't judge me. Let's pawty!",
+  "language": "en",
+  "matron": "29990@6",
+  "sire": "26653@6",
+  "children": [
+    "38893@14",
+    "41071@14",
+    "53824@9",
+    "65899@20",
+    "247431@19",
+    "342638@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

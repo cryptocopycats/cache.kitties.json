@@ -1,0 +1,22 @@
+{
+  "id": 32675,
+  "name": "simon",
+  "generation": 10,
+  "created_at": "2017-12-02T21:45:28.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm simon. All you need to know about me is I hate apple pie with a passion. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can't wait to eat salad with you!",
+  "language": "en",
+  "matron": "22508@9",
+  "sire": "26488@2",
+  "children": [
+    "46904@11",
+    "55371@11",
+    "64568@11",
+    "84207@15",
+    "92399@11",
+    "124420@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

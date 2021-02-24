@@ -1,0 +1,21 @@
+{
+  "id": 30759,
+  "name": "Blaze",
+  "generation": 14,
+  "created_at": "2017-12-02T17:40:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Blaze. I've never told anyone this, but I once tricked a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "28265@4",
+  "sire": "28584@13",
+  "children": [
+    "31028@15",
+    "46286@15",
+    "75025@18",
+    "87244@19",
+    "145245@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

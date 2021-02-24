@@ -1,0 +1,18 @@
+{
+  "id": 28735,
+  "name": "Simba",
+  "generation": 16,
+  "created_at": "2017-12-02T11:30:27.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Simba. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope we can be seductive friends.",
+  "language": "en",
+  "matron": "19167@15",
+  "sire": "14998@4",
+  "children": [
+    "79402@17",
+    "103464@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

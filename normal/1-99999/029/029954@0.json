@@ -1,0 +1,31 @@
+{
+  "id": 29954,
+  "name": "3",
+  "generation": 0,
+  "created_at": "2017-12-02T15:28:03.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm 3. All you need to know about me is I hate salad with a passion. My secret indulgence is lasagna. Will you be the pickles to my soy sauce?",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "32005@1",
+    "32333@6",
+    "32696@4",
+    "36629@8",
+    "49509@3",
+    "72464@1",
+    "305069@1",
+    "313659@1",
+    "319080@1",
+    "323009@1",
+    "335968@1",
+    "356682@1",
+    "403740@1",
+    "407821@1",
+    "455731@1"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

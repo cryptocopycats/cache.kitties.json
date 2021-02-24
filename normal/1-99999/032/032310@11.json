@@ -1,0 +1,21 @@
+{
+  "id": 32310,
+  "name": "Bob Saget",
+  "generation": 11,
+  "created_at": "2017-12-02T21:00:16.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! Bob Saget here. I'm here to enjoy riding dirty and riding unicorns. I'm often described as annoying, and I own it. Our friendship will be voluptuous, seductive, and full of steak.",
+  "language": "en",
+  "matron": "20576@10",
+  "sire": "26814@0",
+  "children": [
+    "32792@12",
+    "34353@14",
+    "39578@12",
+    "69013@15",
+    "77241@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

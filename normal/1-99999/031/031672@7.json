@@ -1,0 +1,20 @@
+{
+  "id": 31672,
+  "name": "Rare Leopard Kitty",
+  "generation": 7,
+  "created_at": "2017-12-02T19:40:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Rare Leopard Kitty. I believe the world is flat. Sometimes I daydream of a life full of watching Stranger Things, steak, and watching reality tv. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "24872@6",
+  "sire": "31166@6",
+  "children": [
+    "38978@10",
+    "50669@8",
+    "55012@8",
+    "59993@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

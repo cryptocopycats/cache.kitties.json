@@ -1,0 +1,25 @@
+{
+  "id": 32823,
+  "name": "BirdCat PureBreed!",
+  "generation": 14,
+  "created_at": "2017-12-02T22:07:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm BirdCat PureBreed!. I believe the world is flat. I once headbutted a rooster. I don't like to talk about it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32375@8",
+  "sire": "30356@13",
+  "children": [
+    "39720@15",
+    "49446@15",
+    "54145@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 207,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

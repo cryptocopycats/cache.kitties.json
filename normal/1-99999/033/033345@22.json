@@ -1,0 +1,18 @@
+{
+  "id": 33345,
+  "name": "Gen 22",
+  "generation": 22,
+  "created_at": "2017-12-02T23:08:32.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Gen 22. I enjoy grooming, chasing string, and tricking babies. I put marmite on everything. Like, everything: hot dogs, steak—everything! Let's pawty!",
+  "language": "en",
+  "matron": "19618@18",
+  "sire": "18078@21",
+  "children": [
+    "44906@23",
+    "139361@23"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

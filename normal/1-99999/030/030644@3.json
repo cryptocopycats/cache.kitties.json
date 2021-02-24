@@ -1,0 +1,21 @@
+{
+  "id": 30644,
+  "name": "Kyrie",
+  "generation": 3,
+  "created_at": "2017-12-02T17:26:22.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kyrie. I'm often referred to as the Cersei Lannister of the group. I was voted school jock in college. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "16592@2",
+  "sire": "23398@2",
+  "children": [
+    "30754@4",
+    "31097@4",
+    "39659@13",
+    "49946@13",
+    "196549@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

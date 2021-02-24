@@ -1,0 +1,18 @@
+{
+  "id": 29389,
+  "name": "Chestnut",
+  "generation": 19,
+  "created_at": "2017-12-02T13:42:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Chestnut. I want to live in a world where people believe the world is flat. I put pickles on everything. Like, everything: hot dogs, steak—everything! Can you make my annoying dreams come true?",
+  "language": "en",
+  "matron": "23678@16",
+  "sire": "27026@18",
+  "children": [
+    "39985@20",
+    "134366@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 31570,
+  "name": "Scooby Snax",
+  "generation": 16,
+  "created_at": "2017-12-02T19:30:38.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! I'm Scooby Snax. All you need to know about me is I hate hamburgers with a passion. Sometimes I daydream of a life full of slappin' da bass, ice cream, and riverdancing. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "27775@13",
+  "sire": "28753@15",
+  "children": [
+    "36648@17",
+    "42939@17",
+    "68326@17",
+    "140604@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

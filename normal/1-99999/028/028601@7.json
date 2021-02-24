@@ -1,0 +1,22 @@
+{
+  "id": 28601,
+  "name": "G7 Plod Peach Mauve",
+  "generation": 7,
+  "created_at": "2017-12-02T10:57:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm G7 Plod Peach Mauve. My friends describe me as wondrous and hairy. My secret indulgence is apple pie. Our friendship will be wondrous, hairy, and full of cereal.",
+  "language": "en",
+  "matron": "26480@4",
+  "sire": "28089@6",
+  "children": [
+    "28842@8",
+    "29320@8",
+    "29758@8",
+    "30747@8",
+    "32947@9",
+    "46143@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

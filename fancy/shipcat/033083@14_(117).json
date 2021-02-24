@@ -1,0 +1,25 @@
+{
+  "id": 33083,
+  "name": "Super Sailor (RARE)",
+  "generation": 14,
+  "created_at": "2017-12-02T22:29:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! Super Sailor (RARE) here. I'm here to enjoy watching Stranger Things and tricking babies. Sometimes I daydream of a life full of staying woke, apple pie, and volunteering at the local kitten rescue shelter. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "14185@13",
+  "sire": "14367@12",
+  "children": [
+    "42722@15",
+    "48747@16",
+    "65217@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 117,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

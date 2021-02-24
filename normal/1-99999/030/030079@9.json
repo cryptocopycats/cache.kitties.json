@@ -1,0 +1,23 @@
+{
+  "id": 30079,
+  "name": "Captain blue 9",
+  "generation": 9,
+  "created_at": "2017-12-02T15:44:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Captain blue 9. I enjoy eating until I loathe myself, eating lasagna, and hitting on yo' man. I once made a dolphin dance. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "29843@8",
+  "sire": "29390@6",
+  "children": [
+    "30356@13",
+    "30739@12",
+    "30947@10",
+    "32877@12",
+    "34387@10",
+    "54243@10",
+    "87813@10"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

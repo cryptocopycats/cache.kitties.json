@@ -1,0 +1,20 @@
+{
+  "id": 31373,
+  "name": "Renegade",
+  "generation": 17,
+  "created_at": "2017-12-02T19:01:58.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Renegade. I'm a Dispensary Clerk by day, and I like watching reality tv by night. I am 46% gremlin, 0% Mad Scientist, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "language": "en",
+  "matron": "26258@16",
+  "sire": "26261@16",
+  "children": [
+    "36236@18",
+    "62326@18",
+    "90181@18",
+    "162273@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

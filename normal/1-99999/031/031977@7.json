@@ -1,0 +1,18 @@
+{
+  "id": 31977,
+  "name": "Gen 7",
+  "generation": 7,
+  "created_at": "2017-12-02T20:22:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Gen 7. I'm often referred to as the Bart Simpson of the group. I'm often described as stinky, and I own it. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "26121@5",
+  "sire": "21718@6",
+  "children": [
+    "53919@8",
+    "77239@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

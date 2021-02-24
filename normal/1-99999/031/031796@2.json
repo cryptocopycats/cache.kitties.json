@@ -1,0 +1,28 @@
+{
+  "id": 31796,
+  "name": "Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-02T19:56:01.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Gen 2. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of fighting for the people, apple pie, and playing chess. Let's pawty!",
+  "language": "en",
+  "matron": "30064@1",
+  "sire": "30222@1",
+  "children": [
+    "31842@3",
+    "31874@3",
+    "32155@3",
+    "32447@3",
+    "33169@3",
+    "35557@3",
+    "37134@3",
+    "49287@3",
+    "64961@3",
+    "115792@3",
+    "142759@3",
+    "231473@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

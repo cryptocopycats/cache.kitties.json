@@ -1,0 +1,20 @@
+{
+  "id": 33637,
+  "name": "Gen 6 - Topaz + Cymric",
+  "generation": 6,
+  "created_at": "2017-12-02T23:33:46.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! Gen 6 - Topaz + Cymric here. I'm here to enjoy sitting on your computer and riding unicorns. I am 27% oracle, 61% Skydiving Instructor, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "language": "en",
+  "matron": "32696@4",
+  "sire": "30043@5",
+  "children": [
+    "33943@7",
+    "36781@7",
+    "44336@7",
+    "48758@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

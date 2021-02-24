@@ -1,0 +1,19 @@
+{
+  "id": 31666,
+  "name": "Golden Gen 3",
+  "generation": 3,
+  "created_at": "2017-12-02T19:40:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Golden Gen 3. I'm a professional Mad Scientist and I love lasagna. I'm convinced that the world is flat. One day I'll prove it. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "30995@2",
+  "sire": "31106@2",
+  "children": [
+    "89754@4",
+    "90055@4",
+    "92045@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

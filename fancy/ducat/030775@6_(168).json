@@ -1,0 +1,28 @@
+{
+  "id": 30775,
+  "name": "G6 Bird | 1st gen",
+  "generation": 6,
+  "created_at": "2017-12-02T17:43:12.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm G6 Bird | 1st gen. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of shakin' dat booty, chocolate, and reading Danielle Steele. Will you be the soy sauce to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24619@5",
+  "sire": "30049@5",
+  "children": [
+    "31029@7",
+    "31241@7",
+    "31791@7",
+    "33488@7",
+    "36727@7",
+    "267684@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 168,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

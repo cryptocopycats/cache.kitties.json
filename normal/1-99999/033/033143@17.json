@@ -1,0 +1,19 @@
+{
+  "id": 33143,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-02T22:38:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #33143. My friends describe me as prickly and hairy. I put pickles on everything. Like, everything: hot dogs, apple pie—everything! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "26144@15",
+  "sire": "24434@16",
+  "children": [
+    "38272@18",
+    "68783@18",
+    "80616@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

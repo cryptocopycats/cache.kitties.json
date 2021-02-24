@@ -1,0 +1,18 @@
+{
+  "id": 28464,
+  "name": "G6 | Stock",
+  "generation": 6,
+  "created_at": "2017-12-02T10:29:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm G6 | Stock. In high school, I was voted school jock. Sometimes I daydream of a life full of chasing string, wet food, and reading Danielle Steele. Can you make my wondrous dreams come true?",
+  "language": "en",
+  "matron": "25147@5",
+  "sire": "17536@5",
+  "children": [
+    "28699@7",
+    "28960@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

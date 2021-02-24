@@ -1,0 +1,26 @@
+{
+  "id": 30435,
+  "name": "Gen 3 Snappy",
+  "generation": 3,
+  "created_at": "2017-12-02T16:42:09.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Gen 3 Snappy. I enjoy being a nevernude, tripping my owner, and slappin' da bass. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "language": "en",
+  "matron": "14459@2",
+  "sire": "29734@2",
+  "children": [
+    "30781@4",
+    "30835@4",
+    "31674@4",
+    "32168@4",
+    "33405@4",
+    "36178@4",
+    "49300@4",
+    "106425@4",
+    "118996@4",
+    "195340@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

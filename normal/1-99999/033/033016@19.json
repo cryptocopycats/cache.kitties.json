@@ -1,0 +1,22 @@
+{
+  "id": 33016,
+  "name": "HappyFur",
+  "generation": 19,
+  "created_at": "2017-12-02T22:22:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm HappyFur. I've never told anyone this, but I once groomed a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. This will be an amewsing friendship.",
+  "language": "en",
+  "matron": "24577@18",
+  "sire": "26220@18",
+  "children": [
+    "75280@20",
+    "107113@21",
+    "152020@20",
+    "295029@20",
+    "322369@20",
+    "1785804@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 30086,
+  "name": "Fancy Chancy™️",
+  "generation": 12,
+  "created_at": "2017-12-02T15:48:11.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Fancy Chancy™️. I enjoy eating lasagna, chasing string, and picking on mice. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I look forward to sitting on your computer with you.",
+  "language": "en",
+  "matron": "28766@6",
+  "sire": "18385@11",
+  "children": [
+    "31227@21",
+    "51217@13",
+    "62290@13",
+    "116977@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

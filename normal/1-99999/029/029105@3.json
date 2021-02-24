@@ -1,0 +1,24 @@
+{
+  "id": 29105,
+  "name": "Lion Runner",
+  "generation": 3,
+  "created_at": "2017-12-02T12:39:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Lion Runner. All you need to know about me is I hate salad with a passion. Some people say I'm the Neville Longbottom of the group. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "28052@2",
+  "sire": "27920@2",
+  "children": [
+    "33297@4",
+    "33490@4",
+    "33667@4",
+    "34787@4",
+    "35509@4",
+    "36777@4",
+    "46159@4",
+    "58239@4"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

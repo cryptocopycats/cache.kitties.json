@@ -1,0 +1,24 @@
+{
+  "id": 30544,
+  "name": "Gen 4| S | Strawberry Lemonade",
+  "generation": 4,
+  "created_at": "2017-12-02T17:10:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 4| S | Strawberry Lemonade. In high school, I was voted school jock. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I hope we can be tantalizing friends.",
+  "language": "en",
+  "matron": "30463@3",
+  "sire": "29810@1",
+  "children": [
+    "30660@5",
+    "32651@5",
+    "43086@5",
+    "43410@5",
+    "44841@5",
+    "49523@5",
+    "69599@5",
+    "78682@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

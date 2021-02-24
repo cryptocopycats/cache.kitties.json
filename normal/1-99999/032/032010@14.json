@@ -1,0 +1,19 @@
+{
+  "id": 32010,
+  "name": "Snaggle Emlim",
+  "generation": 14,
+  "created_at": "2017-12-02T20:27:52.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Snaggle Emlim. My friends describe me as brilliant and gorgeous. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "31696@8",
+  "sire": "22229@13",
+  "children": [
+    "71807@15",
+    "247903@21",
+    "272933@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

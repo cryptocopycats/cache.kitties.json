@@ -1,0 +1,20 @@
+{
+  "id": 30127,
+  "name": "gen 2 oranž",
+  "generation": 2,
+  "created_at": "2017-12-02T15:54:39.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm gen 2 oranž. I believe that one day cats will rule this planet. I put marmite on everything. Like, everything: hot dogs, lasagna—everything! I think you'll love me beclaws I have cattitude.",
+  "language": "en",
+  "matron": "5575@1",
+  "sire": "5576@1",
+  "children": [
+    "32723@3",
+    "33700@3",
+    "42500@3",
+    "49289@3"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

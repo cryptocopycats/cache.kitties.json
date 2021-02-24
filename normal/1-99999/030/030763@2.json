@@ -1,0 +1,19 @@
+{
+  "id": 30763,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-02T17:41:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #30763. I'm a professional Dogwalker and I love cereal. When I'm not tricking babies, I'm talking about how much I lift! We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "3061@1",
+  "sire": "3003@1",
+  "children": [
+    "30816@3",
+    "31467@3",
+    "46310@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 30343,
+  "name": "Wise guy",
+  "generation": 12,
+  "created_at": "2017-12-02T16:30:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Wise guy. I'm often referred to as the Ron Weasley of the group. I would give it all up to star in a soap opera. Let's pawty!",
+  "language": "en",
+  "matron": "27369@11",
+  "sire": "28854@11",
+  "children": [
+    "30666@13",
+    "31770@13",
+    "41188@13"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

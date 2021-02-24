@@ -1,0 +1,22 @@
+{
+  "id": 28598,
+  "name": "G7 Cerulian",
+  "generation": 7,
+  "created_at": "2017-12-02T10:57:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm G7 Cerulian. I'm often referred to as the Ron Weasley of the group. In my free time, I can usually be found despicable or siring for status. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "28171@6",
+  "sire": "22575@6",
+  "children": [
+    "40041@8",
+    "50556@8",
+    "53695@8",
+    "75456@8",
+    "81967@8",
+    "89411@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

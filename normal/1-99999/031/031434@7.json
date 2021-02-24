@@ -1,0 +1,22 @@
+{
+  "id": 31434,
+  "name": "LIMEGREEN",
+  "generation": 7,
+  "created_at": "2017-12-02T19:18:51.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm LIMEGREEN. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Confucius. Can you make my gorgeous dreams come true?",
+  "language": "en",
+  "matron": "31311@6",
+  "sire": "31321@6",
+  "children": [
+    "31794@8",
+    "31934@8",
+    "34443@9",
+    "288542@9",
+    "382296@8",
+    "660434@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

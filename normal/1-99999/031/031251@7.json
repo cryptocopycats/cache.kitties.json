@@ -1,0 +1,23 @@
+{
+  "id": 31251,
+  "name": "GEN 7 Cymric brisk",
+  "generation": 7,
+  "created_at": "2017-12-02T18:44:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm GEN 7 Cymric brisk. In high school, I was voted school jock. I am 38% oracle, 69% Foreign Film Director, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "27323@6",
+  "sire": "23989@6",
+  "children": [
+    "31463@8",
+    "34089@8",
+    "40618@8",
+    "69088@8",
+    "156428@8",
+    "363665@13",
+    "366148@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

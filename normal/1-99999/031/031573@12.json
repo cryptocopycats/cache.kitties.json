@@ -1,0 +1,22 @@
+{
+  "id": 31573,
+  "name": "Brisk Chocolate Munchkin",
+  "generation": 12,
+  "created_at": "2017-12-02T19:30:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Brisk Chocolate Munchkin. I'm often referred to as the Cersei Lannister of the group. I am 38% gremlin, 93% Private Dancer , and otherwise bad at math. Can't wait to eat cantaloupe with you!",
+  "language": "en",
+  "matron": "29843@8",
+  "sire": "29183@11",
+  "children": [
+    "33726@13",
+    "36771@18",
+    "56184@18",
+    "62274@15",
+    "111813@13",
+    "160455@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

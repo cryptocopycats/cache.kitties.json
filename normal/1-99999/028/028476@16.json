@@ -1,0 +1,22 @@
+{
+  "id": 28476,
+  "name": "Mr. Meow",
+  "generation": 16,
+  "created_at": "2017-12-02T10:32:17.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! Mr. Meow here. I'm here to enjoy staying woke and chasing red dots. My friends describe me as \"ridiculous.\" It's... accurate. Let's get busy!",
+  "language": "en",
+  "matron": "15944@15",
+  "sire": "10715@15",
+  "children": [
+    "36671@18",
+    "118584@18",
+    "181973@22",
+    "237129@17",
+    "296670@17",
+    "409085@17"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

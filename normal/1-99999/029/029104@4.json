@@ -1,0 +1,22 @@
+{
+  "id": 29104,
+  "name": "G4 Seafood Pink",
+  "generation": 4,
+  "created_at": "2017-12-02T12:39:25.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm G4 Seafood Pink. I'm often referred to as the Steve Urkel of the group. When I'm not braiding people's hair, I'm volunteering at the local kitten rescue shelter! I hope we can be pawmates.",
+  "language": "en",
+  "matron": "27938@3",
+  "sire": "28010@3",
+  "children": [
+    "29685@5",
+    "30796@5",
+    "36167@5",
+    "37242@5",
+    "51295@5",
+    "58024@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

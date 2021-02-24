@@ -1,0 +1,20 @@
+{
+  "id": 29615,
+  "name": "Gen8 | Bubblegum Plodding",
+  "generation": 8,
+  "created_at": "2017-12-02T14:21:54.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Gen8 | Bubblegum Plodding. I'm often referred to as the Chandler Bing of the group. I am 7% oracle, 67% Aerobics Athlete , and otherwise bad at math. Let's get busy!",
+  "language": "en",
+  "matron": "26215@7",
+  "sire": "28999@7",
+  "children": [
+    "29928@9",
+    "33411@10",
+    "42150@9",
+    "79517@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

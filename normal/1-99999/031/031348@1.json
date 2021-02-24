@@ -1,0 +1,23 @@
+{
+  "id": 31348,
+  "name": "Gen 1 B",
+  "generation": 1,
+  "created_at": "2017-12-02T18:58:21.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen 1 B. In high school, I was voted school jock. Sometimes I daydream of a life full of chasing string, lasagna, and pole dancing. Will you be the cinammon to my wasabi?",
+  "language": "en",
+  "matron": "29047@0",
+  "sire": "27629@0",
+  "children": [
+    "43259@2",
+    "43369@2",
+    "44031@2",
+    "49545@2",
+    "51515@2",
+    "52658@2",
+    "53944@2"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

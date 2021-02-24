@@ -1,0 +1,21 @@
+{
+  "id": 33401,
+  "name": "Gen 13 | Beard",
+  "generation": 13,
+  "created_at": "2017-12-02T23:13:59.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! My name's Gen 13 | Beard. I once peed on Princess Diana's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Can you make my vegan dreams come true?",
+  "language": "en",
+  "matron": "32780@3",
+  "sire": "6443@12",
+  "children": [
+    "35047@14",
+    "49493@14",
+    "61364@19",
+    "97347@14",
+    "153732@15"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

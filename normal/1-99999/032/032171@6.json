@@ -1,0 +1,22 @@
+{
+  "id": 32171,
+  "name": "Briskers",
+  "generation": 6,
+  "created_at": "2017-12-02T20:46:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Briskers here. I'm here to enjoy tricking babies and glaring at the neighbour's cat. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope you like kitten around as much as I do!",
+  "language": "en",
+  "matron": "23354@5",
+  "sire": "20510@1",
+  "children": [
+    "56929@8",
+    "71324@8",
+    "73896@15",
+    "87780@8",
+    "96596@7",
+    "110028@7"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

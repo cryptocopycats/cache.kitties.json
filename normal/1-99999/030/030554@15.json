@@ -1,0 +1,19 @@
+{
+  "id": 30554,
+  "name": "Lady Kit-Cat",
+  "generation": 15,
+  "created_at": "2017-12-02T17:12:05.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Lady Kit-Cat. In high school, I was voted biggest teacher's pet. Some people say I'm the Jon Snow of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "language": "en",
+  "matron": "12413@13",
+  "sire": "13215@14",
+  "children": [
+    "37463@16",
+    "37978@16",
+    "61062@18"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 28835,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-02T11:53:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #28835. I enjoy grooming, reading garfield, and glaring at the neighbour's cat. I was voted biggest teacher's pet in college. I hope we can be gullible friends.",
+  "language": "en",
+  "matron": "18076@13",
+  "sire": "17493@14",
+  "children": [
+    "44891@16",
+    "46009@20",
+    "55327@16",
+    "86415@16",
+    "533262@16"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

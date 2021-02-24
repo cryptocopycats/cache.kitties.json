@@ -1,0 +1,20 @@
+{
+  "id": 33674,
+  "name": "Gen 15",
+  "generation": 15,
+  "created_at": "2017-12-02T23:38:29.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Gen 15. In high school, I was voted school jock. I would give it all up to star in a soap opera. I look forward to riding unicorns with you.",
+  "language": "en",
+  "matron": "25589@9",
+  "sire": "28568@14",
+  "children": [
+    "36317@24",
+    "51531@16",
+    "59868@22",
+    "88284@21"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

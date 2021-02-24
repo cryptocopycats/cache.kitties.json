@@ -1,0 +1,17 @@
+{
+  "id": 32372,
+  "name": "Tigger",
+  "generation": 13,
+  "created_at": "2017-12-02T21:08:41.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Tigger. I've never told anyone this, but I once pranced with a dog. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "language": "en",
+  "matron": "30434@8",
+  "sire": "24089@12",
+  "children": [
+    "36130@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

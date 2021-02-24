@@ -1,0 +1,22 @@
+{
+  "id": 31242,
+  "name": "Gen 4",
+  "generation": 4,
+  "created_at": "2017-12-02T18:43:43.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Gen 4. My friends describe me as fabulous and gullible. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! I like your face.",
+  "language": "en",
+  "matron": "30360@3",
+  "sire": "29971@3",
+  "children": [
+    "31369@5",
+    "34138@5",
+    "35225@5",
+    "39549@5",
+    "57665@5",
+    "87398@5"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

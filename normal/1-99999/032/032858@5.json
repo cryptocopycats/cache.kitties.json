@@ -1,0 +1,19 @@
+{
+  "id": 32858,
+  "name": "5",
+  "generation": 5,
+  "created_at": "2017-12-02T22:11:30.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm 5. All you need to know about me is I hate cereal with a passion. I once got in a fight with a moose, and won. I look forward to spinning sick beats with you.",
+  "language": "en",
+  "matron": "5205@4",
+  "sire": "18847@4",
+  "children": [
+    "37706@6",
+    "37982@6",
+    "66399@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31709,
+  "name": "Gen 7 Starter G7",
+  "generation": 7,
+  "created_at": "2017-12-02T19:44:33.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Gen 7 Starter G7. I've never told anyone this, but I once licked a dog. When no one's home, I invite my pals over and we listen to Coldplay. In time you'll learn how purrfect I am.",
+  "language": "en",
+  "matron": "29439@6",
+  "sire": "30682@6",
+  "children": [
+    "39184@8",
+    "40169@8",
+    "42685@8",
+    "45309@9",
+    "61257@8",
+    "79942@8",
+    "111455@8",
+    "136741@8",
+    "187345@8"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

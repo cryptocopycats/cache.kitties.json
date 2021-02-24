@@ -1,0 +1,24 @@
+{
+  "id": 28367,
+  "name": "Charlemagne",
+  "generation": 5,
+  "created_at": "2017-12-02T10:13:13.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Charlemagne here. I'm here to enjoy tricking babies and eating lasagna. My secret indulgence is lasagna. I hope we can be vegan friends.",
+  "language": "en",
+  "matron": "28205@4",
+  "sire": "23633@4",
+  "children": [
+    "28411@6",
+    "28649@6",
+    "28862@6",
+    "29307@9",
+    "29949@6",
+    "39152@6",
+    "44340@6",
+    "66309@6"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

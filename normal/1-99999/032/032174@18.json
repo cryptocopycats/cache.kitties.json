@@ -1,0 +1,19 @@
+{
+  "id": 32174,
+  "name": "Zen",
+  "generation": 18,
+  "created_at": "2017-12-02T20:46:42.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Zen. I'm a Aerobics Athlete  by day, and I like mocking dogs by night. I once got in a fight with a moose, and won. It's pawesome to meet you!",
+  "language": "en",
+  "matron": "30399@10",
+  "sire": "31466@17",
+  "children": [
+    "33069@19",
+    "43247@19",
+    "74109@19"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

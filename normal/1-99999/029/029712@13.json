@@ -1,0 +1,21 @@
+{
+  "id": 29712,
+  "name": "Gen 13",
+  "generation": 13,
+  "created_at": "2017-12-02T14:38:08.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gen 13. I'm often referred to as the Steve Urkel of the group. I would give it all up for a Chanel purse. Can you make my stinky dreams come true?",
+  "language": "en",
+  "matron": "12265@12",
+  "sire": "19056@12",
+  "children": [
+    "36552@14",
+    "47373@16",
+    "53371@17",
+    "66266@16",
+    "79594@14"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

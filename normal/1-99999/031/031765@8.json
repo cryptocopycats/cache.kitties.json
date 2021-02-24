@@ -1,0 +1,20 @@
+{
+  "id": 31765,
+  "name": "Camo Cat",
+  "generation": 8,
+  "created_at": "2017-12-02T19:50:45.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Camo Cat. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Aretha Franklin. I look forward to glaring at the neighbour's cat with you.",
+  "language": "en",
+  "matron": "31273@3",
+  "sire": "31430@7",
+  "children": [
+    "32104@15",
+    "36693@14",
+    "45710@11",
+    "57383@9"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

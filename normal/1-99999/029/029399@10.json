@@ -1,0 +1,19 @@
+{
+  "id": 29399,
+  "name": "WiseGuy",
+  "generation": 10,
+  "created_at": "2017-12-02T13:45:14.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm WiseGuy. All you need to know about me is I hate chocolate with a passion. I am 13% hobbit, 96% Private Dancer , and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "language": "en",
+  "matron": "29213@5",
+  "sire": "28664@9",
+  "children": [
+    "33356@12",
+    "39544@17",
+    "105451@11"
+  ],
+  "hatched": true,
+  "wrapped": false
+}

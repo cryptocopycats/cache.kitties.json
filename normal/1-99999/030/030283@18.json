@@ -1,0 +1,20 @@
+{
+  "id": 30283,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-02T16:21:19.000Z",
+  "birthday": "2017-12-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #30283. I'm a professional Ventriloquist and I love cereal. I once got in a fight with a rooster, and won. Will you be the ranch dressing to my soy sauce?",
+  "language": "en",
+  "matron": "21216@17",
+  "sire": "24264@6",
+  "children": [
+    "58013@19",
+    "108544@19",
+    "117080@21",
+    "179146@20"
+  ],
+  "hatched": true,
+  "wrapped": false
+}
