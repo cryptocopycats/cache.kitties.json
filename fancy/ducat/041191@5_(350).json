@@ -1,0 +1,31 @@
+{
+  "id": 41191,
+  "name": "🐈G5 | Dog Snuggler",
+  "generation": 5,
+  "created_at": "2017-12-03T10:50:44.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm 🐈G5 | Dog Snuggler. I've never told anyone this, but I once snuggled a dog. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Will you be the ghost pepper hot sauce to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37585@2",
+  "sire": "38299@4",
+  "children": [
+    "41536@7",
+    "42086@7",
+    "42199@7",
+    "44166@7",
+    "55812@6",
+    "64401@7",
+    "81581@7",
+    "99916@7",
+    "228345@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 350,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

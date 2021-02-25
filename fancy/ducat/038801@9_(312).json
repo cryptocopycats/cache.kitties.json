@@ -1,0 +1,25 @@
+{
+  "id": 38801,
+  "name": "RARE Gen 9 Brisk Fancy Duck",
+  "generation": 9,
+  "created_at": "2017-12-03T07:47:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm RARE Gen 9 Brisk Fancy Duck. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37885@8",
+  "sire": "36176@8",
+  "children": [
+    "72751@10",
+    "89016@11",
+    "200068@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 312,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

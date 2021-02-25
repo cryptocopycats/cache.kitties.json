@@ -1,0 +1,28 @@
+{
+  "id": 35466,
+  "name": "Taichou",
+  "generation": 10,
+  "created_at": "2017-12-03T02:23:53.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Taichou. My friends describe me as seductive and brilliant. When no one's home, I invite my pals over and we listen to Michael Bolton. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "35186@7",
+  "sire": "35324@9",
+  "children": [
+    "35657@11",
+    "37148@11",
+    "40691@11",
+    "46339@11",
+    "51875@11",
+    "455914@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 130,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

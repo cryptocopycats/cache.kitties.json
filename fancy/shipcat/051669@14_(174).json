@@ -1,0 +1,24 @@
+{
+  "id": 51669,
+  "name": "Sperm Whale",
+  "generation": 14,
+  "created_at": "2017-12-04T02:10:07.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Sperm Whale. I'm a Spin Instructor  by day, and I like tricking babies by night. I am 38% oracle, 93% Aerobics Athlete , and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "45539@13",
+  "sire": "46061@13",
+  "children": [
+    "54767@15",
+    "334706@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 174,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 52460,
+  "name": "Captn cat/Super rare/virgin",
+  "generation": 12,
+  "created_at": "2017-12-04T02:54:39.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Captn cat/Super rare/virgin. In high school, I was voted school jock. I was voted school jock in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19816@9",
+  "sire": "25676@11",
+  "children": [
+    "94646@16",
+    "216263@13",
+    "227162@13",
+    "533955@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 176,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

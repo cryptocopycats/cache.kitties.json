@@ -1,0 +1,29 @@
+{
+  "id": 41850,
+  "name": "Pure Duck Bird breed G17",
+  "generation": 17,
+  "created_at": "2017-12-03T11:47:36.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Pure Duck Bird breed G17. I'm a Train Conductor by day, and I like volunteering at the local kitten rescue shelter by night. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35444@16",
+  "sire": "24278@6",
+  "children": [
+    "56809@18",
+    "83168@18",
+    "90200@18",
+    "235999@18",
+    "308446@18",
+    "362829@18",
+    "700520@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 361,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

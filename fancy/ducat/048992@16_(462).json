@@ -1,0 +1,23 @@
+{
+  "id": 48992,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-03T23:45:37.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! Kitty #48992 here. I'm here to enjoy licking doorknobs and sweating through my feet. When I'm not volunteering at the local kitten rescue shelter, I'm swiping right! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24278@6",
+  "sire": "27094@15",
+  "children": [
+    "172268@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 462,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

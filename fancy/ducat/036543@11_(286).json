@@ -1,0 +1,25 @@
+{
+  "id": 36543,
+  "name": "Marge ducky G11 Brisky",
+  "generation": 11,
+  "created_at": "2017-12-03T04:48:51.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Marge ducky G11 Brisky. All you need to know about me is I hate wet food with a passion. Some people say I'm the Marge Simpson of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34956@7",
+  "sire": "35594@10",
+  "children": [
+    "39370@12",
+    "227043@12",
+    "231419@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 286,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

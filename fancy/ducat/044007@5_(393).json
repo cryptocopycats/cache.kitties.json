@@ -1,0 +1,31 @@
+{
+  "id": 44007,
+  "name": "G5 - Duck - Virgin",
+  "generation": 5,
+  "created_at": "2017-12-03T14:58:11.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm G5 - Duck - Virgin. My friends describe me as seductive and prickly. I once bit a chimpanzee. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31152@4",
+  "sire": "30778@4",
+  "children": [
+    "126040@6",
+    "142215@6",
+    "170484@6",
+    "174975@10",
+    "208207@6",
+    "224846@6",
+    "242973@6",
+    "248576@6",
+    "270611@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 393,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

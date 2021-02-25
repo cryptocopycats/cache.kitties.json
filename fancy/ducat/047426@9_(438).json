@@ -1,0 +1,27 @@
+{
+  "id": 47426,
+  "name": "Fancy Purrdy Kitteh 9",
+  "generation": 9,
+  "created_at": "2017-12-03T22:21:38.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Fancy Purrdy Kitteh 9. All you need to know about me is I hate salad with a passion. I would give it all up to star in a soap opera. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40945@8",
+  "sire": "43957@8",
+  "children": [
+    "63823@10",
+    "114871@10",
+    "117380@10",
+    "122353@10",
+    "133986@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 438,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

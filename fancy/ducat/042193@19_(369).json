@@ -1,0 +1,24 @@
+{
+  "id": 42193,
+  "name": "Favreau",
+  "generation": 19,
+  "created_at": "2017-12-03T12:11:07.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Favreau. My friends describe me as voluptuous and petulant. I once got in a fight with a goose, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "14456@11",
+  "sire": "14366@18",
+  "children": [
+    "48214@20",
+    "86608@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 369,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

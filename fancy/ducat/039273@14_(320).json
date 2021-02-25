@@ -1,0 +1,25 @@
+{
+  "id": 39273,
+  "name": "G14 Duck Cat",
+  "generation": 14,
+  "created_at": "2017-12-03T08:20:52.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm G14 Duck Cat. I'm a professional Aerobics Athlete  and I love wet food. My secret indulgence is salad. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27151@13",
+  "sire": "27132@12",
+  "children": [
+    "42722@15",
+    "46643@15",
+    "74046@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 320,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 38944,
+  "name": "G7 | 2",
+  "generation": 7,
+  "created_at": "2017-12-03T07:56:35.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm G7 | 2. I'm a professional Culinary Sanitation Specialist and I love apple pie. I like to listen to Metallica while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27997@6",
+  "sire": "33514@6",
+  "children": [
+    "84517@8",
+    "329535@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 317,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

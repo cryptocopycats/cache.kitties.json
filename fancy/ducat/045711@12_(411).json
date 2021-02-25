@@ -1,0 +1,27 @@
+{
+  "id": 45711,
+  "name": "Low number Duck Cat",
+  "generation": 12,
+  "created_at": "2017-12-03T20:58:41.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Low number Duck Cat. I enjoy staying woke, being a nevernude, and tripping my owner. My secret indulgence is lasagna. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19007@10",
+  "sire": "37931@11",
+  "children": [
+    "51279@19",
+    "523192@13",
+    "524780@13",
+    "526914@13",
+    "530519@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 411,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

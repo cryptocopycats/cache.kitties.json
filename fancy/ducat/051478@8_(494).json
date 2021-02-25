@@ -1,0 +1,26 @@
+{
+  "id": 51478,
+  "name": "G8 | Fancy Bird",
+  "generation": 8,
+  "created_at": "2017-12-04T01:57:42.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm G8 | Fancy Bird. In high school, I was voted biggest teacher's pet. I once clawed a dog. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40953@7",
+  "sire": "32101@7",
+  "children": [
+    "54521@9",
+    "55589@11",
+    "60422@9",
+    "64926@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 494,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

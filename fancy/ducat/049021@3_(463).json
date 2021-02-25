@@ -1,0 +1,33 @@
+{
+  "id": 49021,
+  "name": "Kitty 49021",
+  "generation": 3,
+  "created_at": "2017-12-03T23:47:24.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! Kitty 49021 here. I'm here to enjoy reading garfield and riding dirty. When I'm not mocking dogs, I'm tricking babies! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24954@2",
+  "sire": "26855@2",
+  "children": [
+    "127246@4",
+    "127851@4",
+    "128967@4",
+    "130601@4",
+    "132005@4",
+    "134106@4",
+    "138485@4",
+    "154993@4",
+    "161192@4",
+    "197552@4",
+    "276503@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 463,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

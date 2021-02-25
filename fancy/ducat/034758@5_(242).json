@@ -1,0 +1,26 @@
+{
+  "id": 34758,
+  "name": "Ducky G5",
+  "generation": 5,
+  "created_at": "2017-12-03T01:20:04.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Ducky G5. All you need to know about me is I hate apple pie with a passion. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33685@4",
+  "sire": "16117@4",
+  "children": [
+    "35122@6",
+    "35499@6",
+    "70846@6",
+    "72481@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 242,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

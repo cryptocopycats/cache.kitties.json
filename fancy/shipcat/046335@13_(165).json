@@ -1,0 +1,30 @@
+{
+  "id": 46335,
+  "name": "www.goodkitty.net",
+  "generation": 13,
+  "created_at": "2017-12-03T21:33:03.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm www.goodkitty.net. All you need to know about me is I hate hamburgers with a passion. I would give it all up for a Chanel purse. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "43607@12",
+  "sire": "3745@1",
+  "children": [
+    "54586@14",
+    "99333@14",
+    "178511@14",
+    "190685@14",
+    "253563@14",
+    "409390@14",
+    "473289@14",
+    "571375@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 165,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

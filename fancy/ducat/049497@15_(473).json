@@ -1,0 +1,23 @@
+{
+  "id": 49497,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-04T00:09:21.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Kitty #49497. I once peed on Martin Luther King Jr.'s cat. They had it coming. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33446@14",
+  "sire": "29588@9",
+  "children": [
+    "356946@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 473,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

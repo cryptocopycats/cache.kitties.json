@@ -1,0 +1,28 @@
+{
+  "id": 42155,
+  "name": "Birdcat №368",
+  "generation": 6,
+  "created_at": "2017-12-03T12:07:28.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Birdcat №368. I enjoy glaring at the neighbour's cat, watching Stranger Things, and tripping my owner. My secret indulgence is cantaloupe. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31821@5",
+  "sire": "37470@5",
+  "children": [
+    "43949@7",
+    "44986@7",
+    "49346@7",
+    "49814@7",
+    "67032@7",
+    "1137407@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 368,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 44704,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-03T16:14:33.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #44704. I believe that one day cats will rule this planet. I like to listen to Wutang while grooming. Don't judge me. Can you make my vegan dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34107@7",
+  "sire": "35229@9",
+  "children": [
+    "52985@12",
+    "89487@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 403,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

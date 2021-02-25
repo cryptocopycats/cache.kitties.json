@@ -1,0 +1,24 @@
+{
+  "id": 48711,
+  "name": "TWEETY BIRD CHILD | BREEDER",
+  "generation": 17,
+  "created_at": "2017-12-03T23:38:47.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm TWEETY BIRD CHILD | BREEDER. My friends describe me as fabulous and vegan. I put maple syrup on everything. Like, everything: hot dogs, chocolate—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "16112@16",
+  "sire": "24410@5",
+  "children": [
+    "55765@18",
+    "111895@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 458,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

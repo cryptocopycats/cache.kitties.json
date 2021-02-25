@@ -1,0 +1,25 @@
+{
+  "id": 38810,
+  "name": "Gen 12 bird",
+  "generation": 12,
+  "created_at": "2017-12-03T07:50:39.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Gen 12 bird. I want to live in a world where people believe the world is flat. I like to listen to Wutang while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29312@5",
+  "sire": "36524@11",
+  "children": [
+    "49919@13",
+    "56629@14",
+    "125766@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 313,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

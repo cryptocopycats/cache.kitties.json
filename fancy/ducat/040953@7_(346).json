@@ -1,0 +1,32 @@
+{
+  "id": 40953,
+  "name": "👑👑Highest chance born Fancy",
+  "generation": 7,
+  "created_at": "2017-12-03T10:40:01.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm 👑👑Highest chance born Fancy. I enjoy chasing red dots, picking on mice, and tricking babies. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40184@6",
+  "sire": "40468@6",
+  "children": [
+    "41465@8",
+    "41835@8",
+    "49181@8",
+    "51478@8",
+    "63962@8",
+    "84348@9",
+    "100299@9",
+    "176246@8",
+    "242736@8",
+    "354415@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 346,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

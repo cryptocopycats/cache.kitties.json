@@ -1,0 +1,32 @@
+{
+  "id": 46372,
+  "name": "稀世珍品",
+  "generation": 3,
+  "created_at": "2017-12-03T21:34:53.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm 稀世珍品. All you need to know about me is I hate lasagna with a passion. I put garlic butter on everything. Like, everything: hot dogs, ice cream—everything! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31567@2",
+  "sire": "44763@2",
+  "children": [
+    "51512@4",
+    "54214@4",
+    "54516@4",
+    "74082@7",
+    "187350@4",
+    "188666@4",
+    "192426@4",
+    "236116@4",
+    "237438@4",
+    "343709@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 417,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

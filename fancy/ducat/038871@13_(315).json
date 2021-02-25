@@ -1,0 +1,25 @@
+{
+  "id": 38871,
+  "name": "Duck Cat G13",
+  "generation": 13,
+  "created_at": "2017-12-03T07:55:00.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Duck Cat G13. My friends describe me as fabulous and tantalizing. I am 61% wizard, 82% Aerobics Athlete , and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28700@11",
+  "sire": "38075@12",
+  "children": [
+    "42214@14",
+    "49924@14",
+    "63620@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 315,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

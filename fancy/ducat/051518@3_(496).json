@@ -1,0 +1,24 @@
+{
+  "id": 51518,
+  "name": "Rare Fancy Bird | Gen 3 Swift",
+  "generation": 3,
+  "created_at": "2017-12-04T02:00:07.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! Rare Fancy Bird | Gen 3 Swift here. I'm here to enjoy spinning sick beats and watching Stranger Things. Sometimes I daydream of a life full of eating until I loathe myself, steak, and people-watching. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22454@2",
+  "sire": "30518@2",
+  "children": [
+    "215511@5",
+    "239857@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 496,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

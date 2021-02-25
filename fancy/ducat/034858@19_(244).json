@@ -1,0 +1,24 @@
+{
+  "id": 34858,
+  "name": "Cat Wing Duck",
+  "generation": 19,
+  "created_at": "2017-12-03T01:29:11.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's Cat Wing Duck. I once peed on Marie Antoinette's cat. They had it coming. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19198@0",
+  "sire": "26721@18",
+  "children": [
+    "47309@20",
+    "52441@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 244,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

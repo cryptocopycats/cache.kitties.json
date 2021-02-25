@@ -1,0 +1,30 @@
+{
+  "id": 41706,
+  "name": "gallina",
+  "generation": 11,
+  "created_at": "2017-12-03T11:34:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! gallina here. I'm here to enjoy eating until I loathe myself and hitting on yo' man. In my free time, I can usually be found brilliant or running a podcast. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36299@10",
+  "sire": "39488@7",
+  "children": [
+    "57101@12",
+    "84850@12",
+    "102873@12",
+    "111333@12",
+    "130697@12",
+    "157328@12",
+    "323491@12",
+    "467823@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 358,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

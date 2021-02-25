@@ -1,0 +1,29 @@
+{
+  "id": 34436,
+  "name": "DuckCat",
+  "generation": 3,
+  "created_at": "2017-12-03T00:51:58.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm DuckCat. In high school, I was voted school jock. I am 9% fairy, 35% Skydiving Instructor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19868@2",
+  "sire": "18362@2",
+  "children": [
+    "111401@5",
+    "114421@4",
+    "133030@14",
+    "168103@9",
+    "208687@6",
+    "551320@5",
+    "558433@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 236,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

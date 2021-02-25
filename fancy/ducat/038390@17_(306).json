@@ -1,0 +1,25 @@
+{
+  "id": 38390,
+  "name": "How2Duck?",
+  "generation": 17,
+  "created_at": "2017-12-03T07:21:55.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! My name's How2Duck?. I once peed on King Henry VIII's cat. They had it coming. I once pawed at a goose. I don't like to talk about it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18578@10",
+  "sire": "12893@16",
+  "children": [
+    "41488@18",
+    "48559@18",
+    "84251@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 306,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

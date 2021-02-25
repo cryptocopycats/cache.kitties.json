@@ -1,0 +1,33 @@
+{
+  "id": 43379,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-03T13:51:12.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! Kitty #43379 here. I'm here to enjoy tripping my owner and reading garfield. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Our friendship will be wondrous, fabulous, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39720@15",
+  "sire": "35297@12",
+  "children": [
+    "49213@17",
+    "66613@17",
+    "90092@17",
+    "156712@19",
+    "275380@19",
+    "373130@17",
+    "411122@17",
+    "476663@23",
+    "496858@20",
+    "503127@23",
+    "525389@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 384,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

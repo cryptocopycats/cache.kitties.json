@@ -1,0 +1,23 @@
+{
+  "id": 51843,
+  "name": "G16 Feathers Keaton",
+  "generation": 16,
+  "created_at": "2017-12-04T02:14:37.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm G16 Feathers Keaton. I enjoy taking selfies, reading garfield, and reciting poetry. I was voted biggest teacher's pet in college. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40612@11",
+  "sire": "28337@15",
+  "children": [
+    "63820@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 506,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

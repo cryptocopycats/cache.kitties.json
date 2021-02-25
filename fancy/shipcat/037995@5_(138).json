@@ -1,0 +1,27 @@
+{
+  "id": 37995,
+  "name": "Shipcat #138",
+  "generation": 5,
+  "created_at": "2017-12-03T06:35:40.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Shipcat #138. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "15442@3",
+  "sire": "37430@4",
+  "children": [
+    "38393@7",
+    "52125@6",
+    "66399@6",
+    "97769@6",
+    "138352@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 138,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 34422,
+  "name": "Fancy Bird Duck",
+  "generation": 22,
+  "created_at": "2017-12-03T00:51:22.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Fancy Bird Duck. I believe the world is flat. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26137@13",
+  "sire": "33173@21",
+  "children": [
+    "34781@23",
+    "217972@23",
+    "1612152@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 235,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 50882,
+  "name": "RARE💎FANCY CAT 💎",
+  "generation": 11,
+  "created_at": "2017-12-04T01:31:52.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm RARE💎FANCY CAT 💎. My friends describe me as preposterous and seductive. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19290@10",
+  "sire": "34493@9",
+  "children": [
+    "76119@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 489,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

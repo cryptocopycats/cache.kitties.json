@@ -1,0 +1,29 @@
+{
+  "id": 43848,
+  "name": "fancy bird",
+  "generation": 6,
+  "created_at": "2017-12-03T14:38:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm fancy bird. I believe that one day cats will rule this planet. I once dreamed of being a Ventriloquist. Now I can be found riding the bus all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40040@5",
+  "sire": "37348@4",
+  "children": [
+    "44672@7",
+    "46173@11",
+    "47929@7",
+    "56399@7",
+    "61907@10",
+    "75632@7",
+    "103602@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 390,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

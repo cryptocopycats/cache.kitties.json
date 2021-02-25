@@ -1,0 +1,26 @@
+{
+  "id": 51841,
+  "name": "Steph Curry's Birdie",
+  "generation": 17,
+  "created_at": "2017-12-04T02:14:37.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Steph Curry's Birdie. In high school, I was voted school jock. I once made a moose drink. I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37774@16",
+  "sire": "37929@16",
+  "children": [
+    "62884@18",
+    "82718@22",
+    "171190@18",
+    "194891@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 505,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

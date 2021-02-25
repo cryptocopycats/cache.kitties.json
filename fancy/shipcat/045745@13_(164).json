@@ -1,0 +1,26 @@
+{
+  "id": 45745,
+  "name": "DNS Caspian",
+  "generation": 13,
+  "created_at": "2017-12-03T21:00:27.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm DNS Caspian. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Justin Bieber. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19875@10",
+  "sire": "16434@12",
+  "children": [
+    "59698@15",
+    "91267@15",
+    "133030@14",
+    "221436@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 164,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

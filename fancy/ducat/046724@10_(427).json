@@ -1,0 +1,29 @@
+{
+  "id": 46724,
+  "name": "Dudley",
+  "generation": 10,
+  "created_at": "2017-12-03T21:48:19.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Dudley. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35779@7",
+  "sire": "25762@9",
+  "children": [
+    "48414@11",
+    "53412@11",
+    "58864@14",
+    "70058@11",
+    "78235@11",
+    "105303@13",
+    "155845@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 427,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

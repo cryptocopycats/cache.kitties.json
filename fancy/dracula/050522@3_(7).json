@@ -1,0 +1,28 @@
+{
+  "id": 50522,
+  "name": "#7 - Dracula",
+  "generation": 3,
+  "created_at": "2017-12-04T00:54:10.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm #7 - Dracula. I enjoy reading garfield, tricking babies, and fighting for the people. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "44837@2",
+  "sire": "22548@0",
+  "children": [
+    "53315@7",
+    "53348@8",
+    "59278@6",
+    "68632@4",
+    "77865@8",
+    "95756@4"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 7,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 49963,
+  "name": "Feather",
+  "generation": 7,
+  "created_at": "2017-12-04T00:27:45.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! My name's Feather. I once peed on King Henry VIII's cat. They had it coming. I was voted school jock in college. Will you be the peanut butter to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39278@6",
+  "sire": "33029@6",
+  "children": [
+    "53740@8",
+    "57957@8",
+    "121790@13",
+    "230239@9",
+    "255558@8",
+    "462793@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 478,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

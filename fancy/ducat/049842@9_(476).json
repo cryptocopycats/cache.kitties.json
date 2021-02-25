@@ -1,0 +1,25 @@
+{
+  "id": 49842,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-04T00:24:46.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! My name's Kitty #49842. I once peed on Mother Theresa's cat. They had it coming. I once got in a fight with a rabbit, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37885@8",
+  "sire": "42057@8",
+  "children": [
+    "54770@10",
+    "58373@10",
+    "63416@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 476,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 36223,
+  "name": "G7 Plodding Fancy Duck Bird",
+  "generation": 7,
+  "created_at": "2017-12-03T03:46:33.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm G7 Plodding Fancy Duck Bird. I'm a Foreign Film Director by day, and I like swiping right by night. My friends describe me as \"gorgeous.\" It's... accurate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34468@6",
+  "sire": "23915@6",
+  "children": [
+    "36479@8",
+    "37289@10",
+    "38030@10",
+    "40821@9",
+    "48352@12",
+    "52975@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 278,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

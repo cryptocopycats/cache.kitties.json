@@ -1,0 +1,26 @@
+{
+  "id": 37442,
+  "name": "Duck Bird Chicken Kitty",
+  "generation": 12,
+  "created_at": "2017-12-03T05:43:04.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's Duck Bird Chicken Kitty. I once peed on Amelia Earhart's cat. They had it coming. I'm often described as prickly, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37020@7",
+  "sire": "37078@11",
+  "children": [
+    "41020@13",
+    "57756@13",
+    "153460@13",
+    "188899@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 294,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

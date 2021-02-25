@@ -1,0 +1,29 @@
+{
+  "id": 37747,
+  "name": "14 G11 Duck 2 Duck Grandpas",
+  "generation": 11,
+  "created_at": "2017-12-03T06:11:14.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm 14 G11 Duck 2 Duck Grandpas. I'm a Train Conductor by day, and I like talking about how much I lift by night. My friends describe me as \"petulant.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34031@10",
+  "sire": "34979@9",
+  "children": [
+    "68765@12",
+    "97459@13",
+    "102873@12",
+    "111333@12",
+    "130697@12",
+    "157328@12",
+    "323491@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 297,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

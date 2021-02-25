@@ -1,0 +1,29 @@
+{
+  "id": 34746,
+  "name": "G6 ShipCat",
+  "generation": 6,
+  "created_at": "2017-12-03T01:18:35.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm G6 ShipCat. I want to live in a world where people believe the world is flat. I once made a dolphin kiss. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "34200@4",
+  "sire": "34616@5",
+  "children": [
+    "67070@10",
+    "202232@7",
+    "204555@14",
+    "208401@7",
+    "232018@7",
+    "289378@7",
+    "378420@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 126,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

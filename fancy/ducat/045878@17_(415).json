@@ -1,0 +1,25 @@
+{
+  "id": 45878,
+  "name": "Chirp Chirp",
+  "generation": 17,
+  "created_at": "2017-12-03T21:09:47.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Chirp Chirp here. I'm here to enjoy reciting poetry and slappin' da bass. I once made a labradoodle grimace. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22835@16",
+  "sire": "34632@11",
+  "children": [
+    "70546@18",
+    "80990@18",
+    "118804@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 415,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 43675,
+  "name": "Gen 7 - Duck - 1",
+  "generation": 7,
+  "created_at": "2017-12-03T14:18:02.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Gen 7 - Duck - 1 here. I'm here to enjoy eating lasagna and hitting on yo' man. In my free time, I can usually be found vegan or running a podcast. I hope we can be gullible friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36124@6",
+  "sire": "34784@6",
+  "children": [
+    "45009@8",
+    "47890@8",
+    "54268@8",
+    "61720@8",
+    "74814@8",
+    "87692@8",
+    "119873@8",
+    "143859@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 388,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

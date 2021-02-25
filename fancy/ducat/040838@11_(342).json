@@ -1,0 +1,27 @@
+{
+  "id": 40838,
+  "name": "Gen 11 Brisk Fancy Duck Bird",
+  "generation": 11,
+  "created_at": "2017-12-03T10:33:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Gen 11 Brisk Fancy Duck Bird. I'm a Culinary Sanitation Specialist by day, and I like prank-calling celebrities by night. I'm often described as prickly, and I own it. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37289@10",
+  "sire": "35259@8",
+  "children": [
+    "48352@12",
+    "54462@12",
+    "78790@12",
+    "101656@12",
+    "1105545@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 342,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

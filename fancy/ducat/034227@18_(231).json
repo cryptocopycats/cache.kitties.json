@@ -1,0 +1,24 @@
+{
+  "id": 34227,
+  "name": "TWEETY BIRD CHILD | BREEDER",
+  "generation": 18,
+  "created_at": "2017-12-03T00:35:53.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm TWEETY BIRD CHILD | BREEDER. I'm often referred to as the Dwight Schrute of the group. It's not common knowledge, but my ancestry connects me to Confucius. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24868@17",
+  "sire": "24410@5",
+  "children": [
+    "45012@19",
+    "60068@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 231,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

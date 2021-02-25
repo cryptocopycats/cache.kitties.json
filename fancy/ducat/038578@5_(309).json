@@ -1,0 +1,31 @@
+{
+  "id": 38578,
+  "name": "🦅G5 | Skywalker | Bird",
+  "generation": 5,
+  "created_at": "2017-12-03T07:31:56.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm 🦅G5 | Skywalker | Bird. I'm a professional Dogwalker and I love lasagna. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36220@3",
+  "sire": "38299@4",
+  "children": [
+    "40872@6",
+    "41923@6",
+    "57167@6",
+    "78027@6",
+    "131134@6",
+    "155718@6",
+    "174405@6",
+    "175445@6",
+    "207399@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 309,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

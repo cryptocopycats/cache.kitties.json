@@ -1,0 +1,25 @@
+{
+  "id": 44146,
+  "name": "G8 | 0",
+  "generation": 8,
+  "created_at": "2017-12-03T15:13:23.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm G8 | 0. In high school, I was voted school jock. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32567@7",
+  "sire": "34324@7",
+  "children": [
+    "51744@9",
+    "62176@9",
+    "100870@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 394,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

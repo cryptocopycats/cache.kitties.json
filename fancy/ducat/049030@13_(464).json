@@ -1,0 +1,25 @@
+{
+  "id": 49030,
+  "name": "g13 Birdo",
+  "generation": 13,
+  "created_at": "2017-12-03T23:49:18.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! g13 Birdo here. I'm here to enjoy riding dirty and grooming. Some people say I'm the Samwise Gamgee of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32728@12",
+  "sire": "38657@9",
+  "children": [
+    "53482@14",
+    "62779@15",
+    "73821@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 464,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

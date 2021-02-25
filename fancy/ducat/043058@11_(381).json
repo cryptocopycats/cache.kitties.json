@@ -1,0 +1,27 @@
+{
+  "id": 43058,
+  "name": "gen 11 - 43058 - bird",
+  "generation": 11,
+  "created_at": "2017-12-03T13:15:45.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm gen 11 - 43058 - bird. My friends describe me as petulant and stinky. I like to listen to Aretha Franklin while grooming. Don't judge me. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34459@10",
+  "sire": "22975@10",
+  "children": [
+    "64853@16",
+    "71481@19",
+    "86410@20",
+    "94898@17",
+    "110898@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 381,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

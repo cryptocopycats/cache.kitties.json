@@ -1,0 +1,24 @@
+{
+  "id": 41989,
+  "name": "Veronica Lombardi",
+  "generation": 15,
+  "created_at": "2017-12-03T11:59:08.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Veronica Lombardi. I'm a professional Foreign Film Director and I love ice cream. In my free time, I can usually be found raunchy or practicing witchcraft. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34670@10",
+  "sire": "38913@14",
+  "children": [
+    "50250@16",
+    "56067@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 365,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

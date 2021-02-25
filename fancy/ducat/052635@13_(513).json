@@ -1,0 +1,25 @@
+{
+  "id": 52635,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-04T03:05:36.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #52635. I enjoy tripping my owner, tricking babies, and sitting on your computer. Some people say I'm the Niles Crane of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "45803@12",
+  "sire": "33570@12",
+  "children": [
+    "63226@14",
+    "66388@14",
+    "81254@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 513,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

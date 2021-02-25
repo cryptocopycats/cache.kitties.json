@@ -1,0 +1,27 @@
+{
+  "id": 51738,
+  "name": "G9 Lucky Duck Tounge",
+  "generation": 9,
+  "created_at": "2017-12-04T02:11:11.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm G9 Lucky Duck Tounge. My friends describe me as gullible and smelly. My friends describe me as \"despicable.\" It's... accurate. Our friendship will be gullible, smelly, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34128@8",
+  "sire": "17665@8",
+  "children": [
+    "62051@10",
+    "62946@10",
+    "71283@13",
+    "77218@10",
+    "91047@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 501,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

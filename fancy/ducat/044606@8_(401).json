@@ -1,0 +1,29 @@
+{
+  "id": 44606,
+  "name": "Bird G8 Duck Fancy Pure Virgin",
+  "generation": 8,
+  "created_at": "2017-12-03T16:10:08.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! My name's Bird G8 Duck Fancy Pure Virgin. I once peed on King Henry VIII's cat. They had it coming. I once made a moose trot. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "44166@7",
+  "sire": "33218@7",
+  "children": [
+    "47547@9",
+    "50491@11",
+    "55036@9",
+    "69298@9",
+    "80624@9",
+    "83851@9",
+    "110069@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 401,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

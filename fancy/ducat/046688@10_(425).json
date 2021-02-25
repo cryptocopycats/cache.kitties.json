@@ -1,0 +1,29 @@
+{
+  "id": 46688,
+  "name": "🐤 Mr. Birdy10🐥",
+  "generation": 10,
+  "created_at": "2017-12-03T21:46:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm 🐤 Mr. Birdy10🐥. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "3534@9",
+  "sire": "34907@6",
+  "children": [
+    "53785@11",
+    "55640@11",
+    "63853@11",
+    "72561@11",
+    "91687@11",
+    "121619@11",
+    "231911@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 425,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

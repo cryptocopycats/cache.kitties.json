@@ -1,0 +1,25 @@
+{
+  "id": 42454,
+  "name": "Birdguy! Gen 7 Snappy",
+  "generation": 7,
+  "created_at": "2017-12-03T12:31:42.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Birdguy! Gen 7 Snappy. My friends describe me as despicable and vegan. Sometimes I daydream of a life full of riding dirty, apple pie, and swiping right. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39405@6",
+  "sire": "25543@4",
+  "children": [
+    "72928@8",
+    "73206@8",
+    "98215@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 375,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

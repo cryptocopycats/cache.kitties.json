@@ -1,0 +1,26 @@
+{
+  "id": 47839,
+  "name": "Catbird 8 Snappy",
+  "generation": 8,
+  "created_at": "2017-12-03T22:47:52.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Catbird 8 Snappy. My friends describe me as fabulous and smelly. I once groomed a moose. I don't like to talk about it. I look forward to taking selfies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43488@7",
+  "sire": "43483@6",
+  "children": [
+    "72190@9",
+    "102044@9",
+    "154413@9",
+    "160969@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 443,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

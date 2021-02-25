@@ -1,0 +1,29 @@
+{
+  "id": 38326,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-03T07:08:49.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #38326. I'm a professional Ventriloquist and I love apple pie. When I'm not riverdancing, I'm talking about how much I lift! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "21316@10",
+  "sire": "20595@5",
+  "children": [
+    "39853@12",
+    "45803@12",
+    "53425@12",
+    "63226@14",
+    "121126@12",
+    "145961@12",
+    "211987@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 305,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

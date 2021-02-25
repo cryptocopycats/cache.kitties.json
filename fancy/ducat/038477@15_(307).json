@@ -1,0 +1,28 @@
+{
+  "id": 38477,
+  "name": "MANY DUCK CHILDREN! BREED NOW",
+  "generation": 15,
+  "created_at": "2017-12-03T07:25:52.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's MANY DUCK CHILDREN! BREED NOW. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once frolicked with a platypus. I don't like to talk about it. I look forward to glaring at the neighbour's cat with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35659@14",
+  "sire": "34569@3",
+  "children": [
+    "41298@16",
+    "46012@16",
+    "54870@16",
+    "68573@16",
+    "106025@16",
+    "153619@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 307,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

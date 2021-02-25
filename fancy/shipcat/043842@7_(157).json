@@ -1,0 +1,30 @@
+{
+  "id": 43842,
+  "name": "DD-Sailor",
+  "generation": 7,
+  "created_at": "2017-12-03T14:38:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm DD-Sailor. I want to live in a world where people believe the world is flat. I once snuggled a rabbit. I don't like to talk about it. Our friendship will be stinky, wondrous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "42913@4",
+  "sire": "40331@6",
+  "children": [
+    "49347@8",
+    "52624@10",
+    "54998@17",
+    "60507@10",
+    "67670@12",
+    "91113@12",
+    "113706@12",
+    "144765@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 157,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

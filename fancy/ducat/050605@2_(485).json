@@ -1,0 +1,23 @@
+{
+  "id": 50605,
+  "name": "Rare Gen2 Swift Virgin DuckCat",
+  "generation": 2,
+  "created_at": "2017-12-04T00:57:31.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Rare Gen2 Swift Virgin DuckCat. I want to live in a world where people believe the world is flat. I was voted biggest teacher's pet in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "45450@1",
+  "sire": "25278@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 485,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

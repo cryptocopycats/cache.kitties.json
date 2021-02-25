@@ -1,0 +1,26 @@
+{
+  "id": 35068,
+  "name": "Dracula | Earliest Gen Vampire",
+  "generation": 2,
+  "created_at": "2017-12-03T01:46:38.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Dracula | Earliest Gen Vampire. All you need to know about me is I hate chocolate with a passion. I like to listen to Gloria Estefan while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "25818@1",
+  "sire": "26933@1",
+  "children": [
+    "35428@3",
+    "35565@3",
+    "35858@3",
+    "39241@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

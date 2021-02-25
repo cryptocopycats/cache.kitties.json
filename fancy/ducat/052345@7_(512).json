@@ -1,0 +1,27 @@
+{
+  "id": 52345,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-04T02:50:15.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #52345. I'm a professional Private Dancer  and I love hamburgers. I like to listen to Metallica while grooming. Don't judge me. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30664@4",
+  "sire": "43977@6",
+  "children": [
+    "76771@8",
+    "90252@9",
+    "97495@9",
+    "101142@9",
+    "108977@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 512,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

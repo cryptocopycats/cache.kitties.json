@@ -1,0 +1,32 @@
+{
+  "id": 39405,
+  "name": "Vitalik",
+  "generation": 6,
+  "created_at": "2017-12-03T08:29:16.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Vitalik. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. When no one's home, I invite my pals over and we listen to Frank Sinatra. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34300@4",
+  "sire": "33232@5",
+  "children": [
+    "40890@7",
+    "41605@7",
+    "42454@7",
+    "43801@7",
+    "45272@7",
+    "47799@7",
+    "56319@7",
+    "72564@7",
+    "106265@7",
+    "191543@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 322,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

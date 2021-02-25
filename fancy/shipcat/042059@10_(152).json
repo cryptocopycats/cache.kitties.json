@@ -1,0 +1,23 @@
+{
+  "id": 42059,
+  "name": "Captain Ahab | Virgin Sailor",
+  "generation": 10,
+  "created_at": "2017-12-03T12:02:37.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Captain Ahab | Virgin Sailor. I believe the world is flat. Sometimes I daydream of a life full of reciting poetry, chocolate, and riding the bus. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "24911@9",
+  "sire": "28303@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 152,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

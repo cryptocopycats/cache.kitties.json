@@ -1,0 +1,25 @@
+{
+  "id": 42264,
+  "name": "G11 Brisk Fancy Bird Duck",
+  "generation": 11,
+  "created_at": "2017-12-03T12:21:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's G11 Brisk Fancy Bird Duck. I once peed on Confucius's cat. They had it coming. When I'm not pole dancing, I'm jump-roping! Can you make my raunchy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32320@10",
+  "sire": "32909@10",
+  "children": [
+    "44238@12",
+    "203793@13",
+    "1000484@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 371,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

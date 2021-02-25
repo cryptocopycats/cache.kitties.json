@@ -1,0 +1,29 @@
+{
+  "id": 36171,
+  "name": "Golden Birdcat",
+  "generation": 8,
+  "created_at": "2017-12-03T03:28:08.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Golden Birdcat. I'm a professional Mad Scientist and I love cantaloupe. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33427@6",
+  "sire": "35477@7",
+  "children": [
+    "46442@9",
+    "51032@9",
+    "76773@9",
+    "79734@9",
+    "85464@9",
+    "108217@9",
+    "119270@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 277,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

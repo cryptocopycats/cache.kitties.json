@@ -1,0 +1,24 @@
+{
+  "id": 41855,
+  "name": "G11 ⚡ Duck",
+  "generation": 11,
+  "created_at": "2017-12-03T11:49:30.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm G11 ⚡ Duck. I'm often referred to as the Marge Simpson of the group. My secret indulgence is ice cream. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34831@10",
+  "sire": "40929@10",
+  "children": [
+    "45433@12",
+    "67372@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 362,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

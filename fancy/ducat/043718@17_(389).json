@@ -1,0 +1,25 @@
+{
+  "id": 43718,
+  "name": "#389/10,000",
+  "generation": 17,
+  "created_at": "2017-12-03T14:21:00.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's #389/10,000. I once peed on Princess Diana's cat. They had it coming. I'm often described as prickly, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35643@16",
+  "sire": "35585@14",
+  "children": [
+    "47751@18",
+    "58258@18",
+    "284206@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 389,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

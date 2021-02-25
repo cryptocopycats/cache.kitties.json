@@ -1,0 +1,29 @@
+{
+  "id": 40702,
+  "name": "g4 birdie w/ SAILOR offspring",
+  "generation": 4,
+  "created_at": "2017-12-03T10:13:47.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm g4 birdie w/ SAILOR offspring. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a dolphin, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33643@3",
+  "sire": "39420@3",
+  "children": [
+    "49850@6",
+    "50159@7",
+    "57117@5",
+    "76008@5",
+    "83082@11",
+    "104670@5",
+    "122799@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 340,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

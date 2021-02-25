@@ -1,0 +1,23 @@
+{
+  "id": 34498,
+  "name": "totesbasic-p",
+  "generation": 17,
+  "created_at": "2017-12-03T00:58:48.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm totesbasic-p. In high school, I was voted most likely to work at NASA. My friends describe me as \"stinky.\" It's... accurate. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30054@16",
+  "sire": "11558@7",
+  "children": [
+    "36989@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 239,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

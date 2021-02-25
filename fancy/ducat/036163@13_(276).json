@@ -1,0 +1,25 @@
+{
+  "id": 36163,
+  "name": "Machine Gun Thrasher",
+  "generation": 13,
+  "created_at": "2017-12-03T03:27:40.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Machine Gun Thrasher. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be fabulous, despicable, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35225@5",
+  "sire": "11765@12",
+  "children": [
+    "37264@15",
+    "38913@14",
+    "52835@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 276,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 37195,
+  "name": "G8 | Scrooge Mick Duck",
+  "generation": 8,
+  "created_at": "2017-12-03T05:22:02.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm G8 | Scrooge Mick Duck. I enjoy slappin' da bass, sitting on your computer, and tricking babies. I was voted school jock in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35849@7",
+  "sire": "36047@6",
+  "children": [
+    "38032@19",
+    "38520@9",
+    "44431@9",
+    "48156@9",
+    "56868@18",
+    "60872@9",
+    "189291@11",
+    "398135@9",
+    "509746@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 292,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

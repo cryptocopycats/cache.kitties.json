@@ -1,0 +1,25 @@
+{
+  "id": 49153,
+  "name": "Wylie Six",
+  "generation": 12,
+  "created_at": "2017-12-03T23:57:37.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Wylie Six. I'm a Private Dancer  by day, and I like summoning ghosts by night. I am 27% elf, 32% Skydiving Instructor, and otherwise bad at math. Our friendship will be despicable, ridiculous, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27670@4",
+  "sire": "20721@11",
+  "children": [
+    "80708@13",
+    "522683@13",
+    "582878@97"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 467,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

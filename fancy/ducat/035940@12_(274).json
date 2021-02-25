@@ -1,0 +1,23 @@
+{
+  "id": 35940,
+  "name": "birdberry",
+  "generation": 12,
+  "created_at": "2017-12-03T03:06:11.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! My name's birdberry. I once peed on Confucius's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Confucius. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34782@9",
+  "sire": "35050@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 274,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

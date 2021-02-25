@@ -1,0 +1,23 @@
+{
+  "id": 35782,
+  "name": "G9 Pure Bird",
+  "generation": 9,
+  "created_at": "2017-12-03T02:53:44.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G9 Pure Bird. I'm a Mad Scientist by day, and I like pole dancing by night. My secret indulgence is cantaloupe. Will you be the ghost pepper hot sauce to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31791@7",
+  "sire": "31966@8",
+  "children": [
+    "42437@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 272,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

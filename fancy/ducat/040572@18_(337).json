@@ -1,0 +1,25 @@
+{
+  "id": 40572,
+  "name": "RARE fancy duck Virgin cheap!",
+  "generation": 18,
+  "created_at": "2017-12-03T10:04:40.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm RARE fancy duck Virgin cheap!. I believe that one day cats will rule this planet. I put maple syrup on everything. Like, everything: hot dogs, steak—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39745@8",
+  "sire": "28361@17",
+  "children": [
+    "74762@19",
+    "118938@19",
+    "141588@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 337,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

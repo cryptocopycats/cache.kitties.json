@@ -1,0 +1,27 @@
+{
+  "id": 51232,
+  "name": "493th ducat",
+  "generation": 7,
+  "created_at": "2017-12-04T01:47:07.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm 493th ducat. I'm often referred to as the Ross Geller of the group. When I'm not riverdancing, I'm sleeping in fresh laundry! I hope we can be petulant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28013@6",
+  "sire": "27689@6",
+  "children": [
+    "259585@8",
+    "269960@12",
+    "271920@8",
+    "274621@8",
+    "274831@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 493,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

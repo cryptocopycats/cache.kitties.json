@@ -1,0 +1,23 @@
+{
+  "id": 45847,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-03T21:06:44.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #45847. All you need to know about me is I hate steak with a passion. I once licked a dog. I don't like to talk about it. Will you be the pickles to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22262@16",
+  "sire": "18851@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 413,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

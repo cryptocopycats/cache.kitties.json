@@ -1,0 +1,32 @@
+{
+  "id": 43810,
+  "name": "ShipCat #156",
+  "generation": 8,
+  "created_at": "2017-12-03T14:24:55.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! ShipCat #156 here. I'm here to enjoy reading garfield and chasing string. Sometimes I daydream of a life full of grooming, steak, and running a podcast. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "29112@4",
+  "sire": "32668@7",
+  "children": [
+    "44818@13",
+    "47922@10",
+    "251539@9",
+    "275432@9",
+    "399149@9",
+    "412311@9",
+    "421770@9",
+    "430584@9",
+    "434755@9",
+    "548426@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 156,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 38299,
+  "name": "G4 | Spaceship",
+  "generation": 4,
+  "created_at": "2017-12-03T07:08:48.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm G4 | Spaceship. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37830@3",
+  "sire": "22649@3",
+  "children": [
+    "38578@5",
+    "38840@5",
+    "41191@5",
+    "41591@5",
+    "44254@5",
+    "59365@5",
+    "81907@5",
+    "108379@5",
+    "131467@5",
+    "225186@5",
+    "336452@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 304,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 35029,
+  "name": "I'm really old",
+  "generation": 5,
+  "created_at": "2017-12-03T01:45:04.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm I'm really old. My friends describe me as vegan and stinky. In my free time, I can usually be found gorgeous or braiding people's hair. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34523@4",
+  "sire": "34569@3",
+  "children": [
+    "35496@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 251,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

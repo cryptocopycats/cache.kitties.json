@@ -1,0 +1,25 @@
+{
+  "id": 35473,
+  "name": "Bird | TWO Fancy Duck Parents!",
+  "generation": 10,
+  "created_at": "2017-12-03T02:23:53.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Bird | TWO Fancy Duck Parents!. My friends describe me as voluptuous and despicable. I like to listen to Wutang while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34369@9",
+  "sire": "34552@6",
+  "children": [
+    "68083@11",
+    "207214@11",
+    "229998@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 260,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

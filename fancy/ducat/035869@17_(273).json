@@ -1,0 +1,23 @@
+{
+  "id": 35869,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-03T03:01:51.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Kitty #35869. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Justin Bieber while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23960@10",
+  "sire": "33060@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 273,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

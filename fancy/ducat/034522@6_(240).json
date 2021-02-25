@@ -1,0 +1,31 @@
+{
+  "id": 34522,
+  "name": "Macskacsa",
+  "generation": 6,
+  "created_at": "2017-12-03T01:00:13.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Macskacsa. My friends describe me as despicable and stinky. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31661@5",
+  "sire": "31821@5",
+  "children": [
+    "34904@7",
+    "39781@11",
+    "42002@7",
+    "46386@11",
+    "50186@7",
+    "53517@7",
+    "103956@7",
+    "300765@10",
+    "325002@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 240,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

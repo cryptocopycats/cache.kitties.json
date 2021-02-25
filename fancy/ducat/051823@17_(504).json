@@ -1,0 +1,24 @@
+{
+  "id": 51823,
+  "name": "GMO",
+  "generation": 17,
+  "created_at": "2017-12-04T02:14:22.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm GMO. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of taking selfies, steak, and playing chess. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19366@6",
+  "sire": "35654@16",
+  "children": [
+    "74381@18",
+    "176170@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 504,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

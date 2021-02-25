@@ -1,0 +1,23 @@
+{
+  "id": 51693,
+  "name": "Duckers - Fancy",
+  "generation": 1,
+  "created_at": "2017-12-04T02:10:57.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Duckers - Fancy. I'm often referred to as the Homer Simpson of the group. In my free time, I can usually be found voluptuous or sleeping in fresh laundry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "11186@0",
+  "sire": "1354@0",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 500,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

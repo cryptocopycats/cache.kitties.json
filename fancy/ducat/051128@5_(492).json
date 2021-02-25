@@ -1,0 +1,23 @@
+{
+  "id": 51128,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-04T01:44:12.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #51128. All you need to know about me is I hate salad with a passion. My friends describe me as \"prickly.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29595@1",
+  "sire": "24961@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 492,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

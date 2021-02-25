@@ -1,0 +1,23 @@
+{
+  "id": 35595,
+  "name": "Sailor Jerry",
+  "generation": 15,
+  "created_at": "2017-12-03T02:32:58.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Sailor Jerry. I believe the world is flat. I put marmalade on everything. Like, everything: hot dogs, salad—everything! Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19886@5",
+  "sire": "25741@14",
+  "children": [
+    "204730@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 132,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

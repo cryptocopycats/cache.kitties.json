@@ -1,0 +1,28 @@
+{
+  "id": 39853,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-03T09:10:42.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! Kitty #39853 here. I'm here to enjoy licking doorknobs and hitting on yo' man. Sometimes I daydream of a life full of being a nevernude, chocolate, and mocking dogs. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "21236@10",
+  "sire": "38326@11",
+  "children": [
+    "48900@13",
+    "59318@13",
+    "60741@13",
+    "81254@14",
+    "109209@13",
+    "258296@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 327,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

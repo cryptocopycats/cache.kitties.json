@@ -1,0 +1,28 @@
+{
+  "id": 35553,
+  "name": "Fancy Duck Bird Dali Mauveover",
+  "generation": 14,
+  "created_at": "2017-12-03T02:28:50.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Fancy Duck Bird Dali Mauveover. I enjoy eating until I loathe myself, riding unicorns, and tricking babies. I like to listen to Ace of Base while grooming. Don't judge me. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24585@10",
+  "sire": "17216@13",
+  "children": [
+    "37929@16",
+    "54200@15",
+    "68931@15",
+    "89600@15",
+    "115247@15",
+    "215987@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 265,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

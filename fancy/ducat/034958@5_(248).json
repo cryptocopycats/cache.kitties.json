@@ -1,0 +1,29 @@
+{
+  "id": 34958,
+  "name": "💚💚💚Gen5",
+  "generation": 5,
+  "created_at": "2017-12-03T01:35:27.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm 💚💚💚Gen5. I've never told anyone this, but I once cleaned a dog. I put peanut butter on everything. Like, everything: hot dogs, wet food—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34396@4",
+  "sire": "34025@4",
+  "children": [
+    "35060@6",
+    "35561@6",
+    "41533@6",
+    "49599@6",
+    "226934@6",
+    "231952@6",
+    "244164@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 248,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

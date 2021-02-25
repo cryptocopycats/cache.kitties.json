@@ -1,0 +1,28 @@
+{
+  "id": 48841,
+  "name": "Sensei",
+  "generation": 11,
+  "created_at": "2017-12-03T23:42:52.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! Sensei here. I'm here to enjoy picking on mice and licking doorknobs. When no one's home, I invite my pals over and we listen to Coldplay. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19355@10",
+  "sire": "43890@6",
+  "children": [
+    "54642@15",
+    "63507@12",
+    "142750@12",
+    "385952@12",
+    "400589@14",
+    "574003@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 459,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

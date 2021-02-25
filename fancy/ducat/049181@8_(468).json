@@ -1,0 +1,28 @@
+{
+  "id": 49181,
+  "name": "Catch 🐣",
+  "generation": 8,
+  "created_at": "2017-12-03T23:58:34.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Catch 🐣. I'm a professional Ventriloquist and I love chocolate. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28130@6",
+  "sire": "40953@7",
+  "children": [
+    "53704@9",
+    "177497@9",
+    "246617@9",
+    "459352@11",
+    "459698@11",
+    "461357@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 468,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 38284,
+  "name": "G17 Plodding Fancy Duck Bird",
+  "generation": 17,
+  "created_at": "2017-12-03T07:07:18.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm G17 Plodding Fancy Duck Bird. I'm a Dogwalker by day, and I like sleeping in fresh laundry by night. Some people say I'm the Niles Crane of the group. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34226@8",
+  "sire": "36746@16",
+  "children": [
+    "39240@18",
+    "59780@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 303,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

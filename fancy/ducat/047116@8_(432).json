@@ -1,0 +1,32 @@
+{
+  "id": 47116,
+  "name": "fancy duck kitty",
+  "generation": 8,
+  "created_at": "2017-12-03T22:09:27.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm fancy duck kitty. I'm a Aerobics Athlete  by day, and I like talking about how much I lift by night. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46344@7",
+  "sire": "45865@7",
+  "children": [
+    "48368@9",
+    "50742@9",
+    "53742@9",
+    "56301@9",
+    "62533@12",
+    "69582@9",
+    "110217@9",
+    "168954@13",
+    "438278@11",
+    "476299@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 432,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

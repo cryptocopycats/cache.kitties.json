@@ -1,0 +1,28 @@
+{
+  "id": 44344,
+  "name": "Bird w/ Dali Otaku genes",
+  "generation": 10,
+  "created_at": "2017-12-03T15:38:02.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Bird w/ Dali Otaku genes. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"wondrous.\" It's... accurate. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28177@6",
+  "sire": "35457@9",
+  "children": [
+    "48033@11",
+    "54010@11",
+    "57750@11",
+    "70949@11",
+    "265016@14",
+    "269732@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 397,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 35495,
+  "name": "Gen 6 Duckcat",
+  "generation": 6,
+  "created_at": "2017-12-03T02:25:04.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Gen 6 Duckcat. I'm a professional Foreign Film Director and I love steak. When no one's home, I invite my pals over and we listen to Wutang. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34121@5",
+  "sire": "35090@5",
+  "children": [
+    "35641@7",
+    "36873@7",
+    "39716@7",
+    "46702@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 263,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

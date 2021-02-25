@@ -1,0 +1,25 @@
+{
+  "id": 48199,
+  "name": "G10. Sailor! Brisk ~0.4",
+  "generation": 10,
+  "created_at": "2017-12-03T22:58:14.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm G10. Sailor! Brisk ~0.4. I enjoy tripping my owner, breakdancing, and being a nevernude. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to sweating through my feet with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "45069@7",
+  "sire": "44783@9",
+  "children": [
+    "54614@11",
+    "64572@12",
+    "69557@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 168,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

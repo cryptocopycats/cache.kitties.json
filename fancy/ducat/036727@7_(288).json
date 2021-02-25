@@ -1,0 +1,23 @@
+{
+  "id": 36727,
+  "name": "G7 | B3 | 1",
+  "generation": 7,
+  "created_at": "2017-12-03T05:00:00.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! My name's G7 | B3 | 1. I once peed on King Henry VIII's cat. They had it coming. I once dreamed of being a Spin Instructor . Now I can be found prank-calling celebrities all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28959@6",
+  "sire": "30775@6",
+  "children": [
+    "85642@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 288,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

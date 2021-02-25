@@ -1,0 +1,28 @@
+{
+  "id": 36549,
+  "name": "Gen 8 Brisk Fancy Duck Bird",
+  "generation": 8,
+  "created_at": "2017-12-03T04:49:05.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Gen 8 Brisk Fancy Duck Bird. My friends describe me as raunchy and voluptuous. My friends describe me as \"fabulous.\" It's... accurate. I look forward to eating lasagna with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33218@7",
+  "sire": "25395@7",
+  "children": [
+    "44059@9",
+    "46077@9",
+    "60617@9",
+    "66985@14",
+    "71260@9",
+    "106158@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 287,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

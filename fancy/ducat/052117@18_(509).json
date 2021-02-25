@@ -1,0 +1,24 @@
+{
+  "id": 52117,
+  "name": "Fancy Wings",
+  "generation": 18,
+  "created_at": "2017-12-04T02:39:49.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Fancy Wings. I'm often referred to as the Samwise Gamgee of the group. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39317@17",
+  "sire": "41678@17",
+  "children": [
+    "58889@19",
+    "84275@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 509,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

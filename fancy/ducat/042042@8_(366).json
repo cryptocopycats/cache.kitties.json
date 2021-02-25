@@ -1,0 +1,24 @@
+{
+  "id": 42042,
+  "name": "G8 ⚡ DUCK ⚡ BRISK!",
+  "generation": 8,
+  "created_at": "2017-12-03T12:02:18.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm G8 ⚡ DUCK ⚡ BRISK!. All you need to know about me is I hate cantaloupe with a passion. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41172@7",
+  "sire": "33626@7",
+  "children": [
+    "50570@9",
+    "261421@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 366,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 35772,
+  "name": "Quacker | Emeraldgreen Gene",
+  "generation": 18,
+  "created_at": "2017-12-03T02:53:41.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Quacker | Emeraldgreen Gene. I'm a professional Dogwalker and I love chocolate. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can you make my hairy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27657@17",
+  "sire": "19842@15",
+  "children": [
+    "37079@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 271,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

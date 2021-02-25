@@ -1,0 +1,25 @@
+{
+  "id": 40612,
+  "name": "G11 Woo Bader-Catsburg",
+  "generation": 11,
+  "created_at": "2017-12-03T10:06:38.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm G11 Woo Bader-Catsburg. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found prickly or playing chess. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "21411@10",
+  "sire": "32769@5",
+  "children": [
+    "51843@16",
+    "61805@12",
+    "71778@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 338,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

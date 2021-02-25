@@ -1,0 +1,31 @@
+{
+  "id": 37931,
+  "name": "🚢 老船长 ⚓️",
+  "generation": 11,
+  "created_at": "2017-12-03T06:28:42.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm 🚢 老船长 ⚓️. I enjoy reading garfield, glaring at the neighbour's cat, and hitting on yo' man. I'm often described as annoying, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "35153@10",
+  "sire": "27150@3",
+  "children": [
+    "45711@12",
+    "51893@12",
+    "80708@13",
+    "542659@15",
+    "543672@12",
+    "548864@12",
+    "557025@12",
+    "600479@13",
+    "682722@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 137,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

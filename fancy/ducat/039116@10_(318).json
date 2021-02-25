@@ -1,0 +1,32 @@
+{
+  "id": 39116,
+  "name": "Fancy Duck Bird Gen 0",
+  "generation": 10,
+  "created_at": "2017-12-03T08:04:58.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Fancy Duck Bird Gen 0. All you need to know about me is I hate hamburgers with a passion. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33859@8",
+  "sire": "37118@9",
+  "children": [
+    "40070@11",
+    "47175@11",
+    "56659@16",
+    "69485@11",
+    "72525@11",
+    "115356@11",
+    "165112@11",
+    "199218@20",
+    "304567@11",
+    "447650@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 318,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

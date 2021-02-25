@@ -1,0 +1,26 @@
+{
+  "id": 40161,
+  "name": "G10 Brisk Rare BIRD cat 1",
+  "generation": 10,
+  "created_at": "2017-12-03T09:28:18.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm G10 Brisk Rare BIRD cat 1. In high school, I was voted school jock. Sometimes I daydream of a life full of chasing string, wet food, and braiding people's hair. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39486@4",
+  "sire": "31883@9",
+  "children": [
+    "47198@11",
+    "56128@11",
+    "59982@11",
+    "63471@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 331,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

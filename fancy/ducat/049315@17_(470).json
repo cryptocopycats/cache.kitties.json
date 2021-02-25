@@ -1,0 +1,24 @@
+{
+  "id": 49315,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-04T00:02:43.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Kitty #49315 here. I'm here to enjoy shakin' dat booty and eating lasagna. Sometimes I daydream of a life full of chasing red dots, chocolate, and prank-calling celebrities. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30817@16",
+  "sire": "31184@13",
+  "children": [
+    "211541@18",
+    "236779@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 470,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

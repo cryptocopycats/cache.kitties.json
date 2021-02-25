@@ -1,0 +1,33 @@
+{
+  "id": 34025,
+  "name": "🦆🦆🦆Gen4",
+  "generation": 4,
+  "created_at": "2017-12-03T00:14:14.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm 🦆🦆🦆Gen4. My friends describe me as brilliant and vegan. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31374@3",
+  "sire": "33881@3",
+  "children": [
+    "34722@5",
+    "34958@5",
+    "190869@5",
+    "192965@5",
+    "195138@5",
+    "219801@5",
+    "240670@5",
+    "242288@5",
+    "288443@5",
+    "298767@5",
+    "342547@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 227,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

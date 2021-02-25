@@ -1,0 +1,32 @@
+{
+  "id": 40331,
+  "name": "3 sailor babies",
+  "generation": 6,
+  "created_at": "2017-12-03T09:50:25.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm 3 sailor babies. I enjoy sweating through my feet, taking selfies, and picking on mice. When I'm not swiping left, I'm swiping right! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "39945@5",
+  "sire": "39937@5",
+  "children": [
+    "43206@7",
+    "43842@7",
+    "45069@7",
+    "47713@7",
+    "55281@7",
+    "58887@7",
+    "73719@9",
+    "90904@7",
+    "130310@7",
+    "247075@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 146,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

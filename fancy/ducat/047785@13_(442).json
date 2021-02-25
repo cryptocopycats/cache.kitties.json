@@ -1,0 +1,23 @@
+{
+  "id": 47785,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-03T22:42:34.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #47785. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found vegan or summoning ghosts. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43180@12",
+  "sire": "40890@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 442,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

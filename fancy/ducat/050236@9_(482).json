@@ -1,0 +1,24 @@
+{
+  "id": 50236,
+  "name": "🦆🦆🦆",
+  "generation": 9,
+  "created_at": "2017-12-04T00:47:41.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm 🦆🦆🦆. I'm often referred to as the Homer Simpson of the group. My friends describe me as \"brilliant.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41835@8",
+  "sire": "28848@8",
+  "children": [
+    "193556@10",
+    "194053@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 482,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 41329,
+  "name": "Kitty #41329",
+  "generation": 10,
+  "created_at": "2017-12-03T11:02:48.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #41329. All you need to know about me is I hate hamburgers with a passion. I once headbutted a dog. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37624@6",
+  "sire": "39297@9",
+  "children": [
+    "42270@11",
+    "45156@11",
+    "55076@11",
+    "80768@11",
+    "135165@16",
+    "215326@11",
+    "230012@23"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 352,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

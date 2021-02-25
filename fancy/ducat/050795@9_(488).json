@@ -1,0 +1,28 @@
+{
+  "id": 50795,
+  "name": "Bird",
+  "generation": 9,
+  "created_at": "2017-12-04T01:23:09.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Bird. All you need to know about me is I hate hamburgers with a passion. When I'm not prank-calling celebrities, I'm running a podcast! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34910@8",
+  "sire": "34695@8",
+  "children": [
+    "56822@10",
+    "60779@10",
+    "169849@10",
+    "174941@10",
+    "193988@10",
+    "220171@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 488,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 47929,
+  "name": "Quacker / Gen 7 / Snappy",
+  "generation": 7,
+  "created_at": "2017-12-03T22:49:53.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Quacker / Gen 7 / Snappy. All you need to know about me is I hate wet food with a passion. I was voted most likely to work at NASA in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43848@6",
+  "sire": "30039@1",
+  "children": [
+    "58196@8",
+    "83635@8",
+    "131544@8",
+    "157342@10",
+    "174235@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 446,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

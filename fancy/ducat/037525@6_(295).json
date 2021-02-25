@@ -1,0 +1,31 @@
+{
+  "id": 37525,
+  "name": "Pajaro Cría | Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-03T05:50:19.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Pajaro Cría | Gen 6. I've never told anyone this, but I once headbutted a dog. I like to listen to Wutang while grooming. Don't judge me. I look forward to sweating through my feet with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36283@4",
+  "sire": "37021@5",
+  "children": [
+    "38217@7",
+    "38385@11",
+    "48816@7",
+    "54145@15",
+    "73032@7",
+    "85852@9",
+    "103084@7",
+    "140570@7",
+    "209632@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 295,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

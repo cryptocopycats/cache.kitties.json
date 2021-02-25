@@ -1,0 +1,29 @@
+{
+  "id": 38840,
+  "name": "Rare & Spec Children Potential",
+  "generation": 5,
+  "created_at": "2017-12-03T07:53:12.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Rare & Spec Children Potential. I'm a professional Foreign Film Director and I love wet food. I once frolicked with a rhino. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "38299@4",
+  "sire": "27825@4",
+  "children": [
+    "53688@13",
+    "57382@6",
+    "59872@6",
+    "72330@18",
+    "74735@10",
+    "84567@6",
+    "95546@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 314,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

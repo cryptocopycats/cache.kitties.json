@@ -1,0 +1,24 @@
+{
+  "id": 35485,
+  "name": "Sailor Virgin Brisk Ultra Rare",
+  "generation": 13,
+  "created_at": "2017-12-03T02:24:11.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Sailor Virgin Brisk Ultra Rare. I'm a professional Culinary Sanitation Specialist and I love cereal. It's not common knowledge, but my ancestry connects me to King Henry VIII. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "26608@12",
+  "sire": "26584@12",
+  "children": [
+    "38109@14",
+    "56905@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 131,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

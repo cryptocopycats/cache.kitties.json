@@ -1,0 +1,28 @@
+{
+  "id": 34226,
+  "name": "[RARE] Chicken Duck | Gen 8",
+  "generation": 8,
+  "created_at": "2017-12-03T00:35:53.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm [RARE] Chicken Duck | Gen 8. I want to live in a world where people believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26997@7",
+  "sire": "23915@6",
+  "children": [
+    "34915@14",
+    "36557@17",
+    "38284@17",
+    "39948@10",
+    "52860@9",
+    "76668@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 230,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

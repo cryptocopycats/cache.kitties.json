@@ -1,0 +1,26 @@
+{
+  "id": 41236,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-03T10:53:43.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Kitty #41236. My friends describe me as gorgeous and despicable. I am 51% wizard, 32% Foreign Film Director, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37967@15",
+  "sire": "38052@18",
+  "children": [
+    "54914@20",
+    "87343@20",
+    "273468@23",
+    "348422@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 351,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

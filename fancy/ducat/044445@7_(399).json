@@ -1,0 +1,26 @@
+{
+  "id": 44445,
+  "name": "G7 | 0",
+  "generation": 7,
+  "created_at": "2017-12-03T15:51:23.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm G7 | 0. I'm often referred to as the Michael Scott of the group. I am 36% oracle, 18% Skydiving Instructor, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36437@6",
+  "sire": "32767@6",
+  "children": [
+    "59894@8",
+    "62230@8",
+    "97207@8",
+    "248469@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 399,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

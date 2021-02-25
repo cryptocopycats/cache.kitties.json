@@ -1,0 +1,33 @@
+{
+  "id": 37004,
+  "name": "Shipcat, Gen 3! (#135 / 2,000)",
+  "generation": 3,
+  "created_at": "2017-12-03T05:10:45.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Shipcat, Gen 3! (#135 / 2,000). All you need to know about me is I hate chocolate with a passion. I was voted school jock in college. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "30037@2",
+  "sire": "31892@2",
+  "children": [
+    "46879@4",
+    "51512@4",
+    "54516@4",
+    "54671@4",
+    "55945@4",
+    "139639@4",
+    "148257@4",
+    "161184@4",
+    "179578@4",
+    "209876@4",
+    "552886@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 135,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

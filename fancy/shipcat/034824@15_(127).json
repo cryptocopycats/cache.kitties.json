@@ -1,0 +1,24 @@
+{
+  "id": 34824,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-03T01:25:26.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #34824. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of being a nevernude, ice cream, and watching reality tv. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "27216@14",
+  "sire": "27136@14",
+  "children": [
+    "75611@21",
+    "76913@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 127,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

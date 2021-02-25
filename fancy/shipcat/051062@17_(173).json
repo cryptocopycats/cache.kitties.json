@@ -1,0 +1,26 @@
+{
+  "id": 51062,
+  "name": "Sailor G3 (STRONG BLOODLINE)",
+  "generation": 17,
+  "created_at": "2017-12-04T01:42:35.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Sailor G3 (STRONG BLOODLINE). In high school, I was voted most likely to work at NASA. My secret indulgence is salad. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "35898@6",
+  "sire": "38953@16",
+  "children": [
+    "58460@18",
+    "74288@18",
+    "122933@18",
+    "246272@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 173,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

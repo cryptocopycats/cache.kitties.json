@@ -1,0 +1,27 @@
+{
+  "id": 40872,
+  "name": "G6 | Snaredrum",
+  "generation": 6,
+  "created_at": "2017-12-03T10:35:48.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! G6 | Snaredrum here. I'm here to enjoy sweating through my feet and glaring at the neighbour's cat. I was voted most likely to work at NASA in college. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37830@3",
+  "sire": "38578@5",
+  "children": [
+    "41536@7",
+    "42086@7",
+    "57671@7",
+    "97958@7",
+    "148634@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 344,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

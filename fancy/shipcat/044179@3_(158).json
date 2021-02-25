@@ -1,0 +1,25 @@
+{
+  "id": 44179,
+  "name": "🎅 Sailor 🎅",
+  "generation": 3,
+  "created_at": "2017-12-03T15:15:57.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm 🎅 Sailor 🎅. I believe that one day cats will rule this planet. In my free time, I can usually be found gorgeous or tricking babies. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "30943@2",
+  "sire": "30993@2",
+  "children": [
+    "154577@4",
+    "157156@4",
+    "185679@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 158,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

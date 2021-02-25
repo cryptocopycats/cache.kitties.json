@@ -1,0 +1,32 @@
+{
+  "id": 37118,
+  "name": "Cy(DR1)To(D)Si(!)",
+  "generation": 9,
+  "created_at": "2017-12-03T05:15:25.000Z",
+  "birthday": "2017-12-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Cy(DR1)To(D)Si(!). I'm a Ventriloquist by day, and I like mocking dogs by night. In my free time, I can usually be found voluptuous or prank-calling celebrities. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34468@6",
+  "sire": "35259@8",
+  "children": [
+    "37544@10",
+    "39116@10",
+    "39948@10",
+    "49717@10",
+    "55735@10",
+    "306932@15",
+    "540965@10",
+    "555060@10",
+    "573879@10",
+    "636390@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 291,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
