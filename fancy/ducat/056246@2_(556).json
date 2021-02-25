@@ -1,0 +1,29 @@
+{
+  "id": 56246,
+  "name": "2",
+  "generation": 2,
+  "created_at": "2017-12-04T06:58:43.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm 2. I'm often referred to as the Peter Griffin of the group. I once dreamed of being a Dispensary Clerk. Now I can be found riverdancing all day. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "11538@1",
+  "sire": "38741@1",
+  "children": [
+    "75234@4",
+    "264216@3",
+    "274044@3",
+    "276557@3",
+    "295310@3",
+    "327279@3",
+    "378674@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 556,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

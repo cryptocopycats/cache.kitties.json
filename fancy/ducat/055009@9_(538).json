@@ -1,0 +1,28 @@
+{
+  "id": 55009,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-04T05:04:17.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #55009. I'm a professional Private Dancer  and I love lasagna. My secret indulgence is ice cream. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23619@8",
+  "sire": "48909@7",
+  "children": [
+    "68098@10",
+    "72182@10",
+    "143634@10",
+    "170889@10",
+    "205341@10",
+    "217843@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 538,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 55789,
+  "name": "Fancy Duck Bird Flappy Cat",
+  "generation": 10,
+  "created_at": "2017-12-04T06:21:24.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Fancy Duck Bird Flappy Cat here. I'm here to enjoy grooming and tricking babies. I would give it all up to be on Oprah. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49076@9",
+  "sire": "52118@8",
+  "children": [
+    "91361@17",
+    "98695@17",
+    "142776@11",
+    "189705@11",
+    "205363@22",
+    "251181@11",
+    "307803@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 550,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

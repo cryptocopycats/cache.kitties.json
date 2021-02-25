@@ -1,0 +1,23 @@
+{
+  "id": 58123,
+  "name": "Sailor Collectible Virgin",
+  "generation": 6,
+  "created_at": "2017-12-04T08:31:37.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! Sailor Collectible Virgin here. I'm here to enjoy fighting for the people and shakin' dat booty. I put ranch dressing on everything. Like, everything: hot dogs, chocolate—everything! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "44756@5",
+  "sire": "53028@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 198,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

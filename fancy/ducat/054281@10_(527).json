@@ -1,0 +1,30 @@
+{
+  "id": 54281,
+  "name": "Kitty #54281",
+  "generation": 10,
+  "created_at": "2017-12-04T04:11:54.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #54281. My friends describe me as wondrous and gullible. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34938@8",
+  "sire": "37607@9",
+  "children": [
+    "74643@15",
+    "77817@11",
+    "90756@18",
+    "101892@15",
+    "115913@11",
+    "151030@19",
+    "194604@12",
+    "380750@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 527,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

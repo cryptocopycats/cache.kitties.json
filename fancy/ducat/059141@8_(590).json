@@ -1,0 +1,26 @@
+{
+  "id": 59141,
+  "name": "Bird",
+  "generation": 8,
+  "created_at": "2017-12-04T09:27:48.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Bird. In high school, I was voted school jock. I once made a dolphin jump. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "38016@7",
+  "sire": "53991@7",
+  "children": [
+    "75217@9",
+    "77853@9",
+    "179832@12",
+    "195265@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 590,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

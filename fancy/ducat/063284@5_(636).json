@@ -1,0 +1,23 @@
+{
+  "id": 63284,
+  "name": "Fluffy Birdie-Cat",
+  "generation": 5,
+  "created_at": "2017-12-04T14:26:16.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Fluffy Birdie-Cat. All you need to know about me is I hate lasagna with a passion. I once got in a fight with a goose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "5876@2",
+  "sire": "29942@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 636,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 62867,
+  "name": "PureBred Bird Duck (Virgin)",
+  "generation": 12,
+  "created_at": "2017-12-04T13:55:38.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm PureBred Bird Duck (Virgin). My friends describe me as hairy and stinky. I once snuggled a rhino. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46416@11",
+  "sire": "30809@11",
+  "children": [
+    "198646@18",
+    "229079@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 630,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

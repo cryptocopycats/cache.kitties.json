@@ -1,0 +1,23 @@
+{
+  "id": 64051,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-04T16:10:45.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #64051. All you need to know about me is I hate lasagna with a passion. My friends describe me as \"hairy.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "8921@11",
+  "sire": "51142@18",
+  "children": [
+    "75967@20"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 645,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

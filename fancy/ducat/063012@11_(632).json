@@ -1,0 +1,24 @@
+{
+  "id": 63012,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-04T14:08:15.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #63012. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is apple pie. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37544@10",
+  "sire": "58373@10",
+  "children": [
+    "67425@12",
+    "81709@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 632,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

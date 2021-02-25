@@ -1,0 +1,25 @@
+{
+  "id": 62976,
+  "name": "Ducky Purebred",
+  "generation": 10,
+  "created_at": "2017-12-04T14:01:48.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Ducky Purebred. I've never told anyone this, but I once groomed a dog. It's not common knowledge, but my ancestry connects me to Mother Theresa. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "57172@8",
+  "sire": "18113@9",
+  "children": [
+    "71108@11",
+    "82606@11",
+    "455914@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 631,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 57475,
+  "name": "GOLD Duck G7 FANCY KIDS",
+  "generation": 7,
+  "created_at": "2017-12-04T08:00:55.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm GOLD Duck G7 FANCY KIDS. I believe the world is flat. Sometimes I daydream of a life full of chasing red dots, ice cream, and siring for status. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41468@2",
+  "sire": "32239@6",
+  "children": [
+    "61555@8",
+    "71177@9",
+    "118290@8",
+    "119047@8",
+    "131544@8",
+    "147407@10",
+    "168855@8",
+    "205166@8",
+    "257243@14",
+    "296487@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 567,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

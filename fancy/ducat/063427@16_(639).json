@@ -1,0 +1,23 @@
+{
+  "id": 63427,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-04T14:58:38.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #63427. I want to live in a world where people believe that one day cats will rule this planet. I am 1% elf, 6% Skydiving Instructor, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46643@15",
+  "sire": "48352@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 639,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

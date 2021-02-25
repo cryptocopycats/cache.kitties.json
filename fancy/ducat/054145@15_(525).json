@@ -1,0 +1,25 @@
+{
+  "id": 54145,
+  "name": "Volare",
+  "generation": 15,
+  "created_at": "2017-12-04T03:56:50.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Volare. I enjoy fighting for the people, reciting poetry, and grooming. I am 62% troll, 18% Dispensary Clerk, and otherwise bad at math. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37525@6",
+  "sire": "32823@14",
+  "children": [
+    "64566@17",
+    "85317@16",
+    "102567@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 525,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

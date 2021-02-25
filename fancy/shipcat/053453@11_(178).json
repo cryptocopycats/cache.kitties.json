@@ -1,0 +1,24 @@
+{
+  "id": 53453,
+  "name": "FANCY SAILOR! EXTREMELY RARE!",
+  "generation": 11,
+  "created_at": "2017-12-04T03:34:13.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's FANCY SAILOR! EXTREMELY RARE!. I once peed on Mother Theresa's cat. They had it coming. I like to listen to Beyoncé while grooming. Don't judge me. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "41684@10",
+  "sire": "41109@10",
+  "children": [
+    "61647@12",
+    "62332@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 178,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

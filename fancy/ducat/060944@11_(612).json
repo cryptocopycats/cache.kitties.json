@@ -1,0 +1,23 @@
+{
+  "id": 60944,
+  "name": "山鸭王",
+  "generation": 11,
+  "created_at": "2017-12-04T11:08:23.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! 山鸭王 here. I'm here to enjoy riding unicorns and picking flowers. I like to listen to Gloria Estefan while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46737@10",
+  "sire": "52742@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 612,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

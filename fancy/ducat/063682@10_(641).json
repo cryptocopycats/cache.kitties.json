@@ -1,0 +1,27 @@
+{
+  "id": 63682,
+  "name": "Lola",
+  "generation": 10,
+  "created_at": "2017-12-04T15:26:53.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Lola. I've never told anyone this, but I once groomed a dog. When no one's home, I invite my pals over and we listen to Mariah Carey. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "62072@9",
+  "sire": "57653@9",
+  "children": [
+    "67418@11",
+    "75796@15",
+    "93618@11",
+    "243948@21",
+    "363577@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 641,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

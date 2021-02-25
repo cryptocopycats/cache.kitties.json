@@ -1,0 +1,26 @@
+{
+  "id": 54770,
+  "name": "HODL",
+  "generation": 10,
+  "created_at": "2017-12-04T04:53:14.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm HODL. I enjoy grooming, riding unicorns, and slappin' da bass. I like to listen to Coldplay while grooming. Don't judge me. Our friendship will be gorgeous, wondrous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49842@9",
+  "sire": "49672@9",
+  "children": [
+    "77405@11",
+    "434547@14",
+    "434685@11",
+    "541676@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 534,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 61227,
+  "name": "🦆Ducka Bro",
+  "generation": 9,
+  "created_at": "2017-12-04T11:36:14.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm 🦆Ducka Bro. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Metallica. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46145@8",
+  "sire": "41590@7",
+  "children": [
+    "65926@10",
+    "70719@10",
+    "71170@10",
+    "75352@10",
+    "154421@10",
+    "232847@11",
+    "336134@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 616,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

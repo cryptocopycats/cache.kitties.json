@@ -1,0 +1,26 @@
+{
+  "id": 63358,
+  "name": "MaLilPenguin",
+  "generation": 14,
+  "created_at": "2017-12-04T14:54:26.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm MaLilPenguin. My friends describe me as raunchy and despicable. I was voted most likely to work at NASA in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "56729@12",
+  "sire": "57105@13",
+  "children": [
+    "86607@15",
+    "178510@15",
+    "181241@15",
+    "233878@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 637,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

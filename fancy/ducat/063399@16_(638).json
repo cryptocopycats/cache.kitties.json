@@ -1,0 +1,24 @@
+{
+  "id": 63399,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-04T14:58:22.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #63399. All you need to know about me is I hate salad with a passion. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "48194@12",
+  "sire": "54148@15",
+  "children": [
+    "83168@18",
+    "98572@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 638,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 59622,
+  "name": "G9 Fancy Sailor",
+  "generation": 9,
+  "created_at": "2017-12-04T09:58:20.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm G9 Fancy Sailor. I've never told anyone this, but I once frolicked with a dog. My friends describe me as \"prickly.\" It's... accurate. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "49553@8",
+  "sire": "31723@8",
+  "children": [
+    "419756@10",
+    "431575@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 206,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 60684,
+  "name": "RARE BIRDCAT!! - G10",
+  "generation": 10,
+  "created_at": "2017-12-04T10:56:05.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm RARE BIRDCAT!! - G10. In high school, I was voted most likely to work at NASA. I am 8% elf, 40% Mad Scientist, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41475@9",
+  "sire": "4728@8",
+  "children": [
+    "66004@11",
+    "68954@11",
+    "80310@11",
+    "82683@11",
+    "108702@11",
+    "123835@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 607,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

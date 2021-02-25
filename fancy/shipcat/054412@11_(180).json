@@ -1,0 +1,25 @@
+{
+  "id": 54412,
+  "name": "G11 Ahoy Sailor Great Genes .4",
+  "generation": 11,
+  "created_at": "2017-12-04T04:22:39.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm G11 Ahoy Sailor Great Genes .4. I'm often referred to as the Marge Simpson of the group. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "48142@10",
+  "sire": "45069@7",
+  "children": [
+    "59699@12",
+    "62389@12",
+    "65260@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 180,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

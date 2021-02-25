@@ -1,0 +1,29 @@
+{
+  "id": 62164,
+  "name": "1",
+  "generation": 2,
+  "created_at": "2017-12-04T12:57:46.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm 1. I want to live in a world where people believe the world is flat. I would give it all up for a Chanel purse. Our friendship will be ridiculous, tantalizing, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23776@1",
+  "sire": "22081@1",
+  "children": [
+    "262511@3",
+    "263169@3",
+    "274044@3",
+    "284483@3",
+    "294787@4",
+    "323621@3",
+    "385604@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 627,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

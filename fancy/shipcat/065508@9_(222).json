@@ -1,0 +1,30 @@
+{
+  "id": 65508,
+  "name": "G9 Sailor Kitty",
+  "generation": 9,
+  "created_at": "2017-12-04T18:09:32.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm G9 Sailor Kitty. I enjoy tricking babies, staying woke, and riding unicorns. I once bit a goose. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "17507@7",
+  "sire": "27571@8",
+  "children": [
+    "83805@23",
+    "86613@14",
+    "102307@13",
+    "111451@13",
+    "142191@13",
+    "152889@22",
+    "181972@14",
+    "359761@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 222,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

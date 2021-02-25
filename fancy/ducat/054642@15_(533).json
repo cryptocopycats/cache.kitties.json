@@ -1,0 +1,23 @@
+{
+  "id": 54642,
+  "name": "Wazzup",
+  "generation": 15,
+  "created_at": "2017-12-04T04:44:49.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Wazzup. I've never told anyone this, but I once clawed a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "48841@11",
+  "sire": "11110@14",
+  "children": [
+    "64630@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 533,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

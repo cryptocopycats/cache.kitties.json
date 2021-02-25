@@ -1,0 +1,25 @@
+{
+  "id": 64207,
+  "name": "Who the Duck are you?",
+  "generation": 19,
+  "created_at": "2017-12-04T16:26:21.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! My name's Who the Duck are you?. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Lisa Simpson of the group. Our friendship will be seductive, vegan, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "42729@17",
+  "sire": "17085@18",
+  "children": [
+    "94205@20",
+    "101610@20",
+    "247589@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 647,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

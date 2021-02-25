@@ -1,0 +1,23 @@
+{
+  "id": 60943,
+  "name": "Happy Bird Cat / Cute / tongue",
+  "generation": 15,
+  "created_at": "2017-12-04T11:08:23.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Happy Bird Cat / Cute / tongue. I'm often referred to as the Marge Simpson of the group. Sometimes I daydream of a life full of taking selfies, chocolate, and volunteering at the local kitten rescue shelter. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31555@14",
+  "sire": "28897@14",
+  "children": [
+    "333404@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 611,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

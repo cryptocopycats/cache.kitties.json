@@ -1,0 +1,25 @@
+{
+  "id": 56957,
+  "name": "Matroskin",
+  "generation": 16,
+  "created_at": "2017-12-04T07:36:28.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Matroskin. My friends describe me as petulant and prickly. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "49446@15",
+  "sire": "50542@15",
+  "children": [
+    "64566@17",
+    "116594@19",
+    "176170@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 191,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

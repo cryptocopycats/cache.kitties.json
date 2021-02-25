@@ -1,0 +1,25 @@
+{
+  "id": 55537,
+  "name": "55537",
+  "generation": 11,
+  "created_at": "2017-12-04T06:05:12.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm 55537. In high school, I was voted most likely to work at NASA. Some people say I'm the Ross Geller of the group. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39948@10",
+  "sire": "39512@10",
+  "children": [
+    "75478@12",
+    "84026@20",
+    "111340@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 546,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 54551,
+  "name": "Gen 12 | Brisk",
+  "generation": 12,
+  "created_at": "2017-12-04T04:31:36.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Gen 12 | Brisk. I enjoy fighting for the people, eating until I loathe myself, and reciting poetry. When no one's home, I invite my pals over and we listen to Michael Bolton. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26572@9",
+  "sire": "32428@11",
+  "children": [
+    "59076@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 532,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 56659,
+  "name": "Chicken Flap",
+  "generation": 16,
+  "created_at": "2017-12-04T07:22:00.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Chicken Flap. I enjoy licking doorknobs, spinning sick beats, and staying woke. I was voted most likely to work at NASA in college. Will you be the peanut butter to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39116@10",
+  "sire": "36243@15",
+  "children": [
+    "69262@17",
+    "89564@17",
+    "474998@17",
+    "521972@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 561,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 62774,
+  "name": "Mixed 62774",
+  "generation": 6,
+  "created_at": "2017-12-04T13:46:07.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Mixed 62774. My friends describe me as despicable and raunchy. In my free time, I can usually be found wondrous or summoning ghosts. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46878@5",
+  "sire": "58523@5",
+  "children": [
+    "67584@7",
+    "78687@9",
+    "79483@7",
+    "81365@9",
+    "92668@15",
+    "106009@9",
+    "307026@16",
+    "316657@8",
+    "350081@9",
+    "355871@10",
+    "385476@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 629,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

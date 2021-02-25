@@ -1,0 +1,25 @@
+{
+  "id": 55205,
+  "name": "Fancy wings",
+  "generation": 10,
+  "created_at": "2017-12-04T05:24:53.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! Fancy wings here. I'm here to enjoy chasing string and sweating through my feet. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51371@9",
+  "sire": "5796@9",
+  "children": [
+    "58805@11",
+    "82867@11",
+    "96526@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 543,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

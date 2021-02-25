@@ -1,0 +1,25 @@
+{
+  "id": 65110,
+  "name": "Captain Cat Sparrow | RARE",
+  "generation": 20,
+  "created_at": "2017-12-04T17:42:49.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Captain Cat Sparrow | RARE. I enjoy being a nevernude, watching Stranger Things, and picking on mice. I once tricked a dog. I don't like to talk about it. Our friendship will be smelly, ridiculous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "20559@10",
+  "sire": "57510@19",
+  "children": [
+    "92397@21",
+    "148408@21",
+    "325156@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 221,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

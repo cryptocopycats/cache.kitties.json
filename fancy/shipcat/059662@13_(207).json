@@ -1,0 +1,29 @@
+{
+  "id": 59662,
+  "name": "FANCY SHIPCAT FIRESELL",
+  "generation": 13,
+  "created_at": "2017-12-04T09:58:58.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm FANCY SHIPCAT FIRESELL. I want to live in a world where people believe the world is flat. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "49219@12",
+  "sire": "53079@9",
+  "children": [
+    "68831@14",
+    "106077@14",
+    "117873@14",
+    "144345@14",
+    "167034@14",
+    "280479@14",
+    "329100@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 207,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

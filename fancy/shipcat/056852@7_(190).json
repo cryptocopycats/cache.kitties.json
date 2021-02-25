@@ -1,0 +1,23 @@
+{
+  "id": 56852,
+  "name": "Sailor Virgin G7",
+  "generation": 7,
+  "created_at": "2017-12-04T07:31:54.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! Sailor Virgin G7 here. I'm here to enjoy glaring at the neighbour's cat and eating lasagna. When I'm not reading Danielle Steele, I'm volunteering at the local kitten rescue shelter! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "44913@6",
+  "sire": "27292@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 190,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

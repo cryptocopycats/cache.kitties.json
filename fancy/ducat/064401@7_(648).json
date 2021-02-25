@@ -1,0 +1,23 @@
+{
+  "id": 64401,
+  "name": "Purebreed \"Birdnip\"",
+  "generation": 7,
+  "created_at": "2017-12-04T16:37:59.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Purebreed \"Birdnip\". I'm a Skydiving Instructor by day, and I like playing chess by night. I was voted school jock in college. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41191@5",
+  "sire": "41923@6",
+  "children": [
+    "88966@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 648,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

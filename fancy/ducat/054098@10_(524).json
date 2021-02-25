@@ -1,0 +1,23 @@
+{
+  "id": 54098,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-04T03:56:31.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! Kitty #54098 here. I'm here to enjoy sitting on your computer and grooming. I would give it all up to star in a soap opera. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39854@9",
+  "sire": "32194@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 524,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

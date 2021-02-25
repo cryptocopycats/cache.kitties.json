@@ -1,0 +1,23 @@
+{
+  "id": 64926,
+  "name": "Fancy Palatable Bird",
+  "generation": 9,
+  "created_at": "2017-12-04T17:27:46.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Fancy Palatable Bird. I'm often referred to as the Neville Longbottom of the group. I am 40% wizard, 31% Aerobics Athlete , and otherwise bad at math. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51478@8",
+  "sire": "57425@7",
+  "children": [
+    "214710@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 654,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 64994,
+  "name": "Chartreux Bird Parents",
+  "generation": 9,
+  "created_at": "2017-12-04T17:30:17.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Chartreux Bird Parents. I once peed on Mother Theresa's cat. They had it coming. I am 45% troll, 34% Train Conductor, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "52444@6",
+  "sire": "59996@8",
+  "children": [
+    "71556@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 655,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

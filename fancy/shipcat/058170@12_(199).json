@@ -1,0 +1,28 @@
+{
+  "id": 58170,
+  "name": "58170",
+  "generation": 12,
+  "created_at": "2017-12-04T08:35:53.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm 58170. I've never told anyone this, but I once cleaned a dog. Some people say I'm the Bart Simpson of the group. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "48718@11",
+  "sire": "53424@5",
+  "children": [
+    "67343@13",
+    "230835@13",
+    "237295@13",
+    "278979@13",
+    "292303@16",
+    "444108@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 199,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

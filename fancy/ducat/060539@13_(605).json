@@ -1,0 +1,24 @@
+{
+  "id": 60539,
+  "name": "Kamo",
+  "generation": 13,
+  "created_at": "2017-12-04T10:47:32.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Kamo. I enjoy slappin' da bass, riding dirty, and shakin' dat booty. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cantaloupe—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "50010@11",
+  "sire": "7978@12",
+  "children": [
+    "106401@14",
+    "111570@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 605,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

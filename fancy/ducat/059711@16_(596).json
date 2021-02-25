@@ -1,0 +1,26 @@
+{
+  "id": 59711,
+  "name": "Rare Duck",
+  "generation": 16,
+  "created_at": "2017-12-04T10:02:51.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Rare Duck. All you need to know about me is I hate steak with a passion. In my free time, I can usually be found smelly or playing chess. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "23055@15",
+  "sire": "17552@7",
+  "children": [
+    "500431@17",
+    "501619@17",
+    "513327@17",
+    "556742@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 596,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

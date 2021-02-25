@@ -1,0 +1,28 @@
+{
+  "id": 62061,
+  "name": "Ducat #626",
+  "generation": 7,
+  "created_at": "2017-12-04T12:52:01.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Ducat #626. I want to live in a world where people believe that one day cats will rule this planet. I once tricked a rooster. I don't like to talk about it. Our friendship will be fabulous, voluptuous, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49246@3",
+  "sire": "45374@6",
+  "children": [
+    "65942@8",
+    "69834@15",
+    "193534@8",
+    "217640@8",
+    "248640@8",
+    "281768@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 626,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

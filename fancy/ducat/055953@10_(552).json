@@ -1,0 +1,27 @@
+{
+  "id": 55953,
+  "name": "fancy duck kitty",
+  "generation": 10,
+  "created_at": "2017-12-04T06:44:05.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm fancy duck kitty. I'm a professional Skydiving Instructor and I love cereal. I was voted most likely to work at NASA in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "52809@9",
+  "sire": "50742@9",
+  "children": [
+    "59970@11",
+    "62532@11",
+    "63384@11",
+    "68600@11",
+    "97986@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 552,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

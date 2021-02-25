@@ -1,0 +1,30 @@
+{
+  "id": 55781,
+  "name": "✨✨SuperBrid✨✨",
+  "generation": 6,
+  "created_at": "2017-12-04T06:21:24.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm ✨✨SuperBrid✨✨. All you need to know about me is I hate chocolate with a passion. I once made a platypus trot. Will you be the ghost pepper hot sauce to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51453@5",
+  "sire": "47055@5",
+  "children": [
+    "63533@7",
+    "63853@11",
+    "71608@7",
+    "81970@7",
+    "101794@9",
+    "109875@7",
+    "176857@7",
+    "224104@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 549,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

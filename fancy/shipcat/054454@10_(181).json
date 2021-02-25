@@ -1,0 +1,29 @@
+{
+  "id": 54454,
+  "name": "Fancy Sailor Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-04T04:26:08.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Fancy Sailor Gen 10. I believe that one day cats will rule this planet. I'm often described as raunchy, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "50403@9",
+  "sire": "40314@6",
+  "children": [
+    "57649@11",
+    "65631@11",
+    "118646@11",
+    "123645@11",
+    "172050@11",
+    "217418@11",
+    "253710@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 181,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

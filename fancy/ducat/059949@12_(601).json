@@ -1,0 +1,23 @@
+{
+  "id": 59949,
+  "name": "Ducat # 601",
+  "generation": 12,
+  "created_at": "2017-12-04T10:13:38.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Ducat # 601. In high school, I was voted school jock. I would give it all up to star in a soap opera. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55484@11",
+  "sire": "47833@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 601,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

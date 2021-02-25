@@ -1,0 +1,23 @@
+{
+  "id": 58427,
+  "name": "G5 | Vampire",
+  "generation": 5,
+  "created_at": "2017-12-04T08:49:39.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm G5 | Vampire. I believe that one day cats will rule this planet. I put wasabi on everything. Like, everything: hot dogs, wet food—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "44518@3",
+  "sire": "48938@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 12,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

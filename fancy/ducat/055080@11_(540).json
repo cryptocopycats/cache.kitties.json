@@ -1,0 +1,25 @@
+{
+  "id": 55080,
+  "name": "G11 | B3 | V1 | 0 | mix1",
+  "generation": 11,
+  "created_at": "2017-12-04T05:06:10.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G11 | B3 | V1 | 0 | mix1. I'm often referred to as the Jon Snow of the group. I'm often described as smelly, and I own it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36622@10",
+  "sire": "35760@10",
+  "children": [
+    "62617@12",
+    "86365@12",
+    "103022@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 540,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

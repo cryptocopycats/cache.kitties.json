@@ -1,0 +1,27 @@
+{
+  "id": 58544,
+  "name": "Sailor Jerry",
+  "generation": 6,
+  "created_at": "2017-12-04T08:54:48.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Sailor Jerry. I'm often referred to as the Peter Griffin of the group. Sometimes I daydream of a life full of hitting on yo' man, cereal, and sleeping in fresh laundry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "9289@5",
+  "sire": "38531@5",
+  "children": [
+    "109135@7",
+    "109727@16",
+    "122502@7",
+    "128909@17",
+    "129399@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 202,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

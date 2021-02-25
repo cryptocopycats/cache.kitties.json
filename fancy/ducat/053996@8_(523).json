@@ -1,0 +1,23 @@
+{
+  "id": 53996,
+  "name": "Quack! :)",
+  "generation": 8,
+  "created_at": "2017-12-04T03:54:27.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's Quack! :). I once peed on King Henry VIII's cat. They had it coming. I like to listen to Aretha Franklin while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32347@7",
+  "sire": "18022@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 523,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

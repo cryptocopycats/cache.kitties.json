@@ -1,0 +1,26 @@
+{
+  "id": 59318,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-04T09:37:20.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #59318. My friends describe me as gullible and preposterous. I'm often described as petulant, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "20595@5",
+  "sire": "39853@12",
+  "children": [
+    "67287@14",
+    "82717@14",
+    "181438@14",
+    "220152@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 592,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

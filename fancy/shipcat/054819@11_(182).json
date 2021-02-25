@@ -1,0 +1,26 @@
+{
+  "id": 54819,
+  "name": "DD-G1.5-GrandSailor",
+  "generation": 11,
+  "created_at": "2017-12-04T04:55:28.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm DD-G1.5-GrandSailor. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as voluptuous, and I own it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "44295@7",
+  "sire": "52624@10",
+  "children": [
+    "67670@12",
+    "91113@12",
+    "113706@12",
+    "118498@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 182,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

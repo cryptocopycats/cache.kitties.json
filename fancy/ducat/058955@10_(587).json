@@ -1,0 +1,23 @@
+{
+  "id": 58955,
+  "name": "Duck-o-Cat",
+  "generation": 10,
+  "created_at": "2017-12-04T09:19:30.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Duck-o-Cat. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Sometimes I daydream of a life full of reading garfield, ice cream, and braiding people's hair. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28570@7",
+  "sire": "4314@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 587,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

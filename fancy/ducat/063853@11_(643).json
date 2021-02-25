@@ -1,0 +1,25 @@
+{
+  "id": 63853,
+  "name": "🐥 Big Bird 🐥",
+  "generation": 11,
+  "created_at": "2017-12-04T15:42:17.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 🐥 Big Bird 🐥. My friends describe me as hairy and stinky. When I'm not swiping left, I'm reading Danielle Steele! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55781@6",
+  "sire": "46688@10",
+  "children": [
+    "80658@12",
+    "89005@12",
+    "104559@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 643,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

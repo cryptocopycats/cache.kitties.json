@@ -1,0 +1,29 @@
+{
+  "id": 61680,
+  "name": "#211 💎💎Shipcat",
+  "generation": 11,
+  "created_at": "2017-12-04T12:21:18.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm #211 💎💎Shipcat. I've never told anyone this, but I once tricked a dog. I once tricked a chimpanzee. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "56282@9",
+  "sire": "57059@10",
+  "children": [
+    "62906@13",
+    "63678@12",
+    "67535@12",
+    "102819@12",
+    "233525@12",
+    "240274@12",
+    "425219@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 211,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

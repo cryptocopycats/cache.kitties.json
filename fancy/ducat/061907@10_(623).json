@@ -1,0 +1,24 @@
+{
+  "id": 61907,
+  "name": "Too Many Feathers 10",
+  "generation": 10,
+  "created_at": "2017-12-04T12:39:18.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm Too Many Feathers 10. I want to live in a world where people believe the world is flat. I once dreamed of being a Aerobics Athlete . Now I can be found riding the bus all day. Our friendship will be gorgeous, annoying, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43848@6",
+  "sire": "51053@9",
+  "children": [
+    "66085@11",
+    "82687@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 623,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

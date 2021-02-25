@@ -1,0 +1,23 @@
+{
+  "id": 65427,
+  "name": "Virgin Brisk Dracula G11",
+  "generation": 11,
+  "created_at": "2017-12-04T18:04:02.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Virgin Brisk Dracula G11. I'm often referred to as the Marge Simpson of the group. In my free time, I can usually be found raunchy or summoning ghosts. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "48573@10",
+  "sire": "44441@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 14,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

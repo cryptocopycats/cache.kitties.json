@@ -1,0 +1,33 @@
+{
+  "id": 58114,
+  "name": "G6 AQUA SAILOR",
+  "generation": 6,
+  "created_at": "2017-12-04T08:31:37.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm G6 AQUA SAILOR. I enjoy glaring at the neighbour's cat, sweating through my feet, and tricking babies. I once got in a fight with a rhino, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "41323@5",
+  "sire": "34336@5",
+  "children": [
+    "61555@8",
+    "77331@9",
+    "116461@7",
+    "120251@7",
+    "139158@12",
+    "167887@7",
+    "171423@14",
+    "206584@7",
+    "241245@7",
+    "295679@9",
+    "367627@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 197,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

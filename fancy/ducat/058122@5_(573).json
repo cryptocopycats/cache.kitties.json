@@ -1,0 +1,28 @@
+{
+  "id": 58122,
+  "name": "Gen 5 - Duck - Virgin",
+  "generation": 5,
+  "created_at": "2017-12-04T08:31:37.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Gen 5 - Duck - Virgin. I'm often referred to as the Ron Weasley of the group. In my free time, I can usually be found tantalizing or practicing witchcraft. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30778@4",
+  "sire": "31152@4",
+  "children": [
+    "189508@6",
+    "215772@9",
+    "219484@6",
+    "228122@12",
+    "259399@17",
+    "299159@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 573,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

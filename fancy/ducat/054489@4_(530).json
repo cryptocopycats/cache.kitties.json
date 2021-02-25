@@ -1,0 +1,27 @@
+{
+  "id": 54489,
+  "name": "💜 FANCY Bird Gen4",
+  "generation": 4,
+  "created_at": "2017-12-04T04:26:50.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm 💜 FANCY Bird Gen4. In high school, I was voted school jock. I like to listen to Frank Sinatra while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51076@3",
+  "sire": "6071@3",
+  "children": [
+    "71290@5",
+    "73570@5",
+    "74678@5",
+    "102109@5",
+    "106231@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 530,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

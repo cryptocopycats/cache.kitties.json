@@ -1,0 +1,29 @@
+{
+  "id": 55640,
+  "name": "Birdybird",
+  "generation": 11,
+  "created_at": "2017-12-04T06:10:34.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Birdybird. I'm often referred to as the Peter Griffin of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Our friendship will be stinky, tantalizing, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46688@10",
+  "sire": "35259@8",
+  "children": [
+    "64792@12",
+    "69835@12",
+    "82804@12",
+    "93614@12",
+    "114365@13",
+    "202009@13",
+    "240865@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 548,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

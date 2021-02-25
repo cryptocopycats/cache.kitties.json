@@ -1,0 +1,23 @@
+{
+  "id": 54462,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-04T04:26:08.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #54462. I've never told anyone this, but I once loved a dog. I would give it all up for a Chanel purse. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29620@8",
+  "sire": "40838@11",
+  "children": [
+    "104269@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 529,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

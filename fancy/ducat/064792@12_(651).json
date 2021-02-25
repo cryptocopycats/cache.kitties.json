@@ -1,0 +1,26 @@
+{
+  "id": 64792,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-04T17:19:25.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #64792. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of riding unicorns, lasagna, and siring for status. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35755@9",
+  "sire": "55640@11",
+  "children": [
+    "69036@13",
+    "73369@13",
+    "104212@13",
+    "108237@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 651,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

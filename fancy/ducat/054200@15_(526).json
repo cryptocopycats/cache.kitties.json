@@ -1,0 +1,28 @@
+{
+  "id": 54200,
+  "name": "Duck Baby Machine",
+  "generation": 15,
+  "created_at": "2017-12-04T04:05:17.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Duck Baby Machine. I'm a professional Private Dancer  and I love salad. My secret indulgence is lasagna. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35553@14",
+  "sire": "44663@8",
+  "children": [
+    "70939@16",
+    "87746@16",
+    "104374@16",
+    "109652@16",
+    "150104@16",
+    "226691@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 526,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

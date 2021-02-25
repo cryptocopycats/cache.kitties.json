@@ -1,0 +1,23 @@
+{
+  "id": 58848,
+  "name": "Fancy Wings",
+  "generation": 8,
+  "created_at": "2017-12-04T09:11:03.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Fancy Wings. I'm a Dispensary Clerk by day, and I like mocking dogs by night. I once got in a fight with a dog, and won. Will you be the wasabi to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51554@7",
+  "sire": "10759@7",
+  "children": [
+    "63927@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 584,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

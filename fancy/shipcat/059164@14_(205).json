@@ -1,0 +1,25 @@
+{
+  "id": 59164,
+  "name": "Shipcat",
+  "generation": 14,
+  "created_at": "2017-12-04T09:28:40.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Shipcat. I believe that one day cats will rule this planet. I like to listen to Rihanna while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "17188@13",
+  "sire": "42534@3",
+  "children": [
+    "63814@15",
+    "76886@17",
+    "112351@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 205,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

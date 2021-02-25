@@ -1,0 +1,25 @@
+{
+  "id": 64126,
+  "name": "RARE - HIGH FLYING STUD",
+  "generation": 8,
+  "created_at": "2017-12-04T16:15:55.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm RARE - HIGH FLYING STUD. I'm often referred to as the Lisa Simpson of the group. I was voted most likely to work at NASA in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "61168@7",
+  "sire": "61205@7",
+  "children": [
+    "71556@10",
+    "92106@9",
+    "153708@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 646,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

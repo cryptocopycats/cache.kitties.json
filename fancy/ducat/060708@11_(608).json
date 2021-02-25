@@ -1,0 +1,27 @@
+{
+  "id": 60708,
+  "name": "Gryph | Fancy Cat |",
+  "generation": 11,
+  "created_at": "2017-12-04T10:56:42.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gryph | Fancy Cat |. I want to live in a world where people believe the world is flat. I once cleaned a rabbit. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "47675@10",
+  "sire": "4377@10",
+  "children": [
+    "97679@12",
+    "259400@12",
+    "430407@17",
+    "476211@17",
+    "1674607@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 608,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
