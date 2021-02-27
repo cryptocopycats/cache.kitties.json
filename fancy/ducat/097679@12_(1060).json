@@ -1,0 +1,26 @@
+{
+  "id": 97679,
+  "name": "g12 BIRD | CHARTREUX DAD",
+  "generation": 12,
+  "created_at": "2017-12-05T23:43:22.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm g12 BIRD | CHARTREUX DAD. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of eating until I loathe myself, cantaloupe, and volunteering at the local kitten rescue shelter. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71512@11",
+  "sire": "60708@11",
+  "children": [
+    "115859@13",
+    "120582@13",
+    "128824@13",
+    "199391@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1060,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 97211,
+  "name": "Fluffy Duck",
+  "generation": 3,
+  "created_at": "2017-12-05T23:21:54.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Fluffy Duck. I'm a Train Conductor by day, and I like riverdancing by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "84580@2",
+  "sire": "84840@2",
+  "children": [
+    "97440@4",
+    "98738@4",
+    "100530@6",
+    "103282@4",
+    "123784@4",
+    "131751@4",
+    "150590@5",
+    "372149@8",
+    "377503@4",
+    "380445@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1052,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

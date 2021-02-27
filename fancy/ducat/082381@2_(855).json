@@ -1,0 +1,33 @@
+{
+  "id": 82381,
+  "name": "Gen 2 Fancy Duck Bird",
+  "generation": 2,
+  "created_at": "2017-12-05T06:48:32.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Gen 2 Fancy Duck Bird. All you need to know about me is I hate salad with a passion. I like to listen to Metallica while grooming. Don't judge me. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37641@1",
+  "sire": "26595@1",
+  "children": [
+    "109482@3",
+    "112382@3",
+    "113865@3",
+    "126403@3",
+    "146646@3",
+    "159645@4",
+    "180055@3",
+    "181517@3",
+    "320004@18",
+    "408048@3",
+    "484695@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 855,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

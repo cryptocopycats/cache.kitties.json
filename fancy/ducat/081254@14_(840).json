@@ -1,0 +1,27 @@
+{
+  "id": 81254,
+  "name": "81254",
+  "generation": 14,
+  "created_at": "2017-12-05T05:56:48.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's 81254. I once peed on Princess Diana's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be wondrous, ridiculous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39853@12",
+  "sire": "52635@13",
+  "children": [
+    "86669@15",
+    "139300@15",
+    "142895@15",
+    "197516@15",
+    "323472@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 840,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

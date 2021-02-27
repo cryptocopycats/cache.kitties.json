@@ -1,0 +1,24 @@
+{
+  "id": 87107,
+  "name": "Clucky Meowmer",
+  "generation": 20,
+  "created_at": "2017-12-05T12:02:39.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Clucky Meowmer here. I'm here to enjoy reading garfield and glaring at the neighbour's cat. I once made a dog ignore. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "44565@19",
+  "sire": "65024@11",
+  "children": [
+    "174945@21",
+    "273248@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 920,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

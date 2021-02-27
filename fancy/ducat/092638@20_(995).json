@@ -1,0 +1,23 @@
+{
+  "id": 92638,
+  "name": "🕊 LUXY BIRD G20",
+  "generation": 20,
+  "created_at": "2017-12-05T19:16:23.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm 🕊 LUXY BIRD G20. I enjoy reciting poetry, picking flowers, and glaring at the neighbour's cat. I would give it all up for a Chanel purse. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "12393@19",
+  "sire": "26139@6",
+  "children": [
+    "426920@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 995,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

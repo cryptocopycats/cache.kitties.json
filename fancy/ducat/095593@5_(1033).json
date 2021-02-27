@@ -1,0 +1,27 @@
+{
+  "id": 95593,
+  "name": "Duck Dodger",
+  "generation": 5,
+  "created_at": "2017-12-05T22:16:40.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Duck Dodger. I'm a Foreign Film Director by day, and I like swiping left by night. I once dreamed of being a Spin Instructor . Now I can be found sleeping in fresh laundry all day. I look forward to tripping my owner with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46462@4",
+  "sire": "57255@4",
+  "children": [
+    "95964@6",
+    "144845@6",
+    "145707@6",
+    "176677@6",
+    "192575@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1033,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

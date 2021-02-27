@@ -1,0 +1,30 @@
+{
+  "id": 92663,
+  "name": "Virgin Duck",
+  "generation": 11,
+  "created_at": "2017-12-05T19:20:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Virgin Duck. My friends describe me as gorgeous and fabulous. When I'm not pole dancing, I'm watching reality tv! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81951@10",
+  "sire": "67883@10",
+  "children": [
+    "136992@12",
+    "154651@12",
+    "168152@12",
+    "236867@12",
+    "239642@12",
+    "289366@12",
+    "354896@12",
+    "459522@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 996,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

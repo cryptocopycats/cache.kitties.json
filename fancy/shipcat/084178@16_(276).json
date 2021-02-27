@@ -1,0 +1,26 @@
+{
+  "id": 84178,
+  "name": "Sailor Purebred",
+  "generation": 16,
+  "created_at": "2017-12-05T08:41:55.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Sailor Purebred. All you need to know about me is I hate salad with a passion. I'm often described as petulant, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "38345@15",
+  "sire": "12625@12",
+  "children": [
+    "104935@17",
+    "251102@17",
+    "271030@17",
+    "383218@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 276,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

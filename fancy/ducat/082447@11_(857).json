@@ -1,0 +1,24 @@
+{
+  "id": 82447,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-05T06:51:34.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #82447. My friends describe me as gorgeous and brilliant. When no one's home, I invite my pals over and we listen to Aretha Franklin. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "68771@10",
+  "sire": "62665@10",
+  "children": [
+    "88569@12",
+    "96115@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 857,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

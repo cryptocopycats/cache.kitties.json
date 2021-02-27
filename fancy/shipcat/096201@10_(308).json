@@ -1,0 +1,25 @@
+{
+  "id": 96201,
+  "name": "FANCY Sailor (ULTRA RARE)",
+  "generation": 10,
+  "created_at": "2017-12-05T22:42:04.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm FANCY Sailor (ULTRA RARE). I'm a Foreign Film Director by day, and I like volunteering at the local kitten rescue shelter by night. Sometimes I daydream of a life full of sweating through my feet, lasagna, and braiding people's hair. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "93900@7",
+  "sire": "78924@9",
+  "children": [
+    "98093@11",
+    "107015@11",
+    "245711@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 308,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

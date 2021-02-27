@@ -1,0 +1,25 @@
+{
+  "id": 94646,
+  "name": "Happy Bird/Super rare",
+  "generation": 16,
+  "created_at": "2017-12-05T21:32:39.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Happy Bird/Super rare. I'm often referred to as the Dwight Schrute of the group. Some people say I'm the Dwight Schrute of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29272@15",
+  "sire": "52460@12",
+  "children": [
+    "140143@17",
+    "152158@17",
+    "188544@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1022,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 78365,
+  "name": "Bird Bird Bird",
+  "generation": 16,
+  "created_at": "2017-12-05T03:36:50.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Bird Bird Bird. My friends describe me as raunchy and hairy. It's not common knowledge, but my ancestry connects me to King Henry VIII. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63994@15",
+  "sire": "55897@12",
+  "children": [
+    "87784@17",
+    "112651@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 797,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

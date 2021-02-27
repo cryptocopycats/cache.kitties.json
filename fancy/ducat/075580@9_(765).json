@@ -1,0 +1,23 @@
+{
+  "id": 75580,
+  "name": "Gen 9 | 2 Duck Parents",
+  "generation": 9,
+  "created_at": "2017-12-05T01:46:04.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Gen 9 | 2 Duck Parents. My friends describe me as annoying and petulant. I would give it all up for a Chanel purse. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "57172@8",
+  "sire": "25871@6",
+  "children": [
+    "79905@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 765,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

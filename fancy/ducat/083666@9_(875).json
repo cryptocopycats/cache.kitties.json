@@ -1,0 +1,28 @@
+{
+  "id": 83666,
+  "name": "Shakespeare",
+  "generation": 9,
+  "created_at": "2017-12-05T08:14:01.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Shakespeare. I enjoy staying woke, spinning sick beats, and tripping my owner. I once got in a fight with a platypus, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "80886@8",
+  "sire": "83054@6",
+  "children": [
+    "93794@10",
+    "98942@10",
+    "118449@10",
+    "122353@10",
+    "133986@10",
+    "135316@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 875,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

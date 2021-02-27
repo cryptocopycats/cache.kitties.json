@@ -1,0 +1,27 @@
+{
+  "id": 83240,
+  "name": "G8 PUREBRED Fancy Duck VIRGIN",
+  "generation": 8,
+  "created_at": "2017-12-05T07:45:08.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm G8 PUREBRED Fancy Duck VIRGIN. I'm often referred to as the Bart Simpson of the group. When I'm not running a podcast, I'm volunteering at the local kitten rescue shelter! Our friendship will be preposterous, vegan, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66742@7",
+  "sire": "32668@7",
+  "children": [
+    "165669@9",
+    "168553@9",
+    "174706@9",
+    "182816@9",
+    "200144@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 870,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 67454,
+  "name": "🐤Birdman🐤🐤",
+  "generation": 6,
+  "created_at": "2017-12-04T20:21:40.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm 🐤Birdman🐤🐤. I'm a Dispensary Clerk by day, and I like sleeping in fresh laundry by night. Sometimes I daydream of a life full of picking flowers, salad, and mocking dogs. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63568@5",
+  "sire": "64046@5",
+  "children": [
+    "80688@7",
+    "92041@9",
+    "96558@8",
+    "102642@9",
+    "107294@9",
+    "115262@7",
+    "133622@7",
+    "217605@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 676,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

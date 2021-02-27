@@ -1,0 +1,27 @@
+{
+  "id": 81609,
+  "name": "GEN 9 Post Officier 6",
+  "generation": 9,
+  "created_at": "2017-12-05T06:11:46.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm GEN 9 Post Officier 6. My friends describe me as despicable and ridiculous. Some people say I'm the Frodo Baggins of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66072@8",
+  "sire": "73854@6",
+  "children": [
+    "82848@12",
+    "86731@14",
+    "87012@11",
+    "95588@11",
+    "174444@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 847,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

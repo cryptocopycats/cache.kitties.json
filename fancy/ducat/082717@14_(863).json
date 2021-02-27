@@ -1,0 +1,23 @@
+{
+  "id": 82717,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-05T07:07:15.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #82717. I'm a Train Conductor by day, and I like playing chess by night. I am 20% oracle, 87% Dispensary Clerk, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "58739@13",
+  "sire": "59318@13",
+  "children": [
+    "89030@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 863,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

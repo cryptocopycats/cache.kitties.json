@@ -1,0 +1,25 @@
+{
+  "id": 92962,
+  "name": "Sailor G7",
+  "generation": 7,
+  "created_at": "2017-12-05T19:48:08.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Sailor G7. All you need to know about me is I hate cereal with a passion. I like to listen to Michael Bolton while grooming. Don't judge me. Our friendship will be ridiculous, petulant, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "77858@6",
+  "sire": "77339@6",
+  "children": [
+    "94149@8",
+    "97004@8",
+    "106033@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 296,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

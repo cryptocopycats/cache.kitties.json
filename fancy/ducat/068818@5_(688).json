@@ -1,0 +1,31 @@
+{
+  "id": 68818,
+  "name": "5B | 4B 4C",
+  "generation": 5,
+  "created_at": "2017-12-04T21:23:41.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm 5B | 4B 4C. I'm a Dispensary Clerk by day, and I like running a podcast by night. I'm often described as vegan, and I own it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32811@4",
+  "sire": "37965@4",
+  "children": [
+    "73563@6",
+    "79188@6",
+    "80221@8",
+    "80833@6",
+    "93566@6",
+    "114034@9",
+    "119531@6",
+    "131668@6",
+    "155018@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 688,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

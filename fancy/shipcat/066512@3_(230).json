@@ -1,0 +1,25 @@
+{
+  "id": 66512,
+  "name": "💎SAILOR SUPER RARE💎STARTER",
+  "generation": 3,
+  "created_at": "2017-12-04T19:23:56.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm 💎SAILOR SUPER RARE💎STARTER. I've never told anyone this, but I once frolicked with a dog. My secret indulgence is steak. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "62580@2",
+  "sire": "50076@0",
+  "children": [
+    "154577@4",
+    "157156@4",
+    "185679@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 230,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

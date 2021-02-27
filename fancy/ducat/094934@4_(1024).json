@@ -1,0 +1,33 @@
+{
+  "id": 94934,
+  "name": "Gen4_DuCat_",
+  "generation": 4,
+  "created_at": "2017-12-05T21:47:37.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Gen4_DuCat_. I'm a Spin Instructor  by day, and I like talking about how much I lift by night. When no one's home, I invite my pals over and we listen to Frank Sinatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78315@2",
+  "sire": "82681@3",
+  "children": [
+    "148603@5",
+    "158138@5",
+    "208358@5",
+    "212016@5",
+    "218085@5",
+    "231594@5",
+    "246021@5",
+    "272383@5",
+    "281294@5",
+    "301330@5",
+    "337509@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1024,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

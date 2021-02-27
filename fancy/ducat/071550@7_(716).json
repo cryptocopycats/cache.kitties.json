@@ -1,0 +1,27 @@
+{
+  "id": 71550,
+  "name": "G7 | Fancy Duck Bird",
+  "generation": 7,
+  "created_at": "2017-12-04T23:36:02.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm G7 | Fancy Duck Bird. I've never told anyone this, but I once bit a dog. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "58247@6",
+  "sire": "67968@6",
+  "children": [
+    "75181@8",
+    "76590@8",
+    "78002@8",
+    "81066@8",
+    "85966@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 716,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

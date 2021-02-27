@@ -1,0 +1,24 @@
+{
+  "id": 95432,
+  "name": "fancy duck kitty",
+  "generation": 12,
+  "created_at": "2017-12-05T22:11:04.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm fancy duck kitty. I've never told anyone this, but I once clawed a dog. I once got in a fight with a gecko, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93899@11",
+  "sire": "60650@9",
+  "children": [
+    "99333@14",
+    "107869@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1031,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 67569,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-04T20:25:38.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Kitty #67569. I once peed on Cleopatra's cat. They had it coming. In my free time, I can usually be found tantalizing or jump-roping. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "62089@14",
+  "sire": "62489@12",
+  "children": [
+    "83383@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 678,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

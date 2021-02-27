@@ -1,0 +1,24 @@
+{
+  "id": 89573,
+  "name": "Tiny Fancy Bird Duck",
+  "generation": 15,
+  "created_at": "2017-12-05T15:13:23.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Tiny Fancy Bird Duck. I'm a Train Conductor by day, and I like summoning ghosts by night. I'm often described as hairy, and I own it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "10369@14",
+  "sire": "16512@7",
+  "children": [
+    "93808@16",
+    "102860@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 957,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

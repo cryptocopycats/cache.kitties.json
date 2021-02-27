@@ -1,0 +1,23 @@
+{
+  "id": 85138,
+  "name": "G11 Fancy Bird Duck -Brisk!",
+  "generation": 11,
+  "created_at": "2017-12-05T09:38:53.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G11 Fancy Bird Duck -Brisk!. I want to live in a world where people believe that one day cats will rule this planet. When I'm not mocking dogs, I'm riverdancing! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46065@10",
+  "sire": "57541@10",
+  "children": [
+    "116288@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 896,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

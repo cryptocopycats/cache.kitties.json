@@ -1,0 +1,24 @@
+{
+  "id": 96374,
+  "name": "Birb",
+  "generation": 7,
+  "created_at": "2017-12-05T22:49:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Birb. All you need to know about me is I hate cantaloupe with a passion. My friends describe me as \"annoying.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "84681@6",
+  "sire": "35561@6",
+  "children": [
+    "163629@8",
+    "196448@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1043,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

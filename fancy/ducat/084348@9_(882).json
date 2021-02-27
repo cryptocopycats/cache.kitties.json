@@ -1,0 +1,28 @@
+{
+  "id": 84348,
+  "name": "Frank the Tank",
+  "generation": 9,
+  "created_at": "2017-12-05T08:51:34.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Frank the Tank. All you need to know about me is I hate lasagna with a passion. When no one's home, I invite my pals over and we listen to Aretha Franklin. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "17678@8",
+  "sire": "40953@7",
+  "children": [
+    "104758@10",
+    "192454@14",
+    "195963@12",
+    "200204@13",
+    "208949@14",
+    "234993@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 882,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

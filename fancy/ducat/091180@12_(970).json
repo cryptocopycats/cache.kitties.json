@@ -1,0 +1,23 @@
+{
+  "id": 91180,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-05T17:29:19.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #91180. I'm a Spin Instructor  by day, and I like practicing witchcraft by night. My secret indulgence is steak. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41987@11",
+  "sire": "58511@10",
+  "children": [
+    "107295@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 970,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

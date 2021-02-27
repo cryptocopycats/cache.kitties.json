@@ -1,0 +1,23 @@
+{
+  "id": 94239,
+  "name": "FancyFancy",
+  "generation": 15,
+  "created_at": "2017-12-05T21:16:38.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm FancyFancy. In high school, I was voted school jock. When I'm not playing chess, I'm swiping right! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35600@13",
+  "sire": "86217@14",
+  "children": [
+    "310653@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1019,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

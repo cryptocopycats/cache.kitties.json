@@ -1,0 +1,27 @@
+{
+  "id": 94599,
+  "name": "Bird Virgin Snappy",
+  "generation": 8,
+  "created_at": "2017-12-05T21:29:20.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Bird Virgin Snappy. I'm often referred to as the Cersei Lannister of the group. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "92445@6",
+  "sire": "92947@7",
+  "children": [
+    "151214@9",
+    "152485@9",
+    "163234@9",
+    "166129@9",
+    "171592@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1021,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

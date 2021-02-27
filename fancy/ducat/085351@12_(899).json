@@ -1,0 +1,27 @@
+{
+  "id": 85351,
+  "name": "Long Line PURE Bird Duck RARE!",
+  "generation": 12,
+  "created_at": "2017-12-05T09:53:29.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Long Line PURE Bird Duck RARE!. All you need to know about me is I hate wet food with a passion. I put soy sauce on everything. Like, everything: hot dogs, apple pie—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35523@10",
+  "sire": "47018@11",
+  "children": [
+    "97582@13",
+    "159568@15",
+    "181890@17",
+    "190339@13",
+    "218889@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 899,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

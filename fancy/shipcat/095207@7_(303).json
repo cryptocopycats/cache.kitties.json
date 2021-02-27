@@ -1,0 +1,30 @@
+{
+  "id": 95207,
+  "name": "ShipCat",
+  "generation": 7,
+  "created_at": "2017-12-05T21:59:44.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm ShipCat. All you need to know about me is I hate wet food with a passion. I put cinammon on everything. Like, everything: hot dogs, hamburgers—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "91452@6",
+  "sire": "94117@6",
+  "children": [
+    "124230@8",
+    "249103@8",
+    "271247@18",
+    "288083@8",
+    "324618@8",
+    "341981@8",
+    "351595@9",
+    "415894@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 303,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

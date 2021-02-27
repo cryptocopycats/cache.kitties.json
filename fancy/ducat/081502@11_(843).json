@@ -1,0 +1,29 @@
+{
+  "id": 81502,
+  "name": "G11 FANCY MIX VAMPIRE GRANDMA",
+  "generation": 11,
+  "created_at": "2017-12-05T06:07:20.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm G11 FANCY MIX VAMPIRE GRANDMA. I'm a Culinary Sanitation Specialist by day, and I like braiding people's hair by night. I once got in a fight with a rooster, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "79498@10",
+  "sire": "79167@9",
+  "children": [
+    "83204@12",
+    "86296@12",
+    "104150@12",
+    "139927@12",
+    "166444@12",
+    "250502@12",
+    "288263@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 843,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

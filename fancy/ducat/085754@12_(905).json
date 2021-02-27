@@ -1,0 +1,29 @@
+{
+  "id": 85754,
+  "name": "45 G12 Fancy Duck Bird, BRISK",
+  "generation": 12,
+  "created_at": "2017-12-05T10:18:55.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm 45 G12 Fancy Duck Bird, BRISK. I believe the world is flat. I once made a dolphin enjoy. Our friendship will be gullible, fabulous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "69485@11",
+  "sire": "50293@11",
+  "children": [
+    "87941@13",
+    "107033@18",
+    "118235@13",
+    "130047@13",
+    "151693@13",
+    "288498@14",
+    "546978@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 905,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

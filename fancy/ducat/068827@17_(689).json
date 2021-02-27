@@ -1,0 +1,23 @@
+{
+  "id": 68827,
+  "name": "Tweety Bird Breeder",
+  "generation": 17,
+  "created_at": "2017-12-04T21:23:41.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Tweety Bird Breeder. I'm a Dogwalker by day, and I like volunteering at the local kitten rescue shelter by night. Some people say I'm the Lisa Simpson of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27978@16",
+  "sire": "29530@9",
+  "children": [
+    "94676@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 689,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 93233,
+  "name": "Fancy G8",
+  "generation": 8,
+  "created_at": "2017-12-05T20:10:55.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Fancy G8. I'm a professional Skydiving Instructor and I love apple pie. In my free time, I can usually be found stinky or talking about how much I lift. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "65107@7",
+  "sire": "90027@7",
+  "children": [
+    "107536@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1005,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 73897,
+  "name": "Fancy.",
+  "generation": 15,
+  "created_at": "2017-12-05T00:51:33.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Fancy.. I enjoy slappin' da bass, staying woke, and tripping my owner. I once made a gecko jump. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "67970@14",
+  "sire": "48884@4",
+  "children": [
+    "77551@16",
+    "105736@18",
+    "199547@16",
+    "243212@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 745,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

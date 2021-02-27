@@ -1,0 +1,25 @@
+{
+  "id": 70478,
+  "name": "VIRGIN RARE",
+  "generation": 4,
+  "created_at": "2017-12-04T22:50:59.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm VIRGIN RARE. I enjoy shakin' dat booty, eating lasagna, and reading garfield. Some people say I'm the Hermione Granger of the group. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32663@3",
+  "sire": "35307@3",
+  "children": [
+    "299058@5",
+    "300723@5",
+    "303570@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 706,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

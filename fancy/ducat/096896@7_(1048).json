@@ -1,0 +1,30 @@
+{
+  "id": 96896,
+  "name": "96896",
+  "generation": 7,
+  "created_at": "2017-12-05T23:09:44.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm 96896. My friends describe me as petulant and gullible. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74459@5",
+  "sire": "84228@6",
+  "children": [
+    "103479@13",
+    "105700@10",
+    "107484@8",
+    "233948@8",
+    "244925@9",
+    "249559@8",
+    "276644@9",
+    "342226@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1048,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

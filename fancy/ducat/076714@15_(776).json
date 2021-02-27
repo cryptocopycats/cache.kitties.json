@@ -1,0 +1,26 @@
+{
+  "id": 76714,
+  "name": "ULTRA RARE BIRD DUCK FANCY",
+  "generation": 15,
+  "created_at": "2017-12-05T02:24:28.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm ULTRA RARE BIRD DUCK FANCY. I want to live in a world where people believe the world is flat. I like to listen to Justin Bieber while grooming. Don't judge me. Will you be the peanut butter to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "62757@13",
+  "sire": "50929@14",
+  "children": [
+    "204625@16",
+    "212312@16",
+    "231294@16",
+    "269322@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 776,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

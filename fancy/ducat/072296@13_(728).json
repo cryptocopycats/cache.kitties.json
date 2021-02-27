@@ -1,0 +1,23 @@
+{
+  "id": 72296,
+  "name": "G13 Duck Cat Rare",
+  "generation": 13,
+  "created_at": "2017-12-04T23:55:54.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm G13 Duck Cat Rare. I want to live in a world where people believe the world is flat. In my free time, I can usually be found gorgeous or practicing witchcraft. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "61380@11",
+  "sire": "60357@12",
+  "children": [
+    "79283@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 728,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

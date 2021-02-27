@@ -1,0 +1,23 @@
+{
+  "id": 71468,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-04T23:30:20.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Kitty #71468. I'm often referred to as the Niles Crane of the group. My friends describe me as \"despicable.\" It's... accurate. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "12915@16",
+  "sire": "16225@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 712,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

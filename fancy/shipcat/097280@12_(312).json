@@ -1,0 +1,27 @@
+{
+  "id": 97280,
+  "name": "Sailor Moon",
+  "generation": 12,
+  "created_at": "2017-12-05T23:26:03.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Sailor Moon. I'm a Dispensary Clerk by day, and I like braiding people's hair by night. I once made a rabbit leap. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "82452@6",
+  "sire": "58490@11",
+  "children": [
+    "104827@13",
+    "218575@13",
+    "289927@15",
+    "352875@13",
+    "376301@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 312,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

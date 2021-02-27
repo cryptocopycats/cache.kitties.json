@@ -1,0 +1,31 @@
+{
+  "id": 76771,
+  "name": "Full Birdwing RARE PURE 100%",
+  "generation": 8,
+  "created_at": "2017-12-05T02:26:56.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Full Birdwing RARE PURE 100%. I'm often referred to as the Bart Simpson of the group. I once made a gecko enjoy. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "52345@7",
+  "sire": "49337@5",
+  "children": [
+    "83642@10",
+    "85480@10",
+    "91274@10",
+    "100424@10",
+    "108855@10",
+    "129687@10",
+    "158331@10",
+    "237090@10",
+    "332375@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 777,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 87849,
+  "name": "🐤 (Fancy)",
+  "generation": 9,
+  "created_at": "2017-12-05T13:03:08.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's 🐤 (Fancy). I once peed on King Henry VIII's cat. They had it coming. I would give it all up to be on Oprah. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51516@4",
+  "sire": "71469@8",
+  "children": [
+    "96999@10",
+    "101871@10",
+    "104559@12",
+    "206543@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 930,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

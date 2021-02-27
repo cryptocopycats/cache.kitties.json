@@ -1,0 +1,25 @@
+{
+  "id": 91067,
+  "name": "Parents are cats",
+  "generation": 13,
+  "created_at": "2017-12-05T17:20:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! Parents are cats here. I'm here to enjoy spinning sick beats and grooming. When I'm not summoning ghosts, I'm practicing witchcraft! I look forward to fighting for the people with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "70738@12",
+  "sire": "84299@11",
+  "children": [
+    "100879@14",
+    "106826@14",
+    "113135@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 968,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

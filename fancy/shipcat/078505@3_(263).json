@@ -1,0 +1,23 @@
+{
+  "id": 78505,
+  "name": "Oldest Gen 3 Swift",
+  "generation": 3,
+  "created_at": "2017-12-05T03:43:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Oldest Gen 3 Swift. I want to live in a world where people believe the world is flat. I once got in a fight with a moose, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "58851@2",
+  "sire": "33653@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 263,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

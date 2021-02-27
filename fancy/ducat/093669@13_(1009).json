@@ -1,0 +1,26 @@
+{
+  "id": 93669,
+  "name": "Fancy Bird Cat",
+  "generation": 13,
+  "created_at": "2017-12-05T20:40:33.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Fancy Bird Cat. I'm a professional Private Dancer  and I love ice cream. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "85992@11",
+  "sire": "76595@12",
+  "children": [
+    "96329@14",
+    "103045@14",
+    "202015@14",
+    "239892@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1009,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

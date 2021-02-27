@@ -1,0 +1,27 @@
+{
+  "id": 69819,
+  "name": "Fancy ShipCat G12",
+  "generation": 12,
+  "created_at": "2017-12-04T22:19:04.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! Fancy ShipCat G12 here. I'm here to enjoy breakdancing and taking selfies. When I'm not swiping right, I'm sleeping in fresh laundry! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "57400@11",
+  "sire": "38622@11",
+  "children": [
+    "1537827@14",
+    "1539108@14",
+    "1539682@14",
+    "1544361@13",
+    "1553753@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 242,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

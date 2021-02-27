@@ -1,0 +1,28 @@
+{
+  "id": 76280,
+  "name": "Kitty Asailea",
+  "generation": 15,
+  "created_at": "2017-12-05T02:10:56.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty Asailea. My friends describe me as seductive and hairy. I would give it all up for a Chanel purse. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "47516@11",
+  "sire": "24823@14",
+  "children": [
+    "190683@16",
+    "277388@16",
+    "326129@16",
+    "337163@16",
+    "352271@16",
+    "484620@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 256,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 81066,
+  "name": "G8 | Rare Duck Bird",
+  "generation": 8,
+  "created_at": "2017-12-05T05:47:13.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! G8 | Rare Duck Bird here. I'm here to enjoy sitting on your computer and slappin' da bass. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "68311@6",
+  "sire": "71550@7",
+  "children": [
+    "84619@9",
+    "84728@9",
+    "92046@9",
+    "110049@9",
+    "137604@9",
+    "176832@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 837,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

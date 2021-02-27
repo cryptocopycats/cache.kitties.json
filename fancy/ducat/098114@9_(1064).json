@@ -1,0 +1,29 @@
+{
+  "id": 98114,
+  "name": "G9 DuckCat with 2 Duck Kids",
+  "generation": 9,
+  "created_at": "2017-12-06T00:04:10.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm G9 DuckCat with 2 Duck Kids. I'm often referred to as the Cersei Lannister of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "95979@8",
+  "sire": "73745@5",
+  "children": [
+    "99440@10",
+    "101364@10",
+    "103589@10",
+    "126602@16",
+    "137976@16",
+    "151558@10",
+    "209946@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1064,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

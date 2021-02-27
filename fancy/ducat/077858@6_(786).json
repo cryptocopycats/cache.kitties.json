@@ -1,0 +1,30 @@
+{
+  "id": 77858,
+  "name": "Duck G6",
+  "generation": 6,
+  "created_at": "2017-12-05T03:10:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Duck G6. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37021@5",
+  "sire": "59395@5",
+  "children": [
+    "92962@7",
+    "94050@7",
+    "97013@7",
+    "106168@7",
+    "145276@7",
+    "163627@7",
+    "184440@7",
+    "267410@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 786,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 71188,
+  "name": "OG Sailor",
+  "generation": 16,
+  "created_at": "2017-12-04T23:21:27.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm OG Sailor. I believe that one day cats will rule this planet. My secret indulgence is chocolate. I hope we can be tantalizing friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "29655@14",
+  "sire": "37894@15",
+  "children": [
+    "84939@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 248,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

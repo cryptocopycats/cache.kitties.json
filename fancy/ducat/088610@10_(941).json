@@ -1,0 +1,26 @@
+{
+  "id": 88610,
+  "name": "HypnoDuck",
+  "generation": 10,
+  "created_at": "2017-12-05T13:58:11.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm HypnoDuck. I'm a professional Dispensary Clerk and I love ice cream. When I'm not practicing witchcraft, I'm pole dancing! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "59602@9",
+  "sire": "40620@9",
+  "children": [
+    "93184@11",
+    "105564@11",
+    "107985@11",
+    "115913@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 941,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

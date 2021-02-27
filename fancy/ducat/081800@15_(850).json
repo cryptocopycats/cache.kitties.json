@@ -1,0 +1,23 @@
+{
+  "id": 81800,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-05T06:17:47.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #81800. My friends describe me as voluptuous and brilliant. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66388@14",
+  "sire": "54483@14",
+  "children": [
+    "89030@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 850,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

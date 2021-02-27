@@ -1,0 +1,29 @@
+{
+  "id": 81330,
+  "name": "🐤 Duckie 🐤",
+  "generation": 8,
+  "created_at": "2017-12-05T06:01:34.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm 🐤 Duckie 🐤. I believe that one day cats will rule this planet. My secret indulgence is steak. I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63533@7",
+  "sire": "67722@3",
+  "children": [
+    "89005@12",
+    "96999@10",
+    "102642@9",
+    "107294@9",
+    "225508@10",
+    "246471@10",
+    "289087@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 841,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

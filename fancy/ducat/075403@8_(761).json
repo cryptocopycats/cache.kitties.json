@@ -1,0 +1,24 @@
+{
+  "id": 75403,
+  "name": "Gen8 Birdcat",
+  "generation": 8,
+  "created_at": "2017-12-05T01:37:02.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm Gen8 Birdcat. My friends describe me as gorgeous and despicable. I once dreamed of being a Aerobics Athlete . Now I can be found summoning ghosts all day. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "38428@7",
+  "sire": "19835@7",
+  "children": [
+    "85141@9",
+    "90151@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 761,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

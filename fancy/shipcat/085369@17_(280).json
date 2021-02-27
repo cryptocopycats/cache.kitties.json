@@ -1,0 +1,26 @@
+{
+  "id": 85369,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-05T09:54:33.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Kitty #85369. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"raunchy.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "38275@16",
+  "sire": "32756@8",
+  "children": [
+    "215718@18",
+    "231756@18",
+    "289733@18",
+    "296307@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 280,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

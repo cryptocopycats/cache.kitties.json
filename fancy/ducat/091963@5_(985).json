@@ -1,0 +1,33 @@
+{
+  "id": 91963,
+  "name": "Daffy Duck",
+  "generation": 5,
+  "created_at": "2017-12-05T18:21:10.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Daffy Duck. I've never told anyone this, but I once cleaned a dog. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "69842@4",
+  "sire": "43231@4",
+  "children": [
+    "92159@6",
+    "92916@6",
+    "93341@6",
+    "94743@6",
+    "95838@6",
+    "99875@6",
+    "115324@8",
+    "138513@8",
+    "143086@8",
+    "176085@6",
+    "261953@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 985,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

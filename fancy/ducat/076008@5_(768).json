@@ -1,0 +1,26 @@
+{
+  "id": 76008,
+  "name": "Purebred Fancy Duck",
+  "generation": 5,
+  "created_at": "2017-12-05T01:57:59.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Purebred Fancy Duck. In high school, I was voted school jock. I once dreamed of being a Train Conductor. Now I can be found running a podcast all day. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40702@4",
+  "sire": "48884@4",
+  "children": [
+    "79324@7",
+    "80051@10",
+    "103203@6",
+    "106883@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 768,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

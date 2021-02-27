@@ -1,0 +1,28 @@
+{
+  "id": 96106,
+  "name": "Tony TwoFace",
+  "generation": 7,
+  "created_at": "2017-12-05T22:39:03.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Tony TwoFace. I believe that one day cats will rule this planet. I once got in a fight with a dolphin, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "91869@6",
+  "sire": "67120@5",
+  "children": [
+    "138187@8",
+    "139325@8",
+    "147463@10",
+    "160582@8",
+    "198308@10",
+    "222830@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1041,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

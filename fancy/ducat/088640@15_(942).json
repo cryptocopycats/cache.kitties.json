@@ -1,0 +1,29 @@
+{
+  "id": 88640,
+  "name": "Purebreed Bird Kitty",
+  "generation": 15,
+  "created_at": "2017-12-05T14:00:07.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Purebreed Bird Kitty. I'm a professional Private Dancer  and I love wet food. I am 60% troll, 42% Train Conductor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "68771@10",
+  "sire": "34915@14",
+  "children": [
+    "99071@16",
+    "112431@22",
+    "202165@21",
+    "203237@16",
+    "288794@22",
+    "351520@16",
+    "513050@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 942,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

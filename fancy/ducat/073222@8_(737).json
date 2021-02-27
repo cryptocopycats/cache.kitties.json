@@ -1,0 +1,27 @@
+{
+  "id": 73222,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-05T00:30:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Kitty #73222. All you need to know about me is I hate cantaloupe with a passion. I once made a rabbit sulk. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39367@7",
+  "sire": "61854@5",
+  "children": [
+    "86525@15",
+    "90325@16",
+    "99158@18",
+    "100705@17",
+    "162654@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 737,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

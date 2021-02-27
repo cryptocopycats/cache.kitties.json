@@ -1,0 +1,32 @@
+{
+  "id": 77865,
+  "name": "G8 [RARE] VAMPIRE BIRD PARENTS",
+  "generation": 8,
+  "created_at": "2017-12-05T03:10:33.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm G8 [RARE] VAMPIRE BIRD PARENTS. I've never told anyone this, but I once headbutted a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66742@7",
+  "sire": "50522@3",
+  "children": [
+    "79167@9",
+    "81532@10",
+    "83558@10",
+    "103000@11",
+    "121780@11",
+    "145260@9",
+    "192122@9",
+    "289263@9",
+    "333667@9",
+    "425210@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 787,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

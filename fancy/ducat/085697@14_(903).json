@@ -1,0 +1,26 @@
+{
+  "id": 85697,
+  "name": "DuckCat Gen 14",
+  "generation": 14,
+  "created_at": "2017-12-05T10:15:19.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm DuckCat Gen 14. In high school, I was voted biggest teacher's pet. Some people say I'm the Peter Griffin of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "82512@13",
+  "sire": "73451@13",
+  "children": [
+    "89959@16",
+    "102981@16",
+    "105175@15",
+    "133693@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 903,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

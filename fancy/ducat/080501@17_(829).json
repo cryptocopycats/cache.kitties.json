@@ -1,0 +1,23 @@
+{
+  "id": 80501,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-05T05:25:14.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #80501. I want to live in a world where people believe the world is flat. I once dreamed of being a Foreign Film Director. Now I can be found watching reality tv all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "11823@16",
+  "sire": "34933@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 829,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 69224,
+  "name": "Fancy Wings Gen 4!",
+  "generation": 4,
+  "created_at": "2017-12-04T21:41:43.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Fancy Wings Gen 4!. I'm a Culinary Sanitation Specialist by day, and I like braiding people's hair by night. I once loved a moose. I don't like to talk about it. Our friendship will be gullible, vegan, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29574@3",
+  "sire": "39527@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 694,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

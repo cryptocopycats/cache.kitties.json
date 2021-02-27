@@ -1,0 +1,33 @@
+{
+  "id": 89596,
+  "name": "DuCat 7-1",
+  "generation": 7,
+  "created_at": "2017-12-05T15:15:45.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! DuCat 7-1 here. I'm here to enjoy tripping my owner and riding unicorns. I'm often described as wondrous, and I own it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "87967@6",
+  "sire": "88524@6",
+  "children": [
+    "90690@8",
+    "101910@8",
+    "111409@8",
+    "116808@8",
+    "122899@8",
+    "142644@8",
+    "174622@8",
+    "184493@8",
+    "287950@8",
+    "351474@8",
+    "546475@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 958,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

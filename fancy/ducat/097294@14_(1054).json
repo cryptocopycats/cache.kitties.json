@@ -1,0 +1,27 @@
+{
+  "id": 97294,
+  "name": "Fancy Blu",
+  "generation": 14,
+  "created_at": "2017-12-05T23:27:48.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Fancy Blu. I'm a professional Spin Instructor  and I love wet food. When no one's home, I invite my pals over and we listen to Metallica. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "89686@5",
+  "sire": "78867@13",
+  "children": [
+    "117125@15",
+    "134656@15",
+    "160278@15",
+    "283419@15",
+    "305720@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1054,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

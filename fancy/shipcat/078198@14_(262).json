@@ -1,0 +1,27 @@
+{
+  "id": 78198,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-05T03:26:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #78198. I'm often referred to as the Cersei Lannister of the group. Sometimes I daydream of a life full of being a nevernude, apple pie, and tricking babies. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "53089@13",
+  "sire": "53234@12",
+  "children": [
+    "88537@15",
+    "101221@15",
+    "119222@15",
+    "221720@20",
+    "511954@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 262,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

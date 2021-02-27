@@ -1,0 +1,23 @@
+{
+  "id": 97213,
+  "name": "Señor Flautas",
+  "generation": 6,
+  "created_at": "2017-12-05T23:22:02.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Señor Flautas. I enjoy hitting on yo' man, taking selfies, and spinning sick beats. I would give it all up to star in a soap opera. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94429@5",
+  "sire": "92653@5",
+  "children": [
+    "142003@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1053,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

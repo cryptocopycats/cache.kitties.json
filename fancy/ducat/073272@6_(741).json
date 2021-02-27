@@ -1,0 +1,23 @@
+{
+  "id": 73272,
+  "name": "6_birdie",
+  "generation": 6,
+  "created_at": "2017-12-05T00:33:53.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm 6_birdie. My friends describe me as brilliant and gullible. I like to listen to Michael Bolton while grooming. Don't judge me. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "48356@5",
+  "sire": "43263@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 741,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

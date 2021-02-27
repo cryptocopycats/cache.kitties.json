@@ -1,0 +1,25 @@
+{
+  "id": 89564,
+  "name": "G17 Fancy Duck Bird Plodding",
+  "generation": 17,
+  "created_at": "2017-12-05T15:13:23.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm G17 Fancy Duck Bird Plodding. My friends describe me as ridiculous and preposterous. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Will you be the soy sauce to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37289@10",
+  "sire": "56659@16",
+  "children": [
+    "107033@18",
+    "236595@18",
+    "361123@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 956,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 87975,
+  "name": "Douglus",
+  "generation": 14,
+  "created_at": "2017-12-05T13:13:31.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Douglus. I'm a Dispensary Clerk by day, and I like jump-roping by night. Sometimes I daydream of a life full of reciting poetry, chocolate, and mocking dogs. Our friendship will be petulant, ridiculous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28098@11",
+  "sire": "29246@13",
+  "children": [
+    "106143@15",
+    "110479@15",
+    "131034@15",
+    "152014@15",
+    "240290@15",
+    "328950@15",
+    "394346@15",
+    "435314@15",
+    "454887@15",
+    "474812@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 932,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

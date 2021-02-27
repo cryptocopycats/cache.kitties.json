@@ -1,0 +1,28 @@
+{
+  "id": 93213,
+  "name": "G8 Bird Bubblegum",
+  "generation": 8,
+  "created_at": "2017-12-05T20:08:56.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's G8 Bird Bubblegum. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once licked a gecko. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "75793@4",
+  "sire": "92268@7",
+  "children": [
+    "94971@9",
+    "171803@12",
+    "182172@12",
+    "192059@13",
+    "237237@12",
+    "296349@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1003,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

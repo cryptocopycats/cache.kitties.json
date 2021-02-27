@@ -1,0 +1,23 @@
+{
+  "id": 95091,
+  "name": "Biiiiiirrd",
+  "generation": 11,
+  "created_at": "2017-12-05T21:55:02.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Biiiiiirrd. I believe the world is flat. I was voted school jock in college. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41251@7",
+  "sire": "73530@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1027,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

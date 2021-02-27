@@ -1,0 +1,23 @@
+{
+  "id": 80708,
+  "name": "du <==3 cat 0.0092",
+  "generation": 13,
+  "created_at": "2017-12-05T05:32:45.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm du <==3 cat 0.0092. In high school, I was voted most likely to work at NASA. I once got in a fight with a dolphin, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49153@12",
+  "sire": "37931@11",
+  "children": [
+    "148324@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 833,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

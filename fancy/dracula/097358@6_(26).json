@@ -1,0 +1,25 @@
+{
+  "id": 97358,
+  "name": "【Dracula Clan】#26/2000",
+  "generation": 6,
+  "created_at": "2017-12-05T23:32:33.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm 【Dracula Clan】#26/2000. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Frank Sinatra. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "60377@5",
+  "sire": "78667@5",
+  "children": [
+    "118334@7",
+    "119245@7",
+    "124345@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 26,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

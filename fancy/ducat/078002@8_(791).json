@@ -1,0 +1,31 @@
+{
+  "id": 78002,
+  "name": "G8 | Fancy | Bird",
+  "generation": 8,
+  "created_at": "2017-12-05T03:17:47.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm G8 | Fancy | Bird. In high school, I was voted most likely to work at NASA. I once dreamed of being a Dispensary Clerk. Now I can be found playing chess all day. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71550@7",
+  "sire": "57918@5",
+  "children": [
+    "79117@9",
+    "80885@9",
+    "83357@9",
+    "93804@9",
+    "119123@9",
+    "133477@9",
+    "160622@9",
+    "223364@9",
+    "317532@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 791,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

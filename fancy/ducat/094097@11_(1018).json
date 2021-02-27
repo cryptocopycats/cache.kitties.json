@@ -1,0 +1,25 @@
+{
+  "id": 94097,
+  "name": "CyBird #2",
+  "generation": 11,
+  "created_at": "2017-12-05T21:09:34.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm CyBird #2. I believe that one day cats will rule this planet. I would give it all up to be on Oprah. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24859@10",
+  "sire": "70304@3",
+  "children": [
+    "99536@12",
+    "104158@12",
+    "121794@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1018,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

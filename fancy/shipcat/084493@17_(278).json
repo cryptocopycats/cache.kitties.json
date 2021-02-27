@@ -1,0 +1,23 @@
+{
+  "id": 84493,
+  "name": "SailorKitty",
+  "generation": 17,
+  "created_at": "2017-12-05T09:03:29.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm SailorKitty. I'm a professional Mad Scientist and I love ice cream. When I'm not riding the bus, I'm siring for status! Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "78878@14",
+  "sire": "20419@16",
+  "children": [
+    "326189@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 278,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

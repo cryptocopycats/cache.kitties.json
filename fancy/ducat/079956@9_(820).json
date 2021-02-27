@@ -1,0 +1,23 @@
+{
+  "id": 79956,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-05T04:56:51.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Kitty #79956. I want to live in a world where people believe the world is flat. My friends describe me as \"vegan.\" It's... accurate. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49415@8",
+  "sire": "44052@8",
+  "children": [
+    "86000@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 820,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

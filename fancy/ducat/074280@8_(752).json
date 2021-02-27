@@ -1,0 +1,26 @@
+{
+  "id": 74280,
+  "name": "Full BirdWing Lineage!",
+  "generation": 8,
+  "created_at": "2017-12-05T01:02:50.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Full BirdWing Lineage!. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found ridiculous or riverdancing. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49337@5",
+  "sire": "47959@7",
+  "children": [
+    "90252@9",
+    "97495@9",
+    "101142@9",
+    "109528@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 752,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

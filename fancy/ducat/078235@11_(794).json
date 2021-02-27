@@ -1,0 +1,26 @@
+{
+  "id": 78235,
+  "name": "KittieHawk",
+  "generation": 11,
+  "created_at": "2017-12-05T03:29:40.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm KittieHawk. In high school, I was voted most likely to work at NASA. My secret indulgence is ice cream. Can you make my vegan dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36931@9",
+  "sire": "46724@10",
+  "children": [
+    "81395@12",
+    "83189@13",
+    "106143@15",
+    "117207@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 794,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

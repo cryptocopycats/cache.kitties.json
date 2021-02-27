@@ -1,0 +1,24 @@
+{
+  "id": 81545,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-05T06:09:04.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Kitty #81545. All you need to know about me is I hate salad with a passion. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Will you be the wasabi to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "48752@15",
+  "sire": "54628@10",
+  "children": [
+    "100051@18",
+    "161288@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 844,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

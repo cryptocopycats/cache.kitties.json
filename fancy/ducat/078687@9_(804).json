@@ -1,0 +1,30 @@
+{
+  "id": 78687,
+  "name": "1st Generation Pure Bred",
+  "generation": 9,
+  "created_at": "2017-12-05T03:53:41.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm 1st Generation Pure Bred. I'm a Aerobics Athlete  by day, and I like watching reality tv by night. I once dreamed of being a Train Conductor. Now I can be found sleeping in fresh laundry all day. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "59894@8",
+  "sire": "62774@6",
+  "children": [
+    "84562@15",
+    "86090@16",
+    "93521@16",
+    "93598@20",
+    "112708@16",
+    "304990@11",
+    "347431@11",
+    "375867@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 804,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 93222,
+  "name": "Dr. DUCK CAT McFly",
+  "generation": 12,
+  "created_at": "2017-12-05T20:09:00.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Dr. DUCK CAT McFly. I'm a professional Skydiving Instructor and I love chocolate. My secret indulgence is steak. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "80303@10",
+  "sire": "78431@11",
+  "children": [
+    "99178@19",
+    "104202@18",
+    "138331@19",
+    "139473@13",
+    "157807@13",
+    "224248@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1004,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

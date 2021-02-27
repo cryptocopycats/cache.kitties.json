@@ -1,0 +1,25 @@
+{
+  "id": 92473,
+  "name": "Ducky Boi",
+  "generation": 12,
+  "created_at": "2017-12-05T19:02:14.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Ducky Boi. I'm often referred to as the Cersei Lannister of the group. I once made a dog jump. I look forward to eating lasagna with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "76317@11",
+  "sire": "71133@8",
+  "children": [
+    "100727@13",
+    "161110@23",
+    "327662@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 993,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

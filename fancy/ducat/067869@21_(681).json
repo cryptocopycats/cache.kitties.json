@@ -1,0 +1,24 @@
+{
+  "id": 67869,
+  "name": "Fancy! Laperm 💎",
+  "generation": 21,
+  "created_at": "2017-12-04T20:41:04.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Fancy! Laperm 💎. I've never told anyone this, but I once bit a dog. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "56917@12",
+  "sire": "59568@20",
+  "children": [
+    "103226@22",
+    "351312@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 681,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

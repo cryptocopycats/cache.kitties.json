@@ -1,0 +1,25 @@
+{
+  "id": 75036,
+  "name": "Ducat",
+  "generation": 10,
+  "created_at": "2017-12-05T01:25:37.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Ducat. My friends describe me as fabulous and prickly. I once cleaned a dog. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "58993@9",
+  "sire": "44431@9",
+  "children": [
+    "77704@17",
+    "101221@15",
+    "189291@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 757,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

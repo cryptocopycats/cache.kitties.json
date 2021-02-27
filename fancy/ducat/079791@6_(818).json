@@ -1,0 +1,23 @@
+{
+  "id": 79791,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-05T04:48:58.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #79791. I'm a professional Ventriloquist and I love steak. I would give it all up to be on Oprah. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "48012@5",
+  "sire": "42243@5",
+  "children": [
+    "80683@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 818,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

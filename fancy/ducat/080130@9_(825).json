@@ -1,0 +1,32 @@
+{
+  "id": 80130,
+  "name": "G9 PUREBRED Fancy Duck",
+  "generation": 9,
+  "created_at": "2017-12-05T05:05:17.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm G9 PUREBRED Fancy Duck. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74732@8",
+  "sire": "42296@8",
+  "children": [
+    "81110@10",
+    "83558@10",
+    "127302@10",
+    "131242@10",
+    "136050@10",
+    "168494@10",
+    "183548@10",
+    "239132@10",
+    "289245@10",
+    "377763@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 825,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 88582,
+  "name": "Luderpik",
+  "generation": 7,
+  "created_at": "2017-12-05T13:55:18.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! My name's Luderpik. I once peed on King Henry VIII's cat. They had it coming. It's not common knowledge, but my ancestry connects me to King Henry VIII. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "64379@6",
+  "sire": "27689@6",
+  "children": [
+    "246989@16",
+    "250483@9",
+    "253560@9",
+    "272667@9",
+    "275031@11",
+    "285737@10",
+    "292390@9",
+    "372088@11",
+    "379272@11",
+    "1261646@10",
+    "1969711@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 940,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

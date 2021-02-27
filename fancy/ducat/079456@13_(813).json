@@ -1,0 +1,26 @@
+{
+  "id": 79456,
+  "name": "RARE Gen 13 Fancy Cat Duck",
+  "generation": 13,
+  "created_at": "2017-12-05T04:29:08.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm RARE Gen 13 Fancy Cat Duck. I've never told anyone this, but I once frolicked with a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33158@10",
+  "sire": "30081@12",
+  "children": [
+    "105973@14",
+    "108320@14",
+    "153647@14",
+    "175174@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 813,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

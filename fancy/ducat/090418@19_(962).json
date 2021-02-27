@@ -1,0 +1,23 @@
+{
+  "id": 90418,
+  "name": "Leety Parakitty",
+  "generation": 19,
+  "created_at": "2017-12-05T16:23:10.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Leety Parakitty here. I'm here to enjoy grooming and picking on mice. I once headbutted a goose. I don't like to talk about it. Will you be the cinammon to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "45883@18",
+  "sire": "23183@18",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 962,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

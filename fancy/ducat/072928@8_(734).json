@@ -1,0 +1,25 @@
+{
+  "id": 72928,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-05T00:14:09.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #72928. My friends describe me as seductive and raunchy. I am 32% troll, 9% Mad Scientist, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "42269@4",
+  "sire": "42454@7",
+  "children": [
+    "718262@14",
+    "1604357@9",
+    "1802683@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 734,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

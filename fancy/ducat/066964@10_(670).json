@@ -1,0 +1,25 @@
+{
+  "id": 66964,
+  "name": "Pure duck",
+  "generation": 10,
+  "created_at": "2017-12-04T19:51:28.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Pure duck. All you need to know about me is I hate ice cream with a passion. I once made a rabbit dance. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "53916@5",
+  "sire": "55036@9",
+  "children": [
+    "73295@11",
+    "81440@11",
+    "110069@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 670,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

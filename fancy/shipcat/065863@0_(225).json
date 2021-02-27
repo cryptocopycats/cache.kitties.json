@@ -1,0 +1,33 @@
+{
+  "id": 65863,
+  "name": "Karbo.io",
+  "generation": 0,
+  "created_at": "2017-12-04T18:41:41.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Karbo.io. I want to live in a world where people believe that one day cats will rule this planet. I once made a moose play. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": null,
+  "sire": null,
+  "children": [
+    "338405@1",
+    "362867@1",
+    "363518@1",
+    "364255@1",
+    "365728@1",
+    "512495@1",
+    "513296@1",
+    "532700@1",
+    "534697@1",
+    "539007@1",
+    "542937@1"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 225,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

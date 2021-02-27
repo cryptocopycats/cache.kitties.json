@@ -1,0 +1,32 @@
+{
+  "id": 86347,
+  "name": "Poopie's Test Pilot",
+  "generation": 7,
+  "created_at": "2017-12-05T11:00:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Poopie's Test Pilot. I'm a professional Spin Instructor  and I love cantaloupe. I once clawed a rhino. I don't like to talk about it. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78353@6",
+  "sire": "61858@6",
+  "children": [
+    "87349@8",
+    "89077@8",
+    "107952@20",
+    "128454@8",
+    "132617@8",
+    "147207@8",
+    "180732@8",
+    "212761@10",
+    "224009@8",
+    "359470@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 911,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

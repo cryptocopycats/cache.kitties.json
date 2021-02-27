@@ -1,0 +1,25 @@
+{
+  "id": 74220,
+  "name": "Twitter Cat with Spock Trait",
+  "generation": 13,
+  "created_at": "2017-12-05T01:01:10.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Twitter Cat with Spock Trait. I want to live in a world where people believe the world is flat. I once dreamed of being a Mad Scientist. Now I can be found watching reality tv all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "69527@12",
+  "sire": "61691@12",
+  "children": [
+    "79756@14",
+    "252489@14",
+    "275480@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 751,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

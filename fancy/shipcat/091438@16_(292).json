@@ -1,0 +1,24 @@
+{
+  "id": 91438,
+  "name": "SAILOR MEOWTH",
+  "generation": 16,
+  "created_at": "2017-12-05T17:48:41.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm SAILOR MEOWTH. I'm a professional Private Dancer  and I love chocolate. I am 90% troll, 34% Private Dancer , and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "86721@7",
+  "sire": "13162@15",
+  "children": [
+    "140837@17",
+    "174014@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 292,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

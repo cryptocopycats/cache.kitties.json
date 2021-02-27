@@ -1,0 +1,26 @@
+{
+  "id": 66140,
+  "name": "Sailorcat",
+  "generation": 6,
+  "created_at": "2017-12-04T19:07:07.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Sailorcat. I've never told anyone this, but I once bit a dog. I once bit a rhino. I don't like to talk about it. Will you be the wasabi to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "60103@5",
+  "sire": "56716@5",
+  "children": [
+    "72983@7",
+    "77045@12",
+    "121792@7",
+    "162409@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 229,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

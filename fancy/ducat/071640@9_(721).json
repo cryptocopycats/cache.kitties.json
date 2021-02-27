@@ -1,0 +1,23 @@
+{
+  "id": 71640,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-04T23:38:19.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #71640. I enjoy reading garfield, fighting the patriarchy, and picking on mice. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46041@8",
+  "sire": "33487@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 721,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

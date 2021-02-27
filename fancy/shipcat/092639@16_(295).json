@@ -1,0 +1,23 @@
+{
+  "id": 92639,
+  "name": "Gen 16 Fancy Sailor",
+  "generation": 16,
+  "created_at": "2017-12-05T19:16:23.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Gen 16 Fancy Sailor. My friends describe me as tantalizing and preposterous. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "7762@15",
+  "sire": "7290@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 295,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

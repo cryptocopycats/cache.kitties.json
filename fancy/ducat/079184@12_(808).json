@@ -1,0 +1,27 @@
+{
+  "id": 79184,
+  "name": "#808",
+  "generation": 12,
+  "created_at": "2017-12-05T04:18:18.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm #808. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25253@10",
+  "sire": "53412@11",
+  "children": [
+    "83189@13",
+    "105303@13",
+    "114477@16",
+    "131034@15",
+    "648756@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 808,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

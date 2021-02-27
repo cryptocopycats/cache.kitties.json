@@ -1,0 +1,28 @@
+{
+  "id": 74669,
+  "name": "Digital Gold",
+  "generation": 16,
+  "created_at": "2017-12-05T01:13:42.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Digital Gold. I'm a Skydiving Instructor by day, and I like running a podcast by night. I once made a moose sulk. Will you be the marmalade to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "55128@15",
+  "sire": "55141@8",
+  "children": [
+    "88609@18",
+    "109277@20",
+    "131644@22",
+    "229617@17",
+    "302911@17",
+    "372233@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 252,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

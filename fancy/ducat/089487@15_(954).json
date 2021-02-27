@@ -1,0 +1,23 @@
+{
+  "id": 89487,
+  "name": "Bird Purebreed",
+  "generation": 15,
+  "created_at": "2017-12-05T15:06:12.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! My name's Bird Purebreed. I once peed on Mother Theresa's cat. They had it coming. My secret indulgence is cantaloupe. I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "44704@10",
+  "sire": "68150@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 954,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

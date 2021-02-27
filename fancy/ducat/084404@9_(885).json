@@ -1,0 +1,23 @@
+{
+  "id": 84404,
+  "name": "Super Duck",
+  "generation": 9,
+  "created_at": "2017-12-05T08:54:58.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Super Duck. I'm a professional Skydiving Instructor and I love wet food. I put soy sauce on everything. Like, everything: hot dogs, cereal—everything! Can you make my brilliant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "59682@8",
+  "sire": "63734@8",
+  "children": [
+    "85969@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 885,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

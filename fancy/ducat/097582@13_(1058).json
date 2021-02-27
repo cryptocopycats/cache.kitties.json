@@ -1,0 +1,26 @@
+{
+  "id": 97582,
+  "name": "Ducat #1058",
+  "generation": 13,
+  "created_at": "2017-12-05T23:37:55.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Ducat #1058. I'm a professional Skydiving Instructor and I love lasagna. My friends describe me as \"prickly.\" It's... accurate. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "85351@12",
+  "sire": "80568@3",
+  "children": [
+    "1104948@17",
+    "1108003@14",
+    "1113463@14",
+    "1125959@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1058,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

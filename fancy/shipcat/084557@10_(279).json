@@ -1,0 +1,27 @@
+{
+  "id": 84557,
+  "name": "Sailor Kitty",
+  "generation": 10,
+  "created_at": "2017-12-05T09:07:42.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Sailor Kitty. I'm a Train Conductor by day, and I like reading Danielle Steele by night. I like to listen to Coldplay while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "64422@9",
+  "sire": "77522@9",
+  "children": [
+    "86356@11",
+    "87549@11",
+    "96529@11",
+    "108786@11",
+    "129470@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 279,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 75563,
+  "name": "Virgin Duck + Dali/Duck Parent",
+  "generation": 9,
+  "created_at": "2017-12-05T01:45:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! My name's Virgin Duck + Dali/Duck Parent. I once peed on Princess Diana's cat. They had it coming. My secret indulgence is hamburgers. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63962@8",
+  "sire": "65768@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 764,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

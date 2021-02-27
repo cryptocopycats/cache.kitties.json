@@ -1,0 +1,23 @@
+{
+  "id": 86731,
+  "name": "🦆 FANCY DUCK 🦆",
+  "generation": 14,
+  "created_at": "2017-12-05T11:31:10.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm 🦆 FANCY DUCK 🦆. I'm often referred to as the Homer Simpson of the group. When I'm not reading Danielle Steele, I'm tricking babies! I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81609@9",
+  "sire": "83845@13",
+  "children": [
+    "168776@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 917,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

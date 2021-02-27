@@ -1,0 +1,28 @@
+{
+  "id": 92046,
+  "name": "***Disco Chick***",
+  "generation": 9,
+  "created_at": "2017-12-05T18:28:46.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! ***Disco Chick*** here. I'm here to enjoy tripping my owner and eating until I loathe myself. I put cinammon on everything. Like, everything: hot dogs, steak—everything! Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81066@8",
+  "sire": "84098@8",
+  "children": [
+    "128678@10",
+    "145777@10",
+    "167090@10",
+    "189106@10",
+    "214548@10",
+    "314454@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 987,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

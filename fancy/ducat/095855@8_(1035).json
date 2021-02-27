@@ -1,0 +1,25 @@
+{
+  "id": 95855,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-05T22:27:38.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's Kitty #95855. I once peed on Marie Antoinette's cat. They had it coming. Some people say I'm the Steve Urkel of the group. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93926@7",
+  "sire": "83879@7",
+  "children": [
+    "97161@9",
+    "109496@9",
+    "126244@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1035,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

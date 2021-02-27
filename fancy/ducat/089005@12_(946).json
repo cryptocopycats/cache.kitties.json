@@ -1,0 +1,26 @@
+{
+  "id": 89005,
+  "name": "🐤 Pure bred - good genes 🐤",
+  "generation": 12,
+  "created_at": "2017-12-05T14:25:24.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 🐤 Pure bred - good genes 🐤. I'm a Dispensary Clerk by day, and I like tricking babies by night. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63853@11",
+  "sire": "81330@8",
+  "children": [
+    "114365@13",
+    "230858@13",
+    "250094@13",
+    "279273@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 946,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

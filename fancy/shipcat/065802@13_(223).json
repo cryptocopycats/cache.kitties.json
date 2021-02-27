@@ -1,0 +1,24 @@
+{
+  "id": 65802,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-04T18:40:16.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #65802. I'm often referred to as the Lisa Simpson of the group. I'm often described as prickly, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "22841@12",
+  "sire": "26202@4",
+  "children": [
+    "82510@14",
+    "142832@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 223,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 66986,
+  "name": "Rare Duck Kitty!",
+  "generation": 15,
+  "created_at": "2017-12-04T19:51:34.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Rare Duck Kitty! here. I'm here to enjoy fighting for the people and eating until I loathe myself. I am 34% fairy, 18% Dogwalker, and otherwise bad at math. Will you be the cinammon to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "45009@8",
+  "sire": "44898@14",
+  "children": [
+    "77764@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 672,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

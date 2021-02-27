@@ -1,0 +1,30 @@
+{
+  "id": 81242,
+  "name": "a normal cat",
+  "generation": 11,
+  "created_at": "2017-12-05T05:55:41.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm a normal cat. In high school, I was voted most likely to work at NASA. I am 9% fairy, 13% Mad Scientist, and otherwise bad at math. Our friendship will be annoying, seductive, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "60025@10",
+  "sire": "62821@9",
+  "children": [
+    "82935@21",
+    "113320@19",
+    "256467@12",
+    "277085@12",
+    "479438@20",
+    "518839@22",
+    "566470@16",
+    "585944@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 839,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

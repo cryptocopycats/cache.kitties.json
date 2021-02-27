@@ -1,0 +1,31 @@
+{
+  "id": 84499,
+  "name": "Birdies Delight G4 Catson Snap",
+  "generation": 4,
+  "created_at": "2017-12-05T09:03:29.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! Birdies Delight G4 Catson Snap here. I'm here to enjoy being a nevernude and licking doorknobs. I once got in a fight with a chimpanzee, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "72038@3",
+  "sire": "46089@2",
+  "children": [
+    "99611@5",
+    "105915@5",
+    "107270@5",
+    "121452@5",
+    "157709@5",
+    "186480@5",
+    "207563@5",
+    "256913@5",
+    "575390@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 887,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

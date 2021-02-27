@@ -1,0 +1,23 @@
+{
+  "id": 83589,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-05T08:06:20.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! My name's Kitty #83589. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When no one's home, I invite my pals over and we listen to Ace of Base. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "52860@9",
+  "sire": "53616@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 872,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

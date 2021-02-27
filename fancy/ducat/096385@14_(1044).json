@@ -1,0 +1,23 @@
+{
+  "id": 96385,
+  "name": "Waving Duck Cat Hybrid",
+  "generation": 14,
+  "created_at": "2017-12-05T22:49:14.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Waving Duck Cat Hybrid. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as despicable, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "52173@13",
+  "sire": "46479@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1044,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

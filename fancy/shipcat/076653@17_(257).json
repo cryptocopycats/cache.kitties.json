@@ -1,0 +1,29 @@
+{
+  "id": 76653,
+  "name": "Sailor Jerry",
+  "generation": 17,
+  "created_at": "2017-12-05T02:22:50.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Sailor Jerry. I've never told anyone this, but I once kissed a dog. I am 83% sphinx, 33% Mad Scientist, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "29693@9",
+  "sire": "60222@16",
+  "children": [
+    "211841@18",
+    "243217@18",
+    "306279@18",
+    "369184@18",
+    "415217@18",
+    "796581@18",
+    "1590215@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 257,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

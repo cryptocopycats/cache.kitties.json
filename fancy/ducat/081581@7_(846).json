@@ -1,0 +1,32 @@
+{
+  "id": 81581,
+  "name": "🌟G7 | Purebreed Bird",
+  "generation": 7,
+  "created_at": "2017-12-05T06:10:18.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm 🌟G7 | Purebreed Bird. I'm a Train Conductor by day, and I like braiding people's hair by night. I once dreamed of being a Ventriloquist. Now I can be found practicing witchcraft all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41191@5",
+  "sire": "41923@6",
+  "children": [
+    "183639@8",
+    "187639@13",
+    "208808@8",
+    "243399@16",
+    "275952@10",
+    "340781@10",
+    "364930@8",
+    "1106791@8",
+    "1190253@15",
+    "1211089@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 846,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

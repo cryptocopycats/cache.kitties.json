@@ -1,0 +1,25 @@
+{
+  "id": 89105,
+  "name": "Quack Quack I'm a Cat",
+  "generation": 21,
+  "created_at": "2017-12-05T14:33:29.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! My name's Quack Quack I'm a Cat. I once peed on Amelia Earhart's cat. They had it coming. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "21151@16",
+  "sire": "29779@20",
+  "children": [
+    "90745@22",
+    "231242@22",
+    "340886@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 950,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

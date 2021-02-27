@@ -1,0 +1,29 @@
+{
+  "id": 91018,
+  "name": "Catie Pi",
+  "generation": 9,
+  "created_at": "2017-12-05T17:15:37.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Catie Pi here. I'm here to enjoy chasing red dots and spinning sick beats. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Will you be the cinammon to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "66403@8",
+  "sire": "66218@8",
+  "children": [
+    "93982@10",
+    "95974@10",
+    "108335@10",
+    "114214@10",
+    "129274@10",
+    "164867@13",
+    "203995@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 289,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

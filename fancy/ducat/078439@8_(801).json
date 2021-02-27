@@ -1,0 +1,24 @@
+{
+  "id": 78439,
+  "name": "Gen8 Snappy Duck / Bird",
+  "generation": 8,
+  "created_at": "2017-12-05T03:40:47.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Gen8 Snappy Duck / Bird. I'm often referred to as the Niles Crane of the group. In my free time, I can usually be found hairy or sleeping in fresh laundry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "64511@7",
+  "sire": "65724@7",
+  "children": [
+    "81570@23",
+    "291630@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 801,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

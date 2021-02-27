@@ -1,0 +1,23 @@
+{
+  "id": 95654,
+  "name": "What The Duck, 61 Gwei???",
+  "generation": 6,
+  "created_at": "2017-12-05T22:19:10.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm What The Duck, 61 Gwei???. I enjoy tricking babies, grooming, and sweating through my feet. When I'm not watching reality tv, I'm reading Danielle Steele! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63881@5",
+  "sire": "40038@5",
+  "children": [
+    "96384@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1034,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

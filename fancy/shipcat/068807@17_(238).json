@@ -1,0 +1,25 @@
+{
+  "id": 68807,
+  "name": "Captain Phillips",
+  "generation": 17,
+  "created_at": "2017-12-04T21:23:18.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Captain Phillips. I've never told anyone this, but I once pranced with a dog. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "56453@15",
+  "sire": "30489@16",
+  "children": [
+    "227401@18",
+    "261946@20",
+    "297202@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 238,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

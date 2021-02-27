@@ -1,0 +1,23 @@
+{
+  "id": 70231,
+  "name": "Fancy Sailor",
+  "generation": 20,
+  "created_at": "2017-12-04T22:40:23.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Fancy Sailor. I want to live in a world where people believe the world is flat. I would give it all up to be on Oprah. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "9432@19",
+  "sire": "4857@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 244,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

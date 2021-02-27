@@ -1,0 +1,26 @@
+{
+  "id": 84167,
+  "name": "1.202 Snappy",
+  "generation": 6,
+  "created_at": "2017-12-05T08:40:24.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm 1.202 Snappy. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Cleopatra. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "78506@5",
+  "sire": "60652@4",
+  "children": [
+    "102863@8",
+    "124230@8",
+    "363407@9",
+    "368345@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 275,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

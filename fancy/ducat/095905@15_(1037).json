@@ -1,0 +1,23 @@
+{
+  "id": 95905,
+  "name": "Bird parent Virgin Great genes",
+  "generation": 15,
+  "created_at": "2017-12-05T22:29:31.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Bird parent Virgin Great genes. In high school, I was voted most likely to work at NASA. My friends describe me as \"prickly.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "72460@5",
+  "sire": "71844@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1037,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

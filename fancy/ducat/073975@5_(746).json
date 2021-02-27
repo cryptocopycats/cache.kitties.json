@@ -1,0 +1,28 @@
+{
+  "id": 73975,
+  "name": "Daffy Duck",
+  "generation": 5,
+  "created_at": "2017-12-05T00:54:47.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Daffy Duck. I enjoy hitting on yo' man, sweating through my feet, and reciting poetry. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41443@4",
+  "sire": "41652@4",
+  "children": [
+    "108721@14",
+    "109135@7",
+    "110910@11",
+    "122502@7",
+    "124760@12",
+    "129399@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 746,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

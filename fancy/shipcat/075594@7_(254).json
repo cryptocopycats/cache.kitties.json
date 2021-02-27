@@ -1,0 +1,30 @@
+{
+  "id": 75594,
+  "name": "Gen 7 ShipCat",
+  "generation": 7,
+  "created_at": "2017-12-05T01:46:18.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Gen 7 ShipCat. I'm a Aerobics Athlete  by day, and I like prank-calling celebrities by night. My secret indulgence is cereal. I look forward to staying woke with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "64949@6",
+  "sire": "55174@6",
+  "children": [
+    "249103@8",
+    "278303@10",
+    "288083@8",
+    "308715@14",
+    "341981@8",
+    "344951@14",
+    "382378@16",
+    "415217@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 254,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 92106,
+  "name": "RARE STUD BIRD",
+  "generation": 9,
+  "created_at": "2017-12-05T18:34:13.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm RARE STUD BIRD. I've never told anyone this, but I once kissed a dog. When no one's home, I invite my pals over and we listen to Frank Sinatra. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63257@8",
+  "sire": "64126@8",
+  "children": [
+    "147245@10",
+    "212590@10",
+    "253839@10",
+    "302005@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 989,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

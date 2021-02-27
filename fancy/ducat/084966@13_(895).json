@@ -1,0 +1,25 @@
+{
+  "id": 84966,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-05T09:30:52.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #84966. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "59396@10",
+  "sire": "78628@12",
+  "children": [
+    "94179@14",
+    "94947@14",
+    "109342@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 895,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

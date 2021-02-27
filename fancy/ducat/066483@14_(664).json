@@ -1,0 +1,24 @@
+{
+  "id": 66483,
+  "name": "Virgin Birdy",
+  "generation": 14,
+  "created_at": "2017-12-04T19:23:47.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Virgin Birdy. I believe that one day cats will rule this planet. My friends describe me as \"raunchy.\" It's... accurate. Will you be the cinammon to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22508@9",
+  "sire": "22771@13",
+  "children": [
+    "88318@15",
+    "93819@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 664,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

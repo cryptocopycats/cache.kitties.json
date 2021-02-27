@@ -1,0 +1,27 @@
+{
+  "id": 79389,
+  "name": "Albert Eggstein",
+  "generation": 5,
+  "created_at": "2017-12-05T04:25:37.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Albert Eggstein. I'm often referred to as the Peter Griffin of the group. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Will you be the peanut butter to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51197@3",
+  "sire": "14732@4",
+  "children": [
+    "88248@7",
+    "121292@6",
+    "121779@6",
+    "144013@6",
+    "316260@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 812,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

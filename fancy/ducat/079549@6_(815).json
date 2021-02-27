@@ -1,0 +1,23 @@
+{
+  "id": 79549,
+  "name": "KittiDuki",
+  "generation": 6,
+  "created_at": "2017-12-05T04:36:03.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm KittiDuki. I believe that one day cats will rule this planet. I once dreamed of being a Ventriloquist. Now I can be found reading Danielle Steele all day. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35557@3",
+  "sire": "76889@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 815,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

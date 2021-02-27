@@ -1,0 +1,33 @@
+{
+  "id": 83504,
+  "name": "Sailor",
+  "generation": 3,
+  "created_at": "2017-12-05T08:02:26.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Sailor. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of sitting on your computer, wet food, and reading Danielle Steele. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "80956@2",
+  "sire": "61761@2",
+  "children": [
+    "83951@5",
+    "84259@7",
+    "97781@7",
+    "100015@7",
+    "104471@7",
+    "107184@5",
+    "126155@7",
+    "134611@5",
+    "173300@5",
+    "214808@5",
+    "372568@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 274,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

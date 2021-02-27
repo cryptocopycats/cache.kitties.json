@@ -1,0 +1,27 @@
+{
+  "id": 98147,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-06T00:07:11.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #98147. I've never told anyone this, but I once licked a dog. I once got in a fight with a moose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "61712@16",
+  "sire": "65694@11",
+  "children": [
+    "111358@18",
+    "139566@18",
+    "237393@18",
+    "301313@18",
+    "1012563@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 316,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 85642,
+  "name": "G8 | B4 | 1+ | Sa. + Bi.",
+  "generation": 8,
+  "created_at": "2017-12-05T10:10:46.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm G8 | B4 | 1+ | Sa. + Bi.. In high school, I was voted biggest teacher's pet. I once dreamed of being a Aerobics Athlete . Now I can be found tricking babies all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36727@7",
+  "sire": "31298@7",
+  "children": [
+    "96296@9",
+    "100870@9",
+    "167424@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 902,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

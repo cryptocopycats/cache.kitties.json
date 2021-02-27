@@ -1,0 +1,30 @@
+{
+  "id": 80886,
+  "name": "Miss Fame",
+  "generation": 8,
+  "created_at": "2017-12-05T05:39:18.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Miss Fame. I'm a professional Dogwalker and I love hamburgers. I once made a labradoodle lay. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51169@7",
+  "sire": "76249@7",
+  "children": [
+    "83666@9",
+    "91183@9",
+    "101072@9",
+    "103946@9",
+    "115847@9",
+    "121331@13",
+    "177369@9",
+    "277679@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 836,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

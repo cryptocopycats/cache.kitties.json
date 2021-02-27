@@ -1,0 +1,23 @@
+{
+  "id": 73269,
+  "name": "Mimila Virgin Fancy Duck Gen10",
+  "generation": 10,
+  "created_at": "2017-12-05T00:33:53.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Mimila Virgin Fancy Duck Gen10. I'm a Dispensary Clerk by day, and I like prank-calling celebrities by night. I would give it all up for a Chanel purse. Will you be the cinammon to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "44527@9",
+  "sire": "47822@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 740,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

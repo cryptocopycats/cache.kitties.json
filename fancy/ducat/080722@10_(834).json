@@ -1,0 +1,27 @@
+{
+  "id": 80722,
+  "name": "Super RARE! DuCat!!",
+  "generation": 10,
+  "created_at": "2017-12-05T05:32:45.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Super RARE! DuCat!!. All you need to know about me is I hate cantaloupe with a passion. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "57883@7",
+  "sire": "60650@9",
+  "children": [
+    "93899@11",
+    "96747@11",
+    "100802@14",
+    "168134@11",
+    "173697@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 834,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

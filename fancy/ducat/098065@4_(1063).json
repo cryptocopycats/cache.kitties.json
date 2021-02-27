@@ -1,0 +1,31 @@
+{
+  "id": 98065,
+  "name": "Gen4 FANCY Duck",
+  "generation": 4,
+  "created_at": "2017-12-06T00:01:26.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! Gen4 FANCY Duck here. I'm here to enjoy eating until I loathe myself and tripping my owner. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "82681@3",
+  "sire": "96371@3",
+  "children": [
+    "105435@5",
+    "114527@5",
+    "115120@5",
+    "119893@5",
+    "144742@6",
+    "152905@5",
+    "156817@5",
+    "182377@5",
+    "213087@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1063,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

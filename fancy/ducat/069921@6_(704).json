@@ -1,0 +1,29 @@
+{
+  "id": 69921,
+  "name": "Cat Damon GOLD Duck",
+  "generation": 6,
+  "created_at": "2017-12-04T22:26:14.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Cat Damon GOLD Duck. My friends describe me as preposterous and wondrous. I would give it all up for a Chanel purse. I look forward to eating until I loathe myself with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "42133@5",
+  "sire": "60176@5",
+  "children": [
+    "73268@7",
+    "73791@7",
+    "84234@8",
+    "108448@8",
+    "118582@7",
+    "146458@7",
+    "228231@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 704,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

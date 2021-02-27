@@ -1,0 +1,29 @@
+{
+  "id": 71469,
+  "name": "🐤 Birdman 🐤",
+  "generation": 8,
+  "created_at": "2017-12-04T23:30:20.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! 🐤 Birdman 🐤 here. I'm here to enjoy picking flowers and watching Stranger Things. My friends describe me as \"seductive.\" It's... accurate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63533@7",
+  "sire": "67722@3",
+  "children": [
+    "78848@9",
+    "87849@9",
+    "91687@11",
+    "92041@9",
+    "105683@9",
+    "410797@9",
+    "447006@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 713,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

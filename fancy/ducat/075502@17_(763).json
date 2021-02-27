@@ -1,0 +1,23 @@
+{
+  "id": 75502,
+  "name": "[Rare] Purebred Bird Duck",
+  "generation": 17,
+  "created_at": "2017-12-05T01:44:14.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm [Rare] Purebred Bird Duck. I believe the world is flat. When I'm not prank-calling celebrities, I'm braiding people's hair! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43583@14",
+  "sire": "35444@16",
+  "children": [
+    "1632705@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 763,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

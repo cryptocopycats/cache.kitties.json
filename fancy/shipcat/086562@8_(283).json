@@ -1,0 +1,29 @@
+{
+  "id": 86562,
+  "name": "Ye Olde Shipcat",
+  "generation": 8,
+  "created_at": "2017-12-05T11:19:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Ye Olde Shipcat. I'm a Skydiving Instructor by day, and I like braiding people's hair by night. It's not common knowledge, but my ancestry connects me to Confucius. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "71700@5",
+  "sire": "81632@7",
+  "children": [
+    "86932@9",
+    "96130@9",
+    "116705@18",
+    "143006@9",
+    "485183@9",
+    "487131@9",
+    "552049@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 283,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

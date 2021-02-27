@@ -1,0 +1,26 @@
+{
+  "id": 68934,
+  "name": "Chikun",
+  "generation": 10,
+  "created_at": "2017-12-04T21:26:43.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Chikun. All you need to know about me is I hate cereal with a passion. I would give it all up to be on Oprah. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "38482@9",
+  "sire": "45070@9",
+  "children": [
+    "73557@11",
+    "108359@11",
+    "197257@16",
+    "204424@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 690,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 81570,
+  "name": "Floppy Birdy",
+  "generation": 23,
+  "created_at": "2017-12-05T06:09:47.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Floppy Birdy. I'm a Culinary Sanitation Specialist by day, and I like riding the bus by night. I am 5% wizard, 72% Foreign Film Director, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78439@8",
+  "sire": "76938@22",
+  "children": [
+    "206040@24"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 845,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

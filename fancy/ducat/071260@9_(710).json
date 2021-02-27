@@ -1,0 +1,27 @@
+{
+  "id": 71260,
+  "name": "Gen 9 | 2 Duck Parents [V]",
+  "generation": 9,
+  "created_at": "2017-12-04T23:23:47.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Gen 9 | 2 Duck Parents [V]. I'm often referred to as the Samwise Gamgee of the group. I'm often described as stinky, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "57172@8",
+  "sire": "36549@8",
+  "children": [
+    "170986@10",
+    "174941@10",
+    "193988@10",
+    "199784@12",
+    "224195@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 710,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

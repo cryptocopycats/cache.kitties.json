@@ -1,0 +1,23 @@
+{
+  "id": 76804,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-05T02:28:28.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #76804. I enjoy hitting on yo' man, fighting the patriarchy, and reciting poetry. My friends describe me as \"brilliant.\" It's... accurate. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "69147@4",
+  "sire": "68941@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 779,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

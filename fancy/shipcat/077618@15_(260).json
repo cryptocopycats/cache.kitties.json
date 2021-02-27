@@ -1,0 +1,25 @@
+{
+  "id": 77618,
+  "name": "Sailor Bebe",
+  "generation": 15,
+  "created_at": "2017-12-05T02:58:18.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! My name's Sailor Bebe. I once peed on Confucius's cat. They had it coming. I once got in a fight with a moose, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "35265@12",
+  "sire": "44602@14",
+  "children": [
+    "281358@16",
+    "326054@16",
+    "358702@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 260,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

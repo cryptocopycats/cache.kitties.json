@@ -1,0 +1,30 @@
+{
+  "id": 92167,
+  "name": "Gen 4 GOLD Fancy Bird Duck",
+  "generation": 4,
+  "created_at": "2017-12-05T18:37:35.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Gen 4 GOLD Fancy Bird Duck. I enjoy tripping my owner, picking on mice, and staying woke. Sometimes I daydream of a life full of slappin' da bass, salad, and braiding people's hair. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "91839@3",
+  "sire": "61468@3",
+  "children": [
+    "109548@17",
+    "110960@7",
+    "114178@5",
+    "122437@9",
+    "124045@5",
+    "139314@5",
+    "145907@5",
+    "176437@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 990,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 84567,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-05T09:08:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #84567. I'm a professional Train Conductor and I love lasagna. Sometimes I daydream of a life full of chasing red dots, apple pie, and reading Danielle Steele. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78471@4",
+  "sire": "38840@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 888,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

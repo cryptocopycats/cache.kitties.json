@@ -1,0 +1,23 @@
+{
+  "id": 75253,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-05T01:30:40.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #75253. All you need to know about me is I hate ice cream with a passion. When no one's home, I invite my pals over and we listen to Coldplay. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "69147@4",
+  "sire": "68941@6",
+  "children": [
+    "80932@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 759,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

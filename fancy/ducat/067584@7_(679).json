@@ -1,0 +1,32 @@
+{
+  "id": 67584,
+  "name": "Mixed 67584",
+  "generation": 7,
+  "created_at": "2017-12-04T20:25:38.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Mixed 67584. I'm a Foreign Film Director by day, and I like prank-calling celebrities by night. My friends describe me as \"ridiculous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "62545@5",
+  "sire": "62774@6",
+  "children": [
+    "78358@21",
+    "86310@13",
+    "93498@13",
+    "103223@20",
+    "112825@15",
+    "123891@23",
+    "129595@15",
+    "275198@18",
+    "304075@9",
+    "358102@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 679,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

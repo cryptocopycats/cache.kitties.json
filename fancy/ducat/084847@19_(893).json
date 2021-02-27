@@ -1,0 +1,25 @@
+{
+  "id": 84847,
+  "name": "Fancy Rare Kit",
+  "generation": 19,
+  "created_at": "2017-12-05T09:23:22.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Fancy Rare Kit. I enjoy sweating through my feet, glaring at the neighbour's cat, and reading garfield. I like to listen to Wutang while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41175@18",
+  "sire": "41034@14",
+  "children": [
+    "201791@20",
+    "220340@20",
+    "284646@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 893,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

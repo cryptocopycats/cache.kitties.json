@@ -1,0 +1,25 @@
+{
+  "id": 80641,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-05T05:30:28.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Kitty #80641. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43872@9",
+  "sire": "79235@11",
+  "children": [
+    "1364599@15",
+    "1364858@17",
+    "1401268@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 831,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

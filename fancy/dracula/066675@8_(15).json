@@ -1,0 +1,25 @@
+{
+  "id": 66675,
+  "name": "G8 Your chance to get Dracula!",
+  "generation": 8,
+  "created_at": "2017-12-04T19:38:38.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G8 Your chance to get Dracula!. I'm a Dogwalker by day, and I like people-watching by night. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "53315@7",
+  "sire": "52972@7",
+  "children": [
+    "79167@9",
+    "80269@9",
+    "94632@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 15,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

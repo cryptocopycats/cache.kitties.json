@@ -1,0 +1,23 @@
+{
+  "id": 83626,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-05T08:09:00.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #83626. I believe the world is flat. I like to listen to Wutang while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "50070@5",
+  "sire": "57565@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 22,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

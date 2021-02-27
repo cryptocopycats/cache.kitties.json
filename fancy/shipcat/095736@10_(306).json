@@ -1,0 +1,25 @@
+{
+  "id": 95736,
+  "name": "Sailor Cat Gen 10 Brisk",
+  "generation": 10,
+  "created_at": "2017-12-05T22:22:00.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Sailor Cat Gen 10 Brisk. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Cleopatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "92865@9",
+  "sire": "11383@9",
+  "children": [
+    "403630@11",
+    "426533@11",
+    "786292@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 306,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 81843,
+  "name": "Swift Virgin Gen 3 Ducky",
+  "generation": 3,
+  "created_at": "2017-12-05T06:19:13.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Swift Virgin Gen 3 Ducky. I enjoy slappin' da bass, fighting the patriarchy, and shakin' dat booty. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78779@2",
+  "sire": "79171@2",
+  "children": [
+    "153282@4",
+    "154057@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 851,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

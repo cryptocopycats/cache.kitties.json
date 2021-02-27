@@ -1,0 +1,25 @@
+{
+  "id": 90315,
+  "name": "SAILOR MEOWN",
+  "generation": 12,
+  "created_at": "2017-12-05T16:15:59.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm SAILOR MEOWN. I'm often referred to as the Marge Simpson of the group. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "86721@7",
+  "sire": "73058@11",
+  "children": [
+    "131513@14",
+    "136256@14",
+    "180625@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 288,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

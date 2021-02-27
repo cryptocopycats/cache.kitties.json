@@ -1,0 +1,23 @@
+{
+  "id": 75462,
+  "name": "Rare Brisk Duck",
+  "generation": 11,
+  "created_at": "2017-12-05T01:39:50.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Rare Brisk Duck. I've never told anyone this, but I once clawed a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74504@7",
+  "sire": "50617@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 762,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 92688,
+  "name": "VERY RARE Ducat CAT HIGH 2gen",
+  "generation": 2,
+  "created_at": "2017-12-05T19:22:34.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm VERY RARE Ducat CAT HIGH 2gen. I'm often referred to as the Homer Simpson of the group. My great-great-great-great-great-great grandkitty lived with Confucius. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "90080@1",
+  "sire": "68975@1",
+  "children": [
+    "110161@9",
+    "126472@3",
+    "143781@6",
+    "175216@10",
+    "177682@10",
+    "180519@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 997,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

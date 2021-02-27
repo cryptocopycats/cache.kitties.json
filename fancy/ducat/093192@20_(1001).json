@@ -1,0 +1,23 @@
+{
+  "id": 93192,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-05T20:06:52.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #93192. I believe the world is flat. My friends describe me as \"wondrous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39568@19",
+  "sire": "65505@17",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1001,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

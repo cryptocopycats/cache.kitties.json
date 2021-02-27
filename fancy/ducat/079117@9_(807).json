@@ -1,0 +1,24 @@
+{
+  "id": 79117,
+  "name": "Swift Bird Pure (Rare)",
+  "generation": 9,
+  "created_at": "2017-12-05T04:17:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Swift Bird Pure (Rare). I'm a professional Private Dancer  and I love salad. My great-great-great-great-great-great grandkitty lived with Mother Theresa. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78002@8",
+  "sire": "58247@6",
+  "children": [
+    "80318@10",
+    "91772@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 807,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 72943,
+  "name": "BRISK! Peach Duck Bird",
+  "generation": 8,
+  "created_at": "2017-12-05T00:14:47.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm BRISK! Peach Duck Bird. I enjoy picking flowers, sweating through my feet, and fighting for the people. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Our friendship will be seductive, smelly, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63432@7",
+  "sire": "65724@7",
+  "children": [
+    "73902@9",
+    "82060@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 735,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

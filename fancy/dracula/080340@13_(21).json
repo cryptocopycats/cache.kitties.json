@@ -1,0 +1,23 @@
+{
+  "id": 80340,
+  "name": "吸血鬼+罕见基因+处女+Brisk",
+  "generation": 13,
+  "created_at": "2017-12-05T05:16:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm 吸血鬼+罕见基因+处女+Brisk. I'm a professional Mad Scientist and I love lasagna. I'm often described as raunchy, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "59396@10",
+  "sire": "78628@12",
+  "children": [
+    "276078@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 21,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

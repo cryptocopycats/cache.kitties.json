@@ -1,0 +1,27 @@
+{
+  "id": 75973,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-05T01:57:03.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #75973. I enjoy riding unicorns, hitting on yo' man, and shakin' dat booty. I once made a dolphin ignore. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "53279@11",
+  "sire": "33565@16",
+  "children": [
+    "118011@18",
+    "143895@18",
+    "182565@18",
+    "280364@18",
+    "357101@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 255,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

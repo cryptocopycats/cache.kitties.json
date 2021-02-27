@@ -1,0 +1,25 @@
+{
+  "id": 69215,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-04T21:40:26.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #69215. I'm often referred to as the Neville Longbottom of the group. When no one's home, I invite my pals over and we listen to Michael Bolton. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "13343@9",
+  "sire": "23597@11",
+  "children": [
+    "185918@13",
+    "207266@20",
+    "227319@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 241,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 84436,
+  "name": "Fancy Bird Jr",
+  "generation": 8,
+  "created_at": "2017-12-05T08:57:57.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Fancy Bird Jr. I'm often referred to as the Homer Simpson of the group. My friends describe me as \"fabulous.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "61130@7",
+  "sire": "82574@7",
+  "children": [
+    "335213@9",
+    "444668@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 886,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

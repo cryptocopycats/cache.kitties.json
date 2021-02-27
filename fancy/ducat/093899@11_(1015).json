@@ -1,0 +1,28 @@
+{
+  "id": 93899,
+  "name": "fancy duck kitty",
+  "generation": 11,
+  "created_at": "2017-12-05T20:56:57.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm fancy duck kitty. I'm a professional Culinary Sanitation Specialist and I love salad. I am 49% oracle, 38% Foreign Film Director, and otherwise bad at math. Can you make my brilliant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "80722@10",
+  "sire": "52237@10",
+  "children": [
+    "95432@12",
+    "99463@12",
+    "139927@12",
+    "166444@12",
+    "250502@12",
+    "288263@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1015,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

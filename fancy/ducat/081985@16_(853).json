@@ -1,0 +1,23 @@
+{
+  "id": 81985,
+  "name": "PPAP Super Duck Cat",
+  "generation": 16,
+  "created_at": "2017-12-05T06:24:45.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm PPAP Super Duck Cat. My friends describe me as hairy and petulant. In my free time, I can usually be found prickly or playing chess. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "45331@15",
+  "sire": "50617@10",
+  "children": [
+    "213512@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 853,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

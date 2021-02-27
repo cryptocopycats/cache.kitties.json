@@ -1,0 +1,23 @@
+{
+  "id": 83607,
+  "name": "Cutie McBirdCatson",
+  "generation": 7,
+  "created_at": "2017-12-05T08:07:24.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Cutie McBirdCatson. I'm often referred to as the Homer Simpson of the group. Sometimes I daydream of a life full of slappin' da bass, wet food, and siring for status. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33145@6",
+  "sire": "66220@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 873,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 78408,
+  "name": "D Tongue D Cymric",
+  "generation": 7,
+  "created_at": "2017-12-05T03:39:23.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm D Tongue D Cymric. I'm a professional Spin Instructor  and I love salad. I once got in a fight with a goose, and won. Our friendship will be gullible, seductive, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28192@6",
+  "sire": "26855@2",
+  "children": [
+    "111278@8",
+    "159967@8",
+    "202823@8",
+    "541917@8",
+    "555545@9",
+    "573894@8",
+    "639416@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 799,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

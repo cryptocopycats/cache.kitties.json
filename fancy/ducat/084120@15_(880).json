@@ -1,0 +1,23 @@
+{
+  "id": 84120,
+  "name": "Catuck",
+  "generation": 15,
+  "created_at": "2017-12-05T08:37:51.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Catuck. I'm a Culinary Sanitation Specialist by day, and I like volunteering at the local kitten rescue shelter by night. My friends describe me as \"hairy.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "67547@14",
+  "sire": "67540@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 880,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

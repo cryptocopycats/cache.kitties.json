@@ -1,0 +1,23 @@
+{
+  "id": 76123,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-05T02:04:58.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #76123. My friends describe me as stinky and preposterous. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49389@15",
+  "sire": "27116@14",
+  "children": [
+    "237750@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 770,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

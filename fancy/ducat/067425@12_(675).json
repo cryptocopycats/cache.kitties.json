@@ -1,0 +1,23 @@
+{
+  "id": 67425,
+  "name": "Brisk Birdcat",
+  "generation": 12,
+  "created_at": "2017-12-04T20:21:22.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Brisk Birdcat. I enjoy slappin' da bass, shakin' dat booty, and grooming. I was voted biggest teacher's pet in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63012@11",
+  "sire": "63416@10",
+  "children": [
+    "74802@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 675,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

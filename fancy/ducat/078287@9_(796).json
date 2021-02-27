@@ -1,0 +1,31 @@
+{
+  "id": 78287,
+  "name": "Gen 9 Birdwing RARE",
+  "generation": 9,
+  "created_at": "2017-12-05T03:32:31.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Gen 9 Birdwing RARE. I'm a Foreign Film Director by day, and I like jump-roping by night. I put maple syrup on everything. Like, everything: hot dogs, steak—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "75511@8",
+  "sire": "76025@4",
+  "children": [
+    "83642@10",
+    "85480@10",
+    "91274@10",
+    "100424@10",
+    "108855@10",
+    "129687@10",
+    "158331@10",
+    "237090@10",
+    "332375@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 796,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 78431,
+  "name": "Meow 78431 | GEN11",
+  "generation": 11,
+  "created_at": "2017-12-05T03:40:32.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Meow 78431 | GEN11. My friends describe me as wondrous and hairy. I put pickles on everything. Like, everything: hot dogs, wet food—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66072@8",
+  "sire": "65659@10",
+  "children": [
+    "80694@12",
+    "83503@13",
+    "87519@13",
+    "93222@12",
+    "131256@13",
+    "187722@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 800,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

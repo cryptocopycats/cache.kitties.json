@@ -1,0 +1,24 @@
+{
+  "id": 74288,
+  "name": "Shipcat",
+  "generation": 18,
+  "created_at": "2017-12-05T01:02:50.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Shipcat. I'm a Ventriloquist by day, and I like tricking babies by night. I am 99% sphinx, 12% Aerobics Athlete , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "35038@4",
+  "sire": "51062@17",
+  "children": [
+    "92015@19",
+    "349588@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 251,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

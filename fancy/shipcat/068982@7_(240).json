@@ -1,0 +1,29 @@
+{
+  "id": 68982,
+  "name": "0.8125 Snappy",
+  "generation": 7,
+  "created_at": "2017-12-04T21:29:13.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm 0.8125 Snappy. I believe that one day cats will rule this planet. Some people say I'm the Hermione Granger of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "43553@6",
+  "sire": "50427@5",
+  "children": [
+    "73557@11",
+    "93254@12",
+    "102863@8",
+    "127800@8",
+    "133601@9",
+    "369184@18",
+    "557447@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 240,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

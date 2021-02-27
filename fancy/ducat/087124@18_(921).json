@@ -1,0 +1,23 @@
+{
+  "id": 87124,
+  "name": "BOBO SKYWALKER",
+  "generation": 18,
+  "created_at": "2017-12-05T12:03:13.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm BOBO SKYWALKER. I'm a professional Ventriloquist and I love apple pie. I'm often described as brilliant, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "47352@17",
+  "sire": "44835@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 921,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

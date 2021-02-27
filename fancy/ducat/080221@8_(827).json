@@ -1,0 +1,23 @@
+{
+  "id": 80221,
+  "name": "猫咪# 80221",
+  "generation": 8,
+  "created_at": "2017-12-05T05:10:02.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm 猫咪# 80221. I've never told anyone this, but I once licked a dog. I once dreamed of being a Private Dancer . Now I can be found summoning ghosts all day. Will you be the garlic butter to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63432@7",
+  "sire": "68818@5",
+  "children": [
+    "89207@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 827,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

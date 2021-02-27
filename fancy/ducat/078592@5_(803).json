@@ -1,0 +1,32 @@
+{
+  "id": 78592,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-05T03:48:22.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #78592. I'm a Ventriloquist by day, and I like reading Danielle Steele by night. I once made a dog enjoy. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74721@4",
+  "sire": "71629@4",
+  "children": [
+    "387290@6",
+    "388031@6",
+    "388383@6",
+    "389299@6",
+    "391905@6",
+    "393497@6",
+    "397226@6",
+    "402798@6",
+    "411949@6",
+    "448580@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 803,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

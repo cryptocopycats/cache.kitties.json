@@ -1,0 +1,23 @@
+{
+  "id": 87514,
+  "name": "Phoenix",
+  "generation": 17,
+  "created_at": "2017-12-05T12:36:28.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Phoenix. I've never told anyone this, but I once snuggled a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51535@16",
+  "sire": "38609@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 924,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

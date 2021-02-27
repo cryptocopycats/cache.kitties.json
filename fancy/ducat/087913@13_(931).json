@@ -1,0 +1,23 @@
+{
+  "id": 87913,
+  "name": "Virgin Bird Cat",
+  "generation": 13,
+  "created_at": "2017-12-05T13:08:58.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! Virgin Bird Cat here. I'm here to enjoy hitting on yo' man and reading garfield. I like to listen to Ace of Base while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55814@10",
+  "sire": "72323@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 931,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

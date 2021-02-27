@@ -1,0 +1,25 @@
+{
+  "id": 74643,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-05T01:12:56.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! My name's Kitty #74643. I once peed on Mother Theresa's cat. They had it coming. I'm often described as gorgeous, and I own it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "17076@14",
+  "sire": "54281@10",
+  "children": [
+    "82139@17",
+    "85969@16",
+    "139566@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 753,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

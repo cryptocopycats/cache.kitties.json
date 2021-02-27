@@ -1,0 +1,27 @@
+{
+  "id": 74709,
+  "name": "Special Rare Chicken Kitty",
+  "generation": 16,
+  "created_at": "2017-12-05T01:14:32.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Special Rare Chicken Kitty. I've never told anyone this, but I once groomed a dog. I am 61% wizard, 0% Skydiving Instructor, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39977@11",
+  "sire": "34811@15",
+  "children": [
+    "91361@17",
+    "150729@17",
+    "182735@17",
+    "227288@17",
+    "285916@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 754,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

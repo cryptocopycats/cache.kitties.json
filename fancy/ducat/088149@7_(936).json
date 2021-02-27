@@ -1,0 +1,23 @@
+{
+  "id": 88149,
+  "name": "Chanel Kitty",
+  "generation": 7,
+  "created_at": "2017-12-05T13:25:03.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Chanel Kitty. I've never told anyone this, but I once loved a dog. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "86615@4",
+  "sire": "76739@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 936,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

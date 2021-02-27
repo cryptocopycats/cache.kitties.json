@@ -1,0 +1,26 @@
+{
+  "id": 69748,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-04T22:15:01.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! My name's Kitty #69748. I once peed on Mother Theresa's cat. They had it coming. When I'm not riding the bus, I'm reading Danielle Steele! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "20847@10",
+  "sire": "32225@12",
+  "children": [
+    "93635@14",
+    "102619@14",
+    "116986@14",
+    "173938@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 700,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

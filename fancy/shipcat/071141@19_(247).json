@@ -1,0 +1,23 @@
+{
+  "id": 71141,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-04T23:19:24.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Kitty #71141 here. I'm here to enjoy fighting the patriarchy and eating until I loathe myself. It's not common knowledge, but my ancestry connects me to Cleopatra. I look forward to tripping my owner with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19255@18",
+  "sire": "7872@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 247,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

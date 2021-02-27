@@ -1,0 +1,23 @@
+{
+  "id": 88872,
+  "name": "Fancy Duck baby Boy",
+  "generation": 13,
+  "created_at": "2017-12-05T14:16:22.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Fancy Duck baby Boy. I believe that one day cats will rule this planet. I once got in a fight with a rabbit, and won. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "53168@12",
+  "sire": "72615@4",
+  "children": [
+    "259211@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 944,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

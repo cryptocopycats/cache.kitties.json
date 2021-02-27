@@ -1,0 +1,25 @@
+{
+  "id": 71844,
+  "name": "💎 Fancy Bird Duck (G14) 💎",
+  "generation": 14,
+  "created_at": "2017-12-04T23:45:14.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm 💎 Fancy Bird Duck (G14) 💎. I'm a Dispensary Clerk by day, and I like swiping left by night. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34468@6",
+  "sire": "10464@13",
+  "children": [
+    "95905@15",
+    "124368@15",
+    "381315@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 723,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

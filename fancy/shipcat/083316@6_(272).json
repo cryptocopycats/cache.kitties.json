@@ -1,0 +1,28 @@
+{
+  "id": 83316,
+  "name": "Sailor",
+  "generation": 6,
+  "created_at": "2017-12-05T07:50:48.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Sailor. In high school, I was voted school jock. I would give it all up for a Chanel purse. Our friendship will be seductive, vegan, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "78912@5",
+  "sire": "66685@5",
+  "children": [
+    "84259@7",
+    "97781@7",
+    "100015@7",
+    "104471@7",
+    "109067@8",
+    "126155@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 272,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 78506,
+  "name": "Yardarm",
+  "generation": 5,
+  "created_at": "2017-12-05T03:43:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Yardarm. I'm a professional Culinary Sanitation Specialist and I love salad. Sometimes I daydream of a life full of hitting on yo' man, wet food, and riverdancing. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "38350@4",
+  "sire": "13468@4",
+  "children": [
+    "83139@6",
+    "84167@6",
+    "91157@6",
+    "96696@6",
+    "107417@6",
+    "119829@6",
+    "144634@6",
+    "185559@6",
+    "244783@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 264,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

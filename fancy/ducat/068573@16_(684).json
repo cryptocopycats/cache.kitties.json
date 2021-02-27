@@ -1,0 +1,24 @@
+{
+  "id": 68573,
+  "name": "Catochick",
+  "generation": 16,
+  "created_at": "2017-12-04T21:13:15.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Catochick. I'm often referred to as the Peter Griffin of the group. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "45963@9",
+  "sire": "38477@15",
+  "children": [
+    "473446@17",
+    "477390@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 684,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

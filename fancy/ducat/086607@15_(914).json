@@ -1,0 +1,23 @@
+{
+  "id": 86607,
+  "name": "Gen 15 | 1C",
+  "generation": 15,
+  "created_at": "2017-12-05T11:23:44.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen 15 | 1C. I'm often referred to as the Peter Griffin of the group. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27758@13",
+  "sire": "63358@14",
+  "children": [
+    "142413@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 914,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

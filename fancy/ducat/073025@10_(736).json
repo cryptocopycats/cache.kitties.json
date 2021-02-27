@@ -1,0 +1,25 @@
+{
+  "id": 73025,
+  "name": "G10 | B1 | 0+ | SC + LiC",
+  "generation": 10,
+  "created_at": "2017-12-05T00:19:29.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! My name's G10 | B1 | 0+ | SC + LiC. I once peed on King Henry VIII's cat. They had it coming. In my free time, I can usually be found annoying or prank-calling celebrities. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33111@9",
+  "sire": "33662@9",
+  "children": [
+    "99668@11",
+    "120792@11",
+    "131855@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 736,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

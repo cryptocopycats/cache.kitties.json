@@ -1,0 +1,23 @@
+{
+  "id": 86049,
+  "name": "Virgin Bird! Both Parents Bird",
+  "generation": 22,
+  "created_at": "2017-12-05T10:41:22.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Virgin Bird! Both Parents Bird. I'm a Skydiving Instructor by day, and I like riverdancing by night. I would give it all up to be on Oprah. Will you be the pickles to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25860@5",
+  "sire": "44653@21",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 908,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

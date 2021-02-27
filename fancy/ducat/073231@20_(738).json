@@ -1,0 +1,23 @@
+{
+  "id": 73231,
+  "name": "Ryan Gosling the 3rd",
+  "generation": 20,
+  "created_at": "2017-12-05T00:30:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Ryan Gosling the 3rd. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Wutang. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "17645@19",
+  "sire": "24977@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 738,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

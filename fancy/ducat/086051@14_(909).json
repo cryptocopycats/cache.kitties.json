@@ -1,0 +1,23 @@
+{
+  "id": 86051,
+  "name": "[RARE] Fancy Bird + Redblood",
+  "generation": 14,
+  "created_at": "2017-12-05T10:41:22.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm [RARE] Fancy Bird + Redblood. My friends describe me as ridiculous and tantalizing. I once got in a fight with a moose, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39748@13",
+  "sire": "37471@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 909,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

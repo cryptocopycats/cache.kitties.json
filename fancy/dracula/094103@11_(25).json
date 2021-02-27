@@ -1,0 +1,28 @@
+{
+  "id": 94103,
+  "name": "94103",
+  "generation": 11,
+  "created_at": "2017-12-05T21:09:34.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! 94103 here. I'm here to enjoy reading garfield and hitting on yo' man. My friends describe me as \"gorgeous.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "69922@9",
+  "sire": "33781@10",
+  "children": [
+    "287255@12",
+    "290029@12",
+    "298011@12",
+    "310672@12",
+    "341033@12",
+    "366524@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 25,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

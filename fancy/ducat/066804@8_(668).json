@@ -1,0 +1,23 @@
+{
+  "id": 66804,
+  "name": "Gen 8 | Brisk",
+  "generation": 8,
+  "created_at": "2017-12-04T19:44:46.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Gen 8 | Brisk. My friends describe me as hairy and stinky. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "56014@7",
+  "sire": "18697@7",
+  "children": [
+    "73619@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 668,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

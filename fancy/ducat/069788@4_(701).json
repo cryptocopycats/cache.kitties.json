@@ -1,0 +1,26 @@
+{
+  "id": 69788,
+  "name": "Birdcat",
+  "generation": 4,
+  "created_at": "2017-12-04T22:17:46.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Birdcat. My friends describe me as fabulous and annoying. I once got in a fight with a dolphin, and won. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26552@3",
+  "sire": "51197@3",
+  "children": [
+    "72849@5",
+    "73160@7",
+    "78599@7",
+    "143308@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 701,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

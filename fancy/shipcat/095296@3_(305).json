@@ -1,0 +1,23 @@
+{
+  "id": 95296,
+  "name": "Fi's lil fatty",
+  "generation": 3,
+  "created_at": "2017-12-05T22:03:48.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Fi's lil fatty. I'm often referred to as the Frodo Baggins of the group. I once made a rooster dance. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "24372@2",
+  "sire": "36917@2",
+  "children": [
+    "168842@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 305,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

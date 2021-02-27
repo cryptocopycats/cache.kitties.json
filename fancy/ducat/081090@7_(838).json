@@ -1,0 +1,28 @@
+{
+  "id": 81090,
+  "name": "G7 Snappy | Fancy VIRGIN",
+  "generation": 7,
+  "created_at": "2017-12-05T05:48:17.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm G7 Snappy | Fancy VIRGIN. I'm a professional Culinary Sanitation Specialist and I love hamburgers. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I look forward to fighting for the people with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74728@6",
+  "sire": "44915@6",
+  "children": [
+    "95638@8",
+    "97549@8",
+    "107207@8",
+    "111074@20",
+    "182057@8",
+    "230227@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 838,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

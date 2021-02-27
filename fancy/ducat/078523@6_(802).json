@@ -1,0 +1,32 @@
+{
+  "id": 78523,
+  "name": "Birdcat",
+  "generation": 6,
+  "created_at": "2017-12-05T03:44:44.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Birdcat here. I'm here to enjoy eating lasagna and being a nevernude. My friends describe me as \"preposterous.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "60328@5",
+  "sire": "51706@5",
+  "children": [
+    "89063@7",
+    "97911@9",
+    "124505@7",
+    "142004@7",
+    "319823@16",
+    "345742@7",
+    "434842@7",
+    "436435@7",
+    "450341@7",
+    "665520@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 802,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

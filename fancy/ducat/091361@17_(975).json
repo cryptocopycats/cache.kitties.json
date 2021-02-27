@@ -1,0 +1,26 @@
+{
+  "id": 91361,
+  "name": "Fancy Duck Bird Flappy Cat #2",
+  "generation": 17,
+  "created_at": "2017-12-05T17:43:21.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Fancy Duck Bird Flappy Cat #2. I've never told anyone this, but I once headbutted a dog. I put soy sauce on everything. Like, everything: hot dogs, chocolate—everything! Will you be the wasabi to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55789@10",
+  "sire": "74709@16",
+  "children": [
+    "154948@18",
+    "204326@18",
+    "239711@21",
+    "266298@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 975,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

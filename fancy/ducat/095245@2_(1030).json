@@ -1,0 +1,30 @@
+{
+  "id": 95245,
+  "name": "UltraRare Gen2 Bird - Birdkids",
+  "generation": 2,
+  "created_at": "2017-12-05T22:01:17.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm UltraRare Gen2 Bird - Birdkids. My friends describe me as gorgeous and preposterous. I once bit a dog. I don't like to talk about it. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81083@1",
+  "sire": "72004@1",
+  "children": [
+    "123544@3",
+    "123745@3",
+    "124620@3",
+    "125542@3",
+    "126472@3",
+    "128173@6",
+    "134562@3",
+    "180527@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1030,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

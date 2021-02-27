@@ -1,0 +1,23 @@
+{
+  "id": 80051,
+  "name": "Gen 10 Purebred Duck",
+  "generation": 10,
+  "created_at": "2017-12-05T05:01:59.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 10 Purebred Duck. I believe the world is flat. My friends describe me as \"voluptuous.\" It's... accurate. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "76008@5",
+  "sire": "18846@9",
+  "children": [
+    "83082@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 823,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

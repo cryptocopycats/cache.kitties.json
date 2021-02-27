@@ -1,0 +1,23 @@
+{
+  "id": 72162,
+  "name": "Vlad",
+  "generation": 15,
+  "created_at": "2017-12-04T23:52:09.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Vlad. In high school, I was voted school jock. I once dreamed of being a Foreign Film Director. Now I can be found practicing witchcraft all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "45307@13",
+  "sire": "59002@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 20,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

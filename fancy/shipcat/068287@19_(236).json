@@ -1,0 +1,23 @@
+{
+  "id": 68287,
+  "name": "Sailor Coon",
+  "generation": 19,
+  "created_at": "2017-12-04T20:58:39.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Sailor Coon. I once peed on Princess Diana's cat. They had it coming. In my free time, I can usually be found seductive or people-watching. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "29533@18",
+  "sire": "17738@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 236,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

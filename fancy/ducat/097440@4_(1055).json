@@ -1,0 +1,24 @@
+{
+  "id": 97440,
+  "name": "butiful fancy ducat",
+  "generation": 4,
+  "created_at": "2017-12-05T23:35:06.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm butiful fancy ducat. I want to live in a world where people believe the world is flat. I like to listen to Metallica while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "88009@3",
+  "sire": "97211@3",
+  "children": [
+    "99677@5",
+    "154216@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1055,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

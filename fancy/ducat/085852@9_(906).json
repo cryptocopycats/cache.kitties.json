@@ -1,0 +1,29 @@
+{
+  "id": 85852,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-05T10:27:02.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #85852. I've never told anyone this, but I once licked a dog. I'm often described as fabulous, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37525@6",
+  "sire": "32375@8",
+  "children": [
+    "101776@10",
+    "113916@10",
+    "134854@10",
+    "142840@14",
+    "160966@10",
+    "182909@10",
+    "205213@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 906,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

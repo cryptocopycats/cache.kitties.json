@@ -1,0 +1,31 @@
+{
+  "id": 70053,
+  "name": "★ Sailor ★",
+  "generation": 15,
+  "created_at": "2017-12-04T22:30:25.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm ★ Sailor ★. My friends describe me as voluptuous and gorgeous. I once got in a fight with a rhino, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "42231@5",
+  "sire": "61269@14",
+  "children": [
+    "84869@16",
+    "127365@18",
+    "184484@16",
+    "226225@16",
+    "293273@16",
+    "377045@16",
+    "408212@16",
+    "440555@16",
+    "484059@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 243,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

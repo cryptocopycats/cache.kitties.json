@@ -1,0 +1,24 @@
+{
+  "id": 80844,
+  "name": "SOSOHO",
+  "generation": 19,
+  "created_at": "2017-12-05T05:37:08.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm SOSOHO. In high school, I was voted school jock. I once made a rooster dance. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "58449@18",
+  "sire": "60729@17",
+  "children": [
+    "335547@20",
+    "351215@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 268,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 73840,
+  "name": "Ducat 744/10000",
+  "generation": 11,
+  "created_at": "2017-12-05T00:50:47.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Ducat 744/10000. I believe the world is flat. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "65659@10",
+  "sire": "46428@10",
+  "children": [
+    "77880@12",
+    "79753@12",
+    "82848@12",
+    "92989@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 744,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

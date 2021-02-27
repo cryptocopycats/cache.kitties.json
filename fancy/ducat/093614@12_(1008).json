@@ -1,0 +1,29 @@
+{
+  "id": 93614,
+  "name": "0.054",
+  "generation": 12,
+  "created_at": "2017-12-05T20:37:46.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm 0.054. I enjoy riding dirty, riding unicorns, and fighting the patriarchy. I once dreamed of being a Ventriloquist. Now I can be found riverdancing all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55640@11",
+  "sire": "80688@7",
+  "children": [
+    "123735@13",
+    "125717@13",
+    "137900@13",
+    "155896@13",
+    "160714@13",
+    "202847@14",
+    "332332@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1008,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 65923,
+  "name": "Fancy BirdCat 🐥",
+  "generation": 5,
+  "created_at": "2017-12-04T18:42:35.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Fancy BirdCat 🐥. I believe that one day cats will rule this planet. I once got in a fight with a gecko, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55693@1",
+  "sire": "55047@4",
+  "children": [
+    "84228@6",
+    "119375@6",
+    "119726@7",
+    "120625@6",
+    "125091@6",
+    "126940@6",
+    "138235@6",
+    "157269@6",
+    "188468@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 658,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 98012,
+  "name": "Mc_Fly",
+  "generation": 8,
+  "created_at": "2017-12-05T23:58:44.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Mc_Fly. All you need to know about me is I hate lasagna with a passion. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "45039@7",
+  "sire": "22332@7",
+  "children": [
+    "174607@9",
+    "180239@9",
+    "191217@9",
+    "206323@9",
+    "217255@9",
+    "241849@9",
+    "261693@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1062,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 96876,
+  "name": "Virgin Gold Gen 3 Duck!",
+  "generation": 3,
+  "created_at": "2017-12-05T23:09:02.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Virgin Gold Gen 3 Duck!. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Mother Theresa. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "58046@2",
+  "sire": "70273@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1047,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

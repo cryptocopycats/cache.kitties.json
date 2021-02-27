@@ -1,0 +1,29 @@
+{
+  "id": 69485,
+  "name": "G11 Fancy Duck Bird",
+  "generation": 11,
+  "created_at": "2017-12-04T22:03:28.000Z",
+  "birthday": "2017-12-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! G11 Fancy Duck Bird here. I'm here to enjoy sitting on your computer and shakin' dat booty. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Our friendship will be wondrous, preposterous, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37289@10",
+  "sire": "39116@10",
+  "children": [
+    "79707@12",
+    "85754@12",
+    "120768@14",
+    "139568@14",
+    "214752@14",
+    "244095@16",
+    "447729@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 696,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

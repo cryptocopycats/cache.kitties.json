@@ -1,0 +1,29 @@
+{
+  "id": 84393,
+  "name": "☄️ Wingtips Father ☄️",
+  "generation": 10,
+  "created_at": "2017-12-05T08:54:58.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm ☄️ Wingtips Father ☄️. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be gullible friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "77962@9",
+  "sire": "79167@9",
+  "children": [
+    "103000@11",
+    "125225@11",
+    "151997@11",
+    "162845@11",
+    "166097@11",
+    "207317@11",
+    "271710@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 884,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 82478,
+  "name": "Fancy ShipCat - RARE DNA",
+  "generation": 19,
+  "created_at": "2017-12-05T06:53:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Fancy ShipCat - RARE DNA. I want to live in a world where people believe the world is flat. I put soy sauce on everything. Like, everything: hot dogs, lasagna—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "59419@18",
+  "sire": "17292@15",
+  "children": [
+    "88189@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 270,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

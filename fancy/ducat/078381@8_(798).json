@@ -1,0 +1,26 @@
+{
+  "id": 78381,
+  "name": "Fancy Wings",
+  "generation": 8,
+  "created_at": "2017-12-05T03:38:27.000Z",
+  "birthday": "2017-12-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Fancy Wings. I'm a Ventriloquist by day, and I like playing chess by night. I once loved a rooster. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "76190@7",
+  "sire": "26556@7",
+  "children": [
+    "80467@9",
+    "84087@9",
+    "91744@9",
+    "98567@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 798,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
