@@ -1,0 +1,24 @@
+{
+  "id": 120154,
+  "name": "New Cat in Town",
+  "generation": 9,
+  "created_at": "2017-12-07T02:16:26.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm New Cat in Town. I've never told anyone this, but I once bit a dog. Sometimes I daydream of a life full of reading garfield, salad, and reading Danielle Steele. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98229@7",
+  "sire": "112426@8",
+  "children": [
+    "125420@10",
+    "430788@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1387,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

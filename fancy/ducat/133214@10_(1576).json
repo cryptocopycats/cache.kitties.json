@@ -1,0 +1,27 @@
+{
+  "id": 133214,
+  "name": "Little Lena",
+  "generation": 10,
+  "created_at": "2017-12-07T18:02:55.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Little Lena. All you need to know about me is I hate hamburgers with a passion. I put maple syrup on everything. Like, everything: hot dogs, chocolate—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125559@7",
+  "sire": "129022@9",
+  "children": [
+    "135266@11",
+    "137522@11",
+    "139761@11",
+    "175881@11",
+    "244792@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1576,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

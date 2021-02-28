@@ -1,0 +1,25 @@
+{
+  "id": 127882,
+  "name": "Caduck",
+  "generation": 17,
+  "created_at": "2017-12-07T12:24:45.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Caduck. I'm a Private Dancer  by day, and I like swiping right by night. My secret indulgence is salad. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121894@10",
+  "sire": "47948@16",
+  "children": [
+    "135687@18",
+    "178607@18",
+    "241989@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1499,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

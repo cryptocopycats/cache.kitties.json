@@ -1,0 +1,23 @@
+{
+  "id": 114718,
+  "name": "DNS",
+  "generation": 8,
+  "created_at": "2017-12-06T19:53:06.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! DNS here. I'm here to enjoy chasing red dots and eating until I loathe myself. I once made a rooster play. I hope we can be stinky friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "57763@7",
+  "sire": "111401@5",
+  "children": [
+    "168103@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1308,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

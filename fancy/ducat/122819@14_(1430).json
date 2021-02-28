@@ -1,0 +1,24 @@
+{
+  "id": 122819,
+  "name": "Birdy",
+  "generation": 14,
+  "created_at": "2017-12-07T05:52:30.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Birdy. I enjoy glaring at the neighbour's cat, tripping my owner, and being a nevernude. My secret indulgence is chocolate. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "120423@13",
+  "sire": "115126@10",
+  "children": [
+    "129618@15",
+    "134624@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1430,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

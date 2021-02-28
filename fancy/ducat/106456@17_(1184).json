@@ -1,0 +1,26 @@
+{
+  "id": 106456,
+  "name": "BitBird",
+  "generation": 17,
+  "created_at": "2017-12-06T07:36:23.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm BitBird. I enjoy staying woke, shakin' dat booty, and reciting poetry. My secret indulgence is wet food. I look forward to fighting for the people with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71383@11",
+  "sire": "45984@16",
+  "children": [
+    "238863@18",
+    "242928@18",
+    "254459@21",
+    "291167@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1184,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

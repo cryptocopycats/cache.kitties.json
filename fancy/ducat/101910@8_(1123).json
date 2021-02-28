@@ -1,0 +1,32 @@
+{
+  "id": 101910,
+  "name": "(RARE) Lisa Gecko",
+  "generation": 8,
+  "created_at": "2017-12-06T03:21:18.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm (RARE) Lisa Gecko. I'm often referred to as the Lisa Simpson of the group. I once made a gecko ignore. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63276@7",
+  "sire": "89596@7",
+  "children": [
+    "196523@12",
+    "200407@16",
+    "212370@14",
+    "218031@12",
+    "235105@9",
+    "289975@14",
+    "302406@16",
+    "319221@9",
+    "382807@9",
+    "384412@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1123,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

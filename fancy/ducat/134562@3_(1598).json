@@ -1,0 +1,32 @@
+{
+  "id": 134562,
+  "name": "Kindbud /",
+  "generation": 3,
+  "created_at": "2017-12-07T19:29:18.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kindbud /. I believe that one day cats will rule this planet. Some people say I'm the Steve Urkel of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "95245@2",
+  "sire": "121683@2",
+  "children": [
+    "135083@4",
+    "135587@4",
+    "135882@4",
+    "138718@4",
+    "140340@4",
+    "250441@6",
+    "257749@4",
+    "334732@4",
+    "357882@4",
+    "394319@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1598,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

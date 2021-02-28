@@ -1,0 +1,24 @@
+{
+  "id": 108742,
+  "name": "G11 | Fancy + ShipCat",
+  "generation": 11,
+  "created_at": "2017-12-06T10:28:11.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm G11 | Fancy + ShipCat. In high school, I was voted school jock. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "85197@10",
+  "sire": "18644@8",
+  "children": [
+    "194607@17",
+    "209472@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 342,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

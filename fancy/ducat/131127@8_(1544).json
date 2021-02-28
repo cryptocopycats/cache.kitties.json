@@ -1,0 +1,26 @@
+{
+  "id": 131127,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-07T15:56:22.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Kitty #131127. I once peed on Martin Luther King Jr.'s cat. They had it coming. I put marmite on everything. Like, everything: hot dogs, chocolate—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "129774@7",
+  "sire": "130471@6",
+  "children": [
+    "131672@10",
+    "132761@10",
+    "134103@10",
+    "156891@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1544,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

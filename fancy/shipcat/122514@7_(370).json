@@ -1,0 +1,26 @@
+{
+  "id": 122514,
+  "name": "G7 | Fancy + ShipCat",
+  "generation": 7,
+  "created_at": "2017-12-07T05:37:18.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm G7 | Fancy + ShipCat. My friends describe me as vegan and gorgeous. It's not common knowledge, but my ancestry connects me to Mother Theresa. I look forward to staying woke with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "96679@6",
+  "sire": "108196@6",
+  "children": [
+    "159945@10",
+    "160714@13",
+    "185759@9",
+    "208805@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 370,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

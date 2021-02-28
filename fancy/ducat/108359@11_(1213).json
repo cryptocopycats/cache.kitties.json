@@ -1,0 +1,26 @@
+{
+  "id": 108359,
+  "name": "RARE Fancy Cat Duck Bird",
+  "generation": 11,
+  "created_at": "2017-12-06T09:57:04.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm RARE Fancy Cat Duck Bird. I enjoy spinning sick beats, riding unicorns, and reading garfield. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Our friendship will be despicable, annoying, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "68934@10",
+  "sire": "87845@10",
+  "children": [
+    "122647@12",
+    "222096@12",
+    "279007@12",
+    "349221@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1213,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

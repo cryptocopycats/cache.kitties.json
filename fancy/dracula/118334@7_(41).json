@@ -1,0 +1,30 @@
+{
+  "id": 118334,
+  "name": "G7 VAMPIRE+2 VAMPIRE PARENTS",
+  "generation": 7,
+  "created_at": "2017-12-07T00:03:32.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm G7 VAMPIRE+2 VAMPIRE PARENTS. I'm often referred to as the Chandler Bing of the group. I once made a platypus pester. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "117689@3",
+  "sire": "97358@6",
+  "children": [
+    "122345@9",
+    "122533@12",
+    "126636@12",
+    "126853@8",
+    "132085@8",
+    "152192@8",
+    "187070@11",
+    "196099@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 41,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

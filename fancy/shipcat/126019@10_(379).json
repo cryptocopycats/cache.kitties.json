@@ -1,0 +1,26 @@
+{
+  "id": 126019,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-07T10:01:04.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #126019. I enjoy tricking babies, riding unicorns, and shakin' dat booty. Some people say I'm the Steve Urkel of the group. Will you be the wasabi to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "24638@9",
+  "sire": "121653@1",
+  "children": [
+    "131010@11",
+    "201283@11",
+    "205860@20",
+    "217087@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 379,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

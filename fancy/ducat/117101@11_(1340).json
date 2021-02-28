@@ -1,0 +1,25 @@
+{
+  "id": 117101,
+  "name": "RARE Fancy Cat Duck Bird",
+  "generation": 11,
+  "created_at": "2017-12-06T22:52:55.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! My name's RARE Fancy Cat Duck Bird. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When I'm not reading Danielle Steele, I'm playing chess! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29516@10",
+  "sire": "72751@10",
+  "children": [
+    "122429@12",
+    "124447@12",
+    "152780@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1340,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

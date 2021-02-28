@@ -1,0 +1,25 @@
+{
+  "id": 118498,
+  "name": "Parent is Sailor & Duck",
+  "generation": 12,
+  "created_at": "2017-12-07T00:14:53.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Parent is Sailor & Duck. All you need to know about me is I hate salad with a passion. When I'm not siring for status, I'm mocking dogs! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31409@5",
+  "sire": "54819@11",
+  "children": [
+    "144765@13",
+    "146807@13",
+    "183930@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1362,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

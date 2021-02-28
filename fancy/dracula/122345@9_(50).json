@@ -1,0 +1,32 @@
+{
+  "id": 122345,
+  "name": "G9 2 VAMPIRE PARENTS VERY RARE",
+  "generation": 9,
+  "created_at": "2017-12-07T05:28:13.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm G9 2 VAMPIRE PARENTS VERY RARE. In high school, I was voted school jock. My friends describe me as \"annoying.\" It's... accurate. Will you be the ranch dressing to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "118334@7",
+  "sire": "115497@8",
+  "children": [
+    "123377@10",
+    "126806@13",
+    "127564@11",
+    "132098@12",
+    "161734@12",
+    "185496@10",
+    "264058@10",
+    "264941@10",
+    "318088@10",
+    "411174@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 50,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

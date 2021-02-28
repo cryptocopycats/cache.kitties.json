@@ -1,0 +1,23 @@
+{
+  "id": 106760,
+  "name": "fancy duck kitty",
+  "generation": 15,
+  "created_at": "2017-12-06T07:56:06.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's fancy duck kitty. I once peed on Nelson Mandela's cat. They had it coming. My secret indulgence is lasagna. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "99333@14",
+  "sire": "64860@12",
+  "children": [
+    "115021@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1187,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

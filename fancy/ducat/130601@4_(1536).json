@@ -1,0 +1,24 @@
+{
+  "id": 130601,
+  "name": "kissalintu",
+  "generation": 4,
+  "created_at": "2017-12-07T15:21:24.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm kissalintu. I'm often referred to as the Marge Simpson of the group. When I'm not swiping right, I'm siring for status! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49021@3",
+  "sire": "117026@3",
+  "children": [
+    "133215@5",
+    "138594@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1536,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

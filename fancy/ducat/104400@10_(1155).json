@@ -1,0 +1,29 @@
+{
+  "id": 104400,
+  "name": "Duck Cat Gen 10 #2",
+  "generation": 10,
+  "created_at": "2017-12-06T05:44:47.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Duck Cat Gen 10 #2 here. I'm here to enjoy staying woke and eating lasagna. I once made a rooster sulk. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46865@9",
+  "sire": "59255@7",
+  "children": [
+    "106476@12",
+    "120080@15",
+    "124878@11",
+    "138036@13",
+    "174928@17",
+    "224323@11",
+    "285199@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1155,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

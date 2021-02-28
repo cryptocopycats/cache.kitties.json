@@ -1,0 +1,25 @@
+{
+  "id": 115060,
+  "name": "g6",
+  "generation": 6,
+  "created_at": "2017-12-06T20:19:52.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! g6 here. I'm here to enjoy eating lasagna and reading garfield. I'm convinced that the world is flat. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112781@5",
+  "sire": "112102@5",
+  "children": [
+    "115614@7",
+    "116454@7",
+    "118581@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1312,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

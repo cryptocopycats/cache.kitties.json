@@ -1,0 +1,23 @@
+{
+  "id": 110577,
+  "name": "Ducat",
+  "generation": 15,
+  "created_at": "2017-12-06T13:23:32.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Ducat. I'm a Private Dancer  by day, and I like playing chess by night. I'm often described as fabulous, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "47834@12",
+  "sire": "21203@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1247,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

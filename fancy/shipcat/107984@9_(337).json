@@ -1,0 +1,31 @@
+{
+  "id": 107984,
+  "name": "🚢 Captain Flint",
+  "generation": 9,
+  "created_at": "2017-12-06T09:30:29.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm 🚢 Captain Flint. I'm often referred to as the Frodo Baggins of the group. In my free time, I can usually be found stinky or watching reality tv. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "61892@7",
+  "sire": "94010@8",
+  "children": [
+    "228571@10",
+    "257306@10",
+    "292399@10",
+    "316477@13",
+    "321015@10",
+    "340526@13",
+    "375523@10",
+    "407717@13",
+    "414246@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 337,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

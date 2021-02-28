@@ -1,0 +1,31 @@
+{
+  "id": 119375,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-07T01:20:44.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #119375. I've never told anyone this, but I once cleaned a dog. My secret indulgence is apple pie. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110912@5",
+  "sire": "65923@5",
+  "children": [
+    "120714@7",
+    "122505@7",
+    "126342@7",
+    "127721@7",
+    "133337@7",
+    "147273@7",
+    "149203@7",
+    "170390@7",
+    "305694@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1375,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

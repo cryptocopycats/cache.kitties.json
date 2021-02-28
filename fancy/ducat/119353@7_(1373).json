@@ -1,0 +1,24 @@
+{
+  "id": 119353,
+  "name": "EPIC Mr. McChicken",
+  "generation": 7,
+  "created_at": "2017-12-07T01:16:20.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm EPIC Mr. McChicken. I'm often referred to as the Chandler Bing of the group. Some people say I'm the Chandler Bing of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "101870@5",
+  "sire": "63540@6",
+  "children": [
+    "159254@11",
+    "171958@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1373,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

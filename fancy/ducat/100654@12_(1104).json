@@ -1,0 +1,25 @@
+{
+  "id": 100654,
+  "name": "✨Fancy 🦆Duckling",
+  "generation": 12,
+  "created_at": "2017-12-06T02:07:29.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm ✨Fancy 🦆Duckling. I'm often referred to as the Cersei Lannister of the group. I am 33% fairy, 84% Dispensary Clerk, and otherwise bad at math. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "91785@10",
+  "sire": "82698@11",
+  "children": [
+    "104921@13",
+    "124274@13",
+    "200580@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1104,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

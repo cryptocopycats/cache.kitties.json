@@ -1,0 +1,23 @@
+{
+  "id": 122283,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-07T05:24:10.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #122283. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "70903@14",
+  "sire": "70702@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1422,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

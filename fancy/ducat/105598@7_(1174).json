@@ -1,0 +1,27 @@
+{
+  "id": 105598,
+  "name": "A bird is awesome baby Bang Ba",
+  "generation": 7,
+  "created_at": "2017-12-06T06:46:02.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm A bird is awesome baby Bang Ba. I'm often referred to as the Jon Snow of the group. I put ranch dressing on everything. Like, everything: hot dogs, steak—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103322@6",
+  "sire": "34330@5",
+  "children": [
+    "143133@12",
+    "146041@8",
+    "149610@8",
+    "170481@8",
+    "201792@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1174,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

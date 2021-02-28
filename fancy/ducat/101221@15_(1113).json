@@ -1,0 +1,26 @@
+{
+  "id": 101221,
+  "name": "Sailor Mom & Duck Dad",
+  "generation": 15,
+  "created_at": "2017-12-06T02:42:37.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Sailor Mom & Duck Dad. I'm often referred to as the Steve Urkel of the group. My secret indulgence is cantaloupe. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "75036@10",
+  "sire": "78198@14",
+  "children": [
+    "138525@16",
+    "170708@17",
+    "223345@26",
+    "404769@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1113,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

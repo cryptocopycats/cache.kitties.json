@@ -1,0 +1,23 @@
+{
+  "id": 101142,
+  "name": "Finch",
+  "generation": 9,
+  "created_at": "2017-12-06T02:36:49.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Finch. I enjoy hitting on yo' man, eating until I loathe myself, and reciting poetry. I am 83% hobbit, 34% Culinary Sanitation Specialist, and otherwise bad at math. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "52345@7",
+  "sire": "74280@8",
+  "children": [
+    "101999@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1112,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

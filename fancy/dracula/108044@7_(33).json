@@ -1,0 +1,31 @@
+{
+  "id": 108044,
+  "name": "G7 Ultra Rare (Lowest Price)",
+  "generation": 7,
+  "created_at": "2017-12-06T09:35:31.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm G7 Ultra Rare (Lowest Price). I enjoy being a nevernude, reciting poetry, and taking selfies. In my free time, I can usually be found wondrous or riding the bus. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "90370@6",
+  "sire": "72311@6",
+  "children": [
+    "132085@8",
+    "147929@9",
+    "152192@8",
+    "172474@9",
+    "178481@8",
+    "185496@10",
+    "201280@16",
+    "248527@8",
+    "315826@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 33,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

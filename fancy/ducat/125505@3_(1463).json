@@ -1,0 +1,23 @@
+{
+  "id": 125505,
+  "name": "GoldxFancy",
+  "generation": 3,
+  "created_at": "2017-12-07T09:06:06.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm GoldxFancy. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "108173@2",
+  "sire": "60152@1",
+  "children": [
+    "126852@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1463,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

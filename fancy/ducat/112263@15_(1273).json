@@ -1,0 +1,23 @@
+{
+  "id": 112263,
+  "name": "Virgin Bird",
+  "generation": 15,
+  "created_at": "2017-12-06T15:52:15.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Virgin Bird. My friends describe me as hairy and annoying. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Will you be the ranch dressing to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "100023@10",
+  "sire": "91236@14",
+  "children": [
+    "312163@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1273,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

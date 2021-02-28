@@ -1,0 +1,33 @@
+{
+  "id": 129294,
+  "name": "Count Catula",
+  "generation": 8,
+  "created_at": "2017-12-07T14:00:56.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Count Catula. All you need to know about me is I hate apple pie with a passion. Sometimes I daydream of a life full of shakin' dat booty, chocolate, and watching reality tv. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "110789@7",
+  "sire": "127903@7",
+  "children": [
+    "130567@9",
+    "172474@9",
+    "176443@14",
+    "182039@12",
+    "193220@15",
+    "256223@9",
+    "291586@9",
+    "304103@9",
+    "424013@9",
+    "581886@9",
+    "618591@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 61,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

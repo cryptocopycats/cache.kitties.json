@@ -1,0 +1,30 @@
+{
+  "id": 114183,
+  "name": "G11 Vampire 2 VAMP PARENTS",
+  "generation": 11,
+  "created_at": "2017-12-06T19:01:17.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm G11 Vampire 2 VAMP PARENTS. All you need to know about me is I hate apple pie with a passion. I am 53% oracle, 42% Private Dancer , and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "102912@6",
+  "sire": "104974@10",
+  "children": [
+    "120637@12",
+    "122533@12",
+    "126636@12",
+    "132098@12",
+    "161734@12",
+    "196099@12",
+    "274573@16",
+    "310143@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 38,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

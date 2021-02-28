@@ -1,0 +1,24 @@
+{
+  "id": 122899,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-07T05:58:59.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #122899. I want to live in a world where people believe the world is flat. I'm often described as preposterous, and I own it. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63276@7",
+  "sire": "89596@7",
+  "children": [
+    "244547@10",
+    "253003@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1431,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

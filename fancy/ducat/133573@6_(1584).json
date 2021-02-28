@@ -1,0 +1,28 @@
+{
+  "id": 133573,
+  "name": "DuCat (3 child DuCats)",
+  "generation": 6,
+  "created_at": "2017-12-07T18:26:44.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm DuCat (3 child DuCats). In high school, I was voted school jock. My friends describe me as \"tantalizing.\" It's... accurate. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55500@5",
+  "sire": "55734@5",
+  "children": [
+    "175110@7",
+    "198235@7",
+    "205572@8",
+    "214075@7",
+    "219071@7",
+    "234861@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1584,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

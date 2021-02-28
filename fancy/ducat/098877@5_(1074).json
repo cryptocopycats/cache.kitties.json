@@ -1,0 +1,24 @@
+{
+  "id": 98877,
+  "name": "Chestnut Bird < Gold Scarlet",
+  "generation": 5,
+  "created_at": "2017-12-06T00:41:22.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Chestnut Bird < Gold Scarlet. I'm a professional Private Dancer  and I love lasagna. I'm often described as despicable, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97779@4",
+  "sire": "25670@4",
+  "children": [
+    "100153@6",
+    "111196@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1074,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

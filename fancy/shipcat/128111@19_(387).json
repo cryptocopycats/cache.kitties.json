@@ -1,0 +1,26 @@
+{
+  "id": 128111,
+  "name": "CHEAP FANCY SAILOR",
+  "generation": 19,
+  "created_at": "2017-12-07T12:38:31.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm CHEAP FANCY SAILOR. I'm often referred to as the Bart Simpson of the group. My great-great-great-great-great-great grandkitty lived with Princess Diana. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "120250@16",
+  "sire": "62050@18",
+  "children": [
+    "146141@20",
+    "187433@21",
+    "248931@20",
+    "281213@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 387,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

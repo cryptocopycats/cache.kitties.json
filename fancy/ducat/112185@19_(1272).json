@@ -1,0 +1,26 @@
+{
+  "id": 112185,
+  "name": "Virgin Ducky!",
+  "generation": 19,
+  "created_at": "2017-12-06T15:42:44.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's Virgin Ducky!. I once peed on Nelson Mandela's cat. They had it coming. I once made a dog ignore. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40836@8",
+  "sire": "23106@18",
+  "children": [
+    "158285@20",
+    "199218@20",
+    "262292@20",
+    "273066@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1272,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

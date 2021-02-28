@@ -1,0 +1,26 @@
+{
+  "id": 117856,
+  "name": "Rare Fancy Friend Jon Snow",
+  "generation": 20,
+  "created_at": "2017-12-06T23:34:25.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Rare Fancy Friend Jon Snow. I'm often referred to as the Jon Snow of the group. My friends describe me as \"ridiculous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "27469@19",
+  "sire": "38540@14",
+  "children": [
+    "158307@21",
+    "336739@21",
+    "350885@21",
+    "384972@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 364,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

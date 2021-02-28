@@ -1,0 +1,32 @@
+{
+  "id": 134422,
+  "name": "Mickey",
+  "generation": 5,
+  "created_at": "2017-12-07T19:17:58.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Mickey. I've never told anyone this, but I once groomed a dog. When I'm not siring for status, I'm prank-calling celebrities! I look forward to tripping my owner with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126957@4",
+  "sire": "101938@4",
+  "children": [
+    "136886@6",
+    "160285@6",
+    "165097@6",
+    "169242@6",
+    "234133@7",
+    "247263@7",
+    "254728@6",
+    "280141@9",
+    "296078@9",
+    "316785@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1596,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

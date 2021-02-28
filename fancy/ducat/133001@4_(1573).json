@@ -1,0 +1,29 @@
+{
+  "id": 133001,
+  "name": "FANCY DUCK GEN 4",
+  "generation": 4,
+  "created_at": "2017-12-07T17:49:50.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's FANCY DUCK GEN 4. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once cleaned a rhino. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "56623@3",
+  "sire": "22304@3",
+  "children": [
+    "135293@5",
+    "135863@5",
+    "136919@5",
+    "138589@5",
+    "159635@9",
+    "179491@5",
+    "224155@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1573,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

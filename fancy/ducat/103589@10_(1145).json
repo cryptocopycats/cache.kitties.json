@@ -1,0 +1,33 @@
+{
+  "id": 103589,
+  "name": "**SEBASTIAN",
+  "generation": 10,
+  "created_at": "2017-12-06T05:03:14.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm **SEBASTIAN. I've never told anyone this, but I once kissed a dog. Sometimes I daydream of a life full of sweating through my feet, steak, and riverdancing. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "102288@5",
+  "sire": "98114@9",
+  "children": [
+    "111084@11",
+    "147005@11",
+    "161369@18",
+    "167240@11",
+    "174399@11",
+    "195479@11",
+    "289031@11",
+    "317596@26",
+    "359440@13",
+    "411992@20",
+    "536338@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1145,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

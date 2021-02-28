@@ -1,0 +1,29 @@
+{
+  "id": 133237,
+  "name": "DuCati Monster (simple D,h2)",
+  "generation": 11,
+  "created_at": "2017-12-07T18:03:59.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm DuCati Monster (simple D,h2). All you need to know about me is I hate lasagna with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "129555@10",
+  "sire": "129740@7",
+  "children": [
+    "485562@12",
+    "485838@12",
+    "495844@12",
+    "529806@25",
+    "1105105@12",
+    "1109695@12",
+    "1112354@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1578,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

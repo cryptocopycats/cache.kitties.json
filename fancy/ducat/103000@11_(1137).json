@@ -1,0 +1,25 @@
+{
+  "id": 103000,
+  "name": "Kitty #103000",
+  "generation": 11,
+  "created_at": "2017-12-06T04:27:41.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #103000. I enjoy tripping my owner, spinning sick beats, and being a nevernude. I once dreamed of being a Skydiving Instructor. Now I can be found riding the bus all day. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "84393@10",
+  "sire": "77865@8",
+  "children": [
+    "106436@12",
+    "123739@12",
+    "127652@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1137,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

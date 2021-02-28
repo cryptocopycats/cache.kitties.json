@@ -1,0 +1,23 @@
+{
+  "id": 107087,
+  "name": "Superduck Strong!",
+  "generation": 13,
+  "created_at": "2017-12-06T08:17:19.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Superduck Strong!. I'm a Dispensary Clerk by day, and I like riverdancing by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "100411@7",
+  "sire": "99526@12",
+  "children": [
+    "150237@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1195,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

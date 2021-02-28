@@ -1,0 +1,29 @@
+{
+  "id": 112114,
+  "name": "G8 Bird",
+  "generation": 8,
+  "created_at": "2017-12-06T15:36:07.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm G8 Bird. I enjoy taking selfies, tripping my owner, and grooming. When I'm not swiping left, I'm swiping right! Our friendship will be stinky, smelly, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110886@7",
+  "sire": "81467@6",
+  "children": [
+    "112576@9",
+    "116302@9",
+    "118640@9",
+    "148695@9",
+    "158763@9",
+    "181597@9",
+    "241078@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1270,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

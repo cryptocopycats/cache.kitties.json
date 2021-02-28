@@ -1,0 +1,24 @@
+{
+  "id": 109495,
+  "name": "Pijin",
+  "generation": 9,
+  "created_at": "2017-12-06T11:34:15.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Pijin. I'm a Spin Instructor  by day, and I like playing chess by night. My secret indulgence is salad. Our friendship will be gorgeous, fabulous, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107975@7",
+  "sire": "106477@8",
+  "children": [
+    "219918@10",
+    "227317@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1233,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

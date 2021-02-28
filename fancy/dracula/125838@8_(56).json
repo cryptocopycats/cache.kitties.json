@@ -1,0 +1,27 @@
+{
+  "id": 125838,
+  "name": "Drlt",
+  "generation": 8,
+  "created_at": "2017-12-07T09:49:15.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Drlt. I've never told anyone this, but I once bit a dog. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "124394@5",
+  "sire": "125221@7",
+  "children": [
+    "126177@9",
+    "129022@9",
+    "136608@11",
+    "137090@15",
+    "144965@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 56,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

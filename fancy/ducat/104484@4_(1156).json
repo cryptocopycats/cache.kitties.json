@@ -1,0 +1,33 @@
+{
+  "id": 104484,
+  "name": "Black Krya",
+  "generation": 4,
+  "created_at": "2017-12-06T05:50:03.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! My name's Black Krya. I once peed on Princess Diana's cat. They had it coming. My secret indulgence is hamburgers. Will you be the marmalade to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66151@3",
+  "sire": "72343@3",
+  "children": [
+    "223102@5",
+    "223981@5",
+    "224338@5",
+    "225621@5",
+    "229923@5",
+    "232638@5",
+    "305018@5",
+    "359516@5",
+    "391278@5",
+    "427554@5",
+    "744653@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1156,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 118882,
+  "name": "Quack 2",
+  "generation": 14,
+  "created_at": "2017-12-07T00:41:10.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! Quack 2 here. I'm here to enjoy reading garfield and tricking babies. I once got in a fight with a rooster, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78867@13",
+  "sire": "47348@11",
+  "children": [
+    "147064@15",
+    "177317@15",
+    "233094@15",
+    "278894@15",
+    "468140@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1364,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

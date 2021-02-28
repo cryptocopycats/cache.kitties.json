@@ -1,0 +1,25 @@
+{
+  "id": 117779,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-06T23:29:22.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #117779. I enjoy hitting on yo' man, shakin' dat booty, and reciting poetry. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "76753@4",
+  "sire": "104220@7",
+  "children": [
+    "145392@9",
+    "212267@11",
+    "221706@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1350,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99555,
+  "name": "Odyssepuss",
+  "generation": 14,
+  "created_at": "2017-12-06T01:10:32.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Odyssepuss. I'm a Ventriloquist by day, and I like sleeping in fresh laundry by night. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "47145@13",
+  "sire": "35135@11",
+  "children": [
+    "129186@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 317,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

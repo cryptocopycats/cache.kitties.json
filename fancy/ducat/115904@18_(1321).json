@@ -1,0 +1,23 @@
+{
+  "id": 115904,
+  "name": "Kittie McFly",
+  "generation": 18,
+  "created_at": "2017-12-06T21:33:25.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Kittie McFly. I'm a Aerobics Athlete  by day, and I like jump-roping by night. I like to listen to Mariah Carey while grooming. Don't judge me. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43500@17",
+  "sire": "68970@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1321,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

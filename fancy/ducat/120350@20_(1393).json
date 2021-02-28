@@ -1,0 +1,24 @@
+{
+  "id": 120350,
+  "name": "Flop-Shot O'Neal",
+  "generation": 20,
+  "created_at": "2017-12-07T02:41:15.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Flop-Shot O'Neal. I enjoy eating lasagna, shakin' dat booty, and grooming. I am 32% troll, 1% Culinary Sanitation Specialist, and otherwise bad at math. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "67414@10",
+  "sire": "88677@19",
+  "children": [
+    "168853@21",
+    "338731@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1393,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

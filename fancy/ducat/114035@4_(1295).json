@@ -1,0 +1,30 @@
+{
+  "id": 114035,
+  "name": "Gen 4 Purebred Bird VIRGIN",
+  "generation": 4,
+  "created_at": "2017-12-06T18:46:53.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Gen 4 Purebred Bird VIRGIN. I want to live in a world where people believe that one day cats will rule this planet. I once made a gecko sulk. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109482@3",
+  "sire": "107703@3",
+  "children": [
+    "115031@5",
+    "175299@5",
+    "184755@5",
+    "186496@5",
+    "214499@5",
+    "251368@5",
+    "288673@5",
+    "363642@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1295,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 116288,
+  "name": "Rare G12 Bird Duck Brisk",
+  "generation": 12,
+  "created_at": "2017-12-06T22:08:02.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Rare G12 Bird Duck Brisk here. I'm here to enjoy hitting on yo' man and fighting the patriarchy. In my free time, I can usually be found raunchy or tricking babies. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "114064@9",
+  "sire": "85138@11",
+  "children": [
+    "132661@13",
+    "275225@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1325,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

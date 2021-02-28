@@ -1,0 +1,28 @@
+{
+  "id": 115356,
+  "name": "hi-ho pigeon",
+  "generation": 11,
+  "created_at": "2017-12-06T20:47:45.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm hi-ho pigeon. I enjoy chasing red dots, tricking babies, and being a nevernude. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39116@10",
+  "sire": "37289@10",
+  "children": [
+    "118235@13",
+    "131058@15",
+    "137181@14",
+    "156987@15",
+    "181598@15",
+    "449666@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1318,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

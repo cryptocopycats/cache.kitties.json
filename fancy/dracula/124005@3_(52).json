@@ -1,0 +1,28 @@
+{
+  "id": 124005,
+  "name": "Gen3 RARE Dracula",
+  "generation": 3,
+  "created_at": "2017-12-07T07:18:08.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Gen3 RARE Dracula. I'm a professional Train Conductor and I love lasagna. My secret indulgence is steak. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "110855@2",
+  "sire": "123389@2",
+  "children": [
+    "124682@4",
+    "125093@4",
+    "153590@4",
+    "154537@4",
+    "156270@4",
+    "163686@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 52,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

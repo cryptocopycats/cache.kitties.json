@@ -1,0 +1,27 @@
+{
+  "id": 104171,
+  "name": "V.LOW.GEN DUCK!!! Whixten Gene",
+  "generation": 5,
+  "created_at": "2017-12-06T05:31:51.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm V.LOW.GEN DUCK!!! Whixten Gene. I enjoy riding dirty, slappin' da bass, and picking on mice. I'm often described as wondrous, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "102060@4",
+  "sire": "26659@4",
+  "children": [
+    "104524@6",
+    "132514@8",
+    "144727@6",
+    "146354@8",
+    "178276@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1149,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

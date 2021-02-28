@@ -1,0 +1,23 @@
+{
+  "id": 102044,
+  "name": "Catbird Virgin",
+  "generation": 9,
+  "created_at": "2017-12-06T03:29:11.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Catbird Virgin. My friends describe me as gorgeous and gullible. I am 5% oracle, 27% Foreign Film Director, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "47839@8",
+  "sire": "48149@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1125,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

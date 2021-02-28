@@ -1,0 +1,24 @@
+{
+  "id": 114477,
+  "name": "G16 | Slow | Birdcat",
+  "generation": 16,
+  "created_at": "2017-12-06T19:28:17.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm G16 | Slow | Birdcat. I want to live in a world where people believe the world is flat. I once made a rabbit enjoy. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "79184@12",
+  "sire": "106143@15",
+  "children": [
+    "122941@17",
+    "155883@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1302,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

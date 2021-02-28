@@ -1,0 +1,23 @@
+{
+  "id": 102708,
+  "name": "Fancy Duck Bird G7 Virgin",
+  "generation": 7,
+  "created_at": "2017-12-06T04:08:14.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Fancy Duck Bird G7 Virgin. In high school, I was voted biggest teacher's pet. I like to listen to Metallica while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "91084@6",
+  "sire": "35499@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1133,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

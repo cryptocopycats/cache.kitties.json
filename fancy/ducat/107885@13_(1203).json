@@ -1,0 +1,25 @@
+{
+  "id": 107885,
+  "name": "Perfect gene / family3",
+  "generation": 13,
+  "created_at": "2017-12-06T09:19:17.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Perfect gene / family3. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Will you be the peanut butter to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "105291@12",
+  "sire": "53045@6",
+  "children": [
+    "113746@14",
+    "188582@14",
+    "219500@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1203,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

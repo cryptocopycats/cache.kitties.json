@@ -1,0 +1,29 @@
+{
+  "id": 130897,
+  "name": "G6 FastBreed Good Birthing Hip",
+  "generation": 6,
+  "created_at": "2017-12-07T15:41:30.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm G6 FastBreed Good Birthing Hip. I want to live in a world where people believe the world is flat. My friends describe me as \"despicable.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "129587@5",
+  "sire": "130436@5",
+  "children": [
+    "143513@7",
+    "146597@7",
+    "148220@7",
+    "151390@7",
+    "170829@9",
+    "220621@7",
+    "242578@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1541,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 134772,
+  "name": "shipcatking",
+  "generation": 7,
+  "created_at": "2017-12-07T19:40:11.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! shipcatking here. I'm here to enjoy grooming and reading garfield. I put garlic butter on everything. Like, everything: hot dogs, chocolate—everything! Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "133130@6",
+  "sire": "132812@6",
+  "children": [
+    "134982@8",
+    "135559@8",
+    "136698@8",
+    "138995@8",
+    "156696@8",
+    "171774@8",
+    "210954@8",
+    "232174@8",
+    "274918@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 403,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

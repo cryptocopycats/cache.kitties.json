@@ -1,0 +1,23 @@
+{
+  "id": 131941,
+  "name": "Dracula Virgin Gen10",
+  "generation": 10,
+  "created_at": "2017-12-07T16:51:17.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Dracula Virgin Gen10. My friends describe me as brilliant and gullible. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "38612@8",
+  "sire": "30808@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 65,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

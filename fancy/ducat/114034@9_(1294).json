@@ -1,0 +1,30 @@
+{
+  "id": 114034,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-06T18:46:53.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #114034. I'm a professional Dogwalker and I love apple pie. I like to listen to Wutang while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "111624@8",
+  "sire": "68818@5",
+  "children": [
+    "115126@10",
+    "117253@13",
+    "117822@12",
+    "120542@12",
+    "126449@12",
+    "134295@10",
+    "182171@10",
+    "1389809@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1294,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

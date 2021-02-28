@@ -1,0 +1,25 @@
+{
+  "id": 107906,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-06T09:21:28.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Kitty #107906. I'm a Private Dancer  by day, and I like sleeping in fresh laundry by night. I like to listen to Mariah Carey while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63801@3",
+  "sire": "31407@3",
+  "children": [
+    "108101@5",
+    "194441@5",
+    "195714@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1204,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

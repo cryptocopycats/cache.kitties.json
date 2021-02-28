@@ -1,0 +1,24 @@
+{
+  "id": 102410,
+  "name": "FANCY PIGGY MIAO",
+  "generation": 10,
+  "created_at": "2017-12-06T03:52:39.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm FANCY PIGGY MIAO. In high school, I was voted school jock. I would give it all up to star in a soap opera. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "73524@9",
+  "sire": "77708@8",
+  "children": [
+    "105720@13",
+    "134088@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 325,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

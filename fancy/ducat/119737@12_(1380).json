@@ -1,0 +1,28 @@
+{
+  "id": 119737,
+  "name": "Limegreen Mallard Baller",
+  "generation": 12,
+  "created_at": "2017-12-07T01:45:00.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Limegreen Mallard Baller. I enjoy riding unicorns, spinning sick beats, and fighting the patriarchy. Sometimes I daydream of a life full of staying woke, cereal, and watching reality tv. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "60620@10",
+  "sire": "100738@11",
+  "children": [
+    "124964@13",
+    "136438@13",
+    "171923@13",
+    "293009@13",
+    "320224@13",
+    "364715@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1380,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

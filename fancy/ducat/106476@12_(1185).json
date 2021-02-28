@@ -1,0 +1,26 @@
+{
+  "id": 106476,
+  "name": "Great Startup Birdy",
+  "generation": 12,
+  "created_at": "2017-12-06T07:37:19.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Great Startup Birdy. In high school, I was voted most likely to work at NASA. Some people say I'm the Michael Scott of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "104400@10",
+  "sire": "7819@11",
+  "children": [
+    "108443@13",
+    "117215@13",
+    "147641@13",
+    "192756@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1185,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

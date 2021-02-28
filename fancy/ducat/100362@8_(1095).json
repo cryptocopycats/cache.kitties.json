@@ -1,0 +1,23 @@
+{
+  "id": 100362,
+  "name": "Gen8 Snappy Fancy Feast!",
+  "generation": 8,
+  "created_at": "2017-12-06T01:48:09.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Gen8 Snappy Fancy Feast!. My friends describe me as smelly and petulant. When no one's home, I invite my pals over and we listen to Aretha Franklin. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "75700@7",
+  "sire": "79832@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1095,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

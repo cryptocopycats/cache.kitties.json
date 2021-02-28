@@ -1,0 +1,31 @@
+{
+  "id": 107666,
+  "name": "Kitty Crazy Bird",
+  "generation": 14,
+  "created_at": "2017-12-06T08:59:07.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty Crazy Bird. My friends describe me as prickly and brilliant. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "53144@9",
+  "sire": "87740@13",
+  "children": [
+    "193370@17",
+    "201350@15",
+    "242262@17",
+    "297590@17",
+    "357256@17",
+    "428492@17",
+    "451582@17",
+    "539829@17",
+    "626426@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1200,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

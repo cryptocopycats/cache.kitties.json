@@ -1,0 +1,28 @@
+{
+  "id": 118235,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-06T23:59:09.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #118235. I'm a professional Spin Instructor  and I love ice cream. I put marmalade on everything. Like, everything: hot dogs, hamburgers—everything! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115356@11",
+  "sire": "85754@12",
+  "children": [
+    "120768@14",
+    "139568@14",
+    "158435@15",
+    "188711@17",
+    "214752@14",
+    "450226@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1359,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

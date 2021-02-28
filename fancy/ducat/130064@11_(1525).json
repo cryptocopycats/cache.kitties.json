@@ -1,0 +1,31 @@
+{
+  "id": 130064,
+  "name": "Kitty Mittens",
+  "generation": 11,
+  "created_at": "2017-12-07T14:49:06.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty Mittens. I believe the world is flat. I once frolicked with a dog. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94285@9",
+  "sire": "128678@10",
+  "children": [
+    "191823@12",
+    "196523@12",
+    "211543@17",
+    "218031@12",
+    "234382@12",
+    "279311@16",
+    "320651@19",
+    "358513@12",
+    "1988644@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1525,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

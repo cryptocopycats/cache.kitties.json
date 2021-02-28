@@ -1,0 +1,32 @@
+{
+  "id": 128412,
+  "name": "Fancy Boi (check children)",
+  "generation": 9,
+  "created_at": "2017-12-07T12:57:20.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Fancy Boi (check children) here. I'm here to enjoy eating until I loathe myself and grooming. I was voted biggest teacher's pet in college. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "59980@8",
+  "sire": "120508@8",
+  "children": [
+    "129358@10",
+    "239049@14",
+    "255687@10",
+    "276710@10",
+    "294813@10",
+    "312316@10",
+    "335321@10",
+    "387079@17",
+    "412981@10",
+    "518221@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1507,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

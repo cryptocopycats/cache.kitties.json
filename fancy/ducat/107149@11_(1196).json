@@ -1,0 +1,29 @@
+{
+  "id": 107149,
+  "name": "RARE 100% (Pure)",
+  "generation": 11,
+  "created_at": "2017-12-06T08:23:56.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! RARE 100% (Pure) here. I'm here to enjoy glaring at the neighbour's cat and spinning sick beats. When no one's home, I invite my pals over and we listen to Gloria Estefan. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "100424@10",
+  "sire": "100900@4",
+  "children": [
+    "178354@12",
+    "185453@12",
+    "195722@12",
+    "227787@12",
+    "271625@12",
+    "311427@12",
+    "380142@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1196,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

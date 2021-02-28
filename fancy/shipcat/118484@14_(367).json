@@ -1,0 +1,29 @@
+{
+  "id": 118484,
+  "name": "Spam..y",
+  "generation": 14,
+  "created_at": "2017-12-07T00:13:21.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Spam..y. I believe the world is flat. I once dreamed of being a Dispensary Clerk. Now I can be found prank-calling celebrities all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "111149@13",
+  "sire": "53221@10",
+  "children": [
+    "121685@15",
+    "136818@15",
+    "161444@19",
+    "180466@15",
+    "216657@15",
+    "353596@22",
+    "401934@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 367,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 115187,
+  "name": "Shipcat #359 Gen 2",
+  "generation": 2,
+  "created_at": "2017-12-06T20:34:06.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Shipcat #359 Gen 2. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "39182@1",
+  "sire": "24360@1",
+  "children": [
+    "217721@3",
+    "220209@3",
+    "223994@3",
+    "225381@3",
+    "235862@3",
+    "252577@3",
+    "313480@3",
+    "323578@3",
+    "343006@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 359,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

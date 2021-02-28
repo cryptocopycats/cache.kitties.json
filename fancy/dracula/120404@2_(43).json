@@ -1,0 +1,25 @@
+{
+  "id": 120404,
+  "name": "#43 2nd GEN 2",
+  "generation": 2,
+  "created_at": "2017-12-07T02:47:43.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm #43 2nd GEN 2. I'm a professional Dispensary Clerk and I love lasagna. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be seductive, stinky, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "101636@1",
+  "sire": "117583@1",
+  "children": [
+    "141228@3",
+    "151890@3",
+    "577880@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 43,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

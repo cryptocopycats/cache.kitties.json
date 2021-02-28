@@ -1,0 +1,25 @@
+{
+  "id": 110149,
+  "name": "Catoshi Nakamoto",
+  "generation": 18,
+  "created_at": "2017-12-06T12:36:25.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Catoshi Nakamoto. In high school, I was voted school jock. When I'm not braiding people's hair, I'm swiping right! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "74540@16",
+  "sire": "66015@17",
+  "children": [
+    "238097@19",
+    "291912@22",
+    "318740@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 346,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

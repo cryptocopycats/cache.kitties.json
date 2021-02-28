@@ -1,0 +1,23 @@
+{
+  "id": 112055,
+  "name": "RARE Fancy Sailor",
+  "generation": 13,
+  "created_at": "2017-12-06T15:34:00.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm RARE Fancy Sailor. All you need to know about me is I hate cantaloupe with a passion. In my free time, I can usually be found prickly or volunteering at the local kitten rescue shelter. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "67770@11",
+  "sire": "105543@12",
+  "children": [
+    "165416@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 352,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

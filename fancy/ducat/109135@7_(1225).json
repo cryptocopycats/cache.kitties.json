@@ -1,0 +1,23 @@
+{
+  "id": 109135,
+  "name": "Bird - G7 - VIRGIN",
+  "generation": 7,
+  "created_at": "2017-12-06T11:03:35.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Bird - G7 - VIRGIN. I believe the world is flat. I put soy sauce on everything. Like, everything: hot dogs, steak—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "73975@5",
+  "sire": "58544@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1225,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

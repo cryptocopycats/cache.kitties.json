@@ -1,0 +1,24 @@
+{
+  "id": 119998,
+  "name": "Bird Kitty! Stranger Things",
+  "generation": 12,
+  "created_at": "2017-12-07T01:59:49.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! Bird Kitty! Stranger Things here. I'm here to enjoy shakin' dat booty and watching Stranger Things. I once made a goose trot. Our friendship will be wondrous, preposterous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118609@11",
+  "sire": "108581@11",
+  "children": [
+    "145118@13",
+    "157954@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1384,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 109876,
+  "name": "Meow Give Me Peace",
+  "generation": 8,
+  "created_at": "2017-12-06T12:13:14.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Meow Give Me Peace. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Princess Diana. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "105170@7",
+  "sire": "23130@5",
+  "children": [
+    "282628@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 345,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

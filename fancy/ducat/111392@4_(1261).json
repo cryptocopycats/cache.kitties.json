@@ -1,0 +1,33 @@
+{
+  "id": 111392,
+  "name": "Purebred ChiCat",
+  "generation": 4,
+  "created_at": "2017-12-06T14:37:16.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Purebred ChiCat. I'm often referred to as the Homer Simpson of the group. When I'm not swiping right, I'm reading Danielle Steele! Our friendship will be brilliant, raunchy, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109482@3",
+  "sire": "107703@3",
+  "children": [
+    "112784@5",
+    "114047@5",
+    "116401@5",
+    "125404@5",
+    "127274@7",
+    "140037@5",
+    "182294@5",
+    "193430@5",
+    "413121@5",
+    "419724@6",
+    "456318@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1261,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

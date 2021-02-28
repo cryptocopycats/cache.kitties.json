@@ -1,0 +1,25 @@
+{
+  "id": 118031,
+  "name": "Schnu's Fancy Duckitty",
+  "generation": 4,
+  "created_at": "2017-12-06T23:45:27.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Schnu's Fancy Duckitty. I enjoy reading garfield, grooming, and being a nevernude. I am 13% gremlin, 79% Foreign Film Director, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112096@3",
+  "sire": "117026@3",
+  "children": [
+    "133193@5",
+    "150854@9",
+    "151802@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1354,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

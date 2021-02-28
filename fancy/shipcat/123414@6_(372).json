@@ -1,0 +1,23 @@
+{
+  "id": 123414,
+  "name": "Popeye",
+  "generation": 6,
+  "created_at": "2017-12-07T06:38:47.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Popeye here. I'm here to enjoy spinning sick beats and taking selfies. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the soy sauce to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "75508@5",
+  "sire": "107711@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 372,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

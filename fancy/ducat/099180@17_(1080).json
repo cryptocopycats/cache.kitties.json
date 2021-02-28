@@ -1,0 +1,23 @@
+{
+  "id": 99180,
+  "name": "FANCY BIRD (EXTREMELY RARE)",
+  "generation": 17,
+  "created_at": "2017-12-06T00:54:01.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm FANCY BIRD (EXTREMELY RARE). I've never told anyone this, but I once frolicked with a dog. I like to listen to Mariah Carey while grooming. Don't judge me. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93900@7",
+  "sire": "91602@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1080,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 122688,
+  "name": "报喜鸟688",
+  "generation": 9,
+  "created_at": "2017-12-07T05:46:16.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm 报喜鸟688. All you need to know about me is I hate salad with a passion. Some people say I'm the Jon Snow of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "50069@7",
+  "sire": "113752@8",
+  "children": [
+    "124527@10",
+    "400413@10",
+    "400795@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1428,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

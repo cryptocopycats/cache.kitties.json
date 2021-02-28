@@ -1,0 +1,32 @@
+{
+  "id": 133130,
+  "name": "Mattrosskinn",
+  "generation": 6,
+  "created_at": "2017-12-07T18:00:07.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! Mattrosskinn here. I'm here to enjoy watching Stranger Things and being a nevernude. My friends describe me as \"vegan.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "125640@5",
+  "sire": "106593@5",
+  "children": [
+    "133826@7",
+    "134772@7",
+    "135868@7",
+    "138519@7",
+    "155586@7",
+    "166208@7",
+    "180156@7",
+    "236179@14",
+    "341755@10",
+    "439627@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 398,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

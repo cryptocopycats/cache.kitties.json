@@ -1,0 +1,29 @@
+{
+  "id": 108375,
+  "name": "G4 | Mintgreen Duck",
+  "generation": 4,
+  "created_at": "2017-12-06T09:59:30.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's G4 | Mintgreen Duck. I once peed on Nelson Mandela's cat. They had it coming. My secret indulgence is salad. Our friendship will be wondrous, fabulous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19603@3",
+  "sire": "25353@3",
+  "children": [
+    "137921@5",
+    "153895@5",
+    "154960@5",
+    "158632@5",
+    "161386@5",
+    "199829@5",
+    "218096@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1214,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

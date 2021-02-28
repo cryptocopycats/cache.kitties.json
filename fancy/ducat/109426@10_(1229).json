@@ -1,0 +1,23 @@
+{
+  "id": 109426,
+  "name": "Gen10 | FANCY DUCK",
+  "generation": 10,
+  "created_at": "2017-12-06T11:28:13.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Gen10 | FANCY DUCK here. I'm here to enjoy staying woke and eating lasagna. Sometimes I daydream of a life full of fighting the patriarchy, cantaloupe, and riverdancing. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "72911@9",
+  "sire": "84328@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1229,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

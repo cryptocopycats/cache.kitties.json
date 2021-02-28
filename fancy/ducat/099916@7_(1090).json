@@ -1,0 +1,31 @@
+{
+  "id": 99916,
+  "name": "Moltres",
+  "generation": 7,
+  "created_at": "2017-12-06T01:27:36.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Moltres. I enjoy reading garfield, slappin' da bass, and spinning sick beats. When no one's home, I invite my pals over and we listen to Frank Sinatra. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41191@5",
+  "sire": "41923@6",
+  "children": [
+    "140221@8",
+    "142456@8",
+    "144083@8",
+    "159524@8",
+    "166273@8",
+    "205572@8",
+    "249572@10",
+    "275789@14",
+    "322577@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1090,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

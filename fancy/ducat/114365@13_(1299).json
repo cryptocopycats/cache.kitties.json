@@ -1,0 +1,24 @@
+{
+  "id": 114365,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-06T19:18:04.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #114365. I enjoy watching Stranger Things, fighting for the people, and picking on mice. I like to listen to Aretha Franklin while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55640@11",
+  "sire": "89005@12",
+  "children": [
+    "122897@14",
+    "207780@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1299,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

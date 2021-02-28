@@ -1,0 +1,24 @@
+{
+  "id": 117128,
+  "name": "A PLANE? A BIRD!",
+  "generation": 18,
+  "created_at": "2017-12-06T22:54:34.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm A PLANE? A BIRD!. I'm a Private Dancer  by day, and I like braiding people's hair by night. I once dreamed of being a Train Conductor. Now I can be found riding the bus all day. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "75600@17",
+  "sire": "88104@16",
+  "children": [
+    "172437@19",
+    "1107003@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1341,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 106051,
+  "name": "COUNT DRACULA",
+  "generation": 9,
+  "created_at": "2017-12-06T07:16:16.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm COUNT DRACULA. I'm often referred to as the Bart Simpson of the group. Some people say I'm the Bart Simpson of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "41639@8",
+  "sire": "50588@6",
+  "children": [
+    "125249@10",
+    "205930@10",
+    "240712@10",
+    "382167@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 31,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

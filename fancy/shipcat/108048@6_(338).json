@@ -1,0 +1,23 @@
+{
+  "id": 108048,
+  "name": "Sailor 3/5",
+  "generation": 6,
+  "created_at": "2017-12-06T09:35:31.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Sailor 3/5. I've never told anyone this, but I once licked a dog. I'm convinced that the world is flat. One day I'll prove it. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "33141@5",
+  "sire": "35640@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 338,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 98412,
+  "name": "⚡ McBirds!⚡",
+  "generation": 8,
+  "created_at": "2017-12-06T00:17:53.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm ⚡ McBirds!⚡. I'm often referred to as the Michael Scott of the group. I once licked a rhino. I don't like to talk about it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "75758@6",
+  "sire": "71536@7",
+  "children": [
+    "101367@10",
+    "106236@9",
+    "107676@9",
+    "130288@9",
+    "160744@9",
+    "192122@9",
+    "276054@9",
+    "341416@9",
+    "352980@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1068,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

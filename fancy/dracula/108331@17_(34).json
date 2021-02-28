@@ -1,0 +1,24 @@
+{
+  "id": 108331,
+  "name": "Nospurratu, Elder Vampire Cat",
+  "generation": 17,
+  "created_at": "2017-12-06T09:55:48.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Nospurratu, Elder Vampire Cat. I believe the world is flat. My secret indulgence is chocolate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "71962@16",
+  "sire": "63932@14",
+  "children": [
+    "173601@18",
+    "352330@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 34,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

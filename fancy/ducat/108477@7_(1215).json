@@ -1,0 +1,23 @@
+{
+  "id": 108477,
+  "name": "New Duck Line B",
+  "generation": 7,
+  "created_at": "2017-12-06T10:10:57.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! New Duck Line B here. I'm here to enjoy hitting on yo' man and fighting the patriarchy. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "102034@6",
+  "sire": "61887@6",
+  "children": [
+    "108977@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1215,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

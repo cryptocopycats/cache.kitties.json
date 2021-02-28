@@ -1,0 +1,27 @@
+{
+  "id": 120845,
+  "name": "🏆🐤 Gold Bird! 🐤🏆",
+  "generation": 5,
+  "created_at": "2017-12-07T03:26:03.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm 🏆🐤 Gold Bird! 🐤🏆. I'm often referred to as the Marge Simpson of the group. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "120295@1",
+  "sire": "111634@4",
+  "children": [
+    "229635@6",
+    "232834@6",
+    "235199@6",
+    "239310@6",
+    "243505@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1400,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

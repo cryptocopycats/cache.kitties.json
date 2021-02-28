@@ -1,0 +1,29 @@
+{
+  "id": 130697,
+  "name": "85 Duckorld",
+  "generation": 12,
+  "created_at": "2017-12-07T15:30:05.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm 85 Duckorld. I'm often referred to as the Homer Simpson of the group. I put garlic butter on everything. Like, everything: hot dogs, apple pie—everything! Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37747@11",
+  "sire": "41706@11",
+  "children": [
+    "139300@15",
+    "151693@13",
+    "303045@14",
+    "323472@15",
+    "991663@13",
+    "1720919@13",
+    "1777324@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1538,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

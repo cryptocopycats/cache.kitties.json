@@ -1,0 +1,23 @@
+{
+  "id": 132688,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-07T17:36:07.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #132688. All you need to know about me is I hate cantaloupe with a passion. When no one's home, I invite my pals over and we listen to Aretha Franklin. I look forward to shakin' dat booty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "58196@8",
+  "sire": "128454@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1568,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

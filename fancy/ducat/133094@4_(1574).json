@@ -1,0 +1,23 @@
+{
+  "id": 133094,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-07T17:57:11.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #133094. My friends describe me as tantalizing and preposterous. In my free time, I can usually be found annoying or watching reality tv. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "127349@3",
+  "sire": "130499@3",
+  "children": [
+    "133681@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1574,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

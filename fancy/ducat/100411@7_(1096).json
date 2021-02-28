@@ -1,0 +1,30 @@
+{
+  "id": 100411,
+  "name": "Dmosinee",
+  "generation": 7,
+  "created_at": "2017-12-06T01:50:03.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Dmosinee. My friends describe me as gorgeous and fabulous. I am 86% hobbit, 30% Dispensary Clerk, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98791@6",
+  "sire": "72097@6",
+  "children": [
+    "107087@13",
+    "113248@13",
+    "116695@13",
+    "125353@13",
+    "146514@13",
+    "185182@13",
+    "265680@13",
+    "447450@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1096,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

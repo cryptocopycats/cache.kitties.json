@@ -1,0 +1,32 @@
+{
+  "id": 127800,
+  "name": "Brian Hougen",
+  "generation": 8,
+  "created_at": "2017-12-07T12:18:51.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Brian Hougen. I believe that one day cats will rule this planet. Some people say I'm the Steve Urkel of the group. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110886@7",
+  "sire": "68982@7",
+  "children": [
+    "128462@9",
+    "146269@9",
+    "159388@9",
+    "161836@9",
+    "167058@9",
+    "223653@9",
+    "228272@9",
+    "271744@9",
+    "375483@11",
+    "388326@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1497,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

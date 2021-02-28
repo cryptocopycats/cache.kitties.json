@@ -1,0 +1,24 @@
+{
+  "id": 113248,
+  "name": "Not sure if I'm a cat",
+  "generation": 13,
+  "created_at": "2017-12-06T17:23:15.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Not sure if I'm a cat. I enjoy breakdancing, reciting poetry, and licking doorknobs. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "100411@7",
+  "sire": "99526@12",
+  "children": [
+    "191664@14",
+    "283695@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1288,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

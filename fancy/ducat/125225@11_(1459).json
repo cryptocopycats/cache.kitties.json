@@ -1,0 +1,24 @@
+{
+  "id": 125225,
+  "name": "G11 Vampire Bloodline RARE",
+  "generation": 11,
+  "created_at": "2017-12-07T08:42:33.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's G11 Vampire Bloodline RARE. I once peed on Amelia Earhart's cat. They had it coming. I am 9% oracle, 49% Dogwalker, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "84393@10",
+  "sire": "123377@10",
+  "children": [
+    "149493@17",
+    "171572@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1459,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

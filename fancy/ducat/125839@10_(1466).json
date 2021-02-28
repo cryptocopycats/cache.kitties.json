@@ -1,0 +1,28 @@
+{
+  "id": 125839,
+  "name": "Penny",
+  "generation": 10,
+  "created_at": "2017-12-07T09:49:15.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Penny. I enjoy fighting for the people, sweating through my feet, and sitting on your computer. Some people say I'm the Michael Scott of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125559@7",
+  "sire": "125287@9",
+  "children": [
+    "128604@11",
+    "136608@11",
+    "142330@14",
+    "180614@12",
+    "254795@11",
+    "284335@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1466,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

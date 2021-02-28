@@ -1,0 +1,23 @@
+{
+  "id": 119554,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-07T01:33:14.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #119554. In high school, I was voted biggest teacher's pet. I once tricked a platypus. I don't like to talk about it. I look forward to watching Stranger Things with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97050@20",
+  "sire": "26811@20",
+  "children": [
+    "163970@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1376,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

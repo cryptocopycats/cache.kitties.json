@@ -1,0 +1,28 @@
+{
+  "id": 111294,
+  "name": "Exclusive Bird",
+  "generation": 9,
+  "created_at": "2017-12-06T14:26:36.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Exclusive Bird. My friends describe me as brilliant and wondrous. I am 5% troll, 72% Dispensary Clerk, and otherwise bad at math. Our friendship will be brilliant, wondrous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "57210@5",
+  "sire": "47890@8",
+  "children": [
+    "111637@10",
+    "113202@10",
+    "132500@13",
+    "134689@14",
+    "142092@10",
+    "1105163@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1258,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

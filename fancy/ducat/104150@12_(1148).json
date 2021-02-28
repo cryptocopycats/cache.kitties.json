@@ -1,0 +1,25 @@
+{
+  "id": 104150,
+  "name": "G12 | 2B (Vamp Line)",
+  "generation": 12,
+  "created_at": "2017-12-06T05:30:23.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! G12 | 2B (Vamp Line) here. I'm here to enjoy spinning sick beats and being a nevernude. When I'm not tricking babies, I'm people-watching! I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "83558@10",
+  "sire": "81502@11",
+  "children": [
+    "142413@16",
+    "160297@13",
+    "184859@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1148,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

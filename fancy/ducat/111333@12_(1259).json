@@ -1,0 +1,26 @@
+{
+  "id": 111333,
+  "name": "72 G12 Duckorfio",
+  "generation": 12,
+  "created_at": "2017-12-06T14:30:23.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm 72 G12 Duckorfio. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41706@11",
+  "sire": "37747@11",
+  "children": [
+    "290367@14",
+    "302331@15",
+    "547812@15",
+    "565172@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1259,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 131640,
+  "name": "www.goodkitty.net",
+  "generation": 21,
+  "created_at": "2017-12-07T16:29:45.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm www.goodkitty.net. I enjoy eating lasagna, picking flowers, and eating until I loathe myself. Some people say I'm the Ron Weasley of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "85744@20",
+  "sire": "88609@18",
+  "children": [
+    "552043@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 394,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

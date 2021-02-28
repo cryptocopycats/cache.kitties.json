@@ -1,0 +1,33 @@
+{
+  "id": 104800,
+  "name": "🏆 Cheap Fancy Virgin Duck! 🦆",
+  "generation": 5,
+  "created_at": "2017-12-06T06:06:12.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm 🏆 Cheap Fancy Virgin Duck! 🦆. I'm a Private Dancer  by day, and I like running a podcast by night. When I'm not swiping left, I'm volunteering at the local kitten rescue shelter! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "99023@4",
+  "sire": "60520@4",
+  "children": [
+    "112561@6",
+    "115629@6",
+    "117666@6",
+    "136693@6",
+    "143023@6",
+    "173546@6",
+    "178814@6",
+    "205452@6",
+    "269444@6",
+    "354896@12",
+    "465577@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1161,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

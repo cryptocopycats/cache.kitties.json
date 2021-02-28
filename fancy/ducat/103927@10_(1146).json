@@ -1,0 +1,31 @@
+{
+  "id": 103927,
+  "name": "#1146",
+  "generation": 10,
+  "created_at": "2017-12-06T05:22:10.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! My name's #1146. I once peed on Nelson Mandela's cat. They had it coming. Sometimes I daydream of a life full of glaring at the neighbour's cat, salad, and braiding people's hair. Our friendship will be preposterous, tantalizing, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "76249@7",
+  "sire": "101072@9",
+  "children": [
+    "106925@11",
+    "114534@11",
+    "120070@11",
+    "175411@11",
+    "207317@11",
+    "212555@11",
+    "250497@11",
+    "338166@11",
+    "647181@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1146,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 127156,
+  "name": "#1,487 OF 10,000  4th Gen",
+  "generation": 4,
+  "created_at": "2017-12-07T11:27:15.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! My name's #1,487 OF 10,000  4th Gen. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Bart Simpson of the group. I hope we can be gullible friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26617@3",
+  "sire": "113207@3",
+  "children": [
+    "135259@6",
+    "148843@14",
+    "333132@6",
+    "498751@5",
+    "500768@7",
+    "629705@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1487,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

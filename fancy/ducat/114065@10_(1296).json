@@ -1,0 +1,28 @@
+{
+  "id": 114065,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-06T18:48:54.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #114065. I'm often referred to as the Lisa Simpson of the group. I once dreamed of being a Ventriloquist. Now I can be found swiping left all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110001@8",
+  "sire": "112576@9",
+  "children": [
+    "115995@12",
+    "119826@11",
+    "131113@11",
+    "141094@11",
+    "254097@11",
+    "279691@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1296,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

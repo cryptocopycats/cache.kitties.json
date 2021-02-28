@@ -1,0 +1,29 @@
+{
+  "id": 104427,
+  "name": "🔱Dracula #28",
+  "generation": 14,
+  "created_at": "2017-12-06T05:46:39.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm 🔱Dracula #28. In high school, I was voted school jock. I put cinammon on everything. Like, everything: hot dogs, lasagna—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "19552@13",
+  "sire": "6078@1",
+  "children": [
+    "183454@15",
+    "193220@15",
+    "196762@15",
+    "256152@17",
+    "286725@18",
+    "333676@15",
+    "375929@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 28,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

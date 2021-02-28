@@ -1,0 +1,28 @@
+{
+  "id": 101501,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-06T02:56:49.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #101501. I enjoy chasing string, glaring at the neighbour's cat, and riding dirty. In my free time, I can usually be found smelly or riverdancing. Our friendship will be raunchy, preposterous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "92695@8",
+  "sire": "74904@4",
+  "children": [
+    "113272@12",
+    "118880@12",
+    "122144@12",
+    "124106@12",
+    "159223@13",
+    "169781@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1119,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

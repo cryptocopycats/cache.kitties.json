@@ -1,0 +1,30 @@
+{
+  "id": 126040,
+  "name": "G6 Duck Cat 🦆 RARE",
+  "generation": 6,
+  "created_at": "2017-12-07T10:04:37.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm G6 Duck Cat 🦆 RARE. In high school, I was voted most likely to work at NASA. I once made a rooster scare. Can you make my wondrous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119613@3",
+  "sire": "44007@5",
+  "children": [
+    "126301@7",
+    "196222@7",
+    "202966@7",
+    "222403@7",
+    "250712@7",
+    "285614@7",
+    "306847@7",
+    "428182@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1467,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

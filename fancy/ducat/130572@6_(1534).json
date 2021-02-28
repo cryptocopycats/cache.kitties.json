@@ -1,0 +1,25 @@
+{
+  "id": 130572,
+  "name": "G6 | Bub | spo bug",
+  "generation": 6,
+  "created_at": "2017-12-07T15:19:37.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm G6 | Bub | spo bug. My friends describe me as voluptuous and brilliant. I put marmite on everything. Like, everything: hot dogs, apple pie—everything! I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "130280@5",
+  "sire": "26591@5",
+  "children": [
+    "130969@7",
+    "137409@7",
+    "268904@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1534,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

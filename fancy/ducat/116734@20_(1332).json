@@ -1,0 +1,23 @@
+{
+  "id": 116734,
+  "name": "happy kitchen",
+  "generation": 20,
+  "created_at": "2017-12-06T22:34:21.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's happy kitchen. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Cersei Lannister of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "101951@19",
+  "sire": "100677@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1332,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

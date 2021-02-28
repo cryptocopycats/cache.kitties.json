@@ -1,0 +1,24 @@
+{
+  "id": 118199,
+  "name": "Jack Spurrrows",
+  "generation": 9,
+  "created_at": "2017-12-06T23:57:15.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Jack Spurrrows. I'm a professional Skydiving Instructor and I love cereal. I once made a platypus scare. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "95116@8",
+  "sire": "102463@8",
+  "children": [
+    "189887@10",
+    "210286@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 365,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

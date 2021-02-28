@@ -1,0 +1,32 @@
+{
+  "id": 112482,
+  "name": "BirbCat",
+  "generation": 11,
+  "created_at": "2017-12-06T16:17:27.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm BirbCat. I've never told anyone this, but I once cleaned a dog. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "108061@10",
+  "sire": "71541@7",
+  "children": [
+    "124228@12",
+    "137852@23",
+    "157903@13",
+    "201601@13",
+    "233065@13",
+    "284029@20",
+    "288384@13",
+    "410878@13",
+    "447322@12",
+    "1106540@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1279,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

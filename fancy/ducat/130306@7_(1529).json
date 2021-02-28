@@ -1,0 +1,32 @@
+{
+  "id": 130306,
+  "name": "Chicken",
+  "generation": 7,
+  "created_at": "2017-12-07T15:01:26.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! My name's Chicken. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Lisa Simpson of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "129940@3",
+  "sire": "128890@6",
+  "children": [
+    "243973@8",
+    "250357@9",
+    "253710@11",
+    "258046@12",
+    "270832@12",
+    "288712@19",
+    "295595@11",
+    "324001@22",
+    "340510@8",
+    "366468@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1529,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

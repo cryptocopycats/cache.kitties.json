@@ -1,0 +1,31 @@
+{
+  "id": 103407,
+  "name": "Gen5 Rare FANCY DUCK Virgin",
+  "generation": 5,
+  "created_at": "2017-12-06T04:53:48.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen5 Rare FANCY DUCK Virgin. All you need to know about me is I hate chocolate with a passion. I once got in a fight with a moose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "102684@4",
+  "sire": "101938@4",
+  "children": [
+    "171322@6",
+    "171697@6",
+    "182318@6",
+    "185671@6",
+    "200546@6",
+    "207654@6",
+    "222544@6",
+    "255060@7",
+    "292361@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1143,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

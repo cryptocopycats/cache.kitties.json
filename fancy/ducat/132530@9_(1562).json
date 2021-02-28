@@ -1,0 +1,30 @@
+{
+  "id": 132530,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-07T17:29:01.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #132530. My friends describe me as despicable and smelly. Some people say I'm the Ross Geller of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "113565@8",
+  "sire": "128000@3",
+  "children": [
+    "137177@12",
+    "150607@15",
+    "154251@13",
+    "318009@10",
+    "323340@14",
+    "340518@10",
+    "409388@21",
+    "423466@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1562,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

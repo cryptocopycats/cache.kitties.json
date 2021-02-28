@@ -1,0 +1,26 @@
+{
+  "id": 130849,
+  "name": "Admiral MEW",
+  "generation": 6,
+  "created_at": "2017-12-07T15:38:00.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Admiral MEW. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of sweating through my feet, salad, and braiding people's hair. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "53823@5",
+  "sire": "64151@5",
+  "children": [
+    "208401@7",
+    "208850@7",
+    "210018@7",
+    "234433@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 390,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

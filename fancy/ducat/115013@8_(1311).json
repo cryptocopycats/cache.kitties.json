@@ -1,0 +1,30 @@
+{
+  "id": 115013,
+  "name": "GEN8 FANCY BIRD",
+  "generation": 8,
+  "created_at": "2017-12-06T20:18:00.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! GEN8 FANCY BIRD here. I'm here to enjoy staying woke and fighting for the people. I once dreamed of being a Aerobics Athlete . Now I can be found people-watching all day. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "44643@7",
+  "sire": "39238@7",
+  "children": [
+    "121755@9",
+    "122738@9",
+    "133246@9",
+    "137793@9",
+    "166003@9",
+    "178943@9",
+    "202686@9",
+    "236539@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1311,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

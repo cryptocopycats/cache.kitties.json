@@ -1,0 +1,25 @@
+{
+  "id": 118156,
+  "name": "The Twitter Bird",
+  "generation": 10,
+  "created_at": "2017-12-06T23:51:49.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm The Twitter Bird. In high school, I was voted most likely to work at NASA. I once got in a fight with a rabbit, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "80024@9",
+  "sire": "116684@7",
+  "children": [
+    "164507@11",
+    "169954@11",
+    "179295@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1356,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

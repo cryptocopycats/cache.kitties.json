@@ -1,0 +1,24 @@
+{
+  "id": 125055,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-07T08:30:42.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #125055. I'm often referred to as the Niles Crane of the group. Some people say I'm the Niles Crane of the group. I look forward to staying woke with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74130@21",
+  "sire": "92285@13",
+  "children": [
+    "156326@23",
+    "322616@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1458,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

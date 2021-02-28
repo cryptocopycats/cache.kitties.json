@@ -1,0 +1,29 @@
+{
+  "id": 134135,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-07T19:01:48.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #134135. I enjoy riding unicorns, picking flowers, and fighting for the people. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132576@5",
+  "sire": "132552@4",
+  "children": [
+    "137451@8",
+    "138602@8",
+    "140362@8",
+    "154958@8",
+    "586591@7",
+    "602296@13",
+    "647673@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1593,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 121126,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-07T03:49:29.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Kitty #121126. I once peed on Mother Theresa's cat. They had it coming. I once made a rooster dance. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "18@0",
+  "sire": "38326@11",
+  "children": [
+    "123372@13",
+    "163783@13",
+    "175045@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1403,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

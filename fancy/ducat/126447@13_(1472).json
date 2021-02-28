@@ -1,0 +1,26 @@
+{
+  "id": 126447,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-07T10:36:26.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #126447. All you need to know about me is I hate cereal with a passion. I would give it all up to star in a soap opera. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117822@12",
+  "sire": "104559@12",
+  "children": [
+    "128484@14",
+    "132893@14",
+    "142463@14",
+    "260429@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1472,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

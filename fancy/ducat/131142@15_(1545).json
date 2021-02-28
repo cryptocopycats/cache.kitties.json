@@ -1,0 +1,24 @@
+{
+  "id": 131142,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-07T15:57:47.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #131142. In high school, I was voted school jock. I'm often described as prickly, and I own it. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "130288@9",
+  "sire": "122645@14",
+  "children": [
+    "135785@16",
+    "260083@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1545,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

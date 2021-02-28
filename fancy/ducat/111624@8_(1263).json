@@ -1,0 +1,30 @@
+{
+  "id": 111624,
+  "name": "Pure Bred",
+  "generation": 8,
+  "created_at": "2017-12-06T14:56:34.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! My name's Pure Bred. I once peed on Princess Diana's cat. They had it coming. Sometimes I daydream of a life full of being a nevernude, cereal, and talking about how much I lift. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41536@7",
+  "sire": "43890@6",
+  "children": [
+    "113242@9",
+    "114034@9",
+    "118524@11",
+    "124288@9",
+    "206392@9",
+    "284270@9",
+    "358564@10",
+    "388640@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1263,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

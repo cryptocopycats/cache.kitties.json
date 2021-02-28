@@ -1,0 +1,23 @@
+{
+  "id": 124034,
+  "name": "DuckDad DuckChild ProvenDucky",
+  "generation": 14,
+  "created_at": "2017-12-07T07:19:40.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm DuckDad DuckChild ProvenDucky. My friends describe me as hairy and fabulous. Sometimes I daydream of a life full of licking doorknobs, apple pie, and swiping right. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "84040@12",
+  "sire": "118998@13",
+  "children": [
+    "125624@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1443,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 126062,
+  "name": "Frankenweenie - MOST VALUABLE",
+  "generation": 4,
+  "created_at": "2017-12-07T10:05:15.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Frankenweenie - MOST VALUABLE. In high school, I was voted biggest teacher's pet. I once licked a rabbit. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "114187@3",
+  "sire": "31165@3",
+  "children": [
+    "258585@5",
+    "258966@5",
+    "260545@5",
+    "263322@5",
+    "266752@5",
+    "281728@5",
+    "292557@5",
+    "488689@5",
+    "566201@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 57,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

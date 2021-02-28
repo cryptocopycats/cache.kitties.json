@@ -1,0 +1,23 @@
+{
+  "id": 100785,
+  "name": "Bloodred Mauve Bird",
+  "generation": 17,
+  "created_at": "2017-12-06T02:14:47.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Bloodred Mauve Bird. I want to live in a world where people believe the world is flat. I was voted school jock in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34695@8",
+  "sire": "87852@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1105,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

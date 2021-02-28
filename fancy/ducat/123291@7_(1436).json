@@ -1,0 +1,31 @@
+{
+  "id": 123291,
+  "name": "Fancy Wings",
+  "generation": 7,
+  "created_at": "2017-12-07T06:30:08.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Fancy Wings. All you need to know about me is I hate lasagna with a passion. My friends describe me as \"raunchy.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117124@6",
+  "sire": "54794@6",
+  "children": [
+    "124234@8",
+    "124842@8",
+    "128728@8",
+    "130366@8",
+    "137459@8",
+    "142456@8",
+    "159524@8",
+    "217605@8",
+    "301349@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1436,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

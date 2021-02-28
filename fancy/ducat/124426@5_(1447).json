@@ -1,0 +1,28 @@
+{
+  "id": 124426,
+  "name": "Colonel Sanders",
+  "generation": 5,
+  "created_at": "2017-12-07T07:45:05.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Colonel Sanders. I once peed on Mother Theresa's cat. They had it coming. I put pickles on everything. Like, everything: hot dogs, lasagna—everything! Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "124139@4",
+  "sire": "111964@4",
+  "children": [
+    "159155@6",
+    "257527@6",
+    "258581@6",
+    "259924@6",
+    "263303@6",
+    "269257@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1447,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 111409,
+  "name": "3Cym Simple3  Ducat#1262 G8",
+  "generation": 8,
+  "created_at": "2017-12-06T14:37:27.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm 3Cym Simple3  Ducat#1262 G8. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Will you be the maple syrup to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63276@7",
+  "sire": "89596@7",
+  "children": [
+    "157380@9",
+    "260311@9",
+    "268459@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1262,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

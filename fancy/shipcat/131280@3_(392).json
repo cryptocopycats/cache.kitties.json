@@ -1,0 +1,24 @@
+{
+  "id": 131280,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-07T16:07:25.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #131280. All you need to know about me is I hate wet food with a passion. I'm often described as voluptuous, and I own it. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "53987@2",
+  "sire": "78047@2",
+  "children": [
+    "132261@6",
+    "132597@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 392,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

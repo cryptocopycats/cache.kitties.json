@@ -1,0 +1,27 @@
+{
+  "id": 106143,
+  "name": "Hawkie",
+  "generation": 15,
+  "created_at": "2017-12-06T07:20:35.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Hawkie. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Princess Diana. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78235@11",
+  "sire": "87975@14",
+  "children": [
+    "114477@16",
+    "118144@16",
+    "147563@16",
+    "174656@16",
+    "268457@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1178,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

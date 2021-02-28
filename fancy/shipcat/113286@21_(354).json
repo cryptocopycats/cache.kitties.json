@@ -1,0 +1,27 @@
+{
+  "id": 113286,
+  "name": "SailorMeow",
+  "generation": 21,
+  "created_at": "2017-12-06T17:29:31.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm SailorMeow. In high school, I was voted school jock. I once loved a moose. I don't like to talk about it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "72715@20",
+  "sire": "19792@14",
+  "children": [
+    "224222@22",
+    "234995@22",
+    "290692@22",
+    "405157@22",
+    "412474@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 354,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

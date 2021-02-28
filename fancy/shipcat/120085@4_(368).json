@@ -1,0 +1,24 @@
+{
+  "id": 120085,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-07T02:06:38.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #120085. I've never told anyone this, but I once groomed a dog. I once got in a fight with a chimpanzee, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "118911@3",
+  "sire": "119048@3",
+  "children": [
+    "126108@10",
+    "133422@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 368,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

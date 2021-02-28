@@ -1,0 +1,28 @@
+{
+  "id": 123324,
+  "name": "💎 Kitty Chicken 💎",
+  "generation": 9,
+  "created_at": "2017-12-07T06:32:54.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm 💎 Kitty Chicken 💎. I'm a Aerobics Athlete  by day, and I like running a podcast by night. I am 47% wizard, 6% Private Dancer , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "122605@8",
+  "sire": "122237@8",
+  "children": [
+    "125574@10",
+    "128072@11",
+    "139059@10",
+    "143822@10",
+    "156206@14",
+    "264947@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1437,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

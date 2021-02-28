@@ -1,0 +1,23 @@
+{
+  "id": 126549,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-07T10:45:23.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #126549. I'm often referred to as the Hermione Granger of the group. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97279@4",
+  "sire": "121870@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1474,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

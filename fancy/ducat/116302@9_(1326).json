@@ -1,0 +1,25 @@
+{
+  "id": 116302,
+  "name": "Gen9 BIRD! VIRGIN",
+  "generation": 9,
+  "created_at": "2017-12-06T22:11:30.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Gen9 BIRD! VIRGIN. I'm often referred to as the Dwight Schrute of the group. I put cinammon on everything. Like, everything: hot dogs, cantaloupe—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109007@8",
+  "sire": "112114@8",
+  "children": [
+    "164507@11",
+    "169954@11",
+    "179295@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1326,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

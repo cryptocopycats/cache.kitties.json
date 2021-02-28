@@ -1,0 +1,30 @@
+{
+  "id": 130931,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-07T15:43:07.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #130931. I'm often referred to as the Michael Scott of the group. In my free time, I can usually be found voluptuous or sleeping in fresh laundry. Our friendship will be tantalizing, prickly, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "67084@5",
+  "sire": "93412@5",
+  "children": [
+    "132415@7",
+    "133400@7",
+    "198490@7",
+    "211544@7",
+    "228014@7",
+    "245310@7",
+    "267892@7",
+    "290705@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 64,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

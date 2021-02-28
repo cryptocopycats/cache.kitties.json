@@ -1,0 +1,23 @@
+{
+  "id": 100129,
+  "name": "Meowlard",
+  "generation": 6,
+  "created_at": "2017-12-06T01:37:13.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Meowlard. My friends describe me as brilliant and smelly. In my free time, I can usually be found stinky or running a podcast. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94859@5",
+  "sire": "86643@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1093,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

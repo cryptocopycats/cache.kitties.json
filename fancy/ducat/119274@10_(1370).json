@@ -1,0 +1,24 @@
+{
+  "id": 119274,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-07T01:10:10.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! My name's Kitty #119274. I once peed on Confucius's cat. They had it coming. I would give it all up for a Chanel purse. Will you be the garlic butter to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115593@8",
+  "sire": "115097@9",
+  "children": [
+    "141312@12",
+    "171024@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1370,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

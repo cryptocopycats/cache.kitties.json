@@ -1,0 +1,26 @@
+{
+  "id": 114369,
+  "name": "Rare cat",
+  "generation": 4,
+  "created_at": "2017-12-06T19:18:23.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Rare cat. In high school, I was voted most likely to work at NASA. I once groomed a rabbit. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "91313@3",
+  "sire": "90826@3",
+  "children": [
+    "295779@5",
+    "304823@5",
+    "310587@5",
+    "336625@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1300,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

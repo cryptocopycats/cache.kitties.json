@@ -1,0 +1,25 @@
+{
+  "id": 134106,
+  "name": "The cat birds 猫神鸟",
+  "generation": 4,
+  "created_at": "2017-12-07T19:00:13.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm The cat birds 猫神鸟. My friends describe me as petulant and gorgeous. I once dreamed of being a Train Conductor. Now I can be found prank-calling celebrities all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131615@3",
+  "sire": "49021@3",
+  "children": [
+    "178059@5",
+    "179435@5",
+    "180785@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1591,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

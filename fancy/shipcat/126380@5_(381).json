@@ -1,0 +1,33 @@
+{
+  "id": 126380,
+  "name": "Kitty #126380",
+  "generation": 5,
+  "created_at": "2017-12-07T10:33:12.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #126380. I'm a professional Ventriloquist and I love ice cream. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I look forward to tripping my owner with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "119738@4",
+  "sire": "125938@4",
+  "children": [
+    "127889@6",
+    "128173@6",
+    "128183@6",
+    "141570@6",
+    "150355@8",
+    "205640@6",
+    "237183@6",
+    "277519@6",
+    "299537@6",
+    "320663@9",
+    "355301@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 381,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

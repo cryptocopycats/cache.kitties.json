@@ -1,0 +1,29 @@
+{
+  "id": 99526,
+  "name": "snowby",
+  "generation": 12,
+  "created_at": "2017-12-06T01:09:38.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm snowby. I enjoy glaring at the neighbour's cat, riding unicorns, and slappin' da bass. My secret indulgence is ice cream. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78116@11",
+  "sire": "70350@11",
+  "children": [
+    "107087@13",
+    "113248@13",
+    "116695@13",
+    "125353@13",
+    "146514@13",
+    "185182@13",
+    "265680@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1086,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

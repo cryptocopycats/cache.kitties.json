@@ -1,0 +1,28 @@
+{
+  "id": 134299,
+  "name": "Cat'n Jack Sparrow",
+  "generation": 15,
+  "created_at": "2017-12-07T19:09:48.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Cat'n Jack Sparrow. I'm a professional Train Conductor and I love lasagna. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be ridiculous, prickly, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "130245@14",
+  "sire": "68104@11",
+  "children": [
+    "144343@17",
+    "154261@16",
+    "182406@16",
+    "257269@16",
+    "301342@21",
+    "324640@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 400,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

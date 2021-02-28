@@ -1,0 +1,23 @@
+{
+  "id": 116594,
+  "name": "Popeye the Sailor Kittie",
+  "generation": 19,
+  "created_at": "2017-12-06T22:26:57.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Popeye the Sailor Kittie. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be petulant, voluptuous, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "93169@18",
+  "sire": "56957@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 361,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

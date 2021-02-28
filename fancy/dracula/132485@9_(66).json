@@ -1,0 +1,33 @@
+{
+  "id": 132485,
+  "name": "Gen9 DRACULA",
+  "generation": 9,
+  "created_at": "2017-12-07T17:22:59.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen9 DRACULA. My friends describe me as preposterous and seductive. I am 44% hobbit, 14% Foreign Film Director, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "131632@8",
+  "sire": "131287@6",
+  "children": [
+    "167326@10",
+    "176250@10",
+    "212609@10",
+    "214570@10",
+    "256112@12",
+    "292457@18",
+    "310041@20",
+    "327472@10",
+    "360043@10",
+    "398505@10",
+    "1529549@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 66,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

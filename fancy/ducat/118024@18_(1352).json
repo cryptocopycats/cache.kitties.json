@@ -1,0 +1,25 @@
+{
+  "id": 118024,
+  "name": "Catchicken 1st 0,08",
+  "generation": 18,
+  "created_at": "2017-12-06T23:44:44.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Catchicken 1st 0,08. I'm a professional Mad Scientist and I love chocolate. I once pranced with a rabbit. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "87784@17",
+  "sire": "105568@17",
+  "children": [
+    "125732@19",
+    "158525@19",
+    "184298@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1352,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

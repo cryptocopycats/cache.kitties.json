@@ -1,0 +1,24 @@
+{
+  "id": 104974,
+  "name": "【Dracula Clan】#29/2000",
+  "generation": 10,
+  "created_at": "2017-12-06T06:15:55.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! 【Dracula Clan】#29/2000 here. I'm here to enjoy eating until I loathe myself and riding unicorns. My friends describe me as \"hairy.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "78763@9",
+  "sire": "30882@8",
+  "children": [
+    "114183@11",
+    "122197@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 29,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

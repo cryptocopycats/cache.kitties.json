@@ -1,0 +1,33 @@
+{
+  "id": 130751,
+  "name": "P1 Dracula G3",
+  "generation": 3,
+  "created_at": "2017-12-07T15:32:16.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm P1 Dracula G3. In high school, I was voted biggest teacher's pet. I once dreamed of being a Mad Scientist. Now I can be found swiping left all day. Our friendship will be petulant, raunchy, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "105125@2",
+  "sire": "106017@2",
+  "children": [
+    "153590@4",
+    "154537@4",
+    "156270@4",
+    "157257@5",
+    "163686@4",
+    "171631@4",
+    "185536@4",
+    "189523@4",
+    "278090@4",
+    "297789@4",
+    "333374@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 63,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

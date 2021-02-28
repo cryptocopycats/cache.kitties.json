@@ -1,0 +1,23 @@
+{
+  "id": 116986,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-06T22:48:45.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Kitty #116986. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24630@10",
+  "sire": "69748@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1334,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 124230,
+  "name": "G8 | Fancy + ShipCat",
+  "generation": 8,
+  "created_at": "2017-12-07T07:32:16.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm G8 | Fancy + ShipCat. I'm a professional Dogwalker and I love lasagna. I once loved a labradoodle. I don't like to talk about it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "84167@6",
+  "sire": "95207@7",
+  "children": [
+    "131001@14",
+    "131113@11",
+    "144688@9",
+    "156407@16",
+    "188238@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 375,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

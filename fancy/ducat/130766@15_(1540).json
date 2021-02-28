@@ -1,0 +1,30 @@
+{
+  "id": 130766,
+  "name": "Ferdinand",
+  "generation": 15,
+  "created_at": "2017-12-07T15:34:58.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Ferdinand. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Mother Theresa. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119467@14",
+  "sire": "79786@7",
+  "children": [
+    "144837@16",
+    "177235@16",
+    "200618@16",
+    "250403@16",
+    "302406@16",
+    "335612@16",
+    "435493@16",
+    "507082@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1540,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

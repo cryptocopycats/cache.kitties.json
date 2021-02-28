@@ -1,0 +1,29 @@
+{
+  "id": 134368,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-07T19:15:14.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #134368. I've never told anyone this, but I once bit a dog. I would give it all up to be on Oprah. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125385@8",
+  "sire": "119484@5",
+  "children": [
+    "139473@13",
+    "144777@10",
+    "155952@10",
+    "161583@10",
+    "170693@10",
+    "192388@12",
+    "235019@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1595,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

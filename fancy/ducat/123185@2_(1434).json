@@ -1,0 +1,31 @@
+{
+  "id": 123185,
+  "name": "Gold!! Very Rare G2",
+  "generation": 2,
+  "created_at": "2017-12-07T06:22:12.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Gold!! Very Rare G2. I've never told anyone this, but I once pawed at a dog. I'm often described as voluptuous, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "90080@1",
+  "sire": "68975@1",
+  "children": [
+    "1135355@3",
+    "1135953@3",
+    "1136046@3",
+    "1136288@3",
+    "1136767@3",
+    "1137446@3",
+    "1139345@3",
+    "1142431@3",
+    "1150817@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1434,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

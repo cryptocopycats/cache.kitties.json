@@ -1,0 +1,24 @@
+{
+  "id": 102912,
+  "name": "【Dracula Clan】#27/2000",
+  "generation": 6,
+  "created_at": "2017-12-06T04:21:12.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm 【Dracula Clan】#27/2000. I'm a Dogwalker by day, and I like riverdancing by night. I am 79% troll, 78% Spin Instructor , and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "93412@5",
+  "sire": "93655@5",
+  "children": [
+    "114183@11",
+    "122197@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 27,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

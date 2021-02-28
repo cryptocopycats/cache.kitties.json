@@ -1,0 +1,25 @@
+{
+  "id": 123835,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-07T07:08:05.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #123835. I've never told anyone this, but I once licked a dog. My friends describe me as \"brilliant.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107135@9",
+  "sire": "60684@10",
+  "children": [
+    "307763@12",
+    "314959@12",
+    "324442@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1440,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

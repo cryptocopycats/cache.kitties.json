@@ -1,0 +1,26 @@
+{
+  "id": 126750,
+  "name": "Flappy",
+  "generation": 17,
+  "created_at": "2017-12-07T10:54:58.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Flappy. In high school, I was voted school jock. I am 47% troll, 19% Skydiving Instructor, and otherwise bad at math. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115243@16",
+  "sire": "65066@10",
+  "children": [
+    "135922@18",
+    "162088@18",
+    "183076@18",
+    "229769@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1482,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 130012,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-07T14:46:08.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #130012. I'm a professional Train Conductor and I love chocolate. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63767@9",
+  "sire": "60575@7",
+  "children": [
+    "278735@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1523,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

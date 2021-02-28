@@ -1,0 +1,25 @@
+{
+  "id": 120327,
+  "name": "Duck Bird",
+  "generation": 14,
+  "created_at": "2017-12-07T02:37:11.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Duck Bird. I'm a professional Spin Instructor  and I love salad. I'm often described as seductive, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "5043@13",
+  "sire": "20913@0",
+  "children": [
+    "124186@15",
+    "141715@15",
+    "1351970@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1392,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

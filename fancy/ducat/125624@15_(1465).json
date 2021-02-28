@@ -1,0 +1,28 @@
+{
+  "id": 125624,
+  "name": "Da Da Darude DuCat",
+  "generation": 15,
+  "created_at": "2017-12-07T09:24:10.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Da Da Darude DuCat. I've never told anyone this, but I once licked a dog. I'm often described as ridiculous, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "124081@12",
+  "sire": "124034@14",
+  "children": [
+    "129383@16",
+    "203199@17",
+    "213391@16",
+    "237615@16",
+    "268249@16",
+    "768923@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1465,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

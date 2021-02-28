@@ -1,0 +1,24 @@
+{
+  "id": 128757,
+  "name": "Ducky von Hasselsnaff",
+  "generation": 14,
+  "created_at": "2017-12-07T13:24:49.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Ducky von Hasselsnaff. My friends describe me as annoying and brilliant. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125578@6",
+  "sire": "112092@13",
+  "children": [
+    "134929@15",
+    "152653@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1514,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

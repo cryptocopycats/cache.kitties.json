@@ -1,0 +1,23 @@
+{
+  "id": 110915,
+  "name": "Luckee",
+  "generation": 8,
+  "created_at": "2017-12-06T13:53:51.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Luckee. My friends describe me as petulant and wondrous. I once dreamed of being a Dispensary Clerk. Now I can be found riverdancing all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "46709@7",
+  "sire": "32415@7",
+  "children": [
+    "620617@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1254,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

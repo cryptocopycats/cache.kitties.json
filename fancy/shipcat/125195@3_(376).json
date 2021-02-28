@@ -1,0 +1,32 @@
+{
+  "id": 125195,
+  "name": "Kittybron",
+  "generation": 3,
+  "created_at": "2017-12-07T08:39:42.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kittybron. I enjoy eating lasagna, tricking babies, and grooming. Some people say I'm the Ross Geller of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "81123@2",
+  "sire": "123258@2",
+  "children": [
+    "125366@4",
+    "125402@4",
+    "125561@4",
+    "128827@4",
+    "144916@4",
+    "214370@5",
+    "234443@5",
+    "307451@4",
+    "448786@4",
+    "451263@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 376,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

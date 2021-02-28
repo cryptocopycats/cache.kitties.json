@@ -1,0 +1,23 @@
+{
+  "id": 106875,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-06T08:00:51.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #106875. In high school, I was voted most likely to work at NASA. I'm often described as brilliant, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103771@3",
+  "sire": "103956@7",
+  "children": [
+    "256437@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1191,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

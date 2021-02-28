@@ -1,0 +1,30 @@
+{
+  "id": 128274,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-07T12:51:48.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #128274. I'm a professional Foreign Film Director and I love apple pie. When no one's home, I invite my pals over and we listen to Aretha Franklin. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24793@11",
+  "sire": "119761@12",
+  "children": [
+    "130425@14",
+    "333943@14",
+    "405932@14",
+    "411255@14",
+    "447113@14",
+    "450798@14",
+    "452645@14",
+    "1105694@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1503,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

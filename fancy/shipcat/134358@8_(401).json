@@ -1,0 +1,27 @@
+{
+  "id": 134358,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-07T19:15:06.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #134358. I've never told anyone this, but I once snuggled a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I look forward to slappin' da bass with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "97055@7",
+  "sire": "66181@7",
+  "children": [
+    "135030@9",
+    "165532@9",
+    "170513@9",
+    "337253@9",
+    "365727@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 401,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

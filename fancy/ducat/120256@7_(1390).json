@@ -1,0 +1,24 @@
+{
+  "id": 120256,
+  "name": "Kitty Chick Buck",
+  "generation": 7,
+  "created_at": "2017-12-07T02:27:06.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty Chick Buck. I'm a Skydiving Instructor by day, and I like pole dancing by night. I was voted most likely to work at NASA in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "111604@4",
+  "sire": "117188@6",
+  "children": [
+    "135551@10",
+    "147321@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1390,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

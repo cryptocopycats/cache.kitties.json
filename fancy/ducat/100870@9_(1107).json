@@ -1,0 +1,32 @@
+{
+  "id": 100870,
+  "name": "Pure Breed 🦆G9",
+  "generation": 9,
+  "created_at": "2017-12-06T02:19:43.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! My name's Pure Breed 🦆G9. I once peed on Princess Diana's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Princess Diana. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "44146@8",
+  "sire": "85642@8",
+  "children": [
+    "213427@10",
+    "217752@10",
+    "222508@10",
+    "226099@10",
+    "243999@10",
+    "248927@16",
+    "286793@12",
+    "374542@10",
+    "413409@15",
+    "451069@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1107,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

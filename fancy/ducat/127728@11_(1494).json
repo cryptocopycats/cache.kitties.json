@@ -1,0 +1,24 @@
+{
+  "id": 127728,
+  "name": "Pigeon de Compete",
+  "generation": 11,
+  "created_at": "2017-12-07T12:14:36.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Pigeon de Compete. I'm a Mad Scientist by day, and I like riverdancing by night. I was voted most likely to work at NASA in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126924@10",
+  "sire": "112833@7",
+  "children": [
+    "128748@13",
+    "129362@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1494,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

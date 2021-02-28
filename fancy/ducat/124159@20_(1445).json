@@ -1,0 +1,23 @@
+{
+  "id": 124159,
+  "name": "chestnut rare parents",
+  "generation": 20,
+  "created_at": "2017-12-07T07:27:04.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm chestnut rare parents. I'm often referred to as the Bart Simpson of the group. Some people say I'm the Bart Simpson of the group. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110849@19",
+  "sire": "80037@17",
+  "children": [
+    "152348@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1445,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

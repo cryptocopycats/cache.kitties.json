@@ -1,0 +1,28 @@
+{
+  "id": 120444,
+  "name": "Christopher Lee",
+  "generation": 11,
+  "created_at": "2017-12-07T02:52:15.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Christopher Lee. I'm a professional Train Conductor and I love wet food. I once kissed a rabbit. I don't like to talk about it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "73521@10",
+  "sire": "68521@10",
+  "children": [
+    "179058@14",
+    "181118@13",
+    "211234@14",
+    "217087@12",
+    "248793@17",
+    "283147@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 44,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

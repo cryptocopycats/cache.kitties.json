@@ -1,0 +1,23 @@
+{
+  "id": 121795,
+  "name": "Fancy Duck Bird",
+  "generation": 24,
+  "created_at": "2017-12-07T04:44:25.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Fancy Duck Bird. I enjoy glaring at the neighbour's cat, slappin' da bass, and eating lasagna. Sometimes I daydream of a life full of sitting on your computer, cereal, and riverdancing. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "70666@23",
+  "sire": "28130@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1416,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

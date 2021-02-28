@@ -1,0 +1,23 @@
+{
+  "id": 108582,
+  "name": "bastard",
+  "generation": 11,
+  "created_at": "2017-12-06T10:16:01.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm bastard. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "102784@7",
+  "sire": "107623@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1217,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

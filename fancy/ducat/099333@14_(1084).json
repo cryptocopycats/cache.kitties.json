@@ -1,0 +1,25 @@
+{
+  "id": 99333,
+  "name": "fancy duck kitty",
+  "generation": 14,
+  "created_at": "2017-12-06T01:01:31.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm fancy duck kitty. I'm a professional Private Dancer  and I love steak. I once got in a fight with a rooster, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "95432@12",
+  "sire": "46335@13",
+  "children": [
+    "106760@15",
+    "395464@15",
+    "500430@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1084,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

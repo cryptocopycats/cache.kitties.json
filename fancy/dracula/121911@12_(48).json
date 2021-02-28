@@ -1,0 +1,23 @@
+{
+  "id": 121911,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-07T04:53:06.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #121911. I'm a Private Dancer  by day, and I like playing chess by night. I like to listen to Metallica while grooming. Don't judge me. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "100276@11",
+  "sire": "100691@11",
+  "children": [
+    "150273@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 48,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

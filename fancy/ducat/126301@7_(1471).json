@@ -1,0 +1,26 @@
+{
+  "id": 126301,
+  "name": "Fancy Duck-Cat",
+  "generation": 7,
+  "created_at": "2017-12-07T10:26:11.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's Fancy Duck-Cat. I once peed on Amelia Earhart's cat. They had it coming. I'm often described as petulant, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126040@6",
+  "sire": "48409@6",
+  "children": [
+    "183639@8",
+    "187523@9",
+    "206998@8",
+    "212308@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1471,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

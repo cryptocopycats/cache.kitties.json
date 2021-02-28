@@ -1,0 +1,23 @@
+{
+  "id": 108854,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-06T10:40:02.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #108854. I believe the world is flat. Sometimes I daydream of a life full of tricking babies, cereal, and riding the bus. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "96818@14",
+  "sire": "35720@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 343,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

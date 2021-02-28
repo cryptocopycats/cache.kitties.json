@@ -1,0 +1,26 @@
+{
+  "id": 134769,
+  "name": "Fancy Kitteh",
+  "generation": 16,
+  "created_at": "2017-12-07T19:40:11.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Fancy Kitteh. I'm a professional Foreign Film Director and I love apple pie. I once dreamed of being a Dispensary Clerk. Now I can be found prank-calling celebrities all day. I hope we can be tantalizing friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "123268@8",
+  "sire": "134258@15",
+  "children": [
+    "136739@17",
+    "146700@17",
+    "242679@17",
+    "308807@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1601,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

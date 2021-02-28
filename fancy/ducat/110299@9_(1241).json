@@ -1,0 +1,24 @@
+{
+  "id": 110299,
+  "name": "Applepie Ultra Rare",
+  "generation": 9,
+  "created_at": "2017-12-06T12:51:36.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Applepie Ultra Rare. I enjoy grooming, riding unicorns, and picking flowers. I like to listen to Justin Bieber while grooming. Don't judge me. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97961@7",
+  "sire": "108543@8",
+  "children": [
+    "135202@10",
+    "316007@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1241,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

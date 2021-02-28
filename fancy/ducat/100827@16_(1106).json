@@ -1,0 +1,23 @@
+{
+  "id": 100827,
+  "name": "Duck Norris",
+  "generation": 16,
+  "created_at": "2017-12-06T02:17:24.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! My name's Duck Norris. I once peed on King Henry VIII's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94362@8",
+  "sire": "32133@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1106,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

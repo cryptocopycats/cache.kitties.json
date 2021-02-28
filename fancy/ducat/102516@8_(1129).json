@@ -1,0 +1,28 @@
+{
+  "id": 102516,
+  "name": "G8 | Fancy DuCat",
+  "generation": 8,
+  "created_at": "2017-12-06T03:57:42.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm G8 | Fancy DuCat. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96357@5",
+  "sire": "99058@7",
+  "children": [
+    "105564@11",
+    "105879@10",
+    "107999@10",
+    "120290@10",
+    "196415@9",
+    "219398@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1129,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

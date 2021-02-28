@@ -1,0 +1,24 @@
+{
+  "id": 127753,
+  "name": "Requiem for a Kitty",
+  "generation": 12,
+  "created_at": "2017-12-07T12:16:00.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Requiem for a Kitty. I believe that one day cats will rule this planet. I'm often described as gorgeous, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "109411@3",
+  "sire": "112934@11",
+  "children": [
+    "128748@13",
+    "142149@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 59,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

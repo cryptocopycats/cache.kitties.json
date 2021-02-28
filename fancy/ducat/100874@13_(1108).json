@@ -1,0 +1,23 @@
+{
+  "id": 100874,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-06T02:19:43.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! Kitty #100874 here. I'm here to enjoy picking flowers and sweating through my feet. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cereal—everything! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "89037@12",
+  "sire": "76725@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1108,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

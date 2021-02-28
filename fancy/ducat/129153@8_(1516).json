@@ -1,0 +1,23 @@
+{
+  "id": 129153,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-07T13:46:58.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #129153. I'm a professional Spin Instructor  and I love lasagna. I was voted most likely to work at NASA in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "114246@7",
+  "sire": "17376@7",
+  "children": [
+    "135220@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1516,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

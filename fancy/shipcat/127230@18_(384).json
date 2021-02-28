@@ -1,0 +1,23 @@
+{
+  "id": 127230,
+  "name": "Captain Cat",
+  "generation": 18,
+  "created_at": "2017-12-07T11:33:10.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Captain Cat. My friends describe me as brilliant and stinky. I'm often described as gullible, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "65109@16",
+  "sire": "33769@17",
+  "children": [
+    "187608@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 384,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

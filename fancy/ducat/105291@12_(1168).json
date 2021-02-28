@@ -1,0 +1,25 @@
+{
+  "id": 105291,
+  "name": "Perfect gene / family3",
+  "generation": 12,
+  "created_at": "2017-12-06T06:30:30.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Perfect gene / family3. I'm a professional Dispensary Clerk and I love steak. Sometimes I daydream of a life full of picking on mice, hamburgers, and riverdancing. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103636@10",
+  "sire": "103724@11",
+  "children": [
+    "107885@13",
+    "113625@13",
+    "301194@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1168,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

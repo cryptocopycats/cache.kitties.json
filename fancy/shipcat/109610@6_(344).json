@@ -1,0 +1,23 @@
+{
+  "id": 109610,
+  "name": "Lieutenant Dan",
+  "generation": 6,
+  "created_at": "2017-12-06T11:46:25.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Lieutenant Dan. I believe that one day cats will rule this planet. My secret indulgence is cereal. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "75508@5",
+  "sire": "107711@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 344,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

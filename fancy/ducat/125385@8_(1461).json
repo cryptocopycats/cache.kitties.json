@@ -1,0 +1,31 @@
+{
+  "id": 125385,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-07T08:57:15.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #125385. I've never told anyone this, but I once clawed a dog. My secret indulgence is chocolate. I look forward to spinning sick beats with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107538@6",
+  "sire": "111878@7",
+  "children": [
+    "126400@9",
+    "127166@9",
+    "129364@9",
+    "134368@9",
+    "142329@9",
+    "148783@9",
+    "170700@9",
+    "323830@9",
+    "387971@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1461,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

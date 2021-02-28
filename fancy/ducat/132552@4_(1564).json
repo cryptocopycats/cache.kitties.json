@@ -1,0 +1,31 @@
+{
+  "id": 132552,
+  "name": "VIRGIN RARE",
+  "generation": 4,
+  "created_at": "2017-12-07T17:30:10.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm VIRGIN RARE. I believe that one day cats will rule this planet. I am 10% fairy, 42% Spin Instructor , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131615@3",
+  "sire": "117026@3",
+  "children": [
+    "133467@6",
+    "133912@6",
+    "134135@6",
+    "135217@6",
+    "139312@6",
+    "141345@8",
+    "161859@9",
+    "586678@5",
+    "609975@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1564,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

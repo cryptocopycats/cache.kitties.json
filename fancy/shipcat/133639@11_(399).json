@@ -1,0 +1,26 @@
+{
+  "id": 133639,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-07T18:35:25.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #133639. I'm a professional Dispensary Clerk and I love chocolate. My friends describe me as \"prickly.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "114942@10",
+  "sire": "116165@10",
+  "children": [
+    "162961@12",
+    "195350@12",
+    "215625@12",
+    "221749@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 399,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

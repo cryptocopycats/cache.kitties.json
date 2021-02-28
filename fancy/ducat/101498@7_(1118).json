@@ -1,0 +1,23 @@
+{
+  "id": 101498,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-06T02:56:49.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #101498. In high school, I was voted most likely to work at NASA. I once pranced with a labradoodle. I don't like to talk about it. Can you make my brilliant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "88009@3",
+  "sire": "100530@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1118,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 131563,
+  "name": "Caesar [ Fancy Swift G3 ]",
+  "generation": 3,
+  "created_at": "2017-12-07T16:25:45.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Caesar [ Fancy Swift G3 ]. I'm often referred to as the Bart Simpson of the group. I once got in a fight with a gecko, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126255@2",
+  "sire": "128933@2",
+  "children": [
+    "237438@4",
+    "239710@4",
+    "240074@4",
+    "245148@4",
+    "246450@4",
+    "248554@4",
+    "254825@4",
+    "273838@4",
+    "281289@4",
+    "308936@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1551,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

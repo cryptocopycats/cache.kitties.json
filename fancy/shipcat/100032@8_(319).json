@@ -1,0 +1,23 @@
+{
+  "id": 100032,
+  "name": "🌟Sailor🌟 KITTEH",
+  "generation": 8,
+  "created_at": "2017-12-06T01:32:51.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's 🌟Sailor🌟 KITTEH. I once peed on Confucius's cat. They had it coming. I'm often described as fabulous, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "98194@7",
+  "sire": "98715@7",
+  "children": [
+    "201651@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 319,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

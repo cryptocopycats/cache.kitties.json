@@ -1,0 +1,23 @@
+{
+  "id": 130735,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-07T15:30:40.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #130735. I'm a Train Conductor by day, and I like braiding people's hair by night. I am 67% fairy, 12% Culinary Sanitation Specialist, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "127746@7",
+  "sire": "128335@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1539,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

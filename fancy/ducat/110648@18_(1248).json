@@ -1,0 +1,23 @@
+{
+  "id": 110648,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-06T13:31:13.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Kitty #110648. I once peed on Mother Theresa's cat. They had it coming. I once made a rhino scare. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98572@17",
+  "sire": "38749@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1248,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

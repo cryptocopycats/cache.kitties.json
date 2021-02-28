@@ -1,0 +1,28 @@
+{
+  "id": 103156,
+  "name": "Quackers",
+  "generation": 10,
+  "created_at": "2017-12-06T04:37:53.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Quackers. My friends describe me as petulant and seductive. When I'm not mocking dogs, I'm prank-calling celebrities! Will you be the maple syrup to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "60422@9",
+  "sire": "58409@9",
+  "children": [
+    "246830@11",
+    "257327@11",
+    "260224@12",
+    "280377@17",
+    "286304@11",
+    "305435@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1138,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

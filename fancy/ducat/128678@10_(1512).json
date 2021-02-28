@@ -1,0 +1,27 @@
+{
+  "id": 128678,
+  "name": "Food?",
+  "generation": 10,
+  "created_at": "2017-12-07T13:19:14.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Food?. I'm a Culinary Sanitation Specialist by day, and I like reading Danielle Steele by night. My friends describe me as \"wondrous.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "114064@9",
+  "sire": "92046@9",
+  "children": [
+    "130064@11",
+    "133957@11",
+    "143668@11",
+    "166611@11",
+    "206630@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1512,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

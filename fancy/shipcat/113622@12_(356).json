@@ -1,0 +1,23 @@
+{
+  "id": 113622,
+  "name": "Captain Kitty (Rare)",
+  "generation": 12,
+  "created_at": "2017-12-06T17:59:24.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Captain Kitty (Rare) here. I'm here to enjoy chasing red dots and sitting on your computer. I once dreamed of being a Mad Scientist. Now I can be found prank-calling celebrities all day. I hope we can be annoying friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "71414@11",
+  "sire": "11208@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 356,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

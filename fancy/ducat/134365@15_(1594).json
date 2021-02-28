@@ -1,0 +1,26 @@
+{
+  "id": 134365,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-07T19:15:06.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #134365. I enjoy reciting poetry, breakdancing, and riding unicorns. I once got in a fight with a goose, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "92530@14",
+  "sire": "89838@14",
+  "children": [
+    "300951@17",
+    "316415@17",
+    "335740@17",
+    "564558@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1594,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

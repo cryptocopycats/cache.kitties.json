@@ -1,0 +1,23 @@
+{
+  "id": 99767,
+  "name": "New Bird Line",
+  "generation": 8,
+  "created_at": "2017-12-06T01:20:52.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm New Bird Line. I enjoy grooming, staying woke, and sitting on your computer. When I'm not tricking babies, I'm mocking dogs! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "88678@7",
+  "sire": "65730@7",
+  "children": [
+    "109528@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1089,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

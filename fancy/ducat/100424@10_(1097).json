@@ -1,0 +1,28 @@
+{
+  "id": 100424,
+  "name": "RARE 100% (Pure)",
+  "generation": 10,
+  "created_at": "2017-12-06T01:50:18.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! RARE 100% (Pure) here. I'm here to enjoy being a nevernude and reciting poetry. When no one's home, I invite my pals over and we listen to Michael Bolton. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78287@9",
+  "sire": "76771@8",
+  "children": [
+    "104347@11",
+    "107149@11",
+    "110312@11",
+    "185484@11",
+    "279010@11",
+    "323352@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1097,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

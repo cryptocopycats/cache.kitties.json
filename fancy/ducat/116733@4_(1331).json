@@ -1,0 +1,30 @@
+{
+  "id": 116733,
+  "name": "Scrooge",
+  "generation": 4,
+  "created_at": "2017-12-06T22:34:21.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Scrooge here. I'm here to enjoy eating lasagna and spinning sick beats. I'm often described as smelly, and I own it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "57992@3",
+  "sire": "111816@3",
+  "children": [
+    "133295@5",
+    "175299@5",
+    "184755@5",
+    "186496@5",
+    "214499@5",
+    "251368@5",
+    "288659@5",
+    "323655@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1331,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

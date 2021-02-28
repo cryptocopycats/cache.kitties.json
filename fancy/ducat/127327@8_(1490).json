@@ -1,0 +1,26 @@
+{
+  "id": 127327,
+  "name": "8 duck",
+  "generation": 8,
+  "created_at": "2017-12-07T11:37:57.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm 8 duck. All you need to know about me is I hate cereal with a passion. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "50069@7",
+  "sire": "33643@3",
+  "children": [
+    "132469@11",
+    "141502@9",
+    "143210@9",
+    "154536@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1490,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

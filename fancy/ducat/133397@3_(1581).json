@@ -1,0 +1,27 @@
+{
+  "id": 133397,
+  "name": "100% Rare Kitties",
+  "generation": 3,
+  "created_at": "2017-12-07T18:14:55.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm 100% Rare Kitties. In high school, I was voted school jock. I once made a gecko play. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121225@2",
+  "sire": "132307@2",
+  "children": [
+    "134014@4",
+    "147931@4",
+    "161351@4",
+    "164302@4",
+    "204861@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1581,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

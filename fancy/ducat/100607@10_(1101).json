@@ -1,0 +1,26 @@
+{
+  "id": 100607,
+  "name": "G10 | Fancy Child + Parent",
+  "generation": 10,
+  "created_at": "2017-12-06T02:03:45.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm G10 | Fancy Child + Parent. I enjoy glaring at the neighbour's cat, licking doorknobs, and taking selfies. My friends describe me as \"ridiculous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "73745@5",
+  "sire": "99091@9",
+  "children": [
+    "102622@11",
+    "115092@11",
+    "126260@11",
+    "168204@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1101,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

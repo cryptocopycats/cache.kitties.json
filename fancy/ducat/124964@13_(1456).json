@@ -1,0 +1,23 @@
+{
+  "id": 124964,
+  "name": "Fancy Pants Sizzurp",
+  "generation": 13,
+  "created_at": "2017-12-07T08:25:09.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Fancy Pants Sizzurp. I enjoy riding unicorns, watching Stranger Things, and grooming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "54400@12",
+  "sire": "119737@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1456,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

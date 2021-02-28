@@ -1,0 +1,27 @@
+{
+  "id": 118998,
+  "name": "Rare Duck",
+  "generation": 13,
+  "created_at": "2017-12-07T00:51:09.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Rare Duck. I once peed on Mother Theresa's cat. They had it coming. I once made a chimpanzee leap. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118317@9",
+  "sire": "118014@12",
+  "children": [
+    "119878@14",
+    "124034@14",
+    "131035@16",
+    "257243@14",
+    "259871@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1365,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

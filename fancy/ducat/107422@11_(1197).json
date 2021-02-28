@@ -1,0 +1,23 @@
+{
+  "id": 107422,
+  "name": "CatADoodleDoo",
+  "generation": 11,
+  "created_at": "2017-12-06T08:42:27.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! My name's CatADoodleDoo. I once peed on Princess Diana's cat. They had it coming. I once got in a fight with a dog, and won. Can you make my hairy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98840@10",
+  "sire": "98766@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1197,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

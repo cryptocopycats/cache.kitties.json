@@ -1,0 +1,23 @@
+{
+  "id": 124383,
+  "name": "out of thin air",
+  "generation": 12,
+  "created_at": "2017-12-07T07:42:57.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm out of thin air. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "123365@11",
+  "sire": "123437@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1446,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

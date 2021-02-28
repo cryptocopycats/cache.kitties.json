@@ -1,0 +1,23 @@
+{
+  "id": 130011,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-07T14:46:08.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #130011. I've never told anyone this, but I once snuggled a dog. I once got in a fight with a platypus, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109652@16",
+  "sire": "114081@5",
+  "children": [
+    "238294@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1522,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

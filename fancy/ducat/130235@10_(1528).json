@@ -1,0 +1,24 @@
+{
+  "id": 130235,
+  "name": "Crazie Birde!",
+  "generation": 10,
+  "created_at": "2017-12-07T14:57:37.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Crazie Birde!. I'm a Train Conductor by day, and I like riding the bus by night. I once dreamed of being a Aerobics Athlete . Now I can be found tricking babies all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "95047@7",
+  "sire": "59210@9",
+  "children": [
+    "453040@11",
+    "454082@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1528,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

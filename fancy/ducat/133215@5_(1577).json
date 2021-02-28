@@ -1,0 +1,23 @@
+{
+  "id": 133215,
+  "name": "Aviapurr",
+  "generation": 5,
+  "created_at": "2017-12-07T18:03:00.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Aviapurr. My friends describe me as gullible and wondrous. I once got in a fight with a platypus, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "86450@4",
+  "sire": "130601@4",
+  "children": [
+    "133512@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1577,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

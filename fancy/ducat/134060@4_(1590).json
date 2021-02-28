@@ -1,0 +1,25 @@
+{
+  "id": 134060,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-07T18:58:50.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #134060. I enjoy licking doorknobs, slappin' da bass, and chasing red dots. I am 13% wizard, 55% Skydiving Instructor, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121677@3",
+  "sire": "133270@3",
+  "children": [
+    "139853@5",
+    "239207@5",
+    "255869@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1590,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

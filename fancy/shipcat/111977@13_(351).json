@@ -1,0 +1,26 @@
+{
+  "id": 111977,
+  "name": "Devo",
+  "generation": 13,
+  "created_at": "2017-12-06T15:26:33.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's Devo. I once peed on Amelia Earhart's cat. They had it coming. Sometimes I daydream of a life full of fighting the patriarchy, apple pie, and siring for status. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "71404@12",
+  "sire": "71268@12",
+  "children": [
+    "113666@14",
+    "116853@14",
+    "124933@14",
+    "552049@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 351,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

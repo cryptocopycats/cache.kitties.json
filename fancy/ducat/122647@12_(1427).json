@@ -1,0 +1,23 @@
+{
+  "id": 122647,
+  "name": "RARE Gen 12 Fancy Cat Duck",
+  "generation": 12,
+  "created_at": "2017-12-07T05:44:04.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm RARE Gen 12 Fancy Cat Duck. In high school, I was voted most likely to work at NASA. When I'm not volunteering at the local kitten rescue shelter, I'm reading Danielle Steele! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109575@11",
+  "sire": "108359@11",
+  "children": [
+    "124435@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1427,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

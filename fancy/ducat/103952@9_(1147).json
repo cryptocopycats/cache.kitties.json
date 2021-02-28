@@ -1,0 +1,27 @@
+{
+  "id": 103952,
+  "name": "✨Fancy Bird G9✨",
+  "generation": 9,
+  "created_at": "2017-12-06T05:23:08.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! My name's ✨Fancy Bird G9✨. I once peed on Princess Diana's cat. They had it coming. In my free time, I can usually be found raunchy or talking about how much I lift. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103322@6",
+  "sire": "47890@8",
+  "children": [
+    "125722@10",
+    "126723@10",
+    "170986@10",
+    "192344@10",
+    "224280@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1147,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

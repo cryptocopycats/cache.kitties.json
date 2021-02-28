@@ -1,0 +1,23 @@
+{
+  "id": 98704,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-06T00:33:20.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! Kitty #98704 here. I'm here to enjoy licking doorknobs and taking selfies. I once made a labradoodle leap. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "22678@21",
+  "sire": "48161@18",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1072,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

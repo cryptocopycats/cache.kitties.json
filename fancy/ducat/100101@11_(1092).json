@@ -1,0 +1,27 @@
+{
+  "id": 100101,
+  "name": "😻BEST DUCKCAT😻",
+  "generation": 11,
+  "created_at": "2017-12-06T01:35:57.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 😻BEST DUCKCAT😻. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found tantalizing or reading Danielle Steele. I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "73572@10",
+  "sire": "33954@10",
+  "children": [
+    "124836@12",
+    "138801@12",
+    "148256@12",
+    "174799@13",
+    "194604@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1092,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

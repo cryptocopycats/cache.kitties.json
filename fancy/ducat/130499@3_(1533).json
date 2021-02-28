@@ -1,0 +1,30 @@
+{
+  "id": 130499,
+  "name": "Palo Cat",
+  "generation": 3,
+  "created_at": "2017-12-07T15:16:47.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Palo Cat. I've never told anyone this, but I once licked a dog. I am 75% troll, 57% Foreign Film Director, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125096@2",
+  "sire": "128066@2",
+  "children": [
+    "130935@4",
+    "131275@4",
+    "132929@4",
+    "133094@4",
+    "135712@4",
+    "143008@4",
+    "248473@4",
+    "255889@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1533,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

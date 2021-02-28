@@ -1,0 +1,23 @@
+{
+  "id": 101892,
+  "name": "Superchicken",
+  "generation": 15,
+  "created_at": "2017-12-06T03:20:47.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Superchicken. In high school, I was voted school jock. I once got in a fight with a rabbit, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "17076@14",
+  "sire": "54281@10",
+  "children": [
+    "111358@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1122,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 106168,
+  "name": "Virgin G7 Duck",
+  "generation": 7,
+  "created_at": "2017-12-06T07:21:05.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Virgin G7 Duck. I'm a professional Dogwalker and I love hamburgers. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! Our friendship will be fabulous, preposterous, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "77858@6",
+  "sire": "77339@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1179,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

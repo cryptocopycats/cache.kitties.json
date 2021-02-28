@@ -1,0 +1,26 @@
+{
+  "id": 100617,
+  "name": "Kitty 100617",
+  "generation": 1,
+  "created_at": "2017-12-06T02:03:45.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! Kitty 100617 here. I'm here to enjoy sweating through my feet and breakdancing. I like to listen to Wutang while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "1491@0",
+  "sire": "1460@0",
+  "children": [
+    "165285@2",
+    "178926@2",
+    "209829@2",
+    "241228@2"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 320,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 124648,
+  "name": "Virgin Bird",
+  "generation": 11,
+  "created_at": "2017-12-07T08:03:17.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Virgin Bird. I once peed on Amelia Earhart's cat. They had it coming. I am 91% elf, 14% Train Conductor, and otherwise bad at math. Our friendship will be annoying, voluptuous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "64628@5",
+  "sire": "77945@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1451,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

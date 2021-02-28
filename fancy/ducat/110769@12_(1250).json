@@ -1,0 +1,25 @@
+{
+  "id": 110769,
+  "name": "Fancy G12 Brisk",
+  "generation": 12,
+  "created_at": "2017-12-06T13:41:38.000Z",
+  "birthday": "2017-12-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Fancy G12 Brisk. I'm a professional Private Dancer  and I love wet food. I would give it all up for a Chanel purse. Will you be the cinammon to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109691@11",
+  "sire": "109400@10",
+  "children": [
+    "133539@13",
+    "143105@13",
+    "175442@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1250,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
