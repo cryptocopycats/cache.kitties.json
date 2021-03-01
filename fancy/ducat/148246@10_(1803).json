@@ -1,0 +1,29 @@
+{
+  "id": 148246,
+  "name": "Dukila",
+  "generation": 10,
+  "created_at": "2017-12-08T08:57:34.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Dukila. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "127263@9",
+  "sire": "140472@9",
+  "children": [
+    "259232@11",
+    "326182@20",
+    "366481@20",
+    "381457@11",
+    "388583@11",
+    "512172@11",
+    "518461@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1803,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

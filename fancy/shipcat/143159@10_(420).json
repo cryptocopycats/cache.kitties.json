@@ -1,0 +1,28 @@
+{
+  "id": 143159,
+  "name": "SailorCat 100% Unknown 7",
+  "generation": 10,
+  "created_at": "2017-12-08T03:31:22.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm SailorCat 100% Unknown 7. I've never told anyone this, but I once pranced with a dog. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "60586@7",
+  "sire": "135613@9",
+  "children": [
+    "145587@11",
+    "169307@11",
+    "174826@13",
+    "178322@11",
+    "190552@15",
+    "560942@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 420,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

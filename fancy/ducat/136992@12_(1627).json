@@ -1,0 +1,26 @@
+{
+  "id": 136992,
+  "name": "CatBirb",
+  "generation": 12,
+  "created_at": "2017-12-07T21:52:41.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm CatBirb. I'm a Spin Instructor  by day, and I like watching reality tv by night. I once made a labradoodle kiss. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119318@11",
+  "sire": "92663@11",
+  "children": [
+    "233065@13",
+    "288384@13",
+    "298555@13",
+    "410878@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1627,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 162180,
+  "name": "CaliCoonDreams",
+  "generation": 16,
+  "created_at": "2017-12-08T20:49:49.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm CaliCoonDreams. In high school, I was voted most likely to work at NASA. I once got in a fight with a labradoodle, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "124404@8",
+  "sire": "131196@15",
+  "children": [
+    "220206@17",
+    "267671@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2017,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 136285,
+  "name": "Rare Duck Kitty",
+  "generation": 11,
+  "created_at": "2017-12-07T21:08:39.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Rare Duck Kitty. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once groomed a goose. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131251@8",
+  "sire": "134275@10",
+  "children": [
+    "139387@12",
+    "142593@12",
+    "159966@14",
+    "173685@14",
+    "176936@12",
+    "259748@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1621,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

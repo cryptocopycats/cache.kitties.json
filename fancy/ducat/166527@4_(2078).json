@@ -1,0 +1,23 @@
+{
+  "id": 166527,
+  "name": "fancy ducky DuCat gold parent",
+  "generation": 4,
+  "created_at": "2017-12-09T00:09:37.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm fancy ducky DuCat gold parent. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Mother Theresa. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "164382@3",
+  "sire": "163246@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2078,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

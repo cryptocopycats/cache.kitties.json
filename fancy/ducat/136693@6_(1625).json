@@ -1,0 +1,30 @@
+{
+  "id": 136693,
+  "name": "Breed",
+  "generation": 6,
+  "created_at": "2017-12-07T21:31:12.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Breed. I want to live in a world where people believe the world is flat. I once made a goose sulk. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "104800@5",
+  "sire": "27950@5",
+  "children": [
+    "142942@7",
+    "155873@7",
+    "162497@7",
+    "186013@7",
+    "247529@7",
+    "260040@7",
+    "280115@7",
+    "307568@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1625,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

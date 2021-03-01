@@ -1,0 +1,23 @@
+{
+  "id": 156115,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-08T15:56:33.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #156115. I've never told anyone this, but I once pranced with a dog. I once dreamed of being a Private Dancer . Now I can be found reading Danielle Steele all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "144812@4",
+  "sire": "108733@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 441,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

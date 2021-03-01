@@ -1,0 +1,29 @@
+{
+  "id": 154095,
+  "name": "Birdy McBird Face",
+  "generation": 8,
+  "created_at": "2017-12-08T14:01:12.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Birdy McBird Face. In high school, I was voted school jock. My friends describe me as \"smelly.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "47375@7",
+  "sire": "105386@6",
+  "children": [
+    "154904@9",
+    "179066@10",
+    "183353@10",
+    "190036@10",
+    "208012@10",
+    "379227@10",
+    "386560@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1885,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

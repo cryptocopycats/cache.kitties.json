@@ -1,0 +1,31 @@
+{
+  "id": 161135,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-08T20:08:36.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #161135. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Michael Bolton. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71325@4",
+  "sire": "123708@4",
+  "children": [
+    "171322@6",
+    "171697@6",
+    "182318@6",
+    "185671@6",
+    "200546@6",
+    "207654@6",
+    "222544@6",
+    "257705@7",
+    "304570@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1997,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

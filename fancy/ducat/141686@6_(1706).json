@@ -1,0 +1,23 @@
+{
+  "id": 141686,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-08T01:50:07.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's Kitty #141686. I once peed on Nelson Mandela's cat. They had it coming. I would give it all up to be on Oprah. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135448@5",
+  "sire": "136209@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1706,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

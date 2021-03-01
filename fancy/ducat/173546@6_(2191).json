@@ -1,0 +1,29 @@
+{
+  "id": 173546,
+  "name": "Kitty Bird",
+  "generation": 6,
+  "created_at": "2017-12-09T05:43:29.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty Bird. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Private Dancer . Now I can be found reading Danielle Steele all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27950@5",
+  "sire": "104800@5",
+  "children": [
+    "201731@8",
+    "204658@7",
+    "207233@8",
+    "217909@7",
+    "223563@7",
+    "243999@10",
+    "264137@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2191,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

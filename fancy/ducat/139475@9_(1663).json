@@ -1,0 +1,23 @@
+{
+  "id": 139475,
+  "name": "Snappy Duck Kitty!",
+  "generation": 9,
+  "created_at": "2017-12-07T23:50:36.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Snappy Duck Kitty!. I'm a professional Private Dancer  and I love apple pie. When I'm not swiping right, I'm sleeping in fresh laundry! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135514@5",
+  "sire": "138602@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1663,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

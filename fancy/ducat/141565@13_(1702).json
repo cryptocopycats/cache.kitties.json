@@ -1,0 +1,27 @@
+{
+  "id": 141565,
+  "name": "Fancy / sale !!!",
+  "generation": 13,
+  "created_at": "2017-12-08T01:43:35.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Fancy / sale !!!. I've never told anyone this, but I once groomed a dog. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "138801@12",
+  "sire": "139148@12",
+  "children": [
+    "154862@14",
+    "177395@16",
+    "177751@17",
+    "325010@14",
+    "1106553@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1702,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

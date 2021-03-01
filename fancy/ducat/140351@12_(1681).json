@@ -1,0 +1,26 @@
+{
+  "id": 140351,
+  "name": "Chicken Shit",
+  "generation": 12,
+  "created_at": "2017-12-08T00:34:27.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Chicken Shit. I'm often referred to as the Michael Scott of the group. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Our friendship will be vegan, stinky, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "138235@6",
+  "sire": "138469@11",
+  "children": [
+    "141804@13",
+    "162607@16",
+    "198723@13",
+    "839826@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1681,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

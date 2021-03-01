@@ -1,0 +1,23 @@
+{
+  "id": 141560,
+  "name": "RARE Fancy Bird DuCat Lineage",
+  "generation": 13,
+  "created_at": "2017-12-08T01:43:16.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm RARE Fancy Bird DuCat Lineage. I'm a professional Skydiving Instructor and I love ice cream. I like to listen to Gloria Estefan while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117822@12",
+  "sire": "104559@12",
+  "children": [
+    "247414@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1701,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 157826,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-08T17:06:46.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #157826. I enjoy breakdancing, reciting poetry, and taking selfies. When I'm not jump-roping, I'm playing chess! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "124473@7",
+  "sire": "155876@7",
+  "children": [
+    "171710@10",
+    "174479@9",
+    "187730@9",
+    "196186@9",
+    "217069@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1938,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

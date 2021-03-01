@@ -1,0 +1,26 @@
+{
+  "id": 136089,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-07T20:57:36.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #136089. My friends describe me as fabulous and voluptuous. My secret indulgence is cantaloupe. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98923@5",
+  "sire": "132221@5",
+  "children": [
+    "192761@7",
+    "195549@7",
+    "229094@7",
+    "1969463@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1617,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 173527,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-09T05:42:52.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #173527. I'm often referred to as the Ross Geller of the group. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172762@3",
+  "sire": "27027@3",
+  "children": [
+    "175850@5",
+    "176140@5",
+    "183278@8",
+    "263207@5",
+    "266825@5",
+    "270010@5",
+    "286388@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2190,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 141439,
+  "name": "[G9] CryptoChicken",
+  "generation": 9,
+  "created_at": "2017-12-08T01:37:25.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm [G9] CryptoChicken. I'm a professional Train Conductor and I love steak. I once dreamed of being a Private Dancer . Now I can be found jump-roping all day. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "140435@8",
+  "sire": "129372@7",
+  "children": [
+    "144933@10",
+    "253669@14",
+    "259339@14",
+    "1104901@10",
+    "1106911@10",
+    "1111341@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1698,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

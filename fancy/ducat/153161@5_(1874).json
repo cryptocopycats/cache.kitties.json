@@ -1,0 +1,29 @@
+{
+  "id": 153161,
+  "name": "Fluffy",
+  "generation": 5,
+  "created_at": "2017-12-08T13:14:01.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Fluffy. I'm a professional Culinary Sanitation Specialist and I love chocolate. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "145734@4",
+  "sire": "123460@4",
+  "children": [
+    "155466@6",
+    "160030@6",
+    "282838@6",
+    "322407@8",
+    "325153@6",
+    "360258@6",
+    "410034@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1874,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 148427,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-08T09:05:08.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! Kitty #148427 here. I'm here to enjoy shakin' dat booty and chasing red dots. Some people say I'm the Lisa Simpson of the group. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "101264@6",
+  "sire": "73745@5",
+  "children": [
+    "156844@8",
+    "179883@8",
+    "186366@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1805,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 142762,
+  "name": "Fancy bird #1",
+  "generation": 8,
+  "created_at": "2017-12-08T03:01:44.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Fancy bird #1. My friends describe me as gullible and wondrous. In my free time, I can usually be found despicable or playing chess. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112364@7",
+  "sire": "131655@7",
+  "children": [
+    "160315@9",
+    "170104@9",
+    "174706@9",
+    "182988@9",
+    "265205@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1729,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

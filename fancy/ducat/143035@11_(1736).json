@@ -1,0 +1,30 @@
+{
+  "id": 143035,
+  "name": "Spurrrrina",
+  "generation": 11,
+  "created_at": "2017-12-08T03:20:28.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Spurrrrina. I'm a professional Aerobics Athlete  and I love ice cream. I once kissed a rabbit. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136589@9",
+  "sire": "136342@10",
+  "children": [
+    "199420@13",
+    "203101@14",
+    "211196@12",
+    "217811@12",
+    "258185@12",
+    "261227@12",
+    "309260@15",
+    "343718@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1736,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

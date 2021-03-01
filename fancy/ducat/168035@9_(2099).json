@@ -1,0 +1,27 @@
+{
+  "id": 168035,
+  "name": "Gen 9 Bubble Gum Duck!",
+  "generation": 9,
+  "created_at": "2017-12-09T01:18:15.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Gen 9 Bubble Gum Duck!. I believe the world is flat. Some people say I'm the Lisa Simpson of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "143506@7",
+  "sire": "153514@8",
+  "children": [
+    "186792@10",
+    "198779@11",
+    "203314@11",
+    "225081@10",
+    "286941@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2099,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

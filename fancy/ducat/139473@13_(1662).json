@@ -1,0 +1,26 @@
+{
+  "id": 139473,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-07T23:50:36.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #139473. I'm often referred to as the Michael Scott of the group. I am 44% wizard, 5% Ventriloquist, and otherwise bad at math. Will you be the maple syrup to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "134368@9",
+  "sire": "93222@12",
+  "children": [
+    "142922@14",
+    "144842@14",
+    "166452@14",
+    "247727@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1662,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

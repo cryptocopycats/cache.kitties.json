@@ -1,0 +1,25 @@
+{
+  "id": 160535,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-08T19:29:11.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Kitty #160535. I once peed on John F. Kennedy Jr.'s cat. They had it coming. My secret indulgence is hamburgers. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "153511@3",
+  "sire": "33364@3",
+  "children": [
+    "161866@5",
+    "207917@5",
+    "224872@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1989,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

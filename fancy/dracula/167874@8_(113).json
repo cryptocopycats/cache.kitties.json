@@ -1,0 +1,25 @@
+{
+  "id": 167874,
+  "name": "G8 | Fancy + Dracula",
+  "generation": 8,
+  "created_at": "2017-12-09T01:11:40.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm G8 | Fancy + Dracula. I believe that one day cats will rule this planet. I put peanut butter on everything. Like, everything: hot dogs, salad—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "125368@7",
+  "sire": "163311@7",
+  "children": [
+    "172834@9",
+    "176559@14",
+    "185759@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 113,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

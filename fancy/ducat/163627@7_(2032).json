@@ -1,0 +1,31 @@
+{
+  "id": 163627,
+  "name": "Ducky",
+  "generation": 7,
+  "created_at": "2017-12-08T21:49:55.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Ducky. I'm a Dispensary Clerk by day, and I like swiping left by night. When no one's home, I invite my pals over and we listen to Mariah Carey. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "77858@6",
+  "sire": "112561@6",
+  "children": [
+    "164285@8",
+    "166032@8",
+    "169165@8",
+    "190760@8",
+    "208201@8",
+    "221375@26",
+    "284669@8",
+    "316890@8",
+    "993818@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2032,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 144507,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-08T05:34:08.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Kitty #144507 here. I'm here to enjoy staying woke and eating lasagna. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be hairy, despicable, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "135827@6",
+  "sire": "120214@9",
+  "children": [
+    "169131@11",
+    "192725@11",
+    "204377@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 80,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

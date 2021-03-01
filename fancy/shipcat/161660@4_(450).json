@@ -1,0 +1,23 @@
+{
+  "id": 161660,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-08T20:27:51.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #161660. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "144701@3",
+  "sire": "138629@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 450,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

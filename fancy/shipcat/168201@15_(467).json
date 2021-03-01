@@ -1,0 +1,23 @@
+{
+  "id": 168201,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-09T01:25:01.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's Kitty #168201. I once peed on Nelson Mandela's cat. They had it coming. I like to listen to Justin Bieber while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "85409@7",
+  "sire": "164020@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 467,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

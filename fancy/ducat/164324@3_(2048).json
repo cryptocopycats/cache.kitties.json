@@ -1,0 +1,24 @@
+{
+  "id": 164324,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-08T22:27:12.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #164324. I enjoy riding unicorns, fighting the patriarchy, and eating until I loathe myself. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155841@2",
+  "sire": "157734@2",
+  "children": [
+    "171258@4",
+    "174650@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2048,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

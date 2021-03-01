@@ -1,0 +1,29 @@
+{
+  "id": 171123,
+  "name": "gen07_DuCat",
+  "generation": 7,
+  "created_at": "2017-12-09T03:45:04.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm gen07_DuCat. My friends describe me as ridiculous and smelly. I would give it all up for a Chanel purse. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "91157@6",
+  "sire": "167705@2",
+  "children": [
+    "171470@8",
+    "172690@8",
+    "192756@13",
+    "196921@8",
+    "274309@8",
+    "294957@8",
+    "331955@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2145,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

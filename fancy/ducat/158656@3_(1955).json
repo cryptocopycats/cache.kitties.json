@@ -1,0 +1,23 @@
+{
+  "id": 158656,
+  "name": "Virgin Fancy-DuCat-G3-Swift",
+  "generation": 3,
+  "created_at": "2017-12-08T17:45:33.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Virgin Fancy-DuCat-G3-Swift. I enjoy reciting poetry, taking selfies, and sitting on your computer. In my free time, I can usually be found raunchy or running a podcast. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155236@2",
+  "sire": "114969@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1955,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

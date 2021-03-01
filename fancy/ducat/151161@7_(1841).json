@@ -1,0 +1,32 @@
+{
+  "id": 151161,
+  "name": "Mozart - Cryptonaut.org (1841)",
+  "generation": 7,
+  "created_at": "2017-12-08T11:24:47.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Mozart - Cryptonaut.org (1841). My friends describe me as seductive and raunchy. When no one's home, I invite my pals over and we listen to Beyoncé. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "145113@6",
+  "sire": "106295@6",
+  "children": [
+    "157965@8",
+    "164478@10",
+    "201893@8",
+    "270482@13",
+    "288696@9",
+    "365599@10",
+    "373532@8",
+    "390570@18",
+    "525724@8",
+    "558956@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1841,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

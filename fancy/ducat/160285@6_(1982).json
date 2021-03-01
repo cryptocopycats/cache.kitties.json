@@ -1,0 +1,30 @@
+{
+  "id": 160285,
+  "name": "猫猫💎半半",
+  "generation": 6,
+  "created_at": "2017-12-08T19:17:42.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm 猫猫💎半半. I believe that one day cats will rule this planet. I'm often described as tantalizing, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "148274@5",
+  "sire": "134422@5",
+  "children": [
+    "265644@7",
+    "275716@8",
+    "281219@7",
+    "287432@7",
+    "297774@9",
+    "345313@7",
+    "645864@7",
+    "665197@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1982,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

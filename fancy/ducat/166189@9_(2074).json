@@ -1,0 +1,23 @@
+{
+  "id": 166189,
+  "name": "Fancy Ducat",
+  "generation": 9,
+  "created_at": "2017-12-08T23:55:28.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Fancy Ducat. My friends describe me as despicable and wondrous. I like to listen to Justin Bieber while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "165399@8",
+  "sire": "161410@7",
+  "children": [
+    "167418@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2074,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

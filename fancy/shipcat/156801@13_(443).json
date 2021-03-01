@@ -1,0 +1,23 @@
+{
+  "id": 156801,
+  "name": "Sailor",
+  "generation": 13,
+  "created_at": "2017-12-08T16:26:28.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Sailor. My friends describe me as seductive and ridiculous. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I look forward to riding dirty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "110278@12",
+  "sire": "136497@12",
+  "children": [
+    "161899@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 443,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

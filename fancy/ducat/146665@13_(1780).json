@@ -1,0 +1,26 @@
+{
+  "id": 146665,
+  "name": "Chicken - Duck - Awesomeness!",
+  "generation": 13,
+  "created_at": "2017-12-08T07:23:49.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Chicken - Duck - Awesomeness!. All you need to know about me is I hate hamburgers with a passion. My secret indulgence is wet food. Will you be the ranch dressing to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136725@10",
+  "sire": "138558@12",
+  "children": [
+    "161517@14",
+    "167594@14",
+    "177537@14",
+    "203342@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1780,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

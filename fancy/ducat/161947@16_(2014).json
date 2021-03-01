@@ -1,0 +1,25 @@
+{
+  "id": 161947,
+  "name": "Byrd",
+  "generation": 16,
+  "created_at": "2017-12-08T20:41:17.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Byrd. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "139530@12",
+  "sire": "128638@15",
+  "children": [
+    "207731@17",
+    "242359@17",
+    "1929471@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2014,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

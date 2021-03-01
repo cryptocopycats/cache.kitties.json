@@ -1,0 +1,30 @@
+{
+  "id": 144351,
+  "name": "Bloody Hell",
+  "generation": 5,
+  "created_at": "2017-12-08T05:19:57.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Bloody Hell. I'm often referred to as the Cersei Lannister of the group. It's not common knowledge, but my ancestry connects me to Confucius. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "131739@4",
+  "sire": "76947@4",
+  "children": [
+    "157187@6",
+    "159818@6",
+    "175655@6",
+    "180178@6",
+    "186252@6",
+    "224350@6",
+    "242868@8",
+    "263389@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 79,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

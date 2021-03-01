@@ -1,0 +1,25 @@
+{
+  "id": 147124,
+  "name": "Jewels",
+  "generation": 12,
+  "created_at": "2017-12-08T07:52:14.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Jewels. I enjoy picking flowers, spinning sick beats, and staying woke. I once made a dog trot. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "84302@10",
+  "sire": "134175@11",
+  "children": [
+    "153238@15",
+    "164019@14",
+    "311766@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1789,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

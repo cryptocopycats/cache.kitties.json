@@ -1,0 +1,24 @@
+{
+  "id": 171322,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T03:55:05.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #171322. I've never told anyone this, but I once licked a dog. My secret indulgence is chocolate. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103407@5",
+  "sire": "161135@5",
+  "children": [
+    "215687@9",
+    "274790@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2147,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

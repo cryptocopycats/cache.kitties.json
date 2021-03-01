@@ -1,0 +1,26 @@
+{
+  "id": 138801,
+  "name": "Kitty Angel 1000000$",
+  "generation": 12,
+  "created_at": "2017-12-07T23:16:46.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty Angel 1000000$. I'm a professional Ventriloquist and I love hamburgers. I put ranch dressing on everything. Like, everything: hot dogs, cantaloupe—everything! I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "129065@4",
+  "sire": "100101@11",
+  "children": [
+    "141565@13",
+    "151888@16",
+    "162486@17",
+    "356377@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1652,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

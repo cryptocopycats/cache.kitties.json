@@ -1,0 +1,24 @@
+{
+  "id": 163405,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-08T21:37:33.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! My name's Kitty #163405. I once peed on Marie Antoinette's cat. They had it coming. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160730@3",
+  "sire": "162136@7",
+  "children": [
+    "165615@9",
+    "166613@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2028,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

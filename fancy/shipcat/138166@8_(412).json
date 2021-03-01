@@ -1,0 +1,28 @@
+{
+  "id": 138166,
+  "name": "Metcalfe",
+  "generation": 8,
+  "created_at": "2017-12-07T22:49:56.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Metcalfe. My friends describe me as despicable and raunchy. In my free time, I can usually be found tantalizing or reading Danielle Steele. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "81486@7",
+  "sire": "106265@7",
+  "children": [
+    "140250@9",
+    "171147@9",
+    "193965@9",
+    "198994@9",
+    "227703@9",
+    "262641@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 412,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

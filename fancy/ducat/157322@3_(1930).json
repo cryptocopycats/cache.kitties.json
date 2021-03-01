@@ -1,0 +1,23 @@
+{
+  "id": 157322,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-08T16:47:10.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! My name's Kitty #157322. I once peed on Cleopatra's cat. They had it coming. I am 65% hobbit, 18% Foreign Film Director, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132989@2",
+  "sire": "151296@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1930,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

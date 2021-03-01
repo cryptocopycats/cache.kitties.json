@@ -1,0 +1,29 @@
+{
+  "id": 172422,
+  "name": "Ahiru あひる",
+  "generation": 13,
+  "created_at": "2017-12-09T04:51:18.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! Ahiru あひる here. I'm here to enjoy eating until I loathe myself and chasing red dots. Some people say I'm the Marge Simpson of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125902@12",
+  "sire": "95588@11",
+  "children": [
+    "174241@14",
+    "200219@14",
+    "258035@16",
+    "280252@14",
+    "286916@14",
+    "376577@14",
+    "381392@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2169,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

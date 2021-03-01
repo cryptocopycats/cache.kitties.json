@@ -1,0 +1,29 @@
+{
+  "id": 167058,
+  "name": "0.045",
+  "generation": 9,
+  "created_at": "2017-12-09T00:33:12.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm 0.045. I'm a professional Aerobics Athlete  and I love cereal. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "161963@8",
+  "sire": "127800@8",
+  "children": [
+    "168594@10",
+    "175999@10",
+    "187792@10",
+    "188364@10",
+    "215783@10",
+    "248355@16",
+    "280548@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2085,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

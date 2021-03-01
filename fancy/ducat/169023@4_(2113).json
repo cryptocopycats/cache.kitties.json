@@ -1,0 +1,29 @@
+{
+  "id": 169023,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-09T02:00:12.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #169023. I'm often referred to as the Frodo Baggins of the group. I once headbutted a rabbit. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "164872@3",
+  "sire": "122868@3",
+  "children": [
+    "174963@5",
+    "175643@5",
+    "175850@5",
+    "286388@5",
+    "336997@5",
+    "351823@5",
+    "378107@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2113,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

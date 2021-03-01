@@ -1,0 +1,23 @@
+{
+  "id": 148096,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-08T08:45:02.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #148096. I'm a professional Culinary Sanitation Specialist and I love cantaloupe. In my free time, I can usually be found seductive or practicing witchcraft. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24793@11",
+  "sire": "126430@13",
+  "children": [
+    "153586@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1801,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

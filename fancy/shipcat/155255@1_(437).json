@@ -1,0 +1,23 @@
+{
+  "id": 155255,
+  "name": "LOONG VRare Collectible",
+  "generation": 1,
+  "created_at": "2017-12-08T15:13:06.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm LOONG VRare Collectible. I'm a professional Train Conductor and I love ice cream. I once dreamed of being a Dogwalker. Now I can be found swiping left all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "73243@0",
+  "sire": "37623@0",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 437,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

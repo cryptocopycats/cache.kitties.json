@@ -1,0 +1,23 @@
+{
+  "id": 152116,
+  "name": "Cheese and Quackers",
+  "generation": 7,
+  "created_at": "2017-12-08T12:17:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Cheese and Quackers. All you need to know about me is I hate cereal with a passion. I like to listen to Ace of Base while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126950@6",
+  "sire": "132329@6",
+  "children": [
+    "215213@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1858,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

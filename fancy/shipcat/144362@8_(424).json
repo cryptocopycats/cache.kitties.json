@@ -1,0 +1,23 @@
+{
+  "id": 144362,
+  "name": "Sailor Hairy",
+  "generation": 8,
+  "created_at": "2017-12-08T05:22:15.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Sailor Hairy. In high school, I was voted school jock. In my free time, I can usually be found petulant or pole dancing. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "126641@7",
+  "sire": "126767@7",
+  "children": [
+    "177726@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 424,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

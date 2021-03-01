@@ -1,0 +1,25 @@
+{
+  "id": 151558,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-08T11:44:58.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #151558. I want to live in a world where people believe the world is flat. I once made a rhino kiss. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71069@6",
+  "sire": "98114@9",
+  "children": [
+    "163279@11",
+    "225044@11",
+    "238033@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1846,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

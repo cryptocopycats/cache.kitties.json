@@ -1,0 +1,26 @@
+{
+  "id": 148469,
+  "name": "Shipcat",
+  "generation": 13,
+  "created_at": "2017-12-08T09:07:45.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Shipcat. My friends describe me as voluptuous and petulant. I once got in a fight with a rooster, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "44822@12",
+  "sire": "43334@10",
+  "children": [
+    "204555@14",
+    "224987@14",
+    "259225@14",
+    "552043@22"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 430,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

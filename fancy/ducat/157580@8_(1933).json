@@ -1,0 +1,30 @@
+{
+  "id": 157580,
+  "name": "Meowls",
+  "generation": 8,
+  "created_at": "2017-12-08T16:57:22.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Meowls. I'm often referred to as the Jon Snow of the group. It's not common knowledge, but my ancestry connects me to Cleopatra. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132972@7",
+  "sire": "50269@7",
+  "children": [
+    "225071@9",
+    "228080@9",
+    "233015@15",
+    "239881@9",
+    "248901@15",
+    "280732@9",
+    "322031@9",
+    "465353@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1933,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

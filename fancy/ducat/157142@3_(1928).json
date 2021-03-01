@@ -1,0 +1,33 @@
+{
+  "id": 157142,
+  "name": "G3 Fancy Duck",
+  "generation": 3,
+  "created_at": "2017-12-08T16:43:01.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm G3 Fancy Duck. I'm a Ventriloquist by day, and I like practicing witchcraft by night. When no one's home, I invite my pals over and we listen to Aretha Franklin. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "149966@2",
+  "sire": "149999@2",
+  "children": [
+    "176525@4",
+    "176755@4",
+    "177711@4",
+    "178429@4",
+    "179957@4",
+    "186555@4",
+    "192296@4",
+    "212120@4",
+    "244227@4",
+    "274833@4",
+    "346847@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1928,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

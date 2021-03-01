@@ -1,0 +1,29 @@
+{
+  "id": 137900,
+  "name": "137900",
+  "generation": 13,
+  "created_at": "2017-12-07T22:38:02.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 137900. All you need to know about me is I hate wet food with a passion. I would give it all up to star in a soap opera. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93614@12",
+  "sire": "126662@10",
+  "children": [
+    "192454@14",
+    "201184@14",
+    "212370@14",
+    "250624@16",
+    "302422@16",
+    "335612@16",
+    "343592@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1635,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

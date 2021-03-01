@@ -1,0 +1,23 @@
+{
+  "id": 142159,
+  "name": "RARE Gen 9 Snappy Bird Kitty",
+  "generation": 9,
+  "created_at": "2017-12-08T02:20:14.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm RARE Gen 9 Snappy Bird Kitty. I've never told anyone this, but I once snuggled a dog. I once dreamed of being a Dogwalker. Now I can be found practicing witchcraft all day. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "137740@8",
+  "sire": "115044@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1716,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

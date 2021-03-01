@@ -1,0 +1,25 @@
+{
+  "id": 158850,
+  "name": "Draculacat si si la famille",
+  "generation": 13,
+  "created_at": "2017-12-08T18:00:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Draculacat si si la famille. I'm often referred to as the Marge Simpson of the group. I am 18% wizard, 42% Dispensary Clerk, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "53808@6",
+  "sire": "70786@12",
+  "children": [
+    "245087@14",
+    "299009@14",
+    "310254@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 102,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

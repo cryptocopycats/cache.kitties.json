@@ -1,0 +1,24 @@
+{
+  "id": 162882,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-08T21:19:01.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #162882. I enjoy licking doorknobs, sweating through my feet, and chasing red dots. Sometimes I daydream of a life full of spinning sick beats, hamburgers, and swiping left. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "146629@13",
+  "sire": "156249@10",
+  "children": [
+    "174945@21",
+    "273248@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2024,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

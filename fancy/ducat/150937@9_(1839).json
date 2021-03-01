@@ -1,0 +1,25 @@
+{
+  "id": 150937,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-08T11:11:50.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #150937. I'm a Private Dancer  by day, and I like riverdancing by night. I once dreamed of being a Dispensary Clerk. Now I can be found summoning ghosts all day. I look forward to breakdancing with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "148553@7",
+  "sire": "149200@8",
+  "children": [
+    "152611@10",
+    "177932@10",
+    "180962@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1839,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

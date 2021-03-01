@@ -1,0 +1,27 @@
+{
+  "id": 167856,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T01:11:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #167856. In high school, I was voted most likely to work at NASA. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142101@6",
+  "sire": "166823@7",
+  "children": [
+    "174185@9",
+    "181573@9",
+    "197283@9",
+    "214805@15",
+    "251455@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2097,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

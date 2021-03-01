@@ -1,0 +1,23 @@
+{
+  "id": 167378,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-09T00:51:15.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #167378. I'm a professional Aerobics Athlete  and I love chocolate. I once got in a fight with a labradoodle, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "166714@3",
+  "sire": "132210@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2089,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

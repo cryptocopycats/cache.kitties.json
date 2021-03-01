@@ -1,0 +1,26 @@
+{
+  "id": 166524,
+  "name": "TurDuck",
+  "generation": 15,
+  "created_at": "2017-12-09T00:09:37.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm TurDuck. My friends describe me as despicable and voluptuous. I once dreamed of being a Private Dancer . Now I can be found mocking dogs all day. I look forward to taking selfies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "143496@9",
+  "sire": "144940@14",
+  "children": [
+    "258026@19",
+    "262369@16",
+    "319024@16",
+    "331426@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2077,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

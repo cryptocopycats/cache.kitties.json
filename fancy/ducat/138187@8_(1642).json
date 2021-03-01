@@ -1,0 +1,32 @@
+{
+  "id": 138187,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-07T22:51:23.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #138187. I'm often referred to as the Marge Simpson of the group. I once kissed a dog. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96106@7",
+  "sire": "70207@5",
+  "children": [
+    "138992@9",
+    "182916@9",
+    "187112@9",
+    "197941@9",
+    "211613@9",
+    "230433@9",
+    "250171@9",
+    "292048@9",
+    "376857@9",
+    "392318@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1642,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

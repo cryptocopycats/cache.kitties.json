@@ -1,0 +1,25 @@
+{
+  "id": 161006,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-08T20:01:41.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #161006. My friends describe me as fabulous and seductive. It's not common knowledge, but my ancestry connects me to Confucius. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "144121@3",
+  "sire": "148802@3",
+  "children": [
+    "163008@5",
+    "220450@12",
+    "222074@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1995,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

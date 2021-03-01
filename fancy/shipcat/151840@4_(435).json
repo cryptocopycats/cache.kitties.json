@@ -1,0 +1,23 @@
+{
+  "id": 151840,
+  "name": "Gen 4 | 1st Gen Sailor [V]",
+  "generation": 4,
+  "created_at": "2017-12-08T12:01:18.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Gen 4 | 1st Gen Sailor [V]. I'm a Spin Instructor  by day, and I like playing chess by night. I am 52% gremlin, 12% Private Dancer , and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "136530@3",
+  "sire": "123806@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 435,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

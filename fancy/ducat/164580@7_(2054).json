@@ -1,0 +1,29 @@
+{
+  "id": 164580,
+  "name": "Quackers",
+  "generation": 7,
+  "created_at": "2017-12-08T22:41:13.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Quackers. In high school, I was voted most likely to work at NASA. I once dreamed of being a Train Conductor. Now I can be found volunteering at the local kitten rescue shelter all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162077@6",
+  "sire": "160239@6",
+  "children": [
+    "169849@10",
+    "170816@8",
+    "172956@8",
+    "176387@8",
+    "187730@9",
+    "197765@10",
+    "217715@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2054,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

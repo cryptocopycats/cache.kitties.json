@@ -1,0 +1,29 @@
+{
+  "id": 165056,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-08T23:01:28.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #165056. I enjoy picking on mice, eating lasagna, and licking doorknobs. I am 31% oracle, 37% Aerobics Athlete , and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43597@6",
+  "sire": "81601@6",
+  "children": [
+    "227635@8",
+    "228328@8",
+    "250903@8",
+    "264037@8",
+    "268702@8",
+    "292168@8",
+    "302234@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2063,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

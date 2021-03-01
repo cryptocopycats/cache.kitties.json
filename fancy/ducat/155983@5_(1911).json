@@ -1,0 +1,32 @@
+{
+  "id": 155983,
+  "name": "Cottoncandy Parenty Fancy Gold",
+  "generation": 5,
+  "created_at": "2017-12-08T15:52:21.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Cottoncandy Parenty Fancy Gold. I want to live in a world where people believe that one day cats will rule this planet. I am 32% wizard, 2% Ventriloquist, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "151498@3",
+  "sire": "154621@4",
+  "children": [
+    "205598@8",
+    "245716@6",
+    "263019@6",
+    "304243@6",
+    "338441@6",
+    "507686@6",
+    "512677@6",
+    "514902@6",
+    "519574@6",
+    "527825@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1911,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

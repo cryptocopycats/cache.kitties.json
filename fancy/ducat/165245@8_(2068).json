@@ -1,0 +1,26 @@
+{
+  "id": 165245,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-08T23:12:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #165245. I enjoy spinning sick beats, sitting on your computer, and tricking babies. Some people say I'm the Peter Griffin of the group. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "138165@7",
+  "sire": "144886@6",
+  "children": [
+    "210200@9",
+    "228132@13",
+    "232074@9",
+    "237589@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2068,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

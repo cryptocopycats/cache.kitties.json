@@ -1,0 +1,23 @@
+{
+  "id": 155428,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-08T15:20:08.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #155428. I'm a professional Skydiving Instructor and I love cereal. When I'm not running a podcast, I'm swiping right! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "108732@5",
+  "sire": "148322@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 94,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

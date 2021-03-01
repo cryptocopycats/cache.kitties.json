@@ -1,0 +1,24 @@
+{
+  "id": 158435,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-08T17:35:08.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #158435. I'm a professional Train Conductor and I love wet food. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Will you be the cinammon to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132885@14",
+  "sire": "118235@13",
+  "children": [
+    "166742@16",
+    "235683@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1952,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

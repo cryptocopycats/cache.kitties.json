@@ -1,0 +1,27 @@
+{
+  "id": 150952,
+  "name": "Birdy Cat",
+  "generation": 10,
+  "created_at": "2017-12-08T11:12:42.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! My name's Birdy Cat. I once peed on Mother Theresa's cat. They had it coming. I put garlic butter on everything. Like, everything: hot dogs, hamburgers—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "127263@9",
+  "sire": "140472@9",
+  "children": [
+    "237234@11",
+    "241883@11",
+    "267674@22",
+    "280289@15",
+    "291620@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1840,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

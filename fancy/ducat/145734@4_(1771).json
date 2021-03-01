@@ -1,0 +1,28 @@
+{
+  "id": 145734,
+  "name": "Flyancy",
+  "generation": 4,
+  "created_at": "2017-12-08T06:39:53.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Flyancy. In high school, I was voted most likely to work at NASA. I am 79% wizard, 68% Mad Scientist, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "143690@3",
+  "sire": "119513@3",
+  "children": [
+    "146143@5",
+    "146452@5",
+    "147132@5",
+    "149329@5",
+    "153161@5",
+    "170556@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1771,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

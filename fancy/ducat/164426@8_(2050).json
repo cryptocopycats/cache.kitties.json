@@ -1,0 +1,26 @@
+{
+  "id": 164426,
+  "name": "Bird1A",
+  "generation": 8,
+  "created_at": "2017-12-08T22:31:26.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! My name's Bird1A. I once peed on Princess Diana's cat. They had it coming. In my free time, I can usually be found raunchy or running a podcast. I hope we can be brilliant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115290@7",
+  "sire": "139515@7",
+  "children": [
+    "165669@9",
+    "168553@9",
+    "171592@9",
+    "262595@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2050,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

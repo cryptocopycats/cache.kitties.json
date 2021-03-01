@@ -1,0 +1,23 @@
+{
+  "id": 142357,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-08T02:31:05.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #142357. I'm a professional Train Conductor and I love chocolate. I like to listen to Justin Bieber while grooming. Don't judge me. Will you be the wasabi to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "8533@12",
+  "sire": "22398@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1721,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

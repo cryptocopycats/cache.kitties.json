@@ -1,0 +1,23 @@
+{
+  "id": 154880,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-08T14:52:01.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #154880. I've never told anyone this, but I once cleaned a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97640@5",
+  "sire": "139314@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1892,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

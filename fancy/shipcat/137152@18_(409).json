@@ -1,0 +1,23 @@
+{
+  "id": 137152,
+  "name": "ULTRA RARE FANCY KITTY!!!",
+  "generation": 18,
+  "created_at": "2017-12-07T21:57:55.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm ULTRA RARE FANCY KITTY!!!. My friends describe me as voluptuous and ridiculous. I once got in a fight with a moose, and won. Can you make my wondrous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "57165@17",
+  "sire": "25043@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 409,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

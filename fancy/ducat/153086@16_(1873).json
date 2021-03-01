@@ -1,0 +1,29 @@
+{
+  "id": 153086,
+  "name": "揮手鴨",
+  "generation": 16,
+  "created_at": "2017-12-08T13:11:03.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm 揮手鴨. I enjoy slappin' da bass, watching Stranger Things, and eating until I loathe myself. When I'm not sleeping in fresh laundry, I'm riding the bus! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35327@15",
+  "sire": "124801@15",
+  "children": [
+    "155478@17",
+    "227072@17",
+    "278315@17",
+    "310979@17",
+    "377296@17",
+    "390765@17",
+    "750721@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1873,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 173440,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-09T05:38:19.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #173440. My friends describe me as gorgeous and brilliant. When I'm not riverdancing, I'm running a podcast! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147648@11",
+  "sire": "89519@12",
+  "children": [
+    "209173@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2188,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

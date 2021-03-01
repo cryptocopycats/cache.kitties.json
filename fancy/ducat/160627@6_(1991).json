@@ -1,0 +1,31 @@
+{
+  "id": 160627,
+  "name": "Blue Bird",
+  "generation": 6,
+  "created_at": "2017-12-08T19:31:38.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Blue Bird. My friends describe me as despicable and petulant. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152325@5",
+  "sire": "157465@5",
+  "children": [
+    "161414@7",
+    "163386@7",
+    "163990@7",
+    "170767@7",
+    "186381@7",
+    "215821@9",
+    "588883@7",
+    "599986@7",
+    "666634@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1991,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

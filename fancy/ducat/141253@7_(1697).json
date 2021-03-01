@@ -1,0 +1,33 @@
+{
+  "id": 141253,
+  "name": "G7 Birdy",
+  "generation": 7,
+  "created_at": "2017-12-08T01:30:52.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! My name's G7 Birdy. I once peed on Mother Theresa's cat. They had it coming. I once dreamed of being a Foreign Film Director. Now I can be found running a podcast all day. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "138235@6",
+  "sire": "122332@5",
+  "children": [
+    "151855@8",
+    "152969@8",
+    "188408@8",
+    "193456@8",
+    "202053@8",
+    "210668@8",
+    "238322@8",
+    "270298@8",
+    "299279@8",
+    "360726@8",
+    "380517@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1697,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

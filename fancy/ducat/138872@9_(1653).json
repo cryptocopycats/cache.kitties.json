@@ -1,0 +1,28 @@
+{
+  "id": 138872,
+  "name": "Slash",
+  "generation": 9,
+  "created_at": "2017-12-07T23:21:04.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Slash. All you need to know about me is I hate lasagna with a passion. My friends describe me as \"smelly.\" It's... accurate. Will you be the peanut butter to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117463@8",
+  "sire": "135294@8",
+  "children": [
+    "177768@10",
+    "213668@10",
+    "222507@14",
+    "227285@11",
+    "254404@13",
+    "275734@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1653,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

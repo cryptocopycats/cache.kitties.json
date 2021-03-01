@@ -1,0 +1,23 @@
+{
+  "id": 172358,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-09T04:47:41.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #172358. I'm often referred to as the Frodo Baggins of the group. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Our friendship will be tantalizing, gorgeous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "111008@5",
+  "sire": "138235@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2168,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

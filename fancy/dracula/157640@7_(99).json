@@ -1,0 +1,25 @@
+{
+  "id": 157640,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-08T16:59:23.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #157640. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Justin Bieber. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "146599@6",
+  "sire": "138040@6",
+  "children": [
+    "160365@11",
+    "162099@8",
+    "220764@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 99,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

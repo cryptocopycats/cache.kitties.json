@@ -1,0 +1,23 @@
+{
+  "id": 147276,
+  "name": "Tweep",
+  "generation": 17,
+  "created_at": "2017-12-08T07:57:49.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Tweep. My friends describe me as smelly and voluptuous. I once got in a fight with a dog, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "134032@13",
+  "sire": "136048@16",
+  "children": [
+    "262855@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1793,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

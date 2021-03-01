@@ -1,0 +1,26 @@
+{
+  "id": 142804,
+  "name": "Fancy Bird",
+  "generation": 9,
+  "created_at": "2017-12-08T03:04:06.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Fancy Bird here. I'm here to enjoy picking flowers and staying woke. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35259@8",
+  "sire": "80688@7",
+  "children": [
+    "145564@10",
+    "146985@10",
+    "149833@10",
+    "1398395@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1730,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

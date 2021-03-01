@@ -1,0 +1,27 @@
+{
+  "id": 157328,
+  "name": "115 Duckalbo",
+  "generation": 12,
+  "created_at": "2017-12-08T16:47:19.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! 115 Duckalbo here. I'm here to enjoy eating lasagna and chasing string. I once bit a labradoodle. I don't like to talk about it. I look forward to sitting on your computer with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "41706@11",
+  "sire": "37747@11",
+  "children": [
+    "168334@14",
+    "298209@14",
+    "303119@15",
+    "316267@15",
+    "338785@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1931,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

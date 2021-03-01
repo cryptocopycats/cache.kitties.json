@@ -1,0 +1,30 @@
+{
+  "id": 151405,
+  "name": "Little Sailor",
+  "generation": 4,
+  "created_at": "2017-12-08T11:36:21.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! Little Sailor here. I'm here to enjoy staying woke and sitting on your computer. Sometimes I daydream of a life full of reciting poetry, steak, and mocking dogs. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "126018@3",
+  "sire": "128169@3",
+  "children": [
+    "190319@5",
+    "191047@5",
+    "195213@5",
+    "198192@5",
+    "206604@5",
+    "220203@5",
+    "231382@5",
+    "237825@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 434,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

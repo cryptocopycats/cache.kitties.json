@@ -1,0 +1,27 @@
+{
+  "id": 155952,
+  "name": "Duck Cat Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-08T15:51:29.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Duck Cat Gen 10. I'm a Spin Instructor  by day, and I like siring for status by night. I once got in a fight with a rhino, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141506@4",
+  "sire": "134368@9",
+  "children": [
+    "169547@11",
+    "183237@11",
+    "186280@13",
+    "224323@11",
+    "285199@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1909,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

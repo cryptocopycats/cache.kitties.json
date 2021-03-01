@@ -1,0 +1,26 @@
+{
+  "id": 160459,
+  "name": "😼 Rare DuCat 😼",
+  "generation": 12,
+  "created_at": "2017-12-08T19:25:30.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm 😼 Rare DuCat 😼. I'm a Train Conductor by day, and I like swiping right by night. My secret indulgence is steak. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158207@11",
+  "sire": "84302@10",
+  "children": [
+    "172198@13",
+    "178143@13",
+    "186915@13",
+    "227788@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1987,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

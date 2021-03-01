@@ -1,0 +1,28 @@
+{
+  "id": 157965,
+  "name": "Googly, Violet, Vampire Genes",
+  "generation": 8,
+  "created_at": "2017-12-08T17:12:43.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Googly, Violet, Vampire Genes. I once peed on Amelia Earhart's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "122171@6",
+  "sire": "151161@7",
+  "children": [
+    "162891@9",
+    "211660@9",
+    "214458@9",
+    "230835@13",
+    "243831@12",
+    "285016@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1943,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

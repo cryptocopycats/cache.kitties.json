@@ -1,0 +1,23 @@
+{
+  "id": 165010,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-08T22:59:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #165010. I'm a Spin Instructor  by day, and I like tricking babies by night. My secret indulgence is wet food. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "160448@3",
+  "sire": "159869@2",
+  "children": [
+    "168532@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 461,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 158987,
+  "name": "Dog",
+  "generation": 11,
+  "created_at": "2017-12-08T18:08:30.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! Dog here. I'm here to enjoy chasing string and picking flowers. Some people say I'm the Cersei Lannister of the group. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "138318@10",
+  "sire": "140725@10",
+  "children": [
+    "209363@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 445,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

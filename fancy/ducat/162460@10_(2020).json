@@ -1,0 +1,24 @@
+{
+  "id": 162460,
+  "name": "Sabina - Cryptonaut.org",
+  "generation": 10,
+  "created_at": "2017-12-08T21:03:29.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! My name's Sabina - Cryptonaut.org. I once peed on Amelia Earhart's cat. They had it coming. I once got in a fight with a rooster, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136689@7",
+  "sire": "101072@9",
+  "children": [
+    "175210@11",
+    "177079@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2020,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 155158,
+  "name": "Lovely Lasagna",
+  "generation": 8,
+  "created_at": "2017-12-08T15:08:31.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Lovely Lasagna here. I'm here to enjoy picking on mice and riding dirty. I like to listen to Ace of Base while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "137951@7",
+  "sire": "134145@7",
+  "children": [
+    "161730@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1897,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

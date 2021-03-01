@@ -1,0 +1,26 @@
+{
+  "id": 163454,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-08T21:40:58.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #163454. I want to live in a world where people believe the world is flat. Some people say I'm the Hermione Granger of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49076@9",
+  "sire": "52118@8",
+  "children": [
+    "165523@11",
+    "273030@11",
+    "279490@12",
+    "390429@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2030,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

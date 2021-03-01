@@ -1,0 +1,24 @@
+{
+  "id": 167920,
+  "name": "Comet",
+  "generation": 8,
+  "created_at": "2017-12-09T01:13:37.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Comet. I'm often referred to as the Michael Scott of the group. When no one's home, I invite my pals over and we listen to Justin Bieber. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142003@7",
+  "sire": "46487@7",
+  "children": [
+    "255382@9",
+    "257643@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2098,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

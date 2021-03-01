@@ -1,0 +1,23 @@
+{
+  "id": 138506,
+  "name": "JoJoLion",
+  "generation": 15,
+  "created_at": "2017-12-07T23:07:16.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm JoJoLion. I'm often referred to as the Ron Weasley of the group. I once dreamed of being a Ventriloquist. Now I can be found riding the bus all day. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "17373@14",
+  "sire": "58790@14",
+  "children": [
+    "257784@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 413,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

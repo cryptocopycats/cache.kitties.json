@@ -1,0 +1,23 @@
+{
+  "id": 161718,
+  "name": "Ship Kitty",
+  "generation": 17,
+  "created_at": "2017-12-08T20:32:09.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! My name's Ship Kitty. I once peed on Princess Diana's cat. They had it coming. When no one's home, I invite my pals over and we listen to Gloria Estefan. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "6886@16",
+  "sire": "6552@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 451,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

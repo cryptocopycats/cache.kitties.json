@@ -1,0 +1,23 @@
+{
+  "id": 159833,
+  "name": "Gorgamel!",
+  "generation": 13,
+  "created_at": "2017-12-08T18:50:42.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Gorgamel!. My friends describe me as raunchy and petulant. I am 23% troll, 92% Culinary Sanitation Specialist, and otherwise bad at math. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156254@12",
+  "sire": "153365@7",
+  "children": [
+    "618441@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1975,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

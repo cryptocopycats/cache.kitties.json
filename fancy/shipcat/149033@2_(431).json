@@ -1,0 +1,33 @@
+{
+  "id": 149033,
+  "name": "Sailor Butch",
+  "generation": 2,
+  "created_at": "2017-12-08T09:38:14.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Sailor Butch. I'm often referred to as the Peter Griffin of the group. I once dreamed of being a Mad Scientist. Now I can be found swiping left all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "83782@1",
+  "sire": "33443@1",
+  "children": [
+    "149210@3",
+    "149539@3",
+    "150097@3",
+    "187859@3",
+    "190380@3",
+    "197515@3",
+    "203016@3",
+    "235263@3",
+    "264444@3",
+    "287951@3",
+    "303442@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 431,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

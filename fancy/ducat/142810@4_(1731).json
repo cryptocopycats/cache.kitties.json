@@ -1,0 +1,26 @@
+{
+  "id": 142810,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-08T03:04:54.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #142810. I'm a professional Train Conductor and I love steak. I put soy sauce on everything. Like, everything: hot dogs, wet food—everything! Our friendship will be hairy, tantalizing, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "122293@3",
+  "sire": "140484@2",
+  "children": [
+    "144443@5",
+    "1108487@5",
+    "1108673@5",
+    "1109418@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1731,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

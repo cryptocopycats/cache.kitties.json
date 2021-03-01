@@ -1,0 +1,23 @@
+{
+  "id": 173215,
+  "name": "KITTY+BIRDY",
+  "generation": 11,
+  "created_at": "2017-12-09T05:26:44.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm KITTY+BIRDY. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "171963@8",
+  "sire": "49661@10",
+  "children": [
+    "194921@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2183,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

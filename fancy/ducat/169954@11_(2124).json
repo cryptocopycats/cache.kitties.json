@@ -1,0 +1,23 @@
+{
+  "id": 169954,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-09T02:45:11.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #169954. I enjoy tricking babies, fighting for the people, and picking on mice. I like to listen to Frank Sinatra while grooming. Don't judge me. Our friendship will be stinky, preposterous, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118156@10",
+  "sire": "116302@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2124,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

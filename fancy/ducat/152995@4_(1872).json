@@ -1,0 +1,27 @@
+{
+  "id": 152995,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-08T13:05:48.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #152995. I enjoy eating until I loathe myself, picking on mice, and eating lasagna. I once made a gecko pester. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142445@3",
+  "sire": "151595@3",
+  "children": [
+    "164893@5",
+    "166797@7",
+    "168673@6",
+    "172589@7",
+    "202319@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1872,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

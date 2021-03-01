@@ -1,0 +1,29 @@
+{
+  "id": 137963,
+  "name": "😼 Rare DuCat 😼",
+  "generation": 7,
+  "created_at": "2017-12-07T22:40:39.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm 😼 Rare DuCat 😼. I'm often referred to as the Lisa Simpson of the group. I once got in a fight with a dog, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66008@6",
+  "sire": "68995@6",
+  "children": [
+    "138701@8",
+    "139931@8",
+    "141558@8",
+    "150824@8",
+    "158396@8",
+    "171086@8",
+    "201639@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1637,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

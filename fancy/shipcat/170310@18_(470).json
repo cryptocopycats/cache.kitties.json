@@ -1,0 +1,23 @@
+{
+  "id": 170310,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-09T03:01:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! Kitty #170310 here. I'm here to enjoy eating lasagna and breakdancing. In my free time, I can usually be found fabulous or running a podcast. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "135173@17",
+  "sire": "135360@16",
+  "children": [
+    "665108@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 470,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

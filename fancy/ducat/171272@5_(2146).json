@@ -1,0 +1,26 @@
+{
+  "id": 171272,
+  "name": "FANCY DUCAT | GEN 5",
+  "generation": 5,
+  "created_at": "2017-12-09T03:52:04.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm FANCY DUCAT | GEN 5. I'm often referred to as the Peter Griffin of the group. I put marmalade on everything. Like, everything: hot dogs, wet food—everything! Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158809@4",
+  "sire": "168582@4",
+  "children": [
+    "171911@6",
+    "172309@6",
+    "172763@6",
+    "175659@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2146,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

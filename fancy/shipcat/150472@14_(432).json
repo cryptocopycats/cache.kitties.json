@@ -1,0 +1,25 @@
+{
+  "id": 150472,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-08T10:45:19.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #150472. I enjoy reading garfield, sitting on your computer, and licking doorknobs. When I'm not tricking babies, I'm riding the bus! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "87549@11",
+  "sire": "147516@13",
+  "children": [
+    "288864@16",
+    "289405@15",
+    "300672@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 432,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

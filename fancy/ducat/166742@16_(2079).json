@@ -1,0 +1,27 @@
+{
+  "id": 166742,
+  "name": "100% Pure DuCat",
+  "generation": 16,
+  "created_at": "2017-12-09T00:18:41.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm 100% Pure DuCat. I want to live in a world where people believe that one day cats will rule this planet. When I'm not swiping right, I'm riverdancing! Our friendship will be gullible, despicable, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158435@15",
+  "sire": "156987@15",
+  "children": [
+    "188711@17",
+    "190925@17",
+    "255762@17",
+    "275792@17",
+    "324248@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2079,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

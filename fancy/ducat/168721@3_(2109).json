@@ -1,0 +1,33 @@
+{
+  "id": 168721,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-09T01:46:17.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #168721. In high school, I was voted school jock. In my free time, I can usually be found raunchy or playing chess. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121225@2",
+  "sire": "162746@2",
+  "children": [
+    "172588@4",
+    "173129@4",
+    "202160@4",
+    "232428@4",
+    "252243@4",
+    "285602@4",
+    "297469@4",
+    "318731@4",
+    "342123@4",
+    "372303@4",
+    "417996@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2109,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

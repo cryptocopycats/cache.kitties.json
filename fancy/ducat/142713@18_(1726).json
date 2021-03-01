@@ -1,0 +1,23 @@
+{
+  "id": 142713,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-08T02:57:11.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #142713. I'm a Ventriloquist by day, and I like jump-roping by night. When I'm not riding the bus, I'm people-watching! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19626@8",
+  "sire": "41955@17",
+  "children": [
+    "639003@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1726,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

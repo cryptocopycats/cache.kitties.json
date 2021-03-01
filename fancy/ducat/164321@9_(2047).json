@@ -1,0 +1,24 @@
+{
+  "id": 164321,
+  "name": "Gen 9 | 1A, 2A | 4A",
+  "generation": 9,
+  "created_at": "2017-12-08T22:26:10.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Gen 9 | 1A, 2A | 4A. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as voluptuous, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112319@8",
+  "sire": "84098@8",
+  "children": [
+    "172067@11",
+    "184859@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2047,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 151802,
+  "name": "# BIRDIE",
+  "generation": 9,
+  "created_at": "2017-12-08T11:59:06.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm # BIRDIE. My friends describe me as vegan and gorgeous. When I'm not pole dancing, I'm running a podcast! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118031@4",
+  "sire": "117964@8",
+  "children": [
+    "157515@10",
+    "159765@11",
+    "163239@10",
+    "176394@10",
+    "218776@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1850,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

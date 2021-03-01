@@ -1,0 +1,23 @@
+{
+  "id": 138416,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-07T23:01:54.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #138416. I enjoy grooming, fighting for the people, and tricking babies. When I'm not summoning ghosts, I'm practicing witchcraft! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136111@4",
+  "sire": "137316@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1647,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

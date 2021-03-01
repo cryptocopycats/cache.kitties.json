@@ -1,0 +1,28 @@
+{
+  "id": 147554,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-08T08:16:31.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #147554. I want to live in a world where people believe that one day cats will rule this planet. I once clawed a rabbit. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29544@8",
+  "sire": "80499@9",
+  "children": [
+    "189981@11",
+    "205469@11",
+    "238065@14",
+    "291038@14",
+    "297676@11",
+    "345000@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1796,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 141790,
+  "name": "MrFancyPancy",
+  "generation": 9,
+  "created_at": "2017-12-08T01:56:56.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm MrFancyPancy. I believe the world is flat. I would give it all up for a Chanel purse. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121292@6",
+  "sire": "140943@8",
+  "children": [
+    "189887@10",
+    "191735@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1708,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

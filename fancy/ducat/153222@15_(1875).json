@@ -1,0 +1,23 @@
+{
+  "id": 153222,
+  "name": "G15 | Fancy + DuCat",
+  "generation": 15,
+  "created_at": "2017-12-08T13:19:31.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm G15 | Fancy + DuCat. My friends describe me as tantalizing and preposterous. I put maple syrup on everything. Like, everything: hot dogs, ice cream—everything! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119776@7",
+  "sire": "140655@14",
+  "children": [
+    "155966@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1875,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

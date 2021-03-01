@@ -1,0 +1,24 @@
+{
+  "id": 157380,
+  "name": "Very Rare Ducat",
+  "generation": 9,
+  "created_at": "2017-12-08T16:48:38.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! Very Rare Ducat here. I'm here to enjoy staying woke and sitting on your computer. I once headbutted a rooster. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "111409@8",
+  "sire": "156301@8",
+  "children": [
+    "187717@10",
+    "210763@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1932,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

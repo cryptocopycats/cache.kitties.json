@@ -1,0 +1,25 @@
+{
+  "id": 161489,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-08T20:19:57.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #161489. All you need to know about me is I hate ice cream with a passion. I am 62% troll, 19% Dispensary Clerk, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "144769@4",
+  "sire": "121794@12",
+  "children": [
+    "168233@14",
+    "170136@14",
+    "291776@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2003,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

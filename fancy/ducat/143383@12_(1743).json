@@ -1,0 +1,25 @@
+{
+  "id": 143383,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-08T03:48:23.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #143383. I'm a professional Culinary Sanitation Specialist and I love chocolate. I once pranced with a rhino. I don't like to talk about it. Will you be the ranch dressing to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135382@10",
+  "sire": "112154@11",
+  "children": [
+    "198681@17",
+    "356056@16",
+    "376627@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1743,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

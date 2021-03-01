@@ -1,0 +1,25 @@
+{
+  "id": 140086,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-08T00:23:19.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! Kitty #140086 here. I'm here to enjoy shakin' dat booty and staying woke. I would give it all up to star in a soap opera. Will you be the pickles to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24095@6",
+  "sire": "87012@11",
+  "children": [
+    "147248@15",
+    "201725@13",
+    "441291@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1677,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

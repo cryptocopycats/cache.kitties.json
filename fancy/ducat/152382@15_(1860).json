@@ -1,0 +1,23 @@
+{
+  "id": 152382,
+  "name": "Remi",
+  "generation": 15,
+  "created_at": "2017-12-08T12:31:51.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Remi. My friends describe me as voluptuous and fabulous. Sometimes I daydream of a life full of reading garfield, salad, and running a podcast. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36379@14",
+  "sire": "95546@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1860,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

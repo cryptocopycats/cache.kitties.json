@@ -1,0 +1,28 @@
+{
+  "id": 164081,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-08T22:14:31.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #164081. I'm a Mad Scientist by day, and I like prank-calling celebrities by night. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "26714@8",
+  "sire": "140566@8",
+  "children": [
+    "288159@10",
+    "312651@10",
+    "319418@10",
+    "328327@10",
+    "339076@17",
+    "422999@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2043,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

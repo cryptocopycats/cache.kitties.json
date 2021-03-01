@@ -1,0 +1,32 @@
+{
+  "id": 161184,
+  "name": "Kitty 161184",
+  "generation": 4,
+  "created_at": "2017-12-08T20:09:48.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty 161184. My friends describe me as ridiculous and preposterous. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "37004@3",
+  "sire": "39731@1",
+  "children": [
+    "161781@5",
+    "163719@5",
+    "164551@5",
+    "180850@5",
+    "189082@5",
+    "198608@5",
+    "219343@5",
+    "241443@5",
+    "280944@8",
+    "312031@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 447,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

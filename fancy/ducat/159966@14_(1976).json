@@ -1,0 +1,26 @@
+{
+  "id": 159966,
+  "name": "Bird + Cat = Bat",
+  "generation": 14,
+  "created_at": "2017-12-08T18:57:22.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Bird + Cat = Bat. All you need to know about me is I hate hamburgers with a passion. I like to listen to Rihanna while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136285@11",
+  "sire": "141779@13",
+  "children": [
+    "225849@15",
+    "251097@15",
+    "284675@15",
+    "306846@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1976,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 172396,
+  "name": "Rare! Sailor Kitty!",
+  "generation": 15,
+  "created_at": "2017-12-09T04:49:02.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Rare! Sailor Kitty!. I once peed on Amelia Earhart's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "12957@14",
+  "sire": "22227@10",
+  "children": [
+    "250462@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 475,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

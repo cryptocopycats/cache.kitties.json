@@ -1,0 +1,33 @@
+{
+  "id": 161251,
+  "name": "BiletDuCat",
+  "generation": 6,
+  "created_at": "2017-12-08T20:13:25.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm BiletDuCat. In high school, I was voted most likely to work at NASA. I would give it all up for a Chanel purse. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135726@5",
+  "sire": "119518@5",
+  "children": [
+    "163023@7",
+    "170706@7",
+    "174147@7",
+    "178399@7",
+    "183750@7",
+    "193282@8",
+    "213832@8",
+    "268860@8",
+    "334126@8",
+    "379578@8",
+    "455391@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1999,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

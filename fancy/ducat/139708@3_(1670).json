@@ -1,0 +1,31 @@
+{
+  "id": 139708,
+  "name": "Birdy Cat Gen3",
+  "generation": 3,
+  "created_at": "2017-12-08T00:01:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Birdy Cat Gen3. I want to live in a world where people believe the world is flat. When I'm not running a podcast, I'm swiping left! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121543@2",
+  "sire": "138072@2",
+  "children": [
+    "140110@4",
+    "141849@4",
+    "188604@4",
+    "191167@4",
+    "194433@4",
+    "201545@4",
+    "202113@4",
+    "215480@4",
+    "318471@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1670,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

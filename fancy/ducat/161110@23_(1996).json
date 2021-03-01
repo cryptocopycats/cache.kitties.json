@@ -1,0 +1,23 @@
+{
+  "id": 161110,
+  "name": null,
+  "generation": 23,
+  "created_at": "2017-12-08T20:07:59.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Kitty #161110. I'm a Train Conductor by day, and I like mocking dogs by night. I once got in a fight with a rhino, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "92473@12",
+  "sire": "91761@22",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1996,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 156301,
+  "name": "Breed",
+  "generation": 8,
+  "created_at": "2017-12-08T16:06:20.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! My name's Breed. I once peed on Confucius's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155873@7",
+  "sire": "145276@7",
+  "children": [
+    "157380@9",
+    "265725@12",
+    "269382@9",
+    "272320@9",
+    "292863@14",
+    "314508@9",
+    "340361@9",
+    "372065@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1917,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

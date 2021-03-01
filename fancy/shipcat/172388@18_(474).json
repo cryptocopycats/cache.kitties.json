@@ -1,0 +1,23 @@
+{
+  "id": 172388,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-09T04:49:02.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #172388. I want to live in a world where people believe the world is flat. I like to listen to Mariah Carey while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "160312@17",
+  "sire": "16305@13",
+  "children": [
+    "214575@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 474,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

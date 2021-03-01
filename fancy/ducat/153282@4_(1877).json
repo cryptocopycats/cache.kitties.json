@@ -1,0 +1,27 @@
+{
+  "id": 153282,
+  "name": "Duck The Police!",
+  "generation": 4,
+  "created_at": "2017-12-08T13:20:58.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Duck The Police!. I'm a Private Dancer  by day, and I like sleeping in fresh laundry by night. My secret indulgence is lasagna. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81843@3",
+  "sire": "151595@3",
+  "children": [
+    "162734@5",
+    "164885@6",
+    "168654@6",
+    "172891@7",
+    "184712@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1877,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

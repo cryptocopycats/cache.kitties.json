@@ -1,0 +1,23 @@
+{
+  "id": 153966,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-08T13:53:01.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #153966. I'm often referred to as the Chandler Bing of the group. I am 53% elf, 9% Aerobics Athlete , and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "14811@13",
+  "sire": "80283@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1883,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

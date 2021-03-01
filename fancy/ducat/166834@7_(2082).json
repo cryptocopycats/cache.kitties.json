@@ -1,0 +1,29 @@
+{
+  "id": 166834,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-09T00:26:49.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Kitty #166834. I'm a professional Skydiving Instructor and I love salad. I once frolicked with a rooster. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31866@6",
+  "sire": "141202@6",
+  "children": [
+    "168675@8",
+    "172631@12",
+    "175674@10",
+    "206921@9",
+    "243843@8",
+    "269095@8",
+    "320367@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2082,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

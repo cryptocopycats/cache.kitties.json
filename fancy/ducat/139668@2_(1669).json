@@ -1,0 +1,23 @@
+{
+  "id": 139668,
+  "name": "绝代鸭猫",
+  "generation": 2,
+  "created_at": "2017-12-07T23:59:38.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm 绝代鸭猫. I'm a Mad Scientist by day, and I like sleeping in fresh laundry by night. I am 5% wizard, 19% Foreign Film Director, and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28195@1",
+  "sire": "24352@1",
+  "children": [
+    "1961688@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1669,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

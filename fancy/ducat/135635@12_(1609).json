@@ -1,0 +1,23 @@
+{
+  "id": 135635,
+  "name": "Rare Fabulous Purrfect",
+  "generation": 12,
+  "created_at": "2017-12-07T20:31:56.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Rare Fabulous Purrfect. I believe that one day cats will rule this planet. My secret indulgence is steak. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126892@7",
+  "sire": "95151@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1609,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

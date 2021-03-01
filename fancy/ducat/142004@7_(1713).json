@@ -1,0 +1,26 @@
+{
+  "id": 142004,
+  "name": "FOMO",
+  "generation": 7,
+  "created_at": "2017-12-08T02:10:00.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm FOMO. I believe that one day cats will rule this planet. I once dreamed of being a Dispensary Clerk. Now I can be found people-watching all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78523@6",
+  "sire": "135504@6",
+  "children": [
+    "231347@8",
+    "272292@8",
+    "352373@24",
+    "356951@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1713,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 140723,
+  "name": "WHIX Bark",
+  "generation": 4,
+  "created_at": "2017-12-08T00:59:07.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm WHIX Bark. I believe that one day cats will rule this planet. I put marmite on everything. Like, everything: hot dogs, salad—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49509@3",
+  "sire": "22600@3",
+  "children": [
+    "150133@5",
+    "173904@5",
+    "175418@5",
+    "176607@5",
+    "299267@5",
+    "309086@5",
+    "311640@5",
+    "327579@5",
+    "349648@5",
+    "377394@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1692,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

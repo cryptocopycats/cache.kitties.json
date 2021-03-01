@@ -1,0 +1,25 @@
+{
+  "id": 164104,
+  "name": "Martin Luther Duck",
+  "generation": 8,
+  "created_at": "2017-12-08T22:16:04.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Martin Luther Duck. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63276@7",
+  "sire": "145276@7",
+  "children": [
+    "194655@14",
+    "252959@11",
+    "271852@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2044,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

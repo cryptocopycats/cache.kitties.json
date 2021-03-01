@@ -1,0 +1,32 @@
+{
+  "id": 137039,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-07T21:54:12.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #137039. All you need to know about me is I hate cereal with a passion. When no one's home, I invite my pals over and we listen to Rihanna. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "103958@5",
+  "sire": "132439@5",
+  "children": [
+    "238901@8",
+    "241911@8",
+    "249941@8",
+    "255586@7",
+    "273023@8",
+    "281047@7",
+    "291417@9",
+    "307497@11",
+    "329472@7",
+    "371314@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 72,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

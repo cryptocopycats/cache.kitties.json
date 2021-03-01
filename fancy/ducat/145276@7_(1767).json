@@ -1,0 +1,31 @@
+{
+  "id": 145276,
+  "name": "Breed",
+  "generation": 7,
+  "created_at": "2017-12-08T06:16:30.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Breed. I want to live in a world where people believe the world is flat. I'm often described as raunchy, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "77858@6",
+  "sire": "112561@6",
+  "children": [
+    "156301@8",
+    "164104@8",
+    "165119@8",
+    "245468@8",
+    "298080@8",
+    "308870@10",
+    "369446@9",
+    "535848@8",
+    "739604@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1767,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

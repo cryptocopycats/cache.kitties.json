@@ -1,0 +1,24 @@
+{
+  "id": 141819,
+  "name": "Cute Little G3 Birdy",
+  "generation": 3,
+  "created_at": "2017-12-08T01:57:39.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Cute Little G3 Birdy. My friends describe me as ridiculous and seductive. I once dreamed of being a Skydiving Instructor. Now I can be found running a podcast all day. Will you be the marmalade to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121543@2",
+  "sire": "138072@2",
+  "children": [
+    "171364@4",
+    "208275@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1710,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

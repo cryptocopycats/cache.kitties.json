@@ -1,0 +1,25 @@
+{
+  "id": 150834,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-08T11:05:24.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Kitty #150834. I'm a Skydiving Instructor by day, and I like riverdancing by night. Sometimes I daydream of a life full of spinning sick beats, ice cream, and playing chess. Our friendship will be wondrous, brilliant, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "150479@3",
+  "sire": "48813@19",
+  "children": [
+    "152843@21",
+    "225732@21",
+    "630018@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1837,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

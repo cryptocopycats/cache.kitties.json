@@ -1,0 +1,23 @@
+{
+  "id": 141588,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-08T01:46:24.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Kitty #141588. All you need to know about me is I hate hamburgers with a passion. I once made a rabbit pester. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39948@10",
+  "sire": "40572@18",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1703,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

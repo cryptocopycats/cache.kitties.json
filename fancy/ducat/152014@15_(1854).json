@@ -1,0 +1,26 @@
+{
+  "id": 152014,
+  "name": "Bebe",
+  "generation": 15,
+  "created_at": "2017-12-08T12:10:25.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Bebe. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Cleopatra. I look forward to glaring at the neighbour's cat with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117207@12",
+  "sire": "87975@14",
+  "children": [
+    "156800@16",
+    "161935@16",
+    "181675@16",
+    "239076@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1854,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

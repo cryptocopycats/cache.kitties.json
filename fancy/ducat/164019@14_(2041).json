@@ -1,0 +1,26 @@
+{
+  "id": 164019,
+  "name": "Wolfe",
+  "generation": 14,
+  "created_at": "2017-12-08T22:08:59.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Wolfe. In high school, I was voted most likely to work at NASA. Some people say I'm the Neville Longbottom of the group. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147124@12",
+  "sire": "154810@13",
+  "children": [
+    "253523@15",
+    "259413@15",
+    "580284@15",
+    "1671897@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2041,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

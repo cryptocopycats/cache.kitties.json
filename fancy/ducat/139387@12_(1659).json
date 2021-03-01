@@ -1,0 +1,26 @@
+{
+  "id": 139387,
+  "name": "Baby Duck",
+  "generation": 12,
+  "created_at": "2017-12-07T23:43:41.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Baby Duck. In high school, I was voted most likely to work at NASA. I once dreamed of being a Mad Scientist. Now I can be found talking about how much I lift all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135983@9",
+  "sire": "136285@11",
+  "children": [
+    "141779@13",
+    "158270@13",
+    "171181@13",
+    "239420@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1659,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

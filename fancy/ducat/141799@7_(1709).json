@@ -1,0 +1,28 @@
+{
+  "id": 141799,
+  "name": "Birdcat",
+  "generation": 7,
+  "created_at": "2017-12-08T01:57:17.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Birdcat. I enjoy being a nevernude, hitting on yo' man, and licking doorknobs. Sometimes I daydream of a life full of fighting the patriarchy, hamburgers, and jump-roping. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97605@6",
+  "sire": "140763@5",
+  "children": [
+    "317135@8",
+    "334074@9",
+    "335967@9",
+    "344249@8",
+    "357748@8",
+    "359271@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1709,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

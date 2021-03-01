@@ -1,0 +1,26 @@
+{
+  "id": 155910,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-08T15:50:13.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Kitty #155910. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Cleopatra. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155018@6",
+  "sire": "119631@6",
+  "children": [
+    "156753@8",
+    "157186@8",
+    "159313@8",
+    "165836@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1908,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

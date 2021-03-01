@@ -1,0 +1,24 @@
+{
+  "id": 160332,
+  "name": "Very Rare Duck",
+  "generation": 12,
+  "created_at": "2017-12-08T19:22:57.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Very Rare Duck. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66433@9",
+  "sire": "133957@11",
+  "children": [
+    "168417@18",
+    "290132@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1984,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

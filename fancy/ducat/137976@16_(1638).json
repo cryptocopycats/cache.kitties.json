@@ -1,0 +1,23 @@
+{
+  "id": 137976,
+  "name": "Virgin Duck Cat (Parent Duck)",
+  "generation": 16,
+  "created_at": "2017-12-07T22:41:34.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Virgin Duck Cat (Parent Duck). My friends describe me as ridiculous and gullible. I am 93% troll, 33% Private Dancer , and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107855@15",
+  "sire": "98114@9",
+  "children": [
+    "159130@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1638,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

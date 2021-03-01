@@ -1,0 +1,24 @@
+{
+  "id": 168678,
+  "name": "Chicken",
+  "generation": 8,
+  "created_at": "2017-12-09T01:43:11.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Chicken. I'm a professional Culinary Sanitation Specialist and I love wet food. I once made a chimpanzee pester. Will you be the pickles to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "153518@4",
+  "sire": "166797@7",
+  "children": [
+    "219918@10",
+    "227317@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2108,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

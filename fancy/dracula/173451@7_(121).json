@@ -1,0 +1,23 @@
+{
+  "id": 173451,
+  "name": "Dracula #121",
+  "generation": 7,
+  "created_at": "2017-12-09T05:38:47.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Dracula #121. I'm a professional Culinary Sanitation Specialist and I love apple pie. I once got in a fight with a dog, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "148322@6",
+  "sire": "108732@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 121,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

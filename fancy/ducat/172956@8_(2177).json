@@ -1,0 +1,28 @@
+{
+  "id": 172956,
+  "name": "Fav Birdie",
+  "generation": 8,
+  "created_at": "2017-12-09T05:14:47.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! Fav Birdie here. I'm here to enjoy eating until I loathe myself and sweating through my feet. I once got in a fight with a dog, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "164580@7",
+  "sire": "150784@7",
+  "children": [
+    "174576@9",
+    "185502@9",
+    "188887@9",
+    "223786@9",
+    "238449@9",
+    "274126@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2177,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

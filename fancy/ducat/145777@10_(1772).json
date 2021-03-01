@@ -1,0 +1,23 @@
+{
+  "id": 145777,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-08T06:42:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! Kitty #145777 here. I'm here to enjoy being a nevernude and sweating through my feet. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "92046@9",
+  "sire": "87756@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1772,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 137733,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-07T22:27:46.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #137733. I'm often referred to as the Samwise Gamgee of the group. I am 56% hobbit, 14% Private Dancer , and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "78614@13",
+  "sire": "109608@15",
+  "children": [
+    "185346@17",
+    "219440@17",
+    "245681@17",
+    "265004@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 74,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 151525,
+  "name": "Zoolander/mainecoon/birdparent",
+  "generation": 15,
+  "created_at": "2017-12-08T11:43:16.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Zoolander/mainecoon/birdparent. I'm often referred to as the Chandler Bing of the group. When I'm not mocking dogs, I'm practicing witchcraft! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "106613@6",
+  "sire": "62943@14",
+  "children": [
+    "152430@16",
+    "183894@16",
+    "368541@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1844,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 156176,
+  "name": "Fancy Birdy",
+  "generation": 8,
+  "created_at": "2017-12-08T16:00:19.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Fancy Birdy. I'm a professional Skydiving Instructor and I love ice cream. In my free time, I can usually be found raunchy or reading Danielle Steele. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "146166@6",
+  "sire": "146755@7",
+  "children": [
+    "272087@9",
+    "294645@9",
+    "307376@10",
+    "323059@10",
+    "429329@9",
+    "432183@9",
+    "447394@11",
+    "476104@15",
+    "488121@9",
+    "972656@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1913,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

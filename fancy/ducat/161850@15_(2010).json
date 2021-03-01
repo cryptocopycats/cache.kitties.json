@@ -1,0 +1,28 @@
+{
+  "id": 161850,
+  "name": "Quack Face",
+  "generation": 15,
+  "created_at": "2017-12-08T20:36:02.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! My name's Quack Face. I once peed on Confucius's cat. They had it coming. I am 50% oracle, 25% Ventriloquist, and otherwise bad at math. I look forward to grooming with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109181@12",
+  "sire": "143231@14",
+  "children": [
+    "182406@16",
+    "200407@16",
+    "243108@16",
+    "250624@16",
+    "302422@16",
+    "381759@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2010,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

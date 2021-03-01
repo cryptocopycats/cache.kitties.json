@@ -1,0 +1,23 @@
+{
+  "id": 161789,
+  "name": "Donald Duck",
+  "generation": 6,
+  "created_at": "2017-12-08T20:34:31.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Donald Duck. In high school, I was voted most likely to work at NASA. I like to listen to Aretha Franklin while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71200@5",
+  "sire": "71412@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2009,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

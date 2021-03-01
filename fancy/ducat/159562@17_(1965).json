@@ -1,0 +1,29 @@
+{
+  "id": 159562,
+  "name": "Feeby - Cryptonaut.org",
+  "generation": 17,
+  "created_at": "2017-12-08T18:35:53.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Feeby - Cryptonaut.org. I'm often referred to as the Homer Simpson of the group. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155112@13",
+  "sire": "154052@16",
+  "children": [
+    "626150@144",
+    "1027623@18",
+    "1033777@19",
+    "1059228@18",
+    "1078178@18",
+    "1113874@18",
+    "1466807@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1965,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

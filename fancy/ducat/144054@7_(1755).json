@@ -1,0 +1,26 @@
+{
+  "id": 144054,
+  "name": "Birdcat",
+  "generation": 7,
+  "created_at": "2017-12-08T04:48:20.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Birdcat. My friends describe me as voluptuous and despicable. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121498@5",
+  "sire": "121292@6",
+  "children": [
+    "317135@8",
+    "320377@8",
+    "346152@8",
+    "385991@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1755,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

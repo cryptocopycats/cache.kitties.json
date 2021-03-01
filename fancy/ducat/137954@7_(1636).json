@@ -1,0 +1,23 @@
+{
+  "id": 137954,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-07T22:40:21.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's Kitty #137954. I once peed on Confucius's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136890@6",
+  "sire": "137040@6",
+  "children": [
+    "146436@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1636,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

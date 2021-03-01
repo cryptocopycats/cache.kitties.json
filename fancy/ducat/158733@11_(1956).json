@@ -1,0 +1,23 @@
+{
+  "id": 158733,
+  "name": "Yan's Duck",
+  "generation": 11,
+  "created_at": "2017-12-08T17:50:42.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Yan's Duck. In high school, I was voted most likely to work at NASA. I would give it all up to star in a soap opera. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "127373@10",
+  "sire": "34335@7",
+  "children": [
+    "160851@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1956,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

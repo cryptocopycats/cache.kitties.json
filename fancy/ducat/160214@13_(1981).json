@@ -1,0 +1,23 @@
+{
+  "id": 160214,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-08T19:13:50.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #160214. All you need to know about me is I hate ice cream with a passion. Some people say I'm the Niles Crane of the group. Our friendship will be fabulous, brilliant, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "89324@12",
+  "sire": "62042@10",
+  "children": [
+    "194398@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1981,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

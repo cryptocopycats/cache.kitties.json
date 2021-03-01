@@ -1,0 +1,23 @@
+{
+  "id": 139570,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-07T23:52:27.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! Kitty #139570 here. I'm here to enjoy licking doorknobs and reading garfield. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "76160@8",
+  "sire": "100748@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1667,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

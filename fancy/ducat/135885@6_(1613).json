@@ -1,0 +1,26 @@
+{
+  "id": 135885,
+  "name": "135885",
+  "generation": 6,
+  "created_at": "2017-12-07T20:46:43.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! 135885 here. I'm here to enjoy sweating through my feet and hitting on yo' man. I once got in a fight with a dolphin, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135347@5",
+  "sire": "135175@3",
+  "children": [
+    "326859@7",
+    "327363@7",
+    "555253@7",
+    "1104701@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1613,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

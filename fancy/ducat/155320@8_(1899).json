@@ -1,0 +1,23 @@
+{
+  "id": 155320,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-08T15:16:21.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm Kitty #155320. My friends describe me as despicable and ridiculous. My friends describe me as \"seductive.\" It's... accurate. Will you be the soy sauce to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131372@7",
+  "sire": "146631@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1899,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

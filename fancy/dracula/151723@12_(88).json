@@ -1,0 +1,23 @@
+{
+  "id": 151723,
+  "name": "Bat Hanger",
+  "generation": 12,
+  "created_at": "2017-12-08T11:56:07.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Bat Hanger. I believe that one day cats will rule this planet. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "133100@11",
+  "sire": "106585@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 88,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 150298,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-08T10:35:46.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Kitty #150298. I'm a professional Dispensary Clerk and I love cereal. I like to listen to Coldplay while grooming. Don't judge me. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142277@7",
+  "sire": "137184@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1825,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

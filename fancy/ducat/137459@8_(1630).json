@@ -1,0 +1,25 @@
+{
+  "id": 137459,
+  "name": "Purebred Fancy - RARE",
+  "generation": 8,
+  "created_at": "2017-12-07T22:15:19.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Purebred Fancy - RARE. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Confucius. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97094@7",
+  "sire": "123291@7",
+  "children": [
+    "199063@14",
+    "200863@9",
+    "404977@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1630,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 135623,
+  "name": "Donald Duck Cat",
+  "generation": 10,
+  "created_at": "2017-12-07T20:31:23.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Donald Duck Cat. I'm a Ventriloquist by day, and I like swiping left by night. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81607@9",
+  "sire": "80499@9",
+  "children": [
+    "156793@11",
+    "181126@11",
+    "232546@13",
+    "251561@17",
+    "265723@11",
+    "283496@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1608,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

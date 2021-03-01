@@ -1,0 +1,25 @@
+{
+  "id": 172914,
+  "name": "CUTIE PIE",
+  "generation": 13,
+  "created_at": "2017-12-09T05:13:59.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm CUTIE PIE. I've never told anyone this, but I once clawed a dog. I once clawed a goose. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "151434@7",
+  "sire": "168740@12",
+  "children": [
+    "174810@14",
+    "181977@14",
+    "235771@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2176,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

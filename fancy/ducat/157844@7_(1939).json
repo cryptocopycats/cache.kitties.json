@@ -1,0 +1,33 @@
+{
+  "id": 157844,
+  "name": "Bukilia",
+  "generation": 7,
+  "created_at": "2017-12-08T17:09:21.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Bukilia. I'm often referred to as the Frodo Baggins of the group. Some people say I'm the Frodo Baggins of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136842@6",
+  "sire": "155258@6",
+  "children": [
+    "159014@8",
+    "159766@8",
+    "163727@8",
+    "175138@8",
+    "208479@8",
+    "253297@8",
+    "279070@8",
+    "290683@8",
+    "512172@11",
+    "541366@8",
+    "546475@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1939,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

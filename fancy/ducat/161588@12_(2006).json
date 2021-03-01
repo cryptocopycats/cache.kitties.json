@@ -1,0 +1,23 @@
+{
+  "id": 161588,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-08T20:24:41.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #161588. I've never told anyone this, but I once tricked a dog. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107985@11",
+  "sire": "96044@6",
+  "children": [
+    "206965@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2006,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

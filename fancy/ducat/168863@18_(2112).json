@@ -1,0 +1,32 @@
+{
+  "id": 168863,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-09T01:51:55.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #168863. I'm often referred to as the Chandler Bing of the group. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115243@16",
+  "sire": "114690@17",
+  "children": [
+    "170527@19",
+    "190619@19",
+    "224738@19",
+    "287440@19",
+    "361273@19",
+    "417161@19",
+    "484619@20",
+    "788789@19",
+    "972521@19",
+    "1112326@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2112,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

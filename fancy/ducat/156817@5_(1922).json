@@ -1,0 +1,31 @@
+{
+  "id": 156817,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-08T16:26:34.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #156817. I'm often referred to as the Frodo Baggins of the group. I put marmalade on everything. Like, everything: hot dogs, apple pie—everything! Will you be the peanut butter to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121412@3",
+  "sire": "98065@4",
+  "children": [
+    "214728@6",
+    "219785@6",
+    "232408@6",
+    "239527@6",
+    "243547@6",
+    "252262@6",
+    "259929@6",
+    "270960@6",
+    "313494@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1922,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

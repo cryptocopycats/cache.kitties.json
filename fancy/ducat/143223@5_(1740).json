@@ -1,0 +1,27 @@
+{
+  "id": 143223,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-08T03:36:46.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #143223. My friends describe me as hairy and brilliant. I'm often described as fabulous, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "86509@4",
+  "sire": "109355@4",
+  "children": [
+    "145883@6",
+    "154323@6",
+    "325576@7",
+    "332955@7",
+    "540750@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1740,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

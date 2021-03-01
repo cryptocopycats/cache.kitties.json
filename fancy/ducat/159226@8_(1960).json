@@ -1,0 +1,29 @@
+{
+  "id": 159226,
+  "name": "Tweet",
+  "generation": 8,
+  "created_at": "2017-12-08T18:24:22.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Tweet. I once peed on King Henry VIII's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "150531@7",
+  "sire": "157666@7",
+  "children": [
+    "171933@9",
+    "174840@9",
+    "226782@9",
+    "234430@9",
+    "244925@9",
+    "276644@9",
+    "306747@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1960,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

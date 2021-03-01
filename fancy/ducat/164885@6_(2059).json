@@ -1,0 +1,29 @@
+{
+  "id": 164885,
+  "name": "AmazingDuckKitty",
+  "generation": 6,
+  "created_at": "2017-12-08T22:54:00.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! My name's AmazingDuckKitty. I once peed on Cleopatra's cat. They had it coming. When no one's home, I invite my pals over and we listen to Frank Sinatra. I hope we can be stinky friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "163614@5",
+  "sire": "153282@4",
+  "children": [
+    "166797@7",
+    "172589@7",
+    "199477@9",
+    "207054@9",
+    "218386@9",
+    "246886@9",
+    "320326@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2059,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

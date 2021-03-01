@@ -1,0 +1,23 @@
+{
+  "id": 159144,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-08T18:21:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #159144. My friends describe me as smelly and tantalizing. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Will you be the soy sauce to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "106931@21",
+  "sire": "106611@19",
+  "children": [
+    "227880@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1959,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

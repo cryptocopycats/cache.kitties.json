@@ -1,0 +1,23 @@
+{
+  "id": 149572,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-08T10:04:49.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #149572. I've never told anyone this, but I once pranced with a dog. I like to listen to Mariah Carey while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "106830@12",
+  "sire": "139762@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1813,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

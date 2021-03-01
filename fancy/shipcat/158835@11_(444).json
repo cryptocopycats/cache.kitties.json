@@ -1,0 +1,25 @@
+{
+  "id": 158835,
+  "name": "Shipman",
+  "generation": 11,
+  "created_at": "2017-12-08T17:56:05.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Shipman. All you need to know about me is I hate hamburgers with a passion. Sometimes I daydream of a life full of sweating through my feet, salad, and talking about how much I lift. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "52014@7",
+  "sire": "100374@10",
+  "children": [
+    "231258@12",
+    "274281@15",
+    "283496@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 444,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

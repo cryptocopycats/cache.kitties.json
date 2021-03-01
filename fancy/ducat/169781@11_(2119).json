@@ -1,0 +1,23 @@
+{
+  "id": 169781,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-09T02:35:24.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #169781. In high school, I was voted school jock. I am 47% fairy, 45% Culinary Sanitation Specialist, and otherwise bad at math. Can you make my raunchy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158043@10",
+  "sire": "101501@9",
+  "children": [
+    "197819@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2119,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

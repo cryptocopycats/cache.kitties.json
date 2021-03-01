@@ -1,0 +1,27 @@
+{
+  "id": 170299,
+  "name": "Cutie Pie",
+  "generation": 5,
+  "created_at": "2017-12-09T03:00:25.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Cutie Pie. I'm a professional Aerobics Athlete  and I love salad. I am 53% hobbit, 88% Private Dancer , and otherwise bad at math. I look forward to being a nevernude with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "139948@4",
+  "sire": "158274@4",
+  "children": [
+    "238737@6",
+    "241216@6",
+    "241901@6",
+    "245328@6",
+    "249460@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2129,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

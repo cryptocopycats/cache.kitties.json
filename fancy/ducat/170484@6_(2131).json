@@ -1,0 +1,23 @@
+{
+  "id": 170484,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T03:12:39.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #170484. I'm a professional Skydiving Instructor and I love cereal. I once got in a fight with a moose, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "123305@5",
+  "sire": "44007@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2131,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

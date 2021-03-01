@@ -1,0 +1,23 @@
+{
+  "id": 151855,
+  "name": "Parent - VIOLET",
+  "generation": 8,
+  "created_at": "2017-12-08T12:02:07.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Parent - VIOLET. I've never told anyone this, but I once pawed at a dog. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141253@7",
+  "sire": "116619@3",
+  "children": [
+    "152825@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1851,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 141506,
+  "name": "🦆 Mr. Goose",
+  "generation": 4,
+  "created_at": "2017-12-08T01:40:26.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm 🦆 Mr. Goose. I've never told anyone this, but I once pawed at a dog. I once dreamed of being a Foreign Film Director. Now I can be found riding the bus all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "122234@3",
+  "sire": "132996@3",
+  "children": [
+    "144777@10",
+    "145036@18",
+    "155952@10",
+    "157807@13",
+    "161583@10",
+    "170693@10",
+    "202127@9",
+    "217195@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1699,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 154536,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-08T14:25:24.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #154536. I'm a professional Dispensary Clerk and I love hamburgers. I'm often described as seductive, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24939@7",
+  "sire": "127327@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1887,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

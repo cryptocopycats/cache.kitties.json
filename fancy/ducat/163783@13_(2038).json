@@ -1,0 +1,23 @@
+{
+  "id": 163783,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-08T21:56:48.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #163783. I'm often referred to as the Neville Longbottom of the group. In my free time, I can usually be found hairy or riverdancing. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121126@12",
+  "sire": "121551@9",
+  "children": [
+    "179058@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2038,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

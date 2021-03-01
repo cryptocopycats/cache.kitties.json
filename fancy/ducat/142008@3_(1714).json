@@ -1,0 +1,24 @@
+{
+  "id": 142008,
+  "name": "Swifty",
+  "generation": 3,
+  "created_at": "2017-12-08T02:10:00.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Swifty. I want to live in a world where people believe that one day cats will rule this planet. I am 3% gremlin, 17% Spin Instructor , and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "116012@2",
+  "sire": "37245@2",
+  "children": [
+    "595579@6",
+    "600703@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1714,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

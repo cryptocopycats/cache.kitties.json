@@ -1,0 +1,24 @@
+{
+  "id": 147697,
+  "name": "(Rare) - (Fancy) - SkyKitty",
+  "generation": 8,
+  "created_at": "2017-12-08T08:23:48.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm (Rare) - (Fancy) - SkyKitty. I've never told anyone this, but I once loved a dog. I once dreamed of being a Skydiving Instructor. Now I can be found summoning ghosts all day. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "65785@7",
+  "sire": "123132@7",
+  "children": [
+    "358883@9",
+    "395427@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1798,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

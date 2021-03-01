@@ -1,0 +1,25 @@
+{
+  "id": 165181,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-08T23:08:00.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #165181. All you need to know about me is I hate lasagna with a passion. I once got in a fight with a platypus, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126618@4",
+  "sire": "74726@4",
+  "children": [
+    "310290@7",
+    "351530@9",
+    "433539@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2066,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

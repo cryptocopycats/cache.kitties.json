@@ -1,0 +1,30 @@
+{
+  "id": 157820,
+  "name": "GP5 Birdy 2 G2",
+  "generation": 2,
+  "created_at": "2017-12-08T17:06:46.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm GP5 Birdy 2 G2. I'm a Ventriloquist by day, and I like watching reality tv by night. I am 15% hobbit, 43% Aerobics Athlete , and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71577@1",
+  "sire": "13862@1",
+  "children": [
+    "186367@3",
+    "187197@3",
+    "191673@3",
+    "192809@3",
+    "196492@3",
+    "200401@3",
+    "212863@3",
+    "234744@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1936,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

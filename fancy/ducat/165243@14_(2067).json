@@ -1,0 +1,24 @@
+{
+  "id": 165243,
+  "name": "Fancy Virgin DuCat RARE",
+  "generation": 14,
+  "created_at": "2017-12-08T23:12:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Fancy Virgin DuCat RARE. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found vegan or summoning ghosts. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "139379@13",
+  "sire": "114608@12",
+  "children": [
+    "300589@15",
+    "355998@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2067,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 152033,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-08T12:11:26.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #152033. I'm often referred to as the Chandler Bing of the group. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "88247@17",
+  "sire": "127460@13",
+  "children": [
+    "352849@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1855,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

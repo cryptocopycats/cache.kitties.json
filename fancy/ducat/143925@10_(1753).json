@@ -1,0 +1,24 @@
+{
+  "id": 143925,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-08T04:37:58.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #143925. In high school, I was voted biggest teacher's pet. I put peanut butter on everything. Like, everything: hot dogs, hamburgers—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "122241@9",
+  "sire": "119874@9",
+  "children": [
+    "207695@11",
+    "238103@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1753,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

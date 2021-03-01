@@ -1,0 +1,24 @@
+{
+  "id": 137892,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-07T22:37:46.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #137892. All you need to know about me is I hate wet food with a passion. When I'm not riverdancing, I'm people-watching! I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94591@11",
+  "sire": "35060@6",
+  "children": [
+    "180168@13",
+    "925156@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1634,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

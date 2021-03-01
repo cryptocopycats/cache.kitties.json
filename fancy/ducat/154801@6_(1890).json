@@ -1,0 +1,23 @@
+{
+  "id": 154801,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-08T14:44:19.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! Kitty #154801 here. I'm here to enjoy picking on mice and tripping my owner. I once got in a fight with a platypus, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152492@3",
+  "sire": "152484@5",
+  "children": [
+    "197413@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1890,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

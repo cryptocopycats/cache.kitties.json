@@ -1,0 +1,23 @@
+{
+  "id": 145587,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-08T06:33:36.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #145587. I'm often referred to as the Neville Longbottom of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Will you be the wasabi to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "143159@10",
+  "sire": "144146@9",
+  "children": [
+    "409390@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 426,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 159700,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-08T18:46:50.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #159700. My friends describe me as wondrous and tantalizing. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "154158@7",
+  "sire": "150784@7",
+  "children": [
+    "170810@9",
+    "173454@9",
+    "177140@9",
+    "182988@9",
+    "266042@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1971,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

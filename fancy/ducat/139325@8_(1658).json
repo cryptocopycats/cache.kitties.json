@@ -1,0 +1,23 @@
+{
+  "id": 139325,
+  "name": "RARE TWEETY KITTY!",
+  "generation": 8,
+  "created_at": "2017-12-07T23:41:00.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm RARE TWEETY KITTY!. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93995@2",
+  "sire": "96106@7",
+  "children": [
+    "190283@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1658,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

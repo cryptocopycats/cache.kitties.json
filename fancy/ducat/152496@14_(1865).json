@@ -1,0 +1,23 @@
+{
+  "id": 152496,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-08T12:37:14.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #152496. I believe the world is flat. I'm often described as gullible, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "149069@13",
+  "sire": "149424@13",
+  "children": [
+    "180357@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1865,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

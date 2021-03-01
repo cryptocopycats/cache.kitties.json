@@ -1,0 +1,23 @@
+{
+  "id": 173261,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T05:30:00.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #173261. I've never told anyone this, but I once groomed a dog. My friends describe me as \"stinky.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "170926@5",
+  "sire": "170286@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2184,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

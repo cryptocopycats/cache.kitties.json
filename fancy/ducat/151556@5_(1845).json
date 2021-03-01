@@ -1,0 +1,23 @@
+{
+  "id": 151556,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-08T11:44:58.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #151556. I've never told anyone this, but I once bit a dog. I would give it all up for a Chanel purse. Will you be the maple syrup to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "113361@4",
+  "sire": "113797@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1845,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

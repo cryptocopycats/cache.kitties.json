@@ -1,0 +1,29 @@
+{
+  "id": 168152,
+  "name": "Got any grapes?",
+  "generation": 12,
+  "created_at": "2017-12-09T01:23:38.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Got any grapes?. I'm often referred to as the Marge Simpson of the group. I was voted most likely to work at NASA in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119318@11",
+  "sire": "92663@11",
+  "children": [
+    "214326@13",
+    "352338@13",
+    "362120@13",
+    "478318@18",
+    "481327@13",
+    "486087@13",
+    "560372@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2100,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

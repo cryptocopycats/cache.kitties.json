@@ -1,0 +1,23 @@
+{
+  "id": 164951,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-08T22:57:05.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #164951. In high school, I was voted school jock. My secret indulgence is wet food. Will you be the wasabi to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "133029@3",
+  "sire": "157693@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2062,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

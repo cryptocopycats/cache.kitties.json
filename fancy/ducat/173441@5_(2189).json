@@ -1,0 +1,27 @@
+{
+  "id": 173441,
+  "name": "chicken whiskers",
+  "generation": 5,
+  "created_at": "2017-12-09T05:38:19.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm chicken whiskers. I want to live in a world where people believe the world is flat. In my free time, I can usually be found vegan or practicing witchcraft. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160574@4",
+  "sire": "135898@4",
+  "children": [
+    "173851@7",
+    "175021@6",
+    "193238@20",
+    "292081@12",
+    "292826@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2189,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

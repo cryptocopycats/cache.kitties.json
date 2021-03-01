@@ -1,0 +1,23 @@
+{
+  "id": 152923,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-08T13:03:02.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! Kitty #152923 here. I'm here to enjoy chasing red dots and tripping my owner. It's not common knowledge, but my ancestry connects me to King Henry VIII. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126654@10",
+  "sire": "151278@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1871,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 157957,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-08T17:12:07.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #157957. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Beyoncé. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "148692@6",
+  "sire": "145286@5",
+  "children": [
+    "159544@11",
+    "161568@12",
+    "164888@8",
+    "178309@8",
+    "197894@8",
+    "203884@8",
+    "224360@10",
+    "273203@12",
+    "331464@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1942,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

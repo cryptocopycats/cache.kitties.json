@@ -1,0 +1,26 @@
+{
+  "id": 162148,
+  "name": "ShipCat #454",
+  "generation": 9,
+  "created_at": "2017-12-08T20:48:51.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's ShipCat #454. I once peed on Martin Luther King Jr.'s cat. They had it coming. When I'm not reading Danielle Steele, I'm prank-calling celebrities! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "150110@8",
+  "sire": "116274@8",
+  "children": [
+    "195350@12",
+    "215625@12",
+    "221749@12",
+    "363709@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 454,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

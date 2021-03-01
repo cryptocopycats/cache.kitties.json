@@ -1,0 +1,25 @@
+{
+  "id": 156261,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-08T16:05:08.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #156261. I'm a Aerobics Athlete  by day, and I like braiding people's hair by night. My friends describe me as \"ridiculous.\" It's... accurate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "56826@14",
+  "sire": "86576@19",
+  "children": [
+    "295926@21",
+    "332512@21",
+    "440884@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1916,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 139481,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-07T23:50:36.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #139481. I'm a professional Ventriloquist and I love hamburgers. I once dreamed of being a Skydiving Instructor. Now I can be found people-watching all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "137028@6",
+  "sire": "138999@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1664,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

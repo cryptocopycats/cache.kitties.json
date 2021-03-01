@@ -1,0 +1,25 @@
+{
+  "id": 146987,
+  "name": "Ducat Gen 6",
+  "generation": 6,
+  "created_at": "2017-12-08T07:44:31.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Ducat Gen 6. I'm a Private Dancer  by day, and I like volunteering at the local kitten rescue shelter by night. Some people say I'm the Steve Urkel of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "102803@5",
+  "sire": "135293@5",
+  "children": [
+    "242366@7",
+    "247628@7",
+    "274561@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1787,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

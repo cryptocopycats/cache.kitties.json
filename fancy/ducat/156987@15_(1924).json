@@ -1,0 +1,26 @@
+{
+  "id": 156987,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-08T16:34:27.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #156987. I've never told anyone this, but I once licked a dog. I would give it all up to be on Oprah. I look forward to grooming with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115356@11",
+  "sire": "139568@14",
+  "children": [
+    "166742@16",
+    "235683@16",
+    "442461@16",
+    "449094@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1924,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

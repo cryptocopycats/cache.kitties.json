@@ -1,0 +1,23 @@
+{
+  "id": 172993,
+  "name": "FANCY:DUCAT VIRGEN",
+  "generation": 2,
+  "created_at": "2017-12-09T05:17:26.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm FANCY:DUCAT VIRGEN. I'm a Culinary Sanitation Specialist by day, and I like talking about how much I lift by night. I once dreamed of being a Dogwalker. Now I can be found summoning ghosts all day. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109329@1",
+  "sire": "128019@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2178,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

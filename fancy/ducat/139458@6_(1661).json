@@ -1,0 +1,31 @@
+{
+  "id": 139458,
+  "name": "BIRD KITTY!!",
+  "generation": 6,
+  "created_at": "2017-12-07T23:49:42.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm BIRD KITTY!!. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "137375@5",
+  "sire": "124378@5",
+  "children": [
+    "140271@7",
+    "145219@7",
+    "146854@7",
+    "150261@7",
+    "153847@7",
+    "175489@7",
+    "203491@9",
+    "241566@9",
+    "306255@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1661,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

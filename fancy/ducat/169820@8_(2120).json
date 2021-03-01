@@ -1,0 +1,23 @@
+{
+  "id": 169820,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T02:37:24.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #169820. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Michael Bolton. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "163720@7",
+  "sire": "105681@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2120,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 143344,
+  "name": "ConwayTweety!",
+  "generation": 7,
+  "created_at": "2017-12-08T03:45:46.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm ConwayTweety!. I'm a professional Mad Scientist and I love apple pie. I once snuggled a rhino. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "114185@6",
+  "sire": "108809@6",
+  "children": [
+    "148295@9",
+    "310594@9",
+    "321268@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1741,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

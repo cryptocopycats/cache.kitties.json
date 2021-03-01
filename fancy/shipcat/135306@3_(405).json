@@ -1,0 +1,26 @@
+{
+  "id": 135306,
+  "name": "Cpt. Jack Sparrow",
+  "generation": 3,
+  "created_at": "2017-12-07T20:16:39.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Cpt. Jack Sparrow. I believe the world is flat. When I'm not mocking dogs, I'm playing chess! I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "132333@2",
+  "sire": "133443@2",
+  "children": [
+    "153973@4",
+    "174237@4",
+    "184093@4",
+    "196462@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 405,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 162280,
+  "name": "Salmon+SteveUrkel+Snagglepuss",
+  "generation": 8,
+  "created_at": "2017-12-08T20:53:45.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Salmon+SteveUrkel+Snagglepuss. I'm often referred to as the Steve Urkel of the group. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147732@5",
+  "sire": "155839@7",
+  "children": [
+    "169248@15",
+    "173743@9",
+    "177531@15",
+    "190193@17",
+    "216253@17",
+    "269071@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2018,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

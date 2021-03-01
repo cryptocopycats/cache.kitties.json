@@ -1,0 +1,23 @@
+{
+  "id": 164020,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-08T22:08:59.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #164020. I'm a Culinary Sanitation Specialist by day, and I like practicing witchcraft by night. I was voted school jock in college. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162867@9",
+  "sire": "147416@13",
+  "children": [
+    "168201@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2042,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

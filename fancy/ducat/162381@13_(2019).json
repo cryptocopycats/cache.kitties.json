@@ -1,0 +1,23 @@
+{
+  "id": 162381,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-08T20:58:12.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! My name's Kitty #162381. I once peed on Martin Luther King Jr.'s cat. They had it coming. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Our friendship will be stinky, annoying, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "71758@11",
+  "sire": "90078@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2019,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

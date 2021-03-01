@@ -1,0 +1,29 @@
+{
+  "id": 160147,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-08T19:10:45.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Kitty #160147. I'm a professional Dispensary Clerk and I love cereal. My friends describe me as \"brilliant.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103208@8",
+  "sire": "118179@8",
+  "children": [
+    "232486@10",
+    "235200@10",
+    "254192@10",
+    "256235@10",
+    "260800@18",
+    "284129@10",
+    "299807@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1979,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

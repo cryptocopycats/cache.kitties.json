@@ -1,0 +1,30 @@
+{
+  "id": 156495,
+  "name": "Kitty #156495",
+  "generation": 7,
+  "created_at": "2017-12-08T16:14:21.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #156495. I'm a professional Spin Instructor  and I love apple pie. My secret indulgence is ice cream. Will you be the soy sauce to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136842@6",
+  "sire": "89345@5",
+  "children": [
+    "156978@8",
+    "159515@8",
+    "1118570@10",
+    "1123168@14",
+    "1125526@13",
+    "1133930@10",
+    "1143478@10",
+    "1145732@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1918,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

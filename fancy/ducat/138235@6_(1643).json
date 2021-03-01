@@ -1,0 +1,30 @@
+{
+  "id": 138235,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-07T22:52:55.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #138235. I've never told anyone this, but I once snuggled a dog. When no one's home, I invite my pals over and we listen to Wutang. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110912@5",
+  "sire": "65923@5",
+  "children": [
+    "140351@12",
+    "141253@7",
+    "152080@7",
+    "172358@7",
+    "182124@7",
+    "195452@7",
+    "213664@7",
+    "242545@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1643,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

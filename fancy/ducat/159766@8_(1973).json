@@ -1,0 +1,29 @@
+{
+  "id": 159766,
+  "name": "Cocka Meowdle Doo",
+  "generation": 8,
+  "created_at": "2017-12-08T18:49:08.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Cocka Meowdle Doo. In high school, I was voted most likely to work at NASA. I put pickles on everything. Like, everything: hot dogs, chocolate—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "157844@7",
+  "sire": "154960@5",
+  "children": [
+    "174618@9",
+    "177761@9",
+    "202671@14",
+    "211998@9",
+    "234834@9",
+    "268534@9",
+    "287144@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1973,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

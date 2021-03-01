@@ -1,0 +1,23 @@
+{
+  "id": 157168,
+  "name": "Purrizo rare Stimpy",
+  "generation": 6,
+  "created_at": "2017-12-08T16:43:13.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Purrizo rare Stimpy. My friends describe me as annoying and stinky. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98184@5",
+  "sire": "118972@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1929,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

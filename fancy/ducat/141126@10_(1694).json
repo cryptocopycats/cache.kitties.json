@@ -1,0 +1,24 @@
+{
+  "id": 141126,
+  "name": "Pidgeot",
+  "generation": 10,
+  "created_at": "2017-12-08T01:21:23.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Pidgeot here. I'm here to enjoy reading garfield and chasing string. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "58117@9",
+  "sire": "73812@7",
+  "children": [
+    "226508@11",
+    "238601@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1694,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

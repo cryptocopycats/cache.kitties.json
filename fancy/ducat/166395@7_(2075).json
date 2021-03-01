@@ -1,0 +1,25 @@
+{
+  "id": 166395,
+  "name": "Dr. KittyDuck",
+  "generation": 7,
+  "created_at": "2017-12-09T00:03:55.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Dr. KittyDuck. I've never told anyone this, but I once snuggled a dog. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "139948@4",
+  "sire": "124753@6",
+  "children": [
+    "181879@8",
+    "246085@8",
+    "253333@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2075,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 148882,
+  "name": "✩Rare: Ducky",
+  "generation": 15,
+  "created_at": "2017-12-08T09:30:29.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm ✩Rare: Ducky. I'm a Ventriloquist by day, and I like tricking babies by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "101223@12",
+  "sire": "72777@14",
+  "children": [
+    "311106@16",
+    "327734@16",
+    "377912@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1809,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

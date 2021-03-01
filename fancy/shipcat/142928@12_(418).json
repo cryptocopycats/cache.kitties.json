@@ -1,0 +1,24 @@
+{
+  "id": 142928,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-08T03:12:48.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #142928. I've never told anyone this, but I once bit a dog. I once got in a fight with a gecko, and won. I hope we can be tantalizing friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "105952@7",
+  "sire": "60182@11",
+  "children": [
+    "151338@13",
+    "332457@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 418,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

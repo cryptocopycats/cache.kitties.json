@@ -1,0 +1,31 @@
+{
+  "id": 162607,
+  "name": "☄️ Blue Genes Birdy",
+  "generation": 16,
+  "created_at": "2017-12-08T21:09:08.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm ☄️ Blue Genes Birdy. In high school, I was voted biggest teacher's pet. When no one's home, I invite my pals over and we listen to Beyoncé. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "140923@15",
+  "sire": "140351@12",
+  "children": [
+    "193370@17",
+    "200359@17",
+    "242262@17",
+    "297590@17",
+    "357256@17",
+    "428492@17",
+    "451582@17",
+    "539829@17",
+    "626426@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2022,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 150515,
+  "name": "2(Tpunk,Crazy) MG G7",
+  "generation": 7,
+  "created_at": "2017-12-08T10:48:59.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm 2(Tpunk,Crazy) MG G7. My friends describe me as wondrous and gullible. Some people say I'm the Peter Griffin of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126940@6",
+  "sire": "52817@6",
+  "children": [
+    "180321@8",
+    "197230@20",
+    "198865@11",
+    "206143@10",
+    "250605@8",
+    "270549@8",
+    "273056@12",
+    "287836@8",
+    "339116@10",
+    "565912@8",
+    "1355603@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1828,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 150587,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-08T10:52:43.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #150587. My friends describe me as tantalizing and ridiculous. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "140565@9",
+  "sire": "27563@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1831,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

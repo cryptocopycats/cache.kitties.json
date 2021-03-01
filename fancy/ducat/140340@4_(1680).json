@@ -1,0 +1,32 @@
+{
+  "id": 140340,
+  "name": "Tweety The Putty Tat",
+  "generation": 4,
+  "created_at": "2017-12-08T00:34:11.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's Tweety The Putty Tat. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I like to listen to Justin Bieber while grooming. Don't judge me. Our friendship will be wondrous, petulant, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "134562@3",
+  "sire": "138960@3",
+  "children": [
+    "141570@6",
+    "144775@5",
+    "146654@5",
+    "173252@5",
+    "190869@5",
+    "195216@5",
+    "219801@5",
+    "242288@5",
+    "288443@5",
+    "295106@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1680,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

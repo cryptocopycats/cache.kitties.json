@@ -1,0 +1,27 @@
+{
+  "id": 161351,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-08T20:15:29.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #161351. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Coldplay. Can you make my wondrous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121677@3",
+  "sire": "133397@3",
+  "children": [
+    "175965@5",
+    "192232@5",
+    "232693@5",
+    "288673@5",
+    "323655@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2000,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

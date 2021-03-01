@@ -1,0 +1,25 @@
+{
+  "id": 154651,
+  "name": "0.06",
+  "generation": 12,
+  "created_at": "2017-12-08T14:35:32.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm 0.06. I enjoy chasing string, riding dirty, and chasing red dots. I am 74% oracle, 43% Ventriloquist, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119318@11",
+  "sire": "92663@11",
+  "children": [
+    "263953@15",
+    "278461@13",
+    "280410@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1889,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

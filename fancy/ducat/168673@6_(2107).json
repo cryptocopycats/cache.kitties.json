@@ -1,0 +1,29 @@
+{
+  "id": 168673,
+  "name": "Fancy Gen 6 Ducky",
+  "generation": 6,
+  "created_at": "2017-12-09T01:43:11.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Fancy Gen 6 Ducky. I want to live in a world where people believe the world is flat. In my free time, I can usually be found brilliant or playing chess. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152995@4",
+  "sire": "163614@5",
+  "children": [
+    "197594@8",
+    "198744@8",
+    "201155@8",
+    "206891@7",
+    "226508@11",
+    "238601@11",
+    "261461@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2107,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

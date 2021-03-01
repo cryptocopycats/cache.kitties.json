@@ -1,0 +1,24 @@
+{
+  "id": 161933,
+  "name": "Bird",
+  "generation": 7,
+  "created_at": "2017-12-08T20:40:47.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Bird. I enjoy glaring at the neighbour's cat, sitting on your computer, and taking selfies. Sometimes I daydream of a life full of being a nevernude, lasagna, and talking about how much I lift. I hope we can be ridiculous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "84681@6",
+  "sire": "35561@6",
+  "children": [
+    "209354@8",
+    "209828@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2011,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 163629,
+  "name": "Duck-catti",
+  "generation": 8,
+  "created_at": "2017-12-08T21:49:55.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Duck-catti. I'm a professional Skydiving Instructor and I love lasagna. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Will you be the cinammon to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96374@7",
+  "sire": "142723@7",
+  "children": [
+    "218551@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2033,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

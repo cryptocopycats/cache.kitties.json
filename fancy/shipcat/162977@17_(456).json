@@ -1,0 +1,25 @@
+{
+  "id": 162977,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-08T21:21:43.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #162977. I enjoy sitting on your computer, taking selfies, and riding unicorns. I like to listen to Aretha Franklin while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "95369@16",
+  "sire": "55275@11",
+  "children": [
+    "214891@18",
+    "244483@18",
+    "248550@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 456,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

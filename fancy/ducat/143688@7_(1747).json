@@ -1,0 +1,31 @@
+{
+  "id": 143688,
+  "name": "Birdy One",
+  "generation": 7,
+  "created_at": "2017-12-08T04:15:34.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Birdy One. I enjoy glaring at the neighbour's cat, breakdancing, and reciting poetry. I like to listen to Justin Bieber while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109479@6",
+  "sire": "130486@3",
+  "children": [
+    "148077@8",
+    "150776@12",
+    "151230@10",
+    "151982@8",
+    "161533@12",
+    "174486@12",
+    "195625@12",
+    "236656@12",
+    "285905@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1747,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 142737,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-08T02:59:30.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #142737. I'm a Foreign Film Director by day, and I like riverdancing by night. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97554@8",
+  "sire": "137742@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1727,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

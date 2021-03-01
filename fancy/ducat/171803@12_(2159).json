@@ -1,0 +1,23 @@
+{
+  "id": 171803,
+  "name": "McDisco",
+  "generation": 12,
+  "created_at": "2017-12-09T04:17:59.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! McDisco here. I'm here to enjoy chasing red dots and picking flowers. I am 48% wizard, 89% Foreign Film Director, and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "116455@11",
+  "sire": "93213@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2159,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

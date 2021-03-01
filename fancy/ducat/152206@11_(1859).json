@@ -1,0 +1,27 @@
+{
+  "id": 152206,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-08T12:20:49.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #152206. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "143634@10",
+  "sire": "23619@8",
+  "children": [
+    "165367@12",
+    "173913@12",
+    "354371@12",
+    "357594@12",
+    "364158@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1859,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

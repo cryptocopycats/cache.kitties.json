@@ -1,0 +1,24 @@
+{
+  "id": 162136,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-08T20:48:25.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #162136. I'm a professional Mad Scientist and I love chocolate. In my free time, I can usually be found fabulous or jump-roping. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160511@4",
+  "sire": "159806@6",
+  "children": [
+    "162962@8",
+    "163405@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2016,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

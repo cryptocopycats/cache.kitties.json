@@ -1,0 +1,24 @@
+{
+  "id": 167594,
+  "name": "Chicken - Duck - Green",
+  "generation": 14,
+  "created_at": "2017-12-09T00:59:01.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Chicken - Duck - Green. I'm often referred to as the Niles Crane of the group. I was voted school jock in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "146665@13",
+  "sire": "134274@8",
+  "children": [
+    "178706@15",
+    "963092@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2092,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

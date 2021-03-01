@@ -1,0 +1,24 @@
+{
+  "id": 160406,
+  "name": "! RARE G4 VIRGIN DUCK FANCY !",
+  "generation": 4,
+  "created_at": "2017-12-08T19:23:48.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm ! RARE G4 VIRGIN DUCK FANCY !. In high school, I was voted school jock. I like to listen to Coldplay while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "134460@3",
+  "sire": "131185@3",
+  "children": [
+    "380268@5",
+    "394549@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1985,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

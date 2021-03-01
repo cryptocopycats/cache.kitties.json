@@ -1,0 +1,26 @@
+{
+  "id": 144146,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-08T04:56:51.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #144146. I'm often referred to as the Lisa Simpson of the group. Some people say I'm the Lisa Simpson of the group. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "121855@8",
+  "sire": "120491@8",
+  "children": [
+    "145587@11",
+    "169890@14",
+    "178322@11",
+    "187950@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 422,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

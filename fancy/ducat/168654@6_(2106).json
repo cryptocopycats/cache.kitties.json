@@ -1,0 +1,27 @@
+{
+  "id": 168654,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T01:42:16.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #168654. I'm a Train Conductor by day, and I like volunteering at the local kitten rescue shelter by night. It's not common knowledge, but my ancestry connects me to Princess Diana. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "153282@4",
+  "sire": "164893@5",
+  "children": [
+    "172599@7",
+    "181034@7",
+    "197636@12",
+    "210768@10",
+    "230674@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2106,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

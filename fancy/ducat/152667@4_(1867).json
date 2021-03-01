@@ -1,0 +1,30 @@
+{
+  "id": 152667,
+  "name": "✨ RARE ✨ Duck Kitty",
+  "generation": 4,
+  "created_at": "2017-12-08T12:46:43.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm ✨ RARE ✨ Duck Kitty. All you need to know about me is I hate cereal with a passion. I once headbutted a platypus. I don't like to talk about it. Will you be the maple syrup to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "149184@3",
+  "sire": "138460@3",
+  "children": [
+    "153384@10",
+    "438203@6",
+    "439547@5",
+    "513268@5",
+    "514285@5",
+    "518061@5",
+    "527863@5",
+    "529457@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1867,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

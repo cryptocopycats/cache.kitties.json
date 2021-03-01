@@ -1,0 +1,24 @@
+{
+  "id": 152905,
+  "name": "PF 502 S440H1.0",
+  "generation": 5,
+  "created_at": "2017-12-08T13:02:34.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm PF 502 S440H1.0. I'm a professional Aerobics Athlete  and I love apple pie. I once made a chimpanzee drink. Will you be the soy sauce to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "123252@4",
+  "sire": "98065@4",
+  "children": [
+    "178544@6",
+    "178845@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1870,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

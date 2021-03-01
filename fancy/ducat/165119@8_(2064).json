@@ -1,0 +1,26 @@
+{
+  "id": 165119,
+  "name": "💎Great Gene Pool💎",
+  "generation": 8,
+  "created_at": "2017-12-08T23:04:35.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm 💎Great Gene Pool💎. I'm a professional Dogwalker and I love cantaloupe. I'm often described as petulant, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "145276@7",
+  "sire": "155873@7",
+  "children": [
+    "170791@9",
+    "191619@10",
+    "200049@10",
+    "332553@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2064,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 160794,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-08T19:39:14.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #160794. My friends describe me as fabulous and brilliant. I'm convinced that the world is flat. One day I'll prove it. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "134375@5",
+  "sire": "131919@5",
+  "children": [
+    "167178@7",
+    "181595@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1992,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

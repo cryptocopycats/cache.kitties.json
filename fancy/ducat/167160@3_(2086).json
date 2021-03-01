@@ -1,0 +1,26 @@
+{
+  "id": 167160,
+  "name": "Batman Beyond",
+  "generation": 3,
+  "created_at": "2017-12-09T00:40:22.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Batman Beyond. I'm a Dogwalker by day, and I like talking about how much I lift by night. I am 84% oracle, 33% Culinary Sanitation Specialist, and otherwise bad at math. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110004@2",
+  "sire": "90747@2",
+  "children": [
+    "171258@4",
+    "173968@5",
+    "353825@4",
+    "417996@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2086,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

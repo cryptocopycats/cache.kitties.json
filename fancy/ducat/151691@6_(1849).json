@@ -1,0 +1,23 @@
+{
+  "id": 151691,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-08T11:55:38.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #151691. I enjoy breakdancing, chasing red dots, and slappin' da bass. My friends describe me as \"preposterous.\" It's... accurate. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126556@5",
+  "sire": "123977@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1849,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

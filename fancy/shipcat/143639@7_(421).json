@@ -1,0 +1,26 @@
+{
+  "id": 143639,
+  "name": "G7 Snappy Fancy Ultra Rare",
+  "generation": 7,
+  "created_at": "2017-12-08T04:11:50.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm G7 Snappy Fancy Ultra Rare. I'm a Dogwalker by day, and I like playing chess by night. Some people say I'm the Dwight Schrute of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "116180@6",
+  "sire": "115951@6",
+  "children": [
+    "217361@16",
+    "230757@8",
+    "261058@10",
+    "290440@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 421,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

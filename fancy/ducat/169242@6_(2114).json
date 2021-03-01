@@ -1,0 +1,27 @@
+{
+  "id": 169242,
+  "name": "Conrad",
+  "generation": 6,
+  "created_at": "2017-12-09T02:10:08.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's Conrad. I once peed on King Henry VIII's cat. They had it coming. I once got in a fight with a dolphin, and won. Our friendship will be wondrous, raunchy, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "148274@5",
+  "sire": "134422@5",
+  "children": [
+    "227200@7",
+    "228081@7",
+    "228471@7",
+    "244339@7",
+    "247814@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2114,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

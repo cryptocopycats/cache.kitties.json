@@ -1,0 +1,23 @@
+{
+  "id": 165919,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-08T23:43:28.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! My name's Kitty #165919. I once peed on Nelson Mandela's cat. They had it coming. I'm often described as wondrous, and I own it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "72161@14",
+  "sire": "69045@18",
+  "children": [
+    "471180@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 463,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

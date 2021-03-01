@@ -1,0 +1,32 @@
+{
+  "id": 138372,
+  "name": "G2 Fancy. BEYONCE - ^Halo^",
+  "generation": 2,
+  "created_at": "2017-12-07T22:59:59.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm G2 Fancy. BEYONCE - ^Halo^. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24352@1",
+  "sire": "28195@1",
+  "children": [
+    "145203@4",
+    "155532@4",
+    "169231@5",
+    "170505@4",
+    "219591@5",
+    "235515@5",
+    "391946@4",
+    "393456@5",
+    "415253@4",
+    "426476@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1646,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

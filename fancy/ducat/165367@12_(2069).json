@@ -1,0 +1,24 @@
+{
+  "id": 165367,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-08T23:15:35.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #165367. I want to live in a world where people believe the world is flat. I'm often described as fabulous, and I own it. Can you make my raunchy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "34364@10",
+  "sire": "152206@11",
+  "children": [
+    "173500@13",
+    "184970@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2069,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

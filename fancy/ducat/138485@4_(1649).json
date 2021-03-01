@@ -1,0 +1,27 @@
+{
+  "id": 138485,
+  "name": "FANCY. RARE. BEYONCE^s baby",
+  "generation": 4,
+  "created_at": "2017-12-07T23:06:24.000Z",
+  "birthday": "2017-12-07T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm FANCY. RARE. BEYONCE^s baby. All you need to know about me is I hate cantaloupe with a passion. I once got in a fight with a platypus, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131615@3",
+  "sire": "49021@3",
+  "children": [
+    "150101@6",
+    "172857@5",
+    "219591@5",
+    "393456@5",
+    "400008@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1649,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

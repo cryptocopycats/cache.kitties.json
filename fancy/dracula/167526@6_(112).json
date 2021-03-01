@@ -1,0 +1,30 @@
+{
+  "id": 167526,
+  "name": "D.R.A.C.U.L.A.!!!",
+  "generation": 6,
+  "created_at": "2017-12-09T00:56:19.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm D.R.A.C.U.L.A.!!!. I want to live in a world where people believe that one day cats will rule this planet. I once pawed at a goose. I don't like to talk about it. Our friendship will be tantalizing, stinky, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "158950@5",
+  "sire": "115578@4",
+  "children": [
+    "233171@7",
+    "277500@7",
+    "283276@7",
+    "284426@7",
+    "336112@8",
+    "372440@16",
+    "432133@20",
+    "780222@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 112,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

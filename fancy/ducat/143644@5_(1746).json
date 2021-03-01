@@ -1,0 +1,32 @@
+{
+  "id": 143644,
+  "name": "Gen 5 RARE Gold Duck",
+  "generation": 5,
+  "created_at": "2017-12-08T04:11:50.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Gen 5 RARE Gold Duck. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "140292@4",
+  "sire": "140275@4",
+  "children": [
+    "241491@7",
+    "242248@6",
+    "274248@6",
+    "275906@6",
+    "278363@6",
+    "282810@6",
+    "291346@6",
+    "302339@6",
+    "321992@6",
+    "342079@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1746,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

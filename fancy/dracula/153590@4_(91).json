@@ -1,0 +1,23 @@
+{
+  "id": 153590,
+  "name": "Fi",
+  "generation": 4,
+  "created_at": "2017-12-08T13:35:41.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Fi. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "130751@3",
+  "sire": "124005@3",
+  "children": [
+    "168842@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 91,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

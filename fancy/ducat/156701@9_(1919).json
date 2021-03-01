@@ -1,0 +1,25 @@
+{
+  "id": 156701,
+  "name": "Meowsef Stalin",
+  "generation": 9,
+  "created_at": "2017-12-08T16:21:40.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Meowsef Stalin. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155703@8",
+  "sire": "54608@8",
+  "children": [
+    "159328@10",
+    "162519@10",
+    "271412@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1919,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

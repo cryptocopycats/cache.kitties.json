@@ -1,0 +1,29 @@
+{
+  "id": 145501,
+  "name": "Vlad1",
+  "generation": 7,
+  "created_at": "2017-12-08T06:29:13.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's Vlad1. I once peed on Nelson Mandela's cat. They had it coming. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "145214@6",
+  "sire": "123247@5",
+  "children": [
+    "159881@8",
+    "160842@8",
+    "163125@8",
+    "206017@9",
+    "208002@8",
+    "241185@14",
+    "283147@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 81,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

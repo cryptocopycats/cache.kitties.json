@@ -1,0 +1,23 @@
+{
+  "id": 155597,
+  "name": "Captain Cook",
+  "generation": 18,
+  "created_at": "2017-12-08T15:26:54.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Captain Cook. I enjoy shakin' dat booty, breakdancing, and picking flowers. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "110253@17",
+  "sire": "120418@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 438,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

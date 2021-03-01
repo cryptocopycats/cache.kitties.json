@@ -1,0 +1,25 @@
+{
+  "id": 150442,
+  "name": "Waldegans",
+  "generation": 10,
+  "created_at": "2017-12-08T10:43:18.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Waldegans. I've never told anyone this, but I once kissed a dog. I was voted school jock in college. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "116508@9",
+  "sire": "51951@4",
+  "children": [
+    "159707@11",
+    "176545@11",
+    "182723@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1826,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

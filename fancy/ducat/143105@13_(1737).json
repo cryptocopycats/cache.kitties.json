@@ -1,0 +1,23 @@
+{
+  "id": 143105,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-08T03:26:26.000Z",
+  "birthday": "2017-12-08T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #143105. I want to live in a world where people believe that one day cats will rule this planet. I am 60% oracle, 65% Train Conductor, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "110769@12",
+  "sire": "127692@9",
+  "children": [
+    "243256@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1737,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
