@@ -1,0 +1,27 @@
+{
+  "id": 222317,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T20:01:06.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! Kitty #222317 here. I'm here to enjoy slappin' da bass and picking flowers. When no one's home, I invite my pals over and we listen to Coldplay. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212274@5",
+  "sire": "219217@5",
+  "children": [
+    "225164@7",
+    "226034@7",
+    "226841@8",
+    "230367@8",
+    "268702@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3042,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 234917,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-11T05:33:31.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #234917. In high school, I was voted school jock. I like to listen to Frank Sinatra while grooming. Don't judge me. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "5198@11",
+  "sire": "27020@12",
+  "children": [
+    "240674@16",
+    "243347@14",
+    "267706@17",
+    "289722@16",
+    "380991@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3283,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

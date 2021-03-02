@@ -1,0 +1,23 @@
+{
+  "id": 261999,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T05:20:59.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Kitty #261999. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "193027@5",
+  "sire": "190349@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3899,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

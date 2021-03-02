@@ -1,0 +1,24 @@
+{
+  "id": 252861,
+  "name": "龙凤 04",
+  "generation": 6,
+  "created_at": "2017-12-11T22:02:00.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm 龙凤 04. My friends describe me as ridiculous and brilliant. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "240506@5",
+  "sire": "139853@5",
+  "children": [
+    "549017@7",
+    "550661@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3705,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

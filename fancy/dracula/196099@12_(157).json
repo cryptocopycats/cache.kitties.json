@@ -1,0 +1,25 @@
+{
+  "id": 196099,
+  "name": "G12 Purebred Vampire VERY RARE",
+  "generation": 12,
+  "created_at": "2017-12-09T23:46:00.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm G12 Purebred Vampire VERY RARE. In high school, I was voted school jock. In my free time, I can usually be found ridiculous or riverdancing. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "114183@11",
+  "sire": "118334@7",
+  "children": [
+    "218927@13",
+    "258296@13",
+    "348959@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 157,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

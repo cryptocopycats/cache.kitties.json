@@ -1,0 +1,24 @@
+{
+  "id": 248691,
+  "name": "Both Ducat Parents",
+  "generation": 4,
+  "created_at": "2017-12-11T18:45:46.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Both Ducat Parents. I once peed on John F. Kennedy Jr.'s cat. They had it coming. My secret indulgence is lasagna. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142122@3",
+  "sire": "226682@3",
+  "children": [
+    "353801@5",
+    "357175@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3616,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

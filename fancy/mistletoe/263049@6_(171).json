@@ -1,0 +1,28 @@
+{
+  "id": 263049,
+  "name": "G6 Fancy Christmas",
+  "generation": 6,
+  "created_at": "2017-12-12T06:11:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm G6 Fancy Christmas. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a platypus, and won. Will you be the cinammon to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "234061@5",
+  "sire": "260463@5",
+  "children": [
+    "281638@7",
+    "283053@7",
+    "289714@7",
+    "315189@7",
+    "422817@7",
+    "1196536@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 171,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 185200,
+  "name": "Emma",
+  "generation": 5,
+  "created_at": "2017-12-09T15:43:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Emma. I'm a professional Spin Instructor  and I love chocolate. I would give it all up to be on Oprah. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "167532@4",
+  "sire": "180189@4",
+  "children": [
+    "194082@6",
+    "194631@6",
+    "199294@6",
+    "244956@6",
+    "273103@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2389,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

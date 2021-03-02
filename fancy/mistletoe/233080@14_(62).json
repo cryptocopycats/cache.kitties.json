@@ -1,0 +1,23 @@
+{
+  "id": 233080,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-11T04:01:19.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #233080. I believe the world is flat. I put maple syrup on everything. Like, everything: hot dogs, wet food—everything! Will you be the ghost pepper hot sauce to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "222709@13",
+  "sire": "214061@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 62,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

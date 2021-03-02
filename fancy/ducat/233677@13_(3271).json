@@ -1,0 +1,26 @@
+{
+  "id": 233677,
+  "name": "Magpie",
+  "generation": 13,
+  "created_at": "2017-12-11T04:32:53.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Magpie. I'm often referred to as the Peter Griffin of the group. I once got in a fight with a gecko, and won. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "230799@12",
+  "sire": "164793@3",
+  "children": [
+    "236057@14",
+    "243330@14",
+    "279024@14",
+    "285698@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3271,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

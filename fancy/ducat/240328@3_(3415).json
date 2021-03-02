@@ -1,0 +1,23 @@
+{
+  "id": 240328,
+  "name": "Janessa",
+  "generation": 3,
+  "created_at": "2017-12-11T10:41:12.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Janessa. I'm often referred to as the Steve Urkel of the group. I would give it all up for a Chanel purse. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227365@2",
+  "sire": "34309@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3415,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

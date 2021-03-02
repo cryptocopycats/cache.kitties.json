@@ -1,0 +1,31 @@
+{
+  "id": 212274,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T11:52:16.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #212274. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of fighting the patriarchy, wet food, and swiping left. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189060@4",
+  "sire": "201677@4",
+  "children": [
+    "214546@6",
+    "214781@6",
+    "217570@6",
+    "219460@6",
+    "222317@6",
+    "237061@6",
+    "265296@6",
+    "285302@6",
+    "558085@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2865,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

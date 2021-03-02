@@ -1,0 +1,23 @@
+{
+  "id": 242662,
+  "name": "HappyBirdie",
+  "generation": 6,
+  "created_at": "2017-12-11T13:04:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's HappyBirdie. I once peed on Cleopatra's cat. They had it coming. My secret indulgence is apple pie. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241935@5",
+  "sire": "242210@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3470,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

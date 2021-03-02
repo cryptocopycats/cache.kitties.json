@@ -1,0 +1,30 @@
+{
+  "id": 245472,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T15:41:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #245472. I believe the world is flat. When no one's home, I invite my pals over and we listen to Justin Bieber. I look forward to hitting on yo' man with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "223068@5",
+  "sire": "212172@6",
+  "children": [
+    "246405@8",
+    "253407@8",
+    "267423@8",
+    "270639@8",
+    "306048@8",
+    "309857@8",
+    "333589@8",
+    "407590@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3547,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

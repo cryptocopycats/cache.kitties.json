@@ -1,0 +1,23 @@
+{
+  "id": 227497,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T23:27:42.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #227497. I'm a Private Dancer  by day, and I like tricking babies by night. My friends describe me as \"ridiculous.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "167123@8",
+  "sire": "226489@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3148,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

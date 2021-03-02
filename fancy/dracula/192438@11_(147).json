@@ -1,0 +1,29 @@
+{
+  "id": 192438,
+  "name": "CHEAPEST DRACULA ON THE MARKET",
+  "generation": 11,
+  "created_at": "2017-12-09T21:25:58.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm CHEAPEST DRACULA ON THE MARKET. I'm often referred to as the Cersei Lannister of the group. My friends describe me as \"despicable.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "152350@10",
+  "sire": "43889@10",
+  "children": [
+    "209550@12",
+    "234357@12",
+    "248982@12",
+    "302053@12",
+    "307684@22",
+    "329579@12",
+    "362430@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 147,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

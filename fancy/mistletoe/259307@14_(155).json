@@ -1,0 +1,23 @@
+{
+  "id": 259307,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-12T02:58:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #259307. I'm a professional Aerobics Athlete  and I love lasagna. I am 3% wizard, 67% Private Dancer , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "217736@6",
+  "sire": "245090@13",
+  "children": [
+    "281374@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 155,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

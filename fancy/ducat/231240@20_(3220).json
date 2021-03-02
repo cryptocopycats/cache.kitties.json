@@ -1,0 +1,23 @@
+{
+  "id": 231240,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-11T02:25:58.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #231240. In high school, I was voted school jock. My secret indulgence is chocolate. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97025@19",
+  "sire": "53482@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3220,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 205456,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T06:11:28.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #205456. In high school, I was voted biggest teacher's pet. I once made a moose dance. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "133041@8",
+  "sire": "78351@9",
+  "children": [
+    "282391@15",
+    "294186@12",
+    "305440@11",
+    "368867@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2746,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

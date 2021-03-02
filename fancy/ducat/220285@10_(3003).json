@@ -1,0 +1,23 @@
+{
+  "id": 220285,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T18:24:17.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #220285. All you need to know about me is I hate lasagna with a passion. When no one's home, I invite my pals over and we listen to Frank Sinatra. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182057@8",
+  "sire": "177992@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3003,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 188711,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-09T18:58:20.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #188711. I'm a professional Culinary Sanitation Specialist and I love wet food. I'm often described as fabulous, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118235@13",
+  "sire": "166742@16",
+  "children": [
+    "332722@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2451,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

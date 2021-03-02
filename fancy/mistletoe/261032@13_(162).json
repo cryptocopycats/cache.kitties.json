@@ -1,0 +1,25 @@
+{
+  "id": 261032,
+  "name": "RAREST MEOWSTLETOE STUD",
+  "generation": 13,
+  "created_at": "2017-12-12T04:35:11.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm RAREST MEOWSTLETOE STUD. In high school, I was voted biggest teacher's pet. I put soy sauce on everything. Like, everything: hot dogs, wet food—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "251835@12",
+  "sire": "180228@9",
+  "children": [
+    "283354@14",
+    "296020@14",
+    "309744@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 162,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

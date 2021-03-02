@@ -1,0 +1,23 @@
+{
+  "id": 262893,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-12T06:05:13.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #262893. I believe that one day cats will rule this planet. Some people say I'm the Chandler Bing of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "262137@2",
+  "sire": "196571@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 694,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 212757,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T12:17:06.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #212757. My friends describe me as seductive and despicable. I was voted school jock in college. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "128160@7",
+  "sire": "207406@8",
+  "children": [
+    "214706@17",
+    "218073@10",
+    "224881@10",
+    "232881@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2874,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 242744,
+  "name": "McTweet Tweet",
+  "generation": 5,
+  "created_at": "2017-12-11T13:08:09.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm McTweet Tweet. I'm often referred to as the Jon Snow of the group. I would give it all up for a Chanel purse. I hope we can be prickly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152583@3",
+  "sire": "208115@4",
+  "children": [
+    "243264@6",
+    "243525@6",
+    "244039@6",
+    "251112@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3474,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

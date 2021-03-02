@@ -1,0 +1,26 @@
+{
+  "id": 261240,
+  "name": "Sea Catness",
+  "generation": 11,
+  "created_at": "2017-12-12T04:44:21.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Sea Catness. My friends describe me as hairy and seductive. My friends describe me as \"wondrous.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "163497@7",
+  "sire": "247314@10",
+  "children": [
+    "266996@12",
+    "270896@12",
+    "299759@12",
+    "311446@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 691,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

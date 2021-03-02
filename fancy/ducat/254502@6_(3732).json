@@ -1,0 +1,30 @@
+{
+  "id": 254502,
+  "name": "4 Bird Children",
+  "generation": 6,
+  "created_at": "2017-12-11T23:11:05.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm 4 Bird Children. I'm a Mad Scientist by day, and I like siring for status by night. I once pranced with a platypus. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239529@5",
+  "sire": "225788@5",
+  "children": [
+    "256232@7",
+    "257469@7",
+    "258111@8",
+    "259272@10",
+    "266571@8",
+    "275617@10",
+    "293324@10",
+    "346167@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3732,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

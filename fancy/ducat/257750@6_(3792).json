@@ -1,0 +1,24 @@
+{
+  "id": 257750,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T01:38:16.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #257750. I'm often referred to as the Steve Urkel of the group. Some people say I'm the Steve Urkel of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "257414@5",
+  "sire": "243302@5",
+  "children": [
+    "258517@7",
+    "259271@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3792,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

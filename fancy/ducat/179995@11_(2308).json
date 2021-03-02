@@ -1,0 +1,26 @@
+{
+  "id": 179995,
+  "name": "Birdcat - Gold (RARE)",
+  "generation": 11,
+  "created_at": "2017-12-09T10:51:20.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Birdcat - Gold (RARE). My friends describe me as raunchy and gorgeous. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "175728@3",
+  "sire": "174022@10",
+  "children": [
+    "180664@12",
+    "269960@12",
+    "274831@12",
+    "384189@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2308,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

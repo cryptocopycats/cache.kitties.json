@@ -1,0 +1,23 @@
+{
+  "id": 220642,
+  "name": "Edgedancer",
+  "generation": 10,
+  "created_at": "2017-12-10T18:42:17.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! My name's Edgedancer. I once peed on Martin Luther King Jr.'s cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be seductive, ridiculous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "214150@9",
+  "sire": "219359@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3016,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

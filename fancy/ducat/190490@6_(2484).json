@@ -1,0 +1,23 @@
+{
+  "id": 190490,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T20:10:17.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #190490. I enjoy eating until I loathe myself, glaring at the neighbour's cat, and riding dirty. I once made a moose trot. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "134396@3",
+  "sire": "160713@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2484,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

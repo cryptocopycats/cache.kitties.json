@@ -1,0 +1,28 @@
+{
+  "id": 178129,
+  "name": "PUREBIRD",
+  "generation": 4,
+  "created_at": "2017-12-09T09:12:46.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm PUREBIRD. I enjoy tripping my owner, grooming, and being a nevernude. I once dreamed of being a Train Conductor. Now I can be found summoning ghosts all day. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "175795@3",
+  "sire": "117026@3",
+  "children": [
+    "274465@5",
+    "279562@5",
+    "284117@6",
+    "290478@5",
+    "298388@5",
+    "312619@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2273,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

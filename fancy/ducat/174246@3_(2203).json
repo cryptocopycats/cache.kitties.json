@@ -1,0 +1,33 @@
+{
+  "id": 174246,
+  "name": "Likey Likey Kitty Like Me",
+  "generation": 3,
+  "created_at": "2017-12-09T06:11:55.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Likey Likey Kitty Like Me. All you need to know about me is I hate ice cream with a passion. I once pawed at a rooster. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "167029@2",
+  "sire": "172751@2",
+  "children": [
+    "176525@4",
+    "176755@4",
+    "177711@4",
+    "178429@4",
+    "179957@4",
+    "186555@4",
+    "192296@4",
+    "212120@4",
+    "244227@4",
+    "274833@4",
+    "346847@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2203,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

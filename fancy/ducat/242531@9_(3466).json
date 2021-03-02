@@ -1,0 +1,28 @@
+{
+  "id": 242531,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T12:56:34.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #242531. In high school, I was voted school jock. I once dreamed of being a Mad Scientist. Now I can be found summoning ghosts all day. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "230975@8",
+  "sire": "228656@8",
+  "children": [
+    "243766@10",
+    "248419@10",
+    "260184@10",
+    "277971@10",
+    "339801@10",
+    "351754@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3466,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 219157,
+  "name": "FANCY SHIPCAT GEN6 CHEAP !",
+  "generation": 6,
+  "created_at": "2017-12-10T17:32:13.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm FANCY SHIPCAT GEN6 CHEAP !. My friends describe me as annoying and despicable. My great-great-great-great-great-great grandkitty lived with King Henry VIII. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "190869@5",
+  "sire": "190319@5",
+  "children": [
+    "236738@8",
+    "239659@8",
+    "243776@7",
+    "245657@7",
+    "317677@13",
+    "326674@13",
+    "340580@10",
+    "352472@11",
+    "364958@10",
+    "416333@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 593,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

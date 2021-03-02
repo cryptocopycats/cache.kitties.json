@@ -1,0 +1,32 @@
+{
+  "id": 196976,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T00:16:21.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Kitty #196976. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195132@5",
+  "sire": "194537@5",
+  "children": [
+    "197337@7",
+    "216567@7",
+    "218357@7",
+    "221524@7",
+    "233604@7",
+    "249944@7",
+    "276874@7",
+    "318128@7",
+    "347573@7",
+    "381919@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2596,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

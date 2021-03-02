@@ -1,0 +1,23 @@
+{
+  "id": 246202,
+  "name": "RARE Fancy DuCat",
+  "generation": 23,
+  "created_at": "2017-12-11T16:24:13.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! My name's RARE Fancy DuCat. I once peed on King Henry VIII's cat. They had it coming. I once got in a fight with a chimpanzee, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "153918@22",
+  "sire": "142934@19",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3564,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

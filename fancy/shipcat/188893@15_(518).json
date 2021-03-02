@@ -1,0 +1,26 @@
+{
+  "id": 188893,
+  "name": "0.262",
+  "generation": 15,
+  "created_at": "2017-12-09T19:04:56.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm 0.262. I enjoy fighting the patriarchy, grooming, and watching Stranger Things. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "120022@13",
+  "sire": "69793@14",
+  "children": [
+    "217361@16",
+    "226606@21",
+    "248355@16",
+    "332332@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 518,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

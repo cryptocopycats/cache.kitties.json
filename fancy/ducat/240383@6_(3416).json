@@ -1,0 +1,23 @@
+{
+  "id": 240383,
+  "name": "DUCATi  (rarity: 0% === FANCY)",
+  "generation": 6,
+  "created_at": "2017-12-11T10:43:42.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm DUCATi  (rarity: 0% === FANCY). I enjoy reciting poetry, riding dirty, and slappin' da bass. I once got in a fight with a labradoodle, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191882@5",
+  "sire": "195166@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3416,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

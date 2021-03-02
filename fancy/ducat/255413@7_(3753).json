@@ -1,0 +1,23 @@
+{
+  "id": 255413,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T23:50:17.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #255413. My friends describe me as gullible and prickly. I was voted biggest teacher's pet in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254929@4",
+  "sire": "254724@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3753,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

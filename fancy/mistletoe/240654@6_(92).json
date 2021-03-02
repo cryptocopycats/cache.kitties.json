@@ -1,0 +1,30 @@
+{
+  "id": 240654,
+  "name": "Xmas",
+  "generation": 6,
+  "created_at": "2017-12-11T11:02:51.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Xmas. I've never told anyone this, but I once clawed a dog. When I'm not pole dancing, I'm practicing witchcraft! Our friendship will be seductive, voluptuous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "230828@5",
+  "sire": "238419@5",
+  "children": [
+    "241114@7",
+    "241369@7",
+    "242112@7",
+    "244539@7",
+    "247574@7",
+    "251823@7",
+    "287412@7",
+    "315318@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 92,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

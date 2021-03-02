@@ -1,0 +1,23 @@
+{
+  "id": 254103,
+  "name": "Chopper",
+  "generation": 6,
+  "created_at": "2017-12-11T22:55:10.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Chopper. I enjoy breakdancing, spinning sick beats, and sweating through my feet. I would give it all up to star in a soap opera. Our friendship will be vegan, stinky, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191882@5",
+  "sire": "195166@5",
+  "children": [
+    "255211@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3724,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

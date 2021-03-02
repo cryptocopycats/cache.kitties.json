@@ -1,0 +1,28 @@
+{
+  "id": 181874,
+  "name": "Skippy",
+  "generation": 16,
+  "created_at": "2017-12-09T12:29:51.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Skippy. I'm often referred to as the Frodo Baggins of the group. When I'm not mocking dogs, I'm siring for status! Will you be the ghost pepper hot sauce to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "163456@10",
+  "sire": "158883@15",
+  "children": [
+    "192158@17",
+    "201502@17",
+    "225082@17",
+    "296307@18",
+    "365010@17",
+    "553045@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 499,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

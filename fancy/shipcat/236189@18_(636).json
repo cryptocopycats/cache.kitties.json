@@ -1,0 +1,24 @@
+{
+  "id": 236189,
+  "name": "ShipCat",
+  "generation": 18,
+  "created_at": "2017-12-11T06:38:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm ShipCat. I'm a professional Culinary Sanitation Specialist and I love chocolate. I like to listen to Metallica while grooming. Don't judge me. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "93301@17",
+  "sire": "203530@11",
+  "children": [
+    "1590578@19",
+    "1937607@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 636,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

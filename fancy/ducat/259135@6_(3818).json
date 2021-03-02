@@ -1,0 +1,30 @@
+{
+  "id": 259135,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T02:50:31.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Kitty #259135 here. I'm here to enjoy sweating through my feet and chasing string. I'm often described as wondrous, and I own it. I look forward to staying woke with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "69547@4",
+  "sire": "248333@5",
+  "children": [
+    "270206@7",
+    "271608@7",
+    "281642@7",
+    "303132@14",
+    "307553@7",
+    "315719@7",
+    "326608@7",
+    "350612@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3818,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

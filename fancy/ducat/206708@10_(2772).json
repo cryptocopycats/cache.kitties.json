@@ -1,0 +1,25 @@
+{
+  "id": 206708,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T07:11:05.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #206708. My friends describe me as petulant and wondrous. I once made a rabbit leap. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39751@9",
+  "sire": "88320@9",
+  "children": [
+    "307744@12",
+    "315576@12",
+    "353605@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2772,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

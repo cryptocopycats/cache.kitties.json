@@ -1,0 +1,31 @@
+{
+  "id": 219071,
+  "name": "Old Pappa",
+  "generation": 7,
+  "created_at": "2017-12-10T17:27:27.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Old Pappa. I'm a Ventriloquist by day, and I like tricking babies by night. Some people say I'm the Hermione Granger of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "133573@6",
+  "sire": "194623@6",
+  "children": [
+    "231217@8",
+    "236859@10",
+    "237802@10",
+    "241101@8",
+    "269510@12",
+    "298713@8",
+    "311746@8",
+    "321376@8",
+    "344796@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2978,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

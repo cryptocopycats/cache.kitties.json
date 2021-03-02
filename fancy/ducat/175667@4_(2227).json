@@ -1,0 +1,23 @@
+{
+  "id": 175667,
+  "name": "FANCY TOPAZ",
+  "generation": 4,
+  "created_at": "2017-12-09T07:08:03.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm FANCY TOPAZ. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to King Henry VIII. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "174728@3",
+  "sire": "148611@3",
+  "children": [
+    "217452@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2227,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

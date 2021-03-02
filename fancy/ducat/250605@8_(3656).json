@@ -1,0 +1,27 @@
+{
+  "id": 250605,
+  "name": "BlueBird",
+  "generation": 8,
+  "created_at": "2017-12-11T20:26:58.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm BlueBird. I'm often referred to as the Neville Longbottom of the group. I once made a labradoodle trot. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115629@6",
+  "sire": "150515@7",
+  "children": [
+    "251524@11",
+    "263076@11",
+    "264513@12",
+    "544529@9",
+    "657891@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3656,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 234513,
+  "name": "FLY KITTY",
+  "generation": 7,
+  "created_at": "2017-12-11T05:14:49.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm FLY KITTY. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of riding unicorns, hamburgers, and siring for status. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "217228@6",
+  "sire": "208064@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3280,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

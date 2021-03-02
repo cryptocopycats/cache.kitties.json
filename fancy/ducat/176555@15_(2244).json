@@ -1,0 +1,23 @@
+{
+  "id": 176555,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-09T07:52:32.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #176555. All you need to know about me is I hate ice cream with a passion. My secret indulgence is steak. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "154275@14",
+  "sire": "165669@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2244,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

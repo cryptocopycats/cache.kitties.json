@@ -1,0 +1,23 @@
+{
+  "id": 232029,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T03:05:10.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #232029. I'm a Skydiving Instructor by day, and I like volunteering at the local kitten rescue shelter by night. My secret indulgence is ice cream. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188408@8",
+  "sire": "97482@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3227,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

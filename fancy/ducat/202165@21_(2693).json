@@ -1,0 +1,27 @@
+{
+  "id": 202165,
+  "name": "Toby",
+  "generation": 21,
+  "created_at": "2017-12-10T03:41:59.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Toby. I'm a professional Private Dancer  and I love cantaloupe. I like to listen to Gloria Estefan while grooming. Don't judge me. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29280@20",
+  "sire": "88640@15",
+  "children": [
+    "248919@22",
+    "280863@22",
+    "392304@22",
+    "455756@22",
+    "1942395@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2693,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

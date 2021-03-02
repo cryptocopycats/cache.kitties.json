@@ -1,0 +1,27 @@
+{
+  "id": 236415,
+  "name": "Buy a FANCY cat",
+  "generation": 14,
+  "created_at": "2017-12-11T06:51:47.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! Buy a FANCY cat here. I'm here to enjoy reciting poetry and sitting on your computer. When I'm not riverdancing, I'm reading Danielle Steele! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178354@12",
+  "sire": "178671@13",
+  "children": [
+    "242519@16",
+    "263029@15",
+    "271531@15",
+    "297724@15",
+    "366471@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3313,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

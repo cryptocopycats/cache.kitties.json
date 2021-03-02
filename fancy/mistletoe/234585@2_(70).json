@@ -1,0 +1,23 @@
+{
+  "id": 234585,
+  "name": "the only Gen 2 Mistletoe!",
+  "generation": 2,
+  "created_at": "2017-12-11T05:16:32.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm the only Gen 2 Mistletoe!. I'm a professional Train Conductor and I love salad. It's not common knowledge, but my ancestry connects me to Princess Diana. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "233241@1",
+  "sire": "186763@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 70,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

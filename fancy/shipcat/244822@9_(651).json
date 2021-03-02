@@ -1,0 +1,27 @@
+{
+  "id": 244822,
+  "name": "Yellow Mouth",
+  "generation": 9,
+  "created_at": "2017-12-11T15:06:44.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Yellow Mouth. I believe the world is flat. Some people say I'm the Ron Weasley of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "225859@6",
+  "sire": "241194@8",
+  "children": [
+    "246103@10",
+    "247314@10",
+    "261173@10",
+    "270545@10",
+    "301805@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 651,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

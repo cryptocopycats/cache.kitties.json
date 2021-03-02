@@ -1,0 +1,23 @@
+{
+  "id": 210668,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T10:29:51.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #210668. I'm a professional Mad Scientist and I love chocolate. It's not common knowledge, but my ancestry connects me to Confucius. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179061@7",
+  "sire": "141253@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2828,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

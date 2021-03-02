@@ -1,0 +1,25 @@
+{
+  "id": 256376,
+  "name": "Drogon",
+  "generation": 15,
+  "created_at": "2017-12-12T00:31:26.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Drogon. I'm often referred to as the Dwight Schrute of the group. I was voted most likely to work at NASA in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "53709@11",
+  "sire": "174241@14",
+  "children": [
+    "381392@16",
+    "391848@16",
+    "404505@17"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3766,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

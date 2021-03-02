@@ -1,0 +1,23 @@
+{
+  "id": 210782,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T10:35:02.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #210782. I believe the world is flat. I once got in a fight with a moose, and won. Our friendship will be annoying, ridiculous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "208986@10",
+  "sire": "208564@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2832,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

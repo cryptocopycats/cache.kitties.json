@@ -1,0 +1,23 @@
+{
+  "id": 257956,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-12T01:48:34.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm RARE BIRD! Fancy!. I believe that one day cats will rule this planet. I like to listen to Wutang while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "251354@3",
+  "sire": "247976@3",
+  "children": [
+    "258898@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3796,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

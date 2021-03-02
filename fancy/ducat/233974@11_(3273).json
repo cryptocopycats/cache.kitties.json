@@ -1,0 +1,23 @@
+{
+  "id": 233974,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T04:48:58.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #233974. My friends describe me as hairy and brilliant. My secret indulgence is ice cream. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "230162@10",
+  "sire": "93981@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3273,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

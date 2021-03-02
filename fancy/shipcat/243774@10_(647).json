@@ -1,0 +1,23 @@
+{
+  "id": 243774,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T14:08:47.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #243774. I've never told anyone this, but I once bit a dog. When no one's home, I invite my pals over and we listen to Beyoncé. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "242781@4",
+  "sire": "57525@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 647,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

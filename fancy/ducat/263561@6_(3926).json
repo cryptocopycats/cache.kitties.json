@@ -1,0 +1,29 @@
+{
+  "id": 263561,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T06:35:14.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Kitty #263561. I'm a professional Skydiving Instructor and I love chocolate. When no one's home, I invite my pals over and we listen to Justin Bieber. Our friendship will be brilliant, prickly, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263083@5",
+  "sire": "262814@4",
+  "children": [
+    "264616@18",
+    "265855@13",
+    "271669@16",
+    "274377@13",
+    "285297@18",
+    "316978@22",
+    "322706@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3926,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

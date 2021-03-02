@@ -1,0 +1,26 @@
+{
+  "id": 227423,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-10T23:25:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! My name's Kitty #227423. I once peed on Amelia Earhart's cat. They had it coming. I'm often described as smelly, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125572@8",
+  "sire": "171397@13",
+  "children": [
+    "235478@15",
+    "243127@15",
+    "267223@17",
+    "289702@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3147,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

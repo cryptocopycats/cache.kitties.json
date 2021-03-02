@@ -1,0 +1,25 @@
+{
+  "id": 205665,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T06:22:09.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #205665. All you need to know about me is I hate hamburgers with a passion. Some people say I'm the Michael Scott of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "205315@5",
+  "sire": "202145@3",
+  "children": [
+    "362929@7",
+    "363620@7",
+    "371000@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2753,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

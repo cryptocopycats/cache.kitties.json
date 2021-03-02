@@ -1,0 +1,26 @@
+{
+  "id": 258321,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T02:06:22.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! My name's Kitty #258321. I once peed on Marie Antoinette's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be petulant, smelly, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "185926@3",
+  "sire": "179702@3",
+  "children": [
+    "258656@5",
+    "260180@5",
+    "296404@5",
+    "300197@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3804,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

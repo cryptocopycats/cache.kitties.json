@@ -1,0 +1,27 @@
+{
+  "id": 191385,
+  "name": "Pink Ducky",
+  "generation": 11,
+  "created_at": "2017-12-09T20:43:35.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Pink Ducky. I'm a professional Skydiving Instructor and I love cereal. I am 18% troll, 52% Train Conductor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "88431@9",
+  "sire": "124568@10",
+  "children": [
+    "193204@12",
+    "197009@12",
+    "202521@12",
+    "213380@12",
+    "289283@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2497,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

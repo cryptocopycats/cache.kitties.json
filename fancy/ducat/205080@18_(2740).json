@@ -1,0 +1,23 @@
+{
+  "id": 205080,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-10T05:57:05.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #205080. All you need to know about me is I hate apple pie with a passion. I'm often described as voluptuous, and I own it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "190925@17",
+  "sire": "37289@10",
+  "children": [
+    "233333@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2740,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

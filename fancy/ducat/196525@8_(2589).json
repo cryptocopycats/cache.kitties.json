@@ -1,0 +1,23 @@
+{
+  "id": 196525,
+  "name": "JPBirb",
+  "generation": 8,
+  "created_at": "2017-12-09T23:59:43.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm JPBirb. I've never told anyone this, but I once clawed a dog. Some people say I'm the Samwise Gamgee of the group. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187768@6",
+  "sire": "143272@7",
+  "children": [
+    "249532@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2589,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

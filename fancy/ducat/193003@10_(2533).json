@@ -1,0 +1,24 @@
+{
+  "id": 193003,
+  "name": "Pawpaw Sam",
+  "generation": 10,
+  "created_at": "2017-12-09T21:48:46.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Pawpaw Sam. I'm often referred to as the Samwise Gamgee of the group. I once groomed a gecko. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "75313@9",
+  "sire": "148715@5",
+  "children": [
+    "195429@11",
+    "218286@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2533,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

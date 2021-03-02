@@ -1,0 +1,30 @@
+{
+  "id": 225983,
+  "name": "Ducat",
+  "generation": 6,
+  "created_at": "2017-12-10T22:25:58.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Ducat. I enjoy glaring at the neighbour's cat, breakdancing, and staying woke. In my free time, I can usually be found brilliant or volunteering at the local kitten rescue shelter. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "203482@5",
+  "sire": "203751@5",
+  "children": [
+    "233020@7",
+    "235269@7",
+    "246584@7",
+    "249509@7",
+    "261328@7",
+    "575650@7",
+    "1105038@7",
+    "1109809@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3112,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

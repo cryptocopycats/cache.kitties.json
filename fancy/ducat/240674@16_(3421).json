@@ -1,0 +1,25 @@
+{
+  "id": 240674,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-11T11:03:46.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #240674. In high school, I was voted school jock. I like to listen to Aretha Franklin while grooming. Don't judge me. Our friendship will be gorgeous, raunchy, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "235478@15",
+  "sire": "234917@13",
+  "children": [
+    "245272@17",
+    "263278@17",
+    "289724@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3421,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

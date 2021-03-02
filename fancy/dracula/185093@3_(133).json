@@ -1,0 +1,31 @@
+{
+  "id": 185093,
+  "name": "2 Children Are Draculas",
+  "generation": 3,
+  "created_at": "2017-12-09T15:39:04.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm 2 Children Are Draculas. I've never told anyone this, but I once pawed at a dog. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "142611@2",
+  "sire": "123552@2",
+  "children": [
+    "262462@4",
+    "279564@4",
+    "308044@4",
+    "309033@4",
+    "332347@4",
+    "333155@4",
+    "337490@4",
+    "467250@4",
+    "713161@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 133,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

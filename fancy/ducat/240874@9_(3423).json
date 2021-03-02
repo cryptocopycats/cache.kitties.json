@@ -1,0 +1,31 @@
+{
+  "id": 240874,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T11:17:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's Kitty #240874. I once peed on Martin Luther King Jr.'s cat. They had it coming. I put wasabi on everything. Like, everything: hot dogs, wet food—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "217559@8",
+  "sire": "193456@8",
+  "children": [
+    "241744@13",
+    "254246@10",
+    "305567@10",
+    "324054@10",
+    "342338@10",
+    "360082@18",
+    "362561@24",
+    "396206@10",
+    "417865@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3423,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

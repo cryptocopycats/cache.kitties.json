@@ -1,0 +1,30 @@
+{
+  "id": 254908,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-11T23:29:51.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #254908. All you need to know about me is I hate salad with a passion. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236523@15",
+  "sire": "178354@12",
+  "children": [
+    "277307@18",
+    "287558@17",
+    "299445@17",
+    "314274@17",
+    "398824@17",
+    "463366@22",
+    "1105155@17",
+    "1671897@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3738,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

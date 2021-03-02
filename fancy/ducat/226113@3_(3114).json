@@ -1,0 +1,31 @@
+{
+  "id": 226113,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-10T22:29:44.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #226113. I want to live in a world where people believe the world is flat. I once made a gecko scare. Our friendship will be vegan, brilliant, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "190902@2",
+  "sire": "115547@2",
+  "children": [
+    "235309@5",
+    "235412@5",
+    "235686@5",
+    "237240@5",
+    "239363@5",
+    "243968@5",
+    "264101@5",
+    "300738@4",
+    "300784@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3114,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

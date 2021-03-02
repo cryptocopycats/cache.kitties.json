@@ -1,0 +1,27 @@
+{
+  "id": 265401,
+  "name": "CATsputnik",
+  "generation": 6,
+  "created_at": "2017-12-12T08:08:41.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's CATsputnik. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Peter Griffin of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "264612@5",
+  "sire": "263326@1",
+  "children": [
+    "265749@7",
+    "268213@8",
+    "268735@20",
+    "271246@9",
+    "274679@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3983,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

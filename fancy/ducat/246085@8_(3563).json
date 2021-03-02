@@ -1,0 +1,27 @@
+{
+  "id": 246085,
+  "name": "Dr. Ducky",
+  "generation": 8,
+  "created_at": "2017-12-11T16:18:41.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Dr. Ducky. I want to live in a world where people believe the world is flat. My secret indulgence is wet food. I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "166395@7",
+  "sire": "176462@7",
+  "children": [
+    "246998@9",
+    "250527@9",
+    "257147@9",
+    "269782@12",
+    "278906@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3563,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 217907,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T16:35:23.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #217907. I've never told anyone this, but I once headbutted a dog. I once dreamed of being a Skydiving Instructor. Now I can be found riding the bus all day. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "95112@6",
+  "sire": "111173@8",
+  "children": [
+    "302380@10",
+    "1105584@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2959,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

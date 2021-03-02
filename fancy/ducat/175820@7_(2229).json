@@ -1,0 +1,25 @@
+{
+  "id": 175820,
+  "name": "[Sell] Keystone",
+  "generation": 7,
+  "created_at": "2017-12-09T07:15:46.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm [Sell] Keystone. I believe the world is flat. I once got in a fight with a labradoodle, and won. Our friendship will be prickly, vegan, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "151202@5",
+  "sire": "153740@6",
+  "children": [
+    "183856@8",
+    "194845@8",
+    "200172@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2229,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

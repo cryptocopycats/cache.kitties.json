@@ -1,0 +1,30 @@
+{
+  "id": 214381,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-10T13:39:24.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #214381. I enjoy reciting poetry, sweating through my feet, and tricking babies. I'm often described as preposterous, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "213026@9",
+  "sire": "148144@13",
+  "children": [
+    "226989@15",
+    "237199@15",
+    "262729@15",
+    "307857@23",
+    "332767@15",
+    "369087@15",
+    "382796@15",
+    "429209@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2901,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

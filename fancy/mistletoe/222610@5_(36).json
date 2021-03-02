@@ -1,0 +1,23 @@
+{
+  "id": 222610,
+  "name": "Mistly Teeth",
+  "generation": 5,
+  "created_at": "2017-12-10T20:13:32.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Mistly Teeth. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to King Henry VIII. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "220957@4",
+  "sire": "220800@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 36,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

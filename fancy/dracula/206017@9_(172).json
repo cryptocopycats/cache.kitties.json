@@ -1,0 +1,31 @@
+{
+  "id": 206017,
+  "name": "Vampire Sexy",
+  "generation": 9,
+  "created_at": "2017-12-10T06:37:37.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Vampire Sexy. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Cleopatra. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "145501@7",
+  "sire": "201949@8",
+  "children": [
+    "238388@10",
+    "238802@10",
+    "267207@15",
+    "268192@10",
+    "288535@13",
+    "305397@13",
+    "323966@13",
+    "415219@19",
+    "488427@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 172,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

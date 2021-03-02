@@ -1,0 +1,23 @@
+{
+  "id": 250171,
+  "name": "Quick breeder 🐣",
+  "generation": 9,
+  "created_at": "2017-12-11T20:07:21.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Quick breeder 🐣. In high school, I was voted school jock. I once headbutted a chimpanzee. I don't like to talk about it. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188408@8",
+  "sire": "138187@8",
+  "children": [
+    "253728@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3642,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

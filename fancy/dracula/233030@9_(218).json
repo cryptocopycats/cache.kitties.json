@@ -1,0 +1,24 @@
+{
+  "id": 233030,
+  "name": "Mr. Black",
+  "generation": 9,
+  "created_at": "2017-12-11T03:57:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Mr. Black. I want to live in a world where people believe that one day cats will rule this planet. When I'm not summoning ghosts, I'm swiping left! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "231934@8",
+  "sire": "232344@8",
+  "children": [
+    "294778@10",
+    "506059@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 218,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

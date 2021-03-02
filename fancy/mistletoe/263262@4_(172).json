@@ -1,0 +1,28 @@
+{
+  "id": 263262,
+  "name": "Mistletoe # 172 (Gold)",
+  "generation": 4,
+  "created_at": "2017-12-12T06:20:24.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Mistletoe # 172 (Gold). All you need to know about me is I hate ice cream with a passion. Some people say I'm the Steve Urkel of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "234431@3",
+  "sire": "238839@3",
+  "children": [
+    "540567@5",
+    "540714@5",
+    "541307@5",
+    "549305@5",
+    "553232@5",
+    "554681@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 172,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

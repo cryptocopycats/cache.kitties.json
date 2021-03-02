@@ -1,0 +1,26 @@
+{
+  "id": 226238,
+  "name": "gachiBASS",
+  "generation": 4,
+  "created_at": "2017-12-10T22:36:20.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm gachiBASS. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "180947@3",
+  "sire": "151626@3",
+  "children": [
+    "226790@5",
+    "227363@5",
+    "360955@5",
+    "362050@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3115,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

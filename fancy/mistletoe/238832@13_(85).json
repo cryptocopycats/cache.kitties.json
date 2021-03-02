@@ -1,0 +1,26 @@
+{
+  "id": 238832,
+  "name": "VIRGIN MISTLETOE",
+  "generation": 13,
+  "created_at": "2017-12-11T09:17:17.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm VIRGIN MISTLETOE. I enjoy chasing red dots, chasing string, and licking doorknobs. Sometimes I daydream of a life full of taking selfies, wet food, and playing chess. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "229060@12",
+  "sire": "217931@10",
+  "children": [
+    "242603@14",
+    "253449@14",
+    "277454@14",
+    "297739@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 85,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

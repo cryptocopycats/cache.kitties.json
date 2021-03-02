@@ -1,0 +1,23 @@
+{
+  "id": 265654,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T08:20:56.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #265654. I enjoy riding unicorns, taking selfies, and chasing red dots. Some people say I'm the Niles Crane of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "4646@5",
+  "sire": "37947@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 701,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

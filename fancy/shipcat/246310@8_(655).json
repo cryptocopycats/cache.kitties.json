@@ -1,0 +1,27 @@
+{
+  "id": 246310,
+  "name": "Popeye",
+  "generation": 8,
+  "created_at": "2017-12-11T16:30:56.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Popeye. I'm a professional Skydiving Instructor and I love salad. Sometimes I daydream of a life full of tricking babies, apple pie, and pole dancing. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "238064@3",
+  "sire": "232345@7",
+  "children": [
+    "247950@10",
+    "259882@9",
+    "260522@9",
+    "307092@9",
+    "408004@25"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 655,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

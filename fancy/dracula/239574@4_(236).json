@@ -1,0 +1,23 @@
+{
+  "id": 239574,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T09:57:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #239574. I'm a Dogwalker by day, and I like talking about how much I lift by night. I am 20% wizard, 74% Spin Instructor , and otherwise bad at math. Our friendship will be ridiculous, gorgeous, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "119550@3",
+  "sire": "147791@3",
+  "children": [
+    "330610@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 236,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

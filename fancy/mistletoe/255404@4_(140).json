@@ -1,0 +1,33 @@
+{
+  "id": 255404,
+  "name": "G4 255404",
+  "generation": 4,
+  "created_at": "2017-12-11T23:50:17.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm G4 255404. I'm a Spin Instructor  by day, and I like volunteering at the local kitten rescue shelter by night. Sometimes I daydream of a life full of grooming, salad, and swiping right. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "236413@3",
+  "sire": "240816@3",
+  "children": [
+    "260875@5",
+    "261561@5",
+    "270100@5",
+    "272708@5",
+    "276631@5",
+    "284602@5",
+    "293712@5",
+    "312870@5",
+    "347063@6",
+    "348535@5",
+    "426121@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 140,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

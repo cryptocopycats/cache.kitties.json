@@ -1,0 +1,29 @@
+{
+  "id": 203484,
+  "name": "DRACULA",
+  "generation": 7,
+  "created_at": "2017-12-10T04:41:29.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm DRACULA. All you need to know about me is I hate salad with a passion. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "178488@6",
+  "sire": "185979@5",
+  "children": [
+    "210533@8",
+    "211865@8",
+    "214017@9",
+    "234716@14",
+    "242035@19",
+    "267181@19",
+    "283815@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 168,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

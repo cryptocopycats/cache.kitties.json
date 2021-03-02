@@ -1,0 +1,23 @@
+{
+  "id": 264947,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T07:45:15.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #264947. I'm often referred to as the Samwise Gamgee of the group. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "262290@8",
+  "sire": "123324@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3966,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

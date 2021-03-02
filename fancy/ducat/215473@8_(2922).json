@@ -1,0 +1,23 @@
+{
+  "id": 215473,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T14:35:28.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #215473. I believe that one day cats will rule this planet. My secret indulgence is wet food. I look forward to breakdancing with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "214994@7",
+  "sire": "147372@6",
+  "children": [
+    "217389@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2922,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

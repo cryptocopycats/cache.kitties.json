@@ -1,0 +1,23 @@
+{
+  "id": 249088,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-11T19:08:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Kitty #249088. I once peed on Confucius's cat. They had it coming. I once dreamed of being a Dogwalker. Now I can be found volunteering at the local kitten rescue shelter all day. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243596@15",
+  "sire": "243494@10",
+  "children": [
+    "264861@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3623,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

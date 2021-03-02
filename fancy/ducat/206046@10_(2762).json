@@ -1,0 +1,23 @@
+{
+  "id": 206046,
+  "name": "Fancy duCat brisk gen10",
+  "generation": 10,
+  "created_at": "2017-12-10T06:39:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Fancy duCat brisk gen10. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Nelson Mandela. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27244@9",
+  "sire": "35688@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2762,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 226773,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T22:59:12.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #226773. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Ace of Base. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "208937@9",
+  "sire": "190491@9",
+  "children": [
+    "228522@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3129,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

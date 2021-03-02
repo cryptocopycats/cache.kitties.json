@@ -1,0 +1,26 @@
+{
+  "id": 202319,
+  "name": "G5 RARITY: 0.00000% FANCY!",
+  "generation": 5,
+  "created_at": "2017-12-10T03:47:03.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm G5 RARITY: 0.00000% FANCY!. I believe the world is flat. When no one's home, I invite my pals over and we listen to Gloria Estefan. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192296@4",
+  "sire": "152995@4",
+  "children": [
+    "236729@6",
+    "238026@6",
+    "245503@6",
+    "296968@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2694,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

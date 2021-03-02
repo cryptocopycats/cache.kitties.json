@@ -1,0 +1,26 @@
+{
+  "id": 179435,
+  "name": "Pure gene",
+  "generation": 5,
+  "created_at": "2017-12-09T10:23:17.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Pure gene. I enjoy sweating through my feet, eating until I loathe myself, and reading garfield. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "177075@4",
+  "sire": "134106@4",
+  "children": [
+    "274148@6",
+    "275092@6",
+    "276535@6",
+    "292314@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2299,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

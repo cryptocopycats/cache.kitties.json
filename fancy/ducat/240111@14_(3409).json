@@ -1,0 +1,24 @@
+{
+  "id": 240111,
+  "name": "a RARE ducat",
+  "generation": 14,
+  "created_at": "2017-12-11T10:28:54.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm a RARE ducat. I'm a Foreign Film Director by day, and I like volunteering at the local kitten rescue shelter by night. I am 46% elf, 82% Foreign Film Director, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141779@13",
+  "sire": "196523@12",
+  "children": [
+    "260100@19",
+    "271531@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3409,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

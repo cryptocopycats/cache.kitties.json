@@ -1,0 +1,23 @@
+{
+  "id": 207829,
+  "name": "Él Polló Gato",
+  "generation": 19,
+  "created_at": "2017-12-10T08:07:43.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Él Polló Gato. I want to live in a world where people believe the world is flat. My secret indulgence is ice cream. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "64446@18",
+  "sire": "168912@8",
+  "children": [
+    "268195@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2795,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

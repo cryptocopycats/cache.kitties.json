@@ -1,0 +1,25 @@
+{
+  "id": 180374,
+  "name": "Purebred DuCat",
+  "generation": 13,
+  "created_at": "2017-12-09T11:12:32.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Purebred DuCat. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Rihanna. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "154480@3",
+  "sire": "154797@12",
+  "children": [
+    "221994@14",
+    "525302@14",
+    "547781@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2313,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 196443,
+  "name": "Sailor Moon",
+  "generation": 7,
+  "created_at": "2017-12-09T23:58:07.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Sailor Moon. I believe the world is flat. I once pranced with a goose. I don't like to talk about it. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195740@6",
+  "sire": "195916@5",
+  "children": [
+    "198123@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2586,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

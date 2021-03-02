@@ -1,0 +1,27 @@
+{
+  "id": 182048,
+  "name": "True dreams",
+  "generation": 19,
+  "created_at": "2017-12-09T12:41:53.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm True dreams. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155960@10",
+  "sire": "155944@18",
+  "children": [
+    "197507@20",
+    "233784@20",
+    "290089@20",
+    "346947@20",
+    "860827@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2341,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

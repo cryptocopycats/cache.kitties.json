@@ -1,0 +1,32 @@
+{
+  "id": 212172,
+  "name": "Duckie Lam",
+  "generation": 6,
+  "created_at": "2017-12-10T11:46:48.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Duckie Lam. I'm often referred to as the Jon Snow of the group. Some people say I'm the Jon Snow of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196038@5",
+  "sire": "197065@5",
+  "children": [
+    "212453@7",
+    "215838@7",
+    "238939@7",
+    "241116@7",
+    "245472@7",
+    "253085@7",
+    "268871@7",
+    "288955@7",
+    "341201@7",
+    "568749@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2857,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

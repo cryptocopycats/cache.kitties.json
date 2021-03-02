@@ -1,0 +1,27 @@
+{
+  "id": 258881,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T02:30:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #258881. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "253495@3",
+  "sire": "219957@3",
+  "children": [
+    "263916@5",
+    "268802@7",
+    "270311@7",
+    "271472@7",
+    "370805@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3815,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

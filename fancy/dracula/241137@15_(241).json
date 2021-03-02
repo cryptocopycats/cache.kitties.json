@@ -1,0 +1,27 @@
+{
+  "id": 241137,
+  "name": "Dark Romance",
+  "generation": 15,
+  "created_at": "2017-12-11T11:32:48.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Dark Romance here. I'm here to enjoy watching Stranger Things and chasing string. In my free time, I can usually be found annoying or riverdancing. Will you be the peanut butter to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "144455@11",
+  "sire": "186107@14",
+  "children": [
+    "245977@16",
+    "251942@16",
+    "268761@16",
+    "306443@16",
+    "314995@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 241,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

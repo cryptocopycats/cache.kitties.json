@@ -1,0 +1,27 @@
+{
+  "id": 265863,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T08:31:44.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #265863. I'm a professional Ventriloquist and I love chocolate. When no one's home, I invite my pals over and we listen to Ace of Base. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "262727@5",
+  "sire": "168032@5",
+  "children": [
+    "266844@7",
+    "287512@7",
+    "291459@7",
+    "335816@7",
+    "356684@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 317,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

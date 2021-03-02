@@ -1,0 +1,26 @@
+{
+  "id": 264227,
+  "name": "RARE FANCY DRAKULA",
+  "generation": 11,
+  "created_at": "2017-12-12T07:05:04.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm RARE FANCY DRAKULA. I'm often referred to as the Cersei Lannister of the group. I am 85% oracle, 17% Ventriloquist, and otherwise bad at math. Our friendship will be smelly, ridiculous, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "252817@10",
+  "sire": "219772@10",
+  "children": [
+    "265519@12",
+    "269782@12",
+    "278906@12",
+    "418638@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 308,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

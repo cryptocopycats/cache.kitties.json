@@ -1,0 +1,23 @@
+{
+  "id": 213358,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T12:44:15.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Kitty #213358. I once peed on Amelia Earhart's cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "194326@4",
+  "sire": "208276@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 574,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

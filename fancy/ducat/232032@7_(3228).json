@@ -1,0 +1,27 @@
+{
+  "id": 232032,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T03:05:53.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #232032. I'm a professional Mad Scientist and I love wet food. When no one's home, I invite my pals over and we listen to Michael Bolton. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "209812@6",
+  "sire": "223626@6",
+  "children": [
+    "248447@9",
+    "249753@9",
+    "259990@9",
+    "321425@8",
+    "344185@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3228,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

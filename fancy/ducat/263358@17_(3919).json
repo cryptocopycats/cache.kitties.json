@@ -1,0 +1,23 @@
+{
+  "id": 263358,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-12T06:26:23.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Kitty #263358. I once peed on Princess Diana's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Princess Diana. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36642@16",
+  "sire": "16004@0",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3919,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

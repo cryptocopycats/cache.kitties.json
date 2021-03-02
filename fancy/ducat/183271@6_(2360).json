@@ -1,0 +1,29 @@
+{
+  "id": 183271,
+  "name": "DuCat #2",
+  "generation": 6,
+  "created_at": "2017-12-09T13:51:34.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm DuCat #2. I want to live in a world where people believe the world is flat. My friends describe me as \"tantalizing.\" It's... accurate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "181748@5",
+  "sire": "179464@5",
+  "children": [
+    "218550@7",
+    "220825@7",
+    "222247@7",
+    "228095@7",
+    "234945@7",
+    "250956@7",
+    "293490@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2360,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

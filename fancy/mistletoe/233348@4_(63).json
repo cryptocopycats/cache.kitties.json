@@ -1,0 +1,23 @@
+{
+  "id": 233348,
+  "name": "Santa Paws",
+  "generation": 4,
+  "created_at": "2017-12-11T04:11:18.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Santa Paws. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "223526@3",
+  "sire": "210425@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 63,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

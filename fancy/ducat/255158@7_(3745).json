@@ -1,0 +1,24 @@
+{
+  "id": 255158,
+  "name": "birdy 88 laad",
+  "generation": 7,
+  "created_at": "2017-12-11T23:40:40.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm birdy 88 laad. I'm a professional Dispensary Clerk and I love apple pie. I was voted most likely to work at NASA in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "253114@6",
+  "sire": "252262@6",
+  "children": [
+    "294328@12",
+    "372265@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3745,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

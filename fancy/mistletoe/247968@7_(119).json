@@ -1,0 +1,31 @@
+{
+  "id": 247968,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T18:03:57.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #247968. In high school, I was voted most likely to work at NASA. I'm often described as preposterous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "242341@6",
+  "sire": "229478@6",
+  "children": [
+    "270008@8",
+    "281286@8",
+    "283791@8",
+    "288235@8",
+    "294981@8",
+    "311301@8",
+    "312916@8",
+    "328250@22",
+    "332452@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 119,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

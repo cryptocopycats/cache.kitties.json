@@ -1,0 +1,23 @@
+{
+  "id": 190193,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-09T19:57:29.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #190193. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found tantalizing or talking about how much I lift. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162280@8",
+  "sire": "184156@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2479,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

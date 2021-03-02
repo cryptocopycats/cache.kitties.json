@@ -1,0 +1,24 @@
+{
+  "id": 185888,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-09T16:24:34.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #185888. All you need to know about me is I hate ice cream with a passion. Sometimes I daydream of a life full of riding dirty, cereal, and playing chess. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "179293@13",
+  "sire": "140916@7",
+  "children": [
+    "205754@17",
+    "232607@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 511,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

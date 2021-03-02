@@ -1,0 +1,29 @@
+{
+  "id": 218770,
+  "name": "Highest Chance of Fancy Breed",
+  "generation": 10,
+  "created_at": "2017-12-10T17:15:16.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Highest Chance of Fancy Breed. I'm often referred to as the Samwise Gamgee of the group. My secret indulgence is apple pie. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "198372@7",
+  "sire": "195161@9",
+  "children": [
+    "250296@12",
+    "254417@11",
+    "260958@12",
+    "279736@11",
+    "282415@14",
+    "297535@11",
+    "327731@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 29,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

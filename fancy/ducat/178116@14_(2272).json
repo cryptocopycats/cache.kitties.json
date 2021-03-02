@@ -1,0 +1,26 @@
+{
+  "id": 178116,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-09T09:12:13.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #178116. I want to live in a world where people believe the world is flat. I'm often described as smelly, and I own it. I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "166100@10",
+  "sire": "114020@13",
+  "children": [
+    "186940@15",
+    "195734@16",
+    "205454@15",
+    "238135@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2272,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 257748,
+  "name": "Dracula - Dec 11 2017 - #288",
+  "generation": 5,
+  "created_at": "2017-12-12T01:38:16.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Dracula - Dec 11 2017 - #288. I believe the world is flat. Some people say I'm the Chandler Bing of the group. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "241039@4",
+  "sire": "202141@4",
+  "children": [
+    "274716@6",
+    "274995@6",
+    "276430@6",
+    "280675@6",
+    "286017@6",
+    "322889@6",
+    "328239@6",
+    "329597@6",
+    "336398@6",
+    "349208@7",
+    "394002@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 288,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

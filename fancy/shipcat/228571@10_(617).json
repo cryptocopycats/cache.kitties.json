@@ -1,0 +1,24 @@
+{
+  "id": 228571,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T00:17:29.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #228571. In high school, I was voted school jock. My friends describe me as \"smelly.\" It's... accurate. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "107984@9",
+  "sire": "49755@9",
+  "children": [
+    "230675@11",
+    "264643@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 617,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 254269,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T23:01:36.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! My name's Kitty #254269. I once peed on Nelson Mandela's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "247281@3",
+  "sire": "249806@7",
+  "children": [
+    "278079@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3725,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 191729,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-09T20:56:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #191729. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188589@8",
+  "sire": "188767@5",
+  "children": [
+    "221355@13",
+    "247568@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2506,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

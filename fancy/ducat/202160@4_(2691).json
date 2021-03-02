@@ -1,0 +1,25 @@
+{
+  "id": 202160,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-10T03:41:45.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #202160. I enjoy riding dirty, reading garfield, and being a nevernude. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168721@3",
+  "sire": "175086@3",
+  "children": [
+    "241825@5",
+    "326786@5",
+    "335959@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2691,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

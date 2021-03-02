@@ -1,0 +1,29 @@
+{
+  "id": 240510,
+  "name": "Birdy 🐦",
+  "generation": 6,
+  "created_at": "2017-12-11T10:51:48.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Birdy 🐦. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I look forward to glaring at the neighbour's cat with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "234720@5",
+  "sire": "226228@5",
+  "children": [
+    "241061@7",
+    "241761@7",
+    "247676@7",
+    "248708@7",
+    "255979@9",
+    "276419@7",
+    "448440@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3418,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

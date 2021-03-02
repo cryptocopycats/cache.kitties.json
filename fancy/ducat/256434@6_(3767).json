@@ -1,0 +1,33 @@
+{
+  "id": 256434,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T00:34:28.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! Kitty #256434 here. I'm here to enjoy taking selfies and sitting on your computer. I once dreamed of being a Aerobics Athlete . Now I can be found jump-roping all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "113010@5",
+  "sire": "206428@5",
+  "children": [
+    "257290@7",
+    "259974@7",
+    "338440@7",
+    "358694@7",
+    "371180@7",
+    "412320@7",
+    "420755@7",
+    "441328@7",
+    "450341@7",
+    "647155@10",
+    "665520@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3767,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

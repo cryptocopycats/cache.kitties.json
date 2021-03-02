@@ -1,0 +1,31 @@
+{
+  "id": 239456,
+  "name": "DracMax",
+  "generation": 7,
+  "created_at": "2017-12-11T09:51:53.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm DracMax. I'm a professional Dispensary Clerk and I love salad. I once dreamed of being a Train Conductor. Now I can be found volunteering at the local kitten rescue shelter all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "174323@4",
+  "sire": "177265@6",
+  "children": [
+    "239910@8",
+    "241089@8",
+    "270095@9",
+    "285834@8",
+    "291604@8",
+    "295930@8",
+    "304971@8",
+    "323877@8",
+    "342641@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 235,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

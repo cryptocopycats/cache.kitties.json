@@ -1,0 +1,23 @@
+{
+  "id": 213755,
+  "name": "Vlad the impawler",
+  "generation": 12,
+  "created_at": "2017-12-10T13:07:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Vlad the impawler. I'm a Dogwalker by day, and I like reading Danielle Steele by night. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "168818@11",
+  "sire": "161237@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 189,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

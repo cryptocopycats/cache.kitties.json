@@ -1,0 +1,23 @@
+{
+  "id": 247212,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T17:18:49.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty #247212. I believe that one day cats will rule this planet. In my free time, I can usually be found annoying or people-watching. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "222017@5",
+  "sire": "212113@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3583,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

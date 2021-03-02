@@ -1,0 +1,23 @@
+{
+  "id": 245090,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-11T15:20:40.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #245090. I'm a Train Conductor by day, and I like watching reality tv by night. When no one's home, I invite my pals over and we listen to Coldplay. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "232143@12",
+  "sire": "231576@12",
+  "children": [
+    "259307@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 107,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

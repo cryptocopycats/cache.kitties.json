@@ -1,0 +1,25 @@
+{
+  "id": 191619,
+  "name": "Brisk Cooldown Fancy",
+  "generation": 10,
+  "created_at": "2017-12-09T20:52:56.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! My name's Brisk Cooldown Fancy. I once peed on King Henry VIII's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "177035@9",
+  "sire": "165119@8",
+  "children": [
+    "198779@11",
+    "219966@11",
+    "300075@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2501,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

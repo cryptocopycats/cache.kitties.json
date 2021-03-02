@@ -1,0 +1,27 @@
+{
+  "id": 197941,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T00:54:17.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #197941. All you need to know about me is I hate ice cream with a passion. I put peanut butter on everything. Like, everything: hot dogs, lasagna—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97482@8",
+  "sire": "138187@8",
+  "children": [
+    "200370@10",
+    "201298@10",
+    "205956@10",
+    "211023@10",
+    "248750@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2610,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

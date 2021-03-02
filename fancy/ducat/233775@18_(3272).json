@@ -1,0 +1,25 @@
+{
+  "id": 233775,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-11T04:37:09.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #233775. I'm a professional Ventriloquist and I love salad. I once dreamed of being a Aerobics Athlete . Now I can be found riding the bus all day. Will you be the peanut butter to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118118@15",
+  "sire": "85702@17",
+  "children": [
+    "256267@22",
+    "263232@19",
+    "288329@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3272,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

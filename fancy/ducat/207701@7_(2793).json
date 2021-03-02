@@ -1,0 +1,27 @@
+{
+  "id": 207701,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-10T08:02:07.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #207701. I believe the world is flat. When no one's home, I invite my pals over and we listen to Michael Bolton. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28180@6",
+  "sire": "203555@6",
+  "children": [
+    "208379@8",
+    "209281@8",
+    "213225@8",
+    "216089@8",
+    "231273@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2793,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

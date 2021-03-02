@@ -1,0 +1,27 @@
+{
+  "id": 191923,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T21:04:46.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #191923. My friends describe me as annoying and prickly. I once got in a fight with a moose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "153803@7",
+  "sire": "187987@7",
+  "children": [
+    "193755@9",
+    "200907@15",
+    "201529@9",
+    "221335@9",
+    "230176@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2510,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

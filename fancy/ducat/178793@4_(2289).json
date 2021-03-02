@@ -1,0 +1,28 @@
+{
+  "id": 178793,
+  "name": "90s G4 0.0%",
+  "generation": 4,
+  "created_at": "2017-12-09T09:47:37.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm 90s G4 0.0%. I enjoy reciting poetry, riding dirty, and grooming. I put marmalade on everything. Like, everything: hot dogs, lasagna—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178679@3",
+  "sire": "178158@3",
+  "children": [
+    "191178@5",
+    "191521@5",
+    "192412@5",
+    "194305@5",
+    "220768@5",
+    "228039@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2289,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

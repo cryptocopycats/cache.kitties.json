@@ -1,0 +1,23 @@
+{
+  "id": 207824,
+  "name": "G11 | #18 Mistletoe",
+  "generation": 11,
+  "created_at": "2017-12-10T08:07:34.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm G11 | #18 Mistletoe. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "206311@10",
+  "sire": "158372@6",
+  "children": [
+    "216672@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 18,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

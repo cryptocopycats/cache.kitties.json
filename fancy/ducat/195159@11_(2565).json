@@ -1,0 +1,25 @@
+{
+  "id": 195159,
+  "name": "Bird Person",
+  "generation": 11,
+  "created_at": "2017-12-09T23:08:19.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Bird Person. All you need to know about me is I hate salad with a passion. Some people say I'm the Homer Simpson of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192655@10",
+  "sire": "192672@9",
+  "children": [
+    "199188@12",
+    "222258@12",
+    "365740@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2565,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

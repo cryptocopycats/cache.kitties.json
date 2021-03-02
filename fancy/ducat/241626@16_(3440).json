@@ -1,0 +1,23 @@
+{
+  "id": 241626,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-11T12:03:24.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #241626. All you need to know about me is I hate ice cream with a passion. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "207763@15",
+  "sire": "202734@13",
+  "children": [
+    "253947@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3440,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

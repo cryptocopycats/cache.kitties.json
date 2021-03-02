@@ -1,0 +1,27 @@
+{
+  "id": 244101,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T14:26:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #244101. I'm often referred to as the Lisa Simpson of the group. I like to listen to Wutang while grooming. Don't judge me. I look forward to hitting on yo' man with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188518@11",
+  "sire": "224126@10",
+  "children": [
+    "246323@14",
+    "297973@15",
+    "343982@13",
+    "379114@13",
+    "392986@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3506,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

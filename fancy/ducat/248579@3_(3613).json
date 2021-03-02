@@ -1,0 +1,24 @@
+{
+  "id": 248579,
+  "name": "Bird Catcher",
+  "generation": 3,
+  "created_at": "2017-12-11T18:40:01.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Bird Catcher. I enjoy grooming, breakdancing, and taking selfies. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "231782@2",
+  "sire": "223350@2",
+  "children": [
+    "248855@4",
+    "250232@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3613,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

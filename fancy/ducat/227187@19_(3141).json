@@ -1,0 +1,24 @@
+{
+  "id": 227187,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-10T23:14:52.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #227187. I'm often referred to as the Jon Snow of the group. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103534@16",
+  "sire": "189205@18",
+  "children": [
+    "229979@20",
+    "297698@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3141,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

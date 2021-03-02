@@ -1,0 +1,23 @@
+{
+  "id": 219591,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T17:49:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #219591. I'm a professional Skydiving Instructor and I love cereal. In my free time, I can usually be found smelly or siring for status. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "138485@4",
+  "sire": "138372@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2989,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

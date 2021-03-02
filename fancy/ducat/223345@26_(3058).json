@@ -1,0 +1,24 @@
+{
+  "id": 223345,
+  "name": null,
+  "generation": 26,
+  "created_at": "2017-12-10T20:44:13.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #223345. I've never told anyone this, but I once loved a dog. I like to listen to Gloria Estefan while grooming. Don't judge me. I look forward to riding dirty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "100484@25",
+  "sire": "101221@15",
+  "children": [
+    "355702@28",
+    "408290@30"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3058,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

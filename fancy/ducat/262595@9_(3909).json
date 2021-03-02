@@ -1,0 +1,26 @@
+{
+  "id": 262595,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T05:49:28.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #262595. All you need to know about me is I hate wet food with a passion. I'm often described as seductive, and I own it. Our friendship will be annoying, voluptuous, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "164426@8",
+  "sire": "143859@8",
+  "children": [
+    "263683@10",
+    "266195@10",
+    "273813@15",
+    "288127@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3909,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

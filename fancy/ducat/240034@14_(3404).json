@@ -1,0 +1,23 @@
+{
+  "id": 240034,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-11T10:24:22.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #240034. I've never told anyone this, but I once headbutted a dog. Some people say I'm the Marge Simpson of the group. Can you make my vegan dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "43861@13",
+  "sire": "55060@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3404,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

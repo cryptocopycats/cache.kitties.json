@@ -1,0 +1,23 @@
+{
+  "id": 248478,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T18:34:03.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #248478. My friends describe me as seductive and preposterous. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Can you make my wondrous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142122@3",
+  "sire": "229467@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3608,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

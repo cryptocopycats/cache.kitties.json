@@ -1,0 +1,24 @@
+{
+  "id": 221269,
+  "name": "Claws",
+  "generation": 5,
+  "created_at": "2017-12-10T19:09:07.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Claws. My friends describe me as seductive and gorgeous. Some people say I'm the Peter Griffin of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "220800@4",
+  "sire": "220957@4",
+  "children": [
+    "325621@6",
+    "340274@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 33,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

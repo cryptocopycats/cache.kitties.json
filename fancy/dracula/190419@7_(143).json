@@ -1,0 +1,28 @@
+{
+  "id": 190419,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-09T20:07:59.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #190419. I'm often referred to as the Ron Weasley of the group. I once dreamed of being a Ventriloquist. Now I can be found tricking babies all day. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "185979@5",
+  "sire": "187249@6",
+  "children": [
+    "190839@8",
+    "196040@8",
+    "205406@8",
+    "208353@8",
+    "238802@10",
+    "268192@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 143,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

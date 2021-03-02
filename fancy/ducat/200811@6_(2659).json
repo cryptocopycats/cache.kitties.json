@@ -1,0 +1,23 @@
+{
+  "id": 200811,
+  "name": "Snappy Fancy Kitty",
+  "generation": 6,
+  "created_at": "2017-12-10T02:46:28.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Snappy Fancy Kitty. My friends describe me as petulant and gorgeous. In my free time, I can usually be found seductive or playing chess. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156523@5",
+  "sire": "170276@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2659,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

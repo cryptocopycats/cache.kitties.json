@@ -1,0 +1,23 @@
+{
+  "id": 242677,
+  "name": "Virgin Fancy DuCat",
+  "generation": 12,
+  "created_at": "2017-12-11T13:05:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Virgin Fancy DuCat. I'm a professional Aerobics Athlete  and I love chocolate. I put garlic butter on everything. Like, everything: hot dogs, hamburgers—everything! I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135285@11",
+  "sire": "137150@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3471,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

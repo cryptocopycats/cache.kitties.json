@@ -1,0 +1,24 @@
+{
+  "id": 263953,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-12T06:53:17.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #263953. In high school, I was voted school jock. I am 22% elf, 45% Dogwalker, and otherwise bad at math. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "154651@12",
+  "sire": "246863@14",
+  "children": [
+    "277724@18",
+    "287232@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3942,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

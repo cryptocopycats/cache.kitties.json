@@ -1,0 +1,25 @@
+{
+  "id": 180356,
+  "name": "Ace McDuck | Gen 4 VIRGIN",
+  "generation": 4,
+  "created_at": "2017-12-09T11:10:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Ace McDuck | Gen 4 VIRGIN. I enjoy chasing red dots, tripping my owner, and glaring at the neighbour's cat. In my free time, I can usually be found fabulous or reading Danielle Steele. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "180074@3",
+  "sire": "180110@3",
+  "children": [
+    "247681@5",
+    "326269@5",
+    "336420@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2311,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

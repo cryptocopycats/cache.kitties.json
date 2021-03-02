@@ -1,0 +1,33 @@
+{
+  "id": 188697,
+  "name": "-=JollySailor=-",
+  "generation": 3,
+  "created_at": "2017-12-09T18:57:56.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm -=JollySailor=-. I'm a Culinary Sanitation Specialist by day, and I like running a podcast by night. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "180631@2",
+  "sire": "111789@2",
+  "children": [
+    "188901@4",
+    "189142@4",
+    "189458@4",
+    "190573@4",
+    "229552@4",
+    "232898@4",
+    "300017@5",
+    "370644@4",
+    "376513@4",
+    "432379@4",
+    "566453@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 517,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

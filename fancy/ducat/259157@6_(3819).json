@@ -1,0 +1,25 @@
+{
+  "id": 259157,
+  "name": "G6 DuCat",
+  "generation": 6,
+  "created_at": "2017-12-12T02:51:21.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! G6 DuCat here. I'm here to enjoy staying woke and fighting the patriarchy. In my free time, I can usually be found stinky or swiping left. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "140433@5",
+  "sire": "240181@5",
+  "children": [
+    "296570@7",
+    "310290@7",
+    "358934@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3819,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

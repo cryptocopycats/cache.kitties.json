@@ -1,0 +1,25 @@
+{
+  "id": 259541,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-12T03:09:05.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #259541. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "251125@4",
+  "sire": "207177@3",
+  "children": [
+    "260210@6",
+    "261047@6",
+    "265517@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3837,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

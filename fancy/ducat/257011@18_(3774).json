@@ -1,0 +1,24 @@
+{
+  "id": 257011,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-12T01:00:12.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #257011. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. Our friendship will be fabulous, gullible, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243548@17",
+  "sire": "189933@15",
+  "children": [
+    "286621@19",
+    "316573@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3774,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

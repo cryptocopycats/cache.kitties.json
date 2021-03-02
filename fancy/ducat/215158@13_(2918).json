@@ -1,0 +1,24 @@
+{
+  "id": 215158,
+  "name": "Kid1of12",
+  "generation": 13,
+  "created_at": "2017-12-10T14:21:09.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kid1of12. In high school, I was voted school jock. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162449@12",
+  "sire": "39161@10",
+  "children": [
+    "244990@14",
+    "457350@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2918,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

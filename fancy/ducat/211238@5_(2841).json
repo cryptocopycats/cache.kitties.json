@@ -1,0 +1,24 @@
+{
+  "id": 211238,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T11:00:52.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #211238. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "204739@4",
+  "sire": "205067@3",
+  "children": [
+    "272802@6",
+    "311492@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2841,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

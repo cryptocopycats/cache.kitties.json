@@ -1,0 +1,23 @@
+{
+  "id": 236080,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T06:33:42.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! My name's Kitty #236080. I once peed on Cleopatra's cat. They had it coming. I'm often described as gorgeous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "183585@3",
+  "sire": "222331@3",
+  "children": [
+    "319841@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3310,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

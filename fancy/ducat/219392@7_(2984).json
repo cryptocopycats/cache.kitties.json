@@ -1,0 +1,23 @@
+{
+  "id": 219392,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-10T17:41:11.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #219392. I'm often referred to as the Lisa Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96098@6",
+  "sire": "71466@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2984,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

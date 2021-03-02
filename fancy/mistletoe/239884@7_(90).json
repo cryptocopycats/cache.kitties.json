@@ -1,0 +1,27 @@
+{
+  "id": 239884,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T10:17:17.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #239884. My friends describe me as stinky and brilliant. I like to listen to Wutang while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "239260@5",
+  "sire": "228309@6",
+  "children": [
+    "240555@8",
+    "241074@8",
+    "244278@8",
+    "246114@8",
+    "250962@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 90,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

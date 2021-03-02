@@ -1,0 +1,27 @@
+{
+  "id": 221020,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-10T18:58:09.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #221020. I'm a professional Ventriloquist and I love chocolate. I was voted most likely to work at NASA in college. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "220701@6",
+  "sire": "197940@6",
+  "children": [
+    "226548@8",
+    "230011@8",
+    "257010@8",
+    "276193@23",
+    "441773@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3019,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

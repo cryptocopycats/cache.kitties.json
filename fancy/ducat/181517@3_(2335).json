@@ -1,0 +1,29 @@
+{
+  "id": 181517,
+  "name": "GOLD PUREBRED BIRD",
+  "generation": 3,
+  "created_at": "2017-12-09T12:09:39.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm GOLD PUREBRED BIRD. I believe the world is flat. I once kissed a rhino. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "163705@2",
+  "sire": "82381@2",
+  "children": [
+    "181937@4",
+    "183500@4",
+    "184592@5",
+    "188021@4",
+    "211559@6",
+    "276322@4",
+    "292924@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2335,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

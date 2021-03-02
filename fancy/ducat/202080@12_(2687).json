@@ -1,0 +1,23 @@
+{
+  "id": 202080,
+  "name": "Fancy/DuCat - Gen 12",
+  "generation": 12,
+  "created_at": "2017-12-10T03:38:53.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Fancy/DuCat - Gen 12. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "199668@11",
+  "sire": "189396@8",
+  "children": [
+    "221962@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2687,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

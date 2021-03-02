@@ -1,0 +1,28 @@
+{
+  "id": 237054,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T07:25:32.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #237054. I'm a professional Ventriloquist and I love hamburgers. Some people say I'm the Neville Longbottom of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "223981@5",
+  "sire": "223420@5",
+  "children": [
+    "237410@7",
+    "238757@7",
+    "241332@7",
+    "245332@7",
+    "263838@7",
+    "273263@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3334,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

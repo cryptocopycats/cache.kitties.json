@@ -1,0 +1,23 @@
+{
+  "id": 211029,
+  "name": "RED DUCKER",
+  "generation": 9,
+  "created_at": "2017-12-10T10:50:04.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's RED DUCKER. I once peed on Mother Theresa's cat. They had it coming. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "183407@4",
+  "sire": "135299@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2839,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

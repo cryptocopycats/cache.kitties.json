@@ -1,0 +1,23 @@
+{
+  "id": 230748,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T02:02:53.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #230748. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Private Dancer . Now I can be found riding the bus all day. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "222502@10",
+  "sire": "222399@11",
+  "children": [
+    "316067@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3211,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

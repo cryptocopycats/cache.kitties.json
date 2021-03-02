@@ -1,0 +1,23 @@
+{
+  "id": 205675,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-10T06:23:59.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #205675. I enjoy reciting poetry, staying woke, and shakin' dat booty. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "197156@3",
+  "sire": "204264@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 548,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 233065,
+  "name": "Jorgenfluff",
+  "generation": 13,
+  "created_at": "2017-12-11T03:59:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Jorgenfluff. I enjoy being a nevernude, reciting poetry, and sitting on your computer. I put marmite on everything. Like, everything: hot dogs, steak—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112482@11",
+  "sire": "136992@12",
+  "children": [
+    "288318@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3256,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

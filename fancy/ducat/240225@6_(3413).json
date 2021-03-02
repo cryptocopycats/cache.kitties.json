@@ -1,0 +1,25 @@
+{
+  "id": 240225,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T10:37:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #240225. All you need to know about me is I hate cereal with a passion. Sometimes I daydream of a life full of sweating through my feet, apple pie, and practicing witchcraft. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "226746@5",
+  "sire": "227547@5",
+  "children": [
+    "1104762@8",
+    "1105188@8",
+    "1107688@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3413,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

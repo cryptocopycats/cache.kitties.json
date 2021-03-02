@@ -1,0 +1,23 @@
+{
+  "id": 242927,
+  "name": "Beyonce",
+  "generation": 8,
+  "created_at": "2017-12-11T13:19:34.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! Beyonce here. I'm here to enjoy shakin' dat booty and riding unicorns. I once dreamed of being a Foreign Film Director. Now I can be found volunteering at the local kitten rescue shelter all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242239@7",
+  "sire": "242520@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3478,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

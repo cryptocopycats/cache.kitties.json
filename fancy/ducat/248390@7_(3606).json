@@ -1,0 +1,32 @@
+{
+  "id": 248390,
+  "name": "PureBird",
+  "generation": 7,
+  "created_at": "2017-12-11T18:29:02.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm PureBird. I've never told anyone this, but I once tricked a dog. Some people say I'm the Frodo Baggins of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242042@6",
+  "sire": "239000@6",
+  "children": [
+    "332105@8",
+    "334487@8",
+    "340325@12",
+    "341837@8",
+    "347745@11",
+    "359217@9",
+    "367130@8",
+    "390462@20",
+    "395590@8",
+    "482557@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3606,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

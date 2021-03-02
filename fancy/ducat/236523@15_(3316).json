@@ -1,0 +1,27 @@
+{
+  "id": 236523,
+  "name": "Bird Parents",
+  "generation": 15,
+  "created_at": "2017-12-11T06:57:16.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Bird Parents. I'm often referred to as the Ross Geller of the group. I once cleaned a platypus. I don't like to talk about it. Our friendship will be annoying, prickly, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219504@14",
+  "sire": "189447@6",
+  "children": [
+    "242519@16",
+    "254908@16",
+    "315550@21",
+    "319823@16",
+    "1105888@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3316,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

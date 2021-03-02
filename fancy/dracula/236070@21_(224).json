@@ -1,0 +1,23 @@
+{
+  "id": 236070,
+  "name": "Dracula",
+  "generation": 21,
+  "created_at": "2017-12-11T06:33:00.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Dracula. I want to live in a world where people believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Will you be the garlic butter to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "107335@4",
+  "sire": "227023@20",
+  "children": [
+    "236862@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 224,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

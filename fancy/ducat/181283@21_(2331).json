@@ -1,0 +1,23 @@
+{
+  "id": 181283,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-09T11:56:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #181283. I want to live in a world where people believe the world is flat. My secret indulgence is apple pie. Will you be the wasabi to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118619@20",
+  "sire": "80767@5",
+  "children": [
+    "185614@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2331,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

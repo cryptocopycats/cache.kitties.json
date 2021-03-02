@@ -1,0 +1,23 @@
+{
+  "id": 189361,
+  "name": "Hawthorn",
+  "generation": 15,
+  "created_at": "2017-12-09T19:26:14.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Hawthorn. I've never told anyone this, but I once licked a dog. My secret indulgence is ice cream. Will you be the soy sauce to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141056@13",
+  "sire": "92388@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2461,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

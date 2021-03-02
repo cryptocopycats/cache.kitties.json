@@ -1,0 +1,30 @@
+{
+  "id": 177117,
+  "name": "GP5 Birdy 1 G2",
+  "generation": 2,
+  "created_at": "2017-12-09T08:18:12.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! GP5 Birdy 1 G2 here. I'm here to enjoy sweating through my feet and breakdancing. I was voted biggest teacher's pet in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "176045@1",
+  "sire": "149269@1",
+  "children": [
+    "186367@3",
+    "187197@3",
+    "191673@3",
+    "192809@3",
+    "196492@3",
+    "200401@3",
+    "212863@3",
+    "234744@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2253,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

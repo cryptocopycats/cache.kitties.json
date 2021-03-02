@@ -1,0 +1,23 @@
+{
+  "id": 248824,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T18:52:05.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Kitty #248824 here. I'm here to enjoy sweating through my feet and glaring at the neighbour's cat. I was voted biggest teacher's pet in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "151519@9",
+  "sire": "221278@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 661,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

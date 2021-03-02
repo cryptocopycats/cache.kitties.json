@@ -1,0 +1,30 @@
+{
+  "id": 202053,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T03:37:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #202053. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179061@7",
+  "sire": "141253@7",
+  "children": [
+    "212266@9",
+    "239341@9",
+    "244957@9",
+    "251504@9",
+    "267448@9",
+    "292048@9",
+    "349673@9",
+    "386111@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2686,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

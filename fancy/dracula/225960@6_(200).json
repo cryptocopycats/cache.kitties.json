@@ -1,0 +1,25 @@
+{
+  "id": 225960,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T22:25:27.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Kitty #225960 here. I'm here to enjoy watching Stranger Things and riding dirty. I once bit a labradoodle. I don't like to talk about it. Our friendship will be smelly, hairy, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "203823@5",
+  "sire": "188832@5",
+  "children": [
+    "230305@7",
+    "231213@7",
+    "232734@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 200,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

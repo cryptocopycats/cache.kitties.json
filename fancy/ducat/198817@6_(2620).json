@@ -1,0 +1,23 @@
+{
+  "id": 198817,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T01:29:02.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #198817. I'm a professional Foreign Film Director and I love salad. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "197872@3",
+  "sire": "195840@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2620,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

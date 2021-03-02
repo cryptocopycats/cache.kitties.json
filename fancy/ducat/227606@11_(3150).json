@@ -1,0 +1,25 @@
+{
+  "id": 227606,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T23:32:25.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #227606. My friends describe me as gullible and vegan. I like to listen to Rihanna while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224379@6",
+  "sire": "220273@10",
+  "children": [
+    "282685@12",
+    "294142@12",
+    "366067@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3150,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

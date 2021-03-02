@@ -1,0 +1,23 @@
+{
+  "id": 253230,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-11T22:16:14.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #253230. I believe that one day cats will rule this planet. My friends describe me as \"prickly.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "224293@17",
+  "sire": "80774@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 279,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

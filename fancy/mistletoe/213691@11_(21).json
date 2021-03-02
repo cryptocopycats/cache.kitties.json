@@ -1,0 +1,28 @@
+{
+  "id": 213691,
+  "name": "Meowstletoe",
+  "generation": 11,
+  "created_at": "2017-12-10T13:03:31.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Meowstletoe. I enjoy taking selfies, watching Stranger Things, and tricking babies. In my free time, I can usually be found ridiculous or jump-roping. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "194029@10",
+  "sire": "202878@10",
+  "children": [
+    "254557@14",
+    "268042@12",
+    "277777@12",
+    "283987@23",
+    "286258@12",
+    "320988@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 21,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

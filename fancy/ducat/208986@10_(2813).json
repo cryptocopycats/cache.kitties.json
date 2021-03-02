@@ -1,0 +1,24 @@
+{
+  "id": 208986,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T09:04:10.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #208986. I want to live in a world where people believe the world is flat. My friends describe me as \"vegan.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103050@9",
+  "sire": "154629@9",
+  "children": [
+    "210782@11",
+    "251278@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2813,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

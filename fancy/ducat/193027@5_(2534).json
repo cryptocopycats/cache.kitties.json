@@ -1,0 +1,32 @@
+{
+  "id": 193027,
+  "name": "Gen 5 Fancy DuCat",
+  "generation": 5,
+  "created_at": "2017-12-09T21:49:19.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Gen 5 Fancy DuCat. I enjoy fighting the patriarchy, grooming, and licking doorknobs. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192426@4",
+  "sire": "191871@4",
+  "children": [
+    "209095@10",
+    "215024@11",
+    "234569@6",
+    "237944@6",
+    "239831@6",
+    "245703@6",
+    "261999@6",
+    "278031@6",
+    "295889@6",
+    "356252@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2534,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

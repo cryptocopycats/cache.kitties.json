@@ -1,0 +1,31 @@
+{
+  "id": 208276,
+  "name": "Purchased Kitty 3 lemon E clr",
+  "generation": 4,
+  "created_at": "2017-12-10T08:26:59.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Purchased Kitty 3 lemon E clr. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "195533@3",
+  "sire": "57992@3",
+  "children": [
+    "213358@5",
+    "279305@5",
+    "279534@5",
+    "282193@5",
+    "289223@5",
+    "298947@5",
+    "300636@5",
+    "385738@5",
+    "959629@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 554,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

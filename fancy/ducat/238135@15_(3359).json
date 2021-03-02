@@ -1,0 +1,23 @@
+{
+  "id": 238135,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-11T08:36:40.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #238135. In high school, I was voted biggest teacher's pet. I would give it all up to star in a soap opera. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "108697@13",
+  "sire": "178116@14",
+  "children": [
+    "487353@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3359,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

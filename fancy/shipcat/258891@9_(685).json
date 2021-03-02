@@ -1,0 +1,30 @@
+{
+  "id": 258891,
+  "name": "ShipCat [1]",
+  "generation": 9,
+  "created_at": "2017-12-12T02:32:13.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm ShipCat [1]. I'm a professional Spin Instructor  and I love hamburgers. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I look forward to watching Stranger Things with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "228322@8",
+  "sire": "255804@7",
+  "children": [
+    "267488@10",
+    "270708@10",
+    "273088@10",
+    "279226@10",
+    "283831@10",
+    "311084@10",
+    "327750@10",
+    "346310@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 685,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

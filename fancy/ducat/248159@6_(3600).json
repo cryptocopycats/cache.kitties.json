@@ -1,0 +1,23 @@
+{
+  "id": 248159,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T18:14:07.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #248159. I want to live in a world where people believe the world is flat. I once dreamed of being a Foreign Film Director. Now I can be found running a podcast all day. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "247535@5",
+  "sire": "247912@5",
+  "children": [
+    "1993435@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3600,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

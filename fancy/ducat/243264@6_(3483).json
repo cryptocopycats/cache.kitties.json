@@ -1,0 +1,23 @@
+{
+  "id": 243264,
+  "name": "McBirder",
+  "generation": 6,
+  "created_at": "2017-12-11T13:35:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm McBirder. I enjoy slappin' da bass, chasing red dots, and watching Stranger Things. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242288@5",
+  "sire": "242744@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3483,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

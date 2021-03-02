@@ -1,0 +1,30 @@
+{
+  "id": 178354,
+  "name": "Chestnut Duck Duck Goose",
+  "generation": 12,
+  "created_at": "2017-12-09T09:25:41.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Chestnut Duck Duck Goose. I've never told anyone this, but I once kissed a dog. It's not common knowledge, but my ancestry connects me to Amelia Earhart. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107149@11",
+  "sire": "141640@9",
+  "children": [
+    "187639@13",
+    "219504@14",
+    "236415@14",
+    "254908@16",
+    "293009@13",
+    "320224@13",
+    "364715@13",
+    "495308@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2279,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

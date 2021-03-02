@@ -1,0 +1,28 @@
+{
+  "id": 178143,
+  "name": "Chester",
+  "generation": 13,
+  "created_at": "2017-12-09T09:14:15.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Chester. I'm often referred to as the Peter Griffin of the group. I once got in a fight with a goose, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160181@12",
+  "sire": "160459@12",
+  "children": [
+    "186541@14",
+    "188145@15",
+    "191381@14",
+    "242634@14",
+    "281243@14",
+    "358634@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2274,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 200219,
+  "name": "[G14] DuCat - さくら",
+  "generation": 14,
+  "created_at": "2017-12-10T02:18:40.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm [G14] DuCat - さくら. I'm often referred to as the Homer Simpson of the group. When I'm not mocking dogs, I'm summoning ghosts! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125928@13",
+  "sire": "172422@13",
+  "children": [
+    "203234@15",
+    "233366@15",
+    "257831@15",
+    "375444@15",
+    "428953@15",
+    "451543@15",
+    "555840@19",
+    "1110572@15",
+    "1852167@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2644,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

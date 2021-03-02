@@ -1,0 +1,24 @@
+{
+  "id": 228259,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-11T00:03:37.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #228259. I'm often referred to as the Ron Weasley of the group. I once frolicked with a platypus. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "198178@3",
+  "sire": "200907@15",
+  "children": [
+    "281855@17",
+    "347374@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3165,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

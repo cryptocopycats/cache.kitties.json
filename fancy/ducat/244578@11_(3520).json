@@ -1,0 +1,26 @@
+{
+  "id": 244578,
+  "name": "Chauncy Ruffleston",
+  "generation": 11,
+  "created_at": "2017-12-11T14:53:52.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Chauncy Ruffleston. In high school, I was voted biggest teacher's pet. My secret indulgence is steak. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115629@6",
+  "sire": "87845@10",
+  "children": [
+    "247174@12",
+    "404535@12",
+    "413565@12",
+    "429748@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3520,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

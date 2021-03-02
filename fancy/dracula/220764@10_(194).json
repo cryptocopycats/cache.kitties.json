@@ -1,0 +1,23 @@
+{
+  "id": 220764,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T18:47:02.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #220764. I'm a professional Culinary Sanitation Specialist and I love ice cream. I was voted most likely to work at NASA in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "145016@9",
+  "sire": "157640@7",
+  "children": [
+    "283258@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 194,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

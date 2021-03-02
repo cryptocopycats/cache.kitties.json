@@ -1,0 +1,23 @@
+{
+  "id": 205028,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-10T05:54:36.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! Kitty #205028 here. I'm here to enjoy eating lasagna and grooming. I once headbutted a chimpanzee. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200546@6",
+  "sire": "202663@5",
+  "children": [
+    "208842@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2738,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

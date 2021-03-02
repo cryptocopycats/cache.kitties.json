@@ -1,0 +1,23 @@
+{
+  "id": 179177,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-09T10:10:29.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #179177. I'm a professional Train Conductor and I love hamburgers. I once made a rhino leap. I hope we can be brilliant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "176387@8",
+  "sire": "178021@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2298,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 232920,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T03:51:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #232920. My friends describe me as hairy and wondrous. Some people say I'm the Jon Snow of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "211875@9",
+  "sire": "212021@8",
+  "children": [
+    "237536@11",
+    "238529@15",
+    "1145581@12",
+    "1170118@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3251,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

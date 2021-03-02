@@ -1,0 +1,25 @@
+{
+  "id": 193732,
+  "name": "SC - 1YP - Shipcat",
+  "generation": 11,
+  "created_at": "2017-12-09T22:14:34.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! SC - 1YP - Shipcat here. I'm here to enjoy shakin' dat booty and grooming. When I'm not braiding people's hair, I'm riding the bus! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "173742@10",
+  "sire": "151266@6",
+  "children": [
+    "197554@12",
+    "207723@12",
+    "267018@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 529,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 250429,
+  "name": "John D. Rockerduck",
+  "generation": 21,
+  "created_at": "2017-12-11T20:17:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm John D. Rockerduck. All you need to know about me is I hate ice cream with a passion. I once got in a fight with a moose, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219468@20",
+  "sire": "220601@5",
+  "children": [
+    "291912@22"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3650,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 245178,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T15:23:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Kitty #245178. My friends describe me as hairy and seductive. I once dreamed of being a Dogwalker. Now I can be found people-watching all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200908@5",
+  "sire": "200796@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3539,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

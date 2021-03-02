@@ -1,0 +1,32 @@
+{
+  "id": 201142,
+  "name": "M2",
+  "generation": 4,
+  "created_at": "2017-12-10T02:59:27.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm M2. I'm a Culinary Sanitation Specialist by day, and I like talking about how much I lift by night. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "186632@3",
+  "sire": "150451@3",
+  "children": [
+    "203393@5",
+    "203751@5",
+    "205992@5",
+    "219217@5",
+    "223420@5",
+    "229609@5",
+    "271429@5",
+    "293858@5",
+    "556193@5",
+    "657671@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2662,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

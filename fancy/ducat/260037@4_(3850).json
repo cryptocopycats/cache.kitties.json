@@ -1,0 +1,30 @@
+{
+  "id": 260037,
+  "name": "g4_E_Virgin_PURE",
+  "generation": 4,
+  "created_at": "2017-12-12T03:34:10.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's g4_E_Virgin_PURE. I once peed on Confucius's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Confucius. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "140600@3",
+  "sire": "151595@3",
+  "children": [
+    "261854@6",
+    "264239@5",
+    "265636@5",
+    "266797@5",
+    "281294@5",
+    "285175@5",
+    "291502@5",
+    "297079@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3850,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

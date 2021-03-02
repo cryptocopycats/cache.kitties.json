@@ -1,0 +1,25 @@
+{
+  "id": 174945,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-09T06:41:07.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Kitty #174945. I want to live in a world where people believe the world is flat. I put maple syrup on everything. Like, everything: hot dogs, cantaloupe—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162882@14",
+  "sire": "87107@20",
+  "children": [
+    "220002@22",
+    "251409@22",
+    "350462@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2216,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 205089,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T05:57:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #205089. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Cleopatra. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136070@10",
+  "sire": "140823@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2741,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

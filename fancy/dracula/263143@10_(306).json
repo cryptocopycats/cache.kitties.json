@@ -1,0 +1,30 @@
+{
+  "id": 263143,
+  "name": "Dracula",
+  "generation": 10,
+  "created_at": "2017-12-12T06:17:18.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Dracula. In high school, I was voted biggest teacher's pet. My friends describe me as \"voluptuous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "244190@9",
+  "sire": "167713@8",
+  "children": [
+    "264913@11",
+    "268076@11",
+    "284975@11",
+    "290634@11",
+    "305665@11",
+    "324197@11",
+    "338652@11",
+    "370538@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 306,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

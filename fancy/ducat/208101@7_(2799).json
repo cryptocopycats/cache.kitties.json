@@ -1,0 +1,33 @@
+{
+  "id": 208101,
+  "name": "Miner first born son",
+  "generation": 7,
+  "created_at": "2017-12-10T08:18:30.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Miner first born son. I want to live in a world where people believe the world is flat. My friends describe me as \"voluptuous.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "203795@6",
+  "sire": "201232@6",
+  "children": [
+    "209222@8",
+    "215463@9",
+    "216890@8",
+    "218664@8",
+    "226762@8",
+    "285209@8",
+    "287950@8",
+    "305263@8",
+    "1277089@9",
+    "1284354@8",
+    "1310404@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2799,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

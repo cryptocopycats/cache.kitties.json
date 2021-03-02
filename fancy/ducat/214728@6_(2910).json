@@ -1,0 +1,25 @@
+{
+  "id": 214728,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T13:54:45.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #214728. I want to live in a world where people believe the world is flat. I put cinammon on everything. Like, everything: hot dogs, lasagna—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156817@5",
+  "sire": "191178@5",
+  "children": [
+    "243894@17",
+    "625488@10",
+    "625581@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2910,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

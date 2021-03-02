@@ -1,0 +1,24 @@
+{
+  "id": 234430,
+  "name": "Fancy virgin!",
+  "generation": 9,
+  "created_at": "2017-12-11T05:10:57.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Fancy virgin!. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found petulant or prank-calling celebrities. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "210095@7",
+  "sire": "159226@8",
+  "children": [
+    "257933@10",
+    "288783@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3278,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

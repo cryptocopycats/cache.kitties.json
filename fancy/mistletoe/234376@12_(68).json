@@ -1,0 +1,26 @@
+{
+  "id": 234376,
+  "name": "Santa Claws",
+  "generation": 12,
+  "created_at": "2017-12-11T05:09:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Santa Claws. I'm often referred to as the Steve Urkel of the group. When I'm not jump-roping, I'm summoning ghosts! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "232733@7",
+  "sire": "233715@11",
+  "children": [
+    "241397@13",
+    "251570@13",
+    "253609@19",
+    "270306@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 68,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

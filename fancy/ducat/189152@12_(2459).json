@@ -1,0 +1,23 @@
+{
+  "id": 189152,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-09T19:18:48.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #189152. I'm a professional Private Dancer  and I love ice cream. I once made a rhino jump. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "64288@11",
+  "sire": "168614@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2459,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

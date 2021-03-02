@@ -1,0 +1,23 @@
+{
+  "id": 187441,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-09T17:57:21.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #187441. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found tantalizing or swiping right. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162088@18",
+  "sire": "146629@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2429,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 250313,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T20:13:47.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #250313. My friends describe me as wondrous and preposterous. Sometimes I daydream of a life full of reading garfield, ice cream, and watching reality tv. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "125128@6",
+  "sire": "141443@6",
+  "children": [
+    "268405@8",
+    "297916@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 272,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

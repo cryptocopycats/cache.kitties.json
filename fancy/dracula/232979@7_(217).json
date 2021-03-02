@@ -1,0 +1,28 @@
+{
+  "id": 232979,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T03:55:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #232979. In high school, I was voted biggest teacher's pet. I would give it all up to be on Oprah. Our friendship will be gullible, preposterous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "31023@6",
+  "sire": "68971@6",
+  "children": [
+    "239453@8",
+    "299504@8",
+    "302242@8",
+    "309135@8",
+    "312820@8",
+    "473156@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 217,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

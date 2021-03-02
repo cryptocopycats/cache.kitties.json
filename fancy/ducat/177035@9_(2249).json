@@ -1,0 +1,27 @@
+{
+  "id": 177035,
+  "name": "Fancy Gen 9",
+  "generation": 9,
+  "created_at": "2017-12-09T08:13:55.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's Fancy Gen 9. I once peed on Mother Theresa's cat. They had it coming. I am 76% oracle, 75% Foreign Film Director, and otherwise bad at math. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66747@8",
+  "sire": "99068@8",
+  "children": [
+    "186792@10",
+    "191619@10",
+    "200049@10",
+    "216584@10",
+    "271879@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2249,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

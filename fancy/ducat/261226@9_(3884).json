@@ -1,0 +1,32 @@
+{
+  "id": 261226,
+  "name": "BubbleDuck /",
+  "generation": 9,
+  "created_at": "2017-12-12T04:44:08.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm BubbleDuck /. I believe the world is flat. I am 92% troll, 29% Private Dancer , and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "233852@8",
+  "sire": "143804@8",
+  "children": [
+    "271129@10",
+    "278288@10",
+    "290192@10",
+    "292298@10",
+    "320530@10",
+    "333646@10",
+    "343158@10",
+    "389611@12",
+    "443535@12",
+    "667308@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3884,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

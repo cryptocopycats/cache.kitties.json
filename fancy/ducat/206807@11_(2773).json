@@ -1,0 +1,32 @@
+{
+  "id": 206807,
+  "name": "FancyDuCat",
+  "generation": 11,
+  "created_at": "2017-12-10T07:14:47.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm FancyDuCat. I enjoy tripping my owner, riding unicorns, and hitting on yo' man. I once snuggled a moose. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94922@6",
+  "sire": "189908@10",
+  "children": [
+    "217434@12",
+    "221011@12",
+    "245737@15",
+    "251231@12",
+    "274173@12",
+    "335795@22",
+    "349326@12",
+    "382633@21",
+    "411102@14",
+    "451880@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2773,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 226934,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T23:05:50.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #226934. I enjoy taking selfies, chasing string, and picking flowers. I once dreamed of being a Mad Scientist. Now I can be found playing chess all day. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "204716@5",
+  "sire": "34958@5",
+  "children": [
+    "247814@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3136,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

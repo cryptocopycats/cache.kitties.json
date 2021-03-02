@@ -1,0 +1,26 @@
+{
+  "id": 221743,
+  "name": "www.vjloops.com",
+  "generation": 18,
+  "created_at": "2017-12-10T19:31:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm www.vjloops.com. I want to live in a world where people believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Cleopatra. Our friendship will be brilliant, ridiculous, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196828@6",
+  "sire": "194959@17",
+  "children": [
+    "225675@19",
+    "270761@19",
+    "312607@19",
+    "903549@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3033,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

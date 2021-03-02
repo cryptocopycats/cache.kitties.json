@@ -1,0 +1,25 @@
+{
+  "id": 198991,
+  "name": "Lucky #8 - Mistletoe",
+  "generation": 8,
+  "created_at": "2017-12-10T01:35:05.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Lucky #8 - Mistletoe. I enjoy being a nevernude, taking selfies, and grooming. In my free time, I can usually be found vegan or swiping left. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "197469@7",
+  "sire": "197853@6",
+  "children": [
+    "217217@9",
+    "632096@21",
+    "731779@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 8,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

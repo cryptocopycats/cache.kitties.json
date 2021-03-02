@@ -1,0 +1,23 @@
+{
+  "id": 255077,
+  "name": "ChickenBall",
+  "generation": 9,
+  "created_at": "2017-12-11T23:37:16.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm ChickenBall. I'm a Culinary Sanitation Specialist by day, and I like volunteering at the local kitten rescue shelter by night. When I'm not running a podcast, I'm siring for status! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254485@7",
+  "sire": "249278@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3741,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

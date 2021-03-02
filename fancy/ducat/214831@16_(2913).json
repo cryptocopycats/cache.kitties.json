@@ -1,0 +1,24 @@
+{
+  "id": 214831,
+  "name": "0% fancy gen16",
+  "generation": 16,
+  "created_at": "2017-12-10T14:01:44.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm 0% fancy gen16. I've never told anyone this, but I once headbutted a dog. When I'm not braiding people's hair, I'm sleeping in fresh laundry! Our friendship will be petulant, seductive, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "190547@4",
+  "sire": "203588@15",
+  "children": [
+    "216413@17",
+    "252478@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2913,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

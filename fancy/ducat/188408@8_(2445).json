@@ -1,0 +1,29 @@
+{
+  "id": 188408,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T18:42:38.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #188408. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179061@7",
+  "sire": "141253@7",
+  "children": [
+    "191333@9",
+    "232029@9",
+    "250171@9",
+    "262060@9",
+    "322189@9",
+    "336493@9",
+    "386047@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2445,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

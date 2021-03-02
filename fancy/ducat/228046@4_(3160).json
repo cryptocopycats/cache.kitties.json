@@ -1,0 +1,31 @@
+{
+  "id": 228046,
+  "name": "x2 DuCat",
+  "generation": 4,
+  "created_at": "2017-12-10T23:50:53.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm x2 DuCat. I'm a professional Dogwalker and I love hamburgers. I put marmalade on everything. Like, everything: hot dogs, apple pie—everything! I hope we can be tantalizing friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212863@3",
+  "sire": "226673@3",
+  "children": [
+    "228691@7",
+    "267118@5",
+    "308362@5",
+    "309710@5",
+    "312251@5",
+    "315293@5",
+    "320376@5",
+    "344913@5",
+    "346294@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3160,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

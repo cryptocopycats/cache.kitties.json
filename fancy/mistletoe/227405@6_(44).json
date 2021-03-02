@@ -1,0 +1,28 @@
+{
+  "id": 227405,
+  "name": "*RARE* FANCY MISTLETOE SANTA",
+  "generation": 6,
+  "created_at": "2017-12-10T23:24:51.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm *RARE* FANCY MISTLETOE SANTA. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"smelly.\" It's... accurate. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "226241@5",
+  "sire": "221828@5",
+  "children": [
+    "253657@7",
+    "253921@7",
+    "260482@7",
+    "263644@7",
+    "268814@7",
+    "281476@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 44,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

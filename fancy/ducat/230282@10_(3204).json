@@ -1,0 +1,23 @@
+{
+  "id": 230282,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T01:42:00.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #230282. I want to live in a world where people believe the world is flat. I was voted biggest teacher's pet in college. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179442@9",
+  "sire": "177992@9",
+  "children": [
+    "231785@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3204,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

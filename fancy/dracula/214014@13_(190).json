@@ -1,0 +1,26 @@
+{
+  "id": 214014,
+  "name": "Vampire Lord",
+  "generation": 13,
+  "created_at": "2017-12-10T13:20:56.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Vampire Lord. All you need to know about me is I hate wet food with a passion. My secret indulgence is steak. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "164231@9",
+  "sire": "209550@12",
+  "children": [
+    "236736@14",
+    "246575@14",
+    "249367@14",
+    "293477@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 190,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

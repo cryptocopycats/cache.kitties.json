@@ -1,0 +1,28 @@
+{
+  "id": 194264,
+  "name": "Porg The Duck",
+  "generation": 12,
+  "created_at": "2017-12-09T22:37:21.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Porg The Duck. I enjoy taking selfies, grooming, and riding dirty. Sometimes I daydream of a life full of riding unicorns, salad, and jump-roping. I hope we can be brilliant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191669@11",
+  "sire": "190862@10",
+  "children": [
+    "232650@13",
+    "243490@13",
+    "264760@17",
+    "294221@20",
+    "321205@20",
+    "375242@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2552,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

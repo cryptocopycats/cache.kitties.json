@@ -1,0 +1,25 @@
+{
+  "id": 194737,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-09T22:52:25.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's Kitty #194737. I once peed on Marie Antoinette's cat. They had it coming. I'm often described as gorgeous, and I own it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189740@4",
+  "sire": "190587@4",
+  "children": [
+    "215962@6",
+    "216530@6",
+    "254648@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2560,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

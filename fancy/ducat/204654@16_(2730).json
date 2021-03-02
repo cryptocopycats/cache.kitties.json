@@ -1,0 +1,26 @@
+{
+  "id": 204654,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-10T05:33:33.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #204654. I enjoy spinning sick beats, riding dirty, and reading garfield. I am 60% gremlin, 30% Spin Instructor , and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "144210@15",
+  "sire": "163528@7",
+  "children": [
+    "220733@17",
+    "258971@17",
+    "300001@18",
+    "340380@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2730,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

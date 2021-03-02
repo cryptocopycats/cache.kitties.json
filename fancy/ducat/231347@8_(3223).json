@@ -1,0 +1,23 @@
+{
+  "id": 231347,
+  "name": "Birdcat",
+  "generation": 8,
+  "created_at": "2017-12-11T02:28:36.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Birdcat. I'm a professional Dispensary Clerk and I love ice cream. I once frolicked with a moose. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142004@7",
+  "sire": "228793@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3223,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

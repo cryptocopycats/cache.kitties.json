@@ -1,0 +1,24 @@
+{
+  "id": 245259,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T15:28:29.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #245259. I want to live in a world where people believe the world is flat. I once made a chimpanzee sulk. Our friendship will be despicable, tantalizing, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "216516@5",
+  "sire": "244176@5",
+  "children": [
+    "291921@7",
+    "301372@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3541,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

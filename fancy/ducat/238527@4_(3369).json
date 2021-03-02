@@ -1,0 +1,24 @@
+{
+  "id": 238527,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T08:56:06.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #238527. In high school, I was voted biggest teacher's pet. I like to listen to Aretha Franklin while grooming. Don't judge me. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "129322@2",
+  "sire": "74544@3",
+  "children": [
+    "238838@8",
+    "239207@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3369,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

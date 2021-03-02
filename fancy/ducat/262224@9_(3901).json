@@ -1,0 +1,23 @@
+{
+  "id": 262224,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T05:33:20.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #262224. I enjoy taking selfies, slappin' da bass, and spinning sick beats. I would give it all up to be on Oprah. Will you be the garlic butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158967@8",
+  "sire": "132953@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3901,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

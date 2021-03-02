@@ -1,0 +1,23 @@
+{
+  "id": 231905,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T02:58:17.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Kitty #231905. My friends describe me as brilliant and seductive. My friends describe me as \"annoying.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "231014@7",
+  "sire": "231122@7",
+  "children": [
+    "342789@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 626,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

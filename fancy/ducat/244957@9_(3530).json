@@ -1,0 +1,24 @@
+{
+  "id": 244957,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T15:13:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #244957. I'm often referred to as the Samwise Gamgee of the group. In my free time, I can usually be found hairy or mocking dogs. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "217559@8",
+  "sire": "202053@8",
+  "children": [
+    "245843@18",
+    "451196@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3530,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

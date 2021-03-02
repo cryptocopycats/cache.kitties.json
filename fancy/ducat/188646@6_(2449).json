@@ -1,0 +1,24 @@
+{
+  "id": 188646,
+  "name": "princess1",
+  "generation": 6,
+  "created_at": "2017-12-09T18:54:41.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm princess1. I'm often referred to as the Samwise Gamgee of the group. In my free time, I can usually be found smelly or practicing witchcraft. Will you be the maple syrup to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "154284@5",
+  "sire": "183990@3",
+  "children": [
+    "255659@10",
+    "290443@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2449,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

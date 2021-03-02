@@ -1,0 +1,25 @@
+{
+  "id": 226067,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-10T22:28:59.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Kitty #226067. I once peed on Princess Diana's cat. They had it coming. I once dreamed of being a Mad Scientist. Now I can be found people-watching all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "211998@9",
+  "sire": "224195@11",
+  "children": [
+    "262005@13",
+    "285337@13",
+    "400769@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3113,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

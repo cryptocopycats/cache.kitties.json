@@ -1,0 +1,24 @@
+{
+  "id": 264753,
+  "name": "G2 Christmas",
+  "generation": 2,
+  "created_at": "2017-12-12T07:29:18.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's G2 Christmas. I once peed on Marie Antoinette's cat. They had it coming. My secret indulgence is ice cream. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "23336@1",
+  "sire": "220947@1",
+  "children": [
+    "292205@3",
+    "311903@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 180,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 181202,
+  "name": "RARE DuCat G3",
+  "generation": 3,
+  "created_at": "2017-12-09T11:51:41.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm RARE DuCat G3. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of riding unicorns, wet food, and people-watching. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178953@2",
+  "sire": "179501@2",
+  "children": [
+    "184093@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2329,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

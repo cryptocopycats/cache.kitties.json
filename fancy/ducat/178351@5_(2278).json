@@ -1,0 +1,25 @@
+{
+  "id": 178351,
+  "name": "Amelia Egghart (#178351)",
+  "generation": 5,
+  "created_at": "2017-12-09T09:25:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! My name's Amelia Egghart (#178351). I once peed on Marie Antoinette's cat. They had it coming. I once dreamed of being a Aerobics Athlete . Now I can be found reading Danielle Steele all day. Will you be the garlic butter to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "176095@4",
+  "sire": "178111@3",
+  "children": [
+    "179752@8",
+    "196366@8",
+    "200786@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2278,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

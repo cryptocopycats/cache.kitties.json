@@ -1,0 +1,23 @@
+{
+  "id": 230703,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T02:01:23.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #230703. All you need to know about me is I hate lasagna with a passion. When I'm not volunteering at the local kitten rescue shelter, I'm summoning ghosts! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "229923@5",
+  "sire": "230225@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3210,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

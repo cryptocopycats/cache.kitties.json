@@ -1,0 +1,23 @@
+{
+  "id": 233263,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-11T04:06:28.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #233263. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "175434@5",
+  "sire": "177079@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3260,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

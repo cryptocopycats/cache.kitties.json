@@ -1,0 +1,27 @@
+{
+  "id": 255980,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T00:13:30.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #255980. I'm often referred to as the Bart Simpson of the group. Sometimes I daydream of a life full of staying woke, lasagna, and reading Danielle Steele. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "254449@7",
+  "sire": "228637@3",
+  "children": [
+    "257221@9",
+    "264677@9",
+    "267077@9",
+    "269713@10",
+    "276170@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 142,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

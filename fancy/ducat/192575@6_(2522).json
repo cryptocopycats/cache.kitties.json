@@ -1,0 +1,25 @@
+{
+  "id": 192575,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T21:32:21.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! Kitty #192575 here. I'm here to enjoy chasing red dots and sweating through my feet. My secret indulgence is cereal. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "95593@5",
+  "sire": "174638@5",
+  "children": [
+    "233020@7",
+    "247628@7",
+    "274561@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2522,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 181555,
+  "name": "DuCat",
+  "generation": 15,
+  "created_at": "2017-12-09T12:11:00.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! My name's DuCat. I once peed on King Henry VIII's cat. They had it coming. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "143572@14",
+  "sire": "113289@7",
+  "children": [
+    "187495@21",
+    "360465@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2336,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

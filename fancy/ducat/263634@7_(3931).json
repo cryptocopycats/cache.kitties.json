@@ -1,0 +1,23 @@
+{
+  "id": 263634,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T06:38:44.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #263634. I want to live in a world where people believe the world is flat. I once made a labradoodle trot. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263019@6",
+  "sire": "262467@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3931,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

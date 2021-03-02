@@ -1,0 +1,24 @@
+{
+  "id": 229492,
+  "name": "Gen 4 vampy",
+  "generation": 4,
+  "created_at": "2017-12-11T00:59:58.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gen 4 vampy. I'm a Train Conductor by day, and I like jump-roping by night. In my free time, I can usually be found petulant or summoning ghosts. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "167963@3",
+  "sire": "161064@3",
+  "children": [
+    "229993@5",
+    "255869@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 208,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

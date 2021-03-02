@@ -1,0 +1,23 @@
+{
+  "id": 181964,
+  "name": "ShipLord #501",
+  "generation": 8,
+  "created_at": "2017-12-09T12:36:04.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm ShipLord #501. I enjoy sweating through my feet, shakin' dat booty, and reading garfield. I'm convinced that the world is flat. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "29107@7",
+  "sire": "37667@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 501,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 234322,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-11T05:05:47.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #234322. I'm often referred to as the Ron Weasley of the group. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "223855@11",
+  "sire": "225536@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3277,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

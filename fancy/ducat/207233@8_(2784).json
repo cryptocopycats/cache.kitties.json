@@ -1,0 +1,25 @@
+{
+  "id": 207233,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T07:39:33.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #207233. I believe that one day cats will rule this planet. I'm often described as gullible, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "173546@6",
+  "sire": "175110@7",
+  "children": [
+    "217807@9",
+    "218170@9",
+    "223723@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2784,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

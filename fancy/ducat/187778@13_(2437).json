@@ -1,0 +1,23 @@
+{
+  "id": 187778,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-09T18:10:55.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #187778. My friends describe me as fabulous and ridiculous. I once dreamed of being a Mad Scientist. Now I can be found prank-calling celebrities all day. Our friendship will be fabulous, ridiculous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187252@4",
+  "sire": "55245@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2437,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

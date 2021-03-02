@@ -1,0 +1,26 @@
+{
+  "id": 222047,
+  "name": "Fancy Duck Cat Gold DuCat G5",
+  "generation": 5,
+  "created_at": "2017-12-10T19:46:45.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Fancy Duck Cat Gold DuCat G5. I want to live in a world where people believe that one day cats will rule this planet. I am 96% fairy, 51% Aerobics Athlete , and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "123252@4",
+  "sire": "216233@4",
+  "children": [
+    "255720@6",
+    "257157@6",
+    "280672@7",
+    "288260@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3037,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

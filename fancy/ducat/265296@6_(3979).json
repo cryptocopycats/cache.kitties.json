@@ -1,0 +1,31 @@
+{
+  "id": 265296,
+  "name": "基因最纯正",
+  "generation": 6,
+  "created_at": "2017-12-12T08:02:53.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm 基因最纯正. I enjoy riding unicorns, tripping my owner, and watching Stranger Things. I am 89% troll, 93% Aerobics Athlete , and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "211424@5",
+  "sire": "212274@5",
+  "children": [
+    "272468@7",
+    "273650@7",
+    "276978@7",
+    "281515@7",
+    "285135@7",
+    "290407@7",
+    "303243@7",
+    "556636@7",
+    "657697@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3979,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

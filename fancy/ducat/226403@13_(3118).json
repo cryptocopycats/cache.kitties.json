@@ -1,0 +1,23 @@
+{
+  "id": 226403,
+  "name": "Tamako",
+  "generation": 13,
+  "created_at": "2017-12-10T22:43:30.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Tamako. I believe the world is flat. Sometimes I daydream of a life full of licking doorknobs, cereal, and playing chess. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158058@12",
+  "sire": "222442@12",
+  "children": [
+    "372724@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3118,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

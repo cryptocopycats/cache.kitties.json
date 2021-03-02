@@ -1,0 +1,23 @@
+{
+  "id": 262286,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T05:35:46.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #262286. I've never told anyone this, but I once groomed a dog. I would give it all up for a Chanel purse. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258554@4",
+  "sire": "260259@8",
+  "children": [
+    "263629@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3903,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

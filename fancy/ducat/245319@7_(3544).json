@@ -1,0 +1,25 @@
+{
+  "id": 245319,
+  "name": "Senorita",
+  "generation": 7,
+  "created_at": "2017-12-11T15:32:26.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! My name's Senorita. I once peed on Marie Antoinette's cat. They had it coming. When no one's home, I invite my pals over and we listen to Coldplay. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "244002@6",
+  "sire": "240949@6",
+  "children": [
+    "247711@8",
+    "248136@8",
+    "250226@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3544,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

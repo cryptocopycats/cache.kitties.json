@@ -1,0 +1,23 @@
+{
+  "id": 233320,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T04:10:07.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #233320. I've never told anyone this, but I once frolicked with a dog. Some people say I'm the Dwight Schrute of the group. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "230638@9",
+  "sire": "230186@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3262,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

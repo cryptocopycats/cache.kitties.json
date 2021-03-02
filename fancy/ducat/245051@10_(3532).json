@@ -1,0 +1,29 @@
+{
+  "id": 245051,
+  "name": "Gen10 DuCat",
+  "generation": 10,
+  "created_at": "2017-12-11T15:18:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! My name's Gen10 DuCat. I once peed on Confucius's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Confucius. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243160@7",
+  "sire": "213197@9",
+  "children": [
+    "246336@11",
+    "254966@11",
+    "266402@14",
+    "299299@11",
+    "316131@11",
+    "335630@11",
+    "458514@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3532,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

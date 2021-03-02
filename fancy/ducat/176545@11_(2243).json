@@ -1,0 +1,29 @@
+{
+  "id": 176545,
+  "name": "Mighty Utya",
+  "generation": 11,
+  "created_at": "2017-12-09T07:52:13.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Mighty Utya. In high school, I was voted most likely to work at NASA. I once made a labradoodle lay. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "159515@8",
+  "sire": "150442@10",
+  "children": [
+    "189750@12",
+    "195963@12",
+    "212587@12",
+    "233388@12",
+    "251610@12",
+    "290498@12",
+    "329988@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2243,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 201893,
+  "name": "Purebred DuCat",
+  "generation": 8,
+  "created_at": "2017-12-10T03:30:19.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! Purebred DuCat here. I'm here to enjoy slappin' da bass and picking flowers. My friends describe me as \"prickly.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200296@5",
+  "sire": "151161@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2681,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

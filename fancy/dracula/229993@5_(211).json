@@ -1,0 +1,23 @@
+{
+  "id": 229993,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-11T01:26:17.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #229993. I believe the world is flat. I once made a gecko enjoy. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "229492@4",
+  "sire": "192745@4",
+  "children": [
+    "256770@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 211,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

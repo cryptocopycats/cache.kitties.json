@@ -1,0 +1,32 @@
+{
+  "id": 184440,
+  "name": "Lesr03",
+  "generation": 7,
+  "created_at": "2017-12-09T14:54:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Lesr03. I've never told anyone this, but I once groomed a dog. I once got in a fight with a dog, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115629@6",
+  "sire": "77858@6",
+  "children": [
+    "185141@8",
+    "205598@8",
+    "253297@8",
+    "279070@8",
+    "290683@8",
+    "477656@8",
+    "698381@8",
+    "700642@8",
+    "712300@8",
+    "738554@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2379,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

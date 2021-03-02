@@ -1,0 +1,23 @@
+{
+  "id": 190039,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T19:51:00.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #190039. I'm a Spin Instructor  by day, and I like summoning ghosts by night. I'm often described as despicable, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152492@3",
+  "sire": "152484@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2477,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

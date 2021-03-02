@@ -1,0 +1,23 @@
+{
+  "id": 201227,
+  "name": "Wellington the Fancy DuCat",
+  "generation": 9,
+  "created_at": "2017-12-10T03:02:57.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Wellington the Fancy DuCat. My friends describe me as wondrous and gorgeous. When no one's home, I invite my pals over and we listen to Coldplay. Will you be the ranch dressing to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "145113@6",
+  "sire": "151035@8",
+  "children": [
+    "203392@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2665,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

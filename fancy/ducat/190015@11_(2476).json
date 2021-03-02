@@ -1,0 +1,25 @@
+{
+  "id": 190015,
+  "name": "Rare Duck",
+  "generation": 11,
+  "created_at": "2017-12-09T19:50:57.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Rare Duck. I'm a Skydiving Instructor by day, and I like watching reality tv by night. When no one's home, I invite my pals over and we listen to Aretha Franklin. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "175999@10",
+  "sire": "186789@10",
+  "children": [
+    "195308@12",
+    "205794@12",
+    "213905@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2476,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

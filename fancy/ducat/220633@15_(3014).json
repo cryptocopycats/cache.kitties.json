@@ -1,0 +1,24 @@
+{
+  "id": 220633,
+  "name": "Amelia DuCat",
+  "generation": 15,
+  "created_at": "2017-12-10T18:41:33.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Amelia DuCat. I'm a professional Private Dancer  and I love chocolate. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "211647@13",
+  "sire": "211488@14",
+  "children": [
+    "226592@16",
+    "435198@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3014,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

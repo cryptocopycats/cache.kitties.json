@@ -1,0 +1,30 @@
+{
+  "id": 226746,
+  "name": "Ducat genes 100%",
+  "generation": 5,
+  "created_at": "2017-12-10T22:57:35.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Ducat genes 100%. My friends describe me as raunchy and petulant. I like to listen to Metallica while grooming. Don't judge me. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152450@4",
+  "sire": "224376@4",
+  "children": [
+    "232047@6",
+    "232849@6",
+    "235628@6",
+    "236279@6",
+    "240225@6",
+    "242612@6",
+    "258643@6",
+    "311097@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3127,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 221479,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-10T19:19:36.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #221479. In high school, I was voted most likely to work at NASA. I am 21% gremlin, 17% Spin Instructor , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188285@17",
+  "sire": "210823@7",
+  "children": [
+    "222977@19",
+    "273998@19",
+    "298277@19",
+    "384955@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3027,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

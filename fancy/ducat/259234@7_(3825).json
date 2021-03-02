@@ -1,0 +1,26 @@
+{
+  "id": 259234,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T02:54:27.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #259234. I'm a Culinary Sanitation Specialist by day, and I like swiping right by night. I like to listen to Justin Bieber while grooming. Don't judge me. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "257628@4",
+  "sire": "258581@6",
+  "children": [
+    "260259@8",
+    "261692@8",
+    "263629@10",
+    "303247@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3825,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

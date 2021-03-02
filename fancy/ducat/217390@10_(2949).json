@@ -1,0 +1,26 @@
+{
+  "id": 217390,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T16:10:37.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #217390. I'm a professional Aerobics Athlete  and I love cantaloupe. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "165461@9",
+  "sire": "209561@4",
+  "children": [
+    "222857@11",
+    "246854@17",
+    "291180@12",
+    "338194@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2949,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

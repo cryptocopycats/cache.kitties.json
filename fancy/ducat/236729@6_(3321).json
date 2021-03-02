@@ -1,0 +1,23 @@
+{
+  "id": 236729,
+  "name": "Dou's Second Bird Cat",
+  "generation": 6,
+  "created_at": "2017-12-11T07:08:01.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Dou's Second Bird Cat. I enjoy hitting on yo' man, chasing string, and riding dirty. When I'm not volunteering at the local kitten rescue shelter, I'm mocking dogs! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "202319@5",
+  "sire": "131501@5",
+  "children": [
+    "284535@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3321,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

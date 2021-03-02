@@ -1,0 +1,24 @@
+{
+  "id": 230115,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T01:33:30.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #230115. I'm a Train Conductor by day, and I like practicing witchcraft by night. My secret indulgence is lasagna. Our friendship will be despicable, wondrous, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212863@3",
+  "sire": "226673@3",
+  "children": [
+    "231123@5",
+    "237158@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3200,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

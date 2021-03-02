@@ -1,0 +1,24 @@
+{
+  "id": 200009,
+  "name": "Draky 🌟",
+  "generation": 5,
+  "created_at": "2017-12-10T02:11:17.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Draky 🌟. I'm a professional Culinary Sanitation Specialist and I love cantaloupe. I like to listen to Gloria Estefan while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "124682@4",
+  "sire": "134510@4",
+  "children": [
+    "216296@6",
+    "216582@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 162,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

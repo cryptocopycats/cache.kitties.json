@@ -1,0 +1,23 @@
+{
+  "id": 220152,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-10T18:18:21.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! My name's Kitty #220152. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I am 70% troll, 88% Skydiving Instructor, and otherwise bad at math. Our friendship will be annoying, smelly, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "79498@10",
+  "sire": "59318@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2998,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

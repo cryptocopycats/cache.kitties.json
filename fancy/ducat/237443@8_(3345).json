@@ -1,0 +1,24 @@
+{
+  "id": 237443,
+  "name": "Fancy DuCat",
+  "generation": 8,
+  "created_at": "2017-12-11T07:53:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! My name's Fancy DuCat. I once peed on Princess Diana's cat. They had it coming. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cantaloupe—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "205204@6",
+  "sire": "209911@7",
+  "children": [
+    "238874@9",
+    "280148@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3345,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

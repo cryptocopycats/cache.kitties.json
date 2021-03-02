@@ -1,0 +1,25 @@
+{
+  "id": 263029,
+  "name": "2 x Fancy Parents",
+  "generation": 15,
+  "created_at": "2017-12-12T06:11:20.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! 2 x Fancy Parents here. I'm here to enjoy breakdancing and riding dirty. I am 57% elf, 87% Train Conductor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236415@14",
+  "sire": "218716@14",
+  "children": [
+    "268514@20",
+    "307496@19",
+    "322134@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3915,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 250525,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T20:22:21.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Kitty #250525. I once peed on Mother Theresa's cat. They had it coming. In my free time, I can usually be found fabulous or siring for status. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "249562@7",
+  "sire": "195161@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 126,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

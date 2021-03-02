@@ -1,0 +1,30 @@
+{
+  "id": 247064,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T17:11:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #247064. I enjoy taking selfies, licking doorknobs, and hitting on yo' man. When no one's home, I invite my pals over and we listen to Metallica. I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "236730@5",
+  "sire": "237388@5",
+  "children": [
+    "247811@7",
+    "255466@7",
+    "257204@7",
+    "272636@7",
+    "273524@7",
+    "274752@7",
+    "289089@7",
+    "307606@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 115,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

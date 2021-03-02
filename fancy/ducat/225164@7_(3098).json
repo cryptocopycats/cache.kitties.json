@@ -1,0 +1,28 @@
+{
+  "id": 225164,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-10T21:55:25.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! Kitty #225164 here. I'm here to enjoy licking doorknobs and slappin' da bass. I like to listen to Beyoncé while grooming. Don't judge me. Will you be the maple syrup to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "222317@6",
+  "sire": "208281@6",
+  "children": [
+    "227635@8",
+    "228328@8",
+    "250903@8",
+    "264037@8",
+    "292168@8",
+    "302234@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3098,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

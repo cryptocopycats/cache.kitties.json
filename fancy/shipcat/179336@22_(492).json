@@ -1,0 +1,23 @@
+{
+  "id": 179336,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-09T10:19:15.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #179336. All you need to know about me is I hate apple pie with a passion. In my free time, I can usually be found smelly or reading Danielle Steele. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "84191@21",
+  "sire": "35876@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 492,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 195161,
+  "name": "Mistletoe #5",
+  "generation": 9,
+  "created_at": "2017-12-09T23:08:34.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Mistletoe #5. I enjoy sweating through my feet, hitting on yo' man, and fighting for the people. When no one's home, I invite my pals over and we listen to Metallica. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "173174@8",
+  "sire": "159098@6",
+  "children": [
+    "202616@10",
+    "204438@10",
+    "215794@10",
+    "218770@10",
+    "243814@13",
+    "250525@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

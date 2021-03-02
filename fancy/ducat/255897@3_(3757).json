@@ -1,0 +1,29 @@
+{
+  "id": 255897,
+  "name": "Duckbert",
+  "generation": 3,
+  "created_at": "2017-12-12T00:09:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Duckbert. I enjoy chasing string, taking selfies, and glaring at the neighbour's cat. Some people say I'm the Cersei Lannister of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241267@2",
+  "sire": "244078@2",
+  "children": [
+    "276034@7",
+    "277141@7",
+    "292830@7",
+    "313415@6",
+    "320278@6",
+    "461832@10",
+    "534627@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3757,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 249492,
+  "name": "DraCat Gen 10",
+  "generation": 10,
+  "created_at": "2017-12-11T19:30:34.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm DraCat Gen 10. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "75715@9",
+  "sire": "82597@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 268,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

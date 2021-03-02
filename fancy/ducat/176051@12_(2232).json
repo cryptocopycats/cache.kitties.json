@@ -1,0 +1,23 @@
+{
+  "id": 176051,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-09T07:24:29.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #176051. I believe that one day cats will rule this planet. I am 18% oracle, 13% Private Dancer , and otherwise bad at math. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "173739@10",
+  "sire": "174399@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2232,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

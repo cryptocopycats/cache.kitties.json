@@ -1,0 +1,27 @@
+{
+  "id": 199811,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T02:04:45.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Kitty #199811. I've never told anyone this, but I once cleaned a dog. My friends describe me as \"seductive.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "108285@8",
+  "sire": "180958@3",
+  "children": [
+    "201433@10",
+    "208970@10",
+    "237853@10",
+    "282394@14",
+    "1104489@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2632,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

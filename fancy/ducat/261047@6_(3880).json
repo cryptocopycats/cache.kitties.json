@@ -1,0 +1,23 @@
+{
+  "id": 261047,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T04:35:56.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! Kitty #261047 here. I'm here to enjoy riding dirty and grooming. I am 77% elf, 33% Train Conductor, and otherwise bad at math. I hope we can be prickly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258785@4",
+  "sire": "259541@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3880,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 232282,
+  "name": "Chev Chelios 🔫",
+  "generation": 10,
+  "created_at": "2017-12-11T03:16:25.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Chev Chelios 🔫. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "184884@7",
+  "sire": "180397@9",
+  "children": [
+    "234053@11",
+    "238724@13",
+    "344690@13",
+    "349428@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3236,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

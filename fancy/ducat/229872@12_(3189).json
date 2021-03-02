@@ -1,0 +1,23 @@
+{
+  "id": 229872,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T01:19:24.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #229872. I'm often referred to as the Lisa Simpson of the group. I once got in a fight with a platypus, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "177140@9",
+  "sire": "212267@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3189,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

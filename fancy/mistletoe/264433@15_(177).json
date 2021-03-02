@@ -1,0 +1,23 @@
+{
+  "id": 264433,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-12T07:12:39.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Kitty #264433. I believe that one day cats will rule this planet. I once got in a fight with a goose, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "260086@6",
+  "sire": "242603@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 177,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 260683,
+  "name": "The Old Man and The Sea",
+  "generation": 6,
+  "created_at": "2017-12-12T04:14:48.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm The Old Man and The Sea. All you need to know about me is I hate wet food with a passion. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "243657@5",
+  "sire": "259144@5",
+  "children": [
+    "261792@7",
+    "262705@7",
+    "264996@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 688,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 258766,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T02:24:45.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #258766. I enjoy grooming, eating until I loathe myself, and shakin' dat booty. I once got in a fight with a dog, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "209303@7",
+  "sire": "221565@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3812,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

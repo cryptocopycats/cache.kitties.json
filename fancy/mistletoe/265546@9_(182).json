@@ -1,0 +1,23 @@
+{
+  "id": 265546,
+  "name": "Snappy Holidays! Meow!",
+  "generation": 9,
+  "created_at": "2017-12-12T08:16:28.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Snappy Holidays! Meow!. My friends describe me as stinky and seductive. I once made a rooster trot. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "263501@4",
+  "sire": "238771@8",
+  "children": [
+    "285373@73"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 182,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

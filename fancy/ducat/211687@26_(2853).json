@@ -1,0 +1,23 @@
+{
+  "id": 211687,
+  "name": null,
+  "generation": 26,
+  "created_at": "2017-12-10T11:22:22.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #211687. I'm a professional Culinary Sanitation Specialist and I love steak. I was voted biggest teacher's pet in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "210897@9",
+  "sire": "196028@25",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2853,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

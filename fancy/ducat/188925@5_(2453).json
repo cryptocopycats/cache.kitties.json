@@ -1,0 +1,27 @@
+{
+  "id": 188925,
+  "name": "Chilly Kitty",
+  "generation": 5,
+  "created_at": "2017-12-09T19:05:59.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Chilly Kitty. All you need to know about me is I hate hamburgers with a passion. My secret indulgence is lasagna. Our friendship will be gullible, hairy, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141840@4",
+  "sire": "129688@4",
+  "children": [
+    "238737@6",
+    "241216@6",
+    "241901@6",
+    "245328@6",
+    "249460@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2453,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

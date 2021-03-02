@@ -1,0 +1,25 @@
+{
+  "id": 212434,
+  "name": "Great Starter Birdy 💲",
+  "generation": 15,
+  "created_at": "2017-12-10T12:01:10.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Great Starter Birdy 💲. All you need to know about me is I hate ice cream with a passion. I like to listen to Aretha Franklin while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "138036@13",
+  "sire": "118030@14",
+  "children": [
+    "223276@16",
+    "304009@16",
+    "332917@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2868,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

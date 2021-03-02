@@ -1,0 +1,25 @@
+{
+  "id": 204701,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T05:36:57.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #204701. My friends describe me as prickly and despicable. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "203482@5",
+  "sire": "203393@5",
+  "children": [
+    "207785@7",
+    "209374@7",
+    "231793@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2732,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

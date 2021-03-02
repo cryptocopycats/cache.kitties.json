@@ -1,0 +1,30 @@
+{
+  "id": 238787,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T09:14:41.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #238787. I've never told anyone this, but I once pawed at a dog. My friends describe me as \"preposterous.\" It's... accurate. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "215051@7",
+  "sire": "222954@5",
+  "children": [
+    "246575@14",
+    "249367@14",
+    "266767@11",
+    "288089@10",
+    "293477@14",
+    "299356@10",
+    "328503@21",
+    "355385@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 230,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

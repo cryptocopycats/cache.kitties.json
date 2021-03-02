@@ -1,0 +1,23 @@
+{
+  "id": 213087,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T12:32:42.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #213087. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Gloria Estefan. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "181523@4",
+  "sire": "98065@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2885,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

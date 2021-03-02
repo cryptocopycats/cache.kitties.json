@@ -1,0 +1,31 @@
+{
+  "id": 222954,
+  "name": "APT (Pentest)",
+  "generation": 5,
+  "created_at": "2017-12-10T20:30:41.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm APT (Pentest). All you need to know about me is I hate ice cream with a passion. Sometimes I daydream of a life full of breakdancing, steak, and riverdancing. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "135049@4",
+  "sire": "147909@4",
+  "children": [
+    "235174@6",
+    "235214@6",
+    "236807@6",
+    "238787@8",
+    "246586@8",
+    "265367@8",
+    "278596@8",
+    "410591@18",
+    "411224@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 196,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

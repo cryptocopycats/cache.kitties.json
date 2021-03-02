@@ -1,0 +1,27 @@
+{
+  "id": 191936,
+  "name": "191936",
+  "generation": 3,
+  "created_at": "2017-12-09T21:05:11.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm 191936. My friends describe me as smelly and fabulous. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found volunteering at the local kitten rescue shelter all day. I hope we can be seductive friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "178926@2",
+  "sire": "45736@2",
+  "children": [
+    "212774@4",
+    "217668@4",
+    "224901@4",
+    "239065@4",
+    "240894@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 527,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

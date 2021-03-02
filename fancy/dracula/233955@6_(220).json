@@ -1,0 +1,27 @@
+{
+  "id": 233955,
+  "name": "Emma",
+  "generation": 6,
+  "created_at": "2017-12-11T04:48:29.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Emma. I'm often referred to as the Hermione Granger of the group. I put garlic butter on everything. Like, everything: hot dogs, apple pie—everything! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "233234@5",
+  "sire": "187501@5",
+  "children": [
+    "247077@7",
+    "256029@7",
+    "284140@7",
+    "288327@7",
+    "328966@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 220,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

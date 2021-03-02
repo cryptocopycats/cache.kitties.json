@@ -1,0 +1,31 @@
+{
+  "id": 240529,
+  "name": "double duck parents",
+  "generation": 4,
+  "created_at": "2017-12-11T10:54:42.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm double duck parents. All you need to know about me is I hate steak with a passion. My secret indulgence is hamburgers. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "226682@3",
+  "sire": "212178@3",
+  "children": [
+    "240817@8",
+    "241253@5",
+    "241894@10",
+    "243595@7",
+    "246268@9",
+    "265169@5",
+    "274363@10",
+    "294429@6",
+    "312619@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3419,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

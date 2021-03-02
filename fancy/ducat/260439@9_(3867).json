@@ -1,0 +1,26 @@
+{
+  "id": 260439,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T03:58:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! My name's Kitty #260439. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once got in a fight with a chimpanzee, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258554@4",
+  "sire": "260259@8",
+  "children": [
+    "261774@10",
+    "264425@10",
+    "282252@13",
+    "303247@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3867,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

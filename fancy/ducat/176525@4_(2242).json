@@ -1,0 +1,25 @@
+{
+  "id": 176525,
+  "name": "Sydney",
+  "generation": 4,
+  "created_at": "2017-12-09T07:50:07.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Sydney. I enjoy spinning sick beats, picking on mice, and watching Stranger Things. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "157142@3",
+  "sire": "174246@3",
+  "children": [
+    "177713@6",
+    "244130@14",
+    "1404441@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2242,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

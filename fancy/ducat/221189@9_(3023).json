@@ -1,0 +1,27 @@
+{
+  "id": 221189,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T19:06:05.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #221189. I'm often referred to as the Ron Weasley of the group. I am 35% fairy, 26% Mad Scientist, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "87154@8",
+  "sire": "196113@8",
+  "children": [
+    "222472@10",
+    "247857@10",
+    "260184@10",
+    "277971@10",
+    "359236@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3023,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

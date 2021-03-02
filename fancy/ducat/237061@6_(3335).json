@@ -1,0 +1,30 @@
+{
+  "id": 237061,
+  "name": "6代变异猫 低价处理",
+  "generation": 6,
+  "created_at": "2017-12-11T07:25:59.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! 6代变异猫 低价处理 here. I'm here to enjoy eating lasagna and eating until I loathe myself. I once got in a fight with a rhino, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212274@5",
+  "sire": "219217@5",
+  "children": [
+    "242366@7",
+    "243268@7",
+    "246584@7",
+    "249509@7",
+    "261328@7",
+    "278643@7",
+    "293490@7",
+    "321783@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3335,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

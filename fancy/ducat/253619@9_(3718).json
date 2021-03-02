@@ -1,0 +1,28 @@
+{
+  "id": 253619,
+  "name": "D Tongue D Cymric",
+  "generation": 9,
+  "created_at": "2017-12-11T22:33:38.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm D Tongue D Cymric. I believe the world is flat. I once dreamed of being a Skydiving Instructor. Now I can be found volunteering at the local kitten rescue shelter all day. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "230774@8",
+  "sire": "159967@8",
+  "children": [
+    "259805@10",
+    "286643@11",
+    "555124@11",
+    "636390@10",
+    "638217@17",
+    "646560@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3718,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 208782,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-10T08:54:06.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #208782. I enjoy riding dirty, sweating through my feet, and taking selfies. I was voted school jock in college. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "154608@3",
+  "sire": "207177@3",
+  "children": [
+    "210016@5",
+    "231808@5",
+    "251508@5",
+    "264147@5",
+    "273436@5",
+    "304758@5",
+    "332861@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2809,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 177093,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-09T08:16:35.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #177093. I believe that one day cats will rule this planet. I was voted school jock in college. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162390@3",
+  "sire": "149227@3",
+  "children": [
+    "177705@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2252,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

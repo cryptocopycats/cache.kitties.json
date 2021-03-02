@@ -1,0 +1,31 @@
+{
+  "id": 241851,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T12:17:06.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #241851. I've never told anyone this, but I once licked a dog. Sometimes I daydream of a life full of chasing red dots, chocolate, and pole dancing. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "233072@2",
+  "sire": "212588@3",
+  "children": [
+    "255082@5",
+    "256357@5",
+    "257146@5",
+    "265258@5",
+    "274966@5",
+    "280832@5",
+    "292282@5",
+    "310600@5",
+    "336707@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3446,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

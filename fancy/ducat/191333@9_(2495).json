@@ -1,0 +1,28 @@
+{
+  "id": 191333,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-09T20:40:38.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #191333. I'm often referred to as the Niles Crane of the group. My great-great-great-great-great-great grandkitty lived with Cleopatra. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97482@8",
+  "sire": "188408@8",
+  "children": [
+    "239132@10",
+    "289245@10",
+    "303825@10",
+    "306937@10",
+    "339504@10",
+    "389755@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2495,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

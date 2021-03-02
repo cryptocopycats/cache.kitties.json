@@ -1,0 +1,24 @@
+{
+  "id": 260909,
+  "name": "Dr. Vampy",
+  "generation": 6,
+  "created_at": "2017-12-12T04:28:44.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! My name's Dr. Vampy. I once peed on Amelia Earhart's cat. They had it coming. I would give it all up for a Chanel purse. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "260637@5",
+  "sire": "251886@5",
+  "children": [
+    "263715@7",
+    "280554@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 299,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

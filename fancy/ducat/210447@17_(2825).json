@@ -1,0 +1,26 @@
+{
+  "id": 210447,
+  "name": "Ta da!",
+  "generation": 17,
+  "created_at": "2017-12-10T10:19:21.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Ta da!. My friends describe me as smelly and gullible. I am 46% sphinx, 28% Culinary Sanitation Specialist, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195734@16",
+  "sire": "177355@13",
+  "children": [
+    "226320@18",
+    "250312@18",
+    "290089@20",
+    "346947@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2825,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

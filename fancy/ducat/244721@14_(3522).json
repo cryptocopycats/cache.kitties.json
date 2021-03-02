@@ -1,0 +1,23 @@
+{
+  "id": 244721,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-11T15:02:10.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #244721. I enjoy spinning sick beats, grooming, and chasing string. I once got in a fight with a gecko, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "216034@7",
+  "sire": "221738@13",
+  "children": [
+    "328411@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3522,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

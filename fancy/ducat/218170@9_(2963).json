@@ -1,0 +1,24 @@
+{
+  "id": 218170,
+  "name": "Le Quack",
+  "generation": 9,
+  "created_at": "2017-12-10T16:49:53.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Le Quack. I enjoy fighting for the people, shakin' dat booty, and sitting on your computer. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "207233@8",
+  "sire": "204008@5",
+  "children": [
+    "219970@10",
+    "223070@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2963,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

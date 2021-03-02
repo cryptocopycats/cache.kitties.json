@@ -1,0 +1,23 @@
+{
+  "id": 263649,
+  "name": "El Cunto Prickolini",
+  "generation": 14,
+  "created_at": "2017-12-12T06:39:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm El Cunto Prickolini. My friends describe me as voluptuous and smelly. I once dreamed of being a Train Conductor. Now I can be found sleeping in fresh laundry all day. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243649@13",
+  "sire": "245227@13",
+  "children": [
+    "306490@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3933,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 260436,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T03:58:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #260436. My friends describe me as seductive and raunchy. My secret indulgence is lasagna. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259895@6",
+  "sire": "259903@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3866,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

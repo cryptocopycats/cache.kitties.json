@@ -1,0 +1,23 @@
+{
+  "id": 238114,
+  "name": "G7 | Fancy Mistletoe",
+  "generation": 7,
+  "created_at": "2017-12-11T08:35:46.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm G7 | Fancy Mistletoe. My friends describe me as fabulous and stinky. I like to listen to Aretha Franklin while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "225846@6",
+  "sire": "228309@6",
+  "children": [
+    "238555@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 83,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

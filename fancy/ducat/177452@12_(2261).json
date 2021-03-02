@@ -1,0 +1,23 @@
+{
+  "id": 177452,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-09T08:36:24.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #177452. In high school, I was voted school jock. I put ranch dressing on everything. Like, everything: hot dogs, ice cream—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121584@8",
+  "sire": "120607@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2261,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

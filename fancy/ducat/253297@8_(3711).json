@@ -1,0 +1,27 @@
+{
+  "id": 253297,
+  "name": "A",
+  "generation": 8,
+  "created_at": "2017-12-11T22:18:54.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's A. I once peed on Marie Antoinette's cat. They had it coming. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "157844@7",
+  "sire": "184440@7",
+  "children": [
+    "256933@21",
+    "274426@13",
+    "313978@9",
+    "317733@9",
+    "684434@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3711,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

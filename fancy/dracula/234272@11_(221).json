@@ -1,0 +1,23 @@
+{
+  "id": 234272,
+  "name": "😼 Nibbles",
+  "generation": 11,
+  "created_at": "2017-12-11T05:03:40.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm 😼 Nibbles. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "232115@9",
+  "sire": "144827@10",
+  "children": [
+    "237010@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 221,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

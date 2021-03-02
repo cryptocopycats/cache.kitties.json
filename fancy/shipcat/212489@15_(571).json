@@ -1,0 +1,23 @@
+{
+  "id": 212489,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-10T12:04:19.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #212489. My friends describe me as preposterous and annoying. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "77350@14",
+  "sire": "88105@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 571,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

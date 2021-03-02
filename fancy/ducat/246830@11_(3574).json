@@ -1,0 +1,26 @@
+{
+  "id": 246830,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T16:59:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #246830. I'm a Culinary Sanitation Specialist by day, and I like talking about how much I lift by night. I would give it all up to star in a soap opera. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "226099@10",
+  "sire": "103156@10",
+  "children": [
+    "253849@12",
+    "270232@12",
+    "275998@12",
+    "301864@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3574,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

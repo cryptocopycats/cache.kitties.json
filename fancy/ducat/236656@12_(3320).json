@@ -1,0 +1,28 @@
+{
+  "id": 236656,
+  "name": "Gen 12 - Brisk BIRD VIRGIN",
+  "generation": 12,
+  "created_at": "2017-12-11T07:04:04.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 12 - Brisk BIRD VIRGIN. I'm often referred to as the Bart Simpson of the group. I would give it all up to be on Oprah. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "149330@11",
+  "sire": "143688@7",
+  "children": [
+    "239372@13",
+    "244973@17",
+    "270900@15",
+    "340418@13",
+    "349316@13",
+    "391755@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3320,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

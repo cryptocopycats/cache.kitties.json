@@ -1,0 +1,28 @@
+{
+  "id": 209095,
+  "name": "Chopper",
+  "generation": 10,
+  "created_at": "2017-12-10T09:10:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Chopper. I've never told anyone this, but I once groomed a dog. I'm often described as annoying, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "206921@9",
+  "sire": "193027@5",
+  "children": [
+    "211361@11",
+    "218060@11",
+    "233388@12",
+    "238816@11",
+    "280810@21",
+    "294747@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2814,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 221813,
+  "name": "Virgin ShipCat!",
+  "generation": 6,
+  "created_at": "2017-12-10T19:34:21.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Virgin ShipCat!. In high school, I was voted most likely to work at NASA. I put garlic butter on everything. Like, everything: hot dogs, ice cream—everything! Our friendship will be hairy, preposterous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "138284@4",
+  "sire": "47439@5",
+  "children": [
+    "287574@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 599,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

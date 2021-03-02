@@ -1,0 +1,23 @@
+{
+  "id": 191402,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T20:43:42.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #191402. I'm a professional Private Dancer  and I love cantaloupe. In my free time, I can usually be found ridiculous or people-watching. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189588@5",
+  "sire": "191178@5",
+  "children": [
+    "247101@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2498,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

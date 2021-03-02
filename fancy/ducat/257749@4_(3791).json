@@ -1,0 +1,31 @@
+{
+  "id": 257749,
+  "name": "Blue Ducky Cat",
+  "generation": 4,
+  "created_at": "2017-12-12T01:38:16.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Blue Ducky Cat. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "257281@3",
+  "sire": "134562@3",
+  "children": [
+    "267231@5",
+    "267511@5",
+    "268201@5",
+    "281118@5",
+    "306603@5",
+    "344913@5",
+    "346403@5",
+    "350881@5",
+    "380339@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3791,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

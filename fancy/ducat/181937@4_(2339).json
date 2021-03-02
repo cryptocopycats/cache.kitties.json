@@ -1,0 +1,30 @@
+{
+  "id": 181937,
+  "name": "Gen 4 Purebred Bird",
+  "generation": 4,
+  "created_at": "2017-12-09T12:34:43.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Gen 4 Purebred Bird. In high school, I was voted school jock. I was voted school jock in college. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "181517@3",
+  "sire": "107703@3",
+  "children": [
+    "197522@5",
+    "217664@7",
+    "238423@6",
+    "249351@7",
+    "258845@6",
+    "270167@5",
+    "298388@5",
+    "328008@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2339,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

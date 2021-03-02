@@ -1,0 +1,23 @@
+{
+  "id": 261864,
+  "name": "Awesome Dracula",
+  "generation": 9,
+  "created_at": "2017-12-12T05:13:04.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Awesome Dracula. I believe the world is flat. I'm often described as brilliant, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "260952@8",
+  "sire": "177019@7",
+  "children": [
+    "263186@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 303,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

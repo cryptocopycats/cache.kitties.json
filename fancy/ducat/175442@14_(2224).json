@@ -1,0 +1,23 @@
+{
+  "id": 175442,
+  "name": "Both Parents Fancy , Pure Gene",
+  "generation": 14,
+  "created_at": "2017-12-09T07:00:18.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Both Parents Fancy , Pure Gene. All you need to know about me is I hate salad with a passion. I put garlic butter on everything. Like, everything: hot dogs, steak—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131256@13",
+  "sire": "110769@12",
+  "children": [
+    "207890@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2224,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

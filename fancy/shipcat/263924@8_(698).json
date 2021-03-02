@@ -1,0 +1,27 @@
+{
+  "id": 263924,
+  "name": "RARE SHIPCAT",
+  "generation": 8,
+  "created_at": "2017-12-12T06:52:33.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm RARE SHIPCAT. My friends describe me as raunchy and gullible. Sometimes I daydream of a life full of hitting on yo' man, apple pie, and riding the bus. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "206584@7",
+  "sire": "205127@4",
+  "children": [
+    "267428@9",
+    "269181@9",
+    "272539@12",
+    "326209@11",
+    "383376@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 698,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

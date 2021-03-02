@@ -1,0 +1,30 @@
+{
+  "id": 239750,
+  "name": "BirdyB",
+  "generation": 5,
+  "created_at": "2017-12-11T10:10:23.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm BirdyB. I'm a professional Skydiving Instructor and I love steak. Sometimes I daydream of a life full of tripping my owner, wet food, and watching reality tv. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "116786@4",
+  "sire": "165308@4",
+  "children": [
+    "241000@6",
+    "248639@17",
+    "249879@6",
+    "258836@6",
+    "260267@6",
+    "265363@6",
+    "274935@6",
+    "289918@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3399,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

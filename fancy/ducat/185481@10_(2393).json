@@ -1,0 +1,23 @@
+{
+  "id": 185481,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-09T15:59:01.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #185481. I'm a professional Spin Instructor  and I love wet food. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "169150@4",
+  "sire": "168925@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2393,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

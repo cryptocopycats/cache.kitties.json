@@ -1,0 +1,23 @@
+{
+  "id": 229446,
+  "name": "Santa Pawsicle",
+  "generation": 4,
+  "created_at": "2017-12-11T00:58:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Santa Pawsicle. I'm a professional Private Dancer  and I love steak. My secret indulgence is salad. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "216886@3",
+  "sire": "184618@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 53,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

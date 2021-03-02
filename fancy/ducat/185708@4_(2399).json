@@ -1,0 +1,23 @@
+{
+  "id": 185708,
+  "name": "G4 - VIRGIN - Duck Cat",
+  "generation": 4,
+  "created_at": "2017-12-09T16:11:05.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm G4 - VIRGIN - Duck Cat. I'm a professional Skydiving Instructor and I love lasagna. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136233@3",
+  "sire": "110727@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2399,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

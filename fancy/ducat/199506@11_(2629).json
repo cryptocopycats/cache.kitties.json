@@ -1,0 +1,25 @@
+{
+  "id": 199506,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T01:51:51.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! My name's Kitty #199506. I once peed on King Henry VIII's cat. They had it coming. It's not common knowledge, but my ancestry connects me to King Henry VIII. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "197367@10",
+  "sire": "176966@7",
+  "children": [
+    "201356@12",
+    "212791@12",
+    "222179@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2629,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

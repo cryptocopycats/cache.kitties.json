@@ -1,0 +1,33 @@
+{
+  "id": 185519,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T16:01:29.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! Kitty #185519 here. I'm here to enjoy grooming and riding dirty. When I'm not playing chess, I'm mocking dogs! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182342@4",
+  "sire": "183200@5",
+  "children": [
+    "186573@7",
+    "187334@7",
+    "190672@7",
+    "203930@7",
+    "222941@7",
+    "247789@7",
+    "282592@7",
+    "307584@7",
+    "339067@7",
+    "377798@7",
+    "433932@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2396,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

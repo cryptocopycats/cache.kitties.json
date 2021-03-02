@@ -1,0 +1,23 @@
+{
+  "id": 193696,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-09T22:12:54.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #193696. I enjoy glaring at the neighbour's cat, licking doorknobs, and tricking babies. When I'm not sleeping in fresh laundry, I'm reading Danielle Steele! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "159085@8",
+  "sire": "156986@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2544,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

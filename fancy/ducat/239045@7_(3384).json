@@ -1,0 +1,24 @@
+{
+  "id": 239045,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T09:29:13.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #239045. I'm a Mad Scientist by day, and I like running a podcast by night. I'm often described as raunchy, and I own it. Our friendship will be wondrous, petulant, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "223809@6",
+  "sire": "207579@5",
+  "children": [
+    "255314@8",
+    "274158@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3384,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

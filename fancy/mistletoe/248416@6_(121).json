@@ -1,0 +1,32 @@
+{
+  "id": 248416,
+  "name": "Moroz_santa_kitty",
+  "generation": 6,
+  "created_at": "2017-12-11T18:30:46.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Moroz_santa_kitty. I'm a professional Spin Instructor  and I love lasagna. I once got in a fight with a dog, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "243285@5",
+  "sire": "228523@5",
+  "children": [
+    "323471@7",
+    "328546@11",
+    "343641@7",
+    "345239@7",
+    "348039@7",
+    "350432@7",
+    "353625@10",
+    "362635@7",
+    "374900@7",
+    "666285@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 121,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

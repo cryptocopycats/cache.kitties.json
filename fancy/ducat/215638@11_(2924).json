@@ -1,0 +1,23 @@
+{
+  "id": 215638,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T14:43:04.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's Kitty #215638. I once peed on Marie Antoinette's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156753@8",
+  "sire": "61944@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2924,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

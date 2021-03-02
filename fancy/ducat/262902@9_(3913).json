@@ -1,0 +1,26 @@
+{
+  "id": 262902,
+  "name": "Carson White",
+  "generation": 9,
+  "created_at": "2017-12-12T06:05:27.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Carson White. My friends describe me as gullible and annoying. I'm often described as wondrous, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "253313@5",
+  "sire": "261761@8",
+  "children": [
+    "264430@10",
+    "266697@10",
+    "276893@10",
+    "316568@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3913,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

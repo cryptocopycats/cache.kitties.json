@@ -1,0 +1,25 @@
+{
+  "id": 229060,
+  "name": "G12 | #51 Mistletoe",
+  "generation": 12,
+  "created_at": "2017-12-11T00:42:23.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm G12 | #51 Mistletoe. I'm a professional Spin Instructor  and I love chocolate. I once made a rabbit ignore. I hope we can be ridiculous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "227340@11",
+  "sire": "214943@9",
+  "children": [
+    "229825@13",
+    "238832@13",
+    "274377@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 51,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

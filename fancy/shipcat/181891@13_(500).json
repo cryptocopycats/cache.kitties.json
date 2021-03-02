@@ -1,0 +1,30 @@
+{
+  "id": 181891,
+  "name": "#500 fancy shipcat",
+  "generation": 13,
+  "created_at": "2017-12-09T12:30:51.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm #500 fancy shipcat. All you need to know about me is I hate chocolate with a passion. I am 65% wizard, 72% Skydiving Instructor, and otherwise bad at math. Will you be the ghost pepper hot sauce to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "120638@12",
+  "sire": "133599@8",
+  "children": [
+    "189988@14",
+    "214397@15",
+    "235076@14",
+    "268372@14",
+    "289327@14",
+    "411183@14",
+    "449974@17",
+    "465468@17"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 500,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 247738,
+  "name": "Popeye Shipcat",
+  "generation": 10,
+  "created_at": "2017-12-11T17:47:59.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Popeye Shipcat. All you need to know about me is I hate wet food with a passion. It's not common knowledge, but my ancestry connects me to Mother Theresa. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "124986@9",
+  "sire": "202753@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 660,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

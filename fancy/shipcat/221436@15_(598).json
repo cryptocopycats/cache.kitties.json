@@ -1,0 +1,27 @@
+{
+  "id": 221436,
+  "name": "China No.1",
+  "generation": 15,
+  "created_at": "2017-12-10T19:18:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm China No.1. I enjoy tricking babies, shakin' dat booty, and fighting for the people. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "45745@13",
+  "sire": "22897@14",
+  "children": [
+    "258683@16",
+    "278259@20",
+    "313408@16",
+    "329805@16",
+    "348755@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 598,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 219867,
+  "name": "Kittiesville #219867 G6",
+  "generation": 6,
+  "created_at": "2017-12-10T18:04:57.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kittiesville #219867 G6. My friends describe me as petulant and fabulous. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "208472@5",
+  "sire": "216961@5",
+  "children": [
+    "231960@7",
+    "331169@7",
+    "333234@7",
+    "335605@7",
+    "344400@7",
+    "354453@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 30,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

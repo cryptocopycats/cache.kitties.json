@@ -1,0 +1,25 @@
+{
+  "id": 242189,
+  "name": "Rare Chuck Cat  🐾",
+  "generation": 4,
+  "created_at": "2017-12-11T12:34:12.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Rare Chuck Cat  🐾. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a chimpanzee, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "240801@3",
+  "sire": "240522@3",
+  "children": [
+    "289659@19",
+    "353609@5",
+    "365689@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3453,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

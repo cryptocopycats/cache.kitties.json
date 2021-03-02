@@ -1,0 +1,23 @@
+{
+  "id": 244588,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T14:55:07.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #244588. I enjoy chasing red dots, sitting on your computer, and watching Stranger Things. Sometimes I daydream of a life full of breakdancing, ice cream, and tricking babies. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "229835@10",
+  "sire": "221019@9",
+  "children": [
+    "256112@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 256,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

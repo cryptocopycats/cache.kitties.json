@@ -1,0 +1,23 @@
+{
+  "id": 260012,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-12T03:33:24.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Kitty #260012. I once peed on King Henry VIII's cat. They had it coming. Sometimes I daydream of a life full of spinning sick beats, cantaloupe, and braiding people's hair. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "199020@8",
+  "sire": "259211@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3848,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

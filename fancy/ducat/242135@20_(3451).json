@@ -1,0 +1,23 @@
+{
+  "id": 242135,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-11T12:32:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #242135. In high school, I was voted biggest teacher's pet. I'm often described as hairy, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40313@14",
+  "sire": "77204@19",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3451,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

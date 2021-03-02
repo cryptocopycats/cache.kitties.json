@@ -1,0 +1,23 @@
+{
+  "id": 205411,
+  "name": "Virgin Fancy Ducat",
+  "generation": 9,
+  "created_at": "2017-12-10T06:09:37.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Virgin Fancy Ducat. All you need to know about me is I hate cantaloupe with a passion. I like to listen to Michael Bolton while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "165399@8",
+  "sire": "161410@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2744,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

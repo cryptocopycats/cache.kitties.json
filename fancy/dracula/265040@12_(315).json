@@ -1,0 +1,27 @@
+{
+  "id": 265040,
+  "name": "Fancy Dracula",
+  "generation": 12,
+  "created_at": "2017-12-12T07:50:15.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Fancy Dracula. My friends describe me as hairy and petulant. My friends describe me as \"stinky.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "148920@11",
+  "sire": "100026@8",
+  "children": [
+    "268804@13",
+    "272890@13",
+    "299764@13",
+    "321663@20",
+    "370945@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 315,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

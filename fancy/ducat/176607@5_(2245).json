@@ -1,0 +1,24 @@
+{
+  "id": 176607,
+  "name": "Shugo",
+  "generation": 5,
+  "created_at": "2017-12-09T07:54:42.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's Shugo. I once peed on Nelson Mandela's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141092@3",
+  "sire": "140723@4",
+  "children": [
+    "302862@6",
+    "317972@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2245,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

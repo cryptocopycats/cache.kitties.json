@@ -1,0 +1,30 @@
+{
+  "id": 189894,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T19:47:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #189894. I believe that one day cats will rule this planet. I like to listen to Michael Bolton while grooming. Don't judge me. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187957@7",
+  "sire": "187823@7",
+  "children": [
+    "192249@9",
+    "193907@9",
+    "209212@9",
+    "244791@9",
+    "262450@11",
+    "434347@14",
+    "445826@14",
+    "447360@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2474,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

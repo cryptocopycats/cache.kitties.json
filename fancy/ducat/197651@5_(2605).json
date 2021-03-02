@@ -1,0 +1,25 @@
+{
+  "id": 197651,
+  "name": "Gen5_Virgin_DuCat_PURE",
+  "generation": 5,
+  "created_at": "2017-12-10T00:42:22.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Gen5_Virgin_DuCat_PURE. I've never told anyone this, but I once licked a dog. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "171077@4",
+  "sire": "189404@4",
+  "children": [
+    "200292@6",
+    "200578@7",
+    "238305@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2605,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

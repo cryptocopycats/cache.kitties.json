@@ -1,0 +1,32 @@
+{
+  "id": 251144,
+  "name": "Kitty #251144",
+  "generation": 7,
+  "created_at": "2017-12-11T20:49:33.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #251144. I'm often referred to as the Hermione Granger of the group. I once headbutted a goose. I don't like to talk about it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "242937@6",
+  "sire": "250686@6",
+  "children": [
+    "255988@9",
+    "256949@8",
+    "307240@8",
+    "316810@9",
+    "356897@8",
+    "362187@8",
+    "364018@8",
+    "373748@8",
+    "390651@8",
+    "393463@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 274,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

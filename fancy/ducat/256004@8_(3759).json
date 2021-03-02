@@ -1,0 +1,24 @@
+{
+  "id": 256004,
+  "name": "NAMASTE KITTY",
+  "generation": 8,
+  "created_at": "2017-12-12T00:14:26.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm NAMASTE KITTY. I've never told anyone this, but I once pranced with a dog. In my free time, I can usually be found preposterous or summoning ghosts. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "186820@6",
+  "sire": "175110@7",
+  "children": [
+    "265645@12",
+    "282351@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3759,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

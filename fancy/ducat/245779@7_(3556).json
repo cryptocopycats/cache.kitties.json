@@ -1,0 +1,27 @@
+{
+  "id": 245779,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T15:58:14.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Kitty #245779 here. I'm here to enjoy riding dirty and shakin' dat booty. I once got in a fight with a gecko, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "233026@6",
+  "sire": "238168@6",
+  "children": [
+    "247341@10",
+    "251081@8",
+    "255446@8",
+    "267803@8",
+    "283618@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3556,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

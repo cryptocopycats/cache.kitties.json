@@ -1,0 +1,27 @@
+{
+  "id": 235995,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T06:30:12.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #235995. I believe that one day cats will rule this planet. I once dreamed of being a Aerobics Athlete . Now I can be found sleeping in fresh laundry all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228412@5",
+  "sire": "229609@5",
+  "children": [
+    "236975@7",
+    "238620@7",
+    "239503@7",
+    "242029@7",
+    "262989@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3309,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

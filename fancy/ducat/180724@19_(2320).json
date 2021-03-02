@@ -1,0 +1,23 @@
+{
+  "id": 180724,
+  "name": "Lord Wondercat of Sausage",
+  "generation": 19,
+  "created_at": "2017-12-09T11:28:42.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Lord Wondercat of Sausage. I'm a Aerobics Athlete  by day, and I like running a podcast by night. Some people say I'm the Jon Snow of the group. Will you be the marmite to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168725@6",
+  "sire": "168383@18",
+  "children": [
+    "201888@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2320,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

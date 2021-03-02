@@ -1,0 +1,33 @@
+{
+  "id": 247827,
+  "name": "2FParentsSimp12 Ducat #3594 G5",
+  "generation": 5,
+  "created_at": "2017-12-11T17:54:43.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm 2FParentsSimp12 Ducat #3594 G5. I've never told anyone this, but I once pawed at a dog. I once made a platypus drink. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "238823@3",
+  "sire": "172089@4",
+  "children": [
+    "270924@6",
+    "271539@6",
+    "273730@6",
+    "280790@6",
+    "284058@6",
+    "287948@6",
+    "354522@7",
+    "362927@7",
+    "370681@6",
+    "416831@6",
+    "443466@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3594,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 235605,
+  "name": "Kitty Chan",
+  "generation": 7,
+  "created_at": "2017-12-11T06:08:43.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty Chan. In high school, I was voted most likely to work at NASA. Some people say I'm the Marge Simpson of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172355@6",
+  "sire": "162630@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3305,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

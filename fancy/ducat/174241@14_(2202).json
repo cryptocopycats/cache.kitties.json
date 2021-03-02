@@ -1,0 +1,28 @@
+{
+  "id": 174241,
+  "name": "3/4 DukeCat - DuCat #2202",
+  "generation": 14,
+  "created_at": "2017-12-09T06:11:55.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! 3/4 DukeCat - DuCat #2202 here. I'm here to enjoy watching Stranger Things and fighting for the people. Some people say I'm the Jon Snow of the group. Will you be the garlic butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "157509@8",
+  "sire": "172422@13",
+  "children": [
+    "180010@15",
+    "230728@15",
+    "239394@15",
+    "256376@15",
+    "375427@15",
+    "1105739@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2202,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

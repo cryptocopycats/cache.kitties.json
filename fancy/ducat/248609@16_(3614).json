@@ -1,0 +1,23 @@
+{
+  "id": 248609,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-11T18:42:16.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! My name's Kitty #248609. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I like to listen to Rihanna while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "106435@5",
+  "sire": "203935@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3614,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

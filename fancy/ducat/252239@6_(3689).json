@@ -1,0 +1,28 @@
+{
+  "id": 252239,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T21:35:54.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #252239. All you need to know about me is I hate chocolate with a passion. I am 15% oracle, 50% Train Conductor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "225923@5",
+  "sire": "227547@5",
+  "children": [
+    "255409@7",
+    "269825@7",
+    "271713@7",
+    "275072@7",
+    "279617@7",
+    "286765@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3689,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

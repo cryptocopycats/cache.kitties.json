@@ -1,0 +1,26 @@
+{
+  "id": 227133,
+  "name": "Santa Paws",
+  "generation": 6,
+  "created_at": "2017-12-10T23:13:03.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Santa Paws. My friends describe me as ridiculous and raunchy. I put soy sauce on everything. Like, everything: hot dogs, cantaloupe—everything! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "223749@5",
+  "sire": "223776@5",
+  "children": [
+    "264799@7",
+    "350803@7",
+    "355267@11",
+    "378770@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 43,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

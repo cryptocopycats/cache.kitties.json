@@ -1,0 +1,23 @@
+{
+  "id": 250502,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T20:22:02.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! Kitty #250502 here. I'm here to enjoy fighting for the people and licking doorknobs. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93899@11",
+  "sire": "81502@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3655,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

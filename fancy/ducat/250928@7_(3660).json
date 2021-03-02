@@ -1,0 +1,26 @@
+{
+  "id": 250928,
+  "name": "Miette de pain",
+  "generation": 7,
+  "created_at": "2017-12-11T20:42:05.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Miette de pain. In high school, I was voted school jock. I'm often described as raunchy, and I own it. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249648@6",
+  "sire": "249611@3",
+  "children": [
+    "252067@8",
+    "265018@8",
+    "267613@9",
+    "361523@25"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3660,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

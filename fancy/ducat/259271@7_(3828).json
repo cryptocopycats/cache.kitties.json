@@ -1,0 +1,24 @@
+{
+  "id": 259271,
+  "name": "Alfred Duck Kid Jeopard",
+  "generation": 7,
+  "created_at": "2017-12-12T02:56:13.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Alfred Duck Kid Jeopard. All you need to know about me is I hate salad with a passion. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "257091@6",
+  "sire": "257750@6",
+  "children": [
+    "270239@9",
+    "270619@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3828,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

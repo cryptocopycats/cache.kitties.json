@@ -1,0 +1,29 @@
+{
+  "id": 250187,
+  "name": "Majika the Patriarch",
+  "generation": 12,
+  "created_at": "2017-12-11T20:07:49.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Majika the Patriarch. I believe the world is flat. I was voted school jock in college. Can you make my raunchy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "79053@5",
+  "sire": "190099@11",
+  "children": [
+    "254404@13",
+    "275898@13",
+    "281933@13",
+    "291884@13",
+    "303364@16",
+    "334968@14",
+    "567042@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 665,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

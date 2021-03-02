@@ -1,0 +1,24 @@
+{
+  "id": 262525,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T05:47:05.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Kitty #262525. I've never told anyone this, but I once groomed a dog. I am 70% sphinx, 61% Dogwalker, and otherwise bad at math. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259617@9",
+  "sire": "260594@11",
+  "children": [
+    "269312@13",
+    "304960@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3908,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

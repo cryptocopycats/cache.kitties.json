@@ -1,0 +1,24 @@
+{
+  "id": 257125,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T01:04:47.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! My name's Kitty #257125. I once peed on Nelson Mandela's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope we can be tantalizing friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147063@4",
+  "sire": "186480@5",
+  "children": [
+    "590178@7",
+    "962672@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3775,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

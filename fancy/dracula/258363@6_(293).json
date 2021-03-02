@@ -1,0 +1,27 @@
+{
+  "id": 258363,
+  "name": "💎G6 Mr.Dracula💎",
+  "generation": 6,
+  "created_at": "2017-12-12T02:08:10.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm 💎G6 Mr.Dracula💎. I'm a Skydiving Instructor by day, and I like playing chess by night. It's not common knowledge, but my ancestry connects me to Mother Theresa. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "252124@5",
+  "sire": "251911@5",
+  "children": [
+    "264823@8",
+    "322079@7",
+    "324277@7",
+    "337135@7",
+    "350900@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 293,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

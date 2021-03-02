@@ -1,0 +1,32 @@
+{
+  "id": 204484,
+  "name": "gen4_duncan_c",
+  "generation": 4,
+  "created_at": "2017-12-10T05:26:30.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! gen4_duncan_c here. I'm here to enjoy eating lasagna and staying woke. I once made a goose scare. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "151595@3",
+  "sire": "176185@2",
+  "children": [
+    "206495@5",
+    "207104@5",
+    "209458@5",
+    "210733@5",
+    "218085@5",
+    "232737@5",
+    "237665@6",
+    "272383@5",
+    "308528@5",
+    "369386@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2726,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

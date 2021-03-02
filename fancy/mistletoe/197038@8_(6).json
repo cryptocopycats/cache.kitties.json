@@ -1,0 +1,23 @@
+{
+  "id": 197038,
+  "name": "Tangled Leg Lamp",
+  "generation": 8,
+  "created_at": "2017-12-10T00:19:22.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Tangled Leg Lamp. I enjoy eating until I loathe myself, picking flowers, and grooming. I once made a moose play. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "196193@7",
+  "sire": "196275@7",
+  "children": [
+    "214857@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

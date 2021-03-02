@@ -1,0 +1,25 @@
+{
+  "id": 243295,
+  "name": "Dracula RARE",
+  "generation": 15,
+  "created_at": "2017-12-11T13:37:25.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Dracula RARE. I'm a professional Dispensary Clerk and I love lasagna. I once got in a fight with a moose, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "194979@14",
+  "sire": "179074@8",
+  "children": [
+    "306902@16",
+    "346644@17",
+    "577204@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 251,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

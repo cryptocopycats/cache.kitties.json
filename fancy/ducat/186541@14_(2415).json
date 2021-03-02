@@ -1,0 +1,23 @@
+{
+  "id": 186541,
+  "name": "Rare Fancy",
+  "generation": 14,
+  "created_at": "2017-12-09T17:02:30.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Rare Fancy. I'm a professional Culinary Sanitation Specialist and I love chocolate. My secret indulgence is salad. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182047@12",
+  "sire": "178143@13",
+  "children": [
+    "191868@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2415,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

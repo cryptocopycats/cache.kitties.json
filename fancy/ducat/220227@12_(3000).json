@@ -1,0 +1,25 @@
+{
+  "id": 220227,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-10T18:20:44.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! Kitty #220227 here. I'm here to enjoy riding dirty and tripping my owner. My secret indulgence is steak. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179442@9",
+  "sire": "110312@11",
+  "children": [
+    "221738@13",
+    "251439@13",
+    "266145@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3000,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 181034,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-09T11:44:28.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #181034. All you need to know about me is I hate apple pie with a passion. Sometimes I daydream of a life full of breakdancing, steak, and riverdancing. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168654@6",
+  "sire": "163614@5",
+  "children": [
+    "257850@8",
+    "272424@12",
+    "276422@8",
+    "296659@8",
+    "313818@8",
+    "421547@8",
+    "470707@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2326,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

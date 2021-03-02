@@ -1,0 +1,31 @@
+{
+  "id": 215794,
+  "name": "China No.1",
+  "generation": 10,
+  "created_at": "2017-12-10T14:54:10.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm China No.1. I believe the world is flat. When no one's home, I invite my pals over and we listen to Michael Bolton. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "202278@5",
+  "sire": "195161@9",
+  "children": [
+    "219183@11",
+    "223376@11",
+    "258450@11",
+    "264296@11",
+    "295878@20",
+    "326219@20",
+    "341267@17",
+    "405775@20",
+    "443858@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 23,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

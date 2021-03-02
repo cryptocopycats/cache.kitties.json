@@ -1,0 +1,23 @@
+{
+  "id": 256141,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-12T00:19:55.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #256141. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found gullible or running a podcast. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141236@17",
+  "sire": "232638@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3760,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

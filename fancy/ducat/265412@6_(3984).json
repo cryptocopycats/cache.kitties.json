@@ -1,0 +1,24 @@
+{
+  "id": 265412,
+  "name": "Breed with Kitty 267167",
+  "generation": 6,
+  "created_at": "2017-12-12T08:08:50.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Breed with Kitty 267167. I'm a professional Culinary Sanitation Specialist and I love chocolate. Sometimes I daydream of a life full of tricking babies, cereal, and riverdancing. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191882@5",
+  "sire": "195166@5",
+  "children": [
+    "269897@8",
+    "273611@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3984,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

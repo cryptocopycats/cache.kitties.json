@@ -1,0 +1,25 @@
+{
+  "id": 221355,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-10T19:13:17.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #221355. My friends describe me as voluptuous and smelly. I'm often described as brilliant, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "199436@12",
+  "sire": "191729@9",
+  "children": [
+    "232584@14",
+    "292863@14",
+    "302376@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3026,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 208401,
+  "name": "g7 POPEYE",
+  "generation": 7,
+  "created_at": "2017-12-10T08:34:36.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm g7 POPEYE. I'm a professional Dogwalker and I love wet food. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "34746@6",
+  "sire": "130849@6",
+  "children": [
+    "282742@8",
+    "308691@8",
+    "319349@8",
+    "322854@8",
+    "328052@8",
+    "333326@9",
+    "355562@8",
+    "388895@8",
+    "410034@8",
+    "518649@8",
+    "893886@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 555,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

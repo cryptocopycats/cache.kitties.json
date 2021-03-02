@@ -1,0 +1,29 @@
+{
+  "id": 233378,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T04:12:33.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #233378. I enjoy picking flowers, slappin' da bass, and tripping my owner. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "232907@5",
+  "sire": "232859@2",
+  "children": [
+    "273572@7",
+    "280576@7",
+    "283429@7",
+    "288354@7",
+    "304406@7",
+    "323736@13",
+    "354415@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3264,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

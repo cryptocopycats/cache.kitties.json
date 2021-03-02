@@ -1,0 +1,23 @@
+{
+  "id": 254485,
+  "name": "Quack Cat",
+  "generation": 7,
+  "created_at": "2017-12-11T23:10:44.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Quack Cat. I believe that one day cats will rule this planet. I once got in a fight with a labradoodle, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "229426@6",
+  "sire": "228033@4",
+  "children": [
+    "255077@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3731,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

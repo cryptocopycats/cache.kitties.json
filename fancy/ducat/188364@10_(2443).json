@@ -1,0 +1,27 @@
+{
+  "id": 188364,
+  "name": "Luna Lovekitty {Pure DuCat}",
+  "generation": 10,
+  "created_at": "2017-12-09T18:39:58.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Luna Lovekitty {Pure DuCat}. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112426@8",
+  "sire": "167058@9",
+  "children": [
+    "190476@11",
+    "210202@11",
+    "294135@15",
+    "297485@11",
+    "385629@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2443,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

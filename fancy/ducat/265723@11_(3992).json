@@ -1,0 +1,23 @@
+{
+  "id": 265723,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T08:23:12.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! My name's Kitty #265723. I once peed on Nelson Mandela's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135623@10",
+  "sire": "113891@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3992,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

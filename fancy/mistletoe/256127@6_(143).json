@@ -1,0 +1,29 @@
+{
+  "id": 256127,
+  "name": "FANCY MISTLETOE!",
+  "generation": 6,
+  "created_at": "2017-12-12T00:19:37.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm FANCY MISTLETOE!. I'm often referred to as the Bart Simpson of the group. I once made a dolphin drink. Our friendship will be voluptuous, brilliant, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "253817@5",
+  "sire": "247734@5",
+  "children": [
+    "256949@8",
+    "257227@8",
+    "264673@7",
+    "267077@9",
+    "270732@10",
+    "274765@9",
+    "306460@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 143,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 251524,
+  "name": "Unique Fancy Brisk",
+  "generation": 11,
+  "created_at": "2017-12-11T21:04:23.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Unique Fancy Brisk. I've never told anyone this, but I once loved a dog. When no one's home, I invite my pals over and we listen to Wutang. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250605@8",
+  "sire": "187821@10",
+  "children": [
+    "293343@12",
+    "300834@12",
+    "327520@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3677,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

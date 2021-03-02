@@ -1,0 +1,27 @@
+{
+  "id": 266071,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T08:42:14.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! My name's Kitty #266071. I once peed on Mother Theresa's cat. They had it coming. In my free time, I can usually be found ridiculous or swiping right. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192735@3",
+  "sire": "245035@3",
+  "children": [
+    "267063@9",
+    "267418@5",
+    "277841@12",
+    "284914@5",
+    "301059@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3998,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

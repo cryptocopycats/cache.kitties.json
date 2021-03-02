@@ -1,0 +1,27 @@
+{
+  "id": 216629,
+  "name": "Fancy Mistletoe Christmas Tree",
+  "generation": 10,
+  "created_at": "2017-12-10T15:37:47.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! My name's Fancy Mistletoe Christmas Tree. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Hermione Granger of the group. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "113292@6",
+  "sire": "207257@9",
+  "children": [
+    "220553@11",
+    "222933@11",
+    "238293@11",
+    "243111@13",
+    "333909@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 25,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

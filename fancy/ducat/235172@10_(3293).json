@@ -1,0 +1,26 @@
+{
+  "id": 235172,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T05:44:15.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Kitty #235172. I want to live in a world where people believe the world is flat. I'm often described as vegan, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "185878@9",
+  "sire": "189104@9",
+  "children": [
+    "237418@12",
+    "270668@11",
+    "285744@11",
+    "288661@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3293,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

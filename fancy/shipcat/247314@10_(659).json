@@ -1,0 +1,29 @@
+{
+  "id": 247314,
+  "name": "Captain Kitty",
+  "generation": 10,
+  "created_at": "2017-12-11T17:22:48.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Captain Kitty. I believe the world is flat. I would give it all up to star in a soap opera. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "192568@4",
+  "sire": "244822@9",
+  "children": [
+    "261240@11",
+    "275898@13",
+    "281933@13",
+    "291884@13",
+    "296065@11",
+    "331640@11",
+    "334579@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 659,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

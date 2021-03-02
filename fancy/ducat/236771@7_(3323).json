@@ -1,0 +1,23 @@
+{
+  "id": 236771,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T07:09:56.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #236771. I'm a professional Foreign Film Director and I love wet food. I once got in a fight with a platypus, and won. Our friendship will be brilliant, vegan, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "108435@5",
+  "sire": "172167@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3323,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

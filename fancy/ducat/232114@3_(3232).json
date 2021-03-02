@@ -1,0 +1,32 @@
+{
+  "id": 232114,
+  "name": "Pure DuCat /",
+  "generation": 3,
+  "created_at": "2017-12-11T03:09:16.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Pure DuCat /. I enjoy eating lasagna, chasing red dots, and breakdancing. When no one's home, I invite my pals over and we listen to Beyoncé. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200230@2",
+  "sire": "176519@2",
+  "children": [
+    "311622@4",
+    "325055@4",
+    "329750@4",
+    "344228@4",
+    "355477@4",
+    "368515@4",
+    "388098@4",
+    "394870@4",
+    "424109@4",
+    "433681@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3232,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

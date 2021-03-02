@@ -1,0 +1,24 @@
+{
+  "id": 257863,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-12T01:45:22.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #257863. I enjoy staying woke, tricking babies, and riding unicorns. I'm often described as ridiculous, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "255060@7",
+  "sire": "257243@14",
+  "children": [
+    "263382@16",
+    "273851@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3794,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

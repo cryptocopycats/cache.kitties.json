@@ -1,0 +1,23 @@
+{
+  "id": 246639,
+  "name": "Misty Brock",
+  "generation": 4,
+  "created_at": "2017-12-11T16:50:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Misty Brock. My friends describe me as raunchy and fabulous. I once made a rooster trot. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "231397@3",
+  "sire": "220288@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 112,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

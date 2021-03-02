@@ -1,0 +1,29 @@
+{
+  "id": 259468,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T03:05:30.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #259468. I'm often referred to as the Dwight Schrute of the group. I would give it all up for a Chanel purse. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "232236@3",
+  "sire": "239233@3",
+  "children": [
+    "265874@5",
+    "266293@5",
+    "283490@5",
+    "308392@5",
+    "321702@5",
+    "330678@5",
+    "1584487@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3833,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

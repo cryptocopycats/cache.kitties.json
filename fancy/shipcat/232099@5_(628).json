@@ -1,0 +1,26 @@
+{
+  "id": 232099,
+  "name": "Scout",
+  "generation": 5,
+  "created_at": "2017-12-11T03:08:36.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Scout. I enjoy riding dirty, picking flowers, and reading garfield. In my free time, I can usually be found brilliant or reading Danielle Steele. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "108976@4",
+  "sire": "178862@4",
+  "children": [
+    "233441@6",
+    "237790@6",
+    "239939@6",
+    "284537@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 628,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 230669,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T01:59:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #230669. I'm a Dispensary Clerk by day, and I like people-watching by night. I once made a chimpanzee lay. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "188415@5",
+  "sire": "166503@8",
+  "children": [
+    "255639@10",
+    "328197@10",
+    "330122@10",
+    "540913@10",
+    "542706@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 624,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

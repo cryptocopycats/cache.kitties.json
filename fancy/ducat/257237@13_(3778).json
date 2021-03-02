@@ -1,0 +1,23 @@
+{
+  "id": 257237,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-12T01:10:47.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #257237. I enjoy tripping my owner, reading garfield, and breakdancing. Some people say I'm the Jon Snow of the group. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135407@12",
+  "sire": "185453@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3778,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

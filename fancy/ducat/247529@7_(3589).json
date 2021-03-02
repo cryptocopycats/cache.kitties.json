@@ -1,0 +1,24 @@
+{
+  "id": 247529,
+  "name": "DUCAT",
+  "generation": 7,
+  "created_at": "2017-12-11T17:35:10.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm DUCAT. My friends describe me as annoying and wondrous. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136693@6",
+  "sire": "224846@6",
+  "children": [
+    "263811@14",
+    "267189@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3589,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

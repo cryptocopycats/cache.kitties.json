@@ -1,0 +1,28 @@
+{
+  "id": 187618,
+  "name": "FANCY DUCAT",
+  "generation": 5,
+  "created_at": "2017-12-09T18:03:24.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm FANCY DUCAT. I'm often referred to as the Peter Griffin of the group. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "133124@4",
+  "sire": "61365@4",
+  "children": [
+    "189896@7",
+    "223809@6",
+    "232069@6",
+    "239150@6",
+    "252103@6",
+    "263306@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2430,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

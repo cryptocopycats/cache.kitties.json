@@ -1,0 +1,23 @@
+{
+  "id": 256879,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T00:54:42.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! Kitty #256879 here. I'm here to enjoy licking doorknobs and fighting the patriarchy. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "226062@3",
+  "sire": "195487@3",
+  "children": [
+    "262435@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 679,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

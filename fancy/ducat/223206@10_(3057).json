@@ -1,0 +1,27 @@
+{
+  "id": 223206,
+  "name": "Fancy fine",
+  "generation": 10,
+  "created_at": "2017-12-10T20:39:56.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Fancy fine. I enjoy reading garfield, staying woke, and breakdancing. I put ranch dressing on everything. Like, everything: hot dogs, apple pie—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28499@4",
+  "sire": "144622@9",
+  "children": [
+    "305415@11",
+    "308653@17",
+    "313310@11",
+    "369928@11",
+    "389005@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3057,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

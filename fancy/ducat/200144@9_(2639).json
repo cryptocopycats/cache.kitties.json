@@ -1,0 +1,23 @@
+{
+  "id": 200144,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T02:15:28.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #200144. In high school, I was voted school jock. I once got in a fight with a rhino, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "169897@8",
+  "sire": "83240@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2639,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

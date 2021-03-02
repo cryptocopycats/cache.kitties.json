@@ -1,0 +1,23 @@
+{
+  "id": 216914,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-10T15:48:38.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! Kitty #216914 here. I'm here to enjoy picking flowers and staying woke. I'm often described as despicable, and I own it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "215644@5",
+  "sire": "216075@12",
+  "children": [
+    "219612@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2944,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

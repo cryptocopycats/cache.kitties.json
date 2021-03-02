@@ -1,0 +1,27 @@
+{
+  "id": 202113,
+  "name": "Surfer Dude",
+  "generation": 4,
+  "created_at": "2017-12-10T03:39:41.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Surfer Dude. All you need to know about me is I hate apple pie with a passion. It's not common knowledge, but my ancestry connects me to Nelson Mandela. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160811@3",
+  "sire": "139708@3",
+  "children": [
+    "213591@5",
+    "213613@5",
+    "217042@5",
+    "217738@5",
+    "224883@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2688,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

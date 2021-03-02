@@ -1,0 +1,27 @@
+{
+  "id": 247041,
+  "name": "DuCat Gold PerfectBred",
+  "generation": 14,
+  "created_at": "2017-12-11T17:09:31.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm DuCat Gold PerfectBred. I'm a Spin Instructor  by day, and I like riverdancing by night. My secret indulgence is wet food. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "244824@13",
+  "sire": "193734@11",
+  "children": [
+    "262045@19",
+    "272486@15",
+    "300503@15",
+    "335325@19",
+    "982525@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3578,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

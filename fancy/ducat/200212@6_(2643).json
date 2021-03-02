@@ -1,0 +1,25 @@
+{
+  "id": 200212,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T02:18:40.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #200212. In high school, I was voted school jock. I once got in a fight with a dog, and won. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172547@4",
+  "sire": "24410@5",
+  "children": [
+    "202118@7",
+    "202654@7",
+    "226106@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2643,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

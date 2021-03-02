@@ -1,0 +1,26 @@
+{
+  "id": 264897,
+  "name": "Gen 2 · Fancy · DuCat · Virgin",
+  "generation": 2,
+  "created_at": "2017-12-12T07:42:06.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Gen 2 · Fancy · DuCat · Virgin. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found seductive or running a podcast. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "146816@1",
+  "sire": "182951@1",
+  "children": [
+    "310715@3",
+    "313334@3",
+    "317264@5",
+    "318162@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3963,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

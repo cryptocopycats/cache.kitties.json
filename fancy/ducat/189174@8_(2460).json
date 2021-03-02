@@ -1,0 +1,25 @@
+{
+  "id": 189174,
+  "name": "Birdcat",
+  "generation": 8,
+  "created_at": "2017-12-09T19:19:17.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Birdcat. My friends describe me as gorgeous and preposterous. My friends describe me as \"despicable.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35477@7",
+  "sire": "89063@7",
+  "children": [
+    "272235@9",
+    "502657@14",
+    "504786@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2460,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 234140,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T04:57:37.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #234140. I'm a professional Foreign Film Director and I love chocolate. I once made a moose pester. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "232579@11",
+  "sire": "3043@1",
+  "children": [
+    "242603@14",
+    "259812@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 66,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

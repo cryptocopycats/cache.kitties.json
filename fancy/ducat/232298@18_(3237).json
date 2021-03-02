@@ -1,0 +1,25 @@
+{
+  "id": 232298,
+  "name": "Trojan..y",
+  "generation": 18,
+  "created_at": "2017-12-11T03:17:41.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Trojan..y. I'm a Culinary Sanitation Specialist by day, and I like sleeping in fresh laundry by night. I once made a chimpanzee drink. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182770@13",
+  "sire": "189484@17",
+  "children": [
+    "274783@19",
+    "406498@19",
+    "416054@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3237,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

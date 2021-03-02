@@ -1,0 +1,23 @@
+{
+  "id": 229603,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T01:05:58.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #229603. I'm a professional Train Conductor and I love lasagna. I like to listen to Beyoncé while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "216443@9",
+  "sire": "224338@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3186,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

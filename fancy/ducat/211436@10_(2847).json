@@ -1,0 +1,23 @@
+{
+  "id": 211436,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T11:11:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #211436. I enjoy licking doorknobs, taking selfies, and sitting on your computer. I once made a platypus kiss. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192223@9",
+  "sire": "195158@6",
+  "children": [
+    "460889@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2847,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

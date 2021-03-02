@@ -1,0 +1,24 @@
+{
+  "id": 260630,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T04:13:01.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #260630. I'm often referred to as the Bart Simpson of the group. I once got in a fight with a platypus, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188887@9",
+  "sire": "231798@11",
+  "children": [
+    "284511@13",
+    "303688@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3874,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

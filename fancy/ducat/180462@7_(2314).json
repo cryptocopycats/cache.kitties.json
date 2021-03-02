@@ -1,0 +1,27 @@
+{
+  "id": 180462,
+  "name": "Twister",
+  "generation": 7,
+  "created_at": "2017-12-09T11:16:40.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! My name's Twister. I once peed on Amelia Earhart's cat. They had it coming. I once made a dolphin grimace. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125375@4",
+  "sire": "154819@6",
+  "children": [
+    "185763@8",
+    "189891@9",
+    "192523@8",
+    "202753@8",
+    "226762@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2314,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

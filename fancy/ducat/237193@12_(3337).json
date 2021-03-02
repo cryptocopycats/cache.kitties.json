@@ -1,0 +1,24 @@
+{
+  "id": 237193,
+  "name": "Gaia",
+  "generation": 12,
+  "created_at": "2017-12-11T07:36:24.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gaia. I'm a professional Dispensary Clerk and I love cereal. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236024@11",
+  "sire": "235461@6",
+  "children": [
+    "261944@13",
+    "272126@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3337,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

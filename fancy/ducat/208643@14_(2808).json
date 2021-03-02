@@ -1,0 +1,24 @@
+{
+  "id": 208643,
+  "name": "Fancy Kitty",
+  "generation": 14,
+  "created_at": "2017-12-10T08:47:38.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Fancy Kitty. I'm a Foreign Film Director by day, and I like riding the bus by night. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found tricking babies all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "171181@13",
+  "sire": "178110@13",
+  "children": [
+    "214160@15",
+    "328474@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2808,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

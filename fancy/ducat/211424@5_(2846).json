@@ -1,0 +1,32 @@
+{
+  "id": 211424,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T11:10:22.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! My name's Kitty #211424. I once peed on Cleopatra's cat. They had it coming. My friends describe me as \"preposterous.\" It's... accurate. Will you be the cinammon to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192296@4",
+  "sire": "205725@4",
+  "children": [
+    "214546@6",
+    "214781@6",
+    "224500@6",
+    "226482@7",
+    "239000@6",
+    "250152@6",
+    "265296@6",
+    "285302@6",
+    "558085@6",
+    "657703@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2846,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

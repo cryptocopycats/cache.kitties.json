@@ -1,0 +1,23 @@
+{
+  "id": 185184,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-09T15:42:24.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #185184. I've never told anyone this, but I once snuggled a dog. I am 44% oracle, 22% Dispensary Clerk, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96637@19",
+  "sire": "164491@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2388,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

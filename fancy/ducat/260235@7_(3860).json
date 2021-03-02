@@ -1,0 +1,23 @@
+{
+  "id": 260235,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T03:48:33.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #260235. In high school, I was voted biggest teacher's pet. I once dreamed of being a Dogwalker. Now I can be found swiping left all day. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239071@6",
+  "sire": "239100@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3860,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

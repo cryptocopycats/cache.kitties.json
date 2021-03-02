@@ -1,0 +1,23 @@
+{
+  "id": 228238,
+  "name": "Mistletoe",
+  "generation": 6,
+  "created_at": "2017-12-11T00:02:29.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! My name's Mistletoe. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once made a moose leap. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "199323@5",
+  "sire": "208490@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 46,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

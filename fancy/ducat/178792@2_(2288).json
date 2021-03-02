@@ -1,0 +1,26 @@
+{
+  "id": 178792,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-09T09:47:37.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Kitty #178792. All you need to know about me is I hate cantaloupe with a passion. I once pawed at a rhino. I don't like to talk about it. Will you be the maple syrup to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "123177@1",
+  "sire": "176045@1",
+  "children": [
+    "197406@5",
+    "198495@3",
+    "198803@5",
+    "209044@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2288,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

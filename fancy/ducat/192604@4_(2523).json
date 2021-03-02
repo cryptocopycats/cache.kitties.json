@@ -1,0 +1,23 @@
+{
+  "id": 192604,
+  "name": "Flop",
+  "generation": 4,
+  "created_at": "2017-12-09T21:33:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! My name's Flop. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Ron Weasley of the group. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152612@3",
+  "sire": "170392@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2523,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

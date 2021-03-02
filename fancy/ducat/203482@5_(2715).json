@@ -1,0 +1,32 @@
+{
+  "id": 203482,
+  "name": "Purest gene7:2",
+  "generation": 5,
+  "created_at": "2017-12-10T04:41:29.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Purest gene7:2. My friends describe me as wondrous and hairy. In my free time, I can usually be found smelly or reading Danielle Steele. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189536@4",
+  "sire": "201677@4",
+  "children": [
+    "203862@6",
+    "204701@6",
+    "205583@6",
+    "209295@6",
+    "225983@6",
+    "230524@10",
+    "241620@6",
+    "274008@6",
+    "297907@6",
+    "657746@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2715,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

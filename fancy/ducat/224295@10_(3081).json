@@ -1,0 +1,23 @@
+{
+  "id": 224295,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T21:22:26.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #224295. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196586@9",
+  "sire": "69457@4",
+  "children": [
+    "247012@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3081,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

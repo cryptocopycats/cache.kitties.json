@@ -1,0 +1,26 @@
+{
+  "id": 260594,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T04:10:46.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #260594. All you need to know about me is I hate cantaloupe with a passion. My friends describe me as \"voluptuous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259272@10",
+  "sire": "224126@10",
+  "children": [
+    "262525@12",
+    "276777@15",
+    "280500@17",
+    "280978@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3873,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

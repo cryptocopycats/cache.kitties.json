@@ -1,0 +1,33 @@
+{
+  "id": 215051,
+  "name": "Fancy Dracula G7",
+  "generation": 7,
+  "created_at": "2017-12-10T14:11:54.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Fancy Dracula G7. I enjoy riding dirty, picking flowers, and tripping my owner. I once frolicked with a rabbit. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "214772@6",
+  "sire": "199722@6",
+  "children": [
+    "234182@8",
+    "237207@8",
+    "238787@8",
+    "244572@8",
+    "265367@8",
+    "278596@8",
+    "316652@13",
+    "340518@10",
+    "375523@10",
+    "423869@17",
+    "1631891@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 191,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

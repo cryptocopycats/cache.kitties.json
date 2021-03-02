@@ -1,0 +1,30 @@
+{
+  "id": 258111,
+  "name": "258111",
+  "generation": 8,
+  "created_at": "2017-12-12T01:57:24.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm 258111. In high school, I was voted most likely to work at NASA. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254685@7",
+  "sire": "254502@6",
+  "children": [
+    "259617@9",
+    "267557@14",
+    "275491@12",
+    "285218@9",
+    "295821@9",
+    "301704@19",
+    "317300@10",
+    "342226@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3800,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 190283,
+  "name": "VIRGIN FANCY KITTY!",
+  "generation": 9,
+  "created_at": "2017-12-09T20:02:45.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's VIRGIN FANCY KITTY!. I once peed on Nelson Mandela's cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "139325@8",
+  "sire": "139931@8",
+  "children": [
+    "201258@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2481,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

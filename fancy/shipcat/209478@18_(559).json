@@ -1,0 +1,23 @@
+{
+  "id": 209478,
+  "name": "Baby Captain",
+  "generation": 18,
+  "created_at": "2017-12-10T09:32:48.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Baby Captain. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "182059@15",
+  "sire": "8380@17",
+  "children": [
+    "308859@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 559,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

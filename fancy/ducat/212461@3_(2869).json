@@ -1,0 +1,25 @@
+{
+  "id": 212461,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-10T12:02:54.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #212461. I'm a professional Private Dancer  and I love cereal. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168839@2",
+  "sire": "197294@2",
+  "children": [
+    "431140@4",
+    "431477@4",
+    "435149@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2869,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

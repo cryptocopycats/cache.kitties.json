@@ -1,0 +1,25 @@
+{
+  "id": 228272,
+  "name": "🦆Ultra Collectible DuCat",
+  "generation": 9,
+  "created_at": "2017-12-11T00:03:52.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm 🦆Ultra Collectible DuCat. I'm often referred to as the Homer Simpson of the group. I once made a goose grimace. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219499@4",
+  "sire": "127800@8",
+  "children": [
+    "263416@11",
+    "284088@17",
+    "297238@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3166,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

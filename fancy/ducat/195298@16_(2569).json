@@ -1,0 +1,23 @@
+{
+  "id": 195298,
+  "name": "Dybala Kitty",
+  "generation": 16,
+  "created_at": "2017-12-09T23:15:12.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! My name's Dybala Kitty. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once made a goose leap. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160668@15",
+  "sire": "41094@11",
+  "children": [
+    "213163@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2569,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

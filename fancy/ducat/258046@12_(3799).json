@@ -1,0 +1,29 @@
+{
+  "id": 258046,
+  "name": "Fancy Ducat /",
+  "generation": 12,
+  "created_at": "2017-12-12T01:54:23.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Fancy Ducat /. I'm a professional Foreign Film Director and I love steak. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241892@11",
+  "sire": "130306@7",
+  "children": [
+    "258920@13",
+    "262474@13",
+    "325825@13",
+    "371889@13",
+    "384542@13",
+    "455037@13",
+    "1195289@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3799,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

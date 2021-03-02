@@ -1,0 +1,25 @@
+{
+  "id": 225517,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T22:08:43.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #225517. I'm a Aerobics Athlete  by day, and I like mocking dogs by night. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142579@3",
+  "sire": "145628@9",
+  "children": [
+    "229360@12",
+    "243995@19",
+    "357771@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3102,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

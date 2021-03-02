@@ -1,0 +1,23 @@
+{
+  "id": 216530,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T15:31:53.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #216530. All you need to know about me is I hate wet food with a passion. I was voted school jock in college. Will you be the pickles to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "194737@5",
+  "sire": "204716@5",
+  "children": [
+    "228471@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2937,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

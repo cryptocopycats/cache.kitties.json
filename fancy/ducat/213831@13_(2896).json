@@ -1,0 +1,27 @@
+{
+  "id": 213831,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-10T13:10:23.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #213831. I enjoy tripping my owner, sitting on your computer, and being a nevernude. When no one's home, I invite my pals over and we listen to Frank Sinatra. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "194604@12",
+  "sire": "82848@12",
+  "children": [
+    "216630@14",
+    "231253@16",
+    "268284@18",
+    "312695@18",
+    "371128@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2896,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

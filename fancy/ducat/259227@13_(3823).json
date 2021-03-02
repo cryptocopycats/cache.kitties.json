@@ -1,0 +1,23 @@
+{
+  "id": 259227,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-12T02:53:44.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #259227. I enjoy eating until I loathe myself, grooming, and sweating through my feet. It's not common knowledge, but my ancestry connects me to King Henry VIII. I hope we can be prickly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254479@6",
+  "sire": "256467@12",
+  "children": [
+    "263080@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3823,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

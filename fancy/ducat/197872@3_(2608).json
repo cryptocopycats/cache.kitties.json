@@ -1,0 +1,26 @@
+{
+  "id": 197872,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-10T00:52:16.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #197872. I'm a professional Skydiving Instructor and I love chocolate. I'm often described as voluptuous, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "145162@2",
+  "sire": "144773@2",
+  "children": [
+    "198505@6",
+    "198817@6",
+    "200169@5",
+    "201329@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2608,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 257469,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T01:22:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #257469. I want to live in a world where people believe the world is flat. When I'm not mocking dogs, I'm tricking babies! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "226142@6",
+  "sire": "254502@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3786,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

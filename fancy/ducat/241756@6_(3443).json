@@ -1,0 +1,24 @@
+{
+  "id": 241756,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T12:11:43.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Kitty #241756. I'm a professional Train Conductor and I love wet food. When no one's home, I invite my pals over and we listen to Aretha Franklin. I look forward to shakin' dat booty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239879@5",
+  "sire": "236147@3",
+  "children": [
+    "243997@7",
+    "317582@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3443,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

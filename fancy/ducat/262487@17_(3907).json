@@ -1,0 +1,24 @@
+{
+  "id": 262487,
+  "name": "The Man",
+  "generation": 17,
+  "created_at": "2017-12-12T05:43:49.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm The Man. I enjoy sweating through my feet, staying woke, and breakdancing. I once got in a fight with a moose, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "231374@5",
+  "sire": "82637@16",
+  "children": [
+    "279423@18",
+    "307378@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3907,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

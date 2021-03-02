@@ -1,0 +1,24 @@
+{
+  "id": 186073,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-09T16:36:34.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #186073. I'm a Dispensary Clerk by day, and I like pole dancing by night. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147684@12",
+  "sire": "156586@14",
+  "children": [
+    "204134@16",
+    "233966@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2407,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

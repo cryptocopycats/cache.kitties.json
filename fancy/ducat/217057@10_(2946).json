@@ -1,0 +1,26 @@
+{
+  "id": 217057,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T15:54:40.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Kitty #217057 here. I'm here to enjoy chasing red dots and picking flowers. My friends describe me as \"annoying.\" It's... accurate. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179442@9",
+  "sire": "170816@8",
+  "children": [
+    "220171@11",
+    "224195@11",
+    "225272@11",
+    "244314@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2946,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

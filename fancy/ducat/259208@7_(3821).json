@@ -1,0 +1,25 @@
+{
+  "id": 259208,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T02:53:02.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! Kitty #259208 here. I'm here to enjoy chasing red dots and reciting poetry. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "180353@6",
+  "sire": "177950@6",
+  "children": [
+    "263339@8",
+    "264666@8",
+    "273476@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3821,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

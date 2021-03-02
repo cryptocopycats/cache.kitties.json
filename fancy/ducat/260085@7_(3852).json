@@ -1,0 +1,24 @@
+{
+  "id": 260085,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T03:40:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Kitty #260085. I once peed on Confucius's cat. They had it coming. I'm often described as annoying, and I own it. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242042@6",
+  "sire": "239000@6",
+  "children": [
+    "266969@8",
+    "267834@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3852,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 184859,
+  "name": "Gen 13 | 2B, 4A",
+  "generation": 13,
+  "created_at": "2017-12-09T15:23:07.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Gen 13 | 2B, 4A. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Homer Simpson of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "164321@9",
+  "sire": "104150@12",
+  "children": [
+    "186140@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2383,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

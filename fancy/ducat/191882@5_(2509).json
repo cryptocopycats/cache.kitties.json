@@ -1,0 +1,31 @@
+{
+  "id": 191882,
+  "name": "Flying Birdy G5",
+  "generation": 5,
+  "created_at": "2017-12-09T21:04:02.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ugh! I'm Flying Birdy G5. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188666@4",
+  "sire": "189523@4",
+  "children": [
+    "218657@6",
+    "239505@6",
+    "240383@6",
+    "242633@6",
+    "245294@6",
+    "254103@6",
+    "265412@6",
+    "271318@6",
+    "305645@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2509,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 174607,
+  "name": "包子",
+  "generation": 9,
+  "created_at": "2017-12-09T06:27:26.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! 包子 here. I'm here to enjoy riding dirty and picking flowers. I am 49% oracle, 38% Spin Instructor , and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98012@8",
+  "sire": "128273@5",
+  "children": [
+    "176666@10",
+    "180953@10",
+    "205472@10",
+    "209437@10",
+    "242746@10",
+    "263642@10",
+    "362787@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2210,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

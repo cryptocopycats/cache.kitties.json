@@ -1,0 +1,23 @@
+{
+  "id": 224340,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-10T21:23:46.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! Kitty #224340 here. I'm here to enjoy being a nevernude and glaring at the neighbour's cat. I once made a rhino dance. Our friendship will be vegan, fabulous, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "167468@5",
+  "sire": "197424@15",
+  "children": [
+    "280860@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3085,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

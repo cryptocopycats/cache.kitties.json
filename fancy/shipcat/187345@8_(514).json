@@ -1,0 +1,23 @@
+{
+  "id": 187345,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T17:50:35.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #187345. I'm often referred to as the Frodo Baggins of the group. I once got in a fight with a chimpanzee, and won. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "153796@4",
+  "sire": "31709@7",
+  "children": [
+    "188790@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 514,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 189523,
+  "name": "Tweety G4",
+  "generation": 4,
+  "created_at": "2017-12-09T19:32:09.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Tweety G4. My friends describe me as brilliant and despicable. In my free time, I can usually be found prickly or talking about how much I lift. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "27797@3",
+  "sire": "130751@3",
+  "children": [
+    "190349@5",
+    "190889@5",
+    "191882@5",
+    "193542@5",
+    "195293@5",
+    "290359@12",
+    "290600@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2466,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

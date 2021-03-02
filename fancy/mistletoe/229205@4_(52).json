@@ -1,0 +1,27 @@
+{
+  "id": 229205,
+  "name": "FANCY RARE MISTLETOE",
+  "generation": 4,
+  "created_at": "2017-12-11T00:48:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm FANCY RARE MISTLETOE. I'm a Ventriloquist by day, and I like pole dancing by night. In my free time, I can usually be found hairy or tricking babies. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "228721@3",
+  "sire": "218665@3",
+  "children": [
+    "230911@5",
+    "232148@5",
+    "260972@5",
+    "265505@5",
+    "272675@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 52,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

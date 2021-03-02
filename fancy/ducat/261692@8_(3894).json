@@ -1,0 +1,25 @@
+{
+  "id": 261692,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T05:03:53.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! My name's Kitty #261692. I once peed on Martin Luther King Jr.'s cat. They had it coming. My friends describe me as \"fabulous.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259234@7",
+  "sire": "258665@4",
+  "children": [
+    "263882@9",
+    "266784@9",
+    "284077@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3894,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

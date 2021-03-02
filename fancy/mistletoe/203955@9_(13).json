@@ -1,0 +1,30 @@
+{
+  "id": 203955,
+  "name": "13th MISTLTOE & 1st LIMEGREEN",
+  "generation": 9,
+  "created_at": "2017-12-10T05:02:57.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm 13th MISTLTOE & 1st LIMEGREEN. I enjoy tricking babies, eating until I loathe myself, and picking flowers. Some people say I'm the Dwight Schrute of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "203112@8",
+  "sire": "199184@6",
+  "children": [
+    "226679@10",
+    "277849@10",
+    "286342@10",
+    "286426@10",
+    "293268@10",
+    "313075@10",
+    "327179@11",
+    "548841@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 13,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

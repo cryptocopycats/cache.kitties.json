@@ -1,0 +1,23 @@
+{
+  "id": 211343,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T11:07:07.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Kitty #211343. I believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. Will you be the cinammon to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196928@7",
+  "sire": "37081@6",
+  "children": [
+    "216141@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2843,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

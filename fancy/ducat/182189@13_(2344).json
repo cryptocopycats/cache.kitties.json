@@ -1,0 +1,23 @@
+{
+  "id": 182189,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-09T12:48:38.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #182189. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Our friendship will be brilliant, petulant, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "177704@12",
+  "sire": "175210@11",
+  "children": [
+    "192062@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2344,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

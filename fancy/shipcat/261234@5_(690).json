@@ -1,0 +1,24 @@
+{
+  "id": 261234,
+  "name": "Marina Ordini",
+  "generation": 5,
+  "created_at": "2017-12-12T04:44:21.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Marina Ordini. I'm a professional Culinary Sanitation Specialist and I love cantaloupe. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "135697@4",
+  "sire": "134028@4",
+  "children": [
+    "302862@6",
+    "317972@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 690,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

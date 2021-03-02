@@ -1,0 +1,24 @@
+{
+  "id": 243222,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T13:33:49.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #243222. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "221775@9",
+  "sire": "164572@10",
+  "children": [
+    "258822@12",
+    "263481@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3482,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

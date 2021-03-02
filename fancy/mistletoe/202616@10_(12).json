@@ -1,0 +1,26 @@
+{
+  "id": 202616,
+  "name": "12th MISTLETOE + 8th MISTLGOLD",
+  "generation": 10,
+  "created_at": "2017-12-10T03:59:03.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm 12th MISTLETOE + 8th MISTLGOLD. I'm a professional Culinary Sanitation Specialist and I love ice cream. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "177343@7",
+  "sire": "195161@9",
+  "children": [
+    "215064@11",
+    "237991@17",
+    "238492@11",
+    "324736@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 12,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

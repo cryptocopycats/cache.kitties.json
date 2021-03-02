@@ -1,0 +1,31 @@
+{
+  "id": 217418,
+  "name": "Tommy Seacat",
+  "generation": 11,
+  "created_at": "2017-12-10T16:11:42.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Tommy Seacat. I'm a professional Spin Instructor  and I love cantaloupe. It's not common knowledge, but my ancestry connects me to Confucius. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "110051@7",
+  "sire": "54454@10",
+  "children": [
+    "235977@12",
+    "280382@12",
+    "307646@12",
+    "363181@12",
+    "389600@12",
+    "436897@21",
+    "490688@12",
+    "546426@12",
+    "612906@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 589,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

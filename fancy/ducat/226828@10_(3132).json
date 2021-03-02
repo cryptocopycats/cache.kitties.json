@@ -1,0 +1,25 @@
+{
+  "id": 226828,
+  "name": "Chapa",
+  "generation": 10,
+  "created_at": "2017-12-10T23:01:41.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Chapa. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as voluptuous, and I own it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191427@8",
+  "sire": "218722@9",
+  "children": [
+    "423002@11",
+    "430536@11",
+    "458556@28"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3132,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

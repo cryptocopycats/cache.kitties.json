@@ -1,0 +1,24 @@
+{
+  "id": 192792,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-09T21:40:21.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #192792. I'm a Spin Instructor  by day, and I like swiping right by night. Some people say I'm the Peter Griffin of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187730@9",
+  "sire": "139765@6",
+  "children": [
+    "284476@20",
+    "303970@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2530,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

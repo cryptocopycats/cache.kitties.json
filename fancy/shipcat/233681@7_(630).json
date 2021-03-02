@@ -1,0 +1,23 @@
+{
+  "id": 233681,
+  "name": "Captain Morgan RARE 1 of 600!",
+  "generation": 7,
+  "created_at": "2017-12-11T04:32:53.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Captain Morgan RARE 1 of 600!. My friends describe me as fabulous and ridiculous. I once got in a fight with a chimpanzee, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "219351@6",
+  "sire": "219469@6",
+  "children": [
+    "250523@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 630,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

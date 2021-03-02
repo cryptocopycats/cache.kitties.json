@@ -1,0 +1,24 @@
+{
+  "id": 265876,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-12T08:31:59.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #265876. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is lasagna. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239097@6",
+  "sire": "239049@14",
+  "children": [
+    "268224@16",
+    "326072@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3994,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

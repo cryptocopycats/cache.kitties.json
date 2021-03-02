@@ -1,0 +1,25 @@
+{
+  "id": 199757,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T02:02:10.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! My name's Kitty #199757. I once peed on Mother Theresa's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Mother Theresa. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "145902@8",
+  "sire": "164303@8",
+  "children": [
+    "220273@10",
+    "221635@10",
+    "225802@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2631,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

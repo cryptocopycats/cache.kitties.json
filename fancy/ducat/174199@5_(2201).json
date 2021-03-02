@@ -1,0 +1,25 @@
+{
+  "id": 174199,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-09T06:10:36.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #174199. I'm a professional Mad Scientist and I love ice cream. I'm often described as raunchy, and I own it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "173242@4",
+  "sire": "173127@4",
+  "children": [
+    "175124@7",
+    "213962@6",
+    "215092@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2201,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

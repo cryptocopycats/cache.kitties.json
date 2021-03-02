@@ -1,0 +1,26 @@
+{
+  "id": 245177,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T15:23:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #245177. I'm often referred to as the Lisa Simpson of the group. I once made a dog trot. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "207411@11",
+  "sire": "214808@5",
+  "children": [
+    "258611@13",
+    "337873@13",
+    "343324@13",
+    "365054@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3538,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

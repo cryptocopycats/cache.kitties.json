@@ -1,0 +1,25 @@
+{
+  "id": 219504,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-10T17:45:34.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #219504. I'm a professional Skydiving Instructor and I love ice cream. I once got in a fight with a gecko, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178354@12",
+  "sire": "178671@13",
+  "children": [
+    "221065@15",
+    "236523@15",
+    "260129@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2988,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

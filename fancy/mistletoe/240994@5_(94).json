@@ -1,0 +1,23 @@
+{
+  "id": 240994,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-11T11:25:37.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #240994. In high school, I was voted school jock. I put wasabi on everything. Like, everything: hot dogs, lasagna—everything! Our friendship will be despicable, wondrous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "237761@4",
+  "sire": "226632@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 94,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

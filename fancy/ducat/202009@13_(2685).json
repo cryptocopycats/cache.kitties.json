@@ -1,0 +1,25 @@
+{
+  "id": 202009,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-10T03:35:25.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #202009. I'm often referred to as the Jon Snow of the group. I was voted biggest teacher's pet in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "180196@12",
+  "sire": "55640@11",
+  "children": [
+    "216286@20",
+    "226899@14",
+    "244935@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2685,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

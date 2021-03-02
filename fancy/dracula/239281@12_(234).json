@@ -1,0 +1,25 @@
+{
+  "id": 239281,
+  "name": "TrueMeowBlood",
+  "generation": 12,
+  "created_at": "2017-12-11T09:40:46.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm TrueMeowBlood. I enjoy fighting the patriarchy, slappin' da bass, and shakin' dat booty. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "237519@11",
+  "sire": "221019@9",
+  "children": [
+    "243953@13",
+    "285857@13",
+    "302751@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 234,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

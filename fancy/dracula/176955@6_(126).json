@@ -1,0 +1,23 @@
+{
+  "id": 176955,
+  "name": "Dracula G6 Virgin",
+  "generation": 6,
+  "created_at": "2017-12-09T08:11:25.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Dracula G6 Virgin. I'm a Culinary Sanitation Specialist by day, and I like talking about how much I lift by night. My secret indulgence is steak. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "176030@5",
+  "sire": "156427@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 126,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

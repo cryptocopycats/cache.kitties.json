@@ -1,0 +1,28 @@
+{
+  "id": 264673,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T07:27:28.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Kitty #264673. I'm a professional Aerobics Athlete  and I love ice cream. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "256127@6",
+  "sire": "236482@3",
+  "children": [
+    "266685@8",
+    "267709@8",
+    "273517@8",
+    "286083@10",
+    "290848@12",
+    "313105@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 178,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

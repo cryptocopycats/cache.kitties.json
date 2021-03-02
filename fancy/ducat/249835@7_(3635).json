@@ -1,0 +1,23 @@
+{
+  "id": 249835,
+  "name": "Fancy DuCat",
+  "generation": 7,
+  "created_at": "2017-12-11T19:49:12.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! Fancy DuCat here. I'm here to enjoy glaring at the neighbour's cat and tripping my owner. I'm often described as wondrous, and I own it. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "199911@6",
+  "sire": "207849@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3635,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 244216,
+  "name": "Hifive",
+  "generation": 7,
+  "created_at": "2017-12-11T14:34:07.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Hifive. In high school, I was voted most likely to work at NASA. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I look forward to sweating through my feet with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242042@6",
+  "sire": "239000@6",
+  "children": [
+    "244887@8",
+    "246253@8",
+    "323267@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3513,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

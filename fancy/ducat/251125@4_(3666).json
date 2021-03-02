@@ -1,0 +1,30 @@
+{
+  "id": 251125,
+  "name": "Frankenberry /",
+  "generation": 4,
+  "created_at": "2017-12-11T20:49:07.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Frankenberry /. I enjoy licking doorknobs, picking flowers, and sweating through my feet. When no one's home, I invite my pals over and we listen to Mariah Carey. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "206959@3",
+  "sire": "154608@3",
+  "children": [
+    "259541@5",
+    "263737@5",
+    "264367@5",
+    "267061@5",
+    "270066@5",
+    "306817@5",
+    "310009@5",
+    "337864@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3666,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,8 @@
+### skip downloads, tmp, output, trash, and more
+/dl/
+/tmp/
+/temp/
+/o/
+/build/
+/trash/
+

@@ -1,0 +1,23 @@
+{
+  "id": 224494,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T21:30:57.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #224494. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of glaring at the neighbour's cat, salad, and summoning ghosts. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "216812@3",
+  "sire": "216043@5",
+  "children": [
+    "228278@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 198,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

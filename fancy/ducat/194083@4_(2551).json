@@ -1,0 +1,33 @@
+{
+  "id": 194083,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-09T22:30:49.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #194083. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of taking selfies, cereal, and people-watching. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "169177@3",
+  "sire": "157698@3",
+  "children": [
+    "194696@8",
+    "195132@5",
+    "196420@5",
+    "197337@7",
+    "199956@7",
+    "208024@7",
+    "229621@7",
+    "249613@7",
+    "265822@5",
+    "315914@7",
+    "569280@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2551,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

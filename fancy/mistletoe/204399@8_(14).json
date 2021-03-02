@@ -1,0 +1,25 @@
+{
+  "id": 204399,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T05:22:44.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #204399. In high school, I was voted most likely to work at NASA. I once dreamed of being a Private Dancer . Now I can be found summoning ghosts all day. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "196193@7",
+  "sire": "186644@7",
+  "children": [
+    "220553@11",
+    "223059@9",
+    "233407@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 14,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

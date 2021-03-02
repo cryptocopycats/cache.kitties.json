@@ -1,0 +1,23 @@
+{
+  "id": 216937,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T15:50:48.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #216937. I've never told anyone this, but I once headbutted a dog. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "183856@8",
+  "sire": "155556@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2945,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

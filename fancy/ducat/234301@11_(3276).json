@@ -1,0 +1,23 @@
+{
+  "id": 234301,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T05:04:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #234301. I believe the world is flat. I'm often described as fabulous, and I own it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "213166@10",
+  "sire": "226704@8",
+  "children": [
+    "270327@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3276,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

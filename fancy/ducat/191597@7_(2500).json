@@ -1,0 +1,31 @@
+{
+  "id": 191597,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-09T20:51:30.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #191597. I want to live in a world where people believe the world is flat. My secret indulgence is wet food. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "174393@3",
+  "sire": "48624@6",
+  "children": [
+    "193326@8",
+    "193740@8",
+    "198569@8",
+    "201513@8",
+    "205722@8",
+    "226351@8",
+    "264144@8",
+    "329357@8",
+    "410956@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2500,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

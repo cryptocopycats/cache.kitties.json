@@ -1,0 +1,26 @@
+{
+  "id": 253610,
+  "name": "ShipCat Gold",
+  "generation": 12,
+  "created_at": "2017-12-11T22:33:38.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! ShipCat Gold here. I'm here to enjoy breakdancing and sitting on your computer. I would give it all up for a Chanel purse. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "226568@7",
+  "sire": "223376@11",
+  "children": [
+    "259389@13",
+    "284016@15",
+    "304178@13",
+    "323736@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 671,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

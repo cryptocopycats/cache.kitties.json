@@ -1,0 +1,26 @@
+{
+  "id": 263416,
+  "name": "Power Kitty",
+  "generation": 11,
+  "created_at": "2017-12-12T06:28:15.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Power Kitty. I believe the world is flat. I am 45% gremlin, 50% Aerobics Athlete , and otherwise bad at math. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241790@10",
+  "sire": "228272@9",
+  "children": [
+    "285916@17",
+    "297257@12",
+    "302584@12",
+    "344796@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3922,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

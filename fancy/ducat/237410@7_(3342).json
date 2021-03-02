@@ -1,0 +1,24 @@
+{
+  "id": 237410,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T07:50:26.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #237410. I enjoy glaring at the neighbour's cat, licking doorknobs, and taking selfies. I would give it all up to be on Oprah. Our friendship will be gullible, tantalizing, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236528@3",
+  "sire": "237054@6",
+  "children": [
+    "240503@8",
+    "269645@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3342,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

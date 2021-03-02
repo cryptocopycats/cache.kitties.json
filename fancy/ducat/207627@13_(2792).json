@@ -1,0 +1,23 @@
+{
+  "id": 207627,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-10T07:58:00.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #207627. My friends describe me as gorgeous and gullible. Sometimes I daydream of a life full of taking selfies, lasagna, and people-watching. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "202850@12",
+  "sire": "201016@4",
+  "children": [
+    "212676@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2792,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

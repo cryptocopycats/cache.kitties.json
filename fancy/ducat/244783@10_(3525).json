@@ -1,0 +1,23 @@
+{
+  "id": 244783,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T15:04:26.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! My name's Kitty #244783. I once peed on Cleopatra's cat. They had it coming. Some people say I'm the Ron Weasley of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78506@5",
+  "sire": "209675@9",
+  "children": [
+    "312447@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3525,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

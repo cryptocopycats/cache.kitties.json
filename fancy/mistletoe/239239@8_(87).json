@@ -1,0 +1,26 @@
+{
+  "id": 239239,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T09:38:43.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #239239. My friends describe me as prickly and hairy. Sometimes I daydream of a life full of shakin' dat booty, hamburgers, and people-watching. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "156754@5",
+  "sire": "224714@7",
+  "children": [
+    "260153@9",
+    "262140@12",
+    "319825@12",
+    "409617@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 87,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

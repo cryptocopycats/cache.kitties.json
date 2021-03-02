@@ -1,0 +1,23 @@
+{
+  "id": 191381,
+  "name": "Fancy Birde Genetics",
+  "generation": 14,
+  "created_at": "2017-12-09T20:43:01.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Fancy Birde Genetics. I'm a professional Dispensary Clerk and I love chocolate. I was voted school jock in college. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115143@3",
+  "sire": "178143@13",
+  "children": [
+    "212850@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2496,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

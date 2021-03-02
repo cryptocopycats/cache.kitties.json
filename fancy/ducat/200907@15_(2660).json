@@ -1,0 +1,26 @@
+{
+  "id": 200907,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-10T02:50:38.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #200907. I enjoy taking selfies, riding dirty, and riding unicorns. When no one's home, I invite my pals over and we listen to Ace of Base. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158240@14",
+  "sire": "191923@8",
+  "children": [
+    "215504@16",
+    "228259@16",
+    "259952@16",
+    "331812@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2660,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

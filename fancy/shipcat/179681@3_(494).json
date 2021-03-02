@@ -1,0 +1,31 @@
+{
+  "id": 179681,
+  "name": "MC: Tom Sailor",
+  "generation": 3,
+  "created_at": "2017-12-09T10:35:58.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm MC: Tom Sailor. I'm often referred to as the Steve Urkel of the group. I'm often described as seductive, and I own it. I hope we can be brilliant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "178926@2",
+  "sire": "45736@2",
+  "children": [
+    "189726@4",
+    "193390@4",
+    "193879@4",
+    "194326@4",
+    "197589@4",
+    "210550@4",
+    "230061@4",
+    "256999@4",
+    "323657@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 494,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

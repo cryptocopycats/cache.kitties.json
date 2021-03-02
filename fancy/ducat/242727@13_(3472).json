@@ -1,0 +1,23 @@
+{
+  "id": 242727,
+  "name": "I am a Bird",
+  "generation": 13,
+  "created_at": "2017-12-11T13:07:45.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm I am a Bird. My friends describe me as wondrous and stinky. When no one's home, I invite my pals over and we listen to Rihanna. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "237269@4",
+  "sire": "214065@12",
+  "children": [
+    "245331@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3472,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

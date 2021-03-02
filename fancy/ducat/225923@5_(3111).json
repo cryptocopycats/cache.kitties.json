@@ -1,0 +1,32 @@
+{
+  "id": 225923,
+  "name": "Ducat Virgin 100%",
+  "generation": 5,
+  "created_at": "2017-12-10T22:23:56.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Ducat Virgin 100%. I enjoy fighting for the people, slappin' da bass, and hitting on yo' man. My secret indulgence is hamburgers. Will you be the cinammon to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152450@4",
+  "sire": "224376@4",
+  "children": [
+    "231342@7",
+    "231612@6",
+    "231919@6",
+    "232456@6",
+    "238272@6",
+    "238909@7",
+    "252239@6",
+    "273005@6",
+    "307872@7",
+    "339334@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3111,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

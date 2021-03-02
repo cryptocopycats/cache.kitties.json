@@ -1,0 +1,24 @@
+{
+  "id": 234993,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T05:37:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #234993. I enjoy tricking babies, eating until I loathe myself, and glaring at the neighbour's cat. It's not common knowledge, but my ancestry connects me to Mother Theresa. I look forward to spinning sick beats with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "234764@4",
+  "sire": "84348@9",
+  "children": [
+    "235240@11",
+    "240423@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3287,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

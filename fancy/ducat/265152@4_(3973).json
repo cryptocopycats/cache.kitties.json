@@ -1,0 +1,24 @@
+{
+  "id": 265152,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T07:55:09.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #265152. I've never told anyone this, but I once headbutted a dog. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "226764@3",
+  "sire": "252997@3",
+  "children": [
+    "265672@7",
+    "266552@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3973,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 239642,
+  "name": "DUCAT 2",
+  "generation": 12,
+  "created_at": "2017-12-11T10:02:44.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm DUCAT 2. I enjoy chasing red dots, breakdancing, and reading garfield. I once got in a fight with a chimpanzee, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224846@6",
+  "sire": "92663@11",
+  "children": [
+    "253786@13",
+    "289591@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3398,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

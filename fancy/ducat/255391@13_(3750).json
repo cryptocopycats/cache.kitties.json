@@ -1,0 +1,24 @@
+{
+  "id": 255391,
+  "name": "Mocking Bird",
+  "generation": 13,
+  "created_at": "2017-12-11T23:50:01.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Mocking Bird. In high school, I was voted most likely to work at NASA. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "215324@4",
+  "sire": "212587@12",
+  "children": [
+    "268464@14",
+    "342128@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3750,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 216194,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T15:14:29.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #216194. I'm a professional Mad Scientist and I love lasagna. I once kissed a chimpanzee. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "205725@4",
+  "sire": "33581@5",
+  "children": [
+    "540981@7",
+    "555272@7",
+    "572305@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2936,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 207721,
+  "name": "Fancy ShipCat with Good Genes",
+  "generation": 7,
+  "created_at": "2017-12-10T08:03:00.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Fancy ShipCat with Good Genes. I'm a professional Culinary Sanitation Specialist and I love lasagna. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "178433@4",
+  "sire": "192450@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 553,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 203316,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T04:34:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! My name's Kitty #203316. I once peed on Mother Theresa's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200052@8",
+  "sire": "174745@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2711,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

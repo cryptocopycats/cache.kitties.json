@@ -1,0 +1,24 @@
+{
+  "id": 219070,
+  "name": "ChickyKitty",
+  "generation": 18,
+  "created_at": "2017-12-10T17:27:11.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm ChickyKitty. I enjoy spinning sick beats, fighting for the people, and reading garfield. Sometimes I daydream of a life full of watching Stranger Things, cereal, and riding the bus. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "44919@17",
+  "sire": "85098@16",
+  "children": [
+    "271823@19",
+    "449006@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2977,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

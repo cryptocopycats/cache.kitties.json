@@ -1,0 +1,25 @@
+{
+  "id": 264145,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T07:02:25.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Kitty #264145. I believe the world is flat. Sometimes I daydream of a life full of slappin' da bass, wet food, and practicing witchcraft. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "256358@8",
+  "sire": "261181@7",
+  "children": [
+    "264870@10",
+    "271228@16",
+    "273539@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3946,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

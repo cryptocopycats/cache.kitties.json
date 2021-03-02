@@ -1,0 +1,23 @@
+{
+  "id": 257454,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T01:21:00.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #257454. I'm a professional Spin Instructor  and I love cantaloupe. I once got in a fight with a gecko, and won. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "166512@10",
+  "sire": "171493@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3784,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

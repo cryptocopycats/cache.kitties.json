@@ -1,0 +1,23 @@
+{
+  "id": 215098,
+  "name": "Flat Sphinx",
+  "generation": 5,
+  "created_at": "2017-12-10T14:15:23.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Flat Sphinx. I believe the world is flat. I am 71% sphinx, 9% Mad Scientist, and otherwise bad at math. Will you be the cinammon to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172837@3",
+  "sire": "136601@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2917,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

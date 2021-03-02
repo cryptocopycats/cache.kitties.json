@@ -1,0 +1,24 @@
+{
+  "id": 180466,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-09T11:17:01.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #180466. I've never told anyone this, but I once clawed a dog. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "177257@12",
+  "sire": "118484@14",
+  "children": [
+    "197951@16",
+    "209434@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 496,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

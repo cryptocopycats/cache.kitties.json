@@ -1,0 +1,23 @@
+{
+  "id": 243586,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T13:55:34.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #243586. I enjoy fighting for the people, picking on mice, and eating lasagna. When no one's home, I invite my pals over and we listen to Gloria Estefan. Will you be the soy sauce to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "92520@10",
+  "sire": "238005@8",
+  "children": [
+    "317807@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3493,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

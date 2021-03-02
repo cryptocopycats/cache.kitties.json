@@ -1,0 +1,28 @@
+{
+  "id": 226841,
+  "name": "DuCatty",
+  "generation": 8,
+  "created_at": "2017-12-10T23:02:08.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm DuCatty. In high school, I was voted biggest teacher's pet. My secret indulgence is wet food. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "221783@7",
+  "sire": "222317@6",
+  "children": [
+    "268071@11",
+    "273188@13",
+    "277457@11",
+    "295658@13",
+    "359590@19",
+    "463358@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3133,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

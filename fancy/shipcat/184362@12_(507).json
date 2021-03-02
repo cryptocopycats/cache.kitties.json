@@ -1,0 +1,27 @@
+{
+  "id": 184362,
+  "name": "Your Best Partner!!",
+  "generation": 12,
+  "created_at": "2017-12-09T14:50:35.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Your Best Partner!!. All you need to know about me is I hate apple pie with a passion. I was voted school jock in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "174063@8",
+  "sire": "176242@11",
+  "children": [
+    "187427@13",
+    "253918@13",
+    "266661@13",
+    "282035@13",
+    "290887@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 507,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

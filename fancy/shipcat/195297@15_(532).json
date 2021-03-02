@@ -1,0 +1,29 @@
+{
+  "id": 195297,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-09T23:15:12.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #195297. I'm a professional Train Conductor and I love salad. I am 49% elf, 3% Ventriloquist, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "88277@14",
+  "sire": "93254@12",
+  "children": [
+    "251365@16",
+    "267385@16",
+    "303139@16",
+    "306279@18",
+    "338622@16",
+    "405607@16",
+    "796581@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 532,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

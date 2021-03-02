@@ -1,0 +1,23 @@
+{
+  "id": 263897,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-12T06:51:50.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #263897. My friends describe me as raunchy and despicable. I like to listen to Justin Bieber while grooming. Don't judge me. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152252@7",
+  "sire": "110065@13",
+  "children": [
+    "304267@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3938,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 238756,
+  "name": "double duck parents",
+  "generation": 4,
+  "created_at": "2017-12-11T09:11:57.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm double duck parents. I'm a Train Conductor by day, and I like sleeping in fresh laundry by night. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212178@3",
+  "sire": "229467@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3375,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

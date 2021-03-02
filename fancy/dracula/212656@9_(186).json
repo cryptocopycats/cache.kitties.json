@@ -1,0 +1,23 @@
+{
+  "id": 212656,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T12:12:21.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Kitty #212656 here. I'm here to enjoy glaring at the neighbour's cat and riding unicorns. I like to listen to Michael Bolton while grooming. Don't judge me. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "206726@8",
+  "sire": "206750@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 186,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

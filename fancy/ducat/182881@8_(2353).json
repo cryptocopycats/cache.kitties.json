@@ -1,0 +1,27 @@
+{
+  "id": 182881,
+  "name": "duck",
+  "generation": 8,
+  "created_at": "2017-12-09T13:28:02.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm duck. I'm often referred to as the Homer Simpson of the group. I would give it all up for a Chanel purse. Will you be the maple syrup to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179061@7",
+  "sire": "103194@5",
+  "children": [
+    "191506@10",
+    "194392@9",
+    "212101@10",
+    "288523@15",
+    "295835@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2353,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 191457,
+  "name": "G6 - Snappy",
+  "generation": 6,
+  "created_at": "2017-12-09T20:45:38.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm G6 - Snappy. I enjoy chasing red dots, eating until I loathe myself, and shakin' dat booty. I like to listen to Frank Sinatra while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "104228@4",
+  "sire": "42211@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 526,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

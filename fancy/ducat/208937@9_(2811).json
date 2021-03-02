@@ -1,0 +1,25 @@
+{
+  "id": 208937,
+  "name": "gen9_Virgin_DuCat",
+  "generation": 9,
+  "created_at": "2017-12-10T09:00:32.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm gen9_Virgin_DuCat. I believe the world is flat. I once got in a fight with a goose, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "208115@4",
+  "sire": "171470@8",
+  "children": [
+    "220853@11",
+    "226773@10",
+    "226959@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2811,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

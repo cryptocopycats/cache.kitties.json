@@ -1,0 +1,27 @@
+{
+  "id": 219030,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-10T17:24:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #219030. I'm a professional Ventriloquist and I love cereal. I once got in a fight with a gecko, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192665@12",
+  "sire": "183297@12",
+  "children": [
+    "232254@14",
+    "273072@14",
+    "273743@14",
+    "294182@14",
+    "315994@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2976,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

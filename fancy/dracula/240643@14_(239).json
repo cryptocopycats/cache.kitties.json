@@ -1,0 +1,23 @@
+{
+  "id": 240643,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-11T11:02:18.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Kitty #240643 here. I'm here to enjoy tricking babies and riding dirty. My great-great-great-great-great-great grandkitty lived with Cleopatra. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "235296@13",
+  "sire": "195667@6",
+  "children": [
+    "249544@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 239,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

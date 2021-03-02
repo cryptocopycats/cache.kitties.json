@@ -1,0 +1,30 @@
+{
+  "id": 250079,
+  "name": "B06",
+  "generation": 6,
+  "created_at": "2017-12-11T20:04:26.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm B06. I want to live in a world where people believe the world is flat. I once dreamed of being a Skydiving Instructor. Now I can be found watching reality tv all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "215160@5",
+  "sire": "219217@5",
+  "children": [
+    "263730@7",
+    "264426@7",
+    "267497@7",
+    "283106@7",
+    "289937@7",
+    "305959@7",
+    "327113@7",
+    "362042@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3639,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

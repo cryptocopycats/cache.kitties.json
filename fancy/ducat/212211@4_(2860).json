@@ -1,0 +1,29 @@
+{
+  "id": 212211,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-10T11:48:59.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #212211. I enjoy fighting the patriarchy, slappin' da bass, and licking doorknobs. When I'm not running a podcast, I'm jump-roping! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "207177@3",
+  "sire": "154608@3",
+  "children": [
+    "215709@5",
+    "256301@5",
+    "271429@5",
+    "293858@5",
+    "551207@5",
+    "556506@5",
+    "657694@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2860,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

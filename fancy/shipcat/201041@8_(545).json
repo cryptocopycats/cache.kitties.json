@@ -1,0 +1,29 @@
+{
+  "id": 201041,
+  "name": "Lucky*Choco-4x!",
+  "generation": 8,
+  "created_at": "2017-12-10T02:54:45.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Lucky*Choco-4x!. I enjoy sweating through my feet, spinning sick beats, and chasing red dots. I once tricked a chimpanzee. I don't like to talk about it. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "97518@6",
+  "sire": "146102@7",
+  "children": [
+    "211025@9",
+    "235623@9",
+    "248937@16",
+    "295608@11",
+    "300890@9",
+    "320118@10",
+    "542384@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 545,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 265477,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T08:13:37.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #265477. I'm a Aerobics Athlete  by day, and I like talking about how much I lift by night. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "133749@6",
+  "sire": "169393@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3985,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 261259,
+  "name": "VAMPS",
+  "generation": 15,
+  "created_at": "2017-12-12T04:44:49.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm VAMPS. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Princess Diana. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "256262@14",
+  "sire": "256100@10",
+  "children": [
+    "263437@16",
+    "280985@18",
+    "288414@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 300,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

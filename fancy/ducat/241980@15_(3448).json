@@ -1,0 +1,24 @@
+{
+  "id": 241980,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-11T12:23:23.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Kitty #241980. I once peed on Confucius's cat. They had it coming. I once bit a goose. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "106772@14",
+  "sire": "174114@14",
+  "children": [
+    "280860@17",
+    "285403@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3448,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

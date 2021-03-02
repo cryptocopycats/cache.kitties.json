@@ -1,0 +1,27 @@
+{
+  "id": 185878,
+  "name": "Cleopatra",
+  "generation": 9,
+  "created_at": "2017-12-09T16:23:59.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Cleopatra. My friends describe me as annoying and wondrous. I once dreamed of being a Foreign Film Director. Now I can be found sleeping in fresh laundry all day. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "165399@8",
+  "sire": "161410@7",
+  "children": [
+    "232650@13",
+    "235172@10",
+    "238932@10",
+    "265097@12",
+    "280406@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2403,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

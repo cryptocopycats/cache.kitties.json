@@ -1,0 +1,26 @@
+{
+  "id": 182759,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-09T13:22:12.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Kitty #182759. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I like to listen to Gloria Estefan while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "143681@3",
+  "sire": "136211@3",
+  "children": [
+    "183087@5",
+    "185984@5",
+    "199696@5",
+    "218136@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2350,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

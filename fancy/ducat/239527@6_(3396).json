@@ -1,0 +1,23 @@
+{
+  "id": 239527,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T09:56:13.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #239527. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Michael Bolton. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156817@5",
+  "sire": "191178@5",
+  "children": [
+    "253134@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3396,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

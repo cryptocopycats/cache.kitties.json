@@ -1,0 +1,23 @@
+{
+  "id": 177639,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-09T08:46:20.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #177639. I've never told anyone this, but I once pranced with a dog. I once got in a fight with a goose, and won. Our friendship will be smelly, voluptuous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "157222@4",
+  "sire": "177140@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 486,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

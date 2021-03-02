@@ -1,0 +1,30 @@
+{
+  "id": 203393,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T04:36:28.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #203393. I'm a Ventriloquist by day, and I like reading Danielle Steele by night. I once dreamed of being a Mad Scientist. Now I can be found volunteering at the local kitten rescue shelter all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189060@4",
+  "sire": "201142@4",
+  "children": [
+    "203862@6",
+    "204701@6",
+    "205583@6",
+    "209295@6",
+    "224500@6",
+    "239000@6",
+    "250152@6",
+    "657710@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2714,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

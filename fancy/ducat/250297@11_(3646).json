@@ -1,0 +1,25 @@
+{
+  "id": 250297,
+  "name": "Mom",
+  "generation": 11,
+  "created_at": "2017-12-11T20:13:23.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Mom. All you need to know about me is I hate lasagna with a passion. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. Will you be the peanut butter to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121051@10",
+  "sire": "232415@10",
+  "children": [
+    "279202@20",
+    "294328@12",
+    "332999@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3646,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

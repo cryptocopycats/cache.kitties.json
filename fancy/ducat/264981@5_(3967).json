@@ -1,0 +1,32 @@
+{
+  "id": 264981,
+  "name": "VIRGIN 0.0001% mother",
+  "generation": 5,
+  "created_at": "2017-12-12T07:47:29.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm VIRGIN 0.0001% mother. I'm a Skydiving Instructor by day, and I like braiding people's hair by night. When no one's home, I invite my pals over and we listen to Mariah Carey. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "256489@3",
+  "sire": "187718@4",
+  "children": [
+    "283444@7",
+    "287348@6",
+    "303979@8",
+    "305937@8",
+    "321665@7",
+    "322126@6",
+    "333398@6",
+    "417772@6",
+    "474448@8",
+    "1100678@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3967,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

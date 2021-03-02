@@ -1,0 +1,25 @@
+{
+  "id": 189908,
+  "name": "Fancy Red the 1st",
+  "generation": 10,
+  "created_at": "2017-12-09T19:47:32.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Fancy Red the 1st. I enjoy sweating through my feet, slappin' da bass, and taking selfies. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "185652@8",
+  "sire": "121587@9",
+  "children": [
+    "206807@11",
+    "243932@12",
+    "254344@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2475,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

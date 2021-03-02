@@ -1,0 +1,23 @@
+{
+  "id": 232408,
+  "name": "始祖鸟",
+  "generation": 6,
+  "created_at": "2017-12-11T03:23:04.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm 始祖鸟. I've never told anyone this, but I once bit a dog. My secret indulgence is apple pie. Our friendship will be seductive, petulant, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156817@5",
+  "sire": "191178@5",
+  "children": [
+    "1330877@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3238,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 238901,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T09:21:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #238901. I want to live in a world where people believe that one day cats will rule this planet. I put soy sauce on everything. Like, everything: hot dogs, steak—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "228014@7",
+  "sire": "137039@6",
+  "children": [
+    "260716@17",
+    "282613@11",
+    "285365@10",
+    "291633@10",
+    "319958@10",
+    "340523@9",
+    "559769@9",
+    "581886@9",
+    "589710@10",
+    "625004@13",
+    "666419@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 232,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

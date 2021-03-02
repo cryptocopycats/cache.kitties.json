@@ -1,0 +1,23 @@
+{
+  "id": 239599,
+  "name": "Gen9 DRACULA",
+  "generation": 9,
+  "created_at": "2017-12-11T09:59:14.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen9 DRACULA. I've never told anyone this, but I once headbutted a dog. I once made a gecko sulk. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "239014@8",
+  "sire": "238632@8",
+  "children": [
+    "245711@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 237,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

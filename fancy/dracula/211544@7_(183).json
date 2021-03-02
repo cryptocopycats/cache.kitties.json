@@ -1,0 +1,29 @@
+{
+  "id": 211544,
+  "name": "Count Kodkod",
+  "generation": 7,
+  "created_at": "2017-12-10T11:15:52.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Count Kodkod. I've never told anyone this, but I once bit a dog. Some people say I'm the Hermione Granger of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "130931@6",
+  "sire": "192418@4",
+  "children": [
+    "252436@8",
+    "259750@11",
+    "295697@8",
+    "302507@8",
+    "379876@8",
+    "383887@8",
+    "395617@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 183,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

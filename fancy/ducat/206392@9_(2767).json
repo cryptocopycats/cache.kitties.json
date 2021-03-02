@@ -1,0 +1,25 @@
+{
+  "id": 206392,
+  "name": "BirdyKitty",
+  "generation": 9,
+  "created_at": "2017-12-10T06:56:03.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm BirdyKitty. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Cleopatra. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "111624@8",
+  "sire": "170438@7",
+  "children": [
+    "214649@10",
+    "221251@10",
+    "224653@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2767,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

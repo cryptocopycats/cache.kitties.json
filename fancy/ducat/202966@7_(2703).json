@@ -1,0 +1,26 @@
+{
+  "id": 202966,
+  "name": "Fancy Virgin DuckCat Gen7",
+  "generation": 7,
+  "created_at": "2017-12-10T04:17:37.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Fancy Virgin DuckCat Gen7. I've never told anyone this, but I once loved a dog. In my free time, I can usually be found gullible or playing chess. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126040@6",
+  "sire": "119313@6",
+  "children": [
+    "211150@8",
+    "221357@12",
+    "227316@12",
+    "281860@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2703,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

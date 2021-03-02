@@ -1,0 +1,26 @@
+{
+  "id": 224901,
+  "name": "VIRGIN RARE $$$",
+  "generation": 4,
+  "created_at": "2017-12-10T21:47:47.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm VIRGIN RARE $$. I believe the world is flat. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, wet food—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "191936@3",
+  "sire": "197094@3",
+  "children": [
+    "227275@6",
+    "228932@6",
+    "236732@6",
+    "266759@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 603,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

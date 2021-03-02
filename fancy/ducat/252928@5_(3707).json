@@ -1,0 +1,29 @@
+{
+  "id": 252928,
+  "name": "Maida",
+  "generation": 5,
+  "created_at": "2017-12-11T22:05:56.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Maida. My friends describe me as brilliant and gorgeous. In my free time, I can usually be found seductive or jump-roping. Can you make my raunchy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "101486@4",
+  "sire": "99125@4",
+  "children": [
+    "253171@6",
+    "253505@6",
+    "254369@6",
+    "256372@6",
+    "293284@6",
+    "298970@6",
+    "362550@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3707,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

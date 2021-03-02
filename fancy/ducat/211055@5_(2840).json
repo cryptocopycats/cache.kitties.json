@@ -1,0 +1,26 @@
+{
+  "id": 211055,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T10:50:49.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #211055. I believe that one day cats will rule this planet. When I'm not tricking babies, I'm pole dancing! I hope we can be ridiculous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "204739@4",
+  "sire": "205067@3",
+  "children": [
+    "274148@6",
+    "274762@6",
+    "275092@6",
+    "276535@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2840,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

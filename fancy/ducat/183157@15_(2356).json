@@ -1,0 +1,25 @@
+{
+  "id": 183157,
+  "name": "Winged Catmander",
+  "generation": 15,
+  "created_at": "2017-12-09T13:43:48.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Winged Catmander. I want to live in a world where people believe the world is flat. In my free time, I can usually be found voluptuous or pole dancing. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "177669@14",
+  "sire": "140099@13",
+  "children": [
+    "216669@16",
+    "301005@16",
+    "348342@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2356,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

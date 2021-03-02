@@ -1,0 +1,27 @@
+{
+  "id": 247974,
+  "name": "Flap Flop",
+  "generation": 4,
+  "created_at": "2017-12-11T18:04:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Flap Flop. My friends describe me as tantalizing and gullible. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239944@3",
+  "sire": "202594@3",
+  "children": [
+    "248333@5",
+    "503900@7",
+    "505682@5",
+    "505801@6",
+    "509709@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3598,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

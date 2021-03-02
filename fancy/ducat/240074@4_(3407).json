@@ -1,0 +1,25 @@
+{
+  "id": 240074,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T10:26:05.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! My name's Kitty #240074. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131563@3",
+  "sire": "226673@3",
+  "children": [
+    "241763@5",
+    "242089@11",
+    "275796@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3407,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

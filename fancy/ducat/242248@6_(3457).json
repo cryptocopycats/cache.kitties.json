@@ -1,0 +1,26 @@
+{
+  "id": 242248,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T12:37:10.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #242248. I'm a professional Spin Instructor  and I love apple pie. Sometimes I daydream of a life full of fighting the patriarchy, hamburgers, and summoning ghosts. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241493@5",
+  "sire": "143644@5",
+  "children": [
+    "271618@7",
+    "273306@7",
+    "282442@7",
+    "288304@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3457,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 218156,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-10T16:49:16.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #218156. In high school, I was voted most likely to work at NASA. I'm often described as gullible, and I own it. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147982@3",
+  "sire": "172798@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2962,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 187080,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T17:36:50.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #187080. I've never told anyone this, but I once bit a dog. I am 17% sphinx, 58% Aerobics Athlete , and otherwise bad at math. Will you be the soy sauce to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "186619@5",
+  "sire": "182936@5",
+  "children": [
+    "187387@7",
+    "190460@7",
+    "223939@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2422,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

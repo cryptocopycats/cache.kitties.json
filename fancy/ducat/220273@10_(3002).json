@@ -1,0 +1,26 @@
+{
+  "id": 220273,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T18:23:20.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Kitty #220273 here. I'm here to enjoy slappin' da bass and grooming. I would give it all up to star in a soap opera. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135981@9",
+  "sire": "199757@9",
+  "children": [
+    "221702@11",
+    "223855@11",
+    "227606@11",
+    "244314@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3002,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

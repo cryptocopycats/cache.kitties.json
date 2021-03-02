@@ -1,0 +1,25 @@
+{
+  "id": 250462,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-11T20:19:32.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #250462. I enjoy hitting on yo' man, glaring at the neighbour's cat, and eating until I loathe myself. Sometimes I daydream of a life full of reading garfield, wet food, and running a podcast. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "194620@14",
+  "sire": "172396@15",
+  "children": [
+    "273777@17",
+    "293691@17",
+    "759349@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3651,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

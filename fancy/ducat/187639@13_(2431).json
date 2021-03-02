@@ -1,0 +1,23 @@
+{
+  "id": 187639,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-09T18:04:15.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #187639. I'm a Dispensary Clerk by day, and I like talking about how much I lift by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81581@7",
+  "sire": "178354@12",
+  "children": [
+    "193450@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2431,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

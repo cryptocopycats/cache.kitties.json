@@ -1,0 +1,29 @@
+{
+  "id": 180358,
+  "name": "Double Parent Birdie",
+  "generation": 7,
+  "created_at": "2017-12-09T11:10:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! Double Parent Birdie here. I'm here to enjoy fighting for the people and slappin' da bass. I am 70% fairy, 94% Skydiving Instructor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "54794@6",
+  "sire": "41923@6",
+  "children": [
+    "186972@10",
+    "188887@9",
+    "222376@10",
+    "230577@10",
+    "260487@10",
+    "285776@8",
+    "327468@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2312,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

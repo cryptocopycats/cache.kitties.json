@@ -1,0 +1,23 @@
+{
+  "id": 226467,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T22:46:16.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #226467. I've never told anyone this, but I once bit a dog. Some people say I'm the Peter Griffin of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "212426@9",
+  "sire": "218533@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 40,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

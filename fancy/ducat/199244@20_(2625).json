@@ -1,0 +1,23 @@
+{
+  "id": 199244,
+  "name": "Birdperson",
+  "generation": 20,
+  "created_at": "2017-12-10T01:42:49.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Birdperson. My friends describe me as vegan and preposterous. I am 74% troll, 66% Train Conductor, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132176@4",
+  "sire": "83991@19",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2625,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

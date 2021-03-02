@@ -1,0 +1,33 @@
+{
+  "id": 226682,
+  "name": "Gen 3 DuCat SWIFT! Cheapest",
+  "generation": 3,
+  "created_at": "2017-12-10T22:55:00.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Gen 3 DuCat SWIFT! Cheapest. I'm often referred to as the Homer Simpson of the group. When no one's home, I invite my pals over and we listen to Rihanna. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160038@2",
+  "sire": "96181@2",
+  "children": [
+    "227281@4",
+    "235116@4",
+    "240529@4",
+    "242735@4",
+    "245154@4",
+    "248374@4",
+    "248691@4",
+    "255103@4",
+    "268421@4",
+    "285058@4",
+    "306192@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3125,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

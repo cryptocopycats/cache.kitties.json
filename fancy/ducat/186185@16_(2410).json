@@ -1,0 +1,24 @@
+{
+  "id": 186185,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-09T16:41:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #186185. My friends describe me as stinky and voluptuous. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be gullible friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "174056@15",
+  "sire": "167583@15",
+  "children": [
+    "245873@17",
+    "305686@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2410,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

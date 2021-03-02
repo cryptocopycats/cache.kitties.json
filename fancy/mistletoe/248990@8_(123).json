@@ -1,0 +1,26 @@
+{
+  "id": 248990,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T19:02:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #248990. I enjoy shakin' dat booty, watching Stranger Things, and fighting the patriarchy. I once got in a fight with a platypus, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "248506@5",
+  "sire": "245653@7",
+  "children": [
+    "249873@9",
+    "354010@9",
+    "372600@13",
+    "376939@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 123,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

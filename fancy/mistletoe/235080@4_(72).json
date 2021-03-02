@@ -1,0 +1,23 @@
+{
+  "id": 235080,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T05:40:37.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #235080. I've never told anyone this, but I once bit a dog. I am 72% troll, 37% Spin Instructor , and otherwise bad at math. Will you be the ghost pepper hot sauce to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "232771@3",
+  "sire": "203888@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 72,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

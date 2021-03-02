@@ -1,0 +1,23 @@
+{
+  "id": 243494,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T13:49:53.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #243494. I believe that one day cats will rule this planet. In my free time, I can usually be found annoying or running a podcast. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "240360@9",
+  "sire": "240667@9",
+  "children": [
+    "249088@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 252,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

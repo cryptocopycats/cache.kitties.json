@@ -1,0 +1,23 @@
+{
+  "id": 195450,
+  "name": "Dracula, Gen 9! (#155 / 2,000)",
+  "generation": 9,
+  "created_at": "2017-12-09T23:19:03.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Dracula, Gen 9! (#155 / 2,000). I've never told anyone this, but I once clawed a dog. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "173359@8",
+  "sire": "125958@4",
+  "children": [
+    "263590@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 155,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

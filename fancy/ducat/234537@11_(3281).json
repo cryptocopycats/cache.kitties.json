@@ -1,0 +1,23 @@
+{
+  "id": 234537,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T05:15:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's Kitty #234537. I once peed on Amelia Earhart's cat. They had it coming. I was voted biggest teacher's pet in college. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "144777@10",
+  "sire": "173739@10",
+  "children": [
+    "265107@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3281,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

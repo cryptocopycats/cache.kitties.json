@@ -1,0 +1,23 @@
+{
+  "id": 219311,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-10T17:38:24.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #219311. I've never told anyone this, but I once tricked a dog. Sometimes I daydream of a life full of staying woke, apple pie, and swiping right. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "137335@6",
+  "sire": "77369@17",
+  "children": [
+    "1105626@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2982,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

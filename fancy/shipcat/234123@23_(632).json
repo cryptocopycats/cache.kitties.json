@@ -1,0 +1,27 @@
+{
+  "id": 234123,
+  "name": "SailorToon",
+  "generation": 23,
+  "created_at": "2017-12-11T04:57:33.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm SailorToon. I'm a Dogwalker by day, and I like summoning ghosts by night. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "14479@15",
+  "sire": "140782@22",
+  "children": [
+    "244046@24",
+    "354740@24",
+    "416976@25",
+    "791096@24",
+    "801728@24"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 632,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

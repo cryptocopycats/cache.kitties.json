@@ -1,0 +1,24 @@
+{
+  "id": 191806,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T21:00:54.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! My name's Kitty #191806. I once peed on Princess Diana's cat. They had it coming. Sometimes I daydream of a life full of glaring at the neighbour's cat, hamburgers, and riding the bus. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189588@5",
+  "sire": "191178@5",
+  "children": [
+    "192583@8",
+    "201292@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2507,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 206584,
+  "name": "2x Fancy Children",
+  "generation": 7,
+  "created_at": "2017-12-10T07:03:42.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm 2x Fancy Children. In high school, I was voted biggest teacher's pet. My secret indulgence is cereal. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "205928@5",
+  "sire": "58114@6",
+  "children": [
+    "207375@9",
+    "209287@8",
+    "217848@8",
+    "221649@8",
+    "225608@8",
+    "239017@8",
+    "263924@8",
+    "273567@8",
+    "342095@12",
+    "353911@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 550,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

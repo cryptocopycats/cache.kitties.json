@@ -1,0 +1,26 @@
+{
+  "id": 245629,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-11T15:48:41.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #245629. My friends describe me as despicable and fabulous. I'm often described as stinky, and I own it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "238686@14",
+  "sire": "146264@11",
+  "children": [
+    "285648@16",
+    "315263@16",
+    "342296@16",
+    "371967@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3551,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

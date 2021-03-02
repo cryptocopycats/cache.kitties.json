@@ -1,0 +1,27 @@
+{
+  "id": 250723,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T20:32:36.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! My name's Kitty #250723. I once peed on Princess Diana's cat. They had it coming. I am 29% wizard, 76% Culinary Sanitation Specialist, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "244002@6",
+  "sire": "245294@6",
+  "children": [
+    "261881@15",
+    "297691@8",
+    "335621@8",
+    "408337@8",
+    "466910@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3658,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

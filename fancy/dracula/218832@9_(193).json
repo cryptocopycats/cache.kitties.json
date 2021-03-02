@@ -1,0 +1,26 @@
+{
+  "id": 218832,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T17:18:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #218832. I'm often referred to as the Lisa Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "218081@8",
+  "sire": "215624@8",
+  "children": [
+    "220505@10",
+    "229835@10",
+    "236859@10",
+    "247296@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 193,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

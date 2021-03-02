@@ -1,0 +1,23 @@
+{
+  "id": 243776,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T14:08:47.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #243776. I enjoy reading garfield, slappin' da bass, and breakdancing. I once made a goose dance. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "242510@6",
+  "sire": "219157@6",
+  "children": [
+    "246375@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 648,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

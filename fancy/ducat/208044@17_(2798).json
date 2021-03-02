@@ -1,0 +1,23 @@
+{
+  "id": 208044,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-10T08:16:18.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #208044. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is lasagna. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94679@16",
+  "sire": "94470@6",
+  "children": [
+    "294692@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2798,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 229360,
+  "name": "Цыпа",
+  "generation": 12,
+  "created_at": "2017-12-11T00:55:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Цыпа. I believe that one day cats will rule this planet. When I'm not swiping right, I'm siring for status! Our friendship will be vegan, annoying, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227406@11",
+  "sire": "225517@10",
+  "children": [
+    "230128@13",
+    "288527@13",
+    "302496@13",
+    "498091@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3181,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

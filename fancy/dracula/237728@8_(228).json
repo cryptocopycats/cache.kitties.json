@@ -1,0 +1,25 @@
+{
+  "id": 237728,
+  "name": "Dreckulla",
+  "generation": 8,
+  "created_at": "2017-12-11T08:12:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Dreckulla. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "225827@7",
+  "sire": "235513@2",
+  "children": [
+    "242064@16",
+    "269519@22",
+    "289206@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 228,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

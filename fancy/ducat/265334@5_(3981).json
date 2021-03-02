@@ -1,0 +1,25 @@
+{
+  "id": 265334,
+  "name": "Marilyn Monroe",
+  "generation": 5,
+  "created_at": "2017-12-12T08:06:11.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Marilyn Monroe. I enjoy taking selfies, chasing red dots, and chasing string. I once dreamed of being a Dispensary Clerk. Now I can be found braiding people's hair all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "264658@2",
+  "sire": "264057@4",
+  "children": [
+    "285717@6",
+    "319608@6",
+    "333948@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3981,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

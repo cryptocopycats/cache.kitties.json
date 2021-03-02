@@ -1,0 +1,23 @@
+{
+  "id": 180982,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-09T11:41:24.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #180982. I'm a Ventriloquist by day, and I like jump-roping by night. I once made a rooster lay. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "177498@9",
+  "sire": "178810@8",
+  "children": [
+    "182460@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2325,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

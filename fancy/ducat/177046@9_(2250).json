@@ -1,0 +1,23 @@
+{
+  "id": 177046,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-09T08:14:25.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #177046. I'm a Ventriloquist by day, and I like swiping right by night. I once dreamed of being a Dispensary Clerk. Now I can be found pole dancing all day. Will you be the wasabi to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "176430@7",
+  "sire": "176387@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2250,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

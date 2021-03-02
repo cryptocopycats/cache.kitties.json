@@ -1,0 +1,32 @@
+{
+  "id": 190349,
+  "name": "Nicely Birdy G5",
+  "generation": 5,
+  "created_at": "2017-12-09T20:05:52.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Nicely Birdy G5. I'm a professional Foreign Film Director and I love salad. I am 55% sphinx, 64% Ventriloquist, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189523@4",
+  "sire": "188666@4",
+  "children": [
+    "204178@18",
+    "226992@6",
+    "234569@6",
+    "237944@6",
+    "240310@6",
+    "245415@6",
+    "261999@6",
+    "278031@6",
+    "295889@6",
+    "307732@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2483,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

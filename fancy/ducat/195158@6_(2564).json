@@ -1,0 +1,24 @@
+{
+  "id": 195158,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T23:08:19.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #195158. I've never told anyone this, but I once cleaned a dog. I like to listen to Gloria Estefan while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "190690@2",
+  "sire": "147511@5",
+  "children": [
+    "211436@10",
+    "293094@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2564,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

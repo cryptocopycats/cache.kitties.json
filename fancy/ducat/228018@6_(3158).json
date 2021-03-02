@@ -1,0 +1,31 @@
+{
+  "id": 228018,
+  "name": "Wesey",
+  "generation": 6,
+  "created_at": "2017-12-10T23:50:03.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Wesey. I'm a professional Ventriloquist and I love apple pie. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212907@4",
+  "sire": "205102@5",
+  "children": [
+    "228691@7",
+    "229623@15",
+    "243940@17",
+    "244534@9",
+    "272252@7",
+    "289865@8",
+    "316655@18",
+    "340186@7",
+    "367021@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3158,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

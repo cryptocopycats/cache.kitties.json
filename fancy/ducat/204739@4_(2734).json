@@ -1,0 +1,31 @@
+{
+  "id": 204739,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-10T05:37:50.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #204739. In high school, I was voted school jock. Sometimes I daydream of a life full of reading garfield, lasagna, and prank-calling celebrities. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131780@3",
+  "sire": "192484@3",
+  "children": [
+    "211055@5",
+    "211238@5",
+    "211889@5",
+    "213433@5",
+    "296962@8",
+    "298192@21",
+    "309855@8",
+    "324820@10",
+    "347499@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2734,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

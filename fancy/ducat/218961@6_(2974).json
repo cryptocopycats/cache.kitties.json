@@ -1,0 +1,23 @@
+{
+  "id": 218961,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T17:21:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #218961. I want to live in a world where people believe the world is flat. My secret indulgence is cantaloupe. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "190077@5",
+  "sire": "171831@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2974,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

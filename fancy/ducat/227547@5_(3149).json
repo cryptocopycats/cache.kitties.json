@@ -1,0 +1,29 @@
+{
+  "id": 227547,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T23:30:24.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #227547. My friends describe me as annoying and hairy. I like to listen to Coldplay while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "218508@4",
+  "sire": "212863@3",
+  "children": [
+    "236279@6",
+    "240225@6",
+    "242612@6",
+    "252239@6",
+    "273005@6",
+    "311097@6",
+    "312940@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3149,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

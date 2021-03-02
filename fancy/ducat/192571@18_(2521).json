@@ -1,0 +1,24 @@
+{
+  "id": 192571,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-09T21:31:59.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #192571. My friends describe me as ridiculous and fabulous. I'm convinced that the world is flat. One day I'll prove it. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "137812@17",
+  "sire": "79498@10",
+  "children": [
+    "225150@20",
+    "283700@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2521,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 255645,
+  "name": "Gen8 | Fancy - Mistletoe",
+  "generation": 8,
+  "created_at": "2017-12-12T00:01:05.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Gen8 | Fancy - Mistletoe. In high school, I was voted school jock. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "254876@6",
+  "sire": "239716@7",
+  "children": [
+    "255988@9",
+    "257221@9",
+    "264677@9",
+    "276655@9",
+    "286447@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 141,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

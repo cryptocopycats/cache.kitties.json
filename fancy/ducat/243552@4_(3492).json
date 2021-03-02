@@ -1,0 +1,27 @@
+{
+  "id": 243552,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T13:52:45.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #243552. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of spinning sick beats, cereal, and prank-calling celebrities. Will you be the ghost pepper hot sauce to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219841@3",
+  "sire": "222839@3",
+  "children": [
+    "243901@5",
+    "244064@5",
+    "244710@5",
+    "251226@5",
+    "283533@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3492,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 200068,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T02:13:31.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! Kitty #200068 here. I'm here to enjoy spinning sick beats and shakin' dat booty. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "38801@9",
+  "sire": "62304@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2637,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

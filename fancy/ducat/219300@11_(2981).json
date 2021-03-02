@@ -1,0 +1,23 @@
+{
+  "id": 219300,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T17:38:17.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! Kitty #219300 here. I'm here to enjoy reciting poetry and chasing red dots. Some people say I'm the Michael Scott of the group. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "150287@7",
+  "sire": "171700@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2981,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

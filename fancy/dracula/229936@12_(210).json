@@ -1,0 +1,29 @@
+{
+  "id": 229936,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T01:23:28.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #229936. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "225847@10",
+  "sire": "217074@11",
+  "children": [
+    "230987@13",
+    "235296@13",
+    "246056@13",
+    "248756@13",
+    "270949@13",
+    "291293@13",
+    "335984@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 210,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

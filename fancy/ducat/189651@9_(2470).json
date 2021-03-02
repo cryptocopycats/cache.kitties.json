@@ -1,0 +1,25 @@
+{
+  "id": 189651,
+  "name": "♔DuCat with a rare gene Fancy♔",
+  "generation": 9,
+  "created_at": "2017-12-09T19:36:45.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! My name's ♔DuCat with a rare gene Fancy♔. I once peed on Marie Antoinette's cat. They had it coming. I put marmite on everything. Like, everything: hot dogs, ice cream—everything! I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "157300@7",
+  "sire": "100717@8",
+  "children": [
+    "219410@10",
+    "221153@10",
+    "305737@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2470,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

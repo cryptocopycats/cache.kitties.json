@@ -1,0 +1,26 @@
+{
+  "id": 195625,
+  "name": "DuCati Desmosedici",
+  "generation": 12,
+  "created_at": "2017-12-09T23:25:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm DuCati Desmosedici. All you need to know about me is I hate apple pie with a passion. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "149330@11",
+  "sire": "143688@7",
+  "children": [
+    "522683@13",
+    "553481@13",
+    "595674@13",
+    "653843@134"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2574,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

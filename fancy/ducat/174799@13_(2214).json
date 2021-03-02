@@ -1,0 +1,23 @@
+{
+  "id": 174799,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-09T06:35:53.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #174799. I'm a Foreign Film Director by day, and I like siring for status by night. I once made a moose leap. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "82848@12",
+  "sire": "100101@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2214,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

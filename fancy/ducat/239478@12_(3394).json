@@ -1,0 +1,24 @@
+{
+  "id": 239478,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-11T09:53:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #239478. I want to live in a world where people believe that one day cats will rule this planet. I am 44% troll, 73% Spin Instructor , and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228234@9",
+  "sire": "232231@11",
+  "children": [
+    "251105@13",
+    "328411@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3394,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

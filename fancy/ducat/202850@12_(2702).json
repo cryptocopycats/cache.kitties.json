@@ -1,0 +1,23 @@
+{
+  "id": 202850,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-10T04:12:59.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #202850. I enjoy shakin' dat booty, hitting on yo' man, and licking doorknobs. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142346@7",
+  "sire": "146905@11",
+  "children": [
+    "207627@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2702,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

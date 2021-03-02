@@ -1,0 +1,23 @@
+{
+  "id": 181118,
+  "name": "Dracula2-2",
+  "generation": 13,
+  "created_at": "2017-12-09T11:48:05.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Dracula2-2. My friends describe me as petulant and voluptuous. I once got in a fight with a platypus, and won. I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126636@12",
+  "sire": "120444@11",
+  "children": [
+    "241185@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2327,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

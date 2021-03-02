@@ -1,0 +1,25 @@
+{
+  "id": 239329,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-11T09:42:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #239329. My friends describe me as ridiculous and raunchy. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "234089@4",
+  "sire": "223963@4",
+  "children": [
+    "265743@8",
+    "303701@6",
+    "306823@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3391,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

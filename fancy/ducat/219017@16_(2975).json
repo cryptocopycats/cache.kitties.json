@@ -1,0 +1,25 @@
+{
+  "id": 219017,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-10T17:23:46.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #219017. I'm often referred to as the Peter Griffin of the group. I'm often described as stinky, and I own it. I look forward to sitting on your computer with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200304@15",
+  "sire": "206020@8",
+  "children": [
+    "237220@17",
+    "314482@21",
+    "344702@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2975,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

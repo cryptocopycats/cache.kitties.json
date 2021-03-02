@@ -1,0 +1,27 @@
+{
+  "id": 241790,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T12:13:49.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #241790. I believe that one day cats will rule this planet. When I'm not braiding people's hair, I'm watching reality tv! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "169902@6",
+  "sire": "93336@9",
+  "children": [
+    "263416@11",
+    "286701@17",
+    "298436@18",
+    "319928@14",
+    "346767@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3445,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

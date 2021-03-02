@@ -1,0 +1,27 @@
+{
+  "id": 178457,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-09T09:29:06.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #178457. My friends describe me as seductive and prickly. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "122325@9",
+  "sire": "67321@7",
+  "children": [
+    "228516@11",
+    "282681@12",
+    "295720@11",
+    "305440@11",
+    "371001@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 127,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

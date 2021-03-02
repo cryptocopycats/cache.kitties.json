@@ -1,0 +1,27 @@
+{
+  "id": 193282,
+  "name": "Rare DuckCat - Virgin",
+  "generation": 8,
+  "created_at": "2017-12-09T21:57:47.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! Rare DuckCat - Virgin here. I'm here to enjoy riding dirty and breakdancing. When I'm not swiping left, I'm riding the bus! Our friendship will be smelly, annoying, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "99058@7",
+  "sire": "161251@6",
+  "children": [
+    "248863@9",
+    "262369@16",
+    "266418@12",
+    "300471@20",
+    "319024@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2536,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 206959,
+  "name": "x2 DuCat + AceOfBase + Crime",
+  "generation": 3,
+  "created_at": "2017-12-10T07:23:42.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm x2 DuCat + AceOfBase + Crime. My friends describe me as annoying and hairy. I like to listen to Ace of Base while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200230@2",
+  "sire": "176519@2",
+  "children": [
+    "222815@4",
+    "247865@4",
+    "251125@4",
+    "260636@5",
+    "264147@5",
+    "266957@5",
+    "273436@5",
+    "309994@5",
+    "337847@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2777,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

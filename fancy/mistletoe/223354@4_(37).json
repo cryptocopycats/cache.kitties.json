@@ -1,0 +1,23 @@
+{
+  "id": 223354,
+  "name": "Santa Paws",
+  "generation": 4,
+  "created_at": "2017-12-10T20:44:18.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Santa Paws. I enjoy sweating through my feet, picking flowers, and hitting on yo' man. I am 90% hobbit, 3% Dispensary Clerk, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "208445@3",
+  "sire": "212773@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 37,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 242591,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T13:00:25.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! Kitty #242591 here. I'm here to enjoy grooming and riding unicorns. My friends describe me as \"raunchy.\" It's... accurate. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "175806@8",
+  "sire": "151538@9",
+  "children": [
+    "243873@11",
+    "251181@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3467,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

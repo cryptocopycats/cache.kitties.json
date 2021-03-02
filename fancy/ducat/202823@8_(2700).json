@@ -1,0 +1,23 @@
+{
+  "id": 202823,
+  "name": "Phoebe",
+  "generation": 8,
+  "created_at": "2017-12-10T04:11:10.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Phoebe. I enjoy tripping my owner, breakdancing, and taking selfies. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "169845@4",
+  "sire": "78408@7",
+  "children": [
+    "277282@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2700,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 247012,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T17:08:34.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #247012. I've never told anyone this, but I once clawed a dog. I put garlic butter on everything. Like, everything: hot dogs, chocolate—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224295@10",
+  "sire": "179709@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3577,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

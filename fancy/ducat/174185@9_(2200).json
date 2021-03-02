@@ -1,0 +1,24 @@
+{
+  "id": 174185,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-09T06:08:22.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #174185. I'm a Aerobics Athlete  by day, and I like playing chess by night. Sometimes I daydream of a life full of tricking babies, chocolate, and siring for status. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "167856@8",
+  "sire": "120984@1",
+  "children": [
+    "214825@15",
+    "231632@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2200,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 176254,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-09T07:35:02.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! My name's Kitty #176254. I once peed on Amelia Earhart's cat. They had it coming. When no one's home, I invite my pals over and we listen to Frank Sinatra. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "146772@6",
+  "sire": "145450@6",
+  "children": [
+    "192598@8",
+    "240001@8",
+    "247129@11",
+    "432883@8",
+    "470376@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2235,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

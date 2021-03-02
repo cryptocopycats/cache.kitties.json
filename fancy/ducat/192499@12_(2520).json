@@ -1,0 +1,29 @@
+{
+  "id": 192499,
+  "name": "Leftersimov Pigeoncat",
+  "generation": 12,
+  "created_at": "2017-12-09T21:28:25.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Leftersimov Pigeoncat. I enjoy spinning sick beats, riding unicorns, and reciting poetry. I like to listen to Mariah Carey while grooming. Don't judge me. I hope we can be gorgeous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81017@11",
+  "sire": "115530@10",
+  "children": [
+    "199420@13",
+    "919202@14",
+    "942019@14",
+    "1709892@13",
+    "1716735@13",
+    "1717126@16",
+    "1724915@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2520,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

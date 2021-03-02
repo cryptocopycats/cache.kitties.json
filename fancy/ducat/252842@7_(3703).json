@@ -1,0 +1,23 @@
+{
+  "id": 252842,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T22:01:07.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! My name's Kitty #252842. I once peed on Amelia Earhart's cat. They had it coming. I once got in a fight with a chimpanzee, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107554@6",
+  "sire": "107301@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3703,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

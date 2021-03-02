@@ -1,0 +1,24 @@
+{
+  "id": 222168,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T19:52:35.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #222168. My friends describe me as gullible and smelly. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. Our friendship will be gullible, smelly, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "165445@7",
+  "sire": "218080@6",
+  "children": [
+    "301693@9",
+    "315523@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3039,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

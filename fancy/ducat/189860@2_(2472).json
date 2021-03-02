@@ -1,0 +1,23 @@
+{
+  "id": 189860,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-09T19:45:13.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #189860. I'm a Culinary Sanitation Specialist by day, and I like running a podcast by night. I put marmite on everything. Like, everything: hot dogs, cereal—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93642@1",
+  "sire": "34935@1",
+  "children": [
+    "216386@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2472,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

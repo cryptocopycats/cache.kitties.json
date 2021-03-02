@@ -1,0 +1,30 @@
+{
+  "id": 222830,
+  "name": "Zaynie",
+  "generation": 8,
+  "created_at": "2017-12-10T20:25:28.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Zaynie. I enjoy reciting poetry, eating lasagna, and tripping my owner. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I look forward to grooming with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "201749@7",
+  "sire": "96106@7",
+  "children": [
+    "227102@10",
+    "228490@9",
+    "251819@11",
+    "286431@12",
+    "298646@12",
+    "306483@16",
+    "335668@14",
+    "378692@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3050,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

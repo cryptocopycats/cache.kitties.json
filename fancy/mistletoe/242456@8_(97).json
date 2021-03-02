@@ -1,0 +1,25 @@
+{
+  "id": 242456,
+  "name": "Christmas Boozekitty",
+  "generation": 8,
+  "created_at": "2017-12-11T12:49:26.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! My name's Christmas Boozekitty. I once peed on Confucius's cat. They had it coming. Sometimes I daydream of a life full of picking flowers, hamburgers, and swiping right. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "227314@7",
+  "sire": "226158@7",
+  "children": [
+    "243303@9",
+    "245427@9",
+    "267117@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 97,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

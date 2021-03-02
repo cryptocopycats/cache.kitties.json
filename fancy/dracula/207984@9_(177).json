@@ -1,0 +1,29 @@
+{
+  "id": 207984,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T08:14:46.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Kitty #207984. I once peed on Princess Diana's cat. They had it coming. When I'm not riding the bus, I'm pole dancing! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "162262@8",
+  "sire": "175349@8",
+  "children": [
+    "210419@12",
+    "216323@12",
+    "231008@12",
+    "240448@12",
+    "255048@12",
+    "280405@12",
+    "311062@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 177,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

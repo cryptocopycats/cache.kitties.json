@@ -1,0 +1,23 @@
+{
+  "id": 181293,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-09T11:57:52.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #181293. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Frank Sinatra while grooming. Don't judge me. Our friendship will be gullible, preposterous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "173697@11",
+  "sire": "147855@4",
+  "children": [
+    "184641@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2332,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

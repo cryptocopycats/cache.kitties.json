@@ -1,0 +1,23 @@
+{
+  "id": 229049,
+  "name": "Meow Ma 1st",
+  "generation": 19,
+  "created_at": "2017-12-11T00:41:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Meow Ma 1st. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "112790@16",
+  "sire": "39736@18",
+  "children": [
+    "1995282@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 206,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

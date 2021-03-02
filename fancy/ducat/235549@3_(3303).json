@@ -1,0 +1,23 @@
+{
+  "id": 235549,
+  "name": "Jaden",
+  "generation": 3,
+  "created_at": "2017-12-11T06:06:12.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Jaden. My friends describe me as smelly and tantalizing. My secret indulgence is chocolate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121543@2",
+  "sire": "138072@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3303,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

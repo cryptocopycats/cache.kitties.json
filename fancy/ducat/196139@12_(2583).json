@@ -1,0 +1,24 @@
+{
+  "id": 196139,
+  "name": "Peter Griffin",
+  "generation": 12,
+  "created_at": "2017-12-09T23:48:07.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Peter Griffin. I'm often referred to as the Peter Griffin of the group. Some people say I'm the Peter Griffin of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "167645@11",
+  "sire": "134923@11",
+  "children": [
+    "294790@13",
+    "470066@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2583,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

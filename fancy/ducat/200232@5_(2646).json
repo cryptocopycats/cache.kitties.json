@@ -1,0 +1,29 @@
+{
+  "id": 200232,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T02:19:54.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! Kitty #200232 here. I'm here to enjoy hitting on yo' man and fighting the patriarchy. Some people say I'm the Marge Simpson of the group. Our friendship will be fabulous, preposterous, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132691@4",
+  "sire": "178689@2",
+  "children": [
+    "201004@6",
+    "201505@8",
+    "202472@8",
+    "209735@7",
+    "213225@8",
+    "216089@8",
+    "229744@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2646,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

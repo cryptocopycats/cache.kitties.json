@@ -1,0 +1,23 @@
+{
+  "id": 253928,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-11T22:46:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #253928. I'm often referred to as the Peter Griffin of the group. I once got in a fight with a dog, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "252388@10",
+  "sire": "252216@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3721,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

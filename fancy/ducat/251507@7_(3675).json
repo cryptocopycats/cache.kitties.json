@@ -1,0 +1,23 @@
+{
+  "id": 251507,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T21:04:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Kitty #251507. I once peed on Amelia Earhart's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249961@6",
+  "sire": "250805@4",
+  "children": [
+    "253942@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3675,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

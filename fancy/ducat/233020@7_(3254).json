@@ -1,0 +1,23 @@
+{
+  "id": 233020,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T03:57:14.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kitty #233020. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Our friendship will be stinky, prickly, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192575@6",
+  "sire": "225983@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3254,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

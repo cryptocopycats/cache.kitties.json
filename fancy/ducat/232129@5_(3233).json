@@ -1,0 +1,23 @@
+{
+  "id": 232129,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-11T03:09:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! Kitty #232129 here. I'm here to enjoy taking selfies and picking on mice. I was voted most likely to work at NASA in college. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200193@4",
+  "sire": "167354@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3233,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

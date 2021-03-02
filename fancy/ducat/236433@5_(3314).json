@@ -1,0 +1,23 @@
+{
+  "id": 236433,
+  "name": "Fly n' Fancy",
+  "generation": 5,
+  "created_at": "2017-12-11T06:52:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Fly n' Fancy. I've never told anyone this, but I once licked a dog. I once licked a rooster. I don't like to talk about it. Will you be the garlic butter to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "234990@3",
+  "sire": "232233@4",
+  "children": [
+    "293235@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3314,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

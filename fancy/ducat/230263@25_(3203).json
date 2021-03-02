@@ -1,0 +1,23 @@
+{
+  "id": 230263,
+  "name": null,
+  "generation": 25,
+  "created_at": "2017-12-11T01:40:59.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #230263. I enjoy sweating through my feet, tricking babies, and grooming. I once licked a moose. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117822@12",
+  "sire": "208474@24",
+  "children": [
+    "890925@26"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3203,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

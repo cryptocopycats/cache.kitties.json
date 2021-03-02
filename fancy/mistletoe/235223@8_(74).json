@@ -1,0 +1,26 @@
+{
+  "id": 235223,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T05:46:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! My name's Kitty #235223. I once peed on Cleopatra's cat. They had it coming. When no one's home, I invite my pals over and we listen to Coldplay. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "207454@7",
+  "sire": "220594@7",
+  "children": [
+    "298337@11",
+    "300998@9",
+    "316204@11",
+    "320382@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 74,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

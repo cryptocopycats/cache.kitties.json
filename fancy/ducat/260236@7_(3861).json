@@ -1,0 +1,23 @@
+{
+  "id": 260236,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T03:48:33.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #260236. I'm a professional Skydiving Instructor and I love cantaloupe. I am 59% wizard, 87% Ventriloquist, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "225048@4",
+  "sire": "231092@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3861,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

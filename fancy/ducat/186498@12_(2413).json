@@ -1,0 +1,23 @@
+{
+  "id": 186498,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-09T17:00:10.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! My name's Kitty #186498. I once peed on Confucius's cat. They had it coming. I once dreamed of being a Skydiving Instructor. Now I can be found talking about how much I lift all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "90072@11",
+  "sire": "52169@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2413,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

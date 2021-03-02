@@ -1,0 +1,27 @@
+{
+  "id": 249556,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-11T19:33:46.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #249556. My friends describe me as brilliant and vegan. My great-great-great-great-great-great grandkitty lived with Cleopatra. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "221673@4",
+  "sire": "191871@4",
+  "children": [
+    "249846@6",
+    "250245@6",
+    "277900@6",
+    "291740@6",
+    "339577@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3631,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

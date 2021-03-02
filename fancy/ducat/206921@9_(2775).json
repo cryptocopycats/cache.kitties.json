@@ -1,0 +1,26 @@
+{
+  "id": 206921,
+  "name": "Gen 9 - BIG BOY DUCK",
+  "generation": 9,
+  "created_at": "2017-12-10T07:21:26.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Gen 9 - BIG BOY DUCK. I've never told anyone this, but I once licked a dog. Sometimes I daydream of a life full of picking on mice, steak, and mocking dogs. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "159515@8",
+  "sire": "166834@7",
+  "children": [
+    "208032@10",
+    "209095@10",
+    "213138@10",
+    "224148@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2775,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 174797,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-09T06:35:47.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty #174797. My friends describe me as gorgeous and raunchy. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "85921@4",
+  "sire": "113969@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 480,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 214429,
+  "name": "Kitty McQuack",
+  "generation": 6,
+  "created_at": "2017-12-10T13:41:48.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty McQuack. I'm often referred to as the Peter Griffin of the group. When no one's home, I invite my pals over and we listen to Ace of Base. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195213@5",
+  "sire": "198688@5",
+  "children": [
+    "217167@7",
+    "280703@7",
+    "301336@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2902,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

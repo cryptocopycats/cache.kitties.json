@@ -1,0 +1,29 @@
+{
+  "id": 206637,
+  "name": "Merry Christmas Kitty",
+  "generation": 11,
+  "created_at": "2017-12-10T07:06:46.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Merry Christmas Kitty. I enjoy licking doorknobs, fighting the patriarchy, and riding dirty. My great-great-great-great-great-great grandkitty lived with Cleopatra. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "190741@6",
+  "sire": "166949@10",
+  "children": [
+    "238661@12",
+    "248780@12",
+    "250296@12",
+    "260958@12",
+    "276813@12",
+    "317797@12",
+    "357032@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 15,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 238939,
+  "name": "Ducat, Gen 7! (#3,381/10,000)",
+  "generation": 7,
+  "created_at": "2017-12-11T09:23:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Ducat, Gen 7! (#3,381/10,000). In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "223068@5",
+  "sire": "212172@6",
+  "children": [
+    "239942@8",
+    "242999@8",
+    "244983@8",
+    "249058@8",
+    "258830@8",
+    "276080@8",
+    "307568@8",
+    "343314@8",
+    "555567@8",
+    "600030@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3381,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

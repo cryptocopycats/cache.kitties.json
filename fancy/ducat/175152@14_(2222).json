@@ -1,0 +1,26 @@
+{
+  "id": 175152,
+  "name": "FANCY DUCAT + 2 SHIPCAT GENES",
+  "generation": 14,
+  "created_at": "2017-12-09T06:51:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm FANCY DUCAT + 2 SHIPCAT GENES. My friends describe me as prickly and wondrous. I once made a goose sulk. Our friendship will be prickly, wondrous, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172198@13",
+  "sire": "158207@11",
+  "children": [
+    "206821@22",
+    "218715@15",
+    "290845@24",
+    "308080@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2222,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

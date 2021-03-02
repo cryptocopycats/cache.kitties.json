@@ -1,0 +1,23 @@
+{
+  "id": 219436,
+  "name": "FlyKitty",
+  "generation": 9,
+  "created_at": "2017-12-10T17:42:59.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm FlyKitty. I've never told anyone this, but I once tricked a dog. I was voted school jock in college. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "197522@5",
+  "sire": "217665@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2986,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

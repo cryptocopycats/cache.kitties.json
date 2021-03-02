@@ -1,0 +1,26 @@
+{
+  "id": 208808,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T08:54:37.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #208808. I'm a professional Culinary Sanitation Specialist and I love cantaloupe. My secret indulgence is wet food. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81581@7",
+  "sire": "187193@5",
+  "children": [
+    "213842@9",
+    "239314@9",
+    "253872@18",
+    "338589@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2810,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 212114,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T11:44:39.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #212114. My friends describe me as petulant and raunchy. Sometimes I daydream of a life full of taking selfies, wet food, and mocking dogs. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "166086@4",
+  "sire": "209099@9",
+  "children": [
+    "243510@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 570,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

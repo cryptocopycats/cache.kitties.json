@@ -1,0 +1,29 @@
+{
+  "id": 183648,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-09T14:10:41.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! My name's Kitty #183648. I once peed on Mother Theresa's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "106371@13",
+  "sire": "53279@11",
+  "children": [
+    "202628@15",
+    "238027@15",
+    "247283@15",
+    "282565@17",
+    "298434@17",
+    "376854@17",
+    "421236@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 506,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

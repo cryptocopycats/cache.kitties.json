@@ -1,0 +1,30 @@
+{
+  "id": 262173,
+  "name": "Fancy  ShipCat  Virgin",
+  "generation": 5,
+  "created_at": "2017-12-12T05:31:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Fancy  ShipCat  Virgin. I enjoy shakin' dat booty, taking selfies, and grooming. Some people say I'm the Jon Snow of the group. Our friendship will be prickly, voluptuous, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "242470@4",
+  "sire": "149672@4",
+  "children": [
+    "264485@6",
+    "265543@6",
+    "266996@12",
+    "286583@6",
+    "291886@7",
+    "314231@6",
+    "335785@6",
+    "361835@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 692,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

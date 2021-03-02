@@ -1,0 +1,23 @@
+{
+  "id": 252319,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T21:38:23.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #252319. All you need to know about me is I hate salad with a passion. When no one's home, I invite my pals over and we listen to Rihanna. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "251605@4",
+  "sire": "239341@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3693,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

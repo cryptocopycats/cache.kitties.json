@@ -1,0 +1,23 @@
+{
+  "id": 200049,
+  "name": "Brisk Cooldown Fancy",
+  "generation": 10,
+  "created_at": "2017-12-10T02:12:38.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Brisk Cooldown Fancy. I'm a Spin Instructor  by day, and I like prank-calling celebrities by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "165119@8",
+  "sire": "177035@9",
+  "children": [
+    "203314@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2636,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

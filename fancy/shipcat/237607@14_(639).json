@@ -1,0 +1,30 @@
+{
+  "id": 237607,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-11T08:02:43.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #237607. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"despicable.\" It's... accurate. Will you be the maple syrup to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "171420@9",
+  "sire": "229440@13",
+  "children": [
+    "401814@15",
+    "405256@18",
+    "408829@15",
+    "1146194@15",
+    "1167871@15",
+    "1191127@15",
+    "1273218@15",
+    "1710190@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 639,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

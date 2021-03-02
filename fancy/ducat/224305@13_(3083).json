@@ -1,0 +1,24 @@
+{
+  "id": 224305,
+  "name": "Jaguar Gold momy",
+  "generation": 13,
+  "created_at": "2017-12-10T21:23:13.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Jaguar Gold momy. My friends describe me as despicable and brilliant. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "220632@12",
+  "sire": "221085@11",
+  "children": [
+    "266184@14",
+    "291564@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3083,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

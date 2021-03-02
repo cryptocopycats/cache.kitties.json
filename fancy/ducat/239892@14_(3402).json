@@ -1,0 +1,23 @@
+{
+  "id": 239892,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-11T10:17:48.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Kitty #239892. I enjoy fighting for the people, fighting the patriarchy, and spinning sick beats. My secret indulgence is ice cream. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "93669@13",
+  "sire": "87208@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3402,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

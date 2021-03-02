@@ -1,0 +1,23 @@
+{
+  "id": 252407,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T21:41:01.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #252407. I've never told anyone this, but I once frolicked with a dog. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228545@7",
+  "sire": "225888@7",
+  "children": [
+    "276331@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3696,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

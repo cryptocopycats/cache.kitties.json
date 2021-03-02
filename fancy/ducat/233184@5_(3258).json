@@ -1,0 +1,23 @@
+{
+  "id": 233184,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-11T04:04:29.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #233184. I'm a Skydiving Instructor by day, and I like riverdancing by night. I would give it all up for a Chanel purse. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "229201@4",
+  "sire": "150985@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3258,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

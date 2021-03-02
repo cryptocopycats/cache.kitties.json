@@ -1,0 +1,24 @@
+{
+  "id": 203314,
+  "name": "Christmas DuCat Fancy Boi",
+  "generation": 11,
+  "created_at": "2017-12-10T04:34:01.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Christmas DuCat Fancy Boi here. I'm here to enjoy tricking babies and taking selfies. I would give it all up to be on Oprah. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168035@9",
+  "sire": "200049@10",
+  "children": [
+    "246139@13",
+    "268113@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2709,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 237720,
+  "name": "Flying Cat",
+  "generation": 5,
+  "created_at": "2017-12-11T08:11:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Flying Cat. I'm often referred to as the Dwight Schrute of the group. I once made a gecko dance. I hope we can be annoying friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "235275@4",
+  "sire": "237004@3",
+  "children": [
+    "257527@6",
+    "258581@6",
+    "259924@6",
+    "263303@6",
+    "269257@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3350,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 175601,
+  "name": "#2 - Mistletoe",
+  "generation": 9,
+  "created_at": "2017-12-09T07:06:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm #2 - Mistletoe. I believe that one day cats will rule this planet. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "174756@8",
+  "sire": "171637@6",
+  "children": [
+    "215404@12",
+    "231440@10",
+    "236157@12",
+    "305683@10",
+    "317036@10",
+    "327960@10",
+    "369051@10",
+    "382926@10",
+    "392938@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 177497,
+  "name": "[RARE] FANCY CAT",
+  "generation": 9,
+  "created_at": "2017-12-09T08:37:43.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm [RARE] FANCY CAT. In high school, I was voted school jock. My friends describe me as \"gorgeous.\" It's... accurate. I look forward to shakin' dat booty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "49181@8",
+  "sire": "175427@8",
+  "children": [
+    "249514@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2262,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

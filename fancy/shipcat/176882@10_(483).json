@@ -1,0 +1,23 @@
+{
+  "id": 176882,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-09T08:08:24.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #176882. I want to live in a world where people believe the world is flat. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "18306@4",
+  "sire": "175893@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 483,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

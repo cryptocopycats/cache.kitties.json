@@ -1,0 +1,23 @@
+{
+  "id": 239132,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T09:33:02.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! Kitty #239132 here. I'm here to enjoy tricking babies and shakin' dat booty. In my free time, I can usually be found wondrous or running a podcast. Our friendship will be gullible, vegan, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191333@9",
+  "sire": "80130@9",
+  "children": [
+    "307124@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3387,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

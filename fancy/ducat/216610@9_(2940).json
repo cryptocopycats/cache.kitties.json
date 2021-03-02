@@ -1,0 +1,23 @@
+{
+  "id": 216610,
+  "name": "Virgin DuCat",
+  "generation": 9,
+  "created_at": "2017-12-10T15:36:35.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Virgin DuCat here. I'm here to enjoy tricking babies and picking flowers. When I'm not siring for status, I'm pole dancing! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119031@8",
+  "sire": "116478@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2940,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

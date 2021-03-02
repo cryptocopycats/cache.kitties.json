@@ -1,0 +1,32 @@
+{
+  "id": 254449,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-11T23:09:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #254449. I've never told anyone this, but I once headbutted a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Will you be the marmalade to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "254042@6",
+  "sire": "225846@6",
+  "children": [
+    "254850@8",
+    "255980@8",
+    "257227@8",
+    "265726@8",
+    "267645@10",
+    "273517@8",
+    "290855@8",
+    "312032@8",
+    "346922@8",
+    "413093@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 137,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

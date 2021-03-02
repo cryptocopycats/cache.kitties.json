@@ -1,0 +1,23 @@
+{
+  "id": 183181,
+  "name": "Phlappie",
+  "generation": 9,
+  "created_at": "2017-12-09T13:45:17.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Phlappie. In high school, I was voted biggest teacher's pet. My secret indulgence is salad. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136560@8",
+  "sire": "134647@6",
+  "children": [
+    "224967@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2357,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

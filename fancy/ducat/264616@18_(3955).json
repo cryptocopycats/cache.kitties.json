@@ -1,0 +1,23 @@
+{
+  "id": 264616,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-12T07:24:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #264616. I believe the world is flat. When no one's home, I invite my pals over and we listen to Metallica. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263561@6",
+  "sire": "69198@17",
+  "children": [
+    "265221@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3955,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

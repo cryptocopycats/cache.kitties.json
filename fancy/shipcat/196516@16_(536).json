@@ -1,0 +1,27 @@
+{
+  "id": 196516,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-09T23:59:32.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #196516. My friends describe me as seductive and vegan. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "57542@7",
+  "sire": "151215@15",
+  "children": [
+    "208185@17",
+    "289845@17",
+    "359088@17",
+    "430407@17",
+    "476211@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 536,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

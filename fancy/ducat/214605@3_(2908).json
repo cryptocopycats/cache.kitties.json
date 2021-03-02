@@ -1,0 +1,23 @@
+{
+  "id": 214605,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 3,
+  "created_at": "2017-12-10T13:48:57.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm RARE BIRD! Fancy!. In high school, I was voted biggest teacher's pet. I'm often described as ridiculous, and I own it. Will you be the marmite to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152739@2",
+  "sire": "115277@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2908,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

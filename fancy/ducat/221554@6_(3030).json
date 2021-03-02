@@ -1,0 +1,23 @@
+{
+  "id": 221554,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T19:23:49.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #221554. I believe that one day cats will rule this planet. I once dreamed of being a Ventriloquist. Now I can be found people-watching all day. Our friendship will be tantalizing, vegan, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "114829@5",
+  "sire": "219399@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3030,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

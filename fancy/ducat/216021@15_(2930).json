@@ -1,0 +1,26 @@
+{
+  "id": 216021,
+  "name": "spider",
+  "generation": 15,
+  "created_at": "2017-12-10T15:05:33.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's spider. I once peed on Mother Theresa's cat. They had it coming. My secret indulgence is cereal. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "181487@9",
+  "sire": "104818@14",
+  "children": [
+    "217680@16",
+    "237905@16",
+    "278327@16",
+    "333606@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2930,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

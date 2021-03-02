@@ -1,0 +1,23 @@
+{
+  "id": 255252,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-11T23:45:37.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #255252. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Princess Diana. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "202529@4",
+  "sire": "232683@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3748,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

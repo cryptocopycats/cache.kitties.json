@@ -1,0 +1,24 @@
+{
+  "id": 259082,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T02:46:37.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Kitty #259082 here. I'm here to enjoy chasing string and picking flowers. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "256024@6",
+  "sire": "257169@9",
+  "children": [
+    "263080@14",
+    "289379@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 295,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

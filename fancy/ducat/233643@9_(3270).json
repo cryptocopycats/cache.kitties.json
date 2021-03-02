@@ -1,0 +1,30 @@
+{
+  "id": 233643,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T04:31:04.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #233643. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Will you be the maple syrup to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "205572@8",
+  "sire": "63533@7",
+  "children": [
+    "253649@11",
+    "263336@10",
+    "271145@11",
+    "278747@12",
+    "285225@12",
+    "327627@10",
+    "384056@10",
+    "1389809@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 3270,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

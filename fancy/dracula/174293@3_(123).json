@@ -1,0 +1,23 @@
+{
+  "id": 174293,
+  "name": "Lucky Vamp!",
+  "generation": 3,
+  "created_at": "2017-12-09T06:14:45.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Lucky Vamp!. I'm often referred to as the Ron Weasley of the group. I'm often described as fabulous, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "131298@2",
+  "sire": "110855@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 123,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

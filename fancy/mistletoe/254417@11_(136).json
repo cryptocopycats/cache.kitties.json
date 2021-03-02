@@ -1,0 +1,27 @@
+{
+  "id": 254417,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T23:08:02.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #254417. I believe that one day cats will rule this planet. I once made a moose ignore. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "218770@10",
+  "sire": "222098@10",
+  "children": [
+    "261072@17",
+    "266661@13",
+    "276813@12",
+    "284869@12",
+    "287766@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 136,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

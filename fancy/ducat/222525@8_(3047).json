@@ -1,0 +1,28 @@
+{
+  "id": 222525,
+  "name": "Ducat",
+  "generation": 8,
+  "created_at": "2017-12-10T20:09:44.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Ducat here. I'm here to enjoy picking flowers and tricking babies. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152080@7",
+  "sire": "81970@7",
+  "children": [
+    "224245@9",
+    "232266@9",
+    "235042@9",
+    "267483@9",
+    "1439009@11",
+    "1446053@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3047,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

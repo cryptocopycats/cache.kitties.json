@@ -1,0 +1,31 @@
+{
+  "id": 225381,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-10T22:04:22.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #225381. My friends describe me as hairy and preposterous. I'm often described as fabulous, and I own it. I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "115187@2",
+  "sire": "196901@2",
+  "children": [
+    "229255@5",
+    "244656@14",
+    "266144@19",
+    "269024@4",
+    "272224@4",
+    "276007@4",
+    "295140@6",
+    "323332@4",
+    "752533@4"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 606,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

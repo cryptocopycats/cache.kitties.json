@@ -1,0 +1,23 @@
+{
+  "id": 206645,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T07:07:52.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #206645. I'm often referred to as the Ron Weasley of the group. I once made a goose ignore. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "159597@6",
+  "sire": "202127@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2771,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

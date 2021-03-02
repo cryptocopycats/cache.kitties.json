@@ -1,0 +1,25 @@
+{
+  "id": 246012,
+  "name": "Bob Saget The 3rd",
+  "generation": 15,
+  "created_at": "2017-12-11T16:14:42.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Bob Saget The 3rd. I've never told anyone this, but I once kissed a dog. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Will you be the marmite to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "240749@14",
+  "sire": "182899@0",
+  "children": [
+    "246964@16",
+    "253493@16",
+    "288932@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3561,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

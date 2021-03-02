@@ -1,0 +1,23 @@
+{
+  "id": 193751,
+  "name": "Tweety Bird",
+  "generation": 9,
+  "created_at": "2017-12-09T22:14:58.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Tweety Bird. I believe that one day cats will rule this planet. Some people say I'm the Niles Crane of the group. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "142115@8",
+  "sire": "177604@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2546,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

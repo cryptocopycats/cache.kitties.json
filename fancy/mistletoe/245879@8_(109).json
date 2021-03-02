@@ -1,0 +1,26 @@
+{
+  "id": 245879,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T16:06:11.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #245879. I believe the world is flat. I once kissed a rhino. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "222615@7",
+  "sire": "198372@7",
+  "children": [
+    "246654@9",
+    "247885@9",
+    "252734@10",
+    "332421@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 109,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

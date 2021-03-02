@@ -1,0 +1,30 @@
+{
+  "id": 244164,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T14:32:08.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #244164. I enjoy shakin' dat booty, picking on mice, and breakdancing. I put peanut butter on everything. Like, everything: hot dogs, ice cream—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227179@5",
+  "sire": "34958@5",
+  "children": [
+    "292274@7",
+    "306416@7",
+    "309115@7",
+    "310623@7",
+    "321080@7",
+    "328953@7",
+    "360007@7",
+    "377189@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3509,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

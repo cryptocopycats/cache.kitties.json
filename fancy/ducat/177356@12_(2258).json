@@ -1,0 +1,23 @@
+{
+  "id": 177356,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-09T08:29:55.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Kitty #177356. I once peed on King Henry VIII's cat. They had it coming. I put marmite on everything. Like, everything: hot dogs, salad—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "129512@10",
+  "sire": "159960@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2258,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

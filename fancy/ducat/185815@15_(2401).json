@@ -1,0 +1,23 @@
+{
+  "id": 185815,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-09T16:21:31.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! My name's Kitty #185815. I once peed on Cleopatra's cat. They had it coming. When I'm not swiping right, I'm people-watching! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "94126@6",
+  "sire": "181151@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2401,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

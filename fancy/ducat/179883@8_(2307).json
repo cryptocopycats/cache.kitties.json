@@ -1,0 +1,23 @@
+{
+  "id": 179883,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T10:46:23.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #179883. I'm a Ventriloquist by day, and I like mocking dogs by night. I put cinammon on everything. Like, everything: hot dogs, wet food—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "116248@5",
+  "sire": "148427@7",
+  "children": [
+    "233503@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2307,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

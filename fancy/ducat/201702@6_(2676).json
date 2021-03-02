@@ -1,0 +1,23 @@
+{
+  "id": 201702,
+  "name": "VIRGIN GOLD Fancy DuCat",
+  "generation": 6,
+  "created_at": "2017-12-10T03:23:30.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm VIRGIN GOLD Fancy DuCat. I enjoy eating lasagna, eating until I loathe myself, and sitting on your computer. Some people say I'm the Jon Snow of the group. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117610@5",
+  "sire": "116878@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2676,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

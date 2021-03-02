@@ -1,0 +1,29 @@
+{
+  "id": 249885,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T19:52:32.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #249885. I'm a Ventriloquist by day, and I like volunteering at the local kitten rescue shelter by night. I am 0% gremlin, 11% Skydiving Instructor, and otherwise bad at math. Our friendship will be tantalizing, fabulous, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "223420@5",
+  "sire": "223981@5",
+  "children": [
+    "267167@7",
+    "268472@7",
+    "269572@7",
+    "275558@7",
+    "280431@7",
+    "292222@7",
+    "366302@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3637,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

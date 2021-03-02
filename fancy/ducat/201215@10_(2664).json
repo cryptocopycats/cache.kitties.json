@@ -1,0 +1,23 @@
+{
+  "id": 201215,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T03:02:31.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #201215. I enjoy riding dirty, hitting on yo' man, and taking selfies. I am 88% wizard, 41% Dispensary Clerk, and otherwise bad at math. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "198826@2",
+  "sire": "194329@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2664,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

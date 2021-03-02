@@ -1,0 +1,31 @@
+{
+  "id": 186252,
+  "name": "186252",
+  "generation": 6,
+  "created_at": "2017-12-09T16:47:37.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm 186252. I'm a professional Ventriloquist and I love cantaloupe. My secret indulgence is lasagna. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "144351@5",
+  "sire": "117689@3",
+  "children": [
+    "279869@7",
+    "311443@9",
+    "335027@7",
+    "360598@7",
+    "389764@7",
+    "399132@7",
+    "415878@7",
+    "569322@8",
+    "773495@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 138,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

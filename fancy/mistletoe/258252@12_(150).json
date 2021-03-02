@@ -1,0 +1,27 @@
+{
+  "id": 258252,
+  "name": "MeowstleToe",
+  "generation": 12,
+  "created_at": "2017-12-12T02:03:53.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! My name's MeowstleToe. I once peed on John F. Kennedy Jr.'s cat. They had it coming. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "257975@6",
+  "sire": "256138@11",
+  "children": [
+    "258575@13",
+    "276574@13",
+    "286593@13",
+    "299004@13",
+    "328944@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 150,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

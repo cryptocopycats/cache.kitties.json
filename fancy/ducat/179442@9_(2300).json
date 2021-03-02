@@ -1,0 +1,26 @@
+{
+  "id": 179442,
+  "name": "STEEMIT GIVEAWAY",
+  "generation": 9,
+  "created_at": "2017-12-09T10:24:11.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! My name's STEEMIT GIVEAWAY. I once peed on John F. Kennedy Jr.'s cat. They had it coming. My friends describe me as \"smelly.\" It's... accurate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "63653@8",
+  "sire": "86205@7",
+  "children": [
+    "217057@10",
+    "220227@12",
+    "224248@13",
+    "230282@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2300,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

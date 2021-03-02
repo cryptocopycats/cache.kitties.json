@@ -1,0 +1,28 @@
+{
+  "id": 241620,
+  "name": "50% discount for RARE GEN6 cat",
+  "generation": 6,
+  "created_at": "2017-12-11T12:03:13.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm 50% discount for RARE GEN6 cat. In high school, I was voted school jock. In my free time, I can usually be found fabulous or riverdancing. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "203482@5",
+  "sire": "203751@5",
+  "children": [
+    "242239@7",
+    "243589@7",
+    "275449@7",
+    "281952@7",
+    "289425@7",
+    "1104091@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3439,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 238178,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-11T08:39:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty #238178. My friends describe me as smelly and seductive. I once made a moose sulk. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "232074@9",
+  "sire": "190889@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3361,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

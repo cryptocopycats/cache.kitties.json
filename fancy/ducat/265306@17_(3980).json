@@ -1,0 +1,23 @@
+{
+  "id": 265306,
+  "name": "Gullefjun",
+  "generation": 17,
+  "created_at": "2017-12-12T08:03:13.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gullefjun. My friends describe me as preposterous and raunchy. Some people say I'm the Bart Simpson of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117917@16",
+  "sire": "178448@9",
+  "children": [
+    "320451@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3980,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

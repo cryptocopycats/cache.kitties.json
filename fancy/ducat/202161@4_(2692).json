@@ -1,0 +1,27 @@
+{
+  "id": 202161,
+  "name": "6% LIMEGREEN FANCY",
+  "generation": 4,
+  "created_at": "2017-12-10T03:41:45.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm 6% LIMEGREEN FANCY. My friends describe me as raunchy and ridiculous. When I'm not riding the bus, I'm reading Danielle Steele! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191486@3",
+  "sire": "179112@3",
+  "children": [
+    "234099@5",
+    "234440@5",
+    "236888@5",
+    "238102@5",
+    "262075@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2692,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 244278,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T14:37:14.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #244278. I'm often referred to as the Chandler Bing of the group. I am 51% hobbit, 97% Mad Scientist, and otherwise bad at math. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "228637@3",
+  "sire": "239884@7",
+  "children": [
+    "299409@9",
+    "303221@9",
+    "306220@9",
+    "310988@9",
+    "326766@14",
+    "342375@11",
+    "362115@9",
+    "380642@9",
+    "409589@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 104,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

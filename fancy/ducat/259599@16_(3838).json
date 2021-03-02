@@ -1,0 +1,24 @@
+{
+  "id": 259599,
+  "name": "Waddle White",
+  "generation": 16,
+  "created_at": "2017-12-12T03:13:49.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Waddle White. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Our friendship will be petulant, tantalizing, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "54148@15",
+  "sire": "103466@12",
+  "children": [
+    "300110@17",
+    "343964@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3838,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

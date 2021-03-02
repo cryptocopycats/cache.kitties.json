@@ -1,0 +1,32 @@
+{
+  "id": 179061,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-09T10:04:38.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #179061. I'm a Foreign Film Director by day, and I like tricking babies by night. In my free time, I can usually be found seductive or swiping right. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "177678@6",
+  "sire": "140641@5",
+  "children": [
+    "182881@8",
+    "188408@8",
+    "193456@8",
+    "202053@8",
+    "210668@8",
+    "238322@8",
+    "270298@8",
+    "299279@8",
+    "360726@8",
+    "381878@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2295,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

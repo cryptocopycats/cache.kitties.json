@@ -1,0 +1,33 @@
+{
+  "id": 226673,
+  "name": "Ducatata",
+  "generation": 3,
+  "created_at": "2017-12-10T22:53:49.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Ducatata. In high school, I was voted school jock. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "220951@2",
+  "sire": "199530@2",
+  "children": [
+    "228046@4",
+    "228751@4",
+    "230115@4",
+    "239276@4",
+    "239710@4",
+    "240074@4",
+    "246450@4",
+    "254825@4",
+    "281289@4",
+    "308936@4",
+    "343709@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3124,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

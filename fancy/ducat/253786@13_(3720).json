@@ -1,0 +1,28 @@
+{
+  "id": 253786,
+  "name": "GOLDEN DUCAT",
+  "generation": 13,
+  "created_at": "2017-12-11T22:40:39.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm GOLDEN DUCAT. My friends describe me as seductive and raunchy. I am 63% hobbit, 19% Culinary Sanitation Specialist, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239642@12",
+  "sire": "172062@5",
+  "children": [
+    "263811@14",
+    "267189@14",
+    "300651@14",
+    "327520@14",
+    "444688@14",
+    "759426@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3720,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

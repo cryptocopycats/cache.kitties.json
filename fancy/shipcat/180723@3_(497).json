@@ -1,0 +1,29 @@
+{
+  "id": 180723,
+  "name": "Kitty 180723",
+  "generation": 3,
+  "created_at": "2017-12-09T11:28:42.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's Kitty 180723. I once peed on Nelson Mandela's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. I look forward to breakdancing with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "178926@2",
+  "sire": "45736@2",
+  "children": [
+    "225572@4",
+    "240966@4",
+    "276007@4",
+    "278532@4",
+    "314231@6",
+    "335785@6",
+    "361835@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 497,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

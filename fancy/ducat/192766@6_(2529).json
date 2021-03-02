@@ -1,0 +1,27 @@
+{
+  "id": 192766,
+  "name": "Cpt. McDucky",
+  "generation": 6,
+  "created_at": "2017-12-09T21:39:59.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Cpt. McDucky. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189588@5",
+  "sire": "191178@5",
+  "children": [
+    "197835@7",
+    "198123@8",
+    "200891@7",
+    "295641@10",
+    "449286@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2529,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

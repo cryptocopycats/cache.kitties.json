@@ -1,0 +1,23 @@
+{
+  "id": 225802,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T22:19:07.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Kitty #225802. I'm often referred to as the Neville Longbottom of the group. When no one's home, I invite my pals over and we listen to Beyoncé. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135981@9",
+  "sire": "199757@9",
+  "children": [
+    "232905@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3108,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 203081,
+  "name": "새냥",
+  "generation": 8,
+  "created_at": "2017-12-10T04:22:45.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm 새냥. I've never told anyone this, but I once licked a dog. I once made a gecko pester. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179570@0",
+  "sire": "109875@7",
+  "children": [
+    "222750@11",
+    "228217@10",
+    "244804@12",
+    "278008@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2705,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

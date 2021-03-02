@@ -1,0 +1,24 @@
+{
+  "id": 212267,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T11:51:42.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #212267. I enjoy eating lasagna, being a nevernude, and grooming. I once pranced with a rooster. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "117779@8",
+  "sire": "192458@10",
+  "children": [
+    "229872@12",
+    "254979@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2864,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

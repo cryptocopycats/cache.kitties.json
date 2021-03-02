@@ -1,0 +1,23 @@
+{
+  "id": 211001,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T10:47:40.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #211001. I've never told anyone this, but I once licked a dog. When I'm not mocking dogs, I'm tricking babies! I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168493@4",
+  "sire": "185418@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2836,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

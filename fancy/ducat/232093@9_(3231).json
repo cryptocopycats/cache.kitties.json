@@ -1,0 +1,24 @@
+{
+  "id": 232093,
+  "name": "Chica Cat",
+  "generation": 9,
+  "created_at": "2017-12-11T03:08:18.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Chica Cat. I enjoy sitting on your computer, fighting the patriarchy, and staying woke. I'm convinced that the world is flat. One day I'll prove it. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "190958@8",
+  "sire": "155839@7",
+  "children": [
+    "234825@10",
+    "236065@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3231,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

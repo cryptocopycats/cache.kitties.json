@@ -1,0 +1,24 @@
+{
+  "id": 211401,
+  "name": "Dou's Bird Kitty",
+  "generation": 6,
+  "created_at": "2017-12-10T11:09:38.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Dou's Bird Kitty here. I'm here to enjoy breakdancing and slappin' da bass. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192747@5",
+  "sire": "195199@5",
+  "children": [
+    "212502@7",
+    "284535@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2845,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

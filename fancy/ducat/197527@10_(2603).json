@@ -1,0 +1,26 @@
+{
+  "id": 197527,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T00:36:50.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #197527. I've never told anyone this, but I once kissed a dog. I once dreamed of being a Ventriloquist. Now I can be found jump-roping all day. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103050@9",
+  "sire": "154629@9",
+  "children": [
+    "200246@11",
+    "210756@17",
+    "231664@17",
+    "241983@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2603,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

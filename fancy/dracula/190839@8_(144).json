@@ -1,0 +1,27 @@
+{
+  "id": 190839,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T20:23:29.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #190839. I'm a Skydiving Instructor by day, and I like riding the bus by night. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "190419@7",
+  "sire": "158615@5",
+  "children": [
+    "198508@9",
+    "200408@16",
+    "208295@16",
+    "214433@12",
+    "236329@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 144,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

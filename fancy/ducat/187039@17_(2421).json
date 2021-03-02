@@ -1,0 +1,23 @@
+{
+  "id": 187039,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-09T17:32:47.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #187039. I want to live in a world where people believe the world is flat. I like to listen to Mariah Carey while grooming. Don't judge me. Will you be the maple syrup to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "30712@11",
+  "sire": "75923@16",
+  "children": [
+    "188705@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2421,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

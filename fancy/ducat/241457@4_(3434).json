@@ -1,0 +1,26 @@
+{
+  "id": 241457,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-11T11:54:13.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #241457. I'm often referred to as the Frodo Baggins of the group. I like to listen to Rihanna while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239233@3",
+  "sire": "232236@3",
+  "children": [
+    "242048@5",
+    "242950@5",
+    "244923@5",
+    "272185@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3434,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 227955,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-10T23:48:09.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's Kitty #227955. I once peed on Cleopatra's cat. They had it coming. When no one's home, I invite my pals over and we listen to Rihanna. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "100603@10",
+  "sire": "82993@11",
+  "children": [
+    "233893@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3156,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

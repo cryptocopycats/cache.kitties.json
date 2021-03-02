@@ -1,0 +1,28 @@
+{
+  "id": 259257,
+  "name": "Link",
+  "generation": 9,
+  "created_at": "2017-12-12T02:55:25.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Link. My friends describe me as voluptuous and despicable. I'm often described as brilliant, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "248508@5",
+  "sire": "73460@8",
+  "children": [
+    "307891@10",
+    "323324@10",
+    "340987@10",
+    "351410@12",
+    "363164@12",
+    "371418@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3826,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

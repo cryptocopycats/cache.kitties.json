@@ -1,0 +1,26 @@
+{
+  "id": 194329,
+  "name": "G9 Fancy Rare DuCat",
+  "generation": 9,
+  "created_at": "2017-12-09T22:39:17.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm G9 Fancy Rare DuCat. All you need to know about me is I hate cantaloupe with a passion. I put wasabi on everything. Like, everything: hot dogs, wet food—everything! Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74208@8",
+  "sire": "129532@6",
+  "children": [
+    "197936@11",
+    "201215@10",
+    "225588@14",
+    "260129@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2554,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

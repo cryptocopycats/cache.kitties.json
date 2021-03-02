@@ -1,0 +1,23 @@
+{
+  "id": 261854,
+  "name": "WINGZ",
+  "generation": 6,
+  "created_at": "2017-12-12T05:11:13.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm WINGZ. I enjoy sweating through my feet, fighting the patriarchy, and reciting poetry. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258652@5",
+  "sire": "260037@4",
+  "children": [
+    "279673@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3898,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

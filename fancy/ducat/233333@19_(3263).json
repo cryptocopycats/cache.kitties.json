@@ -1,0 +1,23 @@
+{
+  "id": 233333,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-11T04:10:15.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #233333. I enjoy being a nevernude, tripping my owner, and reciting poetry. I put wasabi on everything. Like, everything: hot dogs, chocolate—everything! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "205080@18",
+  "sire": "203862@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3263,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

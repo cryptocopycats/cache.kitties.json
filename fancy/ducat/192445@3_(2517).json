@@ -1,0 +1,31 @@
+{
+  "id": 192445,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-09T21:26:41.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #192445. My friends describe me as tantalizing and smelly. I'm often described as voluptuous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179567@2",
+  "sire": "129896@2",
+  "children": [
+    "222266@4",
+    "311622@4",
+    "344974@4",
+    "393481@4",
+    "395582@4",
+    "406434@4",
+    "416810@4",
+    "429653@4",
+    "1104667@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2517,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

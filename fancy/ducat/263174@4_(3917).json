@@ -1,0 +1,26 @@
+{
+  "id": 263174,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T06:18:01.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #263174. I'm a professional Spin Instructor  and I love cereal. When I'm not siring for status, I'm mocking dogs! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239702@3",
+  "sire": "235029@3",
+  "children": [
+    "264032@5",
+    "265138@5",
+    "266222@5",
+    "269087@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3917,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

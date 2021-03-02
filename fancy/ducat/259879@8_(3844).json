@@ -1,0 +1,23 @@
+{
+  "id": 259879,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T03:28:05.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #259879. I enjoy being a nevernude, fighting for the people, and reading garfield. I once got in a fight with a rooster, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243446@6",
+  "sire": "208024@7",
+  "children": [
+    "261674@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3844,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

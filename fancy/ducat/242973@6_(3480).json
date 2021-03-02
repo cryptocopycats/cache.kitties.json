@@ -1,0 +1,25 @@
+{
+  "id": 242973,
+  "name": "G6 Virgin Lucky Duck",
+  "generation": 6,
+  "created_at": "2017-12-11T13:21:24.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm G6 Virgin Lucky Duck. In high school, I was voted biggest teacher's pet. I once got in a fight with a chimpanzee, and won. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "226895@5",
+  "sire": "44007@5",
+  "children": [
+    "273822@17",
+    "287819@7",
+    "340279@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3480,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

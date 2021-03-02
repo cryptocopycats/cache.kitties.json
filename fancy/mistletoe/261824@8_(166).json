@@ -1,0 +1,29 @@
+{
+  "id": 261824,
+  "name": "HOLIDAY DB",
+  "generation": 8,
+  "created_at": "2017-12-12T05:10:53.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm HOLIDAY DB. I've never told anyone this, but I once headbutted a dog. I am 24% sphinx, 23% Ventriloquist, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "246807@6",
+  "sire": "233084@7",
+  "children": [
+    "262534@9",
+    "262992@9",
+    "271995@9",
+    "277855@11",
+    "307334@10",
+    "311558@9",
+    "408940@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 166,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

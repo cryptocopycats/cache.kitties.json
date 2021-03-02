@@ -1,0 +1,27 @@
+{
+  "id": 258611,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-12T02:18:20.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #258611. My friends describe me as smelly and fabulous. I was voted school jock in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "181994@12",
+  "sire": "245177@12",
+  "children": [
+    "274199@21",
+    "288274@14",
+    "296838@14",
+    "348818@17",
+    "389449@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3809,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 241273,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-11T11:43:19.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #241273. I'm a Mad Scientist by day, and I like siring for status by night. When I'm not jump-roping, I'm running a podcast! Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "193588@5",
+  "sire": "228412@5",
+  "children": [
+    "263339@8",
+    "264137@7",
+    "264666@8",
+    "273476@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3428,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

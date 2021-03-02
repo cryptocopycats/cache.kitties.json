@@ -1,0 +1,24 @@
+{
+  "id": 186889,
+  "name": "Serious Status",
+  "generation": 12,
+  "created_at": "2017-12-09T17:26:34.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Serious Status. I want to live in a world where people believe the world is flat. I once dreamed of being a Ventriloquist. Now I can be found siring for status all day. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172189@4",
+  "sire": "11684@11",
+  "children": [
+    "187761@13",
+    "313312@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2417,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

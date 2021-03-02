@@ -1,0 +1,23 @@
+{
+  "id": 207073,
+  "name": "First BirdChild of Savage",
+  "generation": 10,
+  "created_at": "2017-12-10T07:28:12.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm First BirdChild of Savage. I'm a professional Train Conductor and I love cereal. I put peanut butter on everything. Like, everything: hot dogs, hamburgers—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "95910@8",
+  "sire": "113671@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2779,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

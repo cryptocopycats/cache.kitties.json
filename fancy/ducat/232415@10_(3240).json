@@ -1,0 +1,28 @@
+{
+  "id": 232415,
+  "name": "Susie",
+  "generation": 10,
+  "created_at": "2017-12-11T03:23:09.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Susie. I'm a professional Skydiving Instructor and I love salad. Some people say I'm the Steve Urkel of the group. Will you be the cinammon to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "204832@9",
+  "sire": "231129@5",
+  "children": [
+    "250297@11",
+    "254817@18",
+    "260226@11",
+    "274410@11",
+    "311887@11",
+    "367961@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3240,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

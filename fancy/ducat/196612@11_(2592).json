@@ -1,0 +1,23 @@
+{
+  "id": 196612,
+  "name": "Mr.Rainboweyes",
+  "generation": 11,
+  "created_at": "2017-12-10T00:04:28.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Mr.Rainboweyes. My friends describe me as wondrous and smelly. I once licked a goose. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "149357@2",
+  "sire": "193233@10",
+  "children": [
+    "217441@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2592,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

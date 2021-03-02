@@ -1,0 +1,25 @@
+{
+  "id": 201329,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-10T03:07:36.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #201329. My friends describe me as smelly and vegan. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "197872@3",
+  "sire": "199708@4",
+  "children": [
+    "202856@7",
+    "203514@7",
+    "204603@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2667,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

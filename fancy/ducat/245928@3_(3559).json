@@ -1,0 +1,23 @@
+{
+  "id": 245928,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-11T16:09:12.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #245928. I'm often referred to as the Neville Longbottom of the group. My secret indulgence is hamburgers. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "25020@2",
+  "sire": "170723@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3559,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

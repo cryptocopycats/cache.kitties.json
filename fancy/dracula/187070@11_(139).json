@@ -1,0 +1,26 @@
+{
+  "id": 187070,
+  "name": "G11 Purebred Dracula VERY RARE",
+  "generation": 11,
+  "created_at": "2017-12-09T17:35:45.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm G11 Purebred Dracula VERY RARE. I'm a professional Spin Instructor  and I love hamburgers. In my free time, I can usually be found brilliant or riding the bus. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "185496@10",
+  "sire": "118334@7",
+  "children": [
+    "189376@12",
+    "202058@12",
+    "244804@12",
+    "278008@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 139,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

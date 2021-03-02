@@ -1,0 +1,23 @@
+{
+  "id": 182265,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-09T12:53:13.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #182265. I'm often referred to as the Cersei Lannister of the group. I once made a dog scare. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "147425@4",
+  "sire": "170754@4",
+  "children": [
+    "198877@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 131,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

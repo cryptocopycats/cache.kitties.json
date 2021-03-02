@@ -1,0 +1,23 @@
+{
+  "id": 213668,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-10T13:01:43.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! My name's Kitty #213668. I once peed on Martin Luther King Jr.'s cat. They had it coming. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187389@5",
+  "sire": "138872@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2895,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

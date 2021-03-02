@@ -1,0 +1,23 @@
+{
+  "id": 195350,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-09T23:16:06.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #195350. I want to live in a world where people believe that one day cats will rule this planet. I am 27% oracle, 11% Dispensary Clerk, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "133639@11",
+  "sire": "162148@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 533,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

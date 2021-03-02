@@ -1,0 +1,23 @@
+{
+  "id": 193882,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-09T22:20:47.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #193882. I'm a Aerobics Athlete  by day, and I like prank-calling celebrities by night. I once got in a fight with a labradoodle, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192972@6",
+  "sire": "92989@14",
+  "children": [
+    "200550@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2549,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

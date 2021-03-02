@@ -1,0 +1,25 @@
+{
+  "id": 235042,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T05:39:15.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #235042. I'm a professional Spin Instructor  and I love chocolate. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "222525@8",
+  "sire": "201724@8",
+  "children": [
+    "236225@10",
+    "245078@10",
+    "252072@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3290,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 262411,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T05:41:06.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! Kitty #262411 here. I'm here to enjoy sitting on your computer and licking doorknobs. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "175922@8",
+  "sire": "211428@8",
+  "children": [
+    "265607@10",
+    "369752@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3906,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

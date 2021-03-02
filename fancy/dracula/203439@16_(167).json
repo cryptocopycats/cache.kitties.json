@@ -1,0 +1,28 @@
+{
+  "id": 203439,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-10T04:39:10.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #203439. I'm a Foreign Film Director by day, and I like volunteering at the local kitten rescue shelter by night. My secret indulgence is ice cream. I look forward to staying woke with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "85454@6",
+  "sire": "155963@15",
+  "children": [
+    "222184@17",
+    "260716@17",
+    "277597@17",
+    "323212@17",
+    "384492@17",
+    "412443@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 167,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

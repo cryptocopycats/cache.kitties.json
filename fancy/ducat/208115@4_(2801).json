@@ -1,0 +1,31 @@
+{
+  "id": 208115,
+  "name": "PURE Super Ducat the Duck Cat",
+  "generation": 4,
+  "created_at": "2017-12-10T08:18:58.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm PURE Super Ducat the Duck Cat. My friends describe me as ridiculous and brilliant. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "151595@3",
+  "sire": "140600@3",
+  "children": [
+    "208937@9",
+    "212016@5",
+    "228564@5",
+    "242744@5",
+    "247010@5",
+    "256510@5",
+    "266021@5",
+    "272689@5",
+    "348574@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2801,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

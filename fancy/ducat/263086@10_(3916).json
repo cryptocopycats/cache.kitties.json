@@ -1,0 +1,26 @@
+{
+  "id": 263086,
+  "name": "Breed with Kitty 259770",
+  "generation": 10,
+  "created_at": "2017-12-12T06:13:40.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Breed with Kitty 259770. I enjoy watching Stranger Things, glaring at the neighbour's cat, and eating lasagna. I was voted school jock in college. Will you be the maple syrup to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "261350@9",
+  "sire": "243395@9",
+  "children": [
+    "267451@11",
+    "270309@11",
+    "273607@11",
+    "282570@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3916,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

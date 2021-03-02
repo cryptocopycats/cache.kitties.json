@@ -1,0 +1,30 @@
+{
+  "id": 213651,
+  "name": "Fancy G5",
+  "generation": 5,
+  "created_at": "2017-12-10T13:00:43.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Fancy G5. My friends describe me as fabulous and gullible. Some people say I'm the Steve Urkel of the group. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "167604@4",
+  "sire": "203537@4",
+  "children": [
+    "215223@6",
+    "223663@6",
+    "227347@6",
+    "241893@6",
+    "264489@6",
+    "317405@6",
+    "356149@6",
+    "558140@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 575,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

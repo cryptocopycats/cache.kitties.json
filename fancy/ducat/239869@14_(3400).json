@@ -1,0 +1,28 @@
+{
+  "id": 239869,
+  "name": "Fancy Cat",
+  "generation": 14,
+  "created_at": "2017-12-11T10:16:03.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! My name's Fancy Cat. I once peed on Princess Diana's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Princess Diana. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224360@10",
+  "sire": "47608@13",
+  "children": [
+    "260661@15",
+    "266918@15",
+    "277728@15",
+    "383378@15",
+    "391805@15",
+    "424640@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3400,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 244358,
+  "name": "Led_220V",
+  "generation": 6,
+  "created_at": "2017-12-11T14:42:30.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! My name's Led_220V. I once peed on King Henry VIII's cat. They had it coming. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "222052@5",
+  "sire": "200340@5",
+  "children": [
+    "281110@7",
+    "288280@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 106,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

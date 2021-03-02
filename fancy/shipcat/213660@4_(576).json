@@ -1,0 +1,32 @@
+{
+  "id": 213660,
+  "name": "Purrseidon",
+  "generation": 4,
+  "created_at": "2017-12-10T13:00:52.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! Purrseidon here. I'm here to enjoy shakin' dat booty and sitting on your computer. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "151589@3",
+  "sire": "112052@3",
+  "children": [
+    "371110@6",
+    "374356@6",
+    "375404@6",
+    "377481@6",
+    "380290@6",
+    "381699@6",
+    "383514@6",
+    "434944@6",
+    "450680@6",
+    "466348@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 576,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

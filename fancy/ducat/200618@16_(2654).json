@@ -1,0 +1,25 @@
+{
+  "id": 200618,
+  "name": "Marie Antoinette",
+  "generation": 16,
+  "created_at": "2017-12-10T02:36:49.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Marie Antoinette. I'm a Spin Instructor  by day, and I like pole dancing by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Will you be the peanut butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192454@14",
+  "sire": "130766@15",
+  "children": [
+    "211543@17",
+    "220415@17",
+    "265981@64"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2654,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

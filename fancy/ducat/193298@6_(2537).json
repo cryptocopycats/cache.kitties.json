@@ -1,0 +1,23 @@
+{
+  "id": 193298,
+  "name": "Wonder Kitty",
+  "generation": 6,
+  "created_at": "2017-12-09T21:58:16.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Wonder Kitty. I'm often referred to as the Jon Snow of the group. When I'm not talking about how much I lift, I'm watching reality tv! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155460@5",
+  "sire": "177699@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2537,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

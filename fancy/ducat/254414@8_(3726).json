@@ -1,0 +1,26 @@
+{
+  "id": 254414,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T23:07:51.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Kitty #254414. I once peed on Amelia Earhart's cat. They had it coming. I once made a gecko ignore. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "213669@7",
+  "sire": "195549@7",
+  "children": [
+    "257603@9",
+    "270908@9",
+    "276756@11",
+    "415184@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3726,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

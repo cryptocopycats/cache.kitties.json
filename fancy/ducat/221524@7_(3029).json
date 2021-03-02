@@ -1,0 +1,30 @@
+{
+  "id": 221524,
+  "name": "😻 FancyDuCat 😻",
+  "generation": 7,
+  "created_at": "2017-12-10T19:22:25.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm 😻 FancyDuCat 😻. I believe the world is flat. I once got in a fight with a rhino, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196976@6",
+  "sire": "189508@6",
+  "children": [
+    "242301@8",
+    "259224@8",
+    "262290@8",
+    "265383@8",
+    "273304@8",
+    "287634@8",
+    "302803@8",
+    "325704@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3029,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 260267,
+  "name": "#3",
+  "generation": 6,
+  "created_at": "2017-12-12T03:50:18.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! My name's #3. I once peed on Mother Theresa's cat. They had it coming. I once cleaned a platypus. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "240082@5",
+  "sire": "239750@5",
+  "children": [
+    "260654@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3863,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

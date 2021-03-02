@@ -1,0 +1,27 @@
+{
+  "id": 201513,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-10T03:15:47.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! Kitty #201513 here. I'm here to enjoy glaring at the neighbour's cat and shakin' dat booty. I once made a rooster pester. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200224@3",
+  "sire": "191597@7",
+  "children": [
+    "206716@9",
+    "207715@13",
+    "265559@9",
+    "284966@9",
+    "308339@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2670,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 208311,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-10T08:28:15.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #208311. I'm often referred to as the Steve Urkel of the group. Some people say I'm the Steve Urkel of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "190357@10",
+  "sire": "123377@10",
+  "children": [
+    "210419@12",
+    "216323@12",
+    "231008@12",
+    "240448@12",
+    "255048@12",
+    "280405@12",
+    "311062@12",
+    "362136@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 179,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

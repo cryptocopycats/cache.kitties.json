@@ -1,0 +1,31 @@
+{
+  "id": 197791,
+  "name": "ZaZhong 4A01",
+  "generation": 4,
+  "created_at": "2017-12-10T00:49:10.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm ZaZhong 4A01. I'm a Private Dancer  by day, and I like practicing witchcraft by night. I'm often described as gorgeous, and I own it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "87630@3",
+  "sire": "115427@3",
+  "children": [
+    "268656@5",
+    "268957@5",
+    "269685@5",
+    "271140@5",
+    "275125@5",
+    "284503@5",
+    "305912@5",
+    "327222@5",
+    "351577@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2607,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

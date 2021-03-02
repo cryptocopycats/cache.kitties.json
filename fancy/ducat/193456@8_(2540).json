@@ -1,0 +1,30 @@
+{
+  "id": 193456,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-09T22:02:58.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Kitty #193456. I once peed on Marie Antoinette's cat. They had it coming. I'm often described as prickly, and I own it. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141253@7",
+  "sire": "179061@7",
+  "children": [
+    "211613@9",
+    "230433@9",
+    "240874@9",
+    "273773@9",
+    "300856@9",
+    "309603@10",
+    "376857@9",
+    "392318@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2540,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

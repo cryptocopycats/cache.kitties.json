@@ -1,0 +1,23 @@
+{
+  "id": 196709,
+  "name": "Gregory J. Peck",
+  "generation": 17,
+  "created_at": "2017-12-10T00:07:38.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Gregory J. Peck. I believe that one day cats will rule this planet. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168890@9",
+  "sire": "43567@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2593,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

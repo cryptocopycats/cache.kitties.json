@@ -1,0 +1,28 @@
+{
+  "id": 230135,
+  "name": "shipcat",
+  "generation": 3,
+  "created_at": "2017-12-11T01:34:28.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm shipcat. I believe that one day cats will rule this planet. I would give it all up for a Chanel purse. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "45736@2",
+  "sire": "178926@2",
+  "children": [
+    "269024@4",
+    "272224@4",
+    "293020@4",
+    "299972@4",
+    "303568@5",
+    "307928@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 621,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

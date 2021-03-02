@@ -1,0 +1,24 @@
+{
+  "id": 257628,
+  "name": "double duck parent",
+  "generation": 4,
+  "created_at": "2017-12-12T01:32:40.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! double duck parent here. I'm here to enjoy fighting for the people and reading garfield. When no one's home, I invite my pals over and we listen to Mariah Carey. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200401@3",
+  "sire": "224591@3",
+  "children": [
+    "258034@5",
+    "259234@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3789,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

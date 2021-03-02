@@ -1,0 +1,29 @@
+{
+  "id": 178671,
+  "name": "RARE G1  FANCY DUCAT!!!",
+  "generation": 13,
+  "created_at": "2017-12-09T09:39:04.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm RARE G1  FANCY DUCAT!!!. All you need to know about me is I hate wet food with a passion. I'm often described as ridiculous, and I own it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "91032@8",
+  "sire": "164520@12",
+  "children": [
+    "184270@14",
+    "198424@14",
+    "219504@14",
+    "236415@14",
+    "275514@14",
+    "337665@24",
+    "349433@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2285,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 226618,
+  "name": "Gen 13 Fancy DuCat RARE!!!",
+  "generation": 13,
+  "created_at": "2017-12-10T22:51:53.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Gen 13 Fancy DuCat RARE!!!. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Confucius. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156816@6",
+  "sire": "156859@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3122,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

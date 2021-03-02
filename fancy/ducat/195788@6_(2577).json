@@ -1,0 +1,23 @@
+{
+  "id": 195788,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-09T23:32:25.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #195788. I'm a professional Mad Scientist and I love chocolate. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cantaloupe—everything! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195138@5",
+  "sire": "194693@3",
+  "children": [
+    "345771@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2577,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

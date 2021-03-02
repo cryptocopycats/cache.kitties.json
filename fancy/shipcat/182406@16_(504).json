@@ -1,0 +1,24 @@
+{
+  "id": 182406,
+  "name": "Peace Yo",
+  "generation": 16,
+  "created_at": "2017-12-09T12:59:02.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Peace Yo. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Aretha Franklin. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "161850@15",
+  "sire": "134299@15",
+  "children": [
+    "191956@17",
+    "209369@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 504,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

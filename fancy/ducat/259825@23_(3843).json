@@ -1,0 +1,23 @@
+{
+  "id": 259825,
+  "name": null,
+  "generation": 23,
+  "created_at": "2017-12-12T03:25:01.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #259825. I believe the world is flat. I once dreamed of being a Private Dancer . Now I can be found riding the bus all day. Will you be the peanut butter to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "80359@20",
+  "sire": "200613@22",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3843,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

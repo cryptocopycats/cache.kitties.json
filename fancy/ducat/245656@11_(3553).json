@@ -1,0 +1,24 @@
+{
+  "id": 245656,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-11T15:51:15.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #245656. I enjoy picking on mice, fighting for the people, and tricking babies. My friends describe me as \"ridiculous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "98619@9",
+  "sire": "121051@10",
+  "children": [
+    "273203@12",
+    "384179@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3553,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 196929,
+  "name": "Flappy Floose",
+  "generation": 13,
+  "created_at": "2017-12-10T00:14:52.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! Flappy Floose here. I'm here to enjoy picking flowers and slappin' da bass. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "194446@11",
+  "sire": "194633@12",
+  "children": [
+    "200498@14",
+    "287132@14",
+    "292516@14",
+    "362414@16",
+    "392198@14",
+    "433481@14",
+    "1435255@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 2595,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 248554,
+  "name": "3/4",
+  "generation": 4,
+  "created_at": "2017-12-11T18:38:56.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! 3/4 here. I'm here to enjoy chasing red dots and fighting the patriarchy. I put wasabi on everything. Like, everything: hot dogs, cereal—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131563@3",
+  "sire": "212863@3",
+  "children": [
+    "317836@5",
+    "1104785@5",
+    "1104887@5",
+    "1105142@5",
+    "1105502@5",
+    "1106588@5",
+    "1109092@5",
+    "1111226@5",
+    "1114537@5",
+    "1120334@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3612,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

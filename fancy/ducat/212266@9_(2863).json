@@ -1,0 +1,27 @@
+{
+  "id": 212266,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T11:51:42.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #212266. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "97482@8",
+  "sire": "202053@8",
+  "children": [
+    "213165@12",
+    "214486@10",
+    "277630@10",
+    "339299@10",
+    "346007@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2863,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

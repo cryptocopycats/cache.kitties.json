@@ -1,0 +1,24 @@
+{
+  "id": 250962,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-11T20:43:13.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #250962. I want to live in a world where people believe the world is flat. I am 68% gremlin, 92% Aerobics Athlete , and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "248206@6",
+  "sire": "239884@7",
+  "children": [
+    "278142@9",
+    "336286@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 128,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

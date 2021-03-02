@@ -1,0 +1,26 @@
+{
+  "id": 210938,
+  "name": "Sailor",
+  "generation": 14,
+  "created_at": "2017-12-10T10:44:04.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Sailor. I'm often referred to as the Marge Simpson of the group. My secret indulgence is ice cream. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "144260@13",
+  "sire": "207827@12",
+  "children": [
+    "232436@15",
+    "243489@15",
+    "245730@15",
+    "308833@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 563,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

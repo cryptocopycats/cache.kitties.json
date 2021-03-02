@@ -1,0 +1,32 @@
+{
+  "id": 254685,
+  "name": "Birdy Meow",
+  "generation": 7,
+  "created_at": "2017-12-11T23:19:45.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Birdy Meow. I believe the world is flat. I once kissed a rabbit. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "251937@6",
+  "sire": "95112@6",
+  "children": [
+    "258111@8",
+    "259903@8",
+    "260056@15",
+    "266571@8",
+    "274106@8",
+    "280324@17",
+    "281824@13",
+    "314126@8",
+    "329029@8",
+    "429349@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3735,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

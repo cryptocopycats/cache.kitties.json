@@ -1,0 +1,23 @@
+{
+  "id": 213298,
+  "name": "Darth Paw",
+  "generation": 8,
+  "created_at": "2017-12-10T12:41:38.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Darth Paw. I'm a professional Mad Scientist and I love salad. When I'm not volunteering at the local kitten rescue shelter, I'm pole dancing! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "71069@6",
+  "sire": "66162@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 187,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

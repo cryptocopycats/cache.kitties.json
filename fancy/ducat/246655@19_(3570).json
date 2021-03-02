@@ -1,0 +1,23 @@
+{
+  "id": 246655,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-11T16:51:09.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #246655. I'm a Dispensary Clerk by day, and I like swiping right by night. In my free time, I can usually be found raunchy or practicing witchcraft. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "246293@6",
+  "sire": "215956@18",
+  "children": [
+    "248124@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3570,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

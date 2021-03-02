@@ -1,0 +1,23 @@
+{
+  "id": 178384,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-09T09:26:25.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #178384. I believe that one day cats will rule this planet. In my free time, I can usually be found raunchy or braiding people's hair. Our friendship will be seductive, smelly, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "156258@17",
+  "sire": "32882@7",
+  "children": [
+    "219467@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 489,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

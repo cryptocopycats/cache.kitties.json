@@ -1,0 +1,27 @@
+{
+  "id": 229826,
+  "name": "Santa Paws",
+  "generation": 5,
+  "created_at": "2017-12-11T01:17:37.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Santa Paws. All you need to know about me is I hate hamburgers with a passion. My secret indulgence is cereal. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "226216@4",
+  "sire": "216131@4",
+  "children": [
+    "257577@6",
+    "259073@6",
+    "259619@6",
+    "263898@6",
+    "267279@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 54,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

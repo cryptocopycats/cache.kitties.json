@@ -1,0 +1,29 @@
+{
+  "id": 198745,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-10T01:25:56.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #198745. I'm often referred to as the Ron Weasley of the group. Sometimes I daydream of a life full of picking on mice, ice cream, and swiping right. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "173576@8",
+  "sire": "167261@7",
+  "children": [
+    "199968@10",
+    "249742@10",
+    "255242@10",
+    "259264@17",
+    "281622@10",
+    "289182@11",
+    "302773@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2619,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

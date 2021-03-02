@@ -1,0 +1,23 @@
+{
+  "id": 233503,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-11T04:21:07.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! Kitty #233503 here. I'm here to enjoy grooming and chasing red dots. I put maple syrup on everything. Like, everything: hot dogs, wet food—everything! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179883@8",
+  "sire": "164258@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3268,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 257443,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T01:20:38.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #257443. In high school, I was voted school jock. Some people say I'm the Ross Geller of the group. I look forward to glaring at the neighbour's cat with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "44402@3",
+  "sire": "158348@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 681,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 199907,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-10T02:08:16.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #199907. In high school, I was voted biggest teacher's pet. I am 11% wizard, 0% Dogwalker, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "199286@5",
+  "sire": "199555@5",
+  "children": [
+    "200368@7",
+    "201342@7",
+    "214487@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2634,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

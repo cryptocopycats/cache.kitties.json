@@ -1,0 +1,23 @@
+{
+  "id": 207274,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-10T07:40:56.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #207274. I'm a Ventriloquist by day, and I like volunteering at the local kitten rescue shelter by night. I'm often described as vegan, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19603@3",
+  "sire": "136233@3",
+  "children": [
+    "363642@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2786,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

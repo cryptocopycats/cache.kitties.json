@@ -1,0 +1,30 @@
+{
+  "id": 264101,
+  "name": "BuCiCika",
+  "generation": 5,
+  "created_at": "2017-12-12T07:00:21.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm BuCiCika. I've never told anyone this, but I once tricked a dog. I'm often described as preposterous, and I own it. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228008@4",
+  "sire": "226113@3",
+  "children": [
+    "289126@8",
+    "612747@6",
+    "1026522@12",
+    "1027044@10",
+    "1027461@21",
+    "1028237@13",
+    "1031720@11",
+    "1095276@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3945,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

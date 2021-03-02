@@ -1,0 +1,23 @@
+{
+  "id": 257243,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-12T01:11:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #257243. I'm often referred to as the Dwight Schrute of the group. I put cinammon on everything. Like, everything: hot dogs, apple pie—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "118998@13",
+  "sire": "57475@7",
+  "children": [
+    "257863@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3779,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

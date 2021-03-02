@@ -1,0 +1,26 @@
+{
+  "id": 191415,
+  "name": "Virgin ShipCat!",
+  "generation": 14,
+  "created_at": "2017-12-09T20:44:38.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Virgin ShipCat!. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with King Henry VIII. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "187427@13",
+  "sire": "187627@10",
+  "children": [
+    "280792@15",
+    "328442@15",
+    "371260@15",
+    "383111@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 525,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

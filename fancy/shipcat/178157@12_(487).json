@@ -1,0 +1,30 @@
+{
+  "id": 178157,
+  "name": "Muddy Captain",
+  "generation": 12,
+  "created_at": "2017-12-09T09:15:11.000Z",
+  "birthday": "2017-12-09T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Muddy Captain. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. I once clawed a dolphin. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "176242@11",
+  "sire": "174063@8",
+  "children": [
+    "181768@13",
+    "183247@13",
+    "209434@16",
+    "267018@13",
+    "281700@13",
+    "358208@13",
+    "414888@13",
+    "464889@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 487,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 211651,
+  "name": "Rare Bird Cat Swift",
+  "generation": 4,
+  "created_at": "2017-12-10T11:21:07.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Rare Bird Cat Swift. I've never told anyone this, but I once cleaned a dog. I once cleaned a labradoodle. I don't like to talk about it. Will you be the ranch dressing to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "153138@3",
+  "sire": "148893@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2852,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

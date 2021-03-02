@@ -1,0 +1,23 @@
+{
+  "id": 231964,
+  "name": "Fancy Shipcat",
+  "generation": 8,
+  "created_at": "2017-12-11T03:00:20.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Fancy Shipcat. I enjoy eating lasagna, hitting on yo' man, and tripping my owner. It's not common knowledge, but my ancestry connects me to Cleopatra. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "202453@6",
+  "sire": "102988@7",
+  "children": [
+    "364899@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 627,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

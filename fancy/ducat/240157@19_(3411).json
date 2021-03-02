@@ -1,0 +1,23 @@
+{
+  "id": 240157,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-11T10:32:35.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #240157. I've never told anyone this, but I once tricked a dog. I am 92% gremlin, 50% Mad Scientist, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126753@18",
+  "sire": "23028@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3411,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

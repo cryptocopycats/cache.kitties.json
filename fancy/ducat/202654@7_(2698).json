@@ -1,0 +1,23 @@
+{
+  "id": 202654,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-10T04:00:56.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! Kitty #202654 here. I'm here to enjoy breakdancing and taking selfies. Sometimes I daydream of a life full of picking flowers, ice cream, and talking about how much I lift. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "159326@3",
+  "sire": "200212@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2698,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

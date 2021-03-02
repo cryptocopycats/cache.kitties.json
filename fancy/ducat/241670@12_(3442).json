@@ -1,0 +1,23 @@
+{
+  "id": 241670,
+  "name": "Jerry Gold",
+  "generation": 12,
+  "created_at": "2017-12-11T12:06:03.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Jerry Gold. I enjoy riding unicorns, licking doorknobs, and chasing string. I once dreamed of being a Skydiving Instructor. Now I can be found prank-calling celebrities all day. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "240621@6",
+  "sire": "241021@11",
+  "children": [
+    "243211@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3442,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

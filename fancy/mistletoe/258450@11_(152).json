@@ -1,0 +1,24 @@
+{
+  "id": 258450,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T02:11:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! My name's Kitty #258450. I once peed on Confucius's cat. They had it coming. I once got in a fight with a labradoodle, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "190998@9",
+  "sire": "215794@10",
+  "children": [
+    "271018@12",
+    "273033@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 152,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

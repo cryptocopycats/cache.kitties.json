@@ -1,0 +1,28 @@
+{
+  "id": 252262,
+  "name": "Lovely bird",
+  "generation": 6,
+  "created_at": "2017-12-11T21:36:55.000Z",
+  "birthday": "2017-12-11T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Lovely bird. I want to live in a world where people believe the world is flat. My friends describe me as \"tantalizing.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156817@5",
+  "sire": "191178@5",
+  "children": [
+    "254410@7",
+    "255158@7",
+    "329279@13",
+    "332999@12",
+    "631127@9",
+    "631944@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3691,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

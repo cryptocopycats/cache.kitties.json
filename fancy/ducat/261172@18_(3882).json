@@ -1,0 +1,25 @@
+{
+  "id": 261172,
+  "name": "Goldy Bird",
+  "generation": 18,
+  "created_at": "2017-12-12T04:42:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Goldy Bird. I'm often referred to as the Ross Geller of the group. Some people say I'm the Ross Geller of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "203127@5",
+  "sire": "257482@17",
+  "children": [
+    "265922@19",
+    "320651@19",
+    "854985@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3882,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 214065,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-10T13:22:43.000Z",
+  "birthday": "2017-12-10T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #214065. I'm a professional Dogwalker and I love hamburgers. I like to listen to Frank Sinatra while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212555@11",
+  "sire": "211361@11",
+  "children": [
+    "220812@13",
+    "236756@13",
+    "242727@13",
+    "323611@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 2897,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
