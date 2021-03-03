@@ -1,0 +1,28 @@
+{
+  "id": 286853,
+  "name": "Dracula",
+  "generation": 10,
+  "created_at": "2017-12-13T08:59:15.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Dracula. I believe that one day cats will rule this planet. When I'm not playing chess, I'm reading Danielle Steele! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "264967@9",
+  "sire": "237207@8",
+  "children": [
+    "291622@11",
+    "291844@11",
+    "307497@11",
+    "313903@11",
+    "355084@11",
+    "360639@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 396,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

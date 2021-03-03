@@ -1,0 +1,23 @@
+{
+  "id": 279534,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-12T23:35:32.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #279534. I enjoy breakdancing, staying woke, and grooming. In my free time, I can usually be found despicable or sleeping in fresh laundry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "278971@4",
+  "sire": "208276@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 737,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

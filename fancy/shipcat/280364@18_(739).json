@@ -1,0 +1,26 @@
+{
+  "id": 280364,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-13T00:31:24.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Kitty #280364. I've never told anyone this, but I once frolicked with a dog. In my free time, I can usually be found brilliant or summoning ghosts. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "75973@17",
+  "sire": "202628@15",
+  "children": [
+    "291626@19",
+    "324273@19",
+    "360468@19",
+    "421236@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 739,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

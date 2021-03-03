@@ -1,0 +1,26 @@
+{
+  "id": 276232,
+  "name": "🎄Dummy Kitty🎄",
+  "generation": 3,
+  "created_at": "2017-12-12T19:31:15.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm 🎄Dummy Kitty🎄. I believe that one day cats will rule this planet. In my free time, I can usually be found smelly or prank-calling celebrities. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "219596@2",
+  "sire": "195684@2",
+  "children": [
+    "346067@4",
+    "346450@4",
+    "355524@4",
+    "358509@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 227,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

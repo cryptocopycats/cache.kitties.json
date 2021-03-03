@@ -1,0 +1,24 @@
+{
+  "id": 286584,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-13T08:36:30.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #286584. I've never told anyone this, but I once pawed at a dog. I once got in a fight with a dog, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266724@12",
+  "sire": "279450@6",
+  "children": [
+    "294783@16",
+    "298322@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4488,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

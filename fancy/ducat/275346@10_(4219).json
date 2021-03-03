@@ -1,0 +1,23 @@
+{
+  "id": 275346,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T18:32:41.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #275346. I believe that one day cats will rule this planet. Some people say I'm the Jon Snow of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "197923@3",
+  "sire": "254849@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4219,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

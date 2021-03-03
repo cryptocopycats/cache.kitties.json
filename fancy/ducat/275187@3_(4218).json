@@ -1,0 +1,26 @@
+{
+  "id": 275187,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-12T18:22:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Kitty #275187. I want to live in a world where people believe the world is flat. I once got in a fight with a rooster, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260151@2",
+  "sire": "237032@2",
+  "children": [
+    "292351@4",
+    "293217@4",
+    "323478@4",
+    "323724@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4218,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

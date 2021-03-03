@@ -1,0 +1,25 @@
+{
+  "id": 288135,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T10:40:21.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #288135. My friends describe me as fabulous and gullible. I put maple syrup on everything. Like, everything: hot dogs, lasagna—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283656@7",
+  "sire": "281515@7",
+  "children": [
+    "308918@9",
+    "540663@9",
+    "541032@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4528,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 280309,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-13T00:25:51.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #280309. All you need to know about me is I hate wet food with a passion. When no one's home, I invite my pals over and we listen to Wutang. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "232255@8",
+  "sire": "245029@7",
+  "children": [
+    "281472@10",
+    "283207@10",
+    "287142@10",
+    "289977@10",
+    "315901@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 243,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

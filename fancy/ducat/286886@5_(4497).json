@@ -1,0 +1,23 @@
+{
+  "id": 286886,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-13T09:03:21.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #286886. My friends describe me as brilliant and gullible. I once got in a fight with a chimpanzee, and won. Will you be the soy sauce to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "205725@4",
+  "sire": "189536@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4497,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

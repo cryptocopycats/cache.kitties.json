@@ -1,0 +1,23 @@
+{
+  "id": 271584,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-12T15:03:45.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #271584. My friends describe me as voluptuous and raunchy. It's not common knowledge, but my ancestry connects me to King Henry VIII. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270916@4",
+  "sire": "270695@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4142,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

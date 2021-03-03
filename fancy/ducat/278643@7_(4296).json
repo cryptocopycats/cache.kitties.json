@@ -1,0 +1,27 @@
+{
+  "id": 278643,
+  "name": "50%discount",
+  "generation": 7,
+  "created_at": "2017-12-12T22:32:43.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm 50%discount. My friends describe me as hairy and petulant. I once got in a fight with a chimpanzee, and won. Will you be the maple syrup to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "237061@6",
+  "sire": "180353@6",
+  "children": [
+    "279895@8",
+    "280592@8",
+    "282900@8",
+    "285395@8",
+    "306747@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4296,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

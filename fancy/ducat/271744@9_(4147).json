@@ -1,0 +1,27 @@
+{
+  "id": 271744,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T15:10:45.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #271744. My friends describe me as stinky and gullible. I would give it all up to star in a soap opera. I look forward to glaring at the neighbour's cat with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "47480@8",
+  "sire": "127800@8",
+  "children": [
+    "297257@12",
+    "302584@12",
+    "305529@18",
+    "382796@15",
+    "429209@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4147,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

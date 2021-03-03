@@ -1,0 +1,26 @@
+{
+  "id": 279662,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T23:41:56.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #279662. All you need to know about me is I hate hamburgers with a passion. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found mocking dogs all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "269877@11",
+  "sire": "274995@6",
+  "children": [
+    "282258@14",
+    "293703@14",
+    "387393@14",
+    "398090@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 371,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

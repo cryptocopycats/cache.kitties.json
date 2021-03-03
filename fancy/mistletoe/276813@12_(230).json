@@ -1,0 +1,24 @@
+{
+  "id": 276813,
+  "name": "A PURE XMAS KITTIE",
+  "generation": 12,
+  "created_at": "2017-12-12T20:13:37.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm A PURE XMAS KITTIE. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "254417@11",
+  "sire": "206637@11",
+  "children": [
+    "278654@13",
+    "282368@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 230,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

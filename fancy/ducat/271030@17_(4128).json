@@ -1,0 +1,25 @@
+{
+  "id": 271030,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-12T14:24:42.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #271030. I believe the world is flat. I was voted school jock in college. Our friendship will be preposterous, voluptuous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "216763@15",
+  "sire": "84178@16",
+  "children": [
+    "283352@18",
+    "303779@18",
+    "333016@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4128,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

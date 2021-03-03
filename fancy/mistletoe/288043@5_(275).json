@@ -1,0 +1,29 @@
+{
+  "id": 288043,
+  "name": "Festivus",
+  "generation": 5,
+  "created_at": "2017-12-13T10:32:16.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Festivus. All you need to know about me is I hate wet food with a passion. I once headbutted a gecko. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "244827@4",
+  "sire": "223960@4",
+  "children": [
+    "290959@6",
+    "299331@6",
+    "313657@7",
+    "319698@6",
+    "323758@6",
+    "328827@9",
+    "392063@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 275,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

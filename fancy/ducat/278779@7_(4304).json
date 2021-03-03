@@ -1,0 +1,23 @@
+{
+  "id": 278779,
+  "name": "FANCY DuCat Ron Weasley",
+  "generation": 7,
+  "created_at": "2017-12-12T22:44:46.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm FANCY DuCat Ron Weasley. I enjoy eating until I loathe myself, licking doorknobs, and shakin' dat booty. Some people say I'm the Ron Weasley of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249131@6",
+  "sire": "213592@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4304,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

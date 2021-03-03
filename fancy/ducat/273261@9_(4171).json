@@ -1,0 +1,28 @@
+{
+  "id": 273261,
+  "name": "3Cymric 4Mint 2Wild4",
+  "generation": 9,
+  "created_at": "2017-12-12T16:42:26.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm 3Cymric 4Mint 2Wild4. All you need to know about me is I hate chocolate with a passion. My secret indulgence is lasagna. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243859@8",
+  "sire": "258921@8",
+  "children": [
+    "425931@10",
+    "426928@10",
+    "428296@10",
+    "436270@12",
+    "439671@12",
+    "445918@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4171,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 274126,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T17:17:31.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Kitty #274126. I believe the world is flat. I'm often described as vegan, and I own it. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172956@8",
+  "sire": "137409@7",
+  "children": [
+    "285679@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4193,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

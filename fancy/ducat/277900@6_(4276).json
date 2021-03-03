@@ -1,0 +1,30 @@
+{
+  "id": 277900,
+  "name": "FatherA",
+  "generation": 6,
+  "created_at": "2017-12-12T21:31:31.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm FatherA. My friends describe me as prickly and voluptuous. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I look forward to hitting on yo' man with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249556@5",
+  "sire": "156783@5",
+  "children": [
+    "293993@7",
+    "295864@7",
+    "317466@7",
+    "327006@7",
+    "330056@7",
+    "346801@7",
+    "358087@7",
+    "371087@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4276,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

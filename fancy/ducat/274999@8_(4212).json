@@ -1,0 +1,23 @@
+{
+  "id": 274999,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T18:13:24.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Kitty #274999 here. I'm here to enjoy staying woke and spinning sick beats. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "166797@7",
+  "sire": "172599@7",
+  "children": [
+    "290220@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4212,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

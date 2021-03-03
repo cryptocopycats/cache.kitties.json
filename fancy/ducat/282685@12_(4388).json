@@ -1,0 +1,23 @@
+{
+  "id": 282685,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-13T03:00:46.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Kitty #282685. I believe the world is flat. In my free time, I can usually be found brilliant or mocking dogs. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227606@11",
+  "sire": "279808@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4388,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

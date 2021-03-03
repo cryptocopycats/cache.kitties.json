@@ -1,0 +1,25 @@
+{
+  "id": 275125,
+  "name": "Lenny Kravitz (Double Ducat P)",
+  "generation": 5,
+  "created_at": "2017-12-12T18:20:08.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! My name's Lenny Kravitz (Double Ducat P). I once peed on King Henry VIII's cat. They had it coming. I was voted biggest teacher's pet in college. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266455@4",
+  "sire": "197791@4",
+  "children": [
+    "914456@6",
+    "914810@6",
+    "1886102@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4217,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

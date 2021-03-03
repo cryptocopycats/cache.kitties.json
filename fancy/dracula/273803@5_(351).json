@@ -1,0 +1,26 @@
+{
+  "id": 273803,
+  "name": "Eddy - 1200 Year Old Vampire",
+  "generation": 5,
+  "created_at": "2017-12-12T17:07:32.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Eddy - 1200 Year Old Vampire. All you need to know about me is I hate lasagna with a passion. When I'm not siring for status, I'm talking about how much I lift! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "157415@4",
+  "sire": "233629@4",
+  "children": [
+    "352225@6",
+    "377277@6",
+    "387239@6",
+    "429074@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 351,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

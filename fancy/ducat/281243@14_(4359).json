@@ -1,0 +1,23 @@
+{
+  "id": 281243,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-13T01:29:18.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #281243. I'm a Private Dancer  by day, and I like running a podcast by night. When no one's home, I invite my pals over and we listen to Justin Bieber. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178143@13",
+  "sire": "173090@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4359,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

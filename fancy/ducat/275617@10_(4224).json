@@ -1,0 +1,23 @@
+{
+  "id": 275617,
+  "name": "FancyPants",
+  "generation": 10,
+  "created_at": "2017-12-12T18:48:28.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm FancyPants. My friends describe me as preposterous and seductive. I once dreamed of being a Foreign Film Director. Now I can be found prank-calling celebrities all day. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "183395@9",
+  "sire": "254502@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4224,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

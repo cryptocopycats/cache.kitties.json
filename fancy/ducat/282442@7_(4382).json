@@ -1,0 +1,25 @@
+{
+  "id": 282442,
+  "name": "Larry",
+  "generation": 7,
+  "created_at": "2017-12-13T02:48:03.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Larry. I want to live in a world where people believe the world is flat. Some people say I'm the Ron Weasley of the group. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242248@6",
+  "sire": "273103@6",
+  "children": [
+    "307498@11",
+    "315465@8",
+    "329570@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4382,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 279564,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T23:37:15.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #279564. My friends describe me as wondrous and seductive. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "174107@3",
+  "sire": "185093@3",
+  "children": [
+    "289832@5",
+    "343743@5",
+    "347295@5",
+    "389025@8",
+    "389423@6",
+    "427060@5",
+    "428103@5",
+    "431912@5",
+    "435455@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 370,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

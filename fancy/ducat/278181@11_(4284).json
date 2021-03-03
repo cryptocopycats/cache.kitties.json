@@ -1,0 +1,24 @@
+{
+  "id": 278181,
+  "name": "Quack",
+  "generation": 11,
+  "created_at": "2017-12-12T21:53:13.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! My name's Quack. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once made a chimpanzee leap. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "255087@9",
+  "sire": "226099@10",
+  "children": [
+    "328599@12",
+    "343733@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4284,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

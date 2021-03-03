@@ -1,0 +1,29 @@
+{
+  "id": 279832,
+  "name": "PURE",
+  "generation": 8,
+  "created_at": "2017-12-12T23:52:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm PURE. I'm a professional Culinary Sanitation Specialist and I love lasagna. It's not common knowledge, but my ancestry connects me to Princess Diana. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276409@7",
+  "sire": "244719@7",
+  "children": [
+    "280536@9",
+    "282755@9",
+    "284944@9",
+    "291043@9",
+    "546055@9",
+    "556729@9",
+    "576361@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4326,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

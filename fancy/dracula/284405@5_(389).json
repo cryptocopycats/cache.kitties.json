@@ -1,0 +1,30 @@
+{
+  "id": 284405,
+  "name": "Blood Sniffler",
+  "generation": 5,
+  "created_at": "2017-12-13T05:25:26.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Blood Sniffler. My friends describe me as smelly and tantalizing. In my free time, I can usually be found fabulous or watching reality tv. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "281711@4",
+  "sire": "258917@4",
+  "children": [
+    "324989@6",
+    "325406@6",
+    "331997@6",
+    "338871@6",
+    "341696@6",
+    "351995@6",
+    "356487@6",
+    "383168@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 389,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 277624,
+  "name": "Kicking Bird",
+  "generation": 4,
+  "created_at": "2017-12-12T21:11:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kicking Bird. I want to live in a world where people believe the world is flat. I put garlic butter on everything. Like, everything: hot dogs, ice cream—everything! Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "268228@3",
+  "sire": "275428@3",
+  "children": [
+    "332659@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4267,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

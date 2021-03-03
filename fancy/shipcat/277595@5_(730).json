@@ -1,0 +1,24 @@
+{
+  "id": 277595,
+  "name": "Dog Walker Dean",
+  "generation": 5,
+  "created_at": "2017-12-12T21:09:21.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Dog Walker Dean. I'm a Dogwalker by day, and I like talking about how much I lift by night. Sometimes I daydream of a life full of glaring at the neighbour's cat, cereal, and mocking dogs. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "235862@3",
+  "sire": "240894@4",
+  "children": [
+    "286646@6",
+    "297733@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 730,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

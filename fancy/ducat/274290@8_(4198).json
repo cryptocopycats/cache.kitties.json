@@ -1,0 +1,24 @@
+{
+  "id": 274290,
+  "name": "Gen8 | Fancy - DuCat",
+  "generation": 8,
+  "created_at": "2017-12-12T17:26:29.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! My name's Gen8 | Fancy - DuCat. I once peed on Cleopatra's cat. They had it coming. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172589@7",
+  "sire": "58247@6",
+  "children": [
+    "281849@9",
+    "286447@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4198,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

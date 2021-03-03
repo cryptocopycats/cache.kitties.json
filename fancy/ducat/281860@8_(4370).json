@@ -1,0 +1,23 @@
+{
+  "id": 281860,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T02:14:21.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Kitty #281860 here. I'm here to enjoy eating until I loathe myself and slappin' da bass. I once got in a fight with a rhino, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224281@5",
+  "sire": "202966@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4370,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

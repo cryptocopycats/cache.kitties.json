@@ -1,0 +1,24 @@
+{
+  "id": 270948,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T14:13:25.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #270948. All you need to know about me is I hate apple pie with a passion. When no one's home, I invite my pals over and we listen to Rihanna. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "255906@7",
+  "sire": "270714@11",
+  "children": [
+    "277440@13",
+    "287132@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4125,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

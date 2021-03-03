@@ -1,0 +1,23 @@
+{
+  "id": 278642,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T22:32:30.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #278642. I believe the world is flat. Sometimes I daydream of a life full of grooming, chocolate, and volunteering at the local kitten rescue shelter. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "229561@8",
+  "sire": "262526@11",
+  "children": [
+    "295737@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 238,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

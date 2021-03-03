@@ -1,0 +1,29 @@
+{
+  "id": 282010,
+  "name": "圣诞树251",
+  "generation": 9,
+  "created_at": "2017-12-13T02:23:48.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm 圣诞树251. I've never told anyone this, but I once cleaned a dog. Sometimes I daydream of a life full of picking on mice, steak, and watching reality tv. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "257577@6",
+  "sire": "273422@8",
+  "children": [
+    "282624@10",
+    "289819@10",
+    "290990@10",
+    "293268@10",
+    "313075@10",
+    "320118@10",
+    "548841@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 251,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

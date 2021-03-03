@@ -1,0 +1,25 @@
+{
+  "id": 278677,
+  "name": "Fancy |WingtipsSkyblue Parent",
+  "generation": 12,
+  "created_at": "2017-12-12T22:36:02.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Fancy |WingtipsSkyblue Parent. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as seductive, and I own it. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "72962@11",
+  "sire": "209388@6",
+  "children": [
+    "281953@13",
+    "346192@14",
+    "364155@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4300,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

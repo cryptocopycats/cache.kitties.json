@@ -1,0 +1,25 @@
+{
+  "id": 277440,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-12T20:59:02.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #277440. I'm a Aerobics Athlete  by day, and I like prank-calling celebrities by night. I am 39% troll, 57% Train Conductor, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270948@12",
+  "sire": "273529@11",
+  "children": [
+    "307633@14",
+    "312633@14",
+    "321559@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4262,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

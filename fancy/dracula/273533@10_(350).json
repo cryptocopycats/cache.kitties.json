@@ -1,0 +1,23 @@
+{
+  "id": 273533,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T16:57:10.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #273533. My friends describe me as wondrous and fabulous. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "257169@9",
+  "sire": "242504@9",
+  "children": [
+    "284773@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 350,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

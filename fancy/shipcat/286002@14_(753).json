@@ -1,0 +1,30 @@
+{
+  "id": 286002,
+  "name": "Sailor 14!",
+  "generation": 14,
+  "created_at": "2017-12-13T07:46:09.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Sailor 14!. I've never told anyone this, but I once loved a dog. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "284032@13",
+  "sire": "261606@13",
+  "children": [
+    "287806@15",
+    "298366@15",
+    "305061@15",
+    "320715@15",
+    "335850@15",
+    "364575@15",
+    "394324@15",
+    "465936@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 753,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 280115,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T00:13:17.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm Kitty #280115. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of licking doorknobs, ice cream, and watching reality tv. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224846@6",
+  "sire": "136693@6",
+  "children": [
+    "296950@8",
+    "438677@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4334,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

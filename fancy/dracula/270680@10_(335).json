@@ -1,0 +1,25 @@
+{
+  "id": 270680,
+  "name": "Dracula SaladIndulgence",
+  "generation": 10,
+  "created_at": "2017-12-12T13:03:46.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Dracula SaladIndulgence here. I'm here to enjoy licking doorknobs and taking selfies. My secret indulgence is salad. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "270095@9",
+  "sire": "266090@9",
+  "children": [
+    "274815@11",
+    "286192@11",
+    "292556@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 335,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 274106,
+  "name": "Meow Mix",
+  "generation": 8,
+  "created_at": "2017-12-12T17:16:54.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Meow Mix. I'm often referred to as the Hermione Granger of the group. Sometimes I daydream of a life full of fighting the patriarchy, ice cream, and reading Danielle Steele. Will you be the marmite to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "271618@7",
+  "sire": "254685@7",
+  "children": [
+    "341507@9",
+    "518437@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4191,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

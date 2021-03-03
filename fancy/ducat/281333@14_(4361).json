@@ -1,0 +1,23 @@
+{
+  "id": 281333,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-13T01:36:25.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #281333. I'm often referred to as the Michael Scott of the group. When I'm not sleeping in fresh laundry, I'm watching reality tv! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "271055@13",
+  "sire": "277977@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4361,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

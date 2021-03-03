@@ -1,0 +1,28 @@
+{
+  "id": 271383,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T14:49:38.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #271383. I enjoy tricking babies, spinning sick beats, and slappin' da bass. I would give it all up to star in a soap opera. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "271290@5",
+  "sire": "271068@5",
+  "children": [
+    "754599@7",
+    "754660@7",
+    "754731@7",
+    "754876@7",
+    "755212@7",
+    "755665@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4137,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

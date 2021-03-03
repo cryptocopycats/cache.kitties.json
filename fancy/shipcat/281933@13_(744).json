@@ -1,0 +1,25 @@
+{
+  "id": 281933,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-13T02:19:46.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #281933. I'm a professional Culinary Sanitation Specialist and I love wet food. My friends describe me as \"wondrous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "247314@10",
+  "sire": "250187@12",
+  "children": [
+    "287906@14",
+    "326274@14",
+    "349195@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 744,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

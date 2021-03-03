@@ -1,0 +1,26 @@
+{
+  "id": 286793,
+  "name": "DuoCat #4495",
+  "generation": 12,
+  "created_at": "2017-12-13T08:55:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm DuoCat #4495. I'm a Culinary Sanitation Specialist by day, and I like prank-calling celebrities by night. When I'm not swiping left, I'm mocking dogs! Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "100870@9",
+  "sire": "95588@11",
+  "children": [
+    "357729@13",
+    "360513@16",
+    "369882@13",
+    "404568@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4495,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

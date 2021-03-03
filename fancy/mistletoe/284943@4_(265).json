@@ -1,0 +1,33 @@
+{
+  "id": 284943,
+  "name": "Pickel Rick",
+  "generation": 4,
+  "created_at": "2017-12-13T06:16:27.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! My name's Pickel Rick. I once peed on Marie Antoinette's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "253070@3",
+  "sire": "282417@3",
+  "children": [
+    "292660@5",
+    "293453@5",
+    "299991@5",
+    "302980@5",
+    "307962@5",
+    "327155@5",
+    "344280@5",
+    "345188@5",
+    "358038@5",
+    "377403@5",
+    "436619@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 265,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

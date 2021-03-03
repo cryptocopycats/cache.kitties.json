@@ -1,0 +1,23 @@
+{
+  "id": 276535,
+  "name": "Pure Gene",
+  "generation": 6,
+  "created_at": "2017-12-12T19:51:48.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's Pure Gene. I once peed on King Henry VIII's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I look forward to riding dirty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179435@5",
+  "sire": "211055@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4243,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

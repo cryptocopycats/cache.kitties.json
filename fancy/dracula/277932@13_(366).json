@@ -1,0 +1,25 @@
+{
+  "id": 277932,
+  "name": "Bloody Mary",
+  "generation": 13,
+  "created_at": "2017-12-12T21:39:39.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Bloody Mary. I'm a professional Aerobics Athlete  and I love steak. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "261861@6",
+  "sire": "263242@12",
+  "children": [
+    "505229@14",
+    "506317@14",
+    "508648@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 366,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

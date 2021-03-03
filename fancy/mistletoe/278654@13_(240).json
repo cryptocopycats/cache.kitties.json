@@ -1,0 +1,27 @@
+{
+  "id": 278654,
+  "name": "ChristmasCat",
+  "generation": 13,
+  "created_at": "2017-12-12T22:33:06.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm ChristmasCat. I'm a Dogwalker by day, and I like mocking dogs by night. When I'm not braiding people's hair, I'm jump-roping! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "276813@12",
+  "sire": "275907@8",
+  "children": [
+    "282415@14",
+    "287804@14",
+    "305217@14",
+    "374566@14",
+    "971890@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 240,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

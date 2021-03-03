@@ -1,0 +1,23 @@
+{
+  "id": 272024,
+  "name": "DuCat",
+  "generation": 10,
+  "created_at": "2017-12-12T15:23:20.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm DuCat. I enjoy fighting for the people, taking selfies, and eating lasagna. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249858@7",
+  "sire": "271189@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4151,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

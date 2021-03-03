@@ -1,0 +1,23 @@
+{
+  "id": 278142,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T21:50:17.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #278142. All you need to know about me is I hate lasagna with a passion. I once dreamed of being a Mad Scientist. Now I can be found mocking dogs all day. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "251081@8",
+  "sire": "250962@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4283,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

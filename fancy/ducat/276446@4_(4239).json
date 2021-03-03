@@ -1,0 +1,23 @@
+{
+  "id": 276446,
+  "name": "DūChat",
+  "generation": 4,
+  "created_at": "2017-12-12T19:45:50.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm DūChat. I'm often referred to as the Cersei Lannister of the group. I am 15% oracle, 80% Dogwalker, and otherwise bad at math. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "275862@3",
+  "sire": "275417@3",
+  "children": [
+    "278707@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4239,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

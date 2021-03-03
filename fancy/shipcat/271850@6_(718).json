@@ -1,0 +1,32 @@
+{
+  "id": 271850,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T15:16:57.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #271850. I've never told anyone this, but I once loved a dog. My secret indulgence is salad. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "231816@5",
+  "sire": "155192@4",
+  "children": [
+    "296913@7",
+    "298023@7",
+    "300502@7",
+    "302477@7",
+    "307208@7",
+    "313773@7",
+    "326188@7",
+    "345266@7",
+    "366777@7",
+    "392560@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 718,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 273813,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-12T17:08:33.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #273813. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "262595@9",
+  "sire": "269501@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4185,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

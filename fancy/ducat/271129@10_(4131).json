@@ -1,0 +1,28 @@
+{
+  "id": 271129,
+  "name": "Alergan",
+  "generation": 10,
+  "created_at": "2017-12-12T14:32:50.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Alergan. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to King Henry VIII. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "261226@9",
+  "sire": "188963@3",
+  "children": [
+    "281724@11",
+    "289075@11",
+    "295068@11",
+    "341887@11",
+    "364554@11",
+    "402653@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4131,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

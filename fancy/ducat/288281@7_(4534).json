@@ -1,0 +1,28 @@
+{
+  "id": 288281,
+  "name": "4534th DUCAT",
+  "generation": 7,
+  "created_at": "2017-12-13T10:55:43.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm 4534th DUCAT. I'm a professional Dogwalker and I love cereal. My friends describe me as \"vegan.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285359@6",
+  "sire": "285302@6",
+  "children": [
+    "289017@8",
+    "298949@8",
+    "405690@8",
+    "406366@8",
+    "625944@111",
+    "657314@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4534,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

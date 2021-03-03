@@ -1,0 +1,26 @@
+{
+  "id": 277467,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T21:00:56.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #277467. I'm a professional Aerobics Athlete  and I love hamburgers. When no one's home, I invite my pals over and we listen to Frank Sinatra. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "207471@6",
+  "sire": "181373@6",
+  "children": [
+    "278291@8",
+    "279370@8",
+    "282984@8",
+    "296253@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 235,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 274858,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T18:04:00.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! Kitty #274858 here. I'm here to enjoy riding unicorns and spinning sick beats. I once licked a rooster. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "206726@8",
+  "sire": "206750@8",
+  "children": [
+    "300671@10",
+    "312757@10",
+    "318899@10",
+    "371105@10",
+    "383218@17",
+    "387901@11",
+    "448230@10",
+    "471192@10",
+    "587200@10",
+    "752628@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 357,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

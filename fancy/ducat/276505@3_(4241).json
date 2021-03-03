@@ -1,0 +1,26 @@
+{
+  "id": 276505,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-12T19:50:23.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #276505. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152739@2",
+  "sire": "236298@2",
+  "children": [
+    "284415@4",
+    "287783@4",
+    "363764@4",
+    "500299@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4241,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

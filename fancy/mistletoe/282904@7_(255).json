@@ -1,0 +1,26 @@
+{
+  "id": 282904,
+  "name": "Cool Cat Daddy",
+  "generation": 7,
+  "created_at": "2017-12-13T03:15:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! Cool Cat Daddy here. I'm here to enjoy eating until I loathe myself and taking selfies. I'm often described as despicable, and I own it. I hope we can be prickly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "281867@6",
+  "sire": "271007@6",
+  "children": [
+    "289307@8",
+    "298314@8",
+    "312234@8",
+    "325956@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 255,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

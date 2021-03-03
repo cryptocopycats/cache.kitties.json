@@ -1,0 +1,25 @@
+{
+  "id": 279273,
+  "name": "MámePtáka",
+  "generation": 13,
+  "created_at": "2017-12-12T23:19:29.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm MámePtáka. I'm a professional Aerobics Athlete  and I love cereal. I am 15% wizard, 67% Private Dancer , and otherwise bad at math. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "277396@6",
+  "sire": "89005@12",
+  "children": [
+    "279566@14",
+    "287590@14",
+    "292415@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4316,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

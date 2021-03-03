@@ -1,0 +1,23 @@
+{
+  "id": 280623,
+  "name": "Princess",
+  "generation": 4,
+  "created_at": "2017-12-13T00:46:53.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Princess. All you need to know about me is I hate salad with a passion. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96305@3",
+  "sire": "200401@3",
+  "children": [
+    "280916@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4348,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

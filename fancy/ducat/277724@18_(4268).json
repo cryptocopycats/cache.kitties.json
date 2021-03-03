@@ -1,0 +1,23 @@
+{
+  "id": 277724,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-12T21:18:41.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #277724. I enjoy staying woke, picking flowers, and sitting on your computer. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Our friendship will be raunchy, seductive, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "265887@17",
+  "sire": "263953@15",
+  "children": [
+    "291785@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4268,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

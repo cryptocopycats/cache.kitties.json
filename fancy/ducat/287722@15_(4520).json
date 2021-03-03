@@ -1,0 +1,23 @@
+{
+  "id": 287722,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-13T10:03:28.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #287722. I'm a Private Dancer  by day, and I like swiping right by night. My secret indulgence is ice cream. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195166@5",
+  "sire": "269679@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4520,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

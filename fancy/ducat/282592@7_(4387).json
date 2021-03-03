@@ -1,0 +1,29 @@
+{
+  "id": 282592,
+  "name": "Purebred Fancy Ducat",
+  "generation": 7,
+  "created_at": "2017-12-13T02:56:02.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Purebred Fancy Ducat. I've never told anyone this, but I once loved a dog. I would give it all up to be on Oprah. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182656@4",
+  "sire": "185519@6",
+  "children": [
+    "297548@9",
+    "314031@9",
+    "332114@13",
+    "398696@8",
+    "407229@12",
+    "414132@8",
+    "526914@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4387,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 283902,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-13T04:39:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty #283902. I enjoy grooming, tripping my owner, and shakin' dat booty. I once dreamed of being a Mad Scientist. Now I can be found jump-roping all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "19899@16",
+  "sire": "123637@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4423,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

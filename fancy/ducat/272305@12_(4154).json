@@ -1,0 +1,23 @@
+{
+  "id": 272305,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T15:37:37.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #272305. I enjoy eating until I loathe myself, taking selfies, and tricking babies. I once made a platypus dance. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178735@11",
+  "sire": "269655@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4154,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

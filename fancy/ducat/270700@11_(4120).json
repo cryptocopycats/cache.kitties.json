@@ -1,0 +1,23 @@
+{
+  "id": 270700,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T13:17:53.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #270700. I'm a Dogwalker by day, and I like riding the bus by night. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243869@10",
+  "sire": "231529@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4120,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

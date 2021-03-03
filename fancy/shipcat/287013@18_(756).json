@@ -1,0 +1,24 @@
+{
+  "id": 287013,
+  "name": "Meow on the boat!",
+  "generation": 18,
+  "created_at": "2017-12-13T09:11:58.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Meow on the boat!. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up for a Chanel purse. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "189485@7",
+  "sire": "263592@17",
+  "children": [
+    "478613@19",
+    "481300@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 756,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

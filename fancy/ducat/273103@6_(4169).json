@@ -1,0 +1,25 @@
+{
+  "id": 273103,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T16:36:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! My name's Kitty #273103. I once peed on Princess Diana's cat. They had it coming. I am 56% elf, 91% Dispensary Clerk, and otherwise bad at math. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267911@5",
+  "sire": "185200@5",
+  "children": [
+    "282442@7",
+    "283023@7",
+    "286121@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4169,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

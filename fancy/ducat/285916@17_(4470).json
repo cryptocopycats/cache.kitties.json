@@ -1,0 +1,25 @@
+{
+  "id": 285916,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-13T07:41:49.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #285916. I want to live in a world where people believe the world is flat. Some people say I'm the Homer Simpson of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263416@11",
+  "sire": "74709@16",
+  "children": [
+    "298436@18",
+    "305529@18",
+    "346767@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4470,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

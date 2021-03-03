@@ -1,0 +1,26 @@
+{
+  "id": 270902,
+  "name": "RARE DUCK CAT",
+  "generation": 11,
+  "created_at": "2017-12-12T14:09:39.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm RARE DUCK CAT. My friends describe me as ridiculous and tantalizing. I put marmite on everything. Like, everything: hot dogs, chocolate—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239131@10",
+  "sire": "269970@6",
+  "children": [
+    "272539@12",
+    "309111@12",
+    "326177@12",
+    "412774@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4124,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

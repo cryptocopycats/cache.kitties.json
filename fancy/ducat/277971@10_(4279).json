@@ -1,0 +1,23 @@
+{
+  "id": 277971,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T21:41:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #277971. I enjoy chasing string, fighting the patriarchy, and taking selfies. I am 47% hobbit, 92% Skydiving Instructor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "221189@9",
+  "sire": "242531@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4279,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

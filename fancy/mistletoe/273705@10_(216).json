@@ -1,0 +1,23 @@
+{
+  "id": 273705,
+  "name": "CHICCO",
+  "generation": 10,
+  "created_at": "2017-12-12T17:04:08.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm CHICCO. All you need to know about me is I hate cereal with a passion. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "254981@9",
+  "sire": "268215@9",
+  "children": [
+    "355267@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 216,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

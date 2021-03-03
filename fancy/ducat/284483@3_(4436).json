@@ -1,0 +1,24 @@
+{
+  "id": 284483,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-13T05:35:01.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Kitty #284483. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Lisa Simpson of the group. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "120414@2",
+  "sire": "62164@2",
+  "children": [
+    "316474@5",
+    "335640@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4436,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 285297,
+  "name": "THE MAKER",
+  "generation": 18,
+  "created_at": "2017-12-13T06:48:23.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm THE MAKER. I'm a professional Spin Instructor  and I love cereal. My secret indulgence is cantaloupe. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263561@6",
+  "sire": "279584@17",
+  "children": [
+    "306841@19",
+    "850589@19",
+    "864999@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4455,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

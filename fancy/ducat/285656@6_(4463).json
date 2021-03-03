@@ -1,0 +1,24 @@
+{
+  "id": 285656,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T07:21:36.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #285656. I've never told anyone this, but I once clawed a dog. My friends describe me as \"gorgeous.\" It's... accurate. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260180@5",
+  "sire": "178429@4",
+  "children": [
+    "286101@7",
+    "290384@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4463,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

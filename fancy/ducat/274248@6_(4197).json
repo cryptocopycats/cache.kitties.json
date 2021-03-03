@@ -1,0 +1,23 @@
+{
+  "id": 274248,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T17:24:54.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #274248. I'm a professional Ventriloquist and I love wet food. When I'm not practicing witchcraft, I'm volunteering at the local kitten rescue shelter! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187743@5",
+  "sire": "143644@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4197,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

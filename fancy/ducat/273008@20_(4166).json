@@ -1,0 +1,23 @@
+{
+  "id": 273008,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-12T16:29:20.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #273008. I believe the world is flat. Some people say I'm the Michael Scott of the group. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227389@19",
+  "sire": "50304@6",
+  "children": [
+    "319110@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4166,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 285359,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T06:54:39.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #285359. I enjoy picking on mice, staying woke, and tricking babies. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Will you be the ranch dressing to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "264926@5",
+  "sire": "256301@5",
+  "children": [
+    "288281@7",
+    "288861@7",
+    "299396@7",
+    "310515@7",
+    "549329@7",
+    "552833@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4458,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

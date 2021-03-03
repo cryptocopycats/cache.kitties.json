@@ -1,0 +1,25 @@
+{
+  "id": 282837,
+  "name": "Cat Birdler",
+  "generation": 20,
+  "created_at": "2017-12-13T03:09:44.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Cat Birdler. I enjoy reading garfield, taking selfies, and watching Stranger Things. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Will you be the wasabi to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243433@6",
+  "sire": "257820@19",
+  "children": [
+    "320300@21",
+    "372316@21",
+    "1840566@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4394,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

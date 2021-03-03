@@ -1,0 +1,30 @@
+{
+  "id": 275907,
+  "name": "Christmas Kat",
+  "generation": 8,
+  "created_at": "2017-12-12T19:09:03.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Christmas Kat. In high school, I was voted most likely to work at NASA. I once got in a fight with a rhino, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "255609@7",
+  "sire": "248076@7",
+  "children": [
+    "278298@10",
+    "278654@13",
+    "282368@13",
+    "285716@9",
+    "294800@9",
+    "311558@9",
+    "315880@11",
+    "405041@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 224,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 287104,
+  "name": "FestiveMeow",
+  "generation": 8,
+  "created_at": "2017-12-13T09:18:09.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm FestiveMeow. In high school, I was voted most likely to work at NASA. I was voted most likely to work at NASA in college. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "267008@7",
+  "sire": "266369@7",
+  "children": [
+    "288205@9",
+    "290463@9",
+    "307360@18",
+    "457636@9",
+    "636223@9",
+    "1829682@9",
+    "1851539@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 271,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 277000,
+  "name": "Lildafuq Stoove",
+  "generation": 22,
+  "created_at": "2017-12-12T20:30:49.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! Lildafuq Stoove here. I'm here to enjoy hitting on yo' man and tricking babies. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be vegan, prickly, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228906@21",
+  "sire": "224126@10",
+  "children": [
+    "279619@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4254,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

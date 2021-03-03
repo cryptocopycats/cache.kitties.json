@@ -1,0 +1,23 @@
+{
+  "id": 280978,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-13T01:12:53.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #280978. I'm a professional Foreign Film Director and I love ice cream. I once made a chimpanzee jump. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260594@11",
+  "sire": "77882@13",
+  "children": [
+    "283538@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4356,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

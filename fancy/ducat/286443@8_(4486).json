@@ -1,0 +1,23 @@
+{
+  "id": 286443,
+  "name": "McDuckling",
+  "generation": 8,
+  "created_at": "2017-12-13T08:28:02.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's McDuckling. I once peed on Nelson Mandela's cat. They had it coming. In my free time, I can usually be found seductive or jump-roping. Will you be the soy sauce to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242828@6",
+  "sire": "267480@7",
+  "children": [
+    "292803@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4486,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

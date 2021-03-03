@@ -1,0 +1,23 @@
+{
+  "id": 272376,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T15:38:57.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #272376. All you need to know about me is I hate cantaloupe with a passion. I like to listen to Rihanna while grooming. Don't judge me. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "257850@8",
+  "sire": "254181@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4156,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

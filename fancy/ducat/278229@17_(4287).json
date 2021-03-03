@@ -1,0 +1,24 @@
+{
+  "id": 278229,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-12T21:56:53.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Kitty #278229. I enjoy grooming, hitting on yo' man, and sitting on your computer. I once made a dolphin play. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "144003@13",
+  "sire": "269805@16",
+  "children": [
+    "300302@18",
+    "404075@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4287,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

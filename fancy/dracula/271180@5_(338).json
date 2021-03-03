@@ -1,0 +1,23 @@
+{
+  "id": 271180,
+  "name": "Dracula 3/3 Gen 5",
+  "generation": 5,
+  "created_at": "2017-12-12T14:36:26.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Dracula 3/3 Gen 5. I'm a professional Aerobics Athlete  and I love salad. I once cleaned a rabbit. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "268517@4",
+  "sire": "271022@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 338,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

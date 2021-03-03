@@ -1,0 +1,24 @@
+{
+  "id": 279527,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T23:35:12.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #279527. All you need to know about me is I hate steak with a passion. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258738@5",
+  "sire": "259432@8",
+  "children": [
+    "281739@10",
+    "298850@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4321,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

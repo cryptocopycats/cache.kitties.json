@@ -1,0 +1,26 @@
+{
+  "id": 282426,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-13T02:47:43.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Kitty #282426 here. I'm here to enjoy fighting for the people and staying woke. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "197515@3",
+  "sire": "140398@2",
+  "children": [
+    "303292@5",
+    "321485@5",
+    "322426@5",
+    "363975@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4381,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

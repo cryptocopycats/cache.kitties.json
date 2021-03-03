@@ -1,0 +1,27 @@
+{
+  "id": 285329,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-13T06:50:58.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Kitty #285329 here. I'm here to enjoy picking on mice and reading garfield. I once made a moose drink. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "268192@10",
+  "sire": "270332@16",
+  "children": [
+    "290725@18",
+    "307422@18",
+    "333388@20",
+    "409623@20",
+    "466002@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4457,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 288089,
+  "name": "Thoroughbred Dracula 100%",
+  "generation": 10,
+  "created_at": "2017-12-13T10:36:13.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Thoroughbred Dracula 100%. I'm a Ventriloquist by day, and I like sleeping in fresh laundry by night. In my free time, I can usually be found ridiculous or reading Danielle Steele. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "213402@9",
+  "sire": "238787@8",
+  "children": [
+    "309615@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 399,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 286916,
+  "name": "Shiro しろ",
+  "generation": 14,
+  "created_at": "2017-12-13T09:04:33.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Shiro しろ. I enjoy chasing string, staying woke, and picking on mice. Sometimes I daydream of a life full of reading garfield, apple pie, and watching reality tv. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172422@13",
+  "sire": "53709@11",
+  "children": [
+    "370168@15",
+    "376080@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4498,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 286701,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-13T08:45:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #286701. I'm a Dispensary Clerk by day, and I like mocking dogs by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241790@10",
+  "sire": "159723@16",
+  "children": [
+    "297238@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4493,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

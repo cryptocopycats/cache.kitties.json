@@ -1,0 +1,23 @@
+{
+  "id": 282900,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T03:15:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #282900. My friends describe me as vegan and wondrous. I once made a gecko leap. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278643@7",
+  "sire": "276978@7",
+  "children": [
+    "292827@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4397,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

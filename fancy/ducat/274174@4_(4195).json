@@ -1,0 +1,23 @@
+{
+  "id": 274174,
+  "name": "RARE FANCY DUCAT",
+  "generation": 4,
+  "created_at": "2017-12-12T17:21:24.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm RARE FANCY DUCAT. I believe that one day cats will rule this planet. Some people say I'm the Neville Longbottom of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "268995@3",
+  "sire": "268307@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4195,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

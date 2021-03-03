@@ -1,0 +1,29 @@
+{
+  "id": 276025,
+  "name": "Ducat =) fancy Gen6",
+  "generation": 6,
+  "created_at": "2017-12-12T19:16:36.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Ducat =) fancy Gen6. I'm often referred to as the Homer Simpson of the group. I like to listen to Frank Sinatra while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188880@5",
+  "sire": "184481@5",
+  "children": [
+    "280214@9",
+    "289796@7",
+    "294966@7",
+    "321970@15",
+    "325576@7",
+    "332955@7",
+    "540861@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4231,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

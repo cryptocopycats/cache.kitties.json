@@ -1,0 +1,29 @@
+{
+  "id": 271603,
+  "name": "Elf On A Shelf",
+  "generation": 9,
+  "created_at": "2017-12-12T15:04:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Elf On A Shelf. All you need to know about me is I hate salad with a passion. When no one's home, I invite my pals over and we listen to Wutang. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "214946@7",
+  "sire": "268908@8",
+  "children": [
+    "274065@14",
+    "275316@10",
+    "276994@16",
+    "291471@11",
+    "293140@11",
+    "306069@10",
+    "319970@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 211,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

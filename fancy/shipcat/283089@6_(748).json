@@ -1,0 +1,25 @@
+{
+  "id": 283089,
+  "name": "Virgin Snappy Shipcat",
+  "generation": 6,
+  "created_at": "2017-12-13T03:28:46.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Virgin Snappy Shipcat. I enjoy sweating through my feet, glaring at the neighbour's cat, and eating until I loathe myself. I was voted biggest teacher's pet in college. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "155192@4",
+  "sire": "231816@5",
+  "children": [
+    "291886@7",
+    "345767@7",
+    "356644@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 748,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

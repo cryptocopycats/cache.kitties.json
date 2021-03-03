@@ -1,0 +1,28 @@
+{
+  "id": 272689,
+  "name": "Kitty #272689",
+  "generation": 5,
+  "created_at": "2017-12-12T15:59:49.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #272689. I'm often referred to as the Bart Simpson of the group. I am 30% fairy, 70% Private Dancer , and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152583@3",
+  "sire": "208115@4",
+  "children": [
+    "284117@6",
+    "310347@6",
+    "324489@6",
+    "349334@6",
+    "654252@6",
+    "678609@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4163,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

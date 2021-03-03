@@ -1,0 +1,25 @@
+{
+  "id": 271318,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T14:41:42.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Kitty #271318. In high school, I was voted school jock. I once made a chimpanzee trot. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267911@5",
+  "sire": "191882@5",
+  "children": [
+    "271618@7",
+    "273306@7",
+    "281202@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4136,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

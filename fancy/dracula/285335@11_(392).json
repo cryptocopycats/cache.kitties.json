@@ -1,0 +1,28 @@
+{
+  "id": 285335,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-13T06:51:46.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #285335. I'm often referred to as the Ross Geller of the group. My friends describe me as \"brilliant.\" It's... accurate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "270962@10",
+  "sire": "270314@10",
+  "children": [
+    "289677@12",
+    "305262@12",
+    "311768@14",
+    "367393@12",
+    "400328@15",
+    "731382@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 392,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

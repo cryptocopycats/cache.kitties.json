@@ -1,0 +1,27 @@
+{
+  "id": 283053,
+  "name": "L3 Infrastructure Engineer",
+  "generation": 7,
+  "created_at": "2017-12-13T03:25:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm L3 Infrastructure Engineer. I enjoy watching Stranger Things, tripping my owner, and chasing string. In my free time, I can usually be found gorgeous or volunteering at the local kitten rescue shelter. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "263049@6",
+  "sire": "270111@6",
+  "children": [
+    "289307@8",
+    "401212@23",
+    "406023@17",
+    "406775@18",
+    "407764@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 256,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

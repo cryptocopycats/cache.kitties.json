@@ -1,0 +1,30 @@
+{
+  "id": 283871,
+  "name": "Gold bird",
+  "generation": 7,
+  "created_at": "2017-12-13T04:38:40.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Gold bird. My friends describe me as fabulous and hairy. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "281096@6",
+  "sire": "251937@6",
+  "children": [
+    "284696@8",
+    "287915@8",
+    "288942@14",
+    "289865@8",
+    "334808@8",
+    "335607@8",
+    "345615@10",
+    "375957@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4421,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

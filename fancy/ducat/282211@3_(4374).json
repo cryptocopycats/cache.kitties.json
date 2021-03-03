@@ -1,0 +1,25 @@
+{
+  "id": 282211,
+  "name": "Gen 3 Very Rare Ducat BUY NOW",
+  "generation": 3,
+  "created_at": "2017-12-13T02:35:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Gen 3 Very Rare Ducat BUY NOW. I've never told anyone this, but I once frolicked with a dog. I once frolicked with a rabbit. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224343@2",
+  "sire": "65078@2",
+  "children": [
+    "282476@4",
+    "294924@4",
+    "429956@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4374,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

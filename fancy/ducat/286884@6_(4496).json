@@ -1,0 +1,24 @@
+{
+  "id": 286884,
+  "name": "FlyFlyMeow",
+  "generation": 6,
+  "created_at": "2017-12-13T09:03:11.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm FlyFlyMeow. All you need to know about me is I hate cantaloupe with a passion. My great-great-great-great-great-great grandkitty lived with King Henry VIII. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "243453@5",
+  "sire": "244354@5",
+  "children": [
+    "287600@7",
+    "290762@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4496,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

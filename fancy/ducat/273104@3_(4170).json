@@ -1,0 +1,32 @@
+{
+  "id": 273104,
+  "name": "Mr. Fancy",
+  "generation": 3,
+  "created_at": "2017-12-12T16:36:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Mr. Fancy. I enjoy breakdancing, tripping my owner, and shakin' dat booty. I'm convinced that the world is flat. One day I'll prove it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258117@1",
+  "sire": "245639@2",
+  "children": [
+    "281598@4",
+    "282213@4",
+    "288173@4",
+    "293059@4",
+    "325989@4",
+    "358298@4",
+    "368834@4",
+    "374116@4",
+    "556659@4",
+    "657069@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4170,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

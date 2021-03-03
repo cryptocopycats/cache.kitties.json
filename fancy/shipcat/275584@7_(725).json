@@ -1,0 +1,23 @@
+{
+  "id": 275584,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T18:46:03.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #275584. I'm a Private Dancer  by day, and I like siring for status by night. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "267916@6",
+  "sire": "268066@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 725,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

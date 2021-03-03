@@ -1,0 +1,25 @@
+{
+  "id": 271435,
+  "name": "ZEFIRKA",
+  "generation": 2,
+  "created_at": "2017-12-12T14:51:59.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm ZEFIRKA. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "245435@1",
+  "sire": "230566@1",
+  "children": [
+    "289397@3",
+    "289471@3",
+    "291532@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4138,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

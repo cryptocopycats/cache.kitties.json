@@ -1,0 +1,24 @@
+{
+  "id": 279397,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-12T23:28:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! Kitty #279397 here. I'm here to enjoy staying woke and reciting poetry. When I'm not riding the bus, I'm sleeping in fresh laundry! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "266507@2",
+  "sire": "36725@17",
+  "children": [
+    "281386@19",
+    "316552@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 736,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

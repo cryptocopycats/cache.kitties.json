@@ -1,0 +1,23 @@
+{
+  "id": 274794,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T17:59:34.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #274794. All you need to know about me is I hate cantaloupe with a passion. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35688@8",
+  "sire": "27244@9",
+  "children": [
+    "433750@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4209,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

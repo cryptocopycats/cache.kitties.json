@@ -1,0 +1,25 @@
+{
+  "id": 277747,
+  "name": "Chicken-Charlie",
+  "generation": 14,
+  "created_at": "2017-12-12T21:19:46.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Chicken-Charlie. I'm often referred to as the Steve Urkel of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the pickles to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196523@12",
+  "sire": "141779@13",
+  "children": [
+    "296859@15",
+    "435940@15",
+    "1402884@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4269,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

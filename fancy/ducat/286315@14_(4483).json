@@ -1,0 +1,23 @@
+{
+  "id": 286315,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-13T08:12:43.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #286315. I want to live in a world where people believe the world is flat. I am 2% gremlin, 56% Skydiving Instructor, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283260@13",
+  "sire": "270026@11",
+  "children": [
+    "287396@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4483,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

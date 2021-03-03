@@ -1,0 +1,23 @@
+{
+  "id": 282571,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-13T02:53:22.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #282571. I'm a professional Foreign Film Director and I love cantaloupe. I once got in a fight with a platypus, and won. Our friendship will be hairy, wondrous, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103148@2",
+  "sire": "276892@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4386,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 281337,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-13T01:36:38.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Kitty #281337. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of tricking babies, steak, and people-watching. Will you be the ranch dressing to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280916@5",
+  "sire": "280952@8",
+  "children": [
+    "286070@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4362,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

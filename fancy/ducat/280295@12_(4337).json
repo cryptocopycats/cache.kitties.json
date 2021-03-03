@@ -1,0 +1,24 @@
+{
+  "id": 280295,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-13T00:23:58.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! Kitty #280295 here. I'm here to enjoy grooming and fighting the patriarchy. My secret indulgence is salad. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "233506@11",
+  "sire": "260580@11",
+  "children": [
+    "284511@13",
+    "303688@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4337,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 275508,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-12T18:39:47.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Kitty #275508. All you need to know about me is I hate wet food with a passion. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "50089@13",
+  "sire": "117891@5",
+  "children": [
+    "284594@15",
+    "315389@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 724,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

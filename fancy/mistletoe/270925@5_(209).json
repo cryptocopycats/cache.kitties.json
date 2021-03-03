@@ -1,0 +1,24 @@
+{
+  "id": 270925,
+  "name": "Santa Paws",
+  "generation": 5,
+  "created_at": "2017-12-12T14:12:34.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Santa Paws. I'm a professional Foreign Film Director and I love steak. Some people say I'm the Steve Urkel of the group. I look forward to fighting for the people with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "263289@4",
+  "sire": "265368@4",
+  "children": [
+    "271741@6",
+    "291033@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 209,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 272274,
+  "name": "Adventurer of Manx",
+  "generation": 6,
+  "created_at": "2017-12-12T15:36:02.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's Adventurer of Manx. I once peed on Princess Diana's cat. They had it coming. I'm often described as wondrous, and I own it. Will you be the marmalade to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "251886@5",
+  "sire": "260637@5",
+  "children": [
+    "302886@8",
+    "328585@9",
+    "332502@9",
+    "343471@9",
+    "351015@9",
+    "376737@9",
+    "522399@11",
+    "549194@7",
+    "559302@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 346,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

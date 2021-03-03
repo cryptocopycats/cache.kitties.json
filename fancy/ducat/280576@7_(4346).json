@@ -1,0 +1,27 @@
+{
+  "id": 280576,
+  "name": "7代极品变异猫3折出售",
+  "generation": 7,
+  "created_at": "2017-12-13T00:44:02.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! 7代极品变异猫3折出售 here. I'm here to enjoy breakdancing and picking flowers. Some people say I'm the Frodo Baggins of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "238026@6",
+  "sire": "233378@6",
+  "children": [
+    "281693@8",
+    "282339@8",
+    "285395@8",
+    "288918@8",
+    "321783@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4346,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

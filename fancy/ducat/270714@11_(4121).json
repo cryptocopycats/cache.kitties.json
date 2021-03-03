@@ -1,0 +1,25 @@
+{
+  "id": 270714,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T13:30:38.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #270714. I'm a Foreign Film Director by day, and I like playing chess by night. I once dreamed of being a Train Conductor. Now I can be found running a podcast all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178436@10",
+  "sire": "240553@7",
+  "children": [
+    "270948@12",
+    "307633@14",
+    "313596@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4121,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

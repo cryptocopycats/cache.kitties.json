@@ -1,0 +1,27 @@
+{
+  "id": 283913,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T04:40:20.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #283913. I believe that one day cats will rule this planet. I once dreamed of being a Foreign Film Director. Now I can be found mocking dogs all day. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "273043@5",
+  "sire": "271649@5",
+  "children": [
+    "285591@7",
+    "295697@8",
+    "302772@13",
+    "549194@7",
+    "559302@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 385,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 279903,
+  "name": "Unique*Fancy🦆Cat",
+  "generation": 8,
+  "created_at": "2017-12-12T23:57:25.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Unique*Fancy🦆Cat. My friends describe me as smelly and brilliant. When no one's home, I invite my pals over and we listen to Ace of Base. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "279366@7",
+  "sire": "224959@5",
+  "children": [
+    "287137@9",
+    "313805@9",
+    "346394@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4329,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

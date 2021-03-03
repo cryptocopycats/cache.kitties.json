@@ -1,0 +1,27 @@
+{
+  "id": 285717,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T07:28:00.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #285717. I believe that one day cats will rule this planet. It's not common knowledge, but my ancestry connects me to Cleopatra. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "265334@5",
+  "sire": "255788@1",
+  "children": [
+    "291330@11",
+    "299687@19",
+    "325284@17",
+    "364716@11",
+    "381984@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4465,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

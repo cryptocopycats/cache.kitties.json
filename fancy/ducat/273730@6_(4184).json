@@ -1,0 +1,29 @@
+{
+  "id": 273730,
+  "name": "FancyDuCat",
+  "generation": 6,
+  "created_at": "2017-12-12T17:04:48.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm FancyDuCat. I'm often referred to as the Homer Simpson of the group. I'm often described as wondrous, and I own it. I look forward to grooming with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "264926@5",
+  "sire": "247827@5",
+  "children": [
+    "274288@7",
+    "274538@7",
+    "280661@7",
+    "283656@7",
+    "290407@7",
+    "556952@7",
+    "575100@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4184,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

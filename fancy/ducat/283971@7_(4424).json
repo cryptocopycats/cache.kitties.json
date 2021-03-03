@@ -1,0 +1,23 @@
+{
+  "id": 283971,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T04:43:59.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #283971. All you need to know about me is I hate cereal with a passion. When I'm not running a podcast, I'm reading Danielle Steele! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "271942@5",
+  "sire": "255423@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4424,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

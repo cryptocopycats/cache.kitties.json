@@ -1,0 +1,23 @@
+{
+  "id": 273611,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T16:59:27.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #273611. I'm a professional Dispensary Clerk and I love apple pie. I like to listen to Michael Bolton while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "265412@6",
+  "sire": "272133@11",
+  "children": [
+    "313877@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4181,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

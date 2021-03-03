@@ -1,0 +1,23 @@
+{
+  "id": 280536,
+  "name": "Taubi NüS",
+  "generation": 9,
+  "created_at": "2017-12-13T00:40:40.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Taubi NüS. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Wutang. Our friendship will be annoying, preposterous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "279895@8",
+  "sire": "279832@8",
+  "children": [
+    "281351@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4340,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

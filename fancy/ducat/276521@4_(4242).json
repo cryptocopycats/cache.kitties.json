@@ -1,0 +1,30 @@
+{
+  "id": 276521,
+  "name": "- Mrs. DuC Limited #4242-",
+  "generation": 4,
+  "created_at": "2017-12-12T19:50:27.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm - Mrs. DuC Limited #4242-. All you need to know about me is I hate salad with a passion. My secret indulgence is wet food. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276075@3",
+  "sire": "276057@3",
+  "children": [
+    "277021@5",
+    "277284@5",
+    "277740@5",
+    "282653@6",
+    "284836@5",
+    "300921@5",
+    "423050@7",
+    "430481@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4242,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

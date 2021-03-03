@@ -1,0 +1,27 @@
+{
+  "id": 287379,
+  "name": "鸟猫",
+  "generation": 9,
+  "created_at": "2017-12-13T09:40:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm 鸟猫. I'm often referred to as the Hermione Granger of the group. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "286412@8",
+  "sire": "285240@8",
+  "children": [
+    "334628@10",
+    "352072@13",
+    "360698@10",
+    "377242@10",
+    "382559@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4512,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

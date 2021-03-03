@@ -1,0 +1,29 @@
+{
+  "id": 287950,
+  "name": "DuCat 8-1",
+  "generation": 8,
+  "created_at": "2017-12-13T10:21:59.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm DuCat 8-1. I've never told anyone this, but I once pranced with a dog. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "89596@7",
+  "sire": "208101@7",
+  "children": [
+    "289510@9",
+    "292172@9",
+    "299243@9",
+    "307073@9",
+    "315258@9",
+    "555602@9",
+    "600065@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4526,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

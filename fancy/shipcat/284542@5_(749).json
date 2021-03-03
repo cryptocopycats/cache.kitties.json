@@ -1,0 +1,29 @@
+{
+  "id": 284542,
+  "name": "Pirate Kitty",
+  "generation": 5,
+  "created_at": "2017-12-13T05:39:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Pirate Kitty. I'm often referred to as the Homer Simpson of the group. My secret indulgence is lasagna. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "233616@4",
+  "sire": "262882@4",
+  "children": [
+    "310534@7",
+    "311162@7",
+    "315145@6",
+    "319739@8",
+    "364325@6",
+    "373078@7",
+    "424920@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 749,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 271531,
+  "name": "Tweety",
+  "generation": 15,
+  "created_at": "2017-12-12T14:59:17.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Tweety. I'm a Dogwalker by day, and I like volunteering at the local kitten rescue shelter by night. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "240111@14",
+  "sire": "236415@14",
+  "children": [
+    "298541@17",
+    "369190@16",
+    "422568@16",
+    "433590@16",
+    "448358@16",
+    "457149@16",
+    "471666@20",
+    "558330@17",
+    "638629@17",
+    "681326@16",
+    "1105161@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4140,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

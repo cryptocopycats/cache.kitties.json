@@ -1,0 +1,23 @@
+{
+  "id": 282560,
+  "name": "ShipCat Brisk",
+  "generation": 13,
+  "created_at": "2017-12-13T02:53:10.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm ShipCat Brisk. I believe that one day cats will rule this planet. When I'm not siring for status, I'm people-watching! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "235693@7",
+  "sire": "231872@12",
+  "children": [
+    "317363@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 745,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

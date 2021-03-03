@@ -1,0 +1,28 @@
+{
+  "id": 273635,
+  "name": "Virgin - BOTH PARENTS FANCY!",
+  "generation": 8,
+  "created_at": "2017-12-12T17:00:06.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Virgin - BOTH PARENTS FANCY!. I'm often referred to as the Bart Simpson of the group. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250712@7",
+  "sire": "208024@7",
+  "children": [
+    "279221@9",
+    "345137@9",
+    "346541@20",
+    "349262@15",
+    "353719@9",
+    "396763@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4182,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

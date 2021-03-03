@@ -1,0 +1,25 @@
+{
+  "id": 279257,
+  "name": "Pirate offspring 2",
+  "generation": 4,
+  "created_at": "2017-12-12T23:17:47.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! Pirate offspring 2 here. I'm here to enjoy picking on mice and eating lasagna. I put ranch dressing on everything. Like, everything: hot dogs, chocolate—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "123311@3",
+  "sire": "261834@3",
+  "children": [
+    "959629@5",
+    "959859@5",
+    "961056@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 733,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

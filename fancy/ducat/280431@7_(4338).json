@@ -1,0 +1,28 @@
+{
+  "id": 280431,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T00:34:10.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #280431. I've never told anyone this, but I once frolicked with a dog. I once dreamed of being a Mad Scientist. Now I can be found mocking dogs all day. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249885@6",
+  "sire": "259929@6",
+  "children": [
+    "1105472@9",
+    "1105607@9",
+    "1105915@9",
+    "1106334@9",
+    "1106986@8",
+    "1110391@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4338,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

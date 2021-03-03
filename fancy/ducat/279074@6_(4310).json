@@ -1,0 +1,24 @@
+{
+  "id": 279074,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T23:08:30.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #279074. I'm often referred to as the Homer Simpson of the group. I was voted biggest teacher's pet in college. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227274@5",
+  "sire": "229569@5",
+  "children": [
+    "295952@7",
+    "307993@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4310,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

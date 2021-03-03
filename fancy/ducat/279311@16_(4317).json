@@ -1,0 +1,25 @@
+{
+  "id": 279311,
+  "name": "Blue Bird",
+  "generation": 16,
+  "created_at": "2017-12-12T23:22:09.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Blue Bird. I believe that one day cats will rule this planet. My secret indulgence is cereal. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "130064@11",
+  "sire": "170270@15",
+  "children": [
+    "292034@17",
+    "308478@17",
+    "334464@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4317,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 283249,
+  "name": "Subry",
+  "generation": 6,
+  "created_at": "2017-12-13T03:38:26.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Subry. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of chasing string, hamburgers, and running a podcast. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270742@3",
+  "sire": "275802@5",
+  "children": [
+    "336274@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4407,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

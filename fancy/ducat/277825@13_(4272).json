@@ -1,0 +1,24 @@
+{
+  "id": 277825,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-12T21:25:54.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #277825. My friends describe me as wondrous and gorgeous. When no one's home, I invite my pals over and we listen to Wutang. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "225536@12",
+  "sire": "223855@11",
+  "children": [
+    "307581@15",
+    "348481@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4272,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

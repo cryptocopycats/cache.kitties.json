@@ -1,0 +1,27 @@
+{
+  "id": 275432,
+  "name": "x2 ShipCat",
+  "generation": 9,
+  "created_at": "2017-12-12T18:35:45.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm x2 ShipCat. I'm often referred to as the Michael Scott of the group. I would give it all up to star in a soap opera. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "269637@8",
+  "sire": "43810@8",
+  "children": [
+    "279354@10",
+    "284252@10",
+    "288127@10",
+    "307736@10",
+    "322760@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 723,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 278871,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-12T22:50:39.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #278871. All you need to know about me is I hate lasagna with a passion. My secret indulgence is hamburgers. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "198197@16",
+  "sire": "237071@11",
+  "children": [
+    "292003@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4305,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

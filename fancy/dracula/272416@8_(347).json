@@ -1,0 +1,24 @@
+{
+  "id": 272416,
+  "name": "Federica The Wild",
+  "generation": 8,
+  "created_at": "2017-12-12T15:39:38.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Federica The Wild. I believe the world is flat. My secret indulgence is lasagna. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "195985@7",
+  "sire": "266133@7",
+  "children": [
+    "327632@9",
+    "329571@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 347,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

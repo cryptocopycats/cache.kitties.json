@@ -1,0 +1,24 @@
+{
+  "id": 275040,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T18:17:26.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #275040. I'm a Private Dancer  by day, and I like talking about how much I lift by night. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "270095@9",
+  "sire": "167678@8",
+  "children": [
+    "276156@11",
+    "285825@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 358,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

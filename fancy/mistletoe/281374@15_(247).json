@@ -1,0 +1,27 @@
+{
+  "id": 281374,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-13T01:39:19.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #281374. I'm often referred to as the Marge Simpson of the group. I once got in a fight with a labradoodle, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "231576@12",
+  "sire": "259307@14",
+  "children": [
+    "288465@16",
+    "309707@16",
+    "329805@16",
+    "333282@16",
+    "349138@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 247,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 279155,
+  "name": "🎄4-2🎄",
+  "generation": 4,
+  "created_at": "2017-12-12T23:13:00.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm 🎄4-2🎄. In high school, I was voted school jock. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "257485@2",
+  "sire": "221840@3",
+  "children": [
+    "279482@5",
+    "280139@5",
+    "320672@5",
+    "321715@5",
+    "324880@5",
+    "326271@5",
+    "330184@5",
+    "344377@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 241,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

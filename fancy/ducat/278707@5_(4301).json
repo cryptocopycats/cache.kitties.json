@@ -1,0 +1,23 @@
+{
+  "id": 278707,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-12T22:37:32.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #278707. In high school, I was voted school jock. I once snuggled a dog. I don't like to talk about it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276446@4",
+  "sire": "175795@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4301,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

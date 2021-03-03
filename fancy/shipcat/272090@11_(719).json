@@ -1,0 +1,25 @@
+{
+  "id": 272090,
+  "name": "Fancy ShipCat Jaguar Otaku",
+  "generation": 11,
+  "created_at": "2017-12-12T15:26:47.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! Fancy ShipCat Jaguar Otaku here. I'm here to enjoy spinning sick beats and hitting on yo' man. I'm often described as stinky, and I own it. Our friendship will be gorgeous, petulant, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "267537@10",
+  "sire": "267560@10",
+  "children": [
+    "298902@12",
+    "302585@12",
+    "324377@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 719,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

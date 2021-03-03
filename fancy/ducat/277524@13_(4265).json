@@ -1,0 +1,26 @@
+{
+  "id": 277524,
+  "name": "Donald",
+  "generation": 13,
+  "created_at": "2017-12-12T21:04:56.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Donald. I'm often referred to as the Bart Simpson of the group. In my free time, I can usually be found prickly or volunteering at the local kitten rescue shelter. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147407@10",
+  "sire": "178338@12",
+  "children": [
+    "305105@14",
+    "307876@14",
+    "322197@14",
+    "449838@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4265,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

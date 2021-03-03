@@ -1,0 +1,25 @@
+{
+  "id": 276665,
+  "name": "Nat",
+  "generation": 13,
+  "created_at": "2017-12-12T20:03:14.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Nat. In high school, I was voted school jock. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "89095@12",
+  "sire": "87490@8",
+  "children": [
+    "301225@15",
+    "308828@14",
+    "343601@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4246,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

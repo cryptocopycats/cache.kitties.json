@@ -1,0 +1,24 @@
+{
+  "id": 274823,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T18:02:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #274823. I'm a Skydiving Instructor by day, and I like reading Danielle Steele by night. I once got in a fight with a goose, and won. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "271640@6",
+  "sire": "230908@5",
+  "children": [
+    "300243@8",
+    "402162@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 220,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

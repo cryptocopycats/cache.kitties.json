@@ -1,0 +1,24 @@
+{
+  "id": 275558,
+  "name": "Daisy",
+  "generation": 7,
+  "created_at": "2017-12-12T18:43:31.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Daisy. My friends describe me as raunchy and preposterous. I'm often described as wondrous, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249885@6",
+  "sire": "259929@6",
+  "children": [
+    "313499@13",
+    "354377@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4222,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

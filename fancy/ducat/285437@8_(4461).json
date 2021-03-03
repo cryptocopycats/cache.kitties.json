@@ -1,0 +1,28 @@
+{
+  "id": 285437,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T07:03:20.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #285437. I enjoy breakdancing, sitting on your computer, and shakin' dat booty. When no one's home, I invite my pals over and we listen to Coldplay. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280735@5",
+  "sire": "269358@7",
+  "children": [
+    "286280@9",
+    "295686@9",
+    "306213@9",
+    "318589@10",
+    "1494776@12",
+    "1497583@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4461,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 274765,
+  "name": "G9 Xmas Cat",
+  "generation": 9,
+  "created_at": "2017-12-12T17:58:47.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm G9 Xmas Cat. My friends describe me as preposterous and despicable. It's not common knowledge, but my ancestry connects me to Cleopatra. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "273517@8",
+  "sire": "256127@6",
+  "children": [
+    "278614@10",
+    "287400@10",
+    "289130@11",
+    "291408@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 219,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

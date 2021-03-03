@@ -1,0 +1,25 @@
+{
+  "id": 272759,
+  "name": "Pickles",
+  "generation": 6,
+  "created_at": "2017-12-12T16:06:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! My name's Pickles. I once peed on Cleopatra's cat. They had it coming. I once groomed a rhino. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "163877@5",
+  "sire": "98128@4",
+  "children": [
+    "273852@7",
+    "305437@8",
+    "318438@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4164,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

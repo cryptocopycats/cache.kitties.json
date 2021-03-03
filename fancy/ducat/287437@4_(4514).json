@@ -1,0 +1,23 @@
+{
+  "id": 287437,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-13T09:44:41.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #287437. I'm a professional Aerobics Athlete  and I love chocolate. Some people say I'm the Bart Simpson of the group. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155799@3",
+  "sire": "250580@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4514,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

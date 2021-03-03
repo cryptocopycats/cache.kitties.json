@@ -1,0 +1,26 @@
+{
+  "id": 281515,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T01:50:22.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! My name's Kitty #281515. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I once dreamed of being a Mad Scientist. Now I can be found siring for status all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "272171@6",
+  "sire": "265296@6",
+  "children": [
+    "282189@8",
+    "285240@8",
+    "286889@8",
+    "288135@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4364,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

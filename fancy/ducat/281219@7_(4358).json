@@ -1,0 +1,26 @@
+{
+  "id": 281219,
+  "name": "TitanicSwimTeam",
+  "generation": 7,
+  "created_at": "2017-12-13T01:27:56.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's TitanicSwimTeam. I once peed on Nelson Mandela's cat. They had it coming. When no one's home, I invite my pals over and we listen to Frank Sinatra. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160285@6",
+  "sire": "256746@3",
+  "children": [
+    "287471@8",
+    "291858@8",
+    "333219@8",
+    "338120@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4358,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

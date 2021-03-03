@@ -1,0 +1,23 @@
+{
+  "id": 285507,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-13T07:07:55.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #285507. I've never told anyone this, but I once loved a dog. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "285124@1",
+  "sire": "285113@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 751,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

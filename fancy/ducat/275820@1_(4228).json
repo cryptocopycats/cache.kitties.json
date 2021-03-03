@@ -1,0 +1,23 @@
+{
+  "id": 275820,
+  "name": null,
+  "generation": 1,
+  "created_at": "2017-12-12T19:02:39.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #275820. In high school, I was voted school jock. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, apple pie—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "215083@0",
+  "sire": "213344@0",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4228,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 287251,
+  "name": "Fancy Chandler",
+  "generation": 13,
+  "created_at": "2017-12-13T09:30:11.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Fancy Chandler. I'm a professional Aerobics Athlete  and I love cantaloupe. Some people say I'm the Chandler Bing of the group. Our friendship will be tantalizing, despicable, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266996@12",
+  "sire": "267488@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4509,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

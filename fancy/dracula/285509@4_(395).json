@@ -1,0 +1,23 @@
+{
+  "id": 285509,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-13T07:08:41.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #285509. I've never told anyone this, but I once bit a dog. I am 34% troll, 72% Ventriloquist, and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "147264@3",
+  "sire": "119550@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 395,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

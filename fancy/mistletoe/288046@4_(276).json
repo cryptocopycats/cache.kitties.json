@@ -1,0 +1,32 @@
+{
+  "id": 288046,
+  "name": "Fancy:Mistletoe",
+  "generation": 4,
+  "created_at": "2017-12-13T10:32:16.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Fancy:Mistletoe. My friends describe me as gorgeous and preposterous. I like to listen to Gloria Estefan while grooming. Don't judge me. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "225683@3",
+  "sire": "261958@3",
+  "children": [
+    "293693@5",
+    "293848@5",
+    "298151@5",
+    "304114@5",
+    "311398@5",
+    "317162@5",
+    "340450@5",
+    "343670@5",
+    "370009@6",
+    "386694@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 276,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 274700,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T17:53:31.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #274700. I'm a Culinary Sanitation Specialist by day, and I like siring for status by night. I am 42% gremlin, 43% Culinary Sanitation Specialist, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "236972@5",
+  "sire": "239171@6",
+  "children": [
+    "287173@8",
+    "293942@11",
+    "309524@8",
+    "318455@14",
+    "348989@8",
+    "365750@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 355,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

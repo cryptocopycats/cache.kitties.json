@@ -1,0 +1,23 @@
+{
+  "id": 283756,
+  "name": "Ronald Rhino Longbottom",
+  "generation": 11,
+  "created_at": "2017-12-13T04:26:28.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Ronald Rhino Longbottom. I'm often referred to as the Neville Longbottom of the group. Some people say I'm the Neville Longbottom of the group. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "149015@6",
+  "sire": "255470@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4418,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

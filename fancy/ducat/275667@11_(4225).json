@@ -1,0 +1,24 @@
+{
+  "id": 275667,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T18:51:32.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #275667. I enjoy taking selfies, shakin' dat booty, and staying woke. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "162932@6",
+  "sire": "88538@10",
+  "children": [
+    "276743@12",
+    "288824@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4225,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

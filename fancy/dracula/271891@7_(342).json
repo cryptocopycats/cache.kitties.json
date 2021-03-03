@@ -1,0 +1,29 @@
+{
+  "id": 271891,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T15:18:15.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #271891. I enjoy grooming, sitting on your computer, and chasing string. My friends describe me as \"preposterous.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "269940@6",
+  "sire": "269903@3",
+  "children": [
+    "290916@12",
+    "307655@8",
+    "307714@12",
+    "321275@8",
+    "326083@15",
+    "330415@8",
+    "356352@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 342,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

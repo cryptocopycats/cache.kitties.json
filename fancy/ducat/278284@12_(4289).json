@@ -1,0 +1,23 @@
+{
+  "id": 278284,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T22:03:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #278284. I believe the world is flat. My secret indulgence is salad. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "215138@6",
+  "sire": "71512@11",
+  "children": [
+    "364405@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4289,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

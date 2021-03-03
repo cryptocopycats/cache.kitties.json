@@ -1,0 +1,23 @@
+{
+  "id": 286960,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T09:07:12.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #286960. I'm often referred to as the Michael Scott of the group. When I'm not riding the bus, I'm prank-calling celebrities! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "286235@6",
+  "sire": "265543@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4500,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

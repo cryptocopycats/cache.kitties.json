@@ -1,0 +1,25 @@
+{
+  "id": 281700,
+  "name": "Lucky Virgin Mate",
+  "generation": 13,
+  "created_at": "2017-12-13T01:59:45.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Lucky Virgin Mate. In high school, I was voted school jock. I put marmalade on everything. Like, everything: hot dogs, wet food—everything! I look forward to tripping my owner with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "236987@4",
+  "sire": "178157@12",
+  "children": [
+    "375126@14",
+    "378776@14",
+    "382057@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 743,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

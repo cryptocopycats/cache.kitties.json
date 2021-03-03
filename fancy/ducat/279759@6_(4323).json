@@ -1,0 +1,24 @@
+{
+  "id": 279759,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T23:48:48.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Kitty #279759. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274929@5",
+  "sire": "277414@3",
+  "children": [
+    "280672@7",
+    "288260@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4323,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

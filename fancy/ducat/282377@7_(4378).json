@@ -1,0 +1,24 @@
+{
+  "id": 282377,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T02:46:08.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #282377. I'm a Skydiving Instructor by day, and I like braiding people's hair by night. I was voted biggest teacher's pet in college. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "251964@6",
+  "sire": "259509@6",
+  "children": [
+    "283884@8",
+    "288416@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4378,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

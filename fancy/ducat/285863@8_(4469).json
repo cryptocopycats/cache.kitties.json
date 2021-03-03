@@ -1,0 +1,25 @@
+{
+  "id": 285863,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T07:36:55.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #285863. I believe that one day cats will rule this planet. I would give it all up for a Chanel purse. Will you be the marmite to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280389@7",
+  "sire": "280188@7",
+  "children": [
+    "289958@9",
+    "1824333@9",
+    "1824466@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4469,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

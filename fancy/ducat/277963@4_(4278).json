@@ -1,0 +1,26 @@
+{
+  "id": 277963,
+  "name": "Kappa",
+  "generation": 4,
+  "created_at": "2017-12-12T21:41:03.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kappa. I'm often referred to as the Neville Longbottom of the group. I once kissed a rhino. I don't like to talk about it. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274368@3",
+  "sire": "226799@2",
+  "children": [
+    "357951@5",
+    "360955@5",
+    "362027@5",
+    "362050@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4278,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

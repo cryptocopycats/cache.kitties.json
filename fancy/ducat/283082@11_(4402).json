@@ -1,0 +1,23 @@
+{
+  "id": 283082,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-13T03:28:22.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #283082. I want to live in a world where people believe the world is flat. My friends describe me as \"voluptuous.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191093@10",
+  "sire": "260487@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4402,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

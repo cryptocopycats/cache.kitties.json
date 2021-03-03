@@ -1,0 +1,23 @@
+{
+  "id": 274309,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T17:27:18.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! My name's Kitty #274309. I once peed on Princess Diana's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "171123@7",
+  "sire": "233882@6",
+  "children": [
+    "306484@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4199,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

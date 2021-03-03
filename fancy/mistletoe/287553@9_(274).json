@@ -1,0 +1,25 @@
+{
+  "id": 287553,
+  "name": "ELF",
+  "generation": 9,
+  "created_at": "2017-12-13T09:51:48.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm ELF. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "283687@6",
+  "sire": "261029@8",
+  "children": [
+    "316636@10",
+    "413893@19",
+    "425801@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 274,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

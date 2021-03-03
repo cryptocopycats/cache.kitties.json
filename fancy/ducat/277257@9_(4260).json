@@ -1,0 +1,24 @@
+{
+  "id": 277257,
+  "name": "DuCat",
+  "generation": 9,
+  "created_at": "2017-12-12T20:46:57.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm DuCat. I believe the world is flat. My friends describe me as \"ridiculous.\" It's... accurate. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219765@6",
+  "sire": "251889@8",
+  "children": [
+    "282855@10",
+    "294497@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4260,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

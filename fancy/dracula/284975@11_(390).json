@@ -1,0 +1,31 @@
+{
+  "id": 284975,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-13T06:22:06.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #284975. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up for a Chanel purse. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "263143@10",
+  "sire": "225847@10",
+  "children": [
+    "287748@12",
+    "291299@12",
+    "292013@12",
+    "306336@12",
+    "319514@12",
+    "321733@12",
+    "384492@17",
+    "412443@17",
+    "476980@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 390,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

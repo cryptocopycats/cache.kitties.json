@@ -1,0 +1,24 @@
+{
+  "id": 287595,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T09:54:33.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #287595. I believe the world is flat. In my free time, I can usually be found wondrous or volunteering at the local kitten rescue shelter. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219974@6",
+  "sire": "286817@2",
+  "children": [
+    "657760@10",
+    "1105405@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4515,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

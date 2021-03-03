@@ -1,0 +1,26 @@
+{
+  "id": 281952,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T02:20:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #281952. I enjoy chasing red dots, riding unicorns, and eating lasagna. When I'm not braiding people's hair, I'm reading Danielle Steele! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241620@6",
+  "sire": "239505@6",
+  "children": [
+    "282189@8",
+    "284747@8",
+    "286889@8",
+    "289939@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4371,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

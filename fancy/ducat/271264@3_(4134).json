@@ -1,0 +1,26 @@
+{
+  "id": 271264,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-12T14:40:09.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #271264. My friends describe me as hairy and prickly. I put peanut butter on everything. Like, everything: hot dogs, lasagna—everything! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55301@2",
+  "sire": "183154@2",
+  "children": [
+    "325124@4",
+    "325182@13",
+    "327648@4",
+    "340640@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4134,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 285744,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-13T07:29:37.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #285744. I'm a professional Aerobics Athlete  and I love hamburgers. In my free time, I can usually be found ridiculous or tricking babies. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "235172@10",
+  "sire": "230494@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4466,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

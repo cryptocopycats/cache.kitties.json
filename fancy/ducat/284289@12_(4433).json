@@ -1,0 +1,23 @@
+{
+  "id": 284289,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-13T05:11:08.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Kitty #284289. I'm often referred to as the Michael Scott of the group. I put soy sauce on everything. Like, everything: hot dogs, cantaloupe—everything! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259887@6",
+  "sire": "268291@11",
+  "children": [
+    "412528@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4433,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

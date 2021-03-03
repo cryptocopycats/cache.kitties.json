@@ -1,0 +1,23 @@
+{
+  "id": 282570,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-13T02:53:22.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #282570. I enjoy reciting poetry, picking on mice, and being a nevernude. I'm often described as prickly, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260241@9",
+  "sire": "263086@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4385,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

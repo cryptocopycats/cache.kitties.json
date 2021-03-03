@@ -1,0 +1,32 @@
+{
+  "id": 277024,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T20:35:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #277024. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found wondrous or volunteering at the local kitten rescue shelter. Our friendship will be brilliant, vegan, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "242940@8",
+  "sire": "243863@8",
+  "children": [
+    "283510@11",
+    "283537@10",
+    "285365@10",
+    "289607@10",
+    "307434@10",
+    "319958@10",
+    "448502@11",
+    "554771@10",
+    "583656@10",
+    "618587@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 362,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

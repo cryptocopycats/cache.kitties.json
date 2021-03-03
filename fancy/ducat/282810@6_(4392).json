@@ -1,0 +1,29 @@
+{
+  "id": 282810,
+  "name": "Ada",
+  "generation": 6,
+  "created_at": "2017-12-13T03:07:46.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! Ada here. I'm here to enjoy eating lasagna and watching Stranger Things. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187743@5",
+  "sire": "143644@5",
+  "children": [
+    "293576@7",
+    "295894@7",
+    "297648@7",
+    "303527@7",
+    "305128@7",
+    "312207@7",
+    "320495@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4392,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

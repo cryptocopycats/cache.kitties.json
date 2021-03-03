@@ -1,0 +1,23 @@
+{
+  "id": 285644,
+  "name": "Pio!",
+  "generation": 18,
+  "created_at": "2017-12-13T07:21:05.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Pio!. I enjoy tripping my owner, reading garfield, and breakdancing. In my free time, I can usually be found preposterous or pole dancing. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "197274@6",
+  "sire": "146487@17",
+  "children": [
+    "305439@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4462,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

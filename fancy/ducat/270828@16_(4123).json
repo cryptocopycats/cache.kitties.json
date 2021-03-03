@@ -1,0 +1,27 @@
+{
+  "id": 270828,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-12T13:57:08.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! Kitty #270828 here. I'm here to enjoy taking selfies and reciting poetry. My friends describe me as \"ridiculous.\" It's... accurate. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "101804@15",
+  "sire": "108168@15",
+  "children": [
+    "300951@17",
+    "316415@17",
+    "335740@17",
+    "501219@17",
+    "564558@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4123,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

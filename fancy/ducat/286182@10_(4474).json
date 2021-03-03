@@ -1,0 +1,26 @@
+{
+  "id": 286182,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-13T08:02:44.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #286182. I'm a Mad Scientist by day, and I like talking about how much I lift by night. My great-great-great-great-great-great grandkitty lived with Cleopatra. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121488@9",
+  "sire": "285209@8",
+  "children": [
+    "290583@11",
+    "291176@11",
+    "327412@14",
+    "345045@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4474,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

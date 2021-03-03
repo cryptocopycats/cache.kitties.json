@@ -1,0 +1,27 @@
+{
+  "id": 280959,
+  "name": "Bitso Claus",
+  "generation": 11,
+  "created_at": "2017-12-13T01:11:16.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Bitso Claus. I'm often referred to as the Niles Crane of the group. When no one's home, I invite my pals over and we listen to Rihanna. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "269713@10",
+  "sire": "270732@10",
+  "children": [
+    "283354@14",
+    "296020@14",
+    "304240@12",
+    "328828@12",
+    "361504@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 245,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

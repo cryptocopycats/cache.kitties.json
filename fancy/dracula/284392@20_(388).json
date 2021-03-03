@@ -1,0 +1,23 @@
+{
+  "id": 284392,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-13T05:24:01.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! My name's Kitty #284392. I once peed on Marie Antoinette's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "53091@19",
+  "sire": "112287@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 388,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

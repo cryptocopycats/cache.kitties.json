@@ -1,0 +1,27 @@
+{
+  "id": 272468,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T15:42:37.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #272468. I enjoy being a nevernude, chasing string, and reciting poetry. When I'm not sleeping in fresh laundry, I'm swiping left! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "272171@6",
+  "sire": "265296@6",
+  "children": [
+    "273489@9",
+    "1107074@8",
+    "1107287@8",
+    "1109268@8",
+    "1110328@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4160,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

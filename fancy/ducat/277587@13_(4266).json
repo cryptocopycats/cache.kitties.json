@@ -1,0 +1,24 @@
+{
+  "id": 277587,
+  "name": "Dafuq Van Dassen",
+  "generation": 13,
+  "created_at": "2017-12-12T21:09:16.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Dafuq Van Dassen. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a gecko, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270778@12",
+  "sire": "193948@9",
+  "children": [
+    "279619@23",
+    "283790@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4266,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

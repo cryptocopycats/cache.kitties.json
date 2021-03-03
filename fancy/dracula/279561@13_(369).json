@@ -1,0 +1,26 @@
+{
+  "id": 279561,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-12T23:37:02.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #279561. I've never told anyone this, but I once headbutted a dog. My secret indulgence is ice cream. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "228577@12",
+  "sire": "254954@6",
+  "children": [
+    "330512@14",
+    "331528@14",
+    "339901@14",
+    "372437@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 369,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

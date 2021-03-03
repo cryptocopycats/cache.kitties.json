@@ -1,0 +1,25 @@
+{
+  "id": 287788,
+  "name": "Pussy Galore",
+  "generation": 6,
+  "created_at": "2017-12-13T10:09:23.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Pussy Galore. I enjoy riding unicorns, eating lasagna, and fighting for the people. I'm often described as stinky, and I own it. Will you be the peanut butter to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "220299@4",
+  "sire": "287527@5",
+  "children": [
+    "310534@7",
+    "315426@9",
+    "417564@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4524,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

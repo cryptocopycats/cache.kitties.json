@@ -1,0 +1,28 @@
+{
+  "id": 281463,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T01:45:38.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #281463. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "271649@5",
+  "sire": "273043@5",
+  "children": [
+    "281978@7",
+    "292835@7",
+    "293677@7",
+    "308141@7",
+    "312117@7",
+    "327503@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 377,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

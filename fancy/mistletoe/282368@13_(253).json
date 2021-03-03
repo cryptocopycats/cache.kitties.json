@@ -1,0 +1,23 @@
+{
+  "id": 282368,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-13T02:46:03.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #282368. I'm a professional Foreign Film Director and I love cantaloupe. When I'm not volunteering at the local kitten rescue shelter, I'm swiping left! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "275907@8",
+  "sire": "276813@12",
+  "children": [
+    "288997@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 253,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

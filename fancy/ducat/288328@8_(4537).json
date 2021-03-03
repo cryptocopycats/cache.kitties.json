@@ -1,0 +1,23 @@
+{
+  "id": 288328,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T10:58:41.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #288328. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be seductive friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "114178@5",
+  "sire": "279002@7",
+  "children": [
+    "292062@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4537,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 285108,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-13T06:33:37.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #285108. I'm often referred to as the Chandler Bing of the group. My secret indulgence is lasagna. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224281@5",
+  "sire": "224414@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4448,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 285409,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T06:59:28.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #285409. All you need to know about me is I hate chocolate with a passion. I once dreamed of being a Aerobics Athlete . Now I can be found tricking babies all day. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "259242@5",
+  "sire": "267941@6",
+  "children": [
+    "287042@8",
+    "287675@8",
+    "289297@8",
+    "297781@8",
+    "303107@8",
+    "304551@8",
+    "317565@8",
+    "345338@8",
+    "349241@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 266,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

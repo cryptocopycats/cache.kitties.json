@@ -1,0 +1,25 @@
+{
+  "id": 282838,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T03:09:44.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Kitty #282838 here. I'm here to enjoy reciting poetry and sitting on your computer. My secret indulgence is ice cream. Our friendship will be vegan, annoying, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "180354@2",
+  "sire": "153161@5",
+  "children": [
+    "283551@7",
+    "284125@7",
+    "361792@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4395,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

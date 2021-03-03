@@ -1,0 +1,24 @@
+{
+  "id": 286026,
+  "name": "Fancy ShipCat ⚓️",
+  "generation": 21,
+  "created_at": "2017-12-13T07:48:20.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! Fancy ShipCat ⚓️ here. I'm here to enjoy being a nevernude and glaring at the neighbour's cat. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "263886@15",
+  "sire": "276302@20",
+  "children": [
+    "311971@22",
+    "314909@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 754,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

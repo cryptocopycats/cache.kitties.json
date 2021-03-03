@@ -1,0 +1,25 @@
+{
+  "id": 281593,
+  "name": "Bird Law",
+  "generation": 18,
+  "created_at": "2017-12-13T01:53:48.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Bird Law here. I'm here to enjoy spinning sick beats and picking flowers. I put marmite on everything. Like, everything: hot dogs, hamburgers—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "105070@17",
+  "sire": "217724@3",
+  "children": [
+    "292820@20",
+    "425151@20",
+    "1793795@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4366,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
