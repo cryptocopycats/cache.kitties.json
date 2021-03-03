@@ -1,0 +1,30 @@
+{
+  "id": 270314,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T12:35:21.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #270314. My friends describe me as ridiculous and tantalizing. I was voted school jock in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "264659@8",
+  "sire": "264967@9",
+  "children": [
+    "271748@11",
+    "282613@11",
+    "285335@11",
+    "293226@11",
+    "304397@11",
+    "337862@11",
+    "555566@11",
+    "600215@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 332,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

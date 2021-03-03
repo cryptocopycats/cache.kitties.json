@@ -1,0 +1,28 @@
+{
+  "id": 267867,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-12T10:17:06.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #267867. In high school, I was voted school jock. I put peanut butter on everything. Like, everything: hot dogs, lasagna—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "207505@1",
+  "sire": "265099@1",
+  "children": [
+    "290713@3",
+    "309034@3",
+    "385415@3",
+    "408178@3",
+    "441301@3",
+    "1176396@3"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4043,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 270227,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T12:30:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #270227. In high school, I was voted most likely to work at NASA. I would give it all up to be on Oprah. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267698@6",
+  "sire": "256970@10",
+  "children": [
+    "375303@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4105,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

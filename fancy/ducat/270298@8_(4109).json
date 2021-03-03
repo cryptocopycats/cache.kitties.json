@@ -1,0 +1,25 @@
+{
+  "id": 270298,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T12:34:06.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #270298. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. I like to listen to Frank Sinatra while grooming. Don't judge me. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179061@7",
+  "sire": "141253@7",
+  "children": [
+    "271483@9",
+    "313402@9",
+    "329059@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4109,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

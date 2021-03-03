@@ -1,0 +1,24 @@
+{
+  "id": 268172,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T10:32:30.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #268172. I'm often referred to as the Ron Weasley of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "86023@8",
+  "sire": "209954@10",
+  "children": [
+    "431070@12",
+    "431556@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4051,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

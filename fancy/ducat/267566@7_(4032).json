@@ -1,0 +1,23 @@
+{
+  "id": 267566,
+  "name": "Virgin Bird G7",
+  "generation": 7,
+  "created_at": "2017-12-12T10:00:31.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Virgin Bird G7. I believe the world is flat. In my free time, I can usually be found fabulous or playing chess. Our friendship will be stinky, gullible, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258091@6",
+  "sire": "28959@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4032,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 269655,
+  "name": "Ducky",
+  "generation": 11,
+  "created_at": "2017-12-12T11:54:53.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Ducky. I'm often referred to as the Neville Longbottom of the group. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267104@10",
+  "sire": "245078@10",
+  "children": [
+    "272305@12",
+    "311400@12",
+    "319536@12",
+    "325838@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4094,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

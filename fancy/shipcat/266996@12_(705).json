@@ -1,0 +1,24 @@
+{
+  "id": 266996,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-12T09:29:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #266996. I believe the world is flat. I would give it all up for a Chanel purse. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "262173@5",
+  "sire": "261240@11",
+  "children": [
+    "287251@13",
+    "356644@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 705,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 268277,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-12T10:37:36.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #268277. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of riding unicorns, cantaloupe, and summoning ghosts. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40011@14",
+  "sire": "98365@11",
+  "children": [
+    "314784@16",
+    "327732@21",
+    "357955@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4055,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

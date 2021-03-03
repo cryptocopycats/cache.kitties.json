@@ -1,0 +1,24 @@
+{
+  "id": 269276,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-12T11:32:28.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Kitty #269276. I once peed on Princess Diana's cat. They had it coming. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "20524@10",
+  "sire": "63354@8",
+  "children": [
+    "289884@22",
+    "476417@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4084,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

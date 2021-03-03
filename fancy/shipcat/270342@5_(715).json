@@ -1,0 +1,23 @@
+{
+  "id": 270342,
+  "name": "Cat Power",
+  "generation": 5,
+  "created_at": "2017-12-12T12:37:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Cat Power. I'm a professional Aerobics Athlete  and I love salad. I like to listen to Frank Sinatra while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "269083@4",
+  "sire": "254175@4",
+  "children": [
+    "307206@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 715,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

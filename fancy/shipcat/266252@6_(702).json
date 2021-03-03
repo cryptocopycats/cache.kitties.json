@@ -1,0 +1,32 @@
+{
+  "id": 266252,
+  "name": "小水手",
+  "generation": 6,
+  "created_at": "2017-12-12T08:51:17.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm 小水手. I'm a professional Mad Scientist and I love lasagna. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "252084@5",
+  "sire": "262415@5",
+  "children": [
+    "545549@7",
+    "548738@10",
+    "551916@11",
+    "554259@11",
+    "555860@11",
+    "557566@11",
+    "562045@11",
+    "563322@7",
+    "573517@8",
+    "662485@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 702,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

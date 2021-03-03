@@ -1,0 +1,25 @@
+{
+  "id": 270095,
+  "name": "(Pure Vamp) Bloody Murray",
+  "generation": 9,
+  "created_at": "2017-12-12T12:24:30.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm (Pure Vamp) Bloody Murray. I'm a Dogwalker by day, and I like playing chess by night. I once snuggled a gecko. I don't like to talk about it. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "267391@8",
+  "sire": "239456@7",
+  "children": [
+    "270680@10",
+    "275040@10",
+    "883300@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 329,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

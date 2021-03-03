@@ -1,0 +1,32 @@
+{
+  "id": 266387,
+  "name": "RARE XMAS CAT!!!",
+  "generation": 6,
+  "created_at": "2017-12-12T08:58:42.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! My name's RARE XMAS CAT!!!. I once peed on Marie Antoinette's cat. They had it coming. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "266238@5",
+  "sire": "266235@5",
+  "children": [
+    "266685@8",
+    "267709@8",
+    "270214@9",
+    "276170@9",
+    "278653@11",
+    "290855@8",
+    "312032@8",
+    "346922@8",
+    "413093@8",
+    "823630@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 185,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

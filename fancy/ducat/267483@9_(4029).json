@@ -1,0 +1,28 @@
+{
+  "id": 267483,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T09:56:32.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #267483. I want to live in a world where people believe that one day cats will rule this planet. When I'm not mocking dogs, I'm riverdancing! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "222525@8",
+  "sire": "201724@8",
+  "children": [
+    "275648@10",
+    "291142@13",
+    "296838@14",
+    "299336@10",
+    "312350@12",
+    "338589@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4029,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

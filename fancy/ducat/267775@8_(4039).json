@@ -1,0 +1,23 @@
+{
+  "id": 267775,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T10:11:22.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #267775. In high school, I was voted most likely to work at NASA. I'm often described as voluptuous, and I own it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254458@7",
+  "sire": "261613@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4039,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

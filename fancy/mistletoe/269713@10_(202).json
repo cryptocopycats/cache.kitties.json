@@ -1,0 +1,29 @@
+{
+  "id": 269713,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-12T11:58:19.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #269713. I enjoy being a nevernude, hitting on yo' man, and fighting the patriarchy. I was voted biggest teacher's pet in college. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "268853@9",
+  "sire": "255980@8",
+  "children": [
+    "277816@11",
+    "280959@11",
+    "284882@11",
+    "293778@11",
+    "311830@11",
+    "327760@11",
+    "731779@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 202,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

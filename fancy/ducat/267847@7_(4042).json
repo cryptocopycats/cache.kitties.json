@@ -1,0 +1,26 @@
+{
+  "id": 267847,
+  "name": "Adolphous",
+  "generation": 7,
+  "created_at": "2017-12-12T10:15:41.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! Adolphous here. I'm here to enjoy picking flowers and taking selfies. I'm convinced that the world is flat. One day I'll prove it. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267481@6",
+  "sire": "267026@6",
+  "children": [
+    "268164@9",
+    "274694@8",
+    "277177@8",
+    "280365@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4042,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

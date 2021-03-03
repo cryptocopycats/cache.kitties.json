@@ -1,0 +1,26 @@
+{
+  "id": 268807,
+  "name": "Double ducat parents",
+  "generation": 4,
+  "created_at": "2017-12-12T11:04:49.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Double ducat parents. I believe that one day cats will rule this planet. In my free time, I can usually be found stinky or volunteering at the local kitten rescue shelter. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96305@3",
+  "sire": "200401@3",
+  "children": [
+    "269718@6",
+    "270626@5",
+    "272065@5",
+    "274574@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4073,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

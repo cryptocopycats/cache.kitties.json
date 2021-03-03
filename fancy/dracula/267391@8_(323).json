@@ -1,0 +1,33 @@
+{
+  "id": 267391,
+  "name": "Dracula #323",
+  "generation": 8,
+  "created_at": "2017-12-12T09:52:03.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Dracula #323. I'm a Spin Instructor  by day, and I like braiding people's hair by night. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "252430@7",
+  "sire": "211360@5",
+  "children": [
+    "268643@9",
+    "270095@9",
+    "287255@12",
+    "290029@12",
+    "294464@9",
+    "303683@9",
+    "316810@9",
+    "366524@12",
+    "406270@10",
+    "416585@9",
+    "555374@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 323,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

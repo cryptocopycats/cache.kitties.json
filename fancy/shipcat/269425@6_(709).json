@@ -1,0 +1,32 @@
+{
+  "id": 269425,
+  "name": "Popeye",
+  "generation": 6,
+  "created_at": "2017-12-12T11:43:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! Popeye here. I'm here to enjoy breakdancing and fighting for the people. I would give it all up to be on Oprah. Our friendship will be ridiculous, hairy, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "240551@5",
+  "sire": "214247@5",
+  "children": [
+    "296913@7",
+    "298023@7",
+    "300502@7",
+    "302477@7",
+    "307208@7",
+    "313773@7",
+    "326188@7",
+    "345266@7",
+    "366777@7",
+    "392560@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 709,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

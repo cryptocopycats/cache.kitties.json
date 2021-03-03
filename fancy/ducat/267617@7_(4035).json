@@ -1,0 +1,23 @@
+{
+  "id": 267617,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T10:02:12.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! Kitty #267617 here. I'm here to enjoy watching Stranger Things and reading garfield. I once headbutted a rabbit. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "163287@4",
+  "sire": "253505@6",
+  "children": [
+    "324792@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4035,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

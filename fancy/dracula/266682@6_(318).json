@@ -1,0 +1,25 @@
+{
+  "id": 266682,
+  "name": "Draculitty",
+  "generation": 6,
+  "created_at": "2017-12-12T09:12:00.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Draculitty. All you need to know about me is I hate cereal with a passion. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "265273@5",
+  "sire": "265378@5",
+  "children": [
+    "266964@7",
+    "269753@7",
+    "271958@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 318,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

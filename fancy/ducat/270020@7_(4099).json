@@ -1,0 +1,23 @@
+{
+  "id": 270020,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T12:19:09.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #270020. I'm a Foreign Film Director by day, and I like tricking babies by night. I once headbutted a gecko. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242042@6",
+  "sire": "239000@6",
+  "children": [
+    "271811@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4099,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 269291,
+  "name": "Tha Count!",
+  "generation": 8,
+  "created_at": "2017-12-12T11:32:57.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Tha Count!. I believe that one day cats will rule this planet. I once bit a chimpanzee. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "267480@7",
+  "sire": "267377@7",
+  "children": [
+    "274747@10",
+    "280063@9",
+    "296237@9",
+    "305258@10",
+    "321308@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 328,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

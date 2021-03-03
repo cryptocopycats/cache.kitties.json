@@ -1,0 +1,33 @@
+{
+  "id": 269492,
+  "name": "Fancy Snow white",
+  "generation": 4,
+  "created_at": "2017-12-12T11:46:25.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Fancy Snow white. I enjoy eating lasagna, shakin' dat booty, and reciting poetry. I'm often described as ridiculous, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "234539@3",
+  "sire": "192921@3",
+  "children": [
+    "269920@8",
+    "270252@8",
+    "271290@5",
+    "285063@5",
+    "291210@5",
+    "295020@5",
+    "299693@7",
+    "313321@5",
+    "367521@5",
+    "377485@5",
+    "525249@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4088,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

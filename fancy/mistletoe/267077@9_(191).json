@@ -1,0 +1,25 @@
+{
+  "id": 267077,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T09:35:14.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #267077. My friends describe me as wondrous and stinky. I am 43% sphinx, 33% Private Dancer , and otherwise bad at math. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "256127@6",
+  "sire": "255980@8",
+  "children": [
+    "268042@12",
+    "299689@10",
+    "302642@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 191,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

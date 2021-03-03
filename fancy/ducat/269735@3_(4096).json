@@ -1,0 +1,27 @@
+{
+  "id": 269735,
+  "name": "G3 Vir., gold otaku trait",
+  "generation": 3,
+  "created_at": "2017-12-12T11:59:07.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm G3 Vir., gold otaku trait. I want to live in a world where people believe the world is flat. Some people say I'm the Niles Crane of the group. Will you be the garlic butter to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267846@2",
+  "sire": "22601@2",
+  "children": [
+    "312542@4",
+    "313556@4",
+    "321890@4",
+    "323459@4",
+    "323959@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4096,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

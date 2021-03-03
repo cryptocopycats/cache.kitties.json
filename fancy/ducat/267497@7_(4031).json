@@ -1,0 +1,31 @@
+{
+  "id": 267497,
+  "name": "new1",
+  "generation": 7,
+  "created_at": "2017-12-12T09:57:22.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm new1. I want to live in a world where people believe the world is flat. I like to listen to Wutang while grooming. Don't judge me. I look forward to eating until I loathe myself with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250079@6",
+  "sire": "258455@6",
+  "children": [
+    "268930@8",
+    "284185@8",
+    "285431@8",
+    "290570@8",
+    "312638@8",
+    "326597@8",
+    "348155@8",
+    "376685@8",
+    "398962@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4031,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

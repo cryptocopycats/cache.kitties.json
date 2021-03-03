@@ -1,0 +1,26 @@
+{
+  "id": 268904,
+  "name": "G7 Bubble Bird Virgin",
+  "generation": 7,
+  "created_at": "2017-12-12T11:09:37.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm G7 Bubble Bird Virgin. I'm a Private Dancer  by day, and I like riverdancing by night. When no one's home, I invite my pals over and we listen to Justin Bieber. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "268644@6",
+  "sire": "130572@6",
+  "children": [
+    "299066@8",
+    "302081@8",
+    "308749@8",
+    "473031@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4077,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 266256,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-12T08:51:32.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #266256. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Our friendship will be raunchy, gorgeous, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40783@6",
+  "sire": "207202@13",
+  "children": [
+    "309114@19",
+    "395194@22",
+    "410583@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4002,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

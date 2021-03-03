@@ -1,0 +1,23 @@
+{
+  "id": 268679,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-12T10:59:35.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #268679. All you need to know about me is I hate cereal with a passion. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Our friendship will be gorgeous, fabulous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267321@3",
+  "sire": "255807@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4068,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

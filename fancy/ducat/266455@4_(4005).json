@@ -1,0 +1,31 @@
+{
+  "id": 266455,
+  "name": "Double Ducat Parents 4A02",
+  "generation": 4,
+  "created_at": "2017-12-12T09:01:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Double Ducat Parents 4A02. I enjoy tripping my owner, watching Stranger Things, and shakin' dat booty. In my free time, I can usually be found wondrous or playing chess. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200401@3",
+  "sire": "212178@3",
+  "children": [
+    "268656@5",
+    "268957@5",
+    "269685@5",
+    "271140@5",
+    "275125@5",
+    "284503@5",
+    "305912@5",
+    "327222@5",
+    "351577@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4005,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

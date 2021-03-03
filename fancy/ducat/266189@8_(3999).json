@@ -1,0 +1,23 @@
+{
+  "id": 266189,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-12T08:48:36.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #266189. In high school, I was voted school jock. My secret indulgence is ice cream. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254458@7",
+  "sire": "261613@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 3999,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

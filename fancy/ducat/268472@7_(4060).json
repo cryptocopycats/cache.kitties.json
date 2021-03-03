@@ -1,0 +1,23 @@
+{
+  "id": 268472,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T10:46:08.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #268472. I'm a professional Aerobics Athlete  and I love steak. I once loved a dog. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249885@6",
+  "sire": "259929@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4060,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

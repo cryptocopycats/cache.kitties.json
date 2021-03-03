@@ -1,0 +1,29 @@
+{
+  "id": 267451,
+  "name": "CHERYL",
+  "generation": 11,
+  "created_at": "2017-12-12T09:55:10.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm CHERYL. I'm often referred to as the Chandler Bing of the group. I once made a rooster ignore. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259770@10",
+  "sire": "263086@10",
+  "children": [
+    "269751@12",
+    "275998@12",
+    "296004@12",
+    "296136@12",
+    "315541@13",
+    "341793@12",
+    "354940@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4027,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 268647,
+  "name": "PussyBird",
+  "generation": 8,
+  "created_at": "2017-12-12T10:57:09.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm PussyBird. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "268000@7",
+  "sire": "126109@7",
+  "children": [
+    "273889@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4066,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 267386,
+  "name": "Gold Virgin Bird",
+  "generation": 10,
+  "created_at": "2017-12-12T09:52:03.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Gold Virgin Bird. I'm a Foreign Film Director by day, and I like pole dancing by night. When I'm not volunteering at the local kitten rescue shelter, I'm riding the bus! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125801@9",
+  "sire": "248729@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4025,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

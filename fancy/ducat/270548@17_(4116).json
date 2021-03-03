@@ -1,0 +1,23 @@
+{
+  "id": 270548,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-12T12:51:39.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's Kitty #270548. I once peed on Amelia Earhart's cat. They had it coming. When I'm not sleeping in fresh laundry, I'm reading Danielle Steele! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "66956@16",
+  "sire": "217434@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4116,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

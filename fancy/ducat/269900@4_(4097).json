@@ -1,0 +1,23 @@
+{
+  "id": 269900,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-12T12:10:43.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm RARE BIRD! Fancy!. My friends describe me as gorgeous and prickly. When I'm not riverdancing, I'm siring for status! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267640@3",
+  "sire": "268609@3",
+  "children": [
+    "291922@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4097,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 270284,
+  "name": "Sire Dracula 331 Rare Gem",
+  "generation": 10,
+  "created_at": "2017-12-12T12:33:45.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Sire Dracula 331 Rare Gem. I believe that one day cats will rule this planet. I once dreamed of being a Spin Instructor . Now I can be found riding the bus all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "250078@9",
+  "sire": "257603@9",
+  "children": [
+    "273771@11",
+    "276756@11",
+    "311559@11",
+    "1969483@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 331,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

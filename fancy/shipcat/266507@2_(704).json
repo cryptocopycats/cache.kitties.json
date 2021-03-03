@@ -1,0 +1,28 @@
+{
+  "id": 266507,
+  "name": "PopeYe Gen2",
+  "generation": 2,
+  "created_at": "2017-12-12T09:04:16.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! My name's PopeYe Gen2. I once peed on Cleopatra's cat. They had it coming. I once got in a fight with a platypus, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "254141@1",
+  "sire": "90623@0",
+  "children": [
+    "271075@3",
+    "277296@6",
+    "279397@18",
+    "280015@7",
+    "291093@7",
+    "296884@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 704,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 267698,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-12T10:07:32.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! My name's Kitty #267698. I once peed on John F. Kennedy Jr.'s cat. They had it coming. In my free time, I can usually be found stinky or people-watching. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254992@4",
+  "sire": "265262@5",
+  "children": [
+    "268367@7",
+    "270227@11",
+    "284037@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4038,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 270306,
+  "name": "Mistletoe 206/2000 Gold",
+  "generation": 13,
+  "created_at": "2017-12-12T12:34:42.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Mistletoe 206/2000 Gold. I'm a professional Dispensary Clerk and I love steak. I'm often described as tantalizing, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "268042@12",
+  "sire": "234376@12",
+  "children": [
+    "297849@14",
+    "308217@14",
+    "315471@14",
+    "317079@14",
+    "329828@16",
+    "363371@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 206,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

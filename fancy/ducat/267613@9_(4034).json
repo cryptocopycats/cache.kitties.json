@@ -1,0 +1,24 @@
+{
+  "id": 267613,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-12T10:02:12.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #267613. I'm a professional Aerobics Athlete  and I love salad. I put maple syrup on everything. Like, everything: hot dogs, cereal—everything! Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250281@8",
+  "sire": "250928@7",
+  "children": [
+    "268445@15",
+    "269525@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4034,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

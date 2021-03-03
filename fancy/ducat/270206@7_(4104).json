@@ -1,0 +1,33 @@
+{
+  "id": 270206,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T12:29:51.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #270206. I enjoy eating until I loathe myself, fighting the patriarchy, and slappin' da bass. I'm often described as ridiculous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259135@6",
+  "sire": "266992@6",
+  "children": [
+    "270518@8",
+    "271438@9",
+    "281725@11",
+    "305263@8",
+    "312918@8",
+    "321719@8",
+    "345268@8",
+    "356238@12",
+    "360178@8",
+    "384389@8",
+    "447329@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4104,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 269087,
+  "name": "(Rare) - FancyDukitty",
+  "generation": 5,
+  "created_at": "2017-12-12T11:20:25.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm (Rare) - FancyDukitty. In high school, I was voted school jock. I'm often described as petulant, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263115@4",
+  "sire": "263174@4",
+  "children": [
+    "280122@6",
+    "282452@6",
+    "286238@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4082,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

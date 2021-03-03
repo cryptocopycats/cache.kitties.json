@@ -1,0 +1,24 @@
+{
+  "id": 270066,
+  "name": "Virgin Ducat Australia #1",
+  "generation": 5,
+  "created_at": "2017-12-12T12:20:52.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Virgin Ducat Australia #1. I want to live in a world where people believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "261154@3",
+  "sire": "251125@4",
+  "children": [
+    "322132@6",
+    "335547@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4101,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

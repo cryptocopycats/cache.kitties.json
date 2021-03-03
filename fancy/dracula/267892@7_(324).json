@@ -1,0 +1,27 @@
+{
+  "id": 267892,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-12T10:18:52.000Z",
+  "birthday": "2017-12-12T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #267892. I'm a Private Dancer  by day, and I like people-watching by night. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "130931@6",
+  "sire": "192418@4",
+  "children": [
+    "271913@8",
+    "302242@8",
+    "309135@8",
+    "312820@8",
+    "473156@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 324,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}
