@@ -1,0 +1,24 @@
+{
+  "id": 313974,
+  "name": "Long legs",
+  "generation": 3,
+  "created_at": "2017-12-14T20:08:15.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! My name's Long legs. I once peed on King Henry VIII's cat. They had it coming. My friends describe me as \"gorgeous.\" It's... accurate. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "289023@2",
+  "sire": "239067@2",
+  "children": [
+    "354506@4",
+    "364698@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5147,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

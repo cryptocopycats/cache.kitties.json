@@ -1,0 +1,27 @@
+{
+  "id": 305039,
+  "name": "Pycatoras",
+  "generation": 9,
+  "created_at": "2017-12-14T08:41:17.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Pycatoras. I'm often referred to as the Bart Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "299521@8",
+  "sire": "276778@3",
+  "children": [
+    "308474@10",
+    "313398@10",
+    "332600@10",
+    "334168@10",
+    "508760@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4915,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

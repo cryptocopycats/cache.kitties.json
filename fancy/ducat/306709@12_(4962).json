@@ -1,0 +1,23 @@
+{
+  "id": 306709,
+  "name": "👑BDucat",
+  "generation": 12,
+  "created_at": "2017-12-14T10:34:59.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm 👑BDucat. I'm a professional Skydiving Instructor and I love cantaloupe. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "296331@11",
+  "sire": "279010@11",
+  "children": [
+    "308183@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4962,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

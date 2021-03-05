@@ -1,0 +1,26 @@
+{
+  "id": 302124,
+  "name": "Cheapest Gen 3 Brisk Duckie!",
+  "generation": 3,
+  "created_at": "2017-12-14T05:30:29.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Cheapest Gen 3 Brisk Duckie!. I believe that one day cats will rule this planet. I'm often described as ridiculous, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "188306@2",
+  "sire": "187403@2",
+  "children": [
+    "304775@4",
+    "307247@4",
+    "308589@8",
+    "310707@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4846,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

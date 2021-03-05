@@ -1,0 +1,27 @@
+{
+  "id": 309400,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-14T13:56:52.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #309400. My friends describe me as voluptuous and stinky. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "307366@9",
+  "sire": "289775@8",
+  "children": [
+    "310078@11",
+    "312791@11",
+    "323575@11",
+    "327455@11",
+    "346958@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 390,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

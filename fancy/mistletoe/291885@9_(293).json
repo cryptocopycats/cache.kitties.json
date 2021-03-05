@@ -1,0 +1,24 @@
+{
+  "id": 291885,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-13T17:46:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #291885. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Mother Theresa. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "263986@5",
+  "sire": "278291@8",
+  "children": [
+    "297067@10",
+    "298540@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 293,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

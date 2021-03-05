@@ -1,0 +1,23 @@
+{
+  "id": 306274,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-14T10:04:51.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #306274. I'm often referred to as the Neville Longbottom of the group. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Our friendship will be gullible, hairy, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227263@21",
+  "sire": "255198@5",
+  "children": [
+    "342868@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4952,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

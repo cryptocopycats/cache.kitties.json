@@ -1,0 +1,26 @@
+{
+  "id": 306048,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T09:48:46.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #306048. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is wet food. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "218886@4",
+  "sire": "245472@7",
+  "children": [
+    "309828@9",
+    "309890@9",
+    "324320@9",
+    "365654@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4944,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

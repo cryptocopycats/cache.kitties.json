@@ -1,0 +1,28 @@
+{
+  "id": 293554,
+  "name": "Merry Xmas r/cryptokitties",
+  "generation": 9,
+  "created_at": "2017-12-13T20:21:53.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Merry Xmas r/cryptokitties. In high school, I was voted school jock. I once made a dog scare. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "292326@8",
+  "sire": "236089@8",
+  "children": [
+    "312258@10",
+    "316650@10",
+    "317933@10",
+    "351678@20",
+    "371127@12",
+    "384604@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 304,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

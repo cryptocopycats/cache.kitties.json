@@ -1,0 +1,27 @@
+{
+  "id": 310697,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T15:33:49.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Kitty #310697. I'm a professional Culinary Sanitation Specialist and I love ice cream. It's not common knowledge, but my ancestry connects me to Confucius. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250472@6",
+  "sire": "295661@3",
+  "children": [
+    "312456@8",
+    "362829@18",
+    "364066@8",
+    "390489@8",
+    "392160@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5081,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

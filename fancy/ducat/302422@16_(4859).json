@@ -1,0 +1,23 @@
+{
+  "id": 302422,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-14T05:50:35.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #302422. I enjoy sweating through my feet, breakdancing, and watching Stranger Things. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "161850@15",
+  "sire": "137900@13",
+  "children": [
+    "331812@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4859,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

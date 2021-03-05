@@ -1,0 +1,23 @@
+{
+  "id": 306779,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-14T10:39:00.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #306779. I'm a Aerobics Athlete  by day, and I like pole dancing by night. When no one's home, I invite my pals over and we listen to Rihanna. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "298298@13",
+  "sire": "245905@14",
+  "children": [
+    "1345978@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4966,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

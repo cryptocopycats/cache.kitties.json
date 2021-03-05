@@ -1,0 +1,23 @@
+{
+  "id": 293868,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-13T20:39:38.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #293868. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112889@1",
+  "sire": "176045@1",
+  "children": [
+    "309230@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4661,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

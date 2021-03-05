@@ -1,0 +1,33 @@
+{
+  "id": 292428,
+  "name": "So Shiny",
+  "generation": 6,
+  "created_at": "2017-12-13T19:00:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm So Shiny. I'm a Train Conductor by day, and I like pole dancing by night. Some people say I'm the Dwight Schrute of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "271831@4",
+  "sire": "268796@5",
+  "children": [
+    "297465@8",
+    "297825@14",
+    "308535@19",
+    "371668@8",
+    "373452@13",
+    "387392@9",
+    "403603@12",
+    "412585@8",
+    "1006790@14",
+    "1016513@7",
+    "1139686@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 296,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

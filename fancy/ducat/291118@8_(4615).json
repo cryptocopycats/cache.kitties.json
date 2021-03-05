@@ -1,0 +1,23 @@
+{
+  "id": 291118,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T16:07:22.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #291118. I'm often referred to as the Frodo Baggins of the group. I once got in a fight with a rhino, and won. Will you be the marmite to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "165727@7",
+  "sire": "191276@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4615,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

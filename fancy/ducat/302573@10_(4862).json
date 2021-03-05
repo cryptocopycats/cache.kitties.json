@@ -1,0 +1,24 @@
+{
+  "id": 302573,
+  "name": "Siggy",
+  "generation": 10,
+  "created_at": "2017-12-14T06:00:45.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Siggy. I'm often referred to as the Michael Scott of the group. Sometimes I daydream of a life full of grooming, wet food, and tricking babies. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "257147@9",
+  "sire": "171766@6",
+  "children": [
+    "332748@11",
+    "336751@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4862,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

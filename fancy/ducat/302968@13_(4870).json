@@ -1,0 +1,23 @@
+{
+  "id": 302968,
+  "name": "ninja",
+  "generation": 13,
+  "created_at": "2017-12-14T06:27:28.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm ninja. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "290190@5",
+  "sire": "218031@12",
+  "children": [
+    "305369@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4870,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

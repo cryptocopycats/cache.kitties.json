@@ -1,0 +1,23 @@
+{
+  "id": 309291,
+  "name": "Bloodborn",
+  "generation": 19,
+  "created_at": "2017-12-14T13:48:30.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! My name's Bloodborn. I once peed on Princess Diana's cat. They had it coming. In my free time, I can usually be found seductive or watching reality tv. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "264058@10",
+  "sire": "188637@18",
+  "children": [
+    "321663@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 464,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

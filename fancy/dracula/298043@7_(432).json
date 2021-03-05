@@ -1,0 +1,27 @@
+{
+  "id": 298043,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T01:09:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #298043. I'm often referred to as the Chandler Bing of the group. I once made a gecko pester. I look forward to hitting on yo' man with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "292618@6",
+  "sire": "284227@5",
+  "children": [
+    "302320@12",
+    "312925@16",
+    "313800@12",
+    "328467@12",
+    "334086@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 432,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

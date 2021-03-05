@@ -1,0 +1,25 @@
+{
+  "id": 293413,
+  "name": "WTF BIRD?",
+  "generation": 2,
+  "created_at": "2017-12-13T20:12:30.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm WTF BIRD?. I'm a professional Spin Instructor  and I love wet food. I once made a goose pester. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "289428@1",
+  "sire": "286515@1",
+  "children": [
+    "293582@3",
+    "295752@4",
+    "371453@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4651,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

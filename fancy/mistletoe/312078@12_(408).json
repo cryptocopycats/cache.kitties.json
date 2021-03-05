@@ -1,0 +1,27 @@
+{
+  "id": 312078,
+  "name": "acl_selfmade_Mistletoe",
+  "generation": 12,
+  "created_at": "2017-12-14T17:28:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm acl_selfmade_Mistletoe. I enjoy hitting on yo' man, sweating through my feet, and fighting for the people. I once made a rooster grimace. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "271255@8",
+  "sire": "304881@11",
+  "children": [
+    "323581@13",
+    "335814@13",
+    "347328@13",
+    "352610@13",
+    "372192@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 408,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 295089,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T22:06:59.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #295089. All you need to know about me is I hate chocolate with a passion. Sometimes I daydream of a life full of chasing red dots, hamburgers, and swiping left. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "199398@6",
+  "sire": "255335@6",
+  "children": [
+    "298273@9",
+    "299913@8",
+    "301914@8",
+    "310882@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4693,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

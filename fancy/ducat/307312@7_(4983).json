@@ -1,0 +1,27 @@
+{
+  "id": 307312,
+  "name": "Cat-chMe!",
+  "generation": 7,
+  "created_at": "2017-12-14T11:18:27.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Cat-chMe!. I'm often referred to as the Cersei Lannister of the group. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "242042@6",
+  "sire": "239000@6",
+  "children": [
+    "328269@8",
+    "330612@8",
+    "331837@8",
+    "367568@8",
+    "683432@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4983,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

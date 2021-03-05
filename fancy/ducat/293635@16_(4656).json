@@ -1,0 +1,24 @@
+{
+  "id": 293635,
+  "name": "Victory Baby",
+  "generation": 16,
+  "created_at": "2017-12-13T20:26:34.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Victory Baby. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of hitting on yo' man, chocolate, and pole dancing. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "50373@15",
+  "sire": "231429@13",
+  "children": [
+    "306219@17",
+    "597140@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4656,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

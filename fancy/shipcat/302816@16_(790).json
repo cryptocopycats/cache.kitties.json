@@ -1,0 +1,24 @@
+{
+  "id": 302816,
+  "name": "Aaaaarr",
+  "generation": 16,
+  "created_at": "2017-12-14T06:15:37.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Aaaaarr. My friends describe me as brilliant and hairy. I once groomed a platypus. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "80755@8",
+  "sire": "279184@15",
+  "children": [
+    "309626@17",
+    "347819@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 790,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

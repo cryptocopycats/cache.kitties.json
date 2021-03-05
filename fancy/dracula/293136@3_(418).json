@@ -1,0 +1,24 @@
+{
+  "id": 293136,
+  "name": "Bram Stoker G|3 Rare",
+  "generation": 3,
+  "created_at": "2017-12-13T19:53:25.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Bram Stoker G|3 Rare. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "218928@2",
+  "sire": "208880@2",
+  "children": [
+    "568356@12",
+    "574301@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 418,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

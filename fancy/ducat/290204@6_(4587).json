@@ -1,0 +1,24 @@
+{
+  "id": 290204,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T14:08:21.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #290204. All you need to know about me is I hate cereal with a passion. When I'm not prank-calling celebrities, I'm tricking babies! Our friendship will be gullible, raunchy, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119367@5",
+  "sire": "178602@5",
+  "children": [
+    "339763@7",
+    "349019@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4587,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

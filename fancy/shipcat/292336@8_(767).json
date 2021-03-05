@@ -1,0 +1,27 @@
+{
+  "id": 292336,
+  "name": "Captain Jack Sparrow",
+  "generation": 8,
+  "created_at": "2017-12-13T18:54:37.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! Captain Jack Sparrow here. I'm here to enjoy slappin' da bass and riding dirty. I once got in a fight with a dolphin, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "246991@7",
+  "sire": "281009@6",
+  "children": [
+    "315853@9",
+    "318600@9",
+    "321656@9",
+    "325314@9",
+    "333326@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 767,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

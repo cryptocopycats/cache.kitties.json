@@ -1,0 +1,27 @@
+{
+  "id": 293268,
+  "name": "300th MISTLETOE",
+  "generation": 10,
+  "created_at": "2017-12-13T20:01:24.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm 300th MISTLETOE. I'm a Mad Scientist by day, and I like jump-roping by night. Sometimes I daydream of a life full of eating lasagna, cantaloupe, and braiding people's hair. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "282010@9",
+  "sire": "203955@9",
+  "children": [
+    "293909@11",
+    "306317@12",
+    "311608@12",
+    "314486@11",
+    "333026@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 300,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

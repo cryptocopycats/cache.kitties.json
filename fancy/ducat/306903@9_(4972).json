@@ -1,0 +1,25 @@
+{
+  "id": 306903,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T10:50:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #306903. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Confucius. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276031@8",
+  "sire": "265984@3",
+  "children": [
+    "307873@10",
+    "313398@10",
+    "332600@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4972,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

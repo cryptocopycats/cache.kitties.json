@@ -1,0 +1,31 @@
+{
+  "id": 305202,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T08:51:04.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #305202. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "300343@5",
+  "sire": "299942@5",
+  "children": [
+    "338641@7",
+    "339282@7",
+    "340179@7",
+    "346491@7",
+    "348875@7",
+    "354374@7",
+    "363297@7",
+    "375641@7",
+    "388732@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 798,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

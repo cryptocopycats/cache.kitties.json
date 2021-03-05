@@ -1,0 +1,31 @@
+{
+  "id": 297644,
+  "name": "🤶 Fancy Mistletoe 🤶",
+  "generation": 4,
+  "created_at": "2017-12-14T00:45:26.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm 🤶 Fancy Mistletoe 🤶. I'm a Foreign Film Director by day, and I like pole dancing by night. It's not common knowledge, but my ancestry connects me to Princess Diana. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "284888@3",
+  "sire": "275853@3",
+  "children": [
+    "297912@5",
+    "304114@5",
+    "312777@5",
+    "314304@5",
+    "317340@5",
+    "423528@5",
+    "465209@5",
+    "484765@5",
+    "497820@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 326,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

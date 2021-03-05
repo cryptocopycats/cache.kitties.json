@@ -1,0 +1,25 @@
+{
+  "id": 295338,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-13T22:21:49.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #295338. I'm often referred to as the Michael Scott of the group. I put peanut butter on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266402@14",
+  "sire": "269427@11",
+  "children": [
+    "309274@18",
+    "329097@16",
+    "414854@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4701,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

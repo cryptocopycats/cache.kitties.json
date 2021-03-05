@@ -1,0 +1,23 @@
+{
+  "id": 305844,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T09:35:14.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #305844. I'm a Spin Instructor  by day, and I like jump-roping by night. I once dreamed of being a Skydiving Instructor. Now I can be found talking about how much I lift all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "289904@5",
+  "sire": "205429@5",
+  "children": [
+    "306389@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4939,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

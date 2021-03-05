@@ -1,0 +1,26 @@
+{
+  "id": 309314,
+  "name": "💎Double ducat💎",
+  "generation": 5,
+  "created_at": "2017-12-14T13:49:31.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm 💎Double ducat💎. I want to live in a world where people believe the world is flat. When I'm not talking about how much I lift, I'm running a podcast! Will you be the ghost pepper hot sauce to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "288173@4",
+  "sire": "307542@4",
+  "children": [
+    "309633@14",
+    "310222@14",
+    "317508@16",
+    "319624@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5042,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

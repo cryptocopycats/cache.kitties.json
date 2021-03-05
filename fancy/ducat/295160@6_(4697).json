@@ -1,0 +1,26 @@
+{
+  "id": 295160,
+  "name": "RARE Simpson",
+  "generation": 6,
+  "created_at": "2017-12-13T22:11:27.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm RARE Simpson. I'm often referred to as the Bart Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "255643@5",
+  "sire": "241347@3",
+  "children": [
+    "295441@7",
+    "301459@7",
+    "303895@7",
+    "314311@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4697,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

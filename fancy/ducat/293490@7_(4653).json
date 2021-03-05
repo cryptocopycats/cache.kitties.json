@@ -1,0 +1,30 @@
+{
+  "id": 293490,
+  "name": "🦆",
+  "generation": 7,
+  "created_at": "2017-12-13T20:16:03.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm 🦆. I'm often referred to as the Niles Crane of the group. I put maple syrup on everything. Like, everything: hot dogs, salad—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "237061@6",
+  "sire": "183271@6",
+  "children": [
+    "297598@8",
+    "309517@8",
+    "339034@8",
+    "341428@11",
+    "354433@8",
+    "361707@8",
+    "390318@8",
+    "412459@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4653,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

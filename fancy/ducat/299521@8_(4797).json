@@ -1,0 +1,27 @@
+{
+  "id": 299521,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T02:41:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #299521. I believe the world is flat. When I'm not summoning ghosts, I'm braiding people's hair! Will you be the ghost pepper hot sauce to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160420@7",
+  "sire": "252242@7",
+  "children": [
+    "303603@9",
+    "305039@9",
+    "307654@9",
+    "324200@9",
+    "336134@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4797,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

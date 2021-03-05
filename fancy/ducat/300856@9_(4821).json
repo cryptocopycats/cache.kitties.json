@@ -1,0 +1,23 @@
+{
+  "id": 300856,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T04:04:04.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Kitty #300856 here. I'm here to enjoy grooming and reciting poetry. Sometimes I daydream of a life full of glaring at the neighbour's cat, apple pie, and people-watching. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "217559@8",
+  "sire": "193456@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4821,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

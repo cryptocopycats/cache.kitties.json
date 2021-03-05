@@ -1,0 +1,28 @@
+{
+  "id": 310193,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T14:56:45.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #310193. I enjoy picking flowers, tripping my owner, and chasing string. I am 11% troll, 65% Mad Scientist, and otherwise bad at math. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "253185@11",
+  "sire": "214899@11",
+  "children": [
+    "323593@13",
+    "334745@13",
+    "350238@13",
+    "369410@13",
+    "401992@13",
+    "427857@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5064,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 289591,
+  "name": "Piu Piu",
+  "generation": 13,
+  "created_at": "2017-12-13T12:53:27.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Piu Piu. I'm a professional Aerobics Athlete  and I love salad. I'm often described as ridiculous, and I own it. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103292@4",
+  "sire": "239642@12",
+  "children": [
+    "297955@14",
+    "318519@14",
+    "369411@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4573,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

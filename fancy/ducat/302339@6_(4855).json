@@ -1,0 +1,27 @@
+{
+  "id": 302339,
+  "name": "MotherC",
+  "generation": 6,
+  "created_at": "2017-12-14T05:45:47.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm MotherC. I'm often referred to as the Marge Simpson of the group. My secret indulgence is steak. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "187743@5",
+  "sire": "143644@5",
+  "children": [
+    "311506@7",
+    "313591@7",
+    "315155@7",
+    "318524@7",
+    "328290@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4855,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

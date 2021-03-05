@@ -1,0 +1,23 @@
+{
+  "id": 304866,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-14T08:30:04.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Kitty #304866. I'm a professional Dogwalker and I love salad. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "296039@4",
+  "sire": "302940@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4911,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

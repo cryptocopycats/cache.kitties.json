@@ -1,0 +1,26 @@
+{
+  "id": 308678,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T12:58:47.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #308678. I believe the world is flat. In my free time, I can usually be found stinky or summoning ghosts. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136580@5",
+  "sire": "228037@11",
+  "children": [
+    "311775@14",
+    "315417@14",
+    "341007@14",
+    "356890@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5026,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

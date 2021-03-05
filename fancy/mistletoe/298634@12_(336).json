@@ -1,0 +1,24 @@
+{
+  "id": 298634,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T01:46:54.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #298634. I'm a Spin Instructor  by day, and I like prank-calling celebrities by night. When no one's home, I invite my pals over and we listen to Gloria Estefan. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "294978@10",
+  "sire": "263922@11",
+  "children": [
+    "304958@13",
+    "337789@24"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 336,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

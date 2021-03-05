@@ -1,0 +1,25 @@
+{
+  "id": 298949,
+  "name": "TannerIsimo",
+  "generation": 8,
+  "created_at": "2017-12-14T02:07:01.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm TannerIsimo. All you need to know about me is I hate steak with a passion. My great-great-great-great-great-great grandkitty lived with Princess Diana. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285135@7",
+  "sire": "288281@7",
+  "children": [
+    "305652@9",
+    "306825@9",
+    "430831@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4782,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

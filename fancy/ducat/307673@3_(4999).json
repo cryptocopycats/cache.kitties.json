@@ -1,0 +1,24 @@
+{
+  "id": 307673,
+  "name": "ZaZhong 3C01",
+  "generation": 3,
+  "created_at": "2017-12-14T11:43:15.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm ZaZhong 3C01. I want to live in a world where people believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306481@2",
+  "sire": "306559@2",
+  "children": [
+    "819365@4",
+    "819382@4"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4999,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

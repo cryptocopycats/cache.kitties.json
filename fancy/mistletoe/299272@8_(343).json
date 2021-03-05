@@ -1,0 +1,23 @@
+{
+  "id": 299272,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T02:26:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #299272. I'm a Dispensary Clerk by day, and I like tricking babies by night. I was voted school jock in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "225579@7",
+  "sire": "245523@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 343,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

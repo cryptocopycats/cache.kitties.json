@@ -1,0 +1,27 @@
+{
+  "id": 309891,
+  "name": "FatherC",
+  "generation": 6,
+  "created_at": "2017-12-14T14:34:05.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm FatherC. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158845@5",
+  "sire": "261855@5",
+  "children": [
+    "311506@7",
+    "313591@7",
+    "315155@7",
+    "318524@7",
+    "328290@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5055,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

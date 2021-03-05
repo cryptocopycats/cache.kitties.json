@@ -1,0 +1,23 @@
+{
+  "id": 311665,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T17:01:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #311665. I'm often referred to as the Peter Griffin of the group. I once dreamed of being a Dogwalker. Now I can be found tricking babies all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "118408@6",
+  "sire": "269620@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 821,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

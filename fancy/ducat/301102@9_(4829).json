@@ -1,0 +1,26 @@
+{
+  "id": 301102,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T04:18:20.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #301102. I want to live in a world where people believe the world is flat. I was voted school jock in college. Will you be the ghost pepper hot sauce to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "286412@8",
+  "sire": "285240@8",
+  "children": [
+    "302825@10",
+    "304908@10",
+    "312415@10",
+    "316569@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4829,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

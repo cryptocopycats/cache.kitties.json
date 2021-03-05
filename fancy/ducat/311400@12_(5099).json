@@ -1,0 +1,23 @@
+{
+  "id": 311400,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T16:34:07.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #311400. My friends describe me as gorgeous and despicable. My friends describe me as \"stinky.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250726@3",
+  "sire": "269655@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5099,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

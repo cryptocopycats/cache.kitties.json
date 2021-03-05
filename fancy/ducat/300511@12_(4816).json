@@ -1,0 +1,24 @@
+{
+  "id": 300511,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T03:41:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #300511. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of eating until I loathe myself, ice cream, and sleeping in fresh laundry. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "137490@11",
+  "sire": "298670@11",
+  "children": [
+    "381401@25",
+    "409911@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4816,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

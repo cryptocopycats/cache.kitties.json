@@ -1,0 +1,30 @@
+{
+  "id": 300376,
+  "name": "Virgin Dracula!",
+  "generation": 13,
+  "created_at": "2017-12-14T03:35:45.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Virgin Dracula!. I've never told anyone this, but I once pawed at a dog. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "268076@11",
+  "sire": "291299@12",
+  "children": [
+    "321556@14",
+    "344454@19",
+    "352685@14",
+    "361184@18",
+    "371582@17",
+    "387393@14",
+    "403150@14",
+    "424713@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 436,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

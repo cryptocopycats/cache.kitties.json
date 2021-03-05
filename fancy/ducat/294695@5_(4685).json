@@ -1,0 +1,25 @@
+{
+  "id": 294695,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-13T21:40:32.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #294695. I believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. Will you be the peanut butter to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274304@4",
+  "sire": "292578@3",
+  "children": [
+    "295129@6",
+    "296452@6",
+    "309738@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4685,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 288864,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-13T11:48:27.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #288864. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Ace of Base. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "186940@15",
+  "sire": "150472@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4551,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

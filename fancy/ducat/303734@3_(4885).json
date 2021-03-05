@@ -1,0 +1,23 @@
+{
+  "id": 303734,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-14T07:15:18.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #303734. I'm a professional Mad Scientist and I love wet food. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125126@2",
+  "sire": "115070@2",
+  "children": [
+    "484165@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4885,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

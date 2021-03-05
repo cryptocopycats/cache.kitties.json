@@ -1,0 +1,23 @@
+{
+  "id": 301864,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-14T05:12:42.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #301864. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of watching Stranger Things, cereal, and reading Danielle Steele. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "246830@11",
+  "sire": "117267@17",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4838,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

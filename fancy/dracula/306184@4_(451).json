@@ -1,0 +1,29 @@
+{
+  "id": 306184,
+  "name": "Dracula Kitty",
+  "generation": 4,
+  "created_at": "2017-12-14T09:56:50.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! Dracula Kitty here. I'm here to enjoy tripping my owner and fighting for the people. I once cleaned a moose. I don't like to talk about it. I hope we can be brilliant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "295455@3",
+  "sire": "304363@3",
+  "children": [
+    "317289@5",
+    "371181@5",
+    "377786@5",
+    "382628@5",
+    "388305@5",
+    "395955@5",
+    "409218@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 451,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 302317,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T05:44:25.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #302317. I'm often referred to as the Chandler Bing of the group. Sometimes I daydream of a life full of being a nevernude, chocolate, and talking about how much I lift. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "301049@6",
+  "sire": "258301@2",
+  "children": [
+    "302644@8",
+    "309080@8",
+    "328264@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4854,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

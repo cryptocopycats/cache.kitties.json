@@ -1,0 +1,29 @@
+{
+  "id": 308299,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T12:32:45.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! My name's Kitty #308299. I once peed on Amelia Earhart's cat. They had it coming. When I'm not reading Danielle Steele, I'm mocking dogs! Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "307893@5",
+  "sire": "148880@5",
+  "children": [
+    "308529@7",
+    "310623@7",
+    "311094@7",
+    "319706@7",
+    "328953@7",
+    "360007@7",
+    "377189@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 812,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

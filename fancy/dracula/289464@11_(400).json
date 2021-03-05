@@ -1,0 +1,29 @@
+{
+  "id": 289464,
+  "name": "v1111",
+  "generation": 11,
+  "created_at": "2017-12-13T12:39:14.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm v1111. I enjoy chasing string, breakdancing, and picking flowers. I once got in a fight with a rooster, and won. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "244190@9",
+  "sire": "202146@10",
+  "children": [
+    "292013@12",
+    "293577@13",
+    "304761@12",
+    "306336@12",
+    "322095@12",
+    "338501@13",
+    "391745@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 400,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

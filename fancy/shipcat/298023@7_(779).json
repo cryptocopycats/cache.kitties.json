@@ -1,0 +1,23 @@
+{
+  "id": 298023,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T01:09:08.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #298023. I'm often referred to as the Ross Geller of the group. My great-great-great-great-great-great grandkitty lived with Mother Theresa. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "271850@6",
+  "sire": "269425@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 779,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 299528,
+  "name": "KidMistletoe",
+  "generation": 7,
+  "created_at": "2017-12-14T02:41:48.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm KidMistletoe. I enjoy reciting poetry, eating until I loathe myself, and sitting on your computer. Sometimes I daydream of a life full of glaring at the neighbour's cat, steak, and swiping right. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "259242@5",
+  "sire": "267941@6",
+  "children": [
+    "313240@8",
+    "368053@8",
+    "368470@10",
+    "1494636@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 344,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

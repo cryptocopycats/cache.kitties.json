@@ -1,0 +1,24 @@
+{
+  "id": 307677,
+  "name": "Dracula (G3 Rare)",
+  "generation": 3,
+  "created_at": "2017-12-14T11:43:43.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Dracula (G3 Rare). I'm often referred to as the Chandler Bing of the group. I like to listen to Coldplay while grooming. Don't judge me. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "197658@2",
+  "sire": "273827@2",
+  "children": [
+    "445545@4",
+    "548063@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 459,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

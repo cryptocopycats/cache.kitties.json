@@ -1,0 +1,24 @@
+{
+  "id": 297332,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T00:22:45.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #297332. I believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "293895@5",
+  "sire": "293858@5",
+  "children": [
+    "309445@7",
+    "325558@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4744,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

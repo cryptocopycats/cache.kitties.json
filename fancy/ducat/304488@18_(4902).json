@@ -1,0 +1,23 @@
+{
+  "id": 304488,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-14T08:03:52.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #304488. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274377@13",
+  "sire": "288297@17",
+  "children": [
+    "319768@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4902,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

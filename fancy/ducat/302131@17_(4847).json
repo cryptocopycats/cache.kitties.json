@@ -1,0 +1,23 @@
+{
+  "id": 302131,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-14T05:30:47.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #302131. My friends describe me as annoying and gorgeous. My secret indulgence is salad. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "29674@16",
+  "sire": "282690@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4847,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

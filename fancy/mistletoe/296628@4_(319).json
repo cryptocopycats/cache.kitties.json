@@ -1,0 +1,26 @@
+{
+  "id": 296628,
+  "name": "Fancy Mistletoe",
+  "generation": 4,
+  "created_at": "2017-12-13T23:39:36.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Fancy Mistletoe. My friends describe me as petulant and preposterous. I'm often described as raunchy, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "230932@3",
+  "sire": "188978@3",
+  "children": [
+    "372574@5",
+    "376323@5",
+    "387207@5",
+    "1214797@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 319,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

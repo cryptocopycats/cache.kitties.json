@@ -1,0 +1,24 @@
+{
+  "id": 293226,
+  "name": "Kuro",
+  "generation": 11,
+  "created_at": "2017-12-13T19:58:17.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kuro. All you need to know about me is I hate apple pie with a passion. In my free time, I can usually be found brilliant or summoning ghosts. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "243863@8",
+  "sire": "270314@10",
+  "children": [
+    "304956@13",
+    "308206@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 419,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

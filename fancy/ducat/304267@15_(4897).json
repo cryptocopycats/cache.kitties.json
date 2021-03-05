@@ -1,0 +1,24 @@
+{
+  "id": 304267,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-14T07:51:03.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #304267. I've never told anyone this, but I once clawed a dog. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263897@14",
+  "sire": "212433@7",
+  "children": [
+    "309352@16",
+    "942884@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4897,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

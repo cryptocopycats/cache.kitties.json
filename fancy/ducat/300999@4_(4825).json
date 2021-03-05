@@ -1,0 +1,27 @@
+{
+  "id": 300999,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-14T04:12:16.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's Kitty #300999. I once peed on Mother Theresa's cat. They had it coming. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I hope we can be seductive friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276843@2",
+  "sire": "205466@3",
+  "children": [
+    "304758@5",
+    "306817@5",
+    "310009@5",
+    "328080@5",
+    "379708@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4825,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

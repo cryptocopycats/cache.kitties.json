@@ -1,0 +1,23 @@
+{
+  "id": 290744,
+  "name": "FancyKid #1",
+  "generation": 14,
+  "created_at": "2017-12-13T15:17:30.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm FancyKid #1. I'm often referred to as the Samwise Gamgee of the group. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, steak—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228148@13",
+  "sire": "249572@10",
+  "children": [
+    "312197@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4603,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

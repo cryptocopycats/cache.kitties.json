@@ -1,0 +1,28 @@
+{
+  "id": 297643,
+  "name": "SailorMeown",
+  "generation": 6,
+  "created_at": "2017-12-14T00:45:26.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm SailorMeown. I believe that one day cats will rule this planet. My friends describe me as \"petulant.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "281204@5",
+  "sire": "256999@4",
+  "children": [
+    "299320@7",
+    "354673@9",
+    "367931@14",
+    "381002@7",
+    "389938@7",
+    "418435@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 777,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

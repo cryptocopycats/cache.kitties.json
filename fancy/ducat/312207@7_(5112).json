@@ -1,0 +1,23 @@
+{
+  "id": 312207,
+  "name": "Rodin",
+  "generation": 7,
+  "created_at": "2017-12-14T17:39:08.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Rodin. I want to live in a world where people believe the world is flat. I put pickles on everything. Like, everything: hot dogs, lasagna—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "307566@6",
+  "sire": "282810@6",
+  "children": [
+    "396543@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5112,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 304180,
+  "name": "💎G6 Snappy Sweet Kitty💎",
+  "generation": 6,
+  "created_at": "2017-12-14T07:44:09.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm 💎G6 Snappy Sweet Kitty💎. All you need to know about me is I hate hamburgers with a passion. I once made a rooster dance. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "300935@5",
+  "sire": "97708@4",
+  "children": [
+    "304544@7",
+    "321425@8",
+    "344185@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4896,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

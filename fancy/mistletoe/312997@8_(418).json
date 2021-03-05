@@ -1,0 +1,24 @@
+{
+  "id": 312997,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T18:41:52.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #312997. In high school, I was voted most likely to work at NASA. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, hamburgers—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "296913@7",
+  "sire": "295964@5",
+  "children": [
+    "500544@9",
+    "743200@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 418,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

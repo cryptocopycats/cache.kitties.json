@@ -1,0 +1,30 @@
+{
+  "id": 293039,
+  "name": "Jingrrr Purrs",
+  "generation": 4,
+  "created_at": "2017-12-13T19:46:47.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! Jingrrr Purrs here. I'm here to enjoy reading garfield and reciting poetry. Sometimes I daydream of a life full of picking on mice, steak, and riverdancing. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "240454@3",
+  "sire": "224665@3",
+  "children": [
+    "293564@5",
+    "295590@5",
+    "302781@5",
+    "303813@5",
+    "316074@5",
+    "390978@7",
+    "398807@5",
+    "416734@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 299,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 291130,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T16:09:10.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #291130. All you need to know about me is I hate wet food with a passion. My secret indulgence is cereal. I look forward to staying woke with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "201478@4",
+  "sire": "277129@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 762,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

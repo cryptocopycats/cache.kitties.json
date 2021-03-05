@@ -1,0 +1,23 @@
+{
+  "id": 306847,
+  "name": "Fancy Feet",
+  "generation": 7,
+  "created_at": "2017-12-14T10:45:55.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Fancy Feet. I enjoy licking doorknobs, riding dirty, and sweating through my feet. I would give it all up for a Chanel purse. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306651@6",
+  "sire": "126040@6",
+  "children": [
+    "308762@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4971,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

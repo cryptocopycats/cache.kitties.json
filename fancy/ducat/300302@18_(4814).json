@@ -1,0 +1,23 @@
+{
+  "id": 300302,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-14T03:30:45.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's Kitty #300302. I once peed on Marie Antoinette's cat. They had it coming. When no one's home, I invite my pals over and we listen to Justin Bieber. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "232791@8",
+  "sire": "278229@17",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4814,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

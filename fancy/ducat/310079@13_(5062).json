@@ -1,0 +1,23 @@
+{
+  "id": 310079,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-14T14:48:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #310079. I'm often referred to as the Marge Simpson of the group. Some people say I'm the Marge Simpson of the group. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "295541@12",
+  "sire": "296437@10",
+  "children": [
+    "313359@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5062,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

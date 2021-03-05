@@ -1,0 +1,23 @@
+{
+  "id": 308662,
+  "name": "Owllie",
+  "generation": 10,
+  "created_at": "2017-12-14T12:57:45.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Owllie. In high school, I was voted school jock. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182784@5",
+  "sire": "299243@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5024,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

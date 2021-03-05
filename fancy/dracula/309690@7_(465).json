@@ -1,0 +1,23 @@
+{
+  "id": 309690,
+  "name": "Alutac",
+  "generation": 7,
+  "created_at": "2017-12-14T14:22:04.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Alutac. I've never told anyone this, but I once loved a dog. I'm often described as hairy, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "128591@6",
+  "sire": "278190@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 465,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

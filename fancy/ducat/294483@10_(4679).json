@@ -1,0 +1,23 @@
+{
+  "id": 294483,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-13T21:25:00.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Kitty #294483. All you need to know about me is I hate steak with a passion. I like to listen to Rihanna while grooming. Don't judge me. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "184764@8",
+  "sire": "288420@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4679,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

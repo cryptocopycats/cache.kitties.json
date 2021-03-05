@@ -1,0 +1,24 @@
+{
+  "id": 298653,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-14T01:47:37.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #298653. I believe the world is flat. I'm often described as raunchy, and I own it. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "272123@19",
+  "sire": "217441@16",
+  "children": [
+    "377537@21",
+    "382633@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4775,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

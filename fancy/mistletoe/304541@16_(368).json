@@ -1,0 +1,24 @@
+{
+  "id": 304541,
+  "name": "Merry Christmas Cat",
+  "generation": 16,
+  "created_at": "2017-12-14T08:07:19.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Merry Christmas Cat. I'm a professional Foreign Film Director and I love chocolate. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "300672@15",
+  "sire": "281472@10",
+  "children": [
+    "312180@17",
+    "332243@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 368,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

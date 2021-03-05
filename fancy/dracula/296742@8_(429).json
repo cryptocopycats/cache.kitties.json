@@ -1,0 +1,25 @@
+{
+  "id": 296742,
+  "name": "Count Meow",
+  "generation": 8,
+  "created_at": "2017-12-13T23:48:15.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! My name's Count Meow. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once made a moose grimace. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "233179@7",
+  "sire": "248715@6",
+  "children": [
+    "298675@10",
+    "300726@9",
+    "572747@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 429,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

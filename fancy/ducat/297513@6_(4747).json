@@ -1,0 +1,23 @@
+{
+  "id": 297513,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T00:34:53.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! My name's Kitty #297513. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"wondrous.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "296683@5",
+  "sire": "296691@5",
+  "children": [
+    "298838@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4747,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

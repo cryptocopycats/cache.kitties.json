@@ -1,0 +1,28 @@
+{
+  "id": 307566,
+  "name": "Fancy Children Guaranteed",
+  "generation": 6,
+  "created_at": "2017-12-14T11:36:03.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Fancy Children Guaranteed. I believe the world is flat. I am 40% fairy, 64% Foreign Film Director, and otherwise bad at math. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287710@5",
+  "sire": "280441@5",
+  "children": [
+    "312207@7",
+    "314072@7",
+    "354556@7",
+    "359278@7",
+    "364790@8",
+    "448107@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4994,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

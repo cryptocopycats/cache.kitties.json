@@ -1,0 +1,28 @@
+{
+  "id": 312070,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-14T17:28:05.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #312070. I want to live in a world where people believe that one day cats will rule this planet. I once tricked a goose. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "307434@10",
+  "sire": "307766@10",
+  "children": [
+    "327860@12",
+    "345584@12",
+    "355300@12",
+    "382009@14",
+    "401103@18",
+    "511954@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 472,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

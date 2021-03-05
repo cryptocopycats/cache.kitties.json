@@ -1,0 +1,30 @@
+{
+  "id": 305526,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T09:10:15.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #305526. I'm a professional Private Dancer  and I love cereal. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "293911@5",
+  "sire": "303097@5",
+  "children": [
+    "305808@14",
+    "306474@9",
+    "335963@7",
+    "338170@15",
+    "352071@7",
+    "536196@10",
+    "625447@7",
+    "1104796@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 4927,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

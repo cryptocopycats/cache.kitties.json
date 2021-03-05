@@ -1,0 +1,23 @@
+{
+  "id": 304191,
+  "name": "LT ELF-1",
+  "generation": 3,
+  "created_at": "2017-12-14T07:44:48.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm LT ELF-1. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Cleopatra. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "298556@2",
+  "sire": "300634@2",
+  "children": [
+    "304399@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 366,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

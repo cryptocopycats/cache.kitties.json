@@ -1,0 +1,23 @@
+{
+  "id": 295685,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T22:43:21.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #295685. I believe that one day cats will rule this planet. Some people say I'm the Peter Griffin of the group. I look forward to slappin' da bass with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274068@6",
+  "sire": "109429@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4709,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

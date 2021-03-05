@@ -1,0 +1,24 @@
+{
+  "id": 296570,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T23:35:54.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #296570. I'm a Dogwalker by day, and I like riding the bus by night. My friends describe me as \"fabulous.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "288673@5",
+  "sire": "259157@6",
+  "children": [
+    "297475@8",
+    "491888@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4731,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

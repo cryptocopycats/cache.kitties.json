@@ -1,0 +1,23 @@
+{
+  "id": 295504,
+  "name": "Virgin Ducky",
+  "generation": 8,
+  "created_at": "2017-12-13T22:31:37.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Virgin Ducky. I enjoy riding dirty, slappin' da bass, and picking flowers. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "289215@7",
+  "sire": "241061@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4703,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

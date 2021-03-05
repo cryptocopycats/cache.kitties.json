@@ -1,0 +1,23 @@
+{
+  "id": 310041,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-14T14:47:01.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #310041. I want to live in a world where people believe that one day cats will rule this planet. I am 54% gremlin, 11% Ventriloquist, and otherwise bad at math. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "294438@19",
+  "sire": "132485@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5060,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

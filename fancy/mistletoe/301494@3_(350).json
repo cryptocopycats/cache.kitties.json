@@ -1,0 +1,23 @@
+{
+  "id": 301494,
+  "name": "Santa Claus",
+  "generation": 3,
+  "created_at": "2017-12-14T04:45:27.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! My name's Santa Claus. I once peed on Confucius's cat. They had it coming. I am 5% troll, 5% Aerobics Athlete , and otherwise bad at math. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "233648@2",
+  "sire": "245339@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 350,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

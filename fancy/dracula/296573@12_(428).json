@@ -1,0 +1,23 @@
+{
+  "id": 296573,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-13T23:36:02.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #296573. I'm often referred to as the Samwise Gamgee of the group. My friends describe me as \"annoying.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "295202@11",
+  "sire": "271491@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 428,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

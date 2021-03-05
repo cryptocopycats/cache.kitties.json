@@ -1,0 +1,26 @@
+{
+  "id": 308564,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T12:51:10.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Kitty #308564. I'm a Culinary Sanitation Specialist by day, and I like riverdancing by night. In my free time, I can usually be found preposterous or talking about how much I lift. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "307641@6",
+  "sire": "59743@11",
+  "children": [
+    "363217@13",
+    "383361@15",
+    "483059@13",
+    "487650@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5022,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

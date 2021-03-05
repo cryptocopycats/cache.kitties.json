@@ -1,0 +1,23 @@
+{
+  "id": 306305,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T10:07:23.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #306305. My friends describe me as petulant and hairy. My great-great-great-great-great-great grandkitty lived with Cleopatra. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "33730@11",
+  "sire": "33613@11",
+  "children": [
+    "395427@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4954,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

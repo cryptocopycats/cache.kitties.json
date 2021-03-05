@@ -1,0 +1,29 @@
+{
+  "id": 311814,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T17:11:08.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #311814. All you need to know about me is I hate apple pie with a passion. I once made a moose drink. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "269247@7",
+  "sire": "205910@7",
+  "children": [
+    "327416@9",
+    "328380@9",
+    "330093@9",
+    "339563@9",
+    "344178@9",
+    "357627@9",
+    "371337@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 471,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

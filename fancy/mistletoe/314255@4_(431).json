@@ -1,0 +1,29 @@
+{
+  "id": 314255,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-14T20:35:41.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #314255. I'm often referred to as the Niles Crane of the group. In my free time, I can usually be found wondrous or playing chess. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "311133@3",
+  "sire": "184618@3",
+  "children": [
+    "318565@5",
+    "323140@5",
+    "323881@5",
+    "324964@5",
+    "329490@5",
+    "333146@5",
+    "531831@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 431,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

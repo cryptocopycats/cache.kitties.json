@@ -1,0 +1,26 @@
+{
+  "id": 301982,
+  "name": "Bulka",
+  "generation": 6,
+  "created_at": "2017-12-14T05:22:33.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Bulka. I believe that one day cats will rule this planet. I once loved a gecko. I don't like to talk about it. Our friendship will be fabulous, stinky, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280441@5",
+  "sire": "295536@5",
+  "children": [
+    "305128@7",
+    "307597@7",
+    "352330@18",
+    "394187@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4840,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

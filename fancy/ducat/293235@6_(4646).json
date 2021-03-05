@@ -1,0 +1,28 @@
+{
+  "id": 293235,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T19:58:24.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #293235. I'm a professional Foreign Film Director and I love ice cream. My secret indulgence is cantaloupe. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "282512@4",
+  "sire": "236433@5",
+  "children": [
+    "299794@7",
+    "301694@7",
+    "308220@7",
+    "309849@7",
+    "354591@7",
+    "368181@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4646,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

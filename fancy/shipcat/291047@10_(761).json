@@ -1,0 +1,28 @@
+{
+  "id": 291047,
+  "name": "Second Fancy",
+  "generation": 10,
+  "created_at": "2017-12-13T15:58:50.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! My name's Second Fancy. I once peed on John F. Kennedy Jr.'s cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "257201@7",
+  "sire": "282914@9",
+  "children": [
+    "293813@11",
+    "304311@11",
+    "308343@16",
+    "343853@11",
+    "550653@11",
+    "573310@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 761,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

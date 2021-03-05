@@ -1,0 +1,23 @@
+{
+  "id": 295305,
+  "name": "Princess Rainbows",
+  "generation": 14,
+  "created_at": "2017-12-13T22:19:15.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! My name's Princess Rainbows. I once peed on Amelia Earhart's cat. They had it coming. I am 1% hobbit, 84% Private Dancer , and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283447@8",
+  "sire": "294790@13",
+  "children": [
+    "684371@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4699,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

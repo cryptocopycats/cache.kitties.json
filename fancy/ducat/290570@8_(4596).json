@@ -1,0 +1,23 @@
+{
+  "id": 290570,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T14:52:04.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #290570. I'm often referred to as the Ross Geller of the group. It's not common knowledge, but my ancestry connects me to Princess Diana. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "272413@7",
+  "sire": "267497@7",
+  "children": [
+    "310641@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4596,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

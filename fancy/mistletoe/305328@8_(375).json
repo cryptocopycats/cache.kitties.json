@@ -1,0 +1,30 @@
+{
+  "id": 305328,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T08:58:38.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #305328. In high school, I was voted biggest teacher's pet. I once dreamed of being a Private Dancer . Now I can be found playing chess all day. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "288826@7",
+  "sire": "270931@6",
+  "children": [
+    "305923@9",
+    "345934@17",
+    "391618@15",
+    "398330@10",
+    "411190@17",
+    "416607@9",
+    "432337@11",
+    "453998@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 375,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

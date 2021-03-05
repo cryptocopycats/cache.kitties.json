@@ -1,0 +1,26 @@
+{
+  "id": 308709,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-14T13:01:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #308709. I'm often referred to as the Ron Weasley of the group. I once clawed a rooster. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "261693@9",
+  "sire": "287184@12",
+  "children": [
+    "311775@14",
+    "315417@14",
+    "341007@14",
+    "356890@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5028,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

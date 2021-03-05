@@ -1,0 +1,23 @@
+{
+  "id": 297557,
+  "name": "FANCY 2nd Gen Ducat w. Jaguar",
+  "generation": 12,
+  "created_at": "2017-12-14T00:39:12.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm FANCY 2nd Gen Ducat w. Jaguar. I've never told anyone this, but I once groomed a dog. I'm often described as smelly, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "207512@6",
+  "sire": "189065@11",
+  "children": [
+    "303781@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4748,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 305128,
+  "name": "WannaFly",
+  "generation": 7,
+  "created_at": "2017-12-14T08:46:20.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm WannaFly. My friends describe me as wondrous and despicable. I once groomed a goose. I don't like to talk about it. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "301982@6",
+  "sire": "282810@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4918,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

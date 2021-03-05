@@ -1,0 +1,23 @@
+{
+  "id": 294070,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T20:55:54.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! My name's Kitty #294070. I once peed on Princess Diana's cat. They had it coming. When no one's home, I invite my pals over and we listen to Metallica. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "293776@6",
+  "sire": "275916@5",
+  "children": [
+    "294346@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4667,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

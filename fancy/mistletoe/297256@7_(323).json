@@ -1,0 +1,33 @@
+{
+  "id": 297256,
+  "name": "Miss L Toe 7",
+  "generation": 7,
+  "created_at": "2017-12-14T00:17:57.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Miss L Toe 7. My friends describe me as voluptuous and prickly. I once licked a labradoodle. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "295721@6",
+  "sire": "292316@6",
+  "children": [
+    "307016@8",
+    "307854@8",
+    "310931@8",
+    "311993@8",
+    "318824@8",
+    "324062@8",
+    "325313@8",
+    "457636@9",
+    "636223@9",
+    "1829682@9",
+    "1851539@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 323,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

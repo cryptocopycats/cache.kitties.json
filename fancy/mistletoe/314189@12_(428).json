@@ -1,0 +1,28 @@
+{
+  "id": 314189,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T20:30:25.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #314189. I'm often referred to as the Niles Crane of the group. Sometimes I daydream of a life full of spinning sick beats, hamburgers, and talking about how much I lift. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "312032@8",
+  "sire": "310433@11",
+  "children": [
+    "315868@13",
+    "322266@13",
+    "350316@13",
+    "407845@13",
+    "414753@13",
+    "629013@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 428,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 300176,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-14T03:20:29.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! My name's Kitty #300176. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"prickly.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "292460@12",
+  "sire": "255607@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4813,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

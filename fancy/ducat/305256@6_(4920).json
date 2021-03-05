@@ -1,0 +1,28 @@
+{
+  "id": 305256,
+  "name": "DuCat",
+  "generation": 6,
+  "created_at": "2017-12-14T08:55:57.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm DuCat. I'm a professional Skydiving Instructor and I love cantaloupe. When no one's home, I invite my pals over and we listen to Coldplay. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "301088@5",
+  "sire": "304823@5",
+  "children": [
+    "307399@7",
+    "307898@7",
+    "312606@9",
+    "322956@7",
+    "325846@7",
+    "350731@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4920,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

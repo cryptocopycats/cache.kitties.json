@@ -1,0 +1,23 @@
+{
+  "id": 295725,
+  "name": "Rudolph",
+  "generation": 12,
+  "created_at": "2017-12-13T22:45:16.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Rudolph. I've never told anyone this, but I once clawed a dog. I once clawed a platypus. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "278653@11",
+  "sire": "280336@5",
+  "children": [
+    "298206@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 314,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

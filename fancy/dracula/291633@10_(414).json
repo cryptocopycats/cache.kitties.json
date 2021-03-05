@@ -1,0 +1,26 @@
+{
+  "id": 291633,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-13T17:12:40.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #291633. I'm a Dispensary Clerk by day, and I like swiping right by night. I once made a rhino lay. Our friendship will be voluptuous, ridiculous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "260532@9",
+  "sire": "238901@8",
+  "children": [
+    "302763@11",
+    "305262@12",
+    "308206@12",
+    "316607@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 414,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 298623,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T01:46:54.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #298623. All you need to know about me is I hate lasagna with a passion. I was voted biggest teacher's pet in college. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283385@11",
+  "sire": "155010@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4773,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

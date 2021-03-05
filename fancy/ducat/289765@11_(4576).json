@@ -1,0 +1,23 @@
+{
+  "id": 289765,
+  "name": "Poop",
+  "generation": 11,
+  "created_at": "2017-12-13T13:11:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Poop. I'm a Culinary Sanitation Specialist by day, and I like summoning ghosts by night. I once got in a fight with a dog, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270962@10",
+  "sire": "241911@8",
+  "children": [
+    "322936@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4576,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

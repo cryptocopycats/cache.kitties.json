@@ -1,0 +1,23 @@
+{
+  "id": 294334,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-13T21:13:07.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #294334. My friends describe me as seductive and petulant. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "264636@6",
+  "sire": "209159@8",
+  "children": [
+    "312205@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4674,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

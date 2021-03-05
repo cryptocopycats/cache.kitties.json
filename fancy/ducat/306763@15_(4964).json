@@ -1,0 +1,23 @@
+{
+  "id": 306763,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-14T10:37:08.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #306763. My friends describe me as petulant and voluptuous. My secret indulgence is cantaloupe. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "292415@14",
+  "sire": "223653@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4964,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

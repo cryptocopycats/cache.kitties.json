@@ -1,0 +1,31 @@
+{
+  "id": 296880,
+  "name": "FancyKitty",
+  "generation": 6,
+  "created_at": "2017-12-13T23:54:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm FancyKitty. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "285539@5",
+  "sire": "283421@5",
+  "children": [
+    "325539@8",
+    "327196@7",
+    "328431@7",
+    "330241@7",
+    "332103@10",
+    "338182@7",
+    "343583@7",
+    "351069@9",
+    "362033@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 321,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 290683,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T15:08:35.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #290683. I'm a Spin Instructor  by day, and I like playing chess by night. I once made a goose leap. Will you be the wasabi to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "184440@7",
+  "sire": "157844@7",
+  "children": [
+    "503864@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4601,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

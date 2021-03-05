@@ -1,0 +1,28 @@
+{
+  "id": 311413,
+  "name": "ULTRA RARE MISTLETOE",
+  "generation": 7,
+  "created_at": "2017-12-14T16:35:55.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm ULTRA RARE MISTLETOE. I'm often referred to as the Ross Geller of the group. I once got in a fight with a chimpanzee, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "311127@6",
+  "sire": "310633@6",
+  "children": [
+    "315972@15",
+    "317079@14",
+    "323760@15",
+    "325970@8",
+    "331099@15",
+    "347846@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 402,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

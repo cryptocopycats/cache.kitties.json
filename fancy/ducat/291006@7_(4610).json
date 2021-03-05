@@ -1,0 +1,23 @@
+{
+  "id": 291006,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T15:53:34.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #291006. All you need to know about me is I hate salad with a passion. In my free time, I can usually be found petulant or practicing witchcraft. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "252651@6",
+  "sire": "250152@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4610,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 307923,
+  "name": "Kitty Bird",
+  "generation": 7,
+  "created_at": "2017-12-14T12:04:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty Bird. I'm a professional Dispensary Clerk and I love salad. It's not common knowledge, but my ancestry connects me to Confucius. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266726@6",
+  "sire": "305772@6",
+  "children": [
+    "341954@15",
+    "343005@17",
+    "344728@17",
+    "353782@15",
+    "380261@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5005,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

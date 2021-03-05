@@ -1,0 +1,27 @@
+{
+  "id": 312986,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T18:41:00.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #312986. I've never told anyone this, but I once frolicked with a dog. I once dreamed of being a Dogwalker. Now I can be found volunteering at the local kitten rescue shelter all day. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270379@6",
+  "sire": "312495@8",
+  "children": [
+    "320019@10",
+    "330794@16",
+    "455639@11",
+    "518442@10",
+    "554728@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5127,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

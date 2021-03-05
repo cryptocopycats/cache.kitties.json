@@ -1,0 +1,28 @@
+{
+  "id": 307584,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T11:37:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #307584. I've never told anyone this, but I once bit a dog. My friends describe me as \"ridiculous.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182656@4",
+  "sire": "185519@6",
+  "children": [
+    "310198@8",
+    "316225@9",
+    "399425@14",
+    "405761@8",
+    "412552@11",
+    "519852@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4995,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

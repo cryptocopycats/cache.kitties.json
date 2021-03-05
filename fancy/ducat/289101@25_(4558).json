@@ -1,0 +1,23 @@
+{
+  "id": 289101,
+  "name": null,
+  "generation": 25,
+  "created_at": "2017-12-13T12:05:23.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #289101. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as tantalizing, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "130699@10",
+  "sire": "259705@24",
+  "children": [
+    "360123@26"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4558,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

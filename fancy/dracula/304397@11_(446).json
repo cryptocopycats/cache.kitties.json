@@ -1,0 +1,32 @@
+{
+  "id": 304397,
+  "name": "Catula",
+  "generation": 11,
+  "created_at": "2017-12-14T07:59:22.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Catula. I enjoy reading garfield, chasing red dots, and fighting for the people. It's not common knowledge, but my ancestry connects me to Confucius. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "291261@9",
+  "sire": "270314@10",
+  "children": [
+    "306351@12",
+    "308531@12",
+    "313453@12",
+    "324558@12",
+    "346175@12",
+    "382485@12",
+    "401729@12",
+    "429941@12",
+    "709746@18",
+    "1346111@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 446,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

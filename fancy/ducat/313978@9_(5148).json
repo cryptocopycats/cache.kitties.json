@@ -1,0 +1,23 @@
+{
+  "id": 313978,
+  "name": "AB",
+  "generation": 9,
+  "created_at": "2017-12-14T20:08:15.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm AB. I'm a professional Train Conductor and I love cereal. I once made a labradoodle grimace. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "265241@8",
+  "sire": "253297@8",
+  "children": [
+    "319367@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5148,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

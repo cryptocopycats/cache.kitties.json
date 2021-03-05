@@ -1,0 +1,23 @@
+{
+  "id": 310400,
+  "name": "Wander",
+  "generation": 15,
+  "created_at": "2017-12-14T15:09:46.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Wander. I enjoy watching Stranger Things, spinning sick beats, and reciting poetry. When no one's home, I invite my pals over and we listen to Rihanna. Will you be the marmalade to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249753@9",
+  "sire": "192101@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5068,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

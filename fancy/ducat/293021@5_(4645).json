@@ -1,0 +1,32 @@
+{
+  "id": 293021,
+  "name": "Fancy DuCat",
+  "generation": 5,
+  "created_at": "2017-12-13T19:45:09.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Fancy DuCat. I've never told anyone this, but I once bit a dog. I like to listen to Aretha Franklin while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287815@4",
+  "sire": "287238@4",
+  "children": [
+    "293776@6",
+    "306201@6",
+    "307641@6",
+    "308268@6",
+    "313112@6",
+    "323195@6",
+    "327768@6",
+    "360741@6",
+    "371383@6",
+    "389725@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4645,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

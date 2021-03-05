@@ -1,0 +1,29 @@
+{
+  "id": 305959,
+  "name": "Sebastian",
+  "generation": 7,
+  "created_at": "2017-12-14T09:43:22.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Sebastian. I'm often referred to as the Homer Simpson of the group. I once dreamed of being a Skydiving Instructor. Now I can be found talking about how much I lift all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258455@6",
+  "sire": "250079@6",
+  "children": [
+    "318489@8",
+    "430371@8",
+    "432784@8",
+    "433423@8",
+    "434567@8",
+    "436979@8",
+    "446332@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4942,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

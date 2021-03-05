@@ -1,0 +1,25 @@
+{
+  "id": 303779,
+  "name": "Time Lord Fleet",
+  "generation": 18,
+  "created_at": "2017-12-14T07:18:20.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Time Lord Fleet. In high school, I was voted most likely to work at NASA. I once got in a fight with a dolphin, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278315@17",
+  "sire": "271030@17",
+  "children": [
+    "310405@19",
+    "338804@19",
+    "376302@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4888,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

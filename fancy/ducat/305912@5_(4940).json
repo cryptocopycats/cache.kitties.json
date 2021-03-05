@@ -1,0 +1,31 @@
+{
+  "id": 305912,
+  "name": "SisiTeetee",
+  "generation": 5,
+  "created_at": "2017-12-14T09:40:47.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm SisiTeetee. I've never told anyone this, but I once tricked a dog. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266455@4",
+  "sire": "197791@4",
+  "children": [
+    "344978@6",
+    "345481@6",
+    "349334@6",
+    "376647@18",
+    "457319@11",
+    "495123@6",
+    "496817@8",
+    "517814@6",
+    "524282@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4940,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

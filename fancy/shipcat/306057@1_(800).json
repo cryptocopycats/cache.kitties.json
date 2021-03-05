@@ -1,0 +1,24 @@
+{
+  "id": 306057,
+  "name": "Maaarrr",
+  "generation": 1,
+  "created_at": "2017-12-14T09:49:07.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! Maaarrr here. I'm here to enjoy breakdancing and watching Stranger Things. My great-great-great-great-great-great grandkitty lived with Princess Diana. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "1256@0",
+  "sire": "1269@0",
+  "children": [
+    "309375@2",
+    "313510@2"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 800,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

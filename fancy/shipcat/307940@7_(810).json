@@ -1,0 +1,23 @@
+{
+  "id": 307940,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T12:06:03.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #307940. My friends describe me as hairy and gullible. I once dreamed of being a Train Conductor. Now I can be found braiding people's hair all day. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "305799@6",
+  "sire": "304041@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 810,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 305908,
+  "name": "#14 - Santaclaws",
+  "generation": 7,
+  "created_at": "2017-12-14T09:40:37.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's #14 - Santaclaws. I once peed on King Henry VIII's cat. They had it coming. Some people say I'm the Niles Crane of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "287102@6",
+  "sire": "273610@4",
+  "children": [
+    "313530@8",
+    "316469@8",
+    "319620@8",
+    "321358@8",
+    "327013@8",
+    "336356@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 14,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

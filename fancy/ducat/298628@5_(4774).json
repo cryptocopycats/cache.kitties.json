@@ -1,0 +1,28 @@
+{
+  "id": 298628,
+  "name": "infi kitty#2",
+  "generation": 5,
+  "created_at": "2017-12-14T01:46:54.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm infi kitty#2. I want to live in a world where people believe that one day cats will rule this planet. I once made a dolphin lay. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "288803@4",
+  "sire": "286308@4",
+  "children": [
+    "299544@8",
+    "300713@6",
+    "302018@6",
+    "304974@6",
+    "310099@6",
+    "319883@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4774,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

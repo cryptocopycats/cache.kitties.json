@@ -1,0 +1,26 @@
+{
+  "id": 305567,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-14T09:14:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #305567. All you need to know about me is I hate cereal with a passion. Sometimes I daydream of a life full of picking on mice, lasagna, and swiping right. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236818@7",
+  "sire": "240874@9",
+  "children": [
+    "339453@17",
+    "343323@14",
+    "350662@14",
+    "363389@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4929,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

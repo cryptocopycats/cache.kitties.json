@@ -1,0 +1,31 @@
+{
+  "id": 298354,
+  "name": "King Kitty",
+  "generation": 7,
+  "created_at": "2017-12-14T01:29:20.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! My name's King Kitty. I once peed on Nelson Mandela's cat. They had it coming. I once made a moose dance. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "294837@6",
+  "sire": "290483@4",
+  "children": [
+    "306522@8",
+    "306639@13",
+    "307464@8",
+    "312357@15",
+    "312985@11",
+    "320823@9",
+    "323970@8",
+    "348755@16",
+    "351936@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4766,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

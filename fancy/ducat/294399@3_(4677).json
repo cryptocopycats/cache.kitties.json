@@ -1,0 +1,23 @@
+{
+  "id": 294399,
+  "name": "Virgin Ducat Australia #1",
+  "generation": 3,
+  "created_at": "2017-12-13T21:15:51.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! My name's Virgin Ducat Australia #1. I once peed on Marie Antoinette's cat. They had it coming. My secret indulgence is lasagna. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200230@2",
+  "sire": "176519@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4677,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

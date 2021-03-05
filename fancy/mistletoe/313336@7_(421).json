@@ -1,0 +1,27 @@
+{
+  "id": 313336,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T19:29:33.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #313336. I'm often referred to as the Ross Geller of the group. I put cinammon on everything. Like, everything: hot dogs, cantaloupe—everything! Our friendship will be preposterous, gorgeous, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "309195@6",
+  "sire": "299177@6",
+  "children": [
+    "314228@8",
+    "319033@8",
+    "348473@8",
+    "399381@8",
+    "400736@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 421,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

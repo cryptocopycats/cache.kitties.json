@@ -1,0 +1,24 @@
+{
+  "id": 289724,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-13T13:06:33.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Kitty #289724 here. I'm here to enjoy eating until I loathe myself and chasing red dots. My great-great-great-great-great-great grandkitty lived with Confucius. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "125572@8",
+  "sire": "240674@16",
+  "children": [
+    "318955@18",
+    "554432@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4575,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

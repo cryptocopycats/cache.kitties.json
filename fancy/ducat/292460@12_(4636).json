@@ -1,0 +1,23 @@
+{
+  "id": 292460,
+  "name": "StupidChickenIdiot",
+  "generation": 12,
+  "created_at": "2017-12-13T19:02:54.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm StupidChickenIdiot. I'm often referred to as the Hermione Granger of the group. I once made a goose kiss. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "273773@9",
+  "sire": "276762@11",
+  "children": [
+    "300176@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4636,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

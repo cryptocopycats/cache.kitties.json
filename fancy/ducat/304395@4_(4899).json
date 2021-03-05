@@ -1,0 +1,28 @@
+{
+  "id": 304395,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-14T07:58:41.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #304395. All you need to know about me is I hate wet food with a passion. Sometimes I daydream of a life full of chasing red dots, steak, and people-watching. Our friendship will be raunchy, gorgeous, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "301178@3",
+  "sire": "100461@3",
+  "children": [
+    "339378@5",
+    "340079@5",
+    "381460@5",
+    "400742@5",
+    "481984@5",
+    "1143753@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4899,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

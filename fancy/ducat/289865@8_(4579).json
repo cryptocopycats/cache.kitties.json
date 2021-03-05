@@ -1,0 +1,27 @@
+{
+  "id": 289865,
+  "name": "Gold Bird Rare 🐾",
+  "generation": 8,
+  "created_at": "2017-12-13T13:22:45.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Gold Bird Rare 🐾. I believe the world is flat. I once dreamed of being a Aerobics Athlete . Now I can be found jump-roping all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283871@7",
+  "sire": "228018@6",
+  "children": [
+    "292246@9",
+    "322508@9",
+    "324921@9",
+    "329613@9",
+    "337143@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4579,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

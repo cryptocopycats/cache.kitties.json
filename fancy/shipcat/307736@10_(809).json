@@ -1,0 +1,23 @@
+{
+  "id": 307736,
+  "name": "Shipcat",
+  "generation": 10,
+  "created_at": "2017-12-14T11:47:48.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Shipcat. I'm a professional Spin Instructor  and I love apple pie. Sometimes I daydream of a life full of glaring at the neighbour's cat, steak, and prank-calling celebrities. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "275432@9",
+  "sire": "262415@5",
+  "children": [
+    "320059@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 809,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 302688,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T06:09:28.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #302688. In high school, I was voted biggest teacher's pet. In my free time, I can usually be found tantalizing or tricking babies. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "267061@5",
+  "sire": "301884@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4865,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

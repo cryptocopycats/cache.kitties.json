@@ -1,0 +1,28 @@
+{
+  "id": 288498,
+  "name": "2",
+  "generation": 14,
+  "created_at": "2017-12-13T11:12:30.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm 2. I enjoy shakin' dat booty, sweating through my feet, and sitting on your computer. When I'm not practicing witchcraft, I'm playing chess! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283007@13",
+  "sire": "85754@12",
+  "children": [
+    "290838@15",
+    "303119@15",
+    "330446@15",
+    "362596@15",
+    "378692@15",
+    "453512@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4540,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 288730,
+  "name": "Both Parents",
+  "generation": 4,
+  "created_at": "2017-12-13T11:37:09.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! My name's Both Parents. I once peed on Princess Diana's cat. They had it coming. I put pickles on everything. Like, everything: hot dogs, cereal—everything! I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274013@3",
+  "sire": "278235@3",
+  "children": [
+    "292580@7",
+    "456036@5",
+    "662863@8",
+    "663072@9",
+    "666937@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4547,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 302477,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T05:53:21.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #302477. I believe the world is flat. I once made a gecko trot. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "271850@6",
+  "sire": "269425@6",
+  "children": [
+    "304490@14",
+    "305159@8",
+    "306858@10",
+    "311009@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 789,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

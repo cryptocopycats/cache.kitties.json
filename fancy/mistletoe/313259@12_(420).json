@@ -1,0 +1,25 @@
+{
+  "id": 313259,
+  "name": "www.goodkitty.net",
+  "generation": 12,
+  "created_at": "2017-12-14T19:23:02.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm www.goodkitty.net. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of staying woke, wet food, and swiping left. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "311558@9",
+  "sire": "312079@11",
+  "children": [
+    "318931@13",
+    "547512@13",
+    "551134@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 420,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

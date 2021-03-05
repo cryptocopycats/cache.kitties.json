@@ -1,0 +1,25 @@
+{
+  "id": 304543,
+  "name": "** Fancy Fancy !!",
+  "generation": 12,
+  "created_at": "2017-12-14T08:07:19.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! My name's ** Fancy Fancy !!. I once peed on Cleopatra's cat. They had it coming. My friends describe me as \"petulant.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "244701@10",
+  "sire": "260780@11",
+  "children": [
+    "373463@13",
+    "375272@13",
+    "1507636@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4904,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

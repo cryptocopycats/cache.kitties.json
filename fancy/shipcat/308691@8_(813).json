@@ -1,0 +1,29 @@
+{
+  "id": 308691,
+  "name": "g8 PURE POPEYE",
+  "generation": 8,
+  "created_at": "2017-12-14T12:59:50.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm g8 PURE POPEYE. I enjoy chasing string, riding dirty, and chasing red dots. I was voted school jock in college. Will you be the maple syrup to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "211573@4",
+  "sire": "208401@7",
+  "children": [
+    "315853@9",
+    "318600@9",
+    "321656@9",
+    "325314@9",
+    "360855@9",
+    "375477@13",
+    "387392@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 813,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

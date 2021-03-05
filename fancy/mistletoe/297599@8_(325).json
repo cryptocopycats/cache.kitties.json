@@ -1,0 +1,23 @@
+{
+  "id": 297599,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T00:40:51.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #297599. I'm a professional Train Conductor and I love apple pie. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "296913@7",
+  "sire": "295964@5",
+  "children": [
+    "302268@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 325,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

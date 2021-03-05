@@ -1,0 +1,23 @@
+{
+  "id": 293948,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-13T20:46:15.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #293948. I'm often referred to as the Chandler Bing of the group. I once kissed a labradoodle. I don't like to talk about it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "246196@6",
+  "sire": "276427@9",
+  "children": [
+    "444500@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 309,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

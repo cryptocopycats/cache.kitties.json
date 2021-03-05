@@ -1,0 +1,27 @@
+{
+  "id": 309195,
+  "name": "🤶 Fancy Mistletoe 🤶",
+  "generation": 6,
+  "created_at": "2017-12-14T13:40:10.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm 🤶 Fancy Mistletoe 🤶. I believe the world is flat. I like to listen to Metallica while grooming. Don't judge me. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "297912@5",
+  "sire": "260875@5",
+  "children": [
+    "311040@7",
+    "312196@7",
+    "313336@7",
+    "326235@7",
+    "355086@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 389,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

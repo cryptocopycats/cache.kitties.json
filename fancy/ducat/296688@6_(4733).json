@@ -1,0 +1,24 @@
+{
+  "id": 296688,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T23:43:22.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #296688. All you need to know about me is I hate steak with a passion. When I'm not practicing witchcraft, I'm reading Danielle Steele! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "288659@5",
+  "sire": "288058@5",
+  "children": [
+    "1946256@14",
+    "1994470@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4733,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

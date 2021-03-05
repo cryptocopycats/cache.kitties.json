@@ -1,0 +1,28 @@
+{
+  "id": 308357,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T12:36:47.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #308357. I'm a Mad Scientist by day, and I like pole dancing by night. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195883@4",
+  "sire": "308104@7",
+  "children": [
+    "311435@9",
+    "314261@9",
+    "316402@9",
+    "320635@11",
+    "330472@9",
+    "343959@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5014,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

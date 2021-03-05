@@ -1,0 +1,23 @@
+{
+  "id": 300672,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-14T03:52:20.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Kitty #300672. I once peed on Martin Luther King Jr.'s cat. They had it coming. I am 81% oracle, 48% Spin Instructor , and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "282471@2",
+  "sire": "150472@14",
+  "children": [
+    "304541@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 784,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

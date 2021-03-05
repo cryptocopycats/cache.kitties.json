@@ -1,0 +1,28 @@
+{
+  "id": 305918,
+  "name": "Nutmeg",
+  "generation": 12,
+  "created_at": "2017-12-14T09:40:56.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Nutmeg. I'm a professional Culinary Sanitation Specialist and I love cereal. When I'm not swiping left, I'm riverdancing! Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "304851@11",
+  "sire": "277855@11",
+  "children": [
+    "316477@13",
+    "317764@13",
+    "340526@13",
+    "407717@13",
+    "423466@13",
+    "457924@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 377,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

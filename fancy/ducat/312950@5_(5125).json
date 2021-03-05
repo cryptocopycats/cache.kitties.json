@@ -1,0 +1,24 @@
+{
+  "id": 312950,
+  "name": "Sir Duckalot",
+  "generation": 5,
+  "created_at": "2017-12-14T18:37:58.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! Sir Duckalot here. I'm here to enjoy being a nevernude and picking on mice. I once got in a fight with a rhino, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "307086@4",
+  "sire": "307542@4",
+  "children": [
+    "313418@8",
+    "376617@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5125,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

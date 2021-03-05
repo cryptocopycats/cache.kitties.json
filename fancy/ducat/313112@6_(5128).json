@@ -1,0 +1,26 @@
+{
+  "id": 313112,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T19:09:07.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! Kitty #313112 here. I'm here to enjoy staying woke and riding unicorns. When I'm not riding the bus, I'm sleeping in fresh laundry! Our friendship will be annoying, hairy, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "293021@5",
+  "sire": "304823@5",
+  "children": [
+    "314956@7",
+    "315698@7",
+    "319591@7",
+    "332855@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5128,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

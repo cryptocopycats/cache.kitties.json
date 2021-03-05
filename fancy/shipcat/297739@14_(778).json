@@ -1,0 +1,27 @@
+{
+  "id": 297739,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-14T00:50:49.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #297739. I'm a professional Private Dancer  and I love ice cream. Some people say I'm the Hermione Granger of the group. Our friendship will be petulant, preposterous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "297523@6",
+  "sire": "238832@13",
+  "children": [
+    "318878@15",
+    "348959@15",
+    "400328@15",
+    "729883@15",
+    "747946@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 778,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

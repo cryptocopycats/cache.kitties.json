@@ -1,0 +1,23 @@
+{
+  "id": 293324,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-13T20:05:12.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Kitty #293324. I want to live in a world where people believe that one day cats will rule this planet. When I'm not pole dancing, I'm running a podcast! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200547@9",
+  "sire": "254502@6",
+  "children": [
+    "308028@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4648,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

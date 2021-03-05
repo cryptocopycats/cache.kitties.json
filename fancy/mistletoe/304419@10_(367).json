@@ -1,0 +1,30 @@
+{
+  "id": 304419,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-14T08:00:13.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #304419. My friends describe me as stinky and brilliant. My secret indulgence is cantaloupe. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "291649@9",
+  "sire": "296676@9",
+  "children": [
+    "306099@12",
+    "310895@11",
+    "315605@11",
+    "322266@13",
+    "350316@13",
+    "397471@11",
+    "410292@11",
+    "632567@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 367,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

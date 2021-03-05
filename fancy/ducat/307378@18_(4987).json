@@ -1,0 +1,23 @@
+{
+  "id": 307378,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-14T11:21:09.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #307378. I'm often referred to as the Bart Simpson of the group. I like to listen to Ace of Base while grooming. Don't judge me. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "262487@17",
+  "sire": "217537@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4987,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

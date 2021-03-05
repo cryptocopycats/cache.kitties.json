@@ -1,0 +1,25 @@
+{
+  "id": 304072,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T07:37:12.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Kitty #304072. I once peed on Amelia Earhart's cat. They had it coming. Some people say I'm the Michael Scott of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "115614@7",
+  "sire": "232910@6",
+  "children": [
+    "319164@15",
+    "346964@25",
+    "395402@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4895,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 290407,
+  "name": "Discount for Fancy Cat",
+  "generation": 7,
+  "created_at": "2017-12-13T14:31:40.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! Discount for Fancy Cat here. I'm here to enjoy fighting for the people and riding unicorns. I am 2% oracle, 78% Mad Scientist, and otherwise bad at math. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "273730@6",
+  "sire": "265296@6",
+  "children": [
+    "297598@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4591,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

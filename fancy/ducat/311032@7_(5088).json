@@ -1,0 +1,23 @@
+{
+  "id": 311032,
+  "name": "Ducat #5088",
+  "generation": 7,
+  "created_at": "2017-12-14T16:00:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Ducat #5088. In high school, I was voted biggest teacher's pet. I like to listen to Metallica while grooming. Don't judge me. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250152@6",
+  "sire": "252651@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5088,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 294790,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-13T21:44:40.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #294790. I enjoy spinning sick beats, reciting poetry, and tricking babies. My secret indulgence is lasagna. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "124592@8",
+  "sire": "196139@12",
+  "children": [
+    "295305@14",
+    "471776@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4687,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

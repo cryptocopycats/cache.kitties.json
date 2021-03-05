@@ -1,0 +1,28 @@
+{
+  "id": 303911,
+  "name": "Mr. 9miles",
+  "generation": 10,
+  "created_at": "2017-12-14T07:28:51.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Mr. 9miles. All you need to know about me is I hate hamburgers with a passion. Some people say I'm the Niles Crane of the group. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "302099@8",
+  "sire": "291586@9",
+  "children": [
+    "306351@12",
+    "310661@11",
+    "316607@11",
+    "413120@11",
+    "416292@11",
+    "422325@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 445,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

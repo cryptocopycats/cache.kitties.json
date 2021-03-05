@@ -1,0 +1,23 @@
+{
+  "id": 290607,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-13T14:59:43.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #290607. I enjoy spinning sick beats, grooming, and picking flowers. I once dreamed of being a Dogwalker. Now I can be found volunteering at the local kitten rescue shelter all day. Will you be the marmite to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260180@5",
+  "sire": "178429@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4599,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

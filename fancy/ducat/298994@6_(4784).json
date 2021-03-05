@@ -1,0 +1,29 @@
+{
+  "id": 298994,
+  "name": "Flying DuckCat II",
+  "generation": 6,
+  "created_at": "2017-12-14T02:09:35.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm Flying DuckCat II. All you need to know about me is I hate apple pie with a passion. I once kissed a gecko. I don't like to talk about it. Our friendship will be fabulous, gullible, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "206901@4",
+  "sire": "290625@5",
+  "children": [
+    "301371@7",
+    "304130@7",
+    "327451@11",
+    "333835@11",
+    "359944@7",
+    "367831@8",
+    "378873@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4784,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

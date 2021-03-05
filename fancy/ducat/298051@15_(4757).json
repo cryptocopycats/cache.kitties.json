@@ -1,0 +1,25 @@
+{
+  "id": 298051,
+  "name": "Fancy DuCat LimeGreen",
+  "generation": 15,
+  "created_at": "2017-12-14T01:09:43.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Fancy DuCat LimeGreen. In high school, I was voted school jock. Sometimes I daydream of a life full of sitting on your computer, ice cream, and running a podcast. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "245905@14",
+  "sire": "281400@13",
+  "children": [
+    "308328@16",
+    "334015@16",
+    "354847@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4757,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

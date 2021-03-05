@@ -1,0 +1,24 @@
+{
+  "id": 302171,
+  "name": "ℚ𝕦𝕒𝕔𝕜",
+  "generation": 6,
+  "created_at": "2017-12-14T05:32:21.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm ℚ𝕦𝕒𝕔𝕜. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found petulant or people-watching. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "261520@2",
+  "sire": "288778@5",
+  "children": [
+    "302502@7",
+    "323188@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4849,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

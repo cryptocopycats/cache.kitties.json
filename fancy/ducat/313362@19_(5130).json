@@ -1,0 +1,23 @@
+{
+  "id": 313362,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-14T19:31:15.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #313362. I've never told anyone this, but I once snuggled a dog. Sometimes I daydream of a life full of being a nevernude, lasagna, and riding the bus. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "291306@9",
+  "sire": "128583@18",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5130,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 312013,
+  "name": "Nine Fancy Lives",
+  "generation": 9,
+  "created_at": "2017-12-14T17:24:50.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Nine Fancy Lives. I enjoy slappin' da bass, hitting on yo' man, and sitting on your computer. When no one's home, I invite my pals over and we listen to Mariah Carey. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "310986@8",
+  "sire": "310583@8",
+  "children": [
+    "312588@10",
+    "314854@10",
+    "317378@10",
+    "342796@10",
+    "344895@10",
+    "348460@10",
+    "365016@10",
+    "494264@25"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5109,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

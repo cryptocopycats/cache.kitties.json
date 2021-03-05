@@ -1,0 +1,29 @@
+{
+  "id": 291299,
+  "name": "Bram Stoker",
+  "generation": 12,
+  "created_at": "2017-12-13T16:27:59.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Bram Stoker. I want to live in a world where people believe the world is flat. Some people say I'm the Hermione Granger of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "278764@9",
+  "sire": "284975@11",
+  "children": [
+    "293577@13",
+    "300376@13",
+    "305735@13",
+    "314289@13",
+    "338501@13",
+    "347738@13",
+    "430798@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 409,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

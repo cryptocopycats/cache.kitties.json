@@ -1,0 +1,23 @@
+{
+  "id": 314607,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T21:07:09.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #314607. All you need to know about me is I hate ice cream with a passion. I would give it all up for a Chanel purse. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "313845@5",
+  "sire": "305115@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 432,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

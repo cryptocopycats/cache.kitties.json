@@ -1,0 +1,30 @@
+{
+  "id": 294346,
+  "name": "Catwing",
+  "generation": 8,
+  "created_at": "2017-12-13T21:14:20.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Catwing. My friends describe me as wondrous and vegan. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "294070@7",
+  "sire": "246926@7",
+  "children": [
+    "306167@9",
+    "308326@9",
+    "311219@9",
+    "324153@9",
+    "347069@9",
+    "361098@9",
+    "372229@10",
+    "386166@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4675,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

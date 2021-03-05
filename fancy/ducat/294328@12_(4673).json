@@ -1,0 +1,24 @@
+{
+  "id": 294328,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-13T21:12:28.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #294328. I'm often referred to as the Cersei Lannister of the group. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250297@11",
+  "sire": "255158@7",
+  "children": [
+    "329279@13",
+    "357509@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4673,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

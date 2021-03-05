@@ -1,0 +1,31 @@
+{
+  "id": 307524,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T11:33:08.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #307524. I'm a Aerobics Athlete  by day, and I like riding the bus by night. Sometimes I daydream of a life full of chasing string, hamburgers, and volunteering at the local kitten rescue shelter. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "121238@5",
+  "sire": "275179@4",
+  "children": [
+    "338641@7",
+    "339282@7",
+    "340179@7",
+    "346491@7",
+    "348875@7",
+    "354374@7",
+    "363297@7",
+    "375641@7",
+    "388732@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 807,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

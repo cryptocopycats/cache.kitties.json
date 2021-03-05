@@ -1,0 +1,25 @@
+{
+  "id": 311426,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-14T16:39:13.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #311426. I'm often referred to as the Peter Griffin of the group. I once made a platypus play. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "214093@12",
+  "sire": "226790@5",
+  "children": [
+    "343746@18",
+    "353640@15",
+    "383487@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5101,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

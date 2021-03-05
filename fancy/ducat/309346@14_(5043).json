@@ -1,0 +1,23 @@
+{
+  "id": 309346,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-14T13:51:22.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #309346. My friends describe me as raunchy and annoying. I am 87% oracle, 76% Aerobics Athlete , and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "307484@13",
+  "sire": "307462@11",
+  "children": [
+    "313308@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5043,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

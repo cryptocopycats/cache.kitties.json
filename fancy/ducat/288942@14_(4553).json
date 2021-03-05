@@ -1,0 +1,27 @@
+{
+  "id": 288942,
+  "name": "Spamiaow",
+  "generation": 14,
+  "created_at": "2017-12-13T11:53:40.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! My name's Spamiaow. I once peed on Marie Antoinette's cat. They had it coming. I once got in a fight with a labradoodle, and won. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "24266@13",
+  "sire": "283871@7",
+  "children": [
+    "303904@15",
+    "877926@15",
+    "881907@15",
+    "883116@15",
+    "959831@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4553,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

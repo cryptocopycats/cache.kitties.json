@@ -1,0 +1,24 @@
+{
+  "id": 289223,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-13T12:16:17.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Kitty #289223 here. I'm here to enjoy breakdancing and licking doorknobs. I'm often described as preposterous, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "208276@4",
+  "sire": "278971@4",
+  "children": [
+    "302595@6",
+    "304725@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 759,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 307336,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T11:19:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #307336. In high school, I was voted biggest teacher's pet. I'm often described as brilliant, and I own it. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "304863@5",
+  "sire": "304767@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4985,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

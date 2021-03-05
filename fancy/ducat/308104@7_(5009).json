@@ -1,0 +1,29 @@
+{
+  "id": 308104,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T12:17:49.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #308104. I believe the world is flat. I am 91% fairy, 95% Culinary Sanitation Specialist, and otherwise bad at math. Will you be the pickles to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258004@4",
+  "sire": "295481@6",
+  "children": [
+    "308357@8",
+    "316863@8",
+    "319445@8",
+    "331631@10",
+    "343684@8",
+    "352734@8",
+    "360699@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5009,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

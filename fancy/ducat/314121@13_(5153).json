@@ -1,0 +1,26 @@
+{
+  "id": 314121,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-14T20:22:49.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #314121. I've never told anyone this, but I once tricked a dog. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "309934@8",
+  "sire": "193894@12",
+  "children": [
+    "331079@17",
+    "372012@16",
+    "429529@14",
+    "443490@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5153,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

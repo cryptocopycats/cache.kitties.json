@@ -1,0 +1,23 @@
+{
+  "id": 296325,
+  "name": "雷光拳",
+  "generation": 5,
+  "created_at": "2017-12-13T23:19:28.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm 雷光拳. My friends describe me as ridiculous and voluptuous. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274689@4",
+  "sire": "277683@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4724,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

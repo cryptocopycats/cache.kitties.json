@@ -1,0 +1,23 @@
+{
+  "id": 308870,
+  "name": "Pure Breed",
+  "generation": 10,
+  "created_at": "2017-12-14T13:13:17.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Pure Breed. I want to live in a world where people believe the world is flat. I'm often described as wondrous, and I own it. Our friendship will be prickly, gorgeous, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "268459@9",
+  "sire": "145276@7",
+  "children": [
+    "364384@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5030,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

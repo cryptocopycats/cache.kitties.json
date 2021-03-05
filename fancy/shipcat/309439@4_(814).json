@@ -1,0 +1,28 @@
+{
+  "id": 309439,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-14T13:58:51.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Kitty #309439. I enjoy eating lasagna, reciting poetry, and reading garfield. When I'm not sleeping in fresh laundry, I'm volunteering at the local kitten rescue shelter! Will you be the marmite to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "297463@3",
+  "sire": "143393@3",
+  "children": [
+    "321458@5",
+    "321707@5",
+    "322153@5",
+    "324550@5",
+    "330024@5",
+    "384194@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 814,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

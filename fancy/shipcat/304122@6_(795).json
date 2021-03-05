@@ -1,0 +1,32 @@
+{
+  "id": 304122,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T07:40:56.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #304122. All you need to know about me is I hate wet food with a passion. When no one's home, I invite my pals over and we listen to Metallica. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "290270@5",
+  "sire": "227325@5",
+  "children": [
+    "304789@7",
+    "306632@7",
+    "324795@7",
+    "340387@7",
+    "355095@7",
+    "359360@7",
+    "365319@7",
+    "371503@7",
+    "383085@7",
+    "457062@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 795,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

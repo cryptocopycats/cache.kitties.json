@@ -1,0 +1,24 @@
+{
+  "id": 304442,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T08:03:21.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #304442. I enjoy taking selfies, picking flowers, and tripping my owner. I was voted biggest teacher's pet in college. Will you be the ranch dressing to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "253591@8",
+  "sire": "285811@6",
+  "children": [
+    "305699@10",
+    "307474@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4901,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

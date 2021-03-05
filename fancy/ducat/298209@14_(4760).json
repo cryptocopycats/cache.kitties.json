@@ -1,0 +1,24 @@
+{
+  "id": 298209,
+  "name": "4",
+  "generation": 14,
+  "created_at": "2017-12-14T01:19:35.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! My name's 4. I once peed on Nelson Mandela's cat. They had it coming. Some people say I'm the Jon Snow of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "86494@13",
+  "sire": "157328@12",
+  "children": [
+    "302331@15",
+    "547812@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4760,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

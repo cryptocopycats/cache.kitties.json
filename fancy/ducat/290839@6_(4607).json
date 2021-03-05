@@ -1,0 +1,31 @@
+{
+  "id": 290839,
+  "name": "Charlie",
+  "generation": 6,
+  "created_at": "2017-12-13T15:29:36.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Charlie. I believe that one day cats will rule this planet. I am 63% wizard, 85% Train Conductor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189674@5",
+  "sire": "173281@5",
+  "children": [
+    "310465@7",
+    "328106@7",
+    "352774@7",
+    "543215@7",
+    "544529@9",
+    "557214@7",
+    "598259@10",
+    "610922@12",
+    "639321@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4607,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

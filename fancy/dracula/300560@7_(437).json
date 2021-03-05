@@ -1,0 +1,26 @@
+{
+  "id": 300560,
+  "name": "Kitty #300560",
+  "generation": 7,
+  "created_at": "2017-12-14T03:47:09.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #300560. All you need to know about me is I hate wet food with a passion. I once got in a fight with a rooster, and won. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "196450@5",
+  "sire": "189895@6",
+  "children": [
+    "395156@8",
+    "396190@10",
+    "396952@9",
+    "397057@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 437,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

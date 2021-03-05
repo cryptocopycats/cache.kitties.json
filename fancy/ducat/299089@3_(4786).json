@@ -1,0 +1,23 @@
+{
+  "id": 299089,
+  "name": "Mr. Goldbird",
+  "generation": 3,
+  "created_at": "2017-12-14T02:13:11.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Mr. Goldbird. I enjoy eating lasagna, riding dirty, and picking on mice. My friends describe me as \"tantalizing.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278256@2",
+  "sire": "256544@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4786,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

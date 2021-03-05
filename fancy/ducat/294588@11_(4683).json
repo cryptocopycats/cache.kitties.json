@@ -1,0 +1,23 @@
+{
+  "id": 294588,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-13T21:31:36.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Kitty #294588. I want to live in a world where people believe the world is flat. When I'm not riding the bus, I'm volunteering at the local kitten rescue shelter! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "252477@10",
+  "sire": "248625@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4683,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

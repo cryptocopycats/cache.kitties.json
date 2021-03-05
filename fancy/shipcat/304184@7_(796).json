@@ -1,0 +1,23 @@
+{
+  "id": 304184,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T07:44:21.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #304184. All you need to know about me is I hate hamburgers with a passion. In my free time, I can usually be found hairy or swiping right. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "213632@3",
+  "sire": "267599@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 796,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

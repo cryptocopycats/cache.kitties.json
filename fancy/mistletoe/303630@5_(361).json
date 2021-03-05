@@ -1,0 +1,23 @@
+{
+  "id": 303630,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-14T07:07:20.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #303630. I'm a professional Spin Instructor  and I love wet food. I would give it all up to be on Oprah. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "296620@4",
+  "sire": "276149@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 361,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

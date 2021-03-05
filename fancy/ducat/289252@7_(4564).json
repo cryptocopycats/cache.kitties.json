@@ -1,0 +1,31 @@
+{
+  "id": 289252,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T12:20:27.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! Kitty #289252 here. I'm here to enjoy tricking babies and staying woke. When I'm not swiping left, I'm braiding people's hair! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278031@6",
+  "sire": "205452@6",
+  "children": [
+    "303866@8",
+    "304430@8",
+    "305661@8",
+    "321677@8",
+    "323466@8",
+    "419362@13",
+    "434174@13",
+    "439647@13",
+    "445699@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4564,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

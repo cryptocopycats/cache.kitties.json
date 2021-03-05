@@ -1,0 +1,29 @@
+{
+  "id": 313613,
+  "name": "Elf with 3 Santa Genes",
+  "generation": 7,
+  "created_at": "2017-12-14T19:44:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Elf with 3 Santa Genes. I want to live in a world where people believe the world is flat. I was voted school jock in college. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "310242@6",
+  "sire": "311127@6",
+  "children": [
+    "314267@8",
+    "315755@8",
+    "320025@8",
+    "333567@8",
+    "411586@8",
+    "415201@8",
+    "442180@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 422,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

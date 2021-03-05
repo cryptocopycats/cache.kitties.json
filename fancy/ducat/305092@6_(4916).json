@@ -1,0 +1,26 @@
+{
+  "id": 305092,
+  "name": "quack!",
+  "generation": 6,
+  "created_at": "2017-12-14T08:44:43.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm quack!. I'm a Private Dancer  by day, and I like pole dancing by night. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "303436@5",
+  "sire": "294246@5",
+  "children": [
+    "322591@7",
+    "326905@7",
+    "371369@7",
+    "398063@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4916,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

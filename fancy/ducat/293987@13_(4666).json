@@ -1,0 +1,27 @@
+{
+  "id": 293987,
+  "name": "early bird",
+  "generation": 13,
+  "created_at": "2017-12-13T20:47:37.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm early bird. I believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "170672@10",
+  "sire": "273056@12",
+  "children": [
+    "296202@19",
+    "346371@14",
+    "697973@14",
+    "700867@14",
+    "702525@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4666,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

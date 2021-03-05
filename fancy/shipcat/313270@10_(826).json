@@ -1,0 +1,31 @@
+{
+  "id": 313270,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-14T19:23:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #313270. I'm a Aerobics Athlete  by day, and I like summoning ghosts by night. I like to listen to Aretha Franklin while grooming. Don't judge me. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "149210@3",
+  "sire": "149126@9",
+  "children": [
+    "314323@11",
+    "362958@11",
+    "373696@11",
+    "386715@11",
+    "389288@11",
+    "398651@11",
+    "405773@11",
+    "438635@11",
+    "485078@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 826,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 311505,
+  "name": "⚡Rare FancyCat + 2 FancyParent",
+  "generation": 8,
+  "created_at": "2017-12-14T16:45:30.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm ⚡Rare FancyCat + 2 FancyParent. I'm a professional Foreign Film Director and I love steak. It's not common knowledge, but my ancestry connects me to Princess Diana. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "310465@7",
+  "sire": "307255@7",
+  "children": [
+    "341587@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5103,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

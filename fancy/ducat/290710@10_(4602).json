@@ -1,0 +1,23 @@
+{
+  "id": 290710,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-13T15:11:36.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #290710. I'm often referred to as the Cersei Lannister of the group. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "257173@8",
+  "sire": "272480@9",
+  "children": [
+    "1913743@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4602,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

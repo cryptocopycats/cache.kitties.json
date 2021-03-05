@@ -1,0 +1,23 @@
+{
+  "id": 307843,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-14T11:56:06.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #307843. I believe the world is flat. I'm often described as ridiculous, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "290367@14",
+  "sire": "288318@14",
+  "children": [
+    "316193@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5003,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

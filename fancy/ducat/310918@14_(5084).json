@@ -1,0 +1,26 @@
+{
+  "id": 310918,
+  "name": "Birdy",
+  "generation": 14,
+  "created_at": "2017-12-14T15:53:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Birdy. All you need to know about me is I hate cereal with a passion. I once made a moose pester. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263134@8",
+  "sire": "207747@13",
+  "children": [
+    "314272@16",
+    "322274@15",
+    "336507@15",
+    "351930@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5084,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

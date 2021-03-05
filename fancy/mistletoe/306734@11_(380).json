@@ -1,0 +1,27 @@
+{
+  "id": 306734,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-14T10:35:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #306734. I enjoy eating lasagna, chasing string, and staying woke. Sometimes I daydream of a life full of sitting on your computer, apple pie, and jump-roping. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "281472@10",
+  "sire": "286083@10",
+  "children": [
+    "319068@12",
+    "331335@12",
+    "402368@13",
+    "418717@12",
+    "443552@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 380,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

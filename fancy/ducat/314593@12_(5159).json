@@ -1,0 +1,23 @@
+{
+  "id": 314593,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T21:05:56.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #314593. I'm often referred to as the Steve Urkel of the group. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Our friendship will be voluptuous, fabulous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259232@11",
+  "sire": "299589@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5159,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

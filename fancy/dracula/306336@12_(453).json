@@ -1,0 +1,28 @@
+{
+  "id": 306336,
+  "name": "Purebred Dracula!",
+  "generation": 12,
+  "created_at": "2017-12-14T10:09:27.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Purebred Dracula!. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of reading garfield, chocolate, and talking about how much I lift. Will you be the marmite to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "284975@11",
+  "sire": "289464@11",
+  "children": [
+    "307770@13",
+    "311193@13",
+    "317048@13",
+    "405157@22",
+    "412474@22",
+    "436710@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 453,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

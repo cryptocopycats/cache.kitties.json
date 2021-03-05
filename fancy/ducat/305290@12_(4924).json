@@ -1,0 +1,24 @@
+{
+  "id": 305290,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T08:56:54.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Kitty #305290. I once peed on Amelia Earhart's cat. They had it coming. I once bit a moose. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "303510@11",
+  "sire": "303603@9",
+  "children": [
+    "307622@15",
+    "376677@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4924,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

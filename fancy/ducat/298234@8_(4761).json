@@ -1,0 +1,29 @@
+{
+  "id": 298234,
+  "name": "Minty Swinky",
+  "generation": 8,
+  "created_at": "2017-12-14T01:20:55.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Minty Swinky. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "229507@7",
+  "sire": "297800@7",
+  "children": [
+    "324151@9",
+    "325854@9",
+    "329060@9",
+    "330002@9",
+    "334735@9",
+    "341158@9",
+    "371041@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4761,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 311329,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T16:27:25.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #311329. I'm a Culinary Sanitation Specialist by day, and I like pole dancing by night. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "309972@7",
+  "sire": "289215@7",
+  "children": [
+    "327141@17",
+    "352653@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5098,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

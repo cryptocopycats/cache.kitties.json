@@ -1,0 +1,29 @@
+{
+  "id": 311127,
+  "name": "🤶 Fancy Mistletoe 🤶",
+  "generation": 6,
+  "created_at": "2017-12-14T16:08:04.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm 🤶 Fancy Mistletoe 🤶. My friends describe me as gullible and ridiculous. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "297804@5",
+  "sire": "293693@5",
+  "children": [
+    "311413@7",
+    "313613@7",
+    "326049@7",
+    "359834@7",
+    "366096@7",
+    "401926@7",
+    "440503@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 399,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

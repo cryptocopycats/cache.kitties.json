@@ -1,0 +1,26 @@
+{
+  "id": 310932,
+  "name": "菜鸟",
+  "generation": 9,
+  "created_at": "2017-12-14T15:53:44.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm 菜鸟. I've never told anyone this, but I once licked a dog. I once dreamed of being a Aerobics Athlete . Now I can be found jump-roping all day. I hope we can be petulant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276031@8",
+  "sire": "265984@3",
+  "children": [
+    "331097@10",
+    "334168@10",
+    "421412@10",
+    "468584@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5085,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

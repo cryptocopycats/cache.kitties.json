@@ -1,0 +1,30 @@
+{
+  "id": 313494,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T19:38:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Kitty #313494. I'm a Private Dancer  by day, and I like playing chess by night. I once got in a fight with a moose, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "229609@5",
+  "sire": "156817@5",
+  "children": [
+    "337514@7",
+    "337927@7",
+    "339493@7",
+    "370250@7",
+    "376186@7",
+    "378089@7",
+    "383469@7",
+    "391517@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5135,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

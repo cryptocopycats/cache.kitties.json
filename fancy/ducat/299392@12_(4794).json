@@ -1,0 +1,23 @@
+{
+  "id": 299392,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T02:33:00.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! My name's Kitty #299392. I once peed on King Henry VIII's cat. They had it coming. Some people say I'm the Michael Scott of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "154572@6",
+  "sire": "295512@11",
+  "children": [
+    "308754@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4794,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

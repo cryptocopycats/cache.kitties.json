@@ -1,0 +1,23 @@
+{
+  "id": 292003,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-13T18:03:08.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #292003. I'm often referred to as the Jon Snow of the group. It's not common knowledge, but my ancestry connects me to Mother Theresa. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278871@17",
+  "sire": "110653@17",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4628,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

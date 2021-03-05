@@ -1,0 +1,23 @@
+{
+  "id": 303772,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T07:17:26.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #303772. All you need to know about me is I hate wet food with a passion. I was voted school jock in college. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260006@6",
+  "sire": "238026@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4887,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

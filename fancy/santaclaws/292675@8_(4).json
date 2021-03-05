@@ -1,0 +1,30 @@
+{
+  "id": 292675,
+  "name": "Santa #4",
+  "generation": 8,
+  "created_at": "2017-12-13T19:18:44.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Santa #4. I've never told anyone this, but I once snuggled a dog. I once got in a fight with a rabbit, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "291928@7",
+  "sire": "279290@5",
+  "children": [
+    "296750@9",
+    "298487@9",
+    "300754@9",
+    "303718@9",
+    "309052@9",
+    "364777@9",
+    "374264@10",
+    "398624@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

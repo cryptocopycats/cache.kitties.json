@@ -1,0 +1,28 @@
+{
+  "id": 305466,
+  "name": "g11 purebred DR.ACULA",
+  "generation": 11,
+  "created_at": "2017-12-14T09:05:42.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! g11 purebred DR.ACULA here. I'm here to enjoy fighting for the people and sweating through my feet. I would give it all up to star in a soap opera. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "289879@10",
+  "sire": "124376@9",
+  "children": [
+    "308912@12",
+    "329399@12",
+    "342502@12",
+    "351626@12",
+    "361762@12",
+    "544236@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 448,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

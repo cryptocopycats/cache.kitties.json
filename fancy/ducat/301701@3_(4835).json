@@ -1,0 +1,30 @@
+{
+  "id": 301701,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-14T05:01:23.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kitty #301701. I've never told anyone this, but I once cleaned a dog. Sometimes I daydream of a life full of staying woke, ice cream, and people-watching. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "237781@2",
+  "sire": "275075@2",
+  "children": [
+    "302161@6",
+    "303047@4",
+    "306395@4",
+    "307558@4",
+    "310537@4",
+    "311093@4",
+    "315654@4",
+    "326065@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4835,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

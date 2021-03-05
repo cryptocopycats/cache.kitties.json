@@ -1,0 +1,25 @@
+{
+  "id": 314508,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T21:00:34.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #314508. In high school, I was voted most likely to work at NASA. Some people say I'm the Michael Scott of the group. Our friendship will be ridiculous, raunchy, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "214203@3",
+  "sire": "156301@8",
+  "children": [
+    "337605@10",
+    "338178@10",
+    "348249@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5158,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

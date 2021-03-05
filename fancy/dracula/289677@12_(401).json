@@ -1,0 +1,30 @@
+{
+  "id": 289677,
+  "name": "Nosferatu #401/2000",
+  "generation": 12,
+  "created_at": "2017-12-13T13:02:37.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Nosferatu #401/2000. I've never told anyone this, but I once snuggled a dog. When I'm not sleeping in fresh laundry, I'm summoning ghosts! I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "272014@10",
+  "sire": "285335@11",
+  "children": [
+    "304956@13",
+    "308250@13",
+    "448171@13",
+    "518628@13",
+    "555313@13",
+    "557628@15",
+    "577233@16",
+    "785117@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 401,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

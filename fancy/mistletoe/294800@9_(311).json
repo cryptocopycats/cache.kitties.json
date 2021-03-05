@@ -1,0 +1,23 @@
+{
+  "id": 294800,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-13T21:44:56.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #294800. In high school, I was voted biggest teacher's pet. I once dreamed of being a Spin Instructor . Now I can be found pole dancing all day. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "275907@8",
+  "sire": "257061@5",
+  "children": [
+    "307334@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 311,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

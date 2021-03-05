@@ -1,0 +1,25 @@
+{
+  "id": 292680,
+  "name": "Gay Bird",
+  "generation": 18,
+  "created_at": "2017-12-13T19:19:20.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Gay Bird. I enjoy grooming, eating lasagna, and staying woke. My secret indulgence is steak. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "222983@17",
+  "sire": "212005@7",
+  "children": [
+    "311906@19",
+    "314316@22",
+    "395701@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4640,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

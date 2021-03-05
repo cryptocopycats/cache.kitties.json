@@ -1,0 +1,28 @@
+{
+  "id": 306421,
+  "name": "Fortunello",
+  "generation": 6,
+  "created_at": "2017-12-14T10:14:37.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Fortunello. I want to live in a world where people believe the world is flat. I once made a platypus grimace. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "302050@5",
+  "sire": "299168@5",
+  "children": [
+    "307329@9",
+    "308077@7",
+    "312610@9",
+    "325560@7",
+    "347072@7",
+    "348939@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4956,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

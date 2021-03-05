@@ -1,0 +1,24 @@
+{
+  "id": 288666,
+  "name": "Chicken Little",
+  "generation": 5,
+  "created_at": "2017-12-13T11:30:48.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Chicken Little. I'm often referred to as the Steve Urkel of the group. I once loved a gecko. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278231@3",
+  "sire": "287381@4",
+  "children": [
+    "297710@8",
+    "387714@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4543,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

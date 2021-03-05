@@ -1,0 +1,25 @@
+{
+  "id": 313166,
+  "name": "Totes MaGoats",
+  "generation": 6,
+  "created_at": "2017-12-14T19:13:47.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! Totes MaGoats here. I'm here to enjoy riding unicorns and grooming. Some people say I'm the Ron Weasley of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "297804@5",
+  "sire": "311398@5",
+  "children": [
+    "314218@7",
+    "319307@7",
+    "326265@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 419,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

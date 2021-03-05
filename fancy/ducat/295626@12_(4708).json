@@ -1,0 +1,23 @@
+{
+  "id": 295626,
+  "name": "Gold Ducat",
+  "generation": 12,
+  "created_at": "2017-12-13T22:37:57.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Gold Ducat. I believe that one day cats will rule this planet. My secret indulgence is salad. Our friendship will be preposterous, despicable, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "40927@8",
+  "sire": "235546@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4708,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

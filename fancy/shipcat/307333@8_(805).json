@@ -1,0 +1,23 @@
+{
+  "id": 307333,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T11:19:10.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #307333. All you need to know about me is I hate apple pie with a passion. Sometimes I daydream of a life full of glaring at the neighbour's cat, wet food, and pole dancing. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "306233@7",
+  "sire": "305674@7",
+  "children": [
+    "308898@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 805,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

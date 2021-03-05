@@ -1,0 +1,26 @@
+{
+  "id": 306255,
+  "name": "Plucka",
+  "generation": 7,
+  "created_at": "2017-12-14T10:03:30.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Plucka. All you need to know about me is I hate apple pie with a passion. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "305793@6",
+  "sire": "139458@6",
+  "children": [
+    "306599@8",
+    "356227@23",
+    "650276@8",
+    "1097700@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4950,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

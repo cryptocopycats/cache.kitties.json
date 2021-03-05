@@ -1,0 +1,24 @@
+{
+  "id": 307496,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-14T11:30:48.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! Kitty #307496 here. I'm here to enjoy sitting on your computer and hitting on yo' man. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280609@18",
+  "sire": "263029@15",
+  "children": [
+    "360675@20",
+    "375385@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4992,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 303603,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T07:06:03.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kitty #303603. I'm a Mad Scientist by day, and I like watching reality tv by night. Sometimes I daydream of a life full of sitting on your computer, steak, and siring for status. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "299521@8",
+  "sire": "276778@3",
+  "children": [
+    "305290@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4883,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

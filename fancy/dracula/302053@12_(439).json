@@ -1,0 +1,24 @@
+{
+  "id": 302053,
+  "name": "Fancy Cat Parents",
+  "generation": 12,
+  "created_at": "2017-12-14T05:26:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Fancy Cat Parents here. I'm here to enjoy staying woke and sitting on your computer. My secret indulgence is cantaloupe. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "239881@9",
+  "sire": "192438@11",
+  "children": [
+    "316589@13",
+    "416601@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 439,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

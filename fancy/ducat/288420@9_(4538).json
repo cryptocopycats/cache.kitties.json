@@ -1,0 +1,26 @@
+{
+  "id": 288420,
+  "name": "FlyHigh",
+  "generation": 9,
+  "created_at": "2017-12-13T11:05:18.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm FlyHigh. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Confucius. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276138@4",
+  "sire": "143804@8",
+  "children": [
+    "289274@10",
+    "294483@10",
+    "310789@10",
+    "331925@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4538,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

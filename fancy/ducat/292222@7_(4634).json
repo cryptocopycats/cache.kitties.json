@@ -1,0 +1,23 @@
+{
+  "id": 292222,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T18:27:00.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #292222. My friends describe me as petulant and raunchy. I'm often described as despicable, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249885@6",
+  "sire": "259929@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4634,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

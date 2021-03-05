@@ -1,0 +1,24 @@
+{
+  "id": 297123,
+  "name": "PURITY",
+  "generation": 7,
+  "created_at": "2017-12-14T00:10:33.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm PURITY. I enjoy eating until I loathe myself, breakdancing, and taking selfies. I put marmite on everything. Like, everything: hot dogs, wet food—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250152@6",
+  "sire": "252651@6",
+  "children": [
+    "315983@8",
+    "317030@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4741,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

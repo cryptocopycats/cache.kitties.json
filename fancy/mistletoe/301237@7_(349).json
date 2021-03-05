@@ -1,0 +1,30 @@
+{
+  "id": 301237,
+  "name": "Rouge",
+  "generation": 7,
+  "created_at": "2017-12-14T04:28:50.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Rouge. I once peed on Martin Luther King Jr.'s cat. They had it coming. In my free time, I can usually be found annoying or prank-calling celebrities. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "236686@5",
+  "sire": "273591@6",
+  "children": [
+    "303806@8",
+    "305617@8",
+    "332018@8",
+    "375732@13",
+    "390204@9",
+    "393483@13",
+    "405722@8",
+    "416632@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 349,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

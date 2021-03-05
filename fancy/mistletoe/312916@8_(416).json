@@ -1,0 +1,23 @@
+{
+  "id": 312916,
+  "name": "Parent Fancy RARE",
+  "generation": 8,
+  "created_at": "2017-12-14T18:37:32.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Parent Fancy RARE. I'm a Spin Instructor  by day, and I like volunteering at the local kitten rescue shelter by night. Some people say I'm the Michael Scott of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "306131@7",
+  "sire": "247968@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 416,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

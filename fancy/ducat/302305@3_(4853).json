@@ -1,0 +1,27 @@
+{
+  "id": 302305,
+  "name": "Spielbird",
+  "generation": 3,
+  "created_at": "2017-12-14T05:43:19.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Spielbird. I'm a professional Foreign Film Director and I love salad. I am 95% sphinx, 93% Culinary Sanitation Specialist, and otherwise bad at math. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182611@2",
+  "sire": "115981@2",
+  "children": [
+    "304484@6",
+    "305667@4",
+    "339584@7",
+    "418090@5",
+    "431835@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4853,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

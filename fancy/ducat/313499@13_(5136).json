@@ -1,0 +1,23 @@
+{
+  "id": 313499,
+  "name": "Birdie",
+  "generation": 13,
+  "created_at": "2017-12-14T19:38:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Birdie. I'm often referred to as the Steve Urkel of the group. I am 93% oracle, 38% Mad Scientist, and otherwise bad at math. Will you be the maple syrup to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "271625@12",
+  "sire": "275558@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5136,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

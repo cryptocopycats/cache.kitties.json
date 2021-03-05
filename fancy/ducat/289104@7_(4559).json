@@ -1,0 +1,30 @@
+{
+  "id": 289104,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T12:05:23.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #289104. My friends describe me as hairy and despicable. I like to listen to Frank Sinatra while grooming. Don't judge me. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274822@6",
+  "sire": "283663@6",
+  "children": [
+    "308417@8",
+    "309934@8",
+    "311213@8",
+    "314168@8",
+    "325102@8",
+    "329844@8",
+    "349200@8",
+    "552533@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4559,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

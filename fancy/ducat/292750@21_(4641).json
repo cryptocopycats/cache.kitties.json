@@ -1,0 +1,23 @@
+{
+  "id": 292750,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-13T19:25:41.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #292750. All you need to know about me is I hate lasagna with a passion. When I'm not braiding people's hair, I'm talking about how much I lift! I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155002@20",
+  "sire": "180587@20",
+  "children": [
+    "324048@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4641,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

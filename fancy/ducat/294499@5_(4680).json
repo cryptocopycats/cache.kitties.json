@@ -1,0 +1,24 @@
+{
+  "id": 294499,
+  "name": "100% DuCat DNA",
+  "generation": 5,
+  "created_at": "2017-12-13T21:25:21.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm 100% DuCat DNA. I'm often referred to as the Ron Weasley of the group. My secret indulgence is ice cream. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "264630@4",
+  "sire": "276858@4",
+  "children": [
+    "300593@6",
+    "301995@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4680,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 308220,
+  "name": "Sibil",
+  "generation": 7,
+  "created_at": "2017-12-14T12:28:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! My name's Sibil. I once peed on Martin Luther King Jr.'s cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280726@6",
+  "sire": "293235@6",
+  "children": [
+    "308962@9",
+    "362078@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5012,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

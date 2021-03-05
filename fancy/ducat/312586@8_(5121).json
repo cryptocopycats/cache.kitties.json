@@ -1,0 +1,25 @@
+{
+  "id": 312586,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T18:06:19.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #312586. I enjoy eating lasagna, reading garfield, and reciting poetry. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308134@7",
+  "sire": "306201@6",
+  "children": [
+    "326345@9",
+    "353490@13",
+    "421132@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5121,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

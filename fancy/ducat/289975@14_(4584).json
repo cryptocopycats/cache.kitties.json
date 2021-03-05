@@ -1,0 +1,23 @@
+{
+  "id": 289975,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-13T13:38:22.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #289975. I enjoy sweating through my feet, hitting on yo' man, and chasing string. I once headbutted a rabbit. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241394@13",
+  "sire": "101910@8",
+  "children": [
+    "306490@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4584,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

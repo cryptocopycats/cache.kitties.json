@@ -1,0 +1,24 @@
+{
+  "id": 305799,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T09:31:29.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #305799. I believe the world is flat. Some people say I'm the Ron Weasley of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "281086@5",
+  "sire": "288530@4",
+  "children": [
+    "307368@7",
+    "307940@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 799,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

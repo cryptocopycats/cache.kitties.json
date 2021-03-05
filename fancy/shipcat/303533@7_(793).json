@@ -1,0 +1,33 @@
+{
+  "id": 303533,
+  "name": "Fancy Aerobic Fairy Kitty",
+  "generation": 7,
+  "created_at": "2017-12-14T07:01:59.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Fancy Aerobic Fairy Kitty. I want to live in a world where people believe that one day cats will rule this planet. I am 46% fairy, 71% Aerobics Athlete , and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "303030@6",
+  "sire": "303080@5",
+  "children": [
+    "304140@9",
+    "310011@9",
+    "321432@9",
+    "325097@9",
+    "335681@9",
+    "343167@9",
+    "388252@9",
+    "409500@9",
+    "444172@9",
+    "454718@9",
+    "691579@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 793,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

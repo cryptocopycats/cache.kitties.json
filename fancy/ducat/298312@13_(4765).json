@@ -1,0 +1,24 @@
+{
+  "id": 298312,
+  "name": "Kitty Chickenjoy",
+  "generation": 13,
+  "created_at": "2017-12-14T01:26:43.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty Chickenjoy. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. I like to listen to Coldplay while grooming. Don't judge me. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "225516@6",
+  "sire": "295839@12",
+  "children": [
+    "299804@14",
+    "313908@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4765,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

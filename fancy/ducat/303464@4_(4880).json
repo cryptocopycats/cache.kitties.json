@@ -1,0 +1,23 @@
+{
+  "id": 303464,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-14T06:58:35.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's RARE BIRD! Fancy!. I once peed on Cleopatra's cat. They had it coming. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287901@3",
+  "sire": "268609@3",
+  "children": [
+    "304414@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4880,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

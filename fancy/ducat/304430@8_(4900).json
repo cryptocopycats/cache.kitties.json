@@ -1,0 +1,33 @@
+{
+  "id": 304430,
+  "name": "Births Mostly Fancy",
+  "generation": 8,
+  "created_at": "2017-12-14T08:00:21.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Births Mostly Fancy. I believe the world is flat. My secret indulgence is lasagna. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "289252@7",
+  "sire": "299396@7",
+  "children": [
+    "305652@9",
+    "306825@9",
+    "324485@11",
+    "359700@10",
+    "365353@9",
+    "379439@9",
+    "385181@9",
+    "413832@9",
+    "434568@9",
+    "467569@9",
+    "479920@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4900,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

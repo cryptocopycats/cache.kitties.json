@@ -1,0 +1,32 @@
+{
+  "id": 297755,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T00:50:52.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #297755. I'm often referred to as the Michael Scott of the group. Sometimes I daydream of a life full of grooming, ice cream, and sleeping in fresh laundry. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152080@7",
+  "sire": "81970@7",
+  "children": [
+    "298102@9",
+    "305238@9",
+    "309697@14",
+    "787999@10",
+    "788923@9",
+    "812455@9",
+    "814264@12",
+    "819656@12",
+    "827042@12",
+    "872739@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4753,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

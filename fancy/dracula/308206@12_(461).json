@@ -1,0 +1,27 @@
+{
+  "id": 308206,
+  "name": "Vampire junior",
+  "generation": 12,
+  "created_at": "2017-12-14T12:26:28.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Vampire junior. I'm a Skydiving Instructor by day, and I like swiping left by night. I once frolicked with a rabbit. I don't like to talk about it. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "293226@11",
+  "sire": "291633@10",
+  "children": [
+    "310042@13",
+    "314202@13",
+    "329872@13",
+    "350077@15",
+    "389750@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 461,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 297484,
+  "name": "BABY DUCAT",
+  "generation": 13,
+  "created_at": "2017-12-14T00:32:03.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm BABY DUCAT. I believe the world is flat. I once tricked a dog. I don't like to talk about it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "271112@11",
+  "sire": "266424@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4745,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

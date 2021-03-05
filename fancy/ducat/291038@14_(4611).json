@@ -1,0 +1,23 @@
+{
+  "id": 291038,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-13T15:58:07.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #291038. I've never told anyone this, but I once cleaned a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "184185@13",
+  "sire": "147554@10",
+  "children": [
+    "381261@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4611,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

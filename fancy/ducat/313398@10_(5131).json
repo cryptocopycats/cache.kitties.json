@@ -1,0 +1,23 @@
+{
+  "id": 313398,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-14T19:33:54.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Kitty #313398. I'm often referred to as the Homer Simpson of the group. In my free time, I can usually be found gorgeous or watching reality tv. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "305039@9",
+  "sire": "306903@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5131,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

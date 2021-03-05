@@ -1,0 +1,23 @@
+{
+  "id": 288861,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T11:47:52.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Kitty #288861. I once peed on Amelia Earhart's cat. They had it coming. I once made a rhino kiss. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285359@6",
+  "sire": "285302@6",
+  "children": [
+    "309517@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4550,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 312205,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-14T17:39:00.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! Kitty #312205 here. I'm here to enjoy eating until I loathe myself and glaring at the neighbour's cat. My friends describe me as \"wondrous.\" It's... accurate. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "294334@9",
+  "sire": "107985@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5111,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

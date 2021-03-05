@@ -1,0 +1,23 @@
+{
+  "id": 299279,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T02:26:36.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #299279. I'm a Dispensary Clerk by day, and I like reading Danielle Steele by night. When no one's home, I invite my pals over and we listen to Beyoncé. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179061@7",
+  "sire": "141253@7",
+  "children": [
+    "299591@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4792,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

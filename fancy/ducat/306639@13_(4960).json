@@ -1,0 +1,26 @@
+{
+  "id": 306639,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-14T10:30:17.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #306639. I'm a professional Mad Scientist and I love steak. I am 93% hobbit, 97% Mad Scientist, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121004@12",
+  "sire": "298354@7",
+  "children": [
+    "309945@14",
+    "333282@16",
+    "340616@17",
+    "349433@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4960,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

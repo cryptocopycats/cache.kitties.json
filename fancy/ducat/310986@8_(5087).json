@@ -1,0 +1,30 @@
+{
+  "id": 310986,
+  "name": "MadarKitty",
+  "generation": 8,
+  "created_at": "2017-12-14T15:57:42.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm MadarKitty. My friends describe me as despicable and ridiculous. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "300061@7",
+  "sire": "309244@3",
+  "children": [
+    "312013@9",
+    "314031@9",
+    "316225@9",
+    "319243@9",
+    "324209@9",
+    "333042@9",
+    "344421@9",
+    "363020@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5087,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

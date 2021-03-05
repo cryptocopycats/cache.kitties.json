@@ -1,0 +1,27 @@
+{
+  "id": 296913,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-13T23:59:18.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! Kitty #296913 here. I'm here to enjoy tripping my owner and sweating through my feet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "271850@6",
+  "sire": "269425@6",
+  "children": [
+    "297599@8",
+    "301640@8",
+    "312997@8",
+    "364340@10",
+    "500577@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 774,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

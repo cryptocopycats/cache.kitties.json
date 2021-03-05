@@ -1,0 +1,24 @@
+{
+  "id": 295536,
+  "name": "Duckatty",
+  "generation": 5,
+  "created_at": "2017-12-13T22:33:49.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Duckatty. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "288803@4",
+  "sire": "293968@4",
+  "children": [
+    "301982@6",
+    "384764@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4705,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

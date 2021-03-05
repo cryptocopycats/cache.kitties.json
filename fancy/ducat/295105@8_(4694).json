@@ -1,0 +1,23 @@
+{
+  "id": 295105,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-13T22:07:19.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #295105. I'm a Culinary Sanitation Specialist by day, and I like playing chess by night. I am 93% elf, 38% Dispensary Clerk, and otherwise bad at math. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "253085@7",
+  "sire": "261382@7",
+  "children": [
+    "315239@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4694,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

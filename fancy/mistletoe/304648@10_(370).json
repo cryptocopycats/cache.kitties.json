@@ -1,0 +1,28 @@
+{
+  "id": 304648,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-14T08:13:31.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #304648. In high school, I was voted most likely to work at NASA. When I'm not watching reality tv, I'm people-watching! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "275280@9",
+  "sire": "253484@8",
+  "children": [
+    "305770@11",
+    "307077@11",
+    "317696@14",
+    "320513@12",
+    "349792@11",
+    "402838@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 370,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

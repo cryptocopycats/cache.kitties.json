@@ -1,0 +1,30 @@
+{
+  "id": 312334,
+  "name": "Young Bieber'z",
+  "generation": 7,
+  "created_at": "2017-12-14T17:46:38.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's Young Bieber'z. I once peed on Nelson Mandela's cat. They had it coming. I like to listen to Justin Bieber while grooming. Don't judge me. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "150849@0",
+  "sire": "288560@6",
+  "children": [
+    "317155@8",
+    "318808@8",
+    "453561@9",
+    "453757@9",
+    "454542@9",
+    "455836@11",
+    "456132@12",
+    "1008595@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5114,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

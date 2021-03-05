@@ -1,0 +1,23 @@
+{
+  "id": 311152,
+  "name": "小拖把",
+  "generation": 8,
+  "created_at": "2017-12-14T16:10:33.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! 小拖把 here. I'm here to enjoy eating until I loathe myself and licking doorknobs. My secret indulgence is wet food. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228617@7",
+  "sire": "210034@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5091,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

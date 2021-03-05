@@ -1,0 +1,27 @@
+{
+  "id": 306189,
+  "name": "GrandPa Draco",
+  "generation": 19,
+  "created_at": "2017-12-14T09:57:54.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm GrandPa Draco. I'm a professional Skydiving Instructor and I love cantaloupe. My friends describe me as \"gorgeous.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "172364@18",
+  "sire": "203486@14",
+  "children": [
+    "319326@20",
+    "332477@20",
+    "447884@23",
+    "454688@23",
+    "455864@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 452,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

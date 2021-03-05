@@ -1,0 +1,24 @@
+{
+  "id": 298472,
+  "name": "Fancy Chick!",
+  "generation": 12,
+  "created_at": "2017-12-14T01:37:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! My name's Fancy Chick!. I once peed on Princess Diana's cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260553@11",
+  "sire": "273417@10",
+  "children": [
+    "300570@13",
+    "392268@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4769,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

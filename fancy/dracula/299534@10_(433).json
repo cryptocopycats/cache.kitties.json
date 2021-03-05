@@ -1,0 +1,27 @@
+{
+  "id": 299534,
+  "name": "VAMPLIFE RARE FANCY DRACULA",
+  "generation": 10,
+  "created_at": "2017-12-14T02:42:00.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm VAMPLIFE RARE FANCY DRACULA. My friends describe me as brilliant and vegan. My great-great-great-great-great-great grandkitty lived with Confucius. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "175718@7",
+  "sire": "278680@9",
+  "children": [
+    "329399@12",
+    "342502@12",
+    "351626@12",
+    "361762@12",
+    "544236@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 433,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

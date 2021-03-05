@@ -1,0 +1,29 @@
+{
+  "id": 294137,
+  "name": "Peter Blood",
+  "generation": 15,
+  "created_at": "2017-12-13T21:01:28.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Peter Blood. I enjoy breakdancing, sweating through my feet, and riding dirty. When no one's home, I invite my pals over and we listen to Michael Bolton. Will you be the maple syrup to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "45096@4",
+  "sire": "190134@14",
+  "children": [
+    "310893@16",
+    "339494@16",
+    "356561@16",
+    "371578@19",
+    "392226@16",
+    "444108@16",
+    "448798@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 771,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

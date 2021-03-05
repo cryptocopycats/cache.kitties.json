@@ -1,0 +1,23 @@
+{
+  "id": 309454,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T13:59:53.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Kitty #309454. My friends describe me as wondrous and brilliant. I once got in a fight with a moose, and won. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "178399@7",
+  "sire": "309107@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5045,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

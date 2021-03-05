@@ -1,0 +1,24 @@
+{
+  "id": 297238,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-14T00:16:23.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #297238. All you need to know about me is I hate ice cream with a passion. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "228272@9",
+  "sire": "286701@17",
+  "children": [
+    "312565@19",
+    "457854@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4742,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

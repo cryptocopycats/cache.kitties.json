@@ -1,0 +1,23 @@
+{
+  "id": 307711,
+  "name": "Pawpie",
+  "generation": 19,
+  "created_at": "2017-12-14T11:46:31.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Pawpie. I'm a professional Aerobics Athlete  and I love cantaloupe. Some people say I'm the Cersei Lannister of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "297437@5",
+  "sire": "67638@18",
+  "children": [
+    "307984@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 808,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 305263,
+  "name": "Henna Combo #2",
+  "generation": 8,
+  "created_at": "2017-12-14T08:56:07.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Henna Combo #2. I enjoy eating until I loathe myself, taking selfies, and tripping my owner. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "208101@7",
+  "sire": "270206@7",
+  "children": [
+    "323802@9",
+    "355074@10",
+    "356315@9",
+    "370530@9",
+    "387087@9",
+    "389238@9",
+    "423412@9",
+    "433691@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4922,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

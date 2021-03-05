@@ -1,0 +1,29 @@
+{
+  "id": 306201,
+  "name": "Fancy DuCat",
+  "generation": 6,
+  "created_at": "2017-12-14T10:00:06.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Fancy DuCat. All you need to know about me is I hate apple pie with a passion. When no one's home, I invite my pals over and we listen to Michael Bolton. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "293021@5",
+  "sire": "304823@5",
+  "children": [
+    "308232@7",
+    "308740@9",
+    "312586@8",
+    "314853@9",
+    "323205@9",
+    "327785@9",
+    "366484@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4948,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

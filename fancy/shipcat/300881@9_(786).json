@@ -1,0 +1,24 @@
+{
+  "id": 300881,
+  "name": "Cobalt",
+  "generation": 9,
+  "created_at": "2017-12-14T04:06:12.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! Cobalt here. I'm here to enjoy breakdancing and watching Stranger Things. Sometimes I daydream of a life full of sitting on your computer, cantaloupe, and tricking babies. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "276479@8",
+  "sire": "222878@2",
+  "children": [
+    "302562@10",
+    "348516@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 786,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

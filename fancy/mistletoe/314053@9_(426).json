@@ -1,0 +1,27 @@
+{
+  "id": 314053,
+  "name": "🤶 Fancy:Mistletoe 🤶",
+  "generation": 9,
+  "created_at": "2017-12-14T20:15:37.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm 🤶 Fancy:Mistletoe 🤶. I believe that one day cats will rule this planet. I would give it all up for a Chanel purse. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "299744@8",
+  "sire": "312710@8",
+  "children": [
+    "314498@10",
+    "316203@10",
+    "326432@10",
+    "334614@11",
+    "431005@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 426,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

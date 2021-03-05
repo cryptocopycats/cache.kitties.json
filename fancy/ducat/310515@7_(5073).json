@@ -1,0 +1,25 @@
+{
+  "id": 310515,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T15:18:20.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Kitty #310515 here. I'm here to enjoy hitting on yo' man and glaring at the neighbour's cat. I once got in a fight with a chimpanzee, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285359@6",
+  "sire": "285302@6",
+  "children": [
+    "311493@8",
+    "325368@8",
+    "1105851@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5073,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

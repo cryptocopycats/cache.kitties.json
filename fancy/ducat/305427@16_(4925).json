@@ -1,0 +1,26 @@
+{
+  "id": 305427,
+  "name": "KFC",
+  "generation": 16,
+  "created_at": "2017-12-14T09:03:29.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm KFC. All you need to know about me is I hate wet food with a passion. I would give it all up to star in a soap opera. Our friendship will be brilliant, seductive, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266782@14",
+  "sire": "295650@15",
+  "children": [
+    "313880@17",
+    "327300@17",
+    "351504@17",
+    "396878@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4925,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

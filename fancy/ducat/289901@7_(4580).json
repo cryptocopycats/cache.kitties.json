@@ -1,0 +1,23 @@
+{
+  "id": 289901,
+  "name": "Kitty Philadelphia",
+  "generation": 7,
+  "created_at": "2017-12-13T13:27:42.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty Philadelphia. All you need to know about me is I hate salad with a passion. I once got in a fight with a dolphin, and won. Will you be the cinammon to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "281717@6",
+  "sire": "252651@6",
+  "children": [
+    "344429@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4580,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

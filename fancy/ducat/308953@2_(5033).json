@@ -1,0 +1,24 @@
+{
+  "id": 308953,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-14T13:20:40.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #308953. I believe the world is flat. I am 47% wizard, 14% Dispensary Clerk, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "146816@1",
+  "sire": "182951@1",
+  "children": [
+    "328321@4",
+    "343093@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5033,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 294924,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-13T21:52:51.000Z",
+  "birthday": "2017-12-13T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #294924. I enjoy reciting poetry, tripping my owner, and eating until I loathe myself. In my free time, I can usually be found gorgeous or people-watching. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "107401@3",
+  "sire": "282211@3",
+  "children": [
+    "298741@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 4690,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}
