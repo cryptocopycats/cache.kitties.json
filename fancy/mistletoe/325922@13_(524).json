@@ -1,0 +1,25 @@
+{
+  "id": 325922,
+  "name": "Jewish Elf (Read Bio)",
+  "generation": 13,
+  "created_at": "2017-12-15T14:33:34.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Jewish Elf (Read Bio). I enjoy picking on mice, tripping my owner, and staying woke. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "275946@11",
+  "sire": "318714@12",
+  "children": [
+    "327828@14",
+    "387107@14",
+    "690827@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 524,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

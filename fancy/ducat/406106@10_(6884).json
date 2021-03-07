@@ -1,0 +1,24 @@
+{
+  "id": 406106,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-25T05:55:17.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #406106. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found tantalizing or practicing witchcraft. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "365349@7",
+  "sire": "294228@9",
+  "children": [
+    "436866@11",
+    "440342@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6884,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

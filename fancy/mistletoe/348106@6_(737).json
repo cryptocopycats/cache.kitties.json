@@ -1,0 +1,29 @@
+{
+  "id": 348106,
+  "name": "🎄 Mistletoe 🎄",
+  "generation": 6,
+  "created_at": "2017-12-17T05:26:07.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! 🎄 Mistletoe 🎄 here. I'm here to enjoy glaring at the neighbour's cat and spinning sick beats. My secret indulgence is hamburgers. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "334294@5",
+  "sire": "333612@5",
+  "children": [
+    "355588@7",
+    "356104@7",
+    "357392@7",
+    "359247@7",
+    "363291@7",
+    "393004@7",
+    "546210@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 737,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

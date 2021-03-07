@@ -1,0 +1,25 @@
+{
+  "id": 391278,
+  "name": "Monty Python",
+  "generation": 5,
+  "created_at": "2017-12-23T01:01:41.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Monty Python. All you need to know about me is I hate lasagna with a passion. My secret indulgence is steak. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "104484@4",
+  "sire": "232428@4",
+  "children": [
+    "408862@8",
+    "410334@10",
+    "587627@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6685,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

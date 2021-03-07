@@ -1,0 +1,24 @@
+{
+  "id": 392104,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-23T03:50:21.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #392104. I enjoy shakin' dat booty, licking doorknobs, and reading garfield. My great-great-great-great-great-great grandkitty lived with Confucius. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "366695@6",
+  "sire": "389702@6",
+  "children": [
+    "392290@8",
+    "405722@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1050,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

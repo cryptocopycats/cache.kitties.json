@@ -1,0 +1,26 @@
+{
+  "id": 329512,
+  "name": "Meowster Quackers",
+  "generation": 6,
+  "created_at": "2017-12-15T21:07:09.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Meowster Quackers. I'm a professional Aerobics Athlete  and I love steak. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283462@5",
+  "sire": "310432@5",
+  "children": [
+    "343741@9",
+    "362929@7",
+    "363620@7",
+    "371000@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5485,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

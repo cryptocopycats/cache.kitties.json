@@ -1,0 +1,26 @@
+{
+  "id": 343949,
+  "name": "Fancy Dali Daddy",
+  "generation": 10,
+  "created_at": "2017-12-16T21:25:30.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's Fancy Dali Daddy. I once peed on Amelia Earhart's cat. They had it coming. My secret indulgence is steak. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336020@8",
+  "sire": "336944@9",
+  "children": [
+    "345101@11",
+    "347017@11",
+    "350435@11",
+    "386137@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5794,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

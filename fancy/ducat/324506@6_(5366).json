@@ -1,0 +1,28 @@
+{
+  "id": 324506,
+  "name": "VIRGIN BREEDER!",
+  "generation": 6,
+  "created_at": "2017-12-15T11:52:56.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm VIRGIN BREEDER!. I want to live in a world where people believe the world is flat. I once got in a fight with a platypus, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189404@4",
+  "sire": "233415@5",
+  "children": [
+    "394243@7",
+    "394882@7",
+    "398759@7",
+    "402335@7",
+    "412033@7",
+    "415175@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5366,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

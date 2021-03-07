@@ -1,0 +1,23 @@
+{
+  "id": 402584,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-24T15:44:52.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #402584. I believe that one day cats will rule this planet. I put peanut butter on everything. Like, everything: hot dogs, chocolate—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "390111@3",
+  "sire": "358945@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1119,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

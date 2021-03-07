@@ -1,0 +1,28 @@
+{
+  "id": 374366,
+  "name": "Tweety Kat #3",
+  "generation": 4,
+  "created_at": "2017-12-20T00:11:17.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Tweety Kat #3. I believe the world is flat. I was voted most likely to work at NASA in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "372633@3",
+  "sire": "333904@3",
+  "children": [
+    "374707@5",
+    "468163@5",
+    "469104@5",
+    "519669@6",
+    "520221@6",
+    "557590@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6398,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 374157,
+  "name": "Twinkles",
+  "generation": 3,
+  "created_at": "2017-12-19T23:40:49.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Twinkles. My friends describe me as vegan and raunchy. It's not common knowledge, but my ancestry connects me to Princess Diana. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327847@2",
+  "sire": "349196@2",
+  "children": [
+    "374760@4",
+    "389661@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 930,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

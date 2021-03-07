@@ -1,0 +1,23 @@
+{
+  "id": 352687,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T16:09:29.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #352687. In high school, I was voted most likely to work at NASA. I once got in a fight with a dolphin, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "351487@5",
+  "sire": "350548@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5988,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

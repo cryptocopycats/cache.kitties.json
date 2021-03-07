@@ -1,0 +1,23 @@
+{
+  "id": 334352,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-16T04:31:48.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #334352. All you need to know about me is I hate steak with a passion. My great-great-great-great-great-great grandkitty lived with Confucius. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "331815@6",
+  "sire": "334176@12",
+  "children": [
+    "335739@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5585,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

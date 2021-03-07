@@ -1,0 +1,27 @@
+{
+  "id": 354930,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-17T20:47:04.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #354930. In high school, I was voted biggest teacher's pet. I once clawed a platypus. I don't like to talk about it. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "352820@10",
+  "sire": "316768@7",
+  "children": [
+    "365865@12",
+    "371031@13",
+    "437414@13",
+    "440486@13",
+    "551308@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 681,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

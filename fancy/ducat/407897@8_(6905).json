@@ -1,0 +1,23 @@
+{
+  "id": 407897,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-25T15:10:59.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #407897. All you need to know about me is I hate ice cream with a passion. Sometimes I daydream of a life full of spinning sick beats, hamburgers, and swiping right. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "407826@7",
+  "sire": "407411@6",
+  "children": [
+    "410013@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6905,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

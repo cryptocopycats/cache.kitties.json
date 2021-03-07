@@ -1,0 +1,25 @@
+{
+  "id": 320450,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-15T05:02:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Kitty #320450. I once peed on John F. Kennedy Jr.'s cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224280@10",
+  "sire": "183367@12",
+  "children": [
+    "326066@17",
+    "889496@14",
+    "895314@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5276,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

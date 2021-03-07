@@ -1,0 +1,23 @@
+{
+  "id": 349588,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-17T08:48:19.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #349588. I'm often referred to as the Michael Scott of the group. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "74288@18",
+  "sire": "334129@11",
+  "children": [
+    "351678@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 901,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

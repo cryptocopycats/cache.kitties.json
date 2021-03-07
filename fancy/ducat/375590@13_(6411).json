@@ -1,0 +1,29 @@
+{
+  "id": 375590,
+  "name": "Chicken Kitty",
+  "generation": 13,
+  "created_at": "2017-12-20T04:38:13.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Chicken Kitty. My friends describe me as smelly and raunchy. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342338@10",
+  "sire": "302576@12",
+  "children": [
+    "376507@14",
+    "390510@14",
+    "651194@14",
+    "655613@14",
+    "1120417@14",
+    "1126102@14",
+    "1170122@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6411,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

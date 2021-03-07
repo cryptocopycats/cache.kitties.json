@@ -1,0 +1,28 @@
+{
+  "id": 354673,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-17T20:15:33.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! My name's Kitty #354673. I once peed on Mother Theresa's cat. They had it coming. Sometimes I daydream of a life full of riding dirty, salad, and mocking dogs. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "351771@8",
+  "sire": "297643@6",
+  "children": [
+    "355319@10",
+    "365467@10",
+    "371011@10",
+    "437456@10",
+    "553532@10",
+    "557696@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 916,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

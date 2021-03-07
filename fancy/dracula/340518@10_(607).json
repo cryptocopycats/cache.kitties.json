@@ -1,0 +1,23 @@
+{
+  "id": 340518,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-16T15:06:44.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #340518. I've never told anyone this, but I once licked a dog. I once dreamed of being a Mad Scientist. Now I can be found volunteering at the local kitten rescue shelter all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "132530@9",
+  "sire": "215051@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 607,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 325608,
+  "name": "Santa",
+  "generation": 7,
+  "created_at": "2017-12-15T13:54:47.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Santa. All you need to know about me is I hate cereal with a passion. I like to listen to Michael Bolton while grooming. Don't judge me. Will you be the pickles to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "315871@6",
+  "sire": "323967@6",
+  "children": [
+    "332337@8",
+    "337168@8",
+    "372925@8",
+    "375317@8",
+    "377639@8",
+    "383006@8",
+    "391185@8",
+    "398284@8",
+    "429657@8",
+    "440145@8",
+    "579079@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 42,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

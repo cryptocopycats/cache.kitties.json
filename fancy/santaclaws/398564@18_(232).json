@@ -1,0 +1,23 @@
+{
+  "id": 398564,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-24T01:18:27.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #398564. I'm often referred to as the Steve Urkel of the group. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "395970@17",
+  "sire": "395951@16",
+  "children": [
+    "401160@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 232,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

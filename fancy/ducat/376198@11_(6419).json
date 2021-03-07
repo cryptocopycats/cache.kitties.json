@@ -1,0 +1,23 @@
+{
+  "id": 376198,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-20T06:49:39.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #376198. I'm often referred to as the Bart Simpson of the group. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Our friendship will be ridiculous, wondrous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236475@9",
+  "sire": "358564@10",
+  "children": [
+    "1124167@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6419,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

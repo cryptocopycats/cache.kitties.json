@@ -1,0 +1,23 @@
+{
+  "id": 355379,
+  "name": "Mistletoe",
+  "generation": 7,
+  "created_at": "2017-12-17T21:37:28.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Mistletoe. My friends describe me as prickly and seductive. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338141@6",
+  "sire": "345316@6",
+  "children": [
+    "355690@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 797,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

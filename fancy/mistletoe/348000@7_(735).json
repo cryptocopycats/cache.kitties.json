@@ -1,0 +1,23 @@
+{
+  "id": 348000,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T05:13:27.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #348000. I enjoy sitting on your computer, chasing string, and reading garfield. I would give it all up to star in a soap opera. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338141@6",
+  "sire": "345316@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 735,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

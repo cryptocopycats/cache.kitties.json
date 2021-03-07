@@ -1,0 +1,26 @@
+{
+  "id": 407094,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-25T10:46:45.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! My name's RARE BIRD! Fancy!. I once peed on Nelson Mandela's cat. They had it coming. My friends describe me as \"gullible.\" It's... accurate. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "402940@3",
+  "sire": "383129@3",
+  "children": [
+    "420394@5",
+    "421319@5",
+    "422737@5",
+    "428494@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6894,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

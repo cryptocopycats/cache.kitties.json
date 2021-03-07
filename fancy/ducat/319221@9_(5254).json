@@ -1,0 +1,24 @@
+{
+  "id": 319221,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-15T03:04:05.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #319221. I believe the world is flat. In my free time, I can usually be found prickly or reading Danielle Steele. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "304107@5",
+  "sire": "101910@8",
+  "children": [
+    "319843@10",
+    "359114@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5254,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

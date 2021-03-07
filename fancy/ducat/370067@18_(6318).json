@@ -1,0 +1,23 @@
+{
+  "id": 370067,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-19T09:42:30.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Kitty #370067. I'm a professional Skydiving Instructor and I love ice cream. I once dreamed of being a Dispensary Clerk. Now I can be found summoning ghosts all day. Our friendship will be fabulous, seductive, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341308@12",
+  "sire": "353523@17",
+  "children": [
+    "382356@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6318,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

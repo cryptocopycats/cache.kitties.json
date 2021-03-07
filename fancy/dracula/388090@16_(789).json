@@ -1,0 +1,23 @@
+{
+  "id": 388090,
+  "name": "I Vant To Be Your Cat",
+  "generation": 16,
+  "created_at": "2017-12-22T12:15:51.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm I Vant To Be Your Cat. I believe that one day cats will rule this planet. I once dreamed of being a Spin Instructor . Now I can be found sleeping in fresh laundry all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "384286@4",
+  "sire": "388008@15",
+  "children": [
+    "390476@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 789,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

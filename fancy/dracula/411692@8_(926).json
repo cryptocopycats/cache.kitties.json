@@ -1,0 +1,25 @@
+{
+  "id": 411692,
+  "name": "Count Muffin von Kitty",
+  "generation": 8,
+  "created_at": "2017-12-26T09:19:11.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Count Muffin von Kitty. I believe that one day cats will rule this planet. I'm often described as wondrous, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "409668@6",
+  "sire": "411407@7",
+  "children": [
+    "411852@9",
+    "412437@9",
+    "413669@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 926,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

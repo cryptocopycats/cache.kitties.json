@@ -1,0 +1,30 @@
+{
+  "id": 395754,
+  "name": "4-7-aa-ee",
+  "generation": 4,
+  "created_at": "2017-12-23T16:49:26.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm 4-7-aa-ee. I've never told anyone this, but I once loved a dog. I am 22% fairy, 85% Private Dancer , and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "376926@3",
+  "sire": "362057@3",
+  "children": [
+    "444164@5",
+    "450241@5",
+    "457588@5",
+    "469148@5",
+    "469771@5",
+    "474903@5",
+    "513641@5",
+    "546004@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1037,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

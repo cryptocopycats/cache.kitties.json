@@ -1,0 +1,23 @@
+{
+  "id": 396251,
+  "name": "Count Ehr",
+  "generation": 4,
+  "created_at": "2017-12-23T18:16:49.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Count Ehr. My friends describe me as stinky and vegan. I'm often described as fabulous, and I own it. Will you be the pickles to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "387005@3",
+  "sire": "379842@3",
+  "children": [
+    "432593@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 823,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

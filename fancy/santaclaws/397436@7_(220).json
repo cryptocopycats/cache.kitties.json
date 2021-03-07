@@ -1,0 +1,23 @@
+{
+  "id": 397436,
+  "name": "Limited edition!SANTA",
+  "generation": 7,
+  "created_at": "2017-12-23T21:54:36.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! My name's Limited edition!SANTA. I once peed on Cleopatra's cat. They had it coming. I once made a gecko pester. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "370241@6",
+  "sire": "361232@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 220,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

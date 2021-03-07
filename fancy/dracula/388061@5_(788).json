@@ -1,0 +1,23 @@
+{
+  "id": 388061,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-22T12:10:42.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #388061. I'm a Mad Scientist by day, and I like playing chess by night. I once tricked a rabbit. I don't like to talk about it. Will you be the pickles to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "343313@4",
+  "sire": "371673@4",
+  "children": [
+    "388855@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 788,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 360627,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-18T08:32:03.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #360627. All you need to know about me is I hate salad with a passion. I once tricked a chimpanzee. I don't like to talk about it. Will you be the garlic butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "337843@10",
+  "sire": "317762@14",
+  "children": [
+    "361062@16",
+    "385763@17",
+    "473963@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6148,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

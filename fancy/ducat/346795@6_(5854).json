@@ -1,0 +1,23 @@
+{
+  "id": 346795,
+  "name": "Skaarhouse",
+  "generation": 6,
+  "created_at": "2017-12-17T02:42:29.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Skaarhouse. I'm often referred to as the Samwise Gamgee of the group. My friends describe me as \"smelly.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "346458@5",
+  "sire": "312346@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5854,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

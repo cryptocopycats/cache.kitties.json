@@ -1,0 +1,26 @@
+{
+  "id": 407000,
+  "name": "4-j-7",
+  "generation": 4,
+  "created_at": "2017-12-25T10:06:22.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm 4-j-7. I enjoy chasing red dots, picking flowers, and grooming. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Can you make my hairy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "351686@3",
+  "sire": "332719@3",
+  "children": [
+    "454905@5",
+    "513586@5",
+    "513791@5",
+    "542029@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1155,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

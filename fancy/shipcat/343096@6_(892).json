@@ -1,0 +1,23 @@
+{
+  "id": 343096,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T20:02:53.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! Kitty #343096 here. I'm here to enjoy sweating through my feet and glaring at the neighbour's cat. When no one's home, I invite my pals over and we listen to Wutang. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "56716@5",
+  "sire": "140865@5",
+  "children": [
+    "345063@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 892,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

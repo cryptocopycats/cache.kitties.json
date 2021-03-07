@@ -1,0 +1,23 @@
+{
+  "id": 400624,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-24T07:06:58.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Kitty #400624. I'm a professional Dogwalker and I love cereal. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327821@9",
+  "sire": "395977@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1108,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

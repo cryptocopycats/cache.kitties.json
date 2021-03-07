@@ -1,0 +1,26 @@
+{
+  "id": 366789,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-19T00:06:16.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! Kitty #366789 here. I'm here to enjoy reading garfield and hitting on yo' man. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "351815@11",
+  "sire": "343188@8",
+  "children": [
+    "371031@13",
+    "437414@13",
+    "440486@13",
+    "552125@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 724,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

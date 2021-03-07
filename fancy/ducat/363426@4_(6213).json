@@ -1,0 +1,23 @@
+{
+  "id": 363426,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-18T15:53:56.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm RARE BIRD! Fancy!. My friends describe me as stinky and gorgeous. I once got in a fight with a moose, and won. I look forward to being a nevernude with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "324399@3",
+  "sire": "336236@3",
+  "children": [
+    "363586@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6213,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

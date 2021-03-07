@@ -1,0 +1,23 @@
+{
+  "id": 334275,
+  "name": "Baby Birdie",
+  "generation": 8,
+  "created_at": "2017-12-16T04:23:54.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Baby Birdie. I've never told anyone this, but I once pranced with a dog. It's not common knowledge, but my ancestry connects me to Cleopatra. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "325358@7",
+  "sire": "204415@6",
+  "children": [
+    "335163@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5583,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

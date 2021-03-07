@@ -1,0 +1,29 @@
+{
+  "id": 376186,
+  "name": "🐤 Chick",
+  "generation": 7,
+  "created_at": "2017-12-20T06:49:39.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm 🐤 Chick. My friends describe me as voluptuous and despicable. I'm often described as wondrous, and I own it. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "335366@6",
+  "sire": "313494@6",
+  "children": [
+    "376288@8",
+    "376757@8",
+    "384389@8",
+    "386977@8",
+    "388135@8",
+    "401674@9",
+    "426322@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6418,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

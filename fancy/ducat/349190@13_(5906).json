@@ -1,0 +1,23 @@
+{
+  "id": 349190,
+  "name": "Orieta",
+  "generation": 13,
+  "created_at": "2017-12-17T07:55:18.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Orieta. My friends describe me as gullible and annoying. My friends describe me as \"fabulous.\" It's... accurate. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287184@12",
+  "sire": "261693@9",
+  "children": [
+    "355947@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5906,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

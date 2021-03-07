@@ -1,0 +1,25 @@
+{
+  "id": 374550,
+  "name": "BatShipCrazy kitty",
+  "generation": 8,
+  "created_at": "2017-12-20T00:37:04.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm BatShipCrazy kitty. I enjoy fighting the patriarchy, reading garfield, and reciting poetry. My friends describe me as \"vegan.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "269959@6",
+  "sire": "348587@7",
+  "children": [
+    "497730@11",
+    "1327484@9",
+    "1912210@20"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 967,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 399265,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-24T03:39:03.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Kitty #399265. I'm a Aerobics Athlete  by day, and I like watching reality tv by night. I once headbutted a goose. I don't like to talk about it. Will you be the peanut butter to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "298190@6",
+  "sire": "275609@6",
+  "children": [
+    "400736@8",
+    "403886@8",
+    "405641@8",
+    "409055@8",
+    "410180@8",
+    "411925@8",
+    "432461@8",
+    "440866@10",
+    "452431@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1101,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 327064,
+  "name": "🤶 Puppet 🤶",
+  "generation": 7,
+  "created_at": "2017-12-15T17:12:29.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! I'm 🤶 Puppet 🤶. In high school, I was voted school jock. I put marmite on everything. Like, everything: hot dogs, cereal—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325862@6",
+  "sire": "325679@6",
+  "children": [
+    "327306@8",
+    "331225@8",
+    "332643@8",
+    "342634@9",
+    "349143@11",
+    "391725@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 547,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

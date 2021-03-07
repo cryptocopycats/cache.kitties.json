@@ -1,0 +1,24 @@
+{
+  "id": 325906,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-15T14:32:48.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #325906. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of taking selfies, wet food, and volunteering at the local kitten rescue shelter. I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "302223@8",
+  "sire": "309274@18",
+  "children": [
+    "375168@20",
+    "379330@24"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5402,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

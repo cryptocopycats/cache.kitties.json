@@ -1,0 +1,26 @@
+{
+  "id": 342645,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T19:13:25.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #342645. All you need to know about me is I hate cantaloupe with a passion. When I'm not riding the bus, I'm tricking babies! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "316934@7",
+  "sire": "287169@3",
+  "children": [
+    "345016@11",
+    "367918@9",
+    "368224@9",
+    "373723@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5773,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

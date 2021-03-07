@@ -1,0 +1,30 @@
+{
+  "id": 327306,
+  "name": "Mistletoe #550",
+  "generation": 8,
+  "created_at": "2017-12-15T17:39:45.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! Mistletoe #550 here. I'm here to enjoy licking doorknobs and tripping my owner. I am 78% sphinx, 80% Dispensary Clerk, and otherwise bad at math. Our friendship will be gorgeous, raunchy, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327064@7",
+  "sire": "326049@7",
+  "children": [
+    "327787@9",
+    "329480@9",
+    "347859@9",
+    "366792@9",
+    "391693@9",
+    "402544@9",
+    "410681@9",
+    "438056@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 550,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

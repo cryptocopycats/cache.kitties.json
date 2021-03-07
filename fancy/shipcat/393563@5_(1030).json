@@ -1,0 +1,33 @@
+{
+  "id": 393563,
+  "name": "Captain Jack",
+  "generation": 5,
+  "created_at": "2017-12-23T09:09:06.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Captain Jack here. I'm here to enjoy picking on mice and sitting on your computer. I'm often described as tantalizing, and I own it. Will you be the ranch dressing to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "389734@4",
+  "sire": "323647@4",
+  "children": [
+    "395331@6",
+    "395574@6",
+    "398770@6",
+    "399918@6",
+    "401281@6",
+    "402262@6",
+    "405146@6",
+    "409978@6",
+    "414268@6",
+    "425335@6",
+    "452323@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1030,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 321557,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-15T06:50:19.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Kitty #321557 here. I'm here to enjoy picking on mice and spinning sick beats. When no one's home, I invite my pals over and we listen to Wutang. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285174@3",
+  "sire": "284382@3",
+  "children": [
+    "321906@5",
+    "326402@5",
+    "328370@5",
+    "329912@5",
+    "330844@5",
+    "334708@5",
+    "341174@5",
+    "345985@5",
+    "356604@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5302,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

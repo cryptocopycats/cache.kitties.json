@@ -1,0 +1,26 @@
+{
+  "id": 317378,
+  "name": "Ten Fancy Lives",
+  "generation": 10,
+  "created_at": "2017-12-15T00:40:08.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Ten Fancy Lives. I once peed on Nelson Mandela's cat. They had it coming. Sometimes I daydream of a life full of sitting on your computer, chocolate, and reading Danielle Steele. Will you be the ghost pepper hot sauce to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "312013@9",
+  "sire": "265344@8",
+  "children": [
+    "320132@11",
+    "327281@12",
+    "335950@12",
+    "342876@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5210,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

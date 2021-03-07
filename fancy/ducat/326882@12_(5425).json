@@ -1,0 +1,24 @@
+{
+  "id": 326882,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-15T16:53:04.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #326882. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of eating lasagna, wet food, and braiding people's hair. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "307935@10",
+  "sire": "266233@11",
+  "children": [
+    "330086@13",
+    "332047@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5425,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

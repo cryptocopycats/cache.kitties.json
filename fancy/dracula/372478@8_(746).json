@@ -1,0 +1,23 @@
+{
+  "id": 372478,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-19T19:23:09.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #372478. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"seductive.\" It's... accurate. I hope we can be gullible friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "269039@7",
+  "sire": "274716@6",
+  "children": [
+    "372631@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 746,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

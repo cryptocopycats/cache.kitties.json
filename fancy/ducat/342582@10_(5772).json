@@ -1,0 +1,23 @@
+{
+  "id": 342582,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-16T19:05:31.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #342582. In high school, I was voted school jock. I would give it all up for a Chanel purse. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "323884@5",
+  "sire": "322425@9",
+  "children": [
+    "343490@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5772,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

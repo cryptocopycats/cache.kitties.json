@@ -1,0 +1,29 @@
+{
+  "id": 364018,
+  "name": "PUREBRED DRAC BREEDER",
+  "generation": 8,
+  "created_at": "2017-12-18T17:22:39.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm PUREBRED DRAC BREEDER. I'm a professional Train Conductor and I love cereal. It's not common knowledge, but my ancestry connects me to Princess Diana. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "333200@7",
+  "sire": "251144@7",
+  "children": [
+    "364322@9",
+    "367509@9",
+    "569182@10",
+    "570499@12",
+    "572508@12",
+    "573933@12",
+    "577039@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 714,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 397472,
+  "name": "Niles Crane",
+  "generation": 9,
+  "created_at": "2017-12-23T22:03:25.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Niles Crane. I'm often referred to as the Niles Crane of the group. Some people say I'm the Niles Crane of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "384837@8",
+  "sire": "315833@8",
+  "children": [
+    "398357@10",
+    "400656@10",
+    "410676@16",
+    "421764@20",
+    "448370@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 830,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

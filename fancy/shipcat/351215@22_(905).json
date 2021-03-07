@@ -1,0 +1,23 @@
+{
+  "id": 351215,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-17T12:44:56.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #351215. I'm a professional Culinary Sanitation Specialist and I love cantaloupe. It's not common knowledge, but my ancestry connects me to Princess Diana. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "80844@19",
+  "sire": "316833@21",
+  "children": [
+    "353258@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 905,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

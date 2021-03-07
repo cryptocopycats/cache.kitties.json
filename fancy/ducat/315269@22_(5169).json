@@ -1,0 +1,24 @@
+{
+  "id": 315269,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-14T21:59:48.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #315269. I'm often referred to as the Frodo Baggins of the group. I once made a rhino scare. Our friendship will be stinky, tantalizing, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "181795@20",
+  "sire": "279371@21",
+  "children": [
+    "358229@23",
+    "449993@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5169,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

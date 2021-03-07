@@ -1,0 +1,29 @@
+{
+  "id": 355445,
+  "name": "Little Kitty Bird",
+  "generation": 6,
+  "created_at": "2017-12-17T21:45:29.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Little Kitty Bird. My friends describe me as hairy and annoying. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280516@5",
+  "sire": "349232@5",
+  "children": [
+    "355718@7",
+    "356020@7",
+    "359296@7",
+    "369138@14",
+    "373816@7",
+    "381953@14",
+    "399983@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6047,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

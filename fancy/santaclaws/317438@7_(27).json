@@ -1,0 +1,23 @@
+{
+  "id": 317438,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-15T00:42:48.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #317438. I believe the world is flat. My friends describe me as \"ridiculous.\" It's... accurate. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "312340@6",
+  "sire": "301674@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 27,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

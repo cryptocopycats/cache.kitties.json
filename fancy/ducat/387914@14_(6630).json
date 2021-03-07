@@ -1,0 +1,23 @@
+{
+  "id": 387914,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-22T11:31:40.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #387914. I'm a professional Train Conductor and I love cantaloupe. I once dreamed of being a Spin Instructor . Now I can be found reading Danielle Steele all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "378732@9",
+  "sire": "303018@13",
+  "children": [
+    "430799@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6630,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

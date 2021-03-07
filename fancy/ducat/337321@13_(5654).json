@@ -1,0 +1,23 @@
+{
+  "id": 337321,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-16T09:10:53.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Kitty #337321. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285231@12",
+  "sire": "31708@10",
+  "children": [
+    "353664@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5654,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

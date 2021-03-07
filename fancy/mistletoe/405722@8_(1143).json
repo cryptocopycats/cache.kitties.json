@@ -1,0 +1,23 @@
+{
+  "id": 405722,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-25T04:10:31.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #405722. I'm a Culinary Sanitation Specialist by day, and I like pole dancing by night. My great-great-great-great-great-great grandkitty lived with Princess Diana. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "392104@7",
+  "sire": "301237@7",
+  "children": [
+    "639391@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1143,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

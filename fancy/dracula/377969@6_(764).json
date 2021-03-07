@@ -1,0 +1,26 @@
+{
+  "id": 377969,
+  "name": "Draculino",
+  "generation": 6,
+  "created_at": "2017-12-20T17:18:37.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Draculino. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Frank Sinatra. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "241691@5",
+  "sire": "245195@4",
+  "children": [
+    "381694@7",
+    "383102@7",
+    "386242@7",
+    "389188@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 764,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 347846,
+  "name": "Super Rare Genes \\ Mistletoe",
+  "generation": 15,
+  "created_at": "2017-12-17T04:55:58.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Super Rare Genes \\ Mistletoe. I've never told anyone this, but I once groomed a dog. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to hitting on yo' man with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "311413@7",
+  "sire": "315471@14",
+  "children": [
+    "356705@18",
+    "602258@16",
+    "607826@16",
+    "615670@16",
+    "628421@16",
+    "635198@16",
+    "652471@16",
+    "689414@16",
+    "1297329@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 732,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

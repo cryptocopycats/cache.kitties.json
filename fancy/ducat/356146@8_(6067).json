@@ -1,0 +1,23 @@
+{
+  "id": 356146,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T23:09:14.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #356146. I'm a Mad Scientist by day, and I like prank-calling celebrities by night. Some people say I'm the Jon Snow of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "35477@7",
+  "sire": "221272@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6067,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

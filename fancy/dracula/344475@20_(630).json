@@ -1,0 +1,24 @@
+{
+  "id": 344475,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-16T22:18:29.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #344475. I'm a Skydiving Instructor by day, and I like braiding people's hair by night. Sometimes I daydream of a life full of hitting on yo' man, lasagna, and riverdancing. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "294556@19",
+  "sire": "299933@11",
+  "children": [
+    "376114@21",
+    "748132@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 630,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

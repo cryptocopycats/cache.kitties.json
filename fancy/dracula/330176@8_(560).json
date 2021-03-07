@@ -1,0 +1,32 @@
+{
+  "id": 330176,
+  "name": "Vlad",
+  "generation": 8,
+  "created_at": "2017-12-15T22:05:06.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Vlad. All you need to know about me is I hate cantaloupe with a passion. Sometimes I daydream of a life full of being a nevernude, hamburgers, and riding the bus. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "329982@7",
+  "sire": "329472@7",
+  "children": [
+    "330614@9",
+    "331897@9",
+    "356124@14",
+    "359597@14",
+    "365314@14",
+    "371249@14",
+    "378036@14",
+    "402945@14",
+    "425290@14",
+    "436295@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 560,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

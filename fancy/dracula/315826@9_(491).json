@@ -1,0 +1,27 @@
+{
+  "id": 315826,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T22:36:27.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #315826. I'm a professional Ventriloquist and I love wet food. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "243863@8",
+  "sire": "108044@7",
+  "children": [
+    "323969@10",
+    "326430@10",
+    "331682@10",
+    "342579@10",
+    "365588@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 491,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

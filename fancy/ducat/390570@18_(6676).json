@@ -1,0 +1,23 @@
+{
+  "id": 390570,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-22T22:26:09.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #390570. I enjoy slappin' da bass, glaring at the neighbour's cat, and watching Stranger Things. I once dreamed of being a Spin Instructor . Now I can be found playing chess all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "387079@17",
+  "sire": "151161@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6676,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

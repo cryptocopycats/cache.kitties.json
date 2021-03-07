@@ -1,0 +1,23 @@
+{
+  "id": 386534,
+  "name": "Chiken meow",
+  "generation": 5,
+  "created_at": "2017-12-22T06:22:10.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Chiken meow. I'm a Ventriloquist by day, and I like mocking dogs by night. My secret indulgence is ice cream. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "353333@4",
+  "sire": "230645@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6611,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

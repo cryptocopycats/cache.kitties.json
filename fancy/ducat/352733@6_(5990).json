@@ -1,0 +1,24 @@
+{
+  "id": 352733,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T16:14:17.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #352733. I enjoy chasing string, eating until I loathe myself, and sweating through my feet. I once tricked a dolphin. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263627@4",
+  "sire": "317001@5",
+  "children": [
+    "540374@7",
+    "540889@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5990,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

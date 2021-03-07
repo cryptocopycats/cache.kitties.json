@@ -1,0 +1,23 @@
+{
+  "id": 364405,
+  "name": "Rare Faceny DuCat Breed Me!",
+  "generation": 13,
+  "created_at": "2017-12-18T18:12:32.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Rare Faceny DuCat Breed Me!. In high school, I was voted biggest teacher's pet. I put pickles on everything. Like, everything: hot dogs, cereal—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278284@12",
+  "sire": "121524@6",
+  "children": [
+    "384786@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6235,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

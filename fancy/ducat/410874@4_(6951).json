@@ -1,0 +1,31 @@
+{
+  "id": 410874,
+  "name": "Fanshee",
+  "generation": 4,
+  "created_at": "2017-12-26T04:52:59.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Fanshee. My friends describe me as brilliant and ridiculous. I'm often described as wondrous, and I own it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "361005@3",
+  "sire": "344359@3",
+  "children": [
+    "411090@5",
+    "413395@5",
+    "455543@5",
+    "456526@5",
+    "461736@8",
+    "461886@8",
+    "470517@5",
+    "472460@5",
+    "530776@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6951,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

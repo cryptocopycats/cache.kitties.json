@@ -1,0 +1,30 @@
+{
+  "id": 316022,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-14T22:50:08.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #316022. I've never told anyone this, but I once loved a dog. I am 41% fairy, 64% Ventriloquist, and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "302102@4",
+  "sire": "275403@4",
+  "children": [
+    "317413@6",
+    "320612@6",
+    "335765@6",
+    "357344@6",
+    "405601@6",
+    "564926@6",
+    "567057@6",
+    "574770@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5179,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

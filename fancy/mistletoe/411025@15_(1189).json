@@ -1,0 +1,23 @@
+{
+  "id": 411025,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-26T05:37:27.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #411025. I believe the world is flat. Sometimes I daydream of a life full of riding dirty, lasagna, and playing chess. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "410238@14",
+  "sire": "408835@10",
+  "children": [
+    "412655@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1189,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

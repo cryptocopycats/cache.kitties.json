@@ -1,0 +1,23 @@
+{
+  "id": 393746,
+  "name": "Purebread SantaClaws",
+  "generation": 15,
+  "created_at": "2017-12-23T09:48:06.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Purebread SantaClaws. I enjoy riding unicorns, glaring at the neighbour's cat, and picking flowers. Sometimes I daydream of a life full of spinning sick beats, steak, and mocking dogs. Our friendship will be brilliant, hairy, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "389792@13",
+  "sire": "384981@14",
+  "children": [
+    "405725@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 206,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

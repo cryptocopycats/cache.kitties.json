@@ -1,0 +1,23 @@
+{
+  "id": 340778,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-16T15:36:07.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #340778. I want to live in a world where people believe the world is flat. Some people say I'm the Ron Weasley of the group. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "330223@5",
+  "sire": "335739@14",
+  "children": [
+    "345901@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5728,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

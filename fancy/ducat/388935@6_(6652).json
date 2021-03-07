@@ -1,0 +1,24 @@
+{
+  "id": 388935,
+  "name": "Fancy Dirty Bird Cat",
+  "generation": 6,
+  "created_at": "2017-12-22T16:35:41.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Fancy Dirty Bird Cat. I enjoy grooming, riding dirty, and slappin' da bass. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "385642@1",
+  "sire": "386543@5",
+  "children": [
+    "429455@25",
+    "438050@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6652,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 337704,
+  "name": "Confuzzled",
+  "generation": 8,
+  "created_at": "2017-12-16T09:48:36.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Confuzzled. I enjoy chasing string, fighting for the people, and picking on mice. I once made a rhino play. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "330712@6",
+  "sire": "330770@7",
+  "children": [
+    "338467@9",
+    "338817@9",
+    "343092@9",
+    "344684@9",
+    "349823@9",
+    "362186@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 665,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

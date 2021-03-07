@@ -1,0 +1,23 @@
+{
+  "id": 348379,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-17T06:03:29.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #348379. In high school, I was voted biggest teacher's pet. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "334074@9",
+  "sire": "348076@10",
+  "children": [
+    "349509@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5890,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

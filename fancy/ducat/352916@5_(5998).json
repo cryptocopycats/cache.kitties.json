@@ -1,0 +1,29 @@
+{
+  "id": 352916,
+  "name": "IMMABIRD!",
+  "generation": 5,
+  "created_at": "2017-12-17T16:37:12.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm IMMABIRD!. My friends describe me as annoying and raunchy. Some people say I'm the Peter Griffin of the group. Will you be the garlic butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "339528@4",
+  "sire": "290530@4",
+  "children": [
+    "353065@8",
+    "353187@16",
+    "360588@8",
+    "366148@8",
+    "366769@7",
+    "383322@12",
+    "386338@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5998,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

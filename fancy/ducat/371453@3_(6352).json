@@ -1,0 +1,23 @@
+{
+  "id": 371453,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-19T16:02:53.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #371453. I'm a professional Ventriloquist and I love wet food. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "347944@0",
+  "sire": "293413@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6352,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

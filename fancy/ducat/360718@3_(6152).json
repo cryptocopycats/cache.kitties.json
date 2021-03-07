@@ -1,0 +1,31 @@
+{
+  "id": 360718,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-18T08:44:56.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #360718. I'm often referred to as the Ross Geller of the group. In my free time, I can usually be found brilliant or talking about how much I lift. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "176519@2",
+  "sire": "200230@2",
+  "children": [
+    "415961@4",
+    "416337@4",
+    "426108@4",
+    "436574@4",
+    "497297@4",
+    "557106@4",
+    "560822@4",
+    "574069@4",
+    "576768@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6152,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 394459,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-23T12:32:59.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! My name's Kitty #394459. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Sometimes I daydream of a life full of breakdancing, cereal, and watching reality tv. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "392091@11",
+  "sire": "392931@14",
+  "children": [
+    "407318@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6731,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

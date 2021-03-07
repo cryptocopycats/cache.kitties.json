@@ -1,0 +1,23 @@
+{
+  "id": 365221,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-18T20:21:22.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #365221. I've never told anyone this, but I once loved a dog. I once got in a fight with a platypus, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "358737@3",
+  "sire": "353713@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 883,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

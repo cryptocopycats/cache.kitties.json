@@ -1,0 +1,26 @@
+{
+  "id": 318990,
+  "name": "Kitty Catbird III",
+  "generation": 13,
+  "created_at": "2017-12-15T02:43:08.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty Catbird III. In high school, I was voted most likely to work at NASA. I'm often described as brilliant, and I own it. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285225@12",
+  "sire": "299757@12",
+  "children": [
+    "323784@14",
+    "326471@14",
+    "336653@14",
+    "346326@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5249,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

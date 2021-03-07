@@ -1,0 +1,24 @@
+{
+  "id": 376017,
+  "name": "Pickle!",
+  "generation": 9,
+  "created_at": "2017-12-20T06:09:45.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Pickle!. All you need to know about me is I hate cereal with a passion. It's not common knowledge, but my ancestry connects me to Mother Theresa. I hope we can be gorgeous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "102617@8",
+  "sire": "354444@8",
+  "children": [
+    "508285@10",
+    "509771@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 147,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

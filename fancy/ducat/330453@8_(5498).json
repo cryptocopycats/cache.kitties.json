@@ -1,0 +1,27 @@
+{
+  "id": 330453,
+  "name": "MeejusMeows",
+  "generation": 8,
+  "created_at": "2017-12-15T22:31:39.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm MeejusMeows. In high school, I was voted school jock. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "163842@5",
+  "sire": "167261@7",
+  "children": [
+    "358046@9",
+    "365824@9",
+    "371881@13",
+    "375318@11",
+    "388502@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5498,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

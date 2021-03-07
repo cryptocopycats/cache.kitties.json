@@ -1,0 +1,23 @@
+{
+  "id": 340615,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-16T15:17:44.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #340615. I enjoy taking selfies, grooming, and picking on mice. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "36023@17",
+  "sire": "209093@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5724,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

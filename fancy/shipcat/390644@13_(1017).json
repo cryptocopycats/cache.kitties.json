@@ -1,0 +1,23 @@
+{
+  "id": 390644,
+  "name": "Fancy ShipCat Rare",
+  "generation": 13,
+  "created_at": "2017-12-22T22:44:58.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Fancy ShipCat Rare. In high school, I was voted most likely to work at NASA. I'm often described as smelly, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "353544@12",
+  "sire": "166642@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1017,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

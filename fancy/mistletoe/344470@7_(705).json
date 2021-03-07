@@ -1,0 +1,23 @@
+{
+  "id": 344470,
+  "name": "ChristmasGoose",
+  "generation": 7,
+  "created_at": "2017-12-16T22:18:22.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! ChristmasGoose here. I'm here to enjoy grooming and reading garfield. I'm often described as brilliant, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "271104@4",
+  "sire": "326848@6",
+  "children": [
+    "408264@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 705,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

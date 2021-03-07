@@ -1,0 +1,23 @@
+{
+  "id": 370328,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-19T10:51:33.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! Kitty #370328 here. I'm here to enjoy watching Stranger Things and licking doorknobs. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254463@5",
+  "sire": "246021@5",
+  "children": [
+    "1585578@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6328,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

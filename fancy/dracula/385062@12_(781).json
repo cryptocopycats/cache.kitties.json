@@ -1,0 +1,25 @@
+{
+  "id": 385062,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-22T00:30:40.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #385062. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"stinky.\" It's... accurate. Will you be the marmite to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "374584@4",
+  "sire": "384766@11",
+  "children": [
+    "425428@13",
+    "451956@16",
+    "454356@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 781,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

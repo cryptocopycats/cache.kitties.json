@@ -1,0 +1,23 @@
+{
+  "id": 338797,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T11:45:29.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Kitty #338797. I enjoy grooming, chasing red dots, and fighting for the people. When no one's home, I invite my pals over and we listen to Beyoncé. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321917@6",
+  "sire": "334865@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 675,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

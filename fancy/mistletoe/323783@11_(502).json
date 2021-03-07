@@ -1,0 +1,24 @@
+{
+  "id": 323783,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-15T10:33:57.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #323783. I'm a professional Aerobics Athlete  and I love steak. I was voted biggest teacher's pet in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "322989@10",
+  "sire": "314754@9",
+  "children": [
+    "327620@15",
+    "769293@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 502,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

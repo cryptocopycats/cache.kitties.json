@@ -1,0 +1,23 @@
+{
+  "id": 360855,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-18T09:09:06.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Kitty #360855 here. I'm here to enjoy licking doorknobs and chasing red dots. When no one's home, I invite my pals over and we listen to Wutang. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "170167@8",
+  "sire": "308691@8",
+  "children": [
+    "370951@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 930,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 327029,
+  "name": "Santa's Little Helper",
+  "generation": 8,
+  "created_at": "2017-12-15T17:09:06.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! My name's Santa's Little Helper. I once peed on Marie Antoinette's cat. They had it coming. In my free time, I can usually be found petulant or riding the bus. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "326265@7",
+  "sire": "326049@7",
+  "children": [
+    "327821@9",
+    "329429@9",
+    "342634@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 545,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

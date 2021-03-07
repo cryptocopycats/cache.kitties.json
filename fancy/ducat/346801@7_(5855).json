@@ -1,0 +1,24 @@
+{
+  "id": 346801,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T02:43:23.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #346801. I'm often referred to as the Lisa Simpson of the group. When I'm not riverdancing, I'm running a podcast! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278363@6",
+  "sire": "277900@6",
+  "children": [
+    "643358@8",
+    "643443@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5855,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

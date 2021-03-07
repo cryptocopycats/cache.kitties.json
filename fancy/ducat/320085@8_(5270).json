@@ -1,0 +1,23 @@
+{
+  "id": 320085,
+  "name": "Songbird",
+  "generation": 8,
+  "created_at": "2017-12-15T04:23:20.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Songbird. I'm often referred to as the Chandler Bing of the group. I would give it all up to be on Oprah. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "252889@7",
+  "sire": "241024@7",
+  "children": [
+    "399589@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5270,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

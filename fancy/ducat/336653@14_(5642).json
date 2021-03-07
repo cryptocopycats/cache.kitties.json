@@ -1,0 +1,23 @@
+{
+  "id": 336653,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-16T08:06:42.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #336653. I've never told anyone this, but I once pawed at a dog. In my free time, I can usually be found raunchy or jump-roping. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "318990@13",
+  "sire": "287707@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5642,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

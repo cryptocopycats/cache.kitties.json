@@ -1,0 +1,23 @@
+{
+  "id": 343959,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-16T21:26:33.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #343959. I'm often referred to as the Bart Simpson of the group. When no one's home, I invite my pals over and we listen to Ace of Base. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "314871@4",
+  "sire": "308357@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5795,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

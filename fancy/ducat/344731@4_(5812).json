@@ -1,0 +1,25 @@
+{
+  "id": 344731,
+  "name": "Fancy Blue Swift",
+  "generation": 4,
+  "created_at": "2017-12-16T22:51:05.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Fancy Blue Swift. I'm a professional Ventriloquist and I love ice cream. I once dreamed of being a Private Dancer . Now I can be found swiping left all day. Will you be the marmalade to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "330883@3",
+  "sire": "316441@3",
+  "children": [
+    "363570@5",
+    "363702@5",
+    "1514554@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5812,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

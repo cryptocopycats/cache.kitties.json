@@ -1,0 +1,25 @@
+{
+  "id": 374116,
+  "name": "Jcatt from quantum",
+  "generation": 4,
+  "created_at": "2017-12-19T23:36:20.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Jcatt from quantum. I'm often referred to as the Chandler Bing of the group. I once frolicked with a moose. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "273104@3",
+  "sire": "263441@3",
+  "children": [
+    "535557@5",
+    "541098@5",
+    "548852@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6393,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

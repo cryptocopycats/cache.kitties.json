@@ -1,0 +1,25 @@
+{
+  "id": 410044,
+  "name": "Olive Oyl 5",
+  "generation": 5,
+  "created_at": "2017-12-26T00:44:46.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Olive Oyl 5. I've never told anyone this, but I once snuggled a dog. I was voted school jock in college. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "408069@4",
+  "sire": "395535@4",
+  "children": [
+    "423926@6",
+    "430058@6",
+    "561799@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1094,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

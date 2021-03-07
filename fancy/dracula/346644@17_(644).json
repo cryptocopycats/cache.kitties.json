@@ -1,0 +1,31 @@
+{
+  "id": 346644,
+  "name": "dracula 1",
+  "generation": 17,
+  "created_at": "2017-12-17T02:21:53.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm dracula 1. I enjoy fighting for the people, fighting the patriarchy, and breakdancing. I once got in a fight with a dolphin, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "243295@15",
+  "sire": "306443@16",
+  "children": [
+    "390374@18",
+    "404259@18",
+    "414411@18",
+    "434013@18",
+    "454874@18",
+    "474127@18",
+    "498735@20",
+    "527617@18",
+    "565658@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 644,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

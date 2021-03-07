@@ -1,0 +1,32 @@
+{
+  "id": 355539,
+  "name": "#6050",
+  "generation": 6,
+  "created_at": "2017-12-17T21:54:23.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm #6050. My friends describe me as smelly and vegan. Some people say I'm the Lisa Simpson of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "355439@4",
+  "sire": "322176@5",
+  "children": [
+    "356642@7",
+    "357574@16",
+    "357891@15",
+    "359413@7",
+    "387857@9",
+    "391642@7",
+    "407826@7",
+    "422523@7",
+    "450768@7",
+    "469408@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6050,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

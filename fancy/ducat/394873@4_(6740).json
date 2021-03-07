@@ -1,0 +1,26 @@
+{
+  "id": 394873,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-23T14:03:49.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #394873. My friends describe me as fabulous and gullible. In my free time, I can usually be found voluptuous or riverdancing. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "379955@3",
+  "sire": "299109@3",
+  "children": [
+    "408063@7",
+    "408837@7",
+    "422531@7",
+    "424196@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6740,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

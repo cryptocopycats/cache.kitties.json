@@ -1,0 +1,25 @@
+{
+  "id": 349723,
+  "name": "2nd Generation Pure Bred",
+  "generation": 12,
+  "created_at": "2017-12-17T09:03:25.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm 2nd Generation Pure Bred. My friends describe me as raunchy and wondrous. When no one's home, I invite my pals over and we listen to Coldplay. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "347431@11",
+  "sire": "347922@10",
+  "children": [
+    "355720@13",
+    "357926@13",
+    "361968@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5921,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

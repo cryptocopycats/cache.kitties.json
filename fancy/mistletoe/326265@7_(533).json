@@ -1,0 +1,30 @@
+{
+  "id": 326265,
+  "name": "Mistletoe, Gen 7! (#533/2,000)",
+  "generation": 7,
+  "created_at": "2017-12-15T15:27:35.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ugh! I'm Mistletoe, Gen 7! (#533/2,000). I've never told anyone this, but I once kissed a dog. I once got in a fight with a chimpanzee, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "313166@6",
+  "sire": "313759@6",
+  "children": [
+    "327029@8",
+    "328311@8",
+    "333567@8",
+    "342737@8",
+    "360081@12",
+    "392247@8",
+    "549535@8",
+    "552990@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 533,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

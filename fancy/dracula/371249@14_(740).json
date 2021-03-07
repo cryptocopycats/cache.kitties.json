@@ -1,0 +1,25 @@
+{
+  "id": 371249,
+  "name": "Purebred Virgin Vampire",
+  "generation": 14,
+  "created_at": "2017-12-19T15:12:41.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Purebred Virgin Vampire. I've never told anyone this, but I once cleaned a dog. My friends describe me as \"voluptuous.\" It's... accurate. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "330176@8",
+  "sire": "335984@13",
+  "children": [
+    "388328@15",
+    "393786@15",
+    "401230@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 740,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

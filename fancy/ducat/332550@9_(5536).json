@@ -1,0 +1,23 @@
+{
+  "id": 332550,
+  "name": "SireForFancy",
+  "generation": 9,
+  "created_at": "2017-12-16T01:30:59.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm SireForFancy. I enjoy fighting for the people, spinning sick beats, and sweating through my feet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "286206@7",
+  "sire": "295236@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5536,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

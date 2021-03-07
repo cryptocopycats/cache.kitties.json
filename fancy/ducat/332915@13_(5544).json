@@ -1,0 +1,25 @@
+{
+  "id": 332915,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-16T01:58:50.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #332915. I'm a professional Ventriloquist and I love chocolate. My friends describe me as \"stinky.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266265@10",
+  "sire": "332053@12",
+  "children": [
+    "333220@14",
+    "381745@14",
+    "386841@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5544,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 320660,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T05:20:38.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #320660. My friends describe me as tantalizing and seductive. Some people say I'm the Cersei Lannister of the group. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "216019@5",
+  "sire": "274037@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 847,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

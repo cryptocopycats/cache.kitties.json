@@ -1,0 +1,23 @@
+{
+  "id": 358897,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-18T04:44:35.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #358897. My friends describe me as voluptuous and smelly. Sometimes I daydream of a life full of chasing red dots, cantaloupe, and sleeping in fresh laundry. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "352404@4",
+  "sire": "339008@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6118,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

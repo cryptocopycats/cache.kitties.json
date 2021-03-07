@@ -1,0 +1,23 @@
+{
+  "id": 345245,
+  "name": "Buffy",
+  "generation": 9,
+  "created_at": "2017-12-16T23:46:10.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Buffy. I enjoy eating until I loathe myself, picking flowers, and riding unicorns. I put marmite on everything. Like, everything: hot dogs, ice cream—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "274993@7",
+  "sire": "329673@8",
+  "children": [
+    "448197@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 636,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

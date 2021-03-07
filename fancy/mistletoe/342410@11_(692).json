@@ -1,0 +1,23 @@
+{
+  "id": 342410,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-16T18:45:23.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #342410. I'm a Private Dancer  by day, and I like mocking dogs by night. I once loved a labradoodle. I don't like to talk about it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "332257@9",
+  "sire": "310381@10",
+  "children": [
+    "365818@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 692,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

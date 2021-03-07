@@ -1,0 +1,25 @@
+{
+  "id": 411115,
+  "name": "WaddleKitty",
+  "generation": 6,
+  "created_at": "2017-12-26T06:14:16.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm WaddleKitty. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Confucius. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "402233@5",
+  "sire": "402338@5",
+  "children": [
+    "422614@7",
+    "423562@8",
+    "427958@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6958,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

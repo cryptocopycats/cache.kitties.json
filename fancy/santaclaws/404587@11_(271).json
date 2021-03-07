@@ -1,0 +1,30 @@
+{
+  "id": 404587,
+  "name": "SantaCat",
+  "generation": 11,
+  "created_at": "2017-12-24T23:10:15.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm SantaCat. My friends describe me as fabulous and smelly. My great-great-great-great-great-great grandkitty lived with King Henry VIII. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "380151@9",
+  "sire": "381754@10",
+  "children": [
+    "415511@12",
+    "417579@12",
+    "430211@15",
+    "450429@13",
+    "451897@15",
+    "457099@13",
+    "550109@14",
+    "1870952@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 271,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 355859,
+  "name": "MickeyCat",
+  "generation": 8,
+  "created_at": "2017-12-17T22:34:48.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's MickeyCat. I once peed on Princess Diana's cat. They had it coming. Some people say I'm the Chandler Bing of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "228691@7",
+  "sire": "297912@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 801,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

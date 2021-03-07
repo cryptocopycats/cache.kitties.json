@@ -1,0 +1,23 @@
+{
+  "id": 359360,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-18T05:41:04.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #359360. I enjoy shakin' dat booty, picking on mice, and chasing red dots. I once dreamed of being a Foreign Film Director. Now I can be found jump-roping all day. Our friendship will be stinky, wondrous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "298295@6",
+  "sire": "304122@6",
+  "children": [
+    "378271@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 926,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 328474,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-15T19:39:32.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #328474. I'm a professional Skydiving Instructor and I love salad. When no one's home, I invite my pals over and we listen to Michael Bolton. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "307633@14",
+  "sire": "208643@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5459,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

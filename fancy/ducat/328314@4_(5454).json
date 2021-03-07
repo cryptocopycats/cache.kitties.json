@@ -1,0 +1,28 @@
+{
+  "id": 328314,
+  "name": "fancy fancy rare af",
+  "generation": 4,
+  "created_at": "2017-12-15T19:27:45.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm fancy fancy rare af. All you need to know about me is I hate cereal with a passion. I put pickles on everything. Like, everything: hot dogs, hamburgers—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "204926@3",
+  "sire": "230010@3",
+  "children": [
+    "329267@5",
+    "329765@5",
+    "331843@5",
+    "333014@5",
+    "339594@5",
+    "354487@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5454,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

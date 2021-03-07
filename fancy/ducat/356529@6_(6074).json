@@ -1,0 +1,23 @@
+{
+  "id": 356529,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T23:54:38.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #356529. I've never told anyone this, but I once bit a dog. My secret indulgence is lasagna. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "90710@5",
+  "sire": "156783@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6074,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 318519,
+  "name": "Piu Piu II",
+  "generation": 14,
+  "created_at": "2017-12-15T02:07:48.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Piu Piu II. I've never told anyone this, but I once headbutted a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I hope we can be annoying friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "301321@7",
+  "sire": "289591@13",
+  "children": [
+    "369399@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5237,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

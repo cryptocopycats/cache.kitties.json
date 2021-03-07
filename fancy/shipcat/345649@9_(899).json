@@ -1,0 +1,27 @@
+{
+  "id": 345649,
+  "name": "Anchor Fancy (RARE)",
+  "generation": 9,
+  "created_at": "2017-12-17T00:29:22.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Anchor Fancy (RARE). I enjoy breakdancing, sweating through my feet, and sitting on your computer. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "321962@6",
+  "sire": "310899@8",
+  "children": [
+    "347261@12",
+    "348684@10",
+    "350729@10",
+    "360220@10",
+    "382650@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 899,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

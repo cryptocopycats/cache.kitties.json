@@ -1,0 +1,29 @@
+{
+  "id": 391891,
+  "name": "Jolly",
+  "generation": 7,
+  "created_at": "2017-12-23T03:09:14.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! My name's Jolly. I once peed on Nelson Mandela's cat. They had it coming. I once dreamed of being a Aerobics Athlete . Now I can be found jump-roping all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "310633@6",
+  "sire": "196104@5",
+  "children": [
+    "392081@10",
+    "399102@17",
+    "402167@16",
+    "404773@8",
+    "405855@17",
+    "407575@11",
+    "409649@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1047,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

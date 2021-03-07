@@ -1,0 +1,23 @@
+{
+  "id": 360408,
+  "name": "Kitty #360408",
+  "generation": 2,
+  "created_at": "2017-12-18T07:55:17.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #360408. My friends describe me as fabulous and seductive. My secret indulgence is steak. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "336130@1",
+  "sire": "352428@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 846,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

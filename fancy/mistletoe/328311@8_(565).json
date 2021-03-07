@@ -1,0 +1,26 @@
+{
+  "id": 328311,
+  "name": "Jemioł",
+  "generation": 8,
+  "created_at": "2017-12-15T19:27:40.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Jemioł. I'm often referred to as the Samwise Gamgee of the group. I'm often described as despicable, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "326265@7",
+  "sire": "321846@6",
+  "children": [
+    "329606@9",
+    "331506@9",
+    "333366@9",
+    "379683@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 565,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 328052,
+  "name": "purebred SAILOR #867",
+  "generation": 8,
+  "created_at": "2017-12-15T19:00:09.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's purebred SAILOR #867. I once peed on Martin Luther King Jr.'s cat. They had it coming. Some people say I'm the Niles Crane of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "232898@4",
+  "sire": "208401@7",
+  "children": [
+    "548516@10",
+    "554272@10",
+    "558680@10",
+    "559992@10",
+    "562183@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 867,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

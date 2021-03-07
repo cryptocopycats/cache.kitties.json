@@ -1,0 +1,23 @@
+{
+  "id": 331822,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-16T00:26:23.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #331822. I'm a professional Private Dancer  and I love ice cream. I put ranch dressing on everything. Like, everything: hot dogs, lasagna—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "323614@3",
+  "sire": "331266@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5522,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

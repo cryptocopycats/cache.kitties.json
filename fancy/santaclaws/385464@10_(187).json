@@ -1,0 +1,33 @@
+{
+  "id": 385464,
+  "name": "#187",
+  "generation": 10,
+  "created_at": "2017-12-22T02:04:12.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm #187. I'm a professional Spin Instructor  and I love wet food. I like to listen to Rihanna while grooming. Don't judge me. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "384381@8",
+  "sire": "384011@9",
+  "children": [
+    "394654@11",
+    "395857@11",
+    "397647@11",
+    "400758@11",
+    "405701@11",
+    "410672@11",
+    "420284@11",
+    "421176@11",
+    "487465@11",
+    "515550@11",
+    "963849@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 187,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

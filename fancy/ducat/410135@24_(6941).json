@@ -1,0 +1,23 @@
+{
+  "id": 410135,
+  "name": null,
+  "generation": 24,
+  "created_at": "2017-12-26T01:15:38.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #410135. My friends describe me as vegan and prickly. I once made a moose scare. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "363458@23",
+  "sire": "319928@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6941,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

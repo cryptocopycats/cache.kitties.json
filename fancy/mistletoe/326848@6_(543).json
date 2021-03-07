@@ -1,0 +1,29 @@
+{
+  "id": 326848,
+  "name": "Mistletoe 543/2000",
+  "generation": 6,
+  "created_at": "2017-12-15T16:49:40.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! Mistletoe 543/2000 here. I'm here to enjoy fighting the patriarchy and being a nevernude. I put maple syrup on everything. Like, everything: hot dogs, cereal—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "298683@5",
+  "sire": "301764@4",
+  "children": [
+    "328272@7",
+    "328687@7",
+    "330397@7",
+    "332487@7",
+    "333621@7",
+    "336245@7",
+    "344470@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 543,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 368457,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-19T04:30:30.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Kitty #368457. I once peed on Confucius's cat. They had it coming. When I'm not practicing witchcraft, I'm talking about how much I lift! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "328171@5",
+  "sire": "355440@5",
+  "children": [
+    "458575@7",
+    "488434@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 730,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

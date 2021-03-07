@@ -1,0 +1,29 @@
+{
+  "id": 387053,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-22T08:19:34.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! My name's Kitty #387053. I once peed on Confucius's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "369749@4",
+  "sire": "380150@4",
+  "children": [
+    "393322@6",
+    "395595@6",
+    "398347@6",
+    "401865@6",
+    "410193@6",
+    "414933@6",
+    "422339@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1014,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 371795,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-19T17:12:32.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #371795. I'm a professional Foreign Film Director and I love chocolate. I am 57% troll, 81% Private Dancer , and otherwise bad at math. Our friendship will be despicable, ridiculous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "371418@10",
+  "sire": "252152@11",
+  "children": [
+    "812931@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6359,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

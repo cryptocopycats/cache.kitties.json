@@ -1,0 +1,23 @@
+{
+  "id": 405157,
+  "name": "JAWS",
+  "generation": 22,
+  "created_at": "2017-12-25T01:34:13.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm JAWS. I've never told anyone this, but I once kissed a dog. When no one's home, I invite my pals over and we listen to Coldplay. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "113286@21",
+  "sire": "306336@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1073,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 326251,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-15T15:26:45.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #326251. I'm a professional Private Dancer  and I love steak. When I'm not jump-roping, I'm practicing witchcraft! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "275935@10",
+  "sire": "291608@21",
+  "children": [
+    "363458@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5409,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

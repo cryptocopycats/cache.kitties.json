@@ -1,0 +1,23 @@
+{
+  "id": 325704,
+  "name": "Ducat, Gen 8! (#5,396/10,000)",
+  "generation": 8,
+  "created_at": "2017-12-15T14:07:00.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Ducat, Gen 8! (#5,396/10,000). In high school, I was voted most likely to work at NASA. I once headbutted a rhino. I don't like to talk about it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212606@7",
+  "sire": "221524@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5396,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

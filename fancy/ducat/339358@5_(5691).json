@@ -1,0 +1,25 @@
+{
+  "id": 339358,
+  "name": "E. Fly",
+  "generation": 5,
+  "created_at": "2017-12-16T12:57:42.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm E. Fly. I'm often referred to as the Lisa Simpson of the group. I'm often described as petulant, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "338701@4",
+  "sire": "338910@4",
+  "children": [
+    "339936@7",
+    "340726@7",
+    "446618@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5691,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

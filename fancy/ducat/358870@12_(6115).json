@@ -1,0 +1,24 @@
+{
+  "id": 358870,
+  "name": "2nd Generation Pure Bred",
+  "generation": 12,
+  "created_at": "2017-12-18T04:41:27.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm 2nd Generation Pure Bred. I'm a professional Private Dancer  and I love salad. Sometimes I daydream of a life full of licking doorknobs, lasagna, and summoning ghosts. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "347968@11",
+  "sire": "355871@10",
+  "children": [
+    "359824@14",
+    "362322@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6115,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

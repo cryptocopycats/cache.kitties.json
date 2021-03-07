@@ -1,0 +1,24 @@
+{
+  "id": 399461,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T04:10:01.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #399461. I want to live in a world where people believe that one day cats will rule this planet. I am 28% troll, 95% Spin Instructor , and otherwise bad at math. I look forward to riding dirty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "391898@5",
+  "sire": "389803@5",
+  "children": [
+    "399612@9",
+    "402051@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1045,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

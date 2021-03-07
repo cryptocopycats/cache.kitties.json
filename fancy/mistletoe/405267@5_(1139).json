@@ -1,0 +1,23 @@
+{
+  "id": 405267,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-25T02:06:05.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #405267. I've never told anyone this, but I once snuggled a dog. I'm often described as petulant, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "328361@4",
+  "sire": "402589@4",
+  "children": [
+    "405476@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1139,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

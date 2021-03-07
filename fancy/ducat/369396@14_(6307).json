@@ -1,0 +1,26 @@
+{
+  "id": 369396,
+  "name": "4th Generation Pure Bred",
+  "generation": 14,
+  "created_at": "2017-12-19T07:28:00.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm 4th Generation Pure Bred. I enjoy spinning sick beats, taking selfies, and fighting the patriarchy. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "361968@13",
+  "sire": "362304@13",
+  "children": [
+    "374370@16",
+    "377420@16",
+    "409971@16",
+    "449485@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6307,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 320980,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T05:51:03.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #320980. I believe that one day cats will rule this planet. In my free time, I can usually be found brilliant or playing chess. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "257517@5",
+  "sire": "230908@5",
+  "children": [
+    "322412@7",
+    "324286@7",
+    "325267@7",
+    "330210@7",
+    "337064@7",
+    "339927@7",
+    "348809@7",
+    "362372@7",
+    "383731@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 480,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 388293,
+  "name": "Fancy Santa Claws!   HO HO HO!",
+  "generation": 12,
+  "created_at": "2017-12-22T13:07:40.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Fancy Santa Claws!   HO HO HO!. All you need to know about me is I hate hamburgers with a passion. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "353375@11",
+  "sire": "351624@10",
+  "children": [
+    "394076@13",
+    "395488@13",
+    "399802@13",
+    "516370@13",
+    "537172@13",
+    "553527@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 195,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

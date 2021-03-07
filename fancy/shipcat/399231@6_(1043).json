@@ -1,0 +1,29 @@
+{
+  "id": 399231,
+  "name": "ShipCat",
+  "generation": 6,
+  "created_at": "2017-12-24T03:29:31.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm ShipCat. I've never told anyone this, but I once groomed a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "392270@5",
+  "sire": "386360@5",
+  "children": [
+    "399467@7",
+    "402530@7",
+    "461533@7",
+    "462586@16",
+    "463352@9",
+    "464889@13",
+    "468180@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1043,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

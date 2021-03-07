@@ -1,0 +1,24 @@
+{
+  "id": 322939,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T09:06:35.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #322939. I'm often referred to as the Lisa Simpson of the group. I put marmalade on everything. Like, everything: hot dogs, cereal—everything! I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "244010@5",
+  "sire": "264276@5",
+  "children": [
+    "341927@8",
+    "349813@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 854,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

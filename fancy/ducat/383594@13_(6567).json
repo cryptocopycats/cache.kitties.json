@@ -1,0 +1,23 @@
+{
+  "id": 383594,
+  "name": "Michael Boltons DuCat",
+  "generation": 13,
+  "created_at": "2017-12-21T19:17:46.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Michael Boltons DuCat. I enjoy glaring at the neighbour's cat, eating lasagna, and eating until I loathe myself. When no one's home, I invite my pals over and we listen to Michael Bolton. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "337847@5",
+  "sire": "383436@12",
+  "children": [
+    "384258@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6567,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

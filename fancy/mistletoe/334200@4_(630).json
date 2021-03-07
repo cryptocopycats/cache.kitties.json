@@ -1,0 +1,23 @@
+{
+  "id": 334200,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-16T04:18:56.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #334200. My friends describe me as ridiculous and hairy. When no one's home, I invite my pals over and we listen to Wutang. Will you be the ranch dressing to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "320384@3",
+  "sire": "315409@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 630,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

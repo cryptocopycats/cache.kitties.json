@@ -1,0 +1,23 @@
+{
+  "id": 359236,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-18T05:25:16.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #359236. I want to live in a world where people believe the world is flat. I once dreamed of being a Foreign Film Director. Now I can be found riding the bus all day. I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "282748@7",
+  "sire": "221189@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6123,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

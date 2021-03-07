@@ -1,0 +1,28 @@
+{
+  "id": 399132,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-24T03:07:52.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #399132. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found despicable or siring for status. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "389836@5",
+  "sire": "186252@6",
+  "children": [
+    "399208@8",
+    "401011@8",
+    "404387@8",
+    "414527@8",
+    "1238012@8",
+    "1967401@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 841,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

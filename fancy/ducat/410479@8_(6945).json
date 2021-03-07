@@ -1,0 +1,23 @@
+{
+  "id": 410479,
+  "name": "DuckyMcDuckerson",
+  "generation": 8,
+  "created_at": "2017-12-26T02:52:15.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm DuckyMcDuckerson. I've never told anyone this, but I once cleaned a dog. I once got in a fight with a rooster, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "394826@7",
+  "sire": "120309@7",
+  "children": [
+    "411419@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6945,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

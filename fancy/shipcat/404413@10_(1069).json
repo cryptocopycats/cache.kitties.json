@@ -1,0 +1,23 @@
+{
+  "id": 404413,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-24T22:28:13.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #404413. All you need to know about me is I hate hamburgers with a passion. I'm often described as gullible, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "395589@8",
+  "sire": "388252@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1069,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

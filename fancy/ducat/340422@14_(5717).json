@@ -1,0 +1,23 @@
+{
+  "id": 340422,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-16T14:56:08.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #340422. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of taking selfies, steak, and tricking babies. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "296186@13",
+  "sire": "197136@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5717,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

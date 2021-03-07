@@ -1,0 +1,23 @@
+{
+  "id": 324885,
+  "name": "Virgin Utya",
+  "generation": 9,
+  "created_at": "2017-12-15T12:33:39.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Virgin Utya. I've never told anyone this, but I once snuggled a dog. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "310470@8",
+  "sire": "315719@7",
+  "children": [
+    "327539@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5376,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

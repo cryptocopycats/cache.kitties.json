@@ -1,0 +1,27 @@
+{
+  "id": 409055,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-25T20:40:22.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Kitty #409055. I'm a Spin Instructor  by day, and I like swiping left by night. Some people say I'm the Michael Scott of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "399265@7",
+  "sire": "408489@7",
+  "children": [
+    "409557@9",
+    "410666@9",
+    "432098@9",
+    "434566@9",
+    "436343@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1170,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

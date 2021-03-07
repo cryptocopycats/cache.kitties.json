@@ -1,0 +1,25 @@
+{
+  "id": 370936,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-19T13:28:59.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! My name's RARE BIRD! Fancy!. I once peed on Amelia Earhart's cat. They had it coming. I once dreamed of being a Private Dancer . Now I can be found running a podcast all day. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "364193@3",
+  "sire": "287901@3",
+  "children": [
+    "386986@5",
+    "400507@5",
+    "499683@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6345,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

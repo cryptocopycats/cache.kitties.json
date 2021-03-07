@@ -1,0 +1,23 @@
+{
+  "id": 351069,
+  "name": "A DOUBLE FANCY MISTLETOE",
+  "generation": 9,
+  "created_at": "2017-12-17T12:25:51.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm A DOUBLE FANCY MISTLETOE. All you need to know about me is I hate lasagna with a passion. I once got in a fight with a chimpanzee, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "350787@8",
+  "sire": "296880@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 766,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

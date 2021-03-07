@@ -1,0 +1,23 @@
+{
+  "id": 331535,
+  "name": "It's a bird, It's a cat. 🐾 🕊",
+  "generation": 7,
+  "created_at": "2017-12-16T00:02:04.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm It's a bird, It's a cat. 🐾 🕊. I've never told anyone this, but I once bit a dog. I am 80% elf, 43% Private Dancer , and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "315511@6",
+  "sire": "315595@6",
+  "children": [
+    "336072@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5518,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

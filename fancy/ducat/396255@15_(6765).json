@@ -1,0 +1,23 @@
+{
+  "id": 396255,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-23T18:18:12.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #396255. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Confucius. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "381909@8",
+  "sire": "347376@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6765,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

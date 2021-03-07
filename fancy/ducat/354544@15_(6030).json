@@ -1,0 +1,23 @@
+{
+  "id": 354544,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-17T20:01:28.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #354544. I'm often referred to as the Peter Griffin of the group. I would give it all up to star in a soap opera. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "206963@14",
+  "sire": "204459@10",
+  "children": [
+    "387624@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6030,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

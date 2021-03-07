@@ -1,0 +1,27 @@
+{
+  "id": 324432,
+  "name": "6-2",
+  "generation": 6,
+  "created_at": "2017-12-15T11:45:16.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm 6-2. My friends describe me as hairy and gorgeous. My secret indulgence is chocolate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "315933@4",
+  "sire": "320672@5",
+  "children": [
+    "324568@7",
+    "325527@7",
+    "330185@7",
+    "335016@7",
+    "336207@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 505,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

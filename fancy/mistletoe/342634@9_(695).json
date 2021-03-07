@@ -1,0 +1,23 @@
+{
+  "id": 342634,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-16T19:12:51.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #342634. I'm a Train Conductor by day, and I like people-watching by night. I was voted most likely to work at NASA in college. I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327064@7",
+  "sire": "327029@8",
+  "children": [
+    "351964@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 695,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

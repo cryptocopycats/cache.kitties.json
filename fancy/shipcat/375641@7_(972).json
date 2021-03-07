@@ -1,0 +1,28 @@
+{
+  "id": 375641,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-20T04:48:09.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #375641. In high school, I was voted most likely to work at NASA. In my free time, I can usually be found stinky or summoning ghosts. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "307524@6",
+  "sire": "305202@6",
+  "children": [
+    "395736@8",
+    "395841@10",
+    "398934@8",
+    "399408@9",
+    "403795@8",
+    "1969361@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 972,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

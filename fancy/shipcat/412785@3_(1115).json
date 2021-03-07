@@ -1,0 +1,23 @@
+{
+  "id": 412785,
+  "name": "Three Sails",
+  "generation": 3,
+  "created_at": "2017-12-26T16:26:47.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Three Sails. My friends describe me as petulant and stinky. I was voted school jock in college. I look forward to reciting poetry with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "410871@2",
+  "sire": "405364@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1115,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

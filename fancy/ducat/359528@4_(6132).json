@@ -1,0 +1,25 @@
+{
+  "id": 359528,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-18T06:02:05.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #359528. My friends describe me as raunchy and petulant. My secret indulgence is hamburgers. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308815@3",
+  "sire": "295808@3",
+  "children": [
+    "359989@9",
+    "360586@6",
+    "361272@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6132,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

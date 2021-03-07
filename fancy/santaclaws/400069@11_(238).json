@@ -1,0 +1,27 @@
+{
+  "id": 400069,
+  "name": "Santaclaws #238",
+  "generation": 11,
+  "created_at": "2017-12-24T05:43:28.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Santaclaws #238. My friends describe me as fabulous and stinky. My secret indulgence is wet food. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "371363@10",
+  "sire": "369735@10",
+  "children": [
+    "400312@12",
+    "401822@12",
+    "426428@12",
+    "549075@12",
+    "619340@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 238,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

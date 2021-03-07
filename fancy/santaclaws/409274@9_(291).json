@@ -1,0 +1,28 @@
+{
+  "id": 409274,
+  "name": "#291",
+  "generation": 9,
+  "created_at": "2017-12-25T21:27:50.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm #291. I'm a Train Conductor by day, and I like playing chess by night. I once made a labradoodle enjoy. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "360622@7",
+  "sire": "402008@8",
+  "children": [
+    "416077@10",
+    "417688@10",
+    "422064@10",
+    "428345@10",
+    "512693@10",
+    "1274067@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 291,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

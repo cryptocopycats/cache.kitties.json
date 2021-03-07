@@ -1,0 +1,26 @@
+{
+  "id": 361032,
+  "name": "MOAR MISTLETOE",
+  "generation": 5,
+  "created_at": "2017-12-18T09:33:55.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! MOAR MISTLETOE here. I'm here to enjoy tripping my owner and reciting poetry. I'm often described as gorgeous, and I own it. Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "360146@4",
+  "sire": "359996@4",
+  "children": [
+    "361860@6",
+    "384599@11",
+    "387104@6",
+    "388803@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 850,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 378535,
+  "name": "BIRDY CAT",
+  "generation": 5,
+  "created_at": "2017-12-20T19:35:29.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! BIRDY CAT here. I'm here to enjoy tricking babies and riding dirty. I once made a dog lay. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "375359@4",
+  "sire": "378250@4",
+  "children": [
+    "381642@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6463,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 347247,
+  "name": "Ducat, Gen 10! (#5,866/10,000)",
+  "generation": 10,
+  "created_at": "2017-12-17T03:45:24.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Ducat, Gen 10! (#5,866/10,000). In high school, I was voted biggest teacher's pet. I like to listen to Aretha Franklin while grooming. Don't judge me. Will you be the cinammon to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344421@9",
+  "sire": "332126@9",
+  "children": [
+    "350236@11",
+    "509739@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5866,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 369399,
+  "name": "Blue Birdie",
+  "generation": 15,
+  "created_at": "2017-12-19T07:28:23.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm Blue Birdie. I believe that one day cats will rule this planet. I was voted school jock in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "248195@4",
+  "sire": "318519@14",
+  "children": [
+    "373986@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6308,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

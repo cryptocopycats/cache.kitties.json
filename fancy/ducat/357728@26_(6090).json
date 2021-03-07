@@ -1,0 +1,23 @@
+{
+  "id": 357728,
+  "name": null,
+  "generation": 26,
+  "created_at": "2017-12-18T02:14:55.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm Kitty #357728. My friends describe me as gorgeous and petulant. When I'm not watching reality tv, I'm swiping left! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287090@25",
+  "sire": "298995@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6090,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

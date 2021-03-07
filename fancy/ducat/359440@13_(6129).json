@@ -1,0 +1,23 @@
+{
+  "id": 359440,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-18T05:50:27.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #359440. I believe that one day cats will rule this planet. I would give it all up to be on Oprah. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "331559@12",
+  "sire": "103589@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6129,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

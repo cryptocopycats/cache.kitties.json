@@ -1,0 +1,25 @@
+{
+  "id": 373223,
+  "name": "-=Mr.Claus=-",
+  "generation": 6,
+  "created_at": "2017-12-19T21:31:35.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm -=Mr.Claus=-. I'm a Culinary Sanitation Specialist by day, and I like swiping left by night. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "350346@5",
+  "sire": "236055@5",
+  "children": [
+    "380220@7",
+    "380572@7",
+    "381013@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 924,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 408231,
+  "name": "Sailor Sired Ducat 6",
+  "generation": 6,
+  "created_at": "2017-12-25T16:55:15.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Sailor Sired Ducat 6. I've never told anyone this, but I once cleaned a dog. I once got in a fight with a labradoodle, and won. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "405653@5",
+  "sire": "367561@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6915,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

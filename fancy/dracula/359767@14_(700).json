@@ -1,0 +1,23 @@
+{
+  "id": 359767,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-18T06:32:56.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #359767. All you need to know about me is I hate wet food with a passion. I once got in a fight with a labradoodle, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "86804@12",
+  "sire": "338570@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 700,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

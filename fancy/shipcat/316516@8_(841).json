@@ -1,0 +1,26 @@
+{
+  "id": 316516,
+  "name": "bonjour",
+  "generation": 8,
+  "created_at": "2017-12-14T23:34:11.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm bonjour. I'm a Spin Instructor  by day, and I like sleeping in fresh laundry by night. My friends describe me as \"preposterous.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "307132@6",
+  "sire": "306557@7",
+  "children": [
+    "317341@21",
+    "367999@9",
+    "391702@9",
+    "397727@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 841,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

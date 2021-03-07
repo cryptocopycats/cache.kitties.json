@@ -1,0 +1,29 @@
+{
+  "id": 392850,
+  "name": "Sailor 13-2",
+  "generation": 13,
+  "created_at": "2017-12-23T06:32:34.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Sailor 13-2. I once peed on King Henry VIII's cat. They had it coming. I once dreamed of being a Ventriloquist. Now I can be found reading Danielle Steele all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "267874@8",
+  "sire": "281168@12",
+  "children": [
+    "394333@14",
+    "397883@14",
+    "403816@14",
+    "405820@14",
+    "415164@14",
+    "415461@14",
+    "433380@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1026,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

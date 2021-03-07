@@ -1,0 +1,31 @@
+{
+  "id": 381397,
+  "name": "Sailor_gen4",
+  "generation": 4,
+  "created_at": "2017-12-21T05:30:57.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm Sailor_gen4. I've never told anyone this, but I once frolicked with a dog. Sometimes I daydream of a life full of shakin' dat booty, lasagna, and people-watching. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "364920@3",
+  "sire": "366425@3",
+  "children": [
+    "381995@5",
+    "383000@5",
+    "383982@5",
+    "386342@5",
+    "386368@5",
+    "391671@5",
+    "394063@5",
+    "405435@5",
+    "407873@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 988,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

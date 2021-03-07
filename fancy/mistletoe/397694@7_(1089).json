@@ -1,0 +1,26 @@
+{
+  "id": 397694,
+  "name": "Mistletoe",
+  "generation": 7,
+  "created_at": "2017-12-23T22:52:01.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Mistletoe. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "397582@6",
+  "sire": "268796@5",
+  "children": [
+    "415450@12",
+    "423939@12",
+    "525070@12",
+    "693664@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1089,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

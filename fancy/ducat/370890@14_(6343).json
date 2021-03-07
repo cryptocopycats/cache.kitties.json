@@ -1,0 +1,28 @@
+{
+  "id": 370890,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-19T13:13:03.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Kitty #370890. I've never told anyone this, but I once pranced with a dog. When no one's home, I invite my pals over and we listen to Ace of Base. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196523@12",
+  "sire": "141779@13",
+  "children": [
+    "372948@22",
+    "416966@23",
+    "427691@24",
+    "429193@23",
+    "433261@24",
+    "456918@25"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6343,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

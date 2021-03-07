@@ -1,0 +1,23 @@
+{
+  "id": 343052,
+  "name": "Duck Inn",
+  "generation": 10,
+  "created_at": "2017-12-16T19:58:08.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Duck Inn. I'm a Culinary Sanitation Specialist by day, and I like braiding people's hair by night. I once made a rhino leap. I hope we can be gorgeous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "332126@9",
+  "sire": "341387@9",
+  "children": [
+    "510423@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5781,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

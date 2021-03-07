@@ -1,0 +1,29 @@
+{
+  "id": 361442,
+  "name": "Mr. Derp",
+  "generation": 9,
+  "created_at": "2017-12-18T10:32:47.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Mr. Derp. I'm a professional Private Dancer  and I love apple pie. I once made a dog scare. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "360171@6",
+  "sire": "360645@8",
+  "children": [
+    "375700@13",
+    "389100@10",
+    "434354@10",
+    "505413@14",
+    "525302@14",
+    "563902@23",
+    "575012@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6166,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

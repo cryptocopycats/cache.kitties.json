@@ -1,0 +1,24 @@
+{
+  "id": 368723,
+  "name": "GG5-Kitty",
+  "generation": 10,
+  "created_at": "2017-12-19T05:18:50.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm GG5-Kitty. My friends describe me as gullible and fabulous. I was voted most likely to work at NASA in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "210121@9",
+  "sire": "366468@8",
+  "children": [
+    "373907@12",
+    "379932@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6297,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

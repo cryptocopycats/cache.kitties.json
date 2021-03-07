@@ -1,0 +1,23 @@
+{
+  "id": 412339,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-26T13:15:49.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! My name's Kitty #412339. I once peed on King Henry VIII's cat. They had it coming. I am 51% elf, 82% Mad Scientist, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "343138@4",
+  "sire": "401258@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1195,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

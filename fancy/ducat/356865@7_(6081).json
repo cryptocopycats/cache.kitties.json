@@ -1,0 +1,25 @@
+{
+  "id": 356865,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-18T00:29:45.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #356865. I'm often referred to as the Dwight Schrute of the group. My friends describe me as \"annoying.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "210820@6",
+  "sire": "355963@5",
+  "children": [
+    "359549@12",
+    "1341121@8",
+    "1341333@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6081,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

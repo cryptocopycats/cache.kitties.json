@@ -1,0 +1,26 @@
+{
+  "id": 316469,
+  "name": "圣诞老喵26",
+  "generation": 8,
+  "created_at": "2017-12-14T23:30:57.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm 圣诞老喵26. All you need to know about me is I hate apple pie with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Our friendship will be raunchy, ridiculous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "305908@7",
+  "sire": "301626@7",
+  "children": [
+    "318675@10",
+    "320742@10",
+    "326643@10",
+    "328783@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 26,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

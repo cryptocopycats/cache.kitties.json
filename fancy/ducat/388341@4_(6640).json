@@ -1,0 +1,24 @@
+{
+  "id": 388341,
+  "name": "vj",
+  "generation": 4,
+  "created_at": "2017-12-22T13:21:07.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm vj. I'm a professional Dispensary Clerk and I love hamburgers. I was voted biggest teacher's pet in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "348832@3",
+  "sire": "372633@3",
+  "children": [
+    "394091@5",
+    "403919@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6640,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

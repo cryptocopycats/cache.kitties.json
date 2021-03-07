@@ -1,0 +1,23 @@
+{
+  "id": 318550,
+  "name": "Pure DuCat",
+  "generation": 13,
+  "created_at": "2017-12-15T02:09:51.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Pure DuCat. I'm a professional Ventriloquist and I love ice cream. I was voted biggest teacher's pet in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "261693@9",
+  "sire": "287184@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5238,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

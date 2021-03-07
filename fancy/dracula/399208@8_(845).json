@@ -1,0 +1,23 @@
+{
+  "id": 399208,
+  "name": "Count Dracula VIII",
+  "generation": 8,
+  "created_at": "2017-12-24T03:21:48.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Count Dracula VIII. My friends describe me as fabulous and preposterous. My friends describe me as \"ridiculous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "399077@7",
+  "sire": "399132@7",
+  "children": [
+    "401016@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 845,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

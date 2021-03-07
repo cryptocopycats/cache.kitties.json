@@ -1,0 +1,25 @@
+{
+  "id": 332047,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-16T00:42:22.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! My name's Kitty #332047. I once peed on Mother Theresa's cat. They had it coming. I once made a rabbit ignore. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "319628@8",
+  "sire": "326882@12",
+  "children": [
+    "338902@15",
+    "340801@15",
+    "928807@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5529,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 359466,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-18T05:55:07.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #359466. I believe that one day cats will rule this planet. I once made a dolphin pester. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "312487@8",
+  "sire": "278031@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6130,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

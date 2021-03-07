@@ -1,0 +1,24 @@
+{
+  "id": 405543,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 5,
+  "created_at": "2017-12-25T03:17:56.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's RARE BIRD! Fancy!. I once peed on King Henry VIII's cat. They had it coming. I am 42% troll, 50% Spin Instructor , and otherwise bad at math. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "395286@4",
+  "sire": "387042@4",
+  "children": [
+    "405659@6",
+    "405860@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6872,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

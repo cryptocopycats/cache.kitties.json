@@ -1,0 +1,27 @@
+{
+  "id": 387339,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-22T09:26:21.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! Kitty #387339 here. I'm here to enjoy glaring at the neighbour's cat and tricking babies. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be raunchy, vegan, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "382117@4",
+  "sire": "348133@4",
+  "children": [
+    "387692@8",
+    "388108@6",
+    "388350@7",
+    "422907@8",
+    "435204@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6626,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

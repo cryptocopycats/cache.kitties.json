@@ -1,0 +1,32 @@
+{
+  "id": 320421,
+  "name": "Santy Claws",
+  "generation": 9,
+  "created_at": "2017-12-15T04:59:22.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! I'm Santy Claws. I'm often referred to as the Jon Snow of the group. I put pickles on everything. Like, everything: hot dogs, steak—everything! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "289714@7",
+  "sire": "319033@8",
+  "children": [
+    "326432@10",
+    "331537@10",
+    "343542@12",
+    "343982@13",
+    "351821@12",
+    "353897@12",
+    "381564@12",
+    "392986@13",
+    "465994@10",
+    "483874@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 472,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

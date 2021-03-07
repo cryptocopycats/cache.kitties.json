@@ -1,0 +1,26 @@
+{
+  "id": 358749,
+  "name": "Jingle Bells",
+  "generation": 8,
+  "created_at": "2017-12-18T04:27:31.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! My name's Jingle Bells. I once peed on Marie Antoinette's cat. They had it coming. In my free time, I can usually be found petulant or watching reality tv. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "326235@7",
+  "sire": "349178@7",
+  "children": [
+    "364887@9",
+    "366792@9",
+    "410666@9",
+    "437011@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 827,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 333316,
+  "name": "1st Generation Pure Bred",
+  "generation": 10,
+  "created_at": "2017-12-16T02:55:08.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm 1st Generation Pure Bred. I believe the world is flat. When no one's home, I invite my pals over and we listen to Aretha Franklin. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "81365@9",
+  "sire": "316896@9",
+  "children": [
+    "347431@11",
+    "349421@12",
+    "352088@11",
+    "355695@12",
+    "375867@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5553,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

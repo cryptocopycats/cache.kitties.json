@@ -1,0 +1,26 @@
+{
+  "id": 366712,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-18T23:57:14.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #366712. I'm a Dogwalker by day, and I like summoning ghosts by night. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "350212@6",
+  "sire": "344442@5",
+  "children": [
+    "369355@8",
+    "369969@8",
+    "416072@10",
+    "421817@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6267,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

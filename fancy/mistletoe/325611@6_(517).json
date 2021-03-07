@@ -1,0 +1,28 @@
+{
+  "id": 325611,
+  "name": "Le chat de Johnny Halliday",
+  "generation": 6,
+  "created_at": "2017-12-15T13:54:47.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! Le chat de Johnny Halliday here. I'm here to enjoy picking flowers and licking doorknobs. When no one's home, I invite my pals over and we listen to Mariah Carey. Our friendship will be vegan, seductive, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "312403@5",
+  "sire": "262477@4",
+  "children": [
+    "331169@7",
+    "333234@7",
+    "335605@7",
+    "344400@7",
+    "541595@9",
+    "544473@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 517,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

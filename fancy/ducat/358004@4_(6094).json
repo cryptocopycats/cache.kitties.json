@@ -1,0 +1,25 @@
+{
+  "id": 358004,
+  "name": "Cat Bird Takes The Lead",
+  "generation": 4,
+  "created_at": "2017-12-18T02:50:03.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Cat Bird Takes The Lead. I enjoy staying woke, eating lasagna, and sitting on your computer. I am 11% troll, 21% Dispensary Clerk, and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "354197@3",
+  "sire": "328819@2",
+  "children": [
+    "362949@5",
+    "363958@7",
+    "364753@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6094,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

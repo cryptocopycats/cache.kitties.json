@@ -1,0 +1,25 @@
+{
+  "id": 329847,
+  "name": "🎄Kitty🎄",
+  "generation": 7,
+  "created_at": "2017-12-15T21:37:37.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm 🎄Kitty🎄. I'm a professional Train Conductor and I love lasagna. I like to listen to Gloria Estefan while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321917@6",
+  "sire": "326196@6",
+  "children": [
+    "360998@8",
+    "369316@8",
+    "392831@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 583,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

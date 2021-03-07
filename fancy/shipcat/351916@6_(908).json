@@ -1,0 +1,28 @@
+{
+  "id": 351916,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T14:30:36.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #351916. I enjoy shakin' dat booty, chasing red dots, and sitting on your computer. When I'm not siring for status, I'm prank-calling celebrities! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "56716@5",
+  "sire": "269091@5",
+  "children": [
+    "352867@7",
+    "354908@7",
+    "355689@7",
+    "362481@7",
+    "364806@7",
+    "375638@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 908,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

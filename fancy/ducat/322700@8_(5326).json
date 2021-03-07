@@ -1,0 +1,25 @@
+{
+  "id": 322700,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-15T08:42:22.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! Kitty #322700 here. I'm here to enjoy riding dirty and reading garfield. I put ranch dressing on everything. Like, everything: hot dogs, ice cream—everything! I hope we can be seductive friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "64992@7",
+  "sire": "266847@7",
+  "children": [
+    "386465@9",
+    "394944@10",
+    "395877@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5326,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

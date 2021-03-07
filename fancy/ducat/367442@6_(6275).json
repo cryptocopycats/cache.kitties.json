@@ -1,0 +1,23 @@
+{
+  "id": 367442,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-19T01:46:46.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #367442. All you need to know about me is I hate apple pie with a passion. When I'm not talking about how much I lift, I'm sleeping in fresh laundry! I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "310435@5",
+  "sire": "344442@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6275,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

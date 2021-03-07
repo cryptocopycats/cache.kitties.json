@@ -1,0 +1,23 @@
+{
+  "id": 384242,
+  "name": null,
+  "generation": 25,
+  "created_at": "2017-12-21T21:45:45.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #384242. I'm often referred to as the Marge Simpson of the group. I like to listen to Beyoncé while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "352863@24",
+  "sire": "353179@15",
+  "children": [
+    "436042@26"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6575,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

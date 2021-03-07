@@ -1,0 +1,26 @@
+{
+  "id": 405678,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 5,
+  "created_at": "2017-12-25T04:01:33.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm RARE BIRD! Fancy!. I'm a professional Foreign Film Director and I love apple pie. In my free time, I can usually be found raunchy or summoning ghosts. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "400201@4",
+  "sire": "362485@4",
+  "children": [
+    "419619@6",
+    "421493@6",
+    "422260@6",
+    "1364702@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6876,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

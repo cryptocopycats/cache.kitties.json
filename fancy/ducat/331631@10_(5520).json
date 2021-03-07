@@ -1,0 +1,23 @@
+{
+  "id": 331631,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-16T00:10:46.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #331631. All you need to know about me is I hate steak with a passion. I once dreamed of being a Mad Scientist. Now I can be found watching reality tv all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308104@7",
+  "sire": "311435@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5520,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

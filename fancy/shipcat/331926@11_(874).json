@@ -1,0 +1,27 @@
+{
+  "id": 331926,
+  "name": "CSic",
+  "generation": 11,
+  "created_at": "2017-12-16T00:34:03.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm CSic. I enjoy eating lasagna, grooming, and being a nevernude. My great-great-great-great-great-great grandkitty lived with Princess Diana. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "269680@10",
+  "sire": "313730@6",
+  "children": [
+    "350324@12",
+    "368440@12",
+    "370509@18",
+    "375577@19",
+    "561496@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 874,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

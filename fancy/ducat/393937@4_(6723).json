@@ -1,0 +1,23 @@
+{
+  "id": 393937,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-23T10:30:13.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #393937. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306177@3",
+  "sire": "136289@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6723,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

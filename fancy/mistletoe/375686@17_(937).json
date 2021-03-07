@@ -1,0 +1,23 @@
+{
+  "id": 375686,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-20T04:59:22.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #375686. I want to live in a world where people believe that one day cats will rule this planet. I like to listen to Ace of Base while grooming. Don't judge me. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "63494@16",
+  "sire": "327059@12",
+  "children": [
+    "399397@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 937,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

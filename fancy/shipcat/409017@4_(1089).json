@@ -1,0 +1,24 @@
+{
+  "id": 409017,
+  "name": "GEN:4 Shipcat",
+  "generation": 4,
+  "created_at": "2017-12-25T20:29:13.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm GEN:4 Shipcat. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "397324@3",
+  "sire": "399356@3",
+  "children": [
+    "495215@5",
+    "534338@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1089,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

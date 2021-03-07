@@ -1,0 +1,27 @@
+{
+  "id": 317263,
+  "name": "Count De'Montecristo",
+  "generation": 8,
+  "created_at": "2017-12-15T00:33:00.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Count De'Montecristo. I've never told anyone this, but I once pranced with a dog. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "275233@7",
+  "sire": "234386@5",
+  "children": [
+    "326482@11",
+    "333880@12",
+    "336497@12",
+    "344599@11",
+    "348359@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5205,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

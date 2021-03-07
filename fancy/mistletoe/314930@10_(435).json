@@ -1,0 +1,29 @@
+{
+  "id": 314930,
+  "name": "CrowKiller",
+  "generation": 10,
+  "created_at": "2017-12-14T21:31:16.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm CrowKiller. I'm often referred to as the Hermione Granger of the group. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found jump-roping all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "285563@9",
+  "sire": "284945@9",
+  "children": [
+    "364315@11",
+    "366155@11",
+    "368029@12",
+    "371421@11",
+    "459219@11",
+    "461922@11",
+    "477398@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 435,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

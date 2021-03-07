@@ -1,0 +1,32 @@
+{
+  "id": 345967,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T01:04:30.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #345967. I'm a professional Foreign Film Director and I love salad. It's not common knowledge, but my ancestry connects me to Marie Antoinette. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "302952@5",
+  "sire": "310991@5",
+  "children": [
+    "346940@7",
+    "351327@7",
+    "360068@18",
+    "384823@9",
+    "386329@9",
+    "391071@9",
+    "396571@9",
+    "406331@9",
+    "432454@11",
+    "433464@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 717,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

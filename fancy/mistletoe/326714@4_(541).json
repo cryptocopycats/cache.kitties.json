@@ -1,0 +1,26 @@
+{
+  "id": 326714,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-15T16:31:25.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! Kitty #326714 here. I'm here to enjoy staying woke and picking flowers. When no one's home, I invite my pals over and we listen to Aretha Franklin. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "309964@3",
+  "sire": "309501@3",
+  "children": [
+    "401774@5",
+    "404958@7",
+    "406223@5",
+    "549621@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 541,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

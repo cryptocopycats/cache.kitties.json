@@ -1,0 +1,23 @@
+{
+  "id": 368920,
+  "name": "Topaz Fancy Cat",
+  "generation": 7,
+  "created_at": "2017-12-19T05:57:51.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Topaz Fancy Cat. I'm often referred to as the Hermione Granger of the group. In my free time, I can usually be found ridiculous or prank-calling celebrities. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "325817@6",
+  "sire": "325824@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6300,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

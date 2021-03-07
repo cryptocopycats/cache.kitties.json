@@ -1,0 +1,26 @@
+{
+  "id": 356960,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-18T00:40:21.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #356960. In high school, I was voted biggest teacher's pet. I once made a moose sulk. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "356633@7",
+  "sire": "356627@7",
+  "children": [
+    "361815@12",
+    "362008@9",
+    "364359@13",
+    "368960@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 691,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

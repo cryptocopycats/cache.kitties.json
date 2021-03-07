@@ -1,0 +1,23 @@
+{
+  "id": 410013,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-26T00:35:35.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #410013. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "407897@8",
+  "sire": "406209@7",
+  "children": [
+    "411716@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6940,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

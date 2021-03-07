@@ -1,0 +1,23 @@
+{
+  "id": 339792,
+  "name": "Flupper",
+  "generation": 6,
+  "created_at": "2017-12-16T13:45:40.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Flupper. I'm a professional Skydiving Instructor and I love wet food. I once dreamed of being a Dispensary Clerk. Now I can be found talking about how much I lift all day. Our friendship will be vegan, ridiculous, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "339485@3",
+  "sire": "114711@5",
+  "children": [
+    "339970@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5705,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

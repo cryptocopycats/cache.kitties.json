@@ -1,0 +1,23 @@
+{
+  "id": 380965,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-21T03:48:38.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #380965. I believe that one day cats will rule this planet. My secret indulgence is cantaloupe. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "211361@11",
+  "sire": "355918@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6500,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

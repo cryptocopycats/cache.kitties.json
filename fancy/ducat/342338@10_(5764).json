@@ -1,0 +1,28 @@
+{
+  "id": 342338,
+  "name": "kk",
+  "generation": 10,
+  "created_at": "2017-12-16T18:35:42.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm kk. I'm often referred to as the Cersei Lannister of the group. My friends describe me as \"smelly.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236818@7",
+  "sire": "240874@9",
+  "children": [
+    "349316@13",
+    "351387@17",
+    "375590@13",
+    "382103@13",
+    "391493@21",
+    "405586@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5764,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

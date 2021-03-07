@@ -1,0 +1,27 @@
+{
+  "id": 361005,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 3,
+  "created_at": "2017-12-18T09:29:48.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm RARE BIRD! Fancy!. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Princess Diana. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278671@2",
+  "sire": "345952@2",
+  "children": [
+    "361458@4",
+    "362485@4",
+    "363147@4",
+    "410874@4",
+    "460421@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6158,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 335607,
+  "name": "Bluefeather",
+  "generation": 8,
+  "created_at": "2017-12-16T06:28:55.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Bluefeather. I'm a Skydiving Instructor by day, and I like summoning ghosts by night. I once dreamed of being a Private Dancer . Now I can be found swiping right all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "317570@6",
+  "sire": "283871@7",
+  "children": [
+    "336025@9",
+    "338516@9",
+    "339074@9",
+    "346595@9",
+    "412944@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5610,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

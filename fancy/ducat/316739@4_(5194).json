@@ -1,0 +1,23 @@
+{
+  "id": 316739,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-14T23:49:18.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #316739. I'm often referred to as the Homer Simpson of the group. I once got in a fight with a dog, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "314402@3",
+  "sire": "302467@3",
+  "children": [
+    "316880@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5194,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

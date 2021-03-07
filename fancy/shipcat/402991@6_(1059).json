@@ -1,0 +1,23 @@
+{
+  "id": 402991,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T17:23:25.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #402991. I'm a professional Culinary Sanitation Specialist and I love chocolate. I'm often described as vegan, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "388578@5",
+  "sire": "392270@5",
+  "children": [
+    "403265@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1059,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

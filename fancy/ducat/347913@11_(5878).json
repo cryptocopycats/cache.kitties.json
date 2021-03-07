@@ -1,0 +1,24 @@
+{
+  "id": 347913,
+  "name": "Duck Bill #5878 G11",
+  "generation": 11,
+  "created_at": "2017-12-17T05:05:50.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Duck Bill #5878 G11. My friends describe me as prickly and voluptuous. I once dreamed of being a Private Dancer . Now I can be found sleeping in fresh laundry all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "337605@10",
+  "sire": "341387@9",
+  "children": [
+    "766884@12",
+    "776775@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5878,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

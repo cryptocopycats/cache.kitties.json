@@ -1,0 +1,23 @@
+{
+  "id": 365353,
+  "name": "Darling DuCat",
+  "generation": 9,
+  "created_at": "2017-12-18T20:39:34.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Darling DuCat. In high school, I was voted biggest teacher's pet. I would give it all up for a Chanel purse. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "304430@8",
+  "sire": "324431@8",
+  "children": [
+    "367583@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6249,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

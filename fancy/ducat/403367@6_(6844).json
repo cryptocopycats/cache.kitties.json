@@ -1,0 +1,24 @@
+{
+  "id": 403367,
+  "name": "Ducat G6 Virgin",
+  "generation": 6,
+  "created_at": "2017-12-24T18:37:27.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Ducat G6 Virgin. In high school, I was voted school jock. I once made a rooster enjoy. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "398209@5",
+  "sire": "304201@5",
+  "children": [
+    "403482@7",
+    "405145@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6844,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

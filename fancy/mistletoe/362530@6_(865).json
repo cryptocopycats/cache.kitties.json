@@ -1,0 +1,23 @@
+{
+  "id": 362530,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-18T13:26:22.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #362530. I'm often referred to as the Dwight Schrute of the group. My friends describe me as \"gullible.\" It's... accurate. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "298151@5",
+  "sire": "271585@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 865,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

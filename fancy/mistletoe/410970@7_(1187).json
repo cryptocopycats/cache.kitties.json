@@ -1,0 +1,25 @@
+{
+  "id": 410970,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-26T05:19:36.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #410970. My friends describe me as voluptuous and despicable. I would give it all up for a Chanel purse. Our friendship will be voluptuous, despicable, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "298190@6",
+  "sire": "397330@6",
+  "children": [
+    "414258@8",
+    "415201@8",
+    "435216@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1187,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

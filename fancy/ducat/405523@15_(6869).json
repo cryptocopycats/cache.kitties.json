@@ -1,0 +1,25 @@
+{
+  "id": 405523,
+  "name": "Shae",
+  "generation": 15,
+  "created_at": "2017-12-25T03:12:48.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Shae. I've never told anyone this, but I once cleaned a dog. I was voted most likely to work at NASA in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "404615@14",
+  "sire": "384698@12",
+  "children": [
+    "414835@16",
+    "417192@16",
+    "420490@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6869,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

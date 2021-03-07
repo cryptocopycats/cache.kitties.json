@@ -1,0 +1,23 @@
+{
+  "id": 341226,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-16T16:33:36.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! Kitty #341226 here. I'm here to enjoy licking doorknobs and picking on mice. When I'm not watching reality tv, I'm practicing witchcraft! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "324709@7",
+  "sire": "338220@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5737,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

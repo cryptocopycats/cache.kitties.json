@@ -1,0 +1,33 @@
+{
+  "id": 408855,
+  "name": "Purrmas 1169",
+  "generation": 6,
+  "created_at": "2017-12-25T19:48:05.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Purrmas 1169. I'm a professional Culinary Sanitation Specialist and I love wet food. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "408411@5",
+  "sire": "408416@4",
+  "children": [
+    "408923@7",
+    "409310@7",
+    "409596@7",
+    "411973@7",
+    "417138@7",
+    "436059@7",
+    "446007@7",
+    "448652@7",
+    "480347@7",
+    "502308@7",
+    "614111@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1169,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

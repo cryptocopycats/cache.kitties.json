@@ -1,0 +1,32 @@
+{
+  "id": 351981,
+  "name": "四号 5代吸血鬼种猫 351981",
+  "generation": 5,
+  "created_at": "2017-12-17T14:38:48.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm 四号 5代吸血鬼种猫 351981. All you need to know about me is I hate salad with a passion. I once dreamed of being a Aerobics Athlete . Now I can be found riding the bus all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "315416@4",
+  "sire": "314565@4",
+  "children": [
+    "398325@6",
+    "399203@6",
+    "399865@6",
+    "400538@6",
+    "402402@6",
+    "405450@6",
+    "413081@6",
+    "417792@6",
+    "435722@6",
+    "446811@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 670,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

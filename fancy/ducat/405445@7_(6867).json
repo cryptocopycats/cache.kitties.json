@@ -1,0 +1,26 @@
+{
+  "id": 405445,
+  "name": "Bird of Prey",
+  "generation": 7,
+  "created_at": "2017-12-25T02:53:36.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Bird of Prey. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of taking selfies, wet food, and riding the bus. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "366869@6",
+  "sire": "378250@4",
+  "children": [
+    "419427@8",
+    "423628@8",
+    "425034@8",
+    "426104@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6867,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

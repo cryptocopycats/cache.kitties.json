@@ -1,0 +1,23 @@
+{
+  "id": 395804,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-23T16:57:24.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! My name's Kitty #395804. I once peed on Princess Diana's cat. They had it coming. I like to listen to Metallica while grooming. Don't judge me. Will you be the pickles to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "362695@4",
+  "sire": "323847@4",
+  "children": [
+    "1993435@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6763,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

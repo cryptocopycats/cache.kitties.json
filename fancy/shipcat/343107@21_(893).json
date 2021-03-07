@@ -1,0 +1,23 @@
+{
+  "id": 343107,
+  "name": "Hoentje",
+  "generation": 21,
+  "created_at": "2017-12-16T20:03:22.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Hoentje. In high school, I was voted school jock. I put wasabi on everything. Like, everything: hot dogs, chocolate—everything! Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "229144@20",
+  "sire": "313436@6",
+  "children": [
+    "554514@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 893,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

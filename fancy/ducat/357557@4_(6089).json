@@ -1,0 +1,24 @@
+{
+  "id": 357557,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-18T01:51:33.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm RARE BIRD! Fancy!. I'm a Train Conductor by day, and I like sleeping in fresh laundry by night. I once made a dolphin dance. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344359@3",
+  "sire": "306509@3",
+  "children": [
+    "357905@5",
+    "363972@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6089,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

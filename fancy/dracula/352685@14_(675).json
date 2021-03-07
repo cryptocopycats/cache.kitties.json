@@ -1,0 +1,28 @@
+{
+  "id": 352685,
+  "name": "Bloody Baron",
+  "generation": 14,
+  "created_at": "2017-12-17T16:09:29.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Bloody Baron. I enjoy hitting on yo' man, grooming, and taking selfies. I'm often described as prickly, and I own it. I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "300376@13",
+  "sire": "307180@4",
+  "children": [
+    "354059@15",
+    "358958@15",
+    "366420@15",
+    "387223@18",
+    "401203@15",
+    "414365@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 675,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

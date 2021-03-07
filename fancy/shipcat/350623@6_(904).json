@@ -1,0 +1,28 @@
+{
+  "id": 350623,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T11:16:05.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! Kitty #350623 here. I'm here to enjoy sitting on your computer and breakdancing. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Will you be the pickles to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "206604@5",
+  "sire": "279337@5",
+  "children": [
+    "352867@7",
+    "354908@7",
+    "355689@7",
+    "362481@7",
+    "364806@7",
+    "375638@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 904,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

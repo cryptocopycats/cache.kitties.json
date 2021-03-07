@@ -1,0 +1,32 @@
+{
+  "id": 367028,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-19T00:39:44.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #367028. I enjoy reading garfield, taking selfies, and eating until I loathe myself. My secret indulgence is cantaloupe. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "364470@8",
+  "sire": "156983@10",
+  "children": [
+    "375192@17",
+    "378053@23",
+    "387894@20",
+    "407177@26",
+    "417161@19",
+    "417866@24",
+    "446134@25",
+    "484852@19",
+    "972781@12",
+    "1096075@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 725,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

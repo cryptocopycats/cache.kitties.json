@@ -1,0 +1,23 @@
+{
+  "id": 362737,
+  "name": "Patty's Puss",
+  "generation": 3,
+  "created_at": "2017-12-18T14:05:12.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! Patty's Puss here. I'm here to enjoy watching Stranger Things and riding unicorns. I once bit a rhino. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "335575@2",
+  "sire": "333620@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 870,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

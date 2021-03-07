@@ -1,0 +1,25 @@
+{
+  "id": 361330,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-18T10:19:09.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #361330. I believe the world is flat. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "357657@4",
+  "sire": "357645@4",
+  "children": [
+    "370951@10",
+    "371054@9",
+    "433015@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 853,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

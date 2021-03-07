@@ -1,0 +1,24 @@
+{
+  "id": 335602,
+  "name": "Geneticall FANCY!",
+  "generation": 15,
+  "created_at": "2017-12-16T06:28:40.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Geneticall FANCY!. I've never told anyone this, but I once bit a dog. I once bit a platypus. I don't like to talk about it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263737@5",
+  "sire": "265125@14",
+  "children": [
+    "338151@16",
+    "346487@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5609,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

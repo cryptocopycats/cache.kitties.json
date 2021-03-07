@@ -1,0 +1,24 @@
+{
+  "id": 347977,
+  "name": "Mariah Carey",
+  "generation": 11,
+  "created_at": "2017-12-17T05:11:42.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Mariah Carey. My friends describe me as vegan and despicable. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "342563@9",
+  "sire": "326432@10",
+  "children": [
+    "356323@12",
+    "357915@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 734,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

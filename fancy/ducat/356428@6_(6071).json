@@ -1,0 +1,27 @@
+{
+  "id": 356428,
+  "name": "Ducat #6,071",
+  "generation": 6,
+  "created_at": "2017-12-17T23:42:58.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Ducat #6,071. I've never told anyone this, but I once tricked a dog. I once dreamed of being a Dispensary Clerk. Now I can be found swiping left all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "322200@5",
+  "sire": "135643@5",
+  "children": [
+    "358278@7",
+    "575259@13",
+    "575685@13",
+    "617081@7",
+    "621987@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6071,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

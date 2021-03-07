@@ -1,0 +1,24 @@
+{
+  "id": 394424,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-23T12:27:34.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #394424. In high school, I was voted school jock. I once got in a fight with a rooster, and won. I hope we can be stinky friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "354963@2",
+  "sire": "331567@3",
+  "children": [
+    "542694@5",
+    "546180@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6729,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

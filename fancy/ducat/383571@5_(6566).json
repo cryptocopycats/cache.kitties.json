@@ -1,0 +1,26 @@
+{
+  "id": 383571,
+  "name": "I Forgot How To Cat",
+  "generation": 5,
+  "created_at": "2017-12-21T19:08:19.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I Forgot How To Cat here. I'm here to enjoy fighting the patriarchy and breakdancing. My secret indulgence is apple pie. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "378390@4",
+  "sire": "348133@4",
+  "children": [
+    "500726@12",
+    "504238@7",
+    "536763@38",
+    "657368@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6566,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

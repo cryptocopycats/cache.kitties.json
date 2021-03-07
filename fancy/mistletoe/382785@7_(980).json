@@ -1,0 +1,26 @@
+{
+  "id": 382785,
+  "name": "Mistletoe",
+  "generation": 7,
+  "created_at": "2017-12-21T12:56:59.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Mistletoe. All you need to know about me is I hate salad with a passion. I once made a rabbit leap. I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "298413@6",
+  "sire": "352164@6",
+  "children": [
+    "389922@8",
+    "408862@8",
+    "418496@8",
+    "541446@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 980,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

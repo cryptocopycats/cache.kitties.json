@@ -1,0 +1,24 @@
+{
+  "id": 390972,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-23T00:06:46.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #390972. I'm a Dogwalker by day, and I like reading Danielle Steele by night. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "302857@19",
+  "sire": "357516@6",
+  "children": [
+    "411414@21",
+    "549149@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6683,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

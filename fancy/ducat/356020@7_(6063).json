@@ -1,0 +1,23 @@
+{
+  "id": 356020,
+  "name": "Squipples",
+  "generation": 7,
+  "created_at": "2017-12-17T22:53:10.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Squipples. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "273801@5",
+  "sire": "355445@6",
+  "children": [
+    "1010044@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6063,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

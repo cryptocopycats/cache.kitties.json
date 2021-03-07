@@ -1,0 +1,23 @@
+{
+  "id": 364710,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-18T19:02:21.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! Kitty #364710 here. I'm here to enjoy riding unicorns and picking on mice. My friends describe me as \"fabulous.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306113@16",
+  "sire": "325284@17",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6237,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 328018,
+  "name": "Santa Paws",
+  "generation": 3,
+  "created_at": "2017-12-15T18:55:36.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Santa Paws. In high school, I was voted school jock. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found reading Danielle Steele all day. Will you be the cinammon to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "306751@2",
+  "sire": "234334@2",
+  "children": [
+    "540340@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 564,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

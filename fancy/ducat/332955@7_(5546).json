@@ -1,0 +1,28 @@
+{
+  "id": 332955,
+  "name": "see my son,I born fancy",
+  "generation": 7,
+  "created_at": "2017-12-16T02:27:17.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm see my son,I born fancy. I've never told anyone this, but I once pranced with a dog. When no one's home, I invite my pals over and we listen to Mariah Carey. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "276025@6",
+  "sire": "143223@5",
+  "children": [
+    "540527@8",
+    "541026@8",
+    "545077@8",
+    "549739@8",
+    "557513@8",
+    "562996@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5546,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

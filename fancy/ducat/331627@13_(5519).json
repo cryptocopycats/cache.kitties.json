@@ -1,0 +1,23 @@
+{
+  "id": 331627,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-16T00:09:35.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #331627. I believe the world is flat. I put peanut butter on everything. Like, everything: hot dogs, ice cream—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "327541@12",
+  "sire": "327217@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5519,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

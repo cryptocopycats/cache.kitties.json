@@ -1,0 +1,23 @@
+{
+  "id": 359403,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-18T05:46:18.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #359403. I enjoy eating until I loathe myself, reciting poetry, and watching Stranger Things. I once dreamed of being a Dogwalker. Now I can be found running a podcast all day. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "357517@4",
+  "sire": "335953@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 834,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

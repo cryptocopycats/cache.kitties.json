@@ -1,0 +1,23 @@
+{
+  "id": 338641,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T11:30:07.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #338641. I'm often referred to as the Marge Simpson of the group. My secret indulgence is apple pie. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "305202@6",
+  "sire": "307524@6",
+  "children": [
+    "350088@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 881,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

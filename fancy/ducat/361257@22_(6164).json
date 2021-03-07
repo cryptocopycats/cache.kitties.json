@@ -1,0 +1,23 @@
+{
+  "id": 361257,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-18T10:08:05.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! Kitty #361257 here. I'm here to enjoy being a nevernude and tricking babies. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "356128@2",
+  "sire": "355448@21",
+  "children": [
+    "387018@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6164,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

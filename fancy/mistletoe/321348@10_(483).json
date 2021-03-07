@@ -1,0 +1,27 @@
+{
+  "id": 321348,
+  "name": "Sire Slaved Mistletoe",
+  "generation": 10,
+  "created_at": "2017-12-15T06:32:00.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Sire Slaved Mistletoe. In high school, I was voted school jock. I would give it all up for a Chanel purse. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "319328@9",
+  "sire": "292632@9",
+  "children": [
+    "326166@11",
+    "333813@11",
+    "336345@11",
+    "357885@11",
+    "402655@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 483,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

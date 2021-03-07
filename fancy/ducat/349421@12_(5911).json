@@ -1,0 +1,25 @@
+{
+  "id": 349421,
+  "name": "2nd Generation Pure Bred",
+  "generation": 12,
+  "created_at": "2017-12-17T08:25:17.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm 2nd Generation Pure Bred. In high school, I was voted biggest teacher's pet. When I'm not siring for status, I'm braiding people's hair! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "347968@11",
+  "sire": "333316@10",
+  "children": [
+    "350334@13",
+    "356645@13",
+    "361968@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5911,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

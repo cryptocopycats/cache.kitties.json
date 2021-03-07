@@ -1,0 +1,23 @@
+{
+  "id": 328566,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-15T19:49:46.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #328566. I'm a professional Spin Instructor  and I love cantaloupe. I would give it all up to star in a soap opera. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "324203@10",
+  "sire": "323347@9",
+  "children": [
+    "330111@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5461,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

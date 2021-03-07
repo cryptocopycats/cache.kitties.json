@@ -1,0 +1,23 @@
+{
+  "id": 396299,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-23T18:26:46.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #396299. I'm a professional Culinary Sanitation Specialist and I love wet food. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "395434@6",
+  "sire": "387617@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1082,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

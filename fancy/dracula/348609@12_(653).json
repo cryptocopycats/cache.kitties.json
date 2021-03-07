@@ -1,0 +1,24 @@
+{
+  "id": 348609,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-17T06:41:40.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #348609. I'm often referred to as the Michael Scott of the group. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "291463@11",
+  "sire": "241661@9",
+  "children": [
+    "351858@13",
+    "613595@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 653,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

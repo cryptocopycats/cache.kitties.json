@@ -1,0 +1,26 @@
+{
+  "id": 381013,
+  "name": "X-Meow",
+  "generation": 7,
+  "created_at": "2017-12-21T03:57:26.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm X-Meow. I believe that one day cats will rule this planet. I am 85% oracle, 50% Culinary Sanitation Specialist, and otherwise bad at math. I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "373223@6",
+  "sire": "361891@6",
+  "children": [
+    "382571@8",
+    "382923@8",
+    "401244@8",
+    "402401@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 971,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

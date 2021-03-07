@@ -1,0 +1,29 @@
+{
+  "id": 327420,
+  "name": "Maggie",
+  "generation": 4,
+  "created_at": "2017-12-15T17:53:20.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Maggie. In high school, I was voted school jock. I was voted school jock in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "312561@3",
+  "sire": "290030@3",
+  "children": [
+    "331339@5",
+    "332035@5",
+    "333519@5",
+    "335539@5",
+    "336871@5",
+    "354427@5",
+    "375774@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 552,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 372899,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-19T20:35:08.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! RARE BIRD! Fancy! here. I'm here to enjoy watching Stranger Things and spinning sick beats. My secret indulgence is ice cream. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "363267@3",
+  "sire": "306509@3",
+  "children": [
+    "400141@5",
+    "428645@5",
+    "498425@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6378,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

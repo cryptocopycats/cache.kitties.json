@@ -1,0 +1,27 @@
+{
+  "id": 384698,
+  "name": "SantaClaws Jr",
+  "generation": 12,
+  "created_at": "2017-12-21T23:17:51.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm SantaClaws Jr. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "383995@3",
+  "sire": "383791@11",
+  "children": [
+    "391731@13",
+    "393861@17",
+    "402433@18",
+    "405523@15",
+    "411920@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6580,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

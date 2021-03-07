@@ -1,0 +1,28 @@
+{
+  "id": 340595,
+  "name": "PurrPugwash",
+  "generation": 7,
+  "created_at": "2017-12-16T15:15:25.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's PurrPugwash. I once peed on Amelia Earhart's cat. They had it coming. I once dreamed of being a Dogwalker. Now I can be found people-watching all day. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "321962@6",
+  "sire": "307132@6",
+  "children": [
+    "344691@8",
+    "349333@8",
+    "351000@8",
+    "352191@8",
+    "376726@14",
+    "639937@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 885,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

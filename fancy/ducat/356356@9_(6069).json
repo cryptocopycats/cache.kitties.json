@@ -1,0 +1,23 @@
+{
+  "id": 356356,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-17T23:35:23.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! My name's Kitty #356356. I once peed on Princess Diana's cat. They had it coming. Sometimes I daydream of a life full of fighting for the people, hamburgers, and riverdancing. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191700@8",
+  "sire": "253107@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6069,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

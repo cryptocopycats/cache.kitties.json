@@ -1,0 +1,23 @@
+{
+  "id": 318009,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-15T01:27:47.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #318009. I enjoy staying woke, breakdancing, and chasing red dots. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132530@9",
+  "sire": "184317@8",
+  "children": [
+    "343926@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5227,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 398189,
+  "name": "Al Bundy",
+  "generation": 10,
+  "created_at": "2017-12-24T00:12:13.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Al Bundy. I'm a Spin Instructor  by day, and I like jump-roping by night. My friends describe me as \"stinky.\" It's... accurate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "397961@9",
+  "sire": "392570@9",
+  "children": [
+    "415720@11",
+    "485126@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1091,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

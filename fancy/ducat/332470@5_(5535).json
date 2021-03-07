@@ -1,0 +1,25 @@
+{
+  "id": 332470,
+  "name": "Gen5 virgin DuCat",
+  "generation": 5,
+  "created_at": "2017-12-16T01:21:03.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! Gen5 virgin DuCat here. I'm here to enjoy tricking babies and breakdancing. My secret indulgence is cantaloupe. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "323011@4",
+  "sire": "222620@4",
+  "children": [
+    "340584@6",
+    "345129@6",
+    "348187@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5535,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

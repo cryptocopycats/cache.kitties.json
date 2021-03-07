@@ -1,0 +1,25 @@
+{
+  "id": 316119,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-14T22:59:33.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #316119. I'm a professional Dogwalker and I love salad. I once dreamed of being a Mad Scientist. Now I can be found pole dancing all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "49369@5",
+  "sire": "235551@5",
+  "children": [
+    "316453@7",
+    "321515@11",
+    "323014@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 839,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

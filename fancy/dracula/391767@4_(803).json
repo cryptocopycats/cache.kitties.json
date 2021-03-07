@@ -1,0 +1,23 @@
+{
+  "id": 391767,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-23T02:44:26.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's Kitty #391767. I once peed on John F. Kennedy Jr.'s cat. They had it coming. Some people say I'm the Jon Snow of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "379842@3",
+  "sire": "387005@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 803,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

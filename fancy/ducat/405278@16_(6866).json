@@ -1,0 +1,26 @@
+{
+  "id": 405278,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-25T02:08:21.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Kitty #405278. In high school, I was voted biggest teacher's pet. I was voted biggest teacher's pet in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "398780@15",
+  "sire": "394889@15",
+  "children": [
+    "409288@17",
+    "411423@17",
+    "426280@17",
+    "455460@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6866,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 408835,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-25T19:41:18.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! I'm Kitty #408835. I believe that one day cats will rule this planet. When I'm not reading Danielle Steele, I'm people-watching! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "399910@9",
+  "sire": "401077@9",
+  "children": [
+    "411025@15",
+    "412881@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1167,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

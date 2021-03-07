@@ -1,0 +1,25 @@
+{
+  "id": 341244,
+  "name": "DucatFirstBorn",
+  "generation": 8,
+  "created_at": "2017-12-16T16:35:08.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm DucatFirstBorn. I believe that one day cats will rule this planet. I put ranch dressing on everything. Like, everything: hot dogs, salad—everything! Will you be the pickles to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "340252@7",
+  "sire": "333425@5",
+  "children": [
+    "342530@9",
+    "344218@10",
+    "391395@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5740,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 380583,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-21T02:26:45.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #380583. I'm often referred to as the Niles Crane of the group. When no one's home, I invite my pals over and we listen to Michael Bolton. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "135981@9",
+  "sire": "373959@8",
+  "children": [
+    "381536@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6496,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

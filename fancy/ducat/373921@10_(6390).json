@@ -1,0 +1,25 @@
+{
+  "id": 373921,
+  "name": "Professor Sky",
+  "generation": 10,
+  "created_at": "2017-12-19T23:05:04.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Professor Sky. I'm a professional Skydiving Instructor and I love ice cream. I'm often described as seductive, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "358541@9",
+  "sire": "334521@5",
+  "children": [
+    "374491@11",
+    "383104@11",
+    "387180@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6390,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

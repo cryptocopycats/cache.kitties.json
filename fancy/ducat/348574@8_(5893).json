@@ -1,0 +1,26 @@
+{
+  "id": 348574,
+  "name": "Hairy Potter",
+  "generation": 8,
+  "created_at": "2017-12-17T06:33:12.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Hairy Potter. My friends describe me as ridiculous and prickly. I like to listen to Aretha Franklin while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "155873@7",
+  "sire": "208115@4",
+  "children": [
+    "350446@9",
+    "351278@10",
+    "355060@10",
+    "438657@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5893,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

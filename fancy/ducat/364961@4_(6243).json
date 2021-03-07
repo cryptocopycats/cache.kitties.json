@@ -1,0 +1,25 @@
+{
+  "id": 364961,
+  "name": "Oh You Fancy Huh? /",
+  "generation": 4,
+  "created_at": "2017-12-18T19:41:58.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Oh You Fancy Huh? /. In high school, I was voted most likely to work at NASA. My secret indulgence is cantaloupe. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278235@3",
+  "sire": "274013@3",
+  "children": [
+    "370802@5",
+    "372466@5",
+    "436655@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6243,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 328903,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-15T20:14:22.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #328903. I'm often referred to as the Peter Griffin of the group. I was voted school jock in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270236@5",
+  "sire": "65926@10",
+  "children": [
+    "339224@12",
+    "348797@19",
+    "352445@19",
+    "397687@13",
+    "412803@21",
+    "520400@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5467,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

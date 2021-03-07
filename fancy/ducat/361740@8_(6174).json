@@ -1,0 +1,23 @@
+{
+  "id": 361740,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-18T11:17:58.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #361740. I enjoy eating lasagna, slappin' da bass, and taking selfies. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "286498@7",
+  "sire": "222872@5",
+  "children": [
+    "412003@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6174,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

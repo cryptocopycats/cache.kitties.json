@@ -1,0 +1,25 @@
+{
+  "id": 399274,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-24T03:41:30.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #399274. I'm often referred to as the Marge Simpson of the group. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, cereal—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "399187@4",
+  "sire": "363091@4",
+  "children": [
+    "399331@6",
+    "399447@6",
+    "403443@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 846,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

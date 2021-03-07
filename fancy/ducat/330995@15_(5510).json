@@ -1,0 +1,23 @@
+{
+  "id": 330995,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-15T23:15:04.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! Kitty #330995 here. I'm here to enjoy sitting on your computer and slappin' da bass. My friends describe me as \"ridiculous.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "329364@7",
+  "sire": "330452@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5510,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

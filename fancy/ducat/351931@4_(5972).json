@@ -1,0 +1,25 @@
+{
+  "id": 351931,
+  "name": "[MTG] WeSink",
+  "generation": 4,
+  "created_at": "2017-12-17T14:32:01.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm [MTG] WeSink. I'm a professional Private Dancer  and I love lasagna. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "346103@3",
+  "sire": "345748@3",
+  "children": [
+    "353708@6",
+    "353752@13",
+    "359633@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5972,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

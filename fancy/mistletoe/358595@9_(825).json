@@ -1,0 +1,27 @@
+{
+  "id": 358595,
+  "name": "Holly",
+  "generation": 9,
+  "created_at": "2017-12-18T04:02:20.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! My name's Holly. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Cersei Lannister of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "358299@7",
+  "sire": "347070@8",
+  "children": [
+    "359185@11",
+    "363053@11",
+    "398951@12",
+    "406669@18",
+    "548861@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 825,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

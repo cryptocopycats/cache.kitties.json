@@ -1,0 +1,25 @@
+{
+  "id": 371756,
+  "name": "First Year Fancy: Mistletoe",
+  "generation": 12,
+  "created_at": "2017-12-19T17:04:11.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! My name's First Year Fancy: Mistletoe. I once peed on Cleopatra's cat. They had it coming. I was voted most likely to work at NASA in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "366325@6",
+  "sire": "334614@11",
+  "children": [
+    "379734@13",
+    "408541@18",
+    "409902@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 918,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

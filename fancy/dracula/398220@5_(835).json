@@ -1,0 +1,29 @@
+{
+  "id": 398220,
+  "name": "一号 5代吸血鬼种猫 398220",
+  "generation": 5,
+  "created_at": "2017-12-24T00:19:06.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm 一号 5代吸血鬼种猫 398220. I'm often referred to as the Marge Simpson of the group. I once got in a fight with a dog, and won. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "392902@4",
+  "sire": "371673@4",
+  "children": [
+    "398325@6",
+    "399160@6",
+    "399873@6",
+    "400552@6",
+    "402403@6",
+    "413098@6",
+    "434178@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 835,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

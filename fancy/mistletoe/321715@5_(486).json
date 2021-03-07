@@ -1,0 +1,26 @@
+{
+  "id": 321715,
+  "name": "5-1",
+  "generation": 5,
+  "created_at": "2017-12-15T07:05:09.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm 5-1. I'm often referred to as the Chandler Bing of the group. I would give it all up for a Chanel purse. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "315933@4",
+  "sire": "279155@4",
+  "children": [
+    "321913@6",
+    "323620@6",
+    "324059@6",
+    "325526@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 486,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

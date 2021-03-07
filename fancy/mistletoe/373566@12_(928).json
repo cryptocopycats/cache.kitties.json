@@ -1,0 +1,23 @@
+{
+  "id": 373566,
+  "name": "latt cat",
+  "generation": 12,
+  "created_at": "2017-12-19T22:15:04.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! latt cat here. I'm here to enjoy watching Stranger Things and reciting poetry. When no one's home, I invite my pals over and we listen to Mariah Carey. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "350584@11",
+  "sire": "357085@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 928,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 335909,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-16T07:00:57.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #335909. I'm a professional Mad Scientist and I love steak. When no one's home, I invite my pals over and we listen to Gloria Estefan. Our friendship will be wondrous, tantalizing, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321161@13",
+  "sire": "321846@6",
+  "children": [
+    "356345@15",
+    "362106@15",
+    "364984@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 649,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

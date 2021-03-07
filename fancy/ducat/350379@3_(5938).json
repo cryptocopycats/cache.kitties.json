@@ -1,0 +1,23 @@
+{
+  "id": 350379,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 3,
+  "created_at": "2017-12-17T10:39:08.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm RARE BIRD! Fancy!. All you need to know about me is I hate steak with a passion. I once made a moose play. Our friendship will be seductive, gorgeous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195363@2",
+  "sire": "156197@2",
+  "children": [
+    "355654@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5938,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

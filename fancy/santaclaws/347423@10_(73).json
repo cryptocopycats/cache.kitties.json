@@ -1,0 +1,30 @@
+{
+  "id": 347423,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-17T04:03:53.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! Kitty #347423 here. I'm here to enjoy eating until I loathe myself and chasing string. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "336574@9",
+  "sire": "342088@9",
+  "children": [
+    "348925@11",
+    "352986@11",
+    "356599@11",
+    "357524@11",
+    "397081@11",
+    "410323@11",
+    "503437@11",
+    "568396@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 73,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

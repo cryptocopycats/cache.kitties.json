@@ -1,0 +1,26 @@
+{
+  "id": 403890,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T20:39:31.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! Kitty #403890 here. I'm here to enjoy tricking babies and tripping my owner. When no one's home, I invite my pals over and we listen to Gloria Estefan. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338793@5",
+  "sire": "324964@5",
+  "children": [
+    "408063@7",
+    "408837@7",
+    "422531@7",
+    "424196@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1132,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

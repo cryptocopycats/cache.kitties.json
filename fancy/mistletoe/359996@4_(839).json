@@ -1,0 +1,27 @@
+{
+  "id": 359996,
+  "name": "First Year Fancy: Mistletoe",
+  "generation": 4,
+  "created_at": "2017-12-18T07:03:04.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm First Year Fancy: Mistletoe. I'm a Aerobics Athlete  by day, and I like swiping left by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "359813@3",
+  "sire": "345193@3",
+  "children": [
+    "361032@5",
+    "362350@9",
+    "362759@5",
+    "377513@5",
+    "384474@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 839,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

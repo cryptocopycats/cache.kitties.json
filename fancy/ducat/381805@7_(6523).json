@@ -1,0 +1,23 @@
+{
+  "id": 381805,
+  "name": "ChickyMeowMeow",
+  "generation": 7,
+  "created_at": "2017-12-21T07:11:20.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm ChickyMeowMeow. I've never told anyone this, but I once clawed a dog. When I'm not riding the bus, I'm practicing witchcraft! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "282561@6",
+  "sire": "380211@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6523,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 408010,
+  "name": "Grandma DucKitteh /",
+  "generation": 4,
+  "created_at": "2017-12-25T15:42:42.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Grandma DucKitteh /. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "407995@3",
+  "sire": "348832@3",
+  "children": [
+    "408616@5",
+    "408863@5",
+    "411158@5",
+    "412700@5",
+    "416923@5",
+    "418389@5",
+    "423262@5",
+    "430093@5",
+    "433690@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6908,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

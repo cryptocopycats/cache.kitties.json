@@ -1,0 +1,23 @@
+{
+  "id": 330618,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-15T22:45:28.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #330618. All you need to know about me is I hate wet food with a passion. It's not common knowledge, but my ancestry connects me to Princess Diana. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "329613@9",
+  "sire": "330211@14",
+  "children": [
+    "345707@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5506,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

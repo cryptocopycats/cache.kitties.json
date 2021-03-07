@@ -1,0 +1,28 @@
+{
+  "id": 336853,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T08:28:57.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #336853. I'm a Aerobics Athlete  by day, and I like summoning ghosts by night. I once dreamed of being a Dispensary Clerk. Now I can be found sleeping in fresh laundry all day. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "292075@5",
+  "sire": "129677@5",
+  "children": [
+    "347756@7",
+    "404439@14",
+    "415405@7",
+    "427316@7",
+    "438430@8",
+    "443333@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5647,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

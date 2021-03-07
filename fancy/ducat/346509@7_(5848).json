@@ -1,0 +1,25 @@
+{
+  "id": 346509,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T02:06:25.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #346509. My friends describe me as prickly and vegan. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341498@4",
+  "sire": "337423@6",
+  "children": [
+    "347474@8",
+    "351733@12",
+    "372194@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5848,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

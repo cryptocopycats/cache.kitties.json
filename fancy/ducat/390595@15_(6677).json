@@ -1,0 +1,23 @@
+{
+  "id": 390595,
+  "name": "Carlton",
+  "generation": 15,
+  "created_at": "2017-12-22T22:33:03.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Carlton. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be annoying friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "386030@7",
+  "sire": "370266@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6677,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 351695,
+  "name": "Mistletoe",
+  "generation": 12,
+  "created_at": "2017-12-17T13:56:33.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Mistletoe. I enjoy sweating through my feet, hitting on yo' man, and chasing string. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "334614@11",
+  "sire": "330642@8",
+  "children": [
+    "375732@13",
+    "379278@18",
+    "383036@13",
+    "547464@13",
+    "1012813@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 770,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 396673,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-23T19:30:06.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #396673. I'm a professional Skydiving Instructor and I love hamburgers. My secret indulgence is cereal. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "55617@20",
+  "sire": "69649@18",
+  "children": [
+    "403743@22",
+    "430257@22",
+    "539421@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6771,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

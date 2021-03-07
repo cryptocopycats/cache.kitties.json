@@ -1,0 +1,26 @@
+{
+  "id": 392949,
+  "name": "Twinkle",
+  "generation": 11,
+  "created_at": "2017-12-23T06:49:24.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Twinkle. I'm a professional Aerobics Athlete  and I love cereal. My secret indulgence is wet food. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "317036@10",
+  "sire": "201035@10",
+  "children": [
+    "398309@12",
+    "401063@12",
+    "417414@12",
+    "442986@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1059,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

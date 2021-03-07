@@ -1,0 +1,23 @@
+{
+  "id": 352102,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-17T14:58:44.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! Kitty #352102 here. I'm here to enjoy glaring at the neighbour's cat and eating lasagna. Sometimes I daydream of a life full of breakdancing, chocolate, and riding the bus. I look forward to eating lasagna with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "334929@13",
+  "sire": "324342@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 672,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

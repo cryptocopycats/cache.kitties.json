@@ -1,0 +1,24 @@
+{
+  "id": 405032,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-25T01:03:59.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #405032. My friends describe me as petulant and gullible. My friends describe me as \"fabulous.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "401009@18",
+  "sire": "398409@11",
+  "children": [
+    "408158@20",
+    "429678@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6862,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

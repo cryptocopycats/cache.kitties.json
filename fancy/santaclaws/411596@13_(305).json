@@ -1,0 +1,23 @@
+{
+  "id": 411596,
+  "name": "Santa Claus Kitty",
+  "generation": 13,
+  "created_at": "2017-12-26T08:45:49.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Santa Claus Kitty. I enjoy slappin' da bass, taking selfies, and eating until I loathe myself. It's not common knowledge, but my ancestry connects me to Confucius. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "403986@12",
+  "sire": "404049@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 305,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

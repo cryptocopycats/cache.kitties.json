@@ -1,0 +1,31 @@
+{
+  "id": 323847,
+  "name": "Mr. FancyPants",
+  "generation": 4,
+  "created_at": "2017-12-15T10:40:47.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Mr. FancyPants. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Princess Diana. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "323588@3",
+  "sire": "200455@3",
+  "children": [
+    "324151@9",
+    "324276@5",
+    "325864@5",
+    "327012@10",
+    "334735@9",
+    "341158@9",
+    "371041@9",
+    "382125@5",
+    "395804@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5351,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

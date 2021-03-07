@@ -1,0 +1,25 @@
+{
+  "id": 347968,
+  "name": "1st Generation Pure Bred",
+  "generation": 11,
+  "created_at": "2017-12-17T05:11:20.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm 1st Generation Pure Bred. I'm a professional Foreign Film Director and I love cereal. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103348@10",
+  "sire": "327766@10",
+  "children": [
+    "349421@12",
+    "355695@12",
+    "358870@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5880,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

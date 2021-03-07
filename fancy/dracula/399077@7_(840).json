@@ -1,0 +1,26 @@
+{
+  "id": 399077,
+  "name": "BUFFY",
+  "generation": 7,
+  "created_at": "2017-12-24T02:58:05.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm BUFFY. I'm a Aerobics Athlete  by day, and I like running a podcast by night. I once made a chimpanzee leap. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "397302@6",
+  "sire": "148322@6",
+  "children": [
+    "399208@8",
+    "401011@8",
+    "404387@8",
+    "432651@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 840,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

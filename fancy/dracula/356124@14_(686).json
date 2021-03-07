@@ -1,0 +1,23 @@
+{
+  "id": 356124,
+  "name": "Draculanus",
+  "generation": 14,
+  "created_at": "2017-12-17T23:05:55.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Draculanus. I want to live in a world where people believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Confucius. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "330176@8",
+  "sire": "335984@13",
+  "children": [
+    "369204@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 686,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

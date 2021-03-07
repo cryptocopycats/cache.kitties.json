@@ -1,0 +1,30 @@
+{
+  "id": 412642,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-26T15:21:16.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #412642. I enjoy chasing string, slappin' da bass, and picking flowers. I am 53% gremlin, 71% Aerobics Athlete , and otherwise bad at math. Our friendship will be fabulous, brilliant, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "361228@2",
+  "sire": "89084@2",
+  "children": [
+    "415580@4",
+    "415646@4",
+    "431922@4",
+    "432035@4",
+    "558456@4",
+    "561270@4",
+    "595692@4",
+    "619400@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6985,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

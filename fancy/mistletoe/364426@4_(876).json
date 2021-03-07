@@ -1,0 +1,23 @@
+{
+  "id": 364426,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-18T18:17:23.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #364426. I enjoy tricking babies, reciting poetry, and glaring at the neighbour's cat. I'm convinced that the world is flat. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "353713@3",
+  "sire": "334408@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 876,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

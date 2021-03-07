@@ -1,0 +1,26 @@
+{
+  "id": 403156,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T17:54:22.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Kitty #403156 here. I'm here to enjoy fighting the patriarchy and licking doorknobs. I am 16% elf, 90% Dogwalker, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "399432@5",
+  "sire": "369123@5",
+  "children": [
+    "403233@7",
+    "444832@7",
+    "445559@7",
+    "447551@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 875,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

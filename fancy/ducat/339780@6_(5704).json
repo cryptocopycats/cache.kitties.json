@@ -1,0 +1,26 @@
+{
+  "id": 339780,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T13:44:21.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #339780. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "220655@5",
+  "sire": "185818@5",
+  "children": [
+    "340868@7",
+    "341561@7",
+    "347192@7",
+    "347844@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5704,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

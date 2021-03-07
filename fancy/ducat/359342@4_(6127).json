@@ -1,0 +1,23 @@
+{
+  "id": 359342,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-18T05:38:52.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm RARE BIRD! Fancy!. I enjoy reciting poetry, eating lasagna, and picking flowers. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336236@3",
+  "sire": "267640@3",
+  "children": [
+    "360235@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6127,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

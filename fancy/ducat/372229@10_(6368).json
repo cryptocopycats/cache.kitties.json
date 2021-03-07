@@ -1,0 +1,25 @@
+{
+  "id": 372229,
+  "name": "Goosie Rios",
+  "generation": 10,
+  "created_at": "2017-12-19T18:35:10.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Goosie Rios. In high school, I was voted school jock. I would give it all up for a Chanel purse. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "260311@9",
+  "sire": "294346@8",
+  "children": [
+    "402382@11",
+    "409774@25",
+    "529448@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6368,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

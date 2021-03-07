@@ -1,0 +1,30 @@
+{
+  "id": 349930,
+  "name": "Quack Efron",
+  "generation": 7,
+  "created_at": "2017-12-17T09:33:24.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! Quack Efron here. I'm here to enjoy eating until I loathe myself and riding dirty. My friends describe me as \"gullible.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336182@6",
+  "sire": "310587@5",
+  "children": [
+    "354053@8",
+    "358934@8",
+    "359710@8",
+    "362924@8",
+    "364790@8",
+    "424063@10",
+    "564282@9",
+    "655658@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5924,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

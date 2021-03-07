@@ -1,0 +1,28 @@
+{
+  "id": 330163,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-15T22:03:51.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #330163. In high school, I was voted biggest teacher's pet. I am 50% troll, 19% Foreign Film Director, and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "250047@12",
+  "sire": "70538@11",
+  "children": [
+    "355212@14",
+    "358702@16",
+    "359378@14",
+    "365871@14",
+    "379679@14",
+    "386201@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 872,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

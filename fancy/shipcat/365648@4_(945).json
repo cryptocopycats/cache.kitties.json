@@ -1,0 +1,29 @@
+{
+  "id": 365648,
+  "name": "4-7-a-e",
+  "generation": 4,
+  "created_at": "2017-12-18T21:13:32.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm 4-7-a-e. I'm often referred to as the Chandler Bing of the group. I was voted biggest teacher's pet in college. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "344827@3",
+  "sire": "256721@3",
+  "children": [
+    "370064@5",
+    "371308@5",
+    "385175@5",
+    "389339@5",
+    "396375@5",
+    "444164@5",
+    "450241@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 945,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

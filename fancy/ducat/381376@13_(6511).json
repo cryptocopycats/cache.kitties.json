@@ -1,0 +1,24 @@
+{
+  "id": 381376,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-21T05:25:20.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #381376. I've never told anyone this, but I once frolicked with a dog. I put pickles on everything. Like, everything: hot dogs, chocolate—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "319891@12",
+  "sire": "289182@11",
+  "children": [
+    "382543@14",
+    "416171@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6511,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

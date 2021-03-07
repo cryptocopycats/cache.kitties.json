@@ -1,0 +1,23 @@
+{
+  "id": 382356,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-21T10:01:25.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #382356. I'm a Aerobics Athlete  by day, and I like sleeping in fresh laundry by night. I once kissed a platypus. I don't like to talk about it. Can you make my vegan dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "369939@14",
+  "sire": "370067@18",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6538,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

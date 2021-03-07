@@ -1,0 +1,23 @@
+{
+  "id": 355701,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-17T22:16:38.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #355701. All you need to know about me is I hate hamburgers with a passion. I put marmalade on everything. Like, everything: hot dogs, cereal—everything! Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "339042@2",
+  "sire": "333102@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 798,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

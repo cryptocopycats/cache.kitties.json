@@ -1,0 +1,23 @@
+{
+  "id": 412391,
+  "name": "Kitty Parry Potter",
+  "generation": 5,
+  "created_at": "2017-12-26T13:30:46.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's Kitty Parry Potter. I once peed on Nelson Mandela's cat. They had it coming. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "369749@4",
+  "sire": "380150@4",
+  "children": [
+    "416990@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1196,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

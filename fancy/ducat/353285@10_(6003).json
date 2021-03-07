@@ -1,0 +1,24 @@
+{
+  "id": 353285,
+  "name": "Flapper",
+  "generation": 10,
+  "created_at": "2017-12-17T17:24:57.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Flapper. I believe that one day cats will rule this planet. I was voted school jock in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "164590@9",
+  "sire": "345297@5",
+  "children": [
+    "383347@11",
+    "413414@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6003,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

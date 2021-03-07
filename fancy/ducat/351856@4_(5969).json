@@ -1,0 +1,24 @@
+{
+  "id": 351856,
+  "name": "PURE PARENT CHILD",
+  "generation": 4,
+  "created_at": "2017-12-17T14:22:08.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm PURE PARENT CHILD. I've never told anyone this, but I once bit a dog. I put marmalade on everything. Like, everything: hot dogs, salad—everything! Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "324399@3",
+  "sire": "163659@3",
+  "children": [
+    "371529@5",
+    "700566@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5969,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

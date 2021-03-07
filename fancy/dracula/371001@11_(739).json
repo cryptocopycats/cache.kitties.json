@@ -1,0 +1,23 @@
+{
+  "id": 371001,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-19T13:53:27.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #371001. I'm a professional Dogwalker and I love lasagna. I am 28% sphinx, 55% Train Conductor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "178457@10",
+  "sire": "143927@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 739,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

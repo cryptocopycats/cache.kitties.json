@@ -1,0 +1,23 @@
+{
+  "id": 342959,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T19:47:10.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #342959. I'm a Dispensary Clerk by day, and I like tricking babies by night. I would give it all up to be on Oprah. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "312454@5",
+  "sire": "312629@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 614,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

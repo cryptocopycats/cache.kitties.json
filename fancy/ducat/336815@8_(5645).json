@@ -1,0 +1,24 @@
+{
+  "id": 336815,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T08:25:44.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #336815. My friends describe me as wondrous and fabulous. I am 20% gremlin, 98% Dispensary Clerk, and otherwise bad at math. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "330391@5",
+  "sire": "336645@7",
+  "children": [
+    "343929@9",
+    "368334@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5645,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

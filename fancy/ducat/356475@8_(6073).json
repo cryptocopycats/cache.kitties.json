@@ -1,0 +1,24 @@
+{
+  "id": 356475,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T23:47:58.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #356475. I believe the world is flat. Some people say I'm the Dwight Schrute of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "163842@5",
+  "sire": "327745@7",
+  "children": [
+    "409772@11",
+    "429158@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6073,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

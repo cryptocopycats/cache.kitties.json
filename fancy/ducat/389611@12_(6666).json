@@ -1,0 +1,23 @@
+{
+  "id": 389611,
+  "name": "ducat #6.666/10.000",
+  "generation": 12,
+  "created_at": "2017-12-22T19:16:45.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm ducat #6.666/10.000. I'm a Foreign Film Director by day, and I like siring for status by night. I was voted most likely to work at NASA in college. I look forward to eating lasagna with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "364554@11",
+  "sire": "261226@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6666,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

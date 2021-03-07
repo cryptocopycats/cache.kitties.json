@@ -1,0 +1,23 @@
+{
+  "id": 328916,
+  "name": "Mistletoe",
+  "generation": 11,
+  "created_at": "2017-12-15T20:16:05.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! My name's Mistletoe. I once peed on Cleopatra's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "314498@10",
+  "sire": "320255@6",
+  "children": [
+    "660406@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 574,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

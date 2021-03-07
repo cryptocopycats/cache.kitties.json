@@ -1,0 +1,23 @@
+{
+  "id": 341793,
+  "name": "BigBird",
+  "generation": 12,
+  "created_at": "2017-12-16T17:31:43.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm BigBird. All you need to know about me is I hate apple pie with a passion. My secret indulgence is wet food. Our friendship will be tantalizing, stinky, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "131756@11",
+  "sire": "267451@11",
+  "children": [
+    "403703@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5753,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

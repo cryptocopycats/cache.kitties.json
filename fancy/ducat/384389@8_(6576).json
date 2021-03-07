@@ -1,0 +1,24 @@
+{
+  "id": 384389,
+  "name": "Tweety McBirdarms",
+  "generation": 8,
+  "created_at": "2017-12-21T22:20:56.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Tweety McBirdarms. I want to live in a world where people believe that one day cats will rule this planet. I once made a chimpanzee jump. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "376186@7",
+  "sire": "270206@7",
+  "children": [
+    "392129@9",
+    "447029@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6576,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

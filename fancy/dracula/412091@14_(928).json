@@ -1,0 +1,24 @@
+{
+  "id": 412091,
+  "name": "Count Docu",
+  "generation": 14,
+  "created_at": "2017-12-26T11:37:00.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Count Docu. I've never told anyone this, but I once licked a dog. I'm convinced that the world is flat. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "375530@13",
+  "sire": "313903@11",
+  "children": [
+    "412955@15",
+    "426345@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 928,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

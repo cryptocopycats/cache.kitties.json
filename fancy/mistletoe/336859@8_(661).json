@@ -1,0 +1,23 @@
+{
+  "id": 336859,
+  "name": "Twinkle Spunk",
+  "generation": 8,
+  "created_at": "2017-12-16T08:29:22.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm Twinkle Spunk. In high school, I was voted most likely to work at NASA. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found summoning ghosts all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "306851@7",
+  "sire": "273143@5",
+  "children": [
+    "337343@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 661,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

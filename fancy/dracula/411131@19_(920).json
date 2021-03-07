@@ -1,0 +1,23 @@
+{
+  "id": 411131,
+  "name": "Murrigan",
+  "generation": 19,
+  "created_at": "2017-12-26T06:19:47.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Murrigan. In high school, I was voted most likely to work at NASA. I once groomed a rabbit. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "264058@10",
+  "sire": "188637@18",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 920,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

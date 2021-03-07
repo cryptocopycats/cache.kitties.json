@@ -1,0 +1,27 @@
+{
+  "id": 370824,
+  "name": "Gobbles",
+  "generation": 20,
+  "created_at": "2017-12-19T13:02:05.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Gobbles. I'm a Aerobics Athlete  by day, and I like watching reality tv by night. I am 46% fairy, 97% Ventriloquist, and otherwise bad at math. Our friendship will be prickly, hairy, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "304832@19",
+  "sire": "362488@17",
+  "children": [
+    "379619@21",
+    "410008@21",
+    "448098@23",
+    "461053@21",
+    "473172@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6342,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

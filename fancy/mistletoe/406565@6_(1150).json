@@ -1,0 +1,27 @@
+{
+  "id": 406565,
+  "name": "1150th MISTLETOE 15% MINTGREEN",
+  "generation": 6,
+  "created_at": "2017-12-25T08:00:21.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm 1150th MISTLETOE 15% MINTGREEN. My friends describe me as preposterous and raunchy. My secret indulgence is apple pie. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "403336@3",
+  "sire": "406446@5",
+  "children": [
+    "406652@9",
+    "408504@7",
+    "411951@7",
+    "426698@7",
+    "438375@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1150,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

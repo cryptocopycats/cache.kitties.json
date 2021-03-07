@@ -1,0 +1,24 @@
+{
+  "id": 375638,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-20T04:47:42.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #375638. I enjoy eating until I loathe myself, riding unicorns, and slappin' da bass. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "351916@6",
+  "sire": "350623@6",
+  "children": [
+    "465696@8",
+    "503883@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 971,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

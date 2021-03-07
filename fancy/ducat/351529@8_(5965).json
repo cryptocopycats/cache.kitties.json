@@ -1,0 +1,23 @@
+{
+  "id": 351529,
+  "name": "Flappy Bird [P]",
+  "generation": 8,
+  "created_at": "2017-12-17T13:36:40.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! I'm Flappy Bird [P]. I enjoy chasing string, watching Stranger Things, and fighting for the people. I put peanut butter on everything. Like, everything: hot dogs, ice cream—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "346245@7",
+  "sire": "328625@7",
+  "children": [
+    "352316@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5965,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

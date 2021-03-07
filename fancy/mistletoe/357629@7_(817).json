@@ -1,0 +1,24 @@
+{
+  "id": 357629,
+  "name": "Mistletoe",
+  "generation": 7,
+  "created_at": "2017-12-18T02:00:13.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Mistletoe. I enjoy staying woke, chasing red dots, and grooming. I would give it all up for a Chanel purse. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "322231@6",
+  "sire": "355687@6",
+  "children": [
+    "358079@8",
+    "418166@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 817,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

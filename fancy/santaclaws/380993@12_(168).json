@@ -1,0 +1,27 @@
+{
+  "id": 380993,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-21T03:52:14.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #380993. I've never told anyone this, but I once loved a dog. I once got in a fight with a moose, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "377111@11",
+  "sire": "332088@10",
+  "children": [
+    "382860@13",
+    "389945@13",
+    "396893@13",
+    "399196@13",
+    "549163@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 168,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

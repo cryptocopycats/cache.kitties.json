@@ -1,0 +1,24 @@
+{
+  "id": 331741,
+  "name": "Parent FANCY!",
+  "generation": 6,
+  "created_at": "2017-12-16T00:20:26.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Parent FANCY!. I believe the world is flat. I am 87% wizard, 69% Train Conductor, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321089@5",
+  "sire": "326917@5",
+  "children": [
+    "331914@7",
+    "450002@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 602,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

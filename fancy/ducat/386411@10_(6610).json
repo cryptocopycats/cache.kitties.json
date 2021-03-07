@@ -1,0 +1,28 @@
+{
+  "id": 386411,
+  "name": "Cat-o-Bird #1",
+  "generation": 10,
+  "created_at": "2017-12-22T06:00:19.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Cat-o-Bird #1. All you need to know about me is I hate steak with a passion. I once got in a fight with a rhino, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "203702@5",
+  "sire": "381598@9",
+  "children": [
+    "392263@11",
+    "393856@12",
+    "400064@11",
+    "413188@11",
+    "516297@11",
+    "545163@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6610,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

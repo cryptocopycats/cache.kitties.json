@@ -1,0 +1,24 @@
+{
+  "id": 366258,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-18T22:43:43.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #366258. In high school, I was voted biggest teacher's pet. I once snuggled a labradoodle. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338141@6",
+  "sire": "345316@6",
+  "children": [
+    "370798@10",
+    "1989845@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 889,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

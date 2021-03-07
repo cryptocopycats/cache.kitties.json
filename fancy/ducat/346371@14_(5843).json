@@ -1,0 +1,25 @@
+{
+  "id": 346371,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-17T01:53:46.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #346371. I'm a professional Dogwalker and I love salad. It's not common knowledge, but my ancestry connects me to Amelia Earhart. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "295567@1",
+  "sire": "293987@13",
+  "children": [
+    "847855@15",
+    "848760@15",
+    "853925@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5843,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

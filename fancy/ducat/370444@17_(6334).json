@@ -1,0 +1,23 @@
+{
+  "id": 370444,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-19T11:19:18.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty #370444. I'm a Mad Scientist by day, and I like watching reality tv by night. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "158000@10",
+  "sire": "213207@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6334,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

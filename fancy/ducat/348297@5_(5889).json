@@ -1,0 +1,23 @@
+{
+  "id": 348297,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-17T05:54:24.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #348297. I'm often referred to as the Samwise Gamgee of the group. I would give it all up for a Chanel purse. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "337389@4",
+  "sire": "324582@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5889,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

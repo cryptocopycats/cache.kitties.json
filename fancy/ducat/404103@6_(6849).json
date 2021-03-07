@@ -1,0 +1,23 @@
+{
+  "id": 404103,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T21:22:33.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #404103. I've never told anyone this, but I once clawed a dog. My friends describe me as \"annoying.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "399347@5",
+  "sire": "396346@5",
+  "children": [
+    "415070@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6849,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

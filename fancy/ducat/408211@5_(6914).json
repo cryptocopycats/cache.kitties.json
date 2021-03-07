@@ -1,0 +1,23 @@
+{
+  "id": 408211,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-25T16:49:12.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #408211. All you need to know about me is I hate chocolate with a passion. I'm often described as prickly, and I own it. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "401265@4",
+  "sire": "339952@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6914,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

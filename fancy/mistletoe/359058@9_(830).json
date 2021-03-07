@@ -1,0 +1,25 @@
+{
+  "id": 359058,
+  "name": "Jingle",
+  "generation": 9,
+  "created_at": "2017-12-18T05:01:58.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Jingle. I want to live in a world where people believe the world is flat. I like to listen to Aretha Franklin while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "358299@7",
+  "sire": "347070@8",
+  "children": [
+    "359202@10",
+    "363095@10",
+    "392776@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 830,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

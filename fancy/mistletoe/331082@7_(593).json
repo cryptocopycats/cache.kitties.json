@@ -1,0 +1,26 @@
+{
+  "id": 331082,
+  "name": "Parent FANCY!",
+  "generation": 7,
+  "created_at": "2017-12-15T23:23:05.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Parent FANCY!. I've never told anyone this, but I once kissed a dog. I like to listen to Mariah Carey while grooming. Don't judge me. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325775@6",
+  "sire": "328006@6",
+  "children": [
+    "445107@8",
+    "446546@8",
+    "451281@8",
+    "454731@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 593,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

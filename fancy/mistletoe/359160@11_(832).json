@@ -1,0 +1,23 @@
+{
+  "id": 359160,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-18T05:13:47.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #359160. I'm often referred to as the Homer Simpson of the group. I'm often described as wondrous, and I own it. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "333533@10",
+  "sire": "356770@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 832,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

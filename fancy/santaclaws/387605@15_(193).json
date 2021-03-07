@@ -1,0 +1,25 @@
+{
+  "id": 387605,
+  "name": "Santa Claws! Merry Christmas!",
+  "generation": 15,
+  "created_at": "2017-12-22T10:13:56.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Santa Claws! Merry Christmas!. I'm a professional Skydiving Instructor and I love steak. When no one's home, I invite my pals over and we listen to Frank Sinatra. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "327866@13",
+  "sire": "376628@14",
+  "children": [
+    "392499@16",
+    "395951@16",
+    "396781@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 193,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

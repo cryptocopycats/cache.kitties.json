@@ -1,0 +1,23 @@
+{
+  "id": 318964,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T02:40:07.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #318964. I'm a professional Dispensary Clerk and I love apple pie. I once got in a fight with a goose, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "122173@1",
+  "sire": "288841@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 462,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

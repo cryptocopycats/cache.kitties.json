@@ -1,0 +1,23 @@
+{
+  "id": 355799,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-17T22:30:13.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #355799. I want to live in a world where people believe the world is flat. I once dreamed of being a Train Conductor. Now I can be found mocking dogs all day. Our friendship will be wondrous, despicable, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "349096@8",
+  "sire": "354687@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6056,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

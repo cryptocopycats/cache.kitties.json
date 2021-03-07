@@ -1,0 +1,23 @@
+{
+  "id": 315181,
+  "name": "Penelope TwinklePaws",
+  "generation": 10,
+  "created_at": "2017-12-14T21:54:41.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Penelope TwinklePaws. I enjoy fighting the patriarchy, riding dirty, and tripping my owner. In my free time, I can usually be found prickly or siring for status. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "314031@9",
+  "sire": "309713@5",
+  "children": [
+    "344694@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5166,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

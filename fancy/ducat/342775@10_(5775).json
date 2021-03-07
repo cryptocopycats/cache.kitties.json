@@ -1,0 +1,23 @@
+{
+  "id": 342775,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-16T19:25:24.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #342775. I'm often referred to as the Frodo Baggins of the group. When I'm not running a podcast, I'm summoning ghosts! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182988@9",
+  "sire": "281972@3",
+  "children": [
+    "904761@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5775,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

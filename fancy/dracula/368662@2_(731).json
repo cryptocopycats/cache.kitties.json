@@ -1,0 +1,23 @@
+{
+  "id": 368662,
+  "name": "Kitty #368662",
+  "generation": 2,
+  "created_at": "2017-12-19T05:04:58.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #368662. My friends describe me as prickly and fabulous. I once dreamed of being a Skydiving Instructor. Now I can be found jump-roping all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "329464@1",
+  "sire": "339839@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 731,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 324622,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-15T12:05:31.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #324622. I'm a professional Ventriloquist and I love wet food. I was voted most likely to work at NASA in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "32347@7",
+  "sire": "18022@7",
+  "children": [
+    "397720@11",
+    "465846@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5369,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

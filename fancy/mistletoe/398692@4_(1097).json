@@ -1,0 +1,24 @@
+{
+  "id": 398692,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-24T01:46:02.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #398692. I'm a Dispensary Clerk by day, and I like people-watching by night. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, ice cream—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "390111@3",
+  "sire": "358945@3",
+  "children": [
+    "401708@5",
+    "402190@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1097,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

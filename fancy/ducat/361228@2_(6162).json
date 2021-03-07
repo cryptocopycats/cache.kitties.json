@@ -1,0 +1,25 @@
+{
+  "id": 361228,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-18T10:03:49.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #361228. I'm often referred to as the Jon Snow of the group. I once dreamed of being a Private Dancer . Now I can be found people-watching all day. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336130@1",
+  "sire": "352428@1",
+  "children": [
+    "361936@7",
+    "363223@16",
+    "412642@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6162,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

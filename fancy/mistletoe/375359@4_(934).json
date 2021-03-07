@@ -1,0 +1,27 @@
+{
+  "id": 375359,
+  "name": "Meow",
+  "generation": 4,
+  "created_at": "2017-12-20T03:55:47.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Meow. I'm a professional Dogwalker and I love lasagna. My great-great-great-great-great-great grandkitty lived with Princess Diana. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "364219@3",
+  "sire": "356568@3",
+  "children": [
+    "378432@5",
+    "378535@5",
+    "409428@5",
+    "417494@5",
+    "523401@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 934,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

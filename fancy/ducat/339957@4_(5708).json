@@ -1,0 +1,30 @@
+{
+  "id": 339957,
+  "name": "Cindy",
+  "generation": 4,
+  "created_at": "2017-12-16T14:06:53.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Cindy. I'm a Mad Scientist by day, and I like people-watching by night. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "339335@3",
+  "sire": "339501@3",
+  "children": [
+    "340109@10",
+    "341234@5",
+    "345566@5",
+    "354255@5",
+    "358680@5",
+    "378641@5",
+    "398388@5",
+    "1209527@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5708,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

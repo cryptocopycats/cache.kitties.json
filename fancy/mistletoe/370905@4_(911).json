@@ -1,0 +1,28 @@
+{
+  "id": 370905,
+  "name": "NEW Mistletoe Maiden",
+  "generation": 4,
+  "created_at": "2017-12-19T13:22:22.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm NEW Mistletoe Maiden. In high school, I was voted biggest teacher's pet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "248784@3",
+  "sire": "326155@3",
+  "children": [
+    "375672@5",
+    "376326@5",
+    "379133@5",
+    "387963@5",
+    "394021@5",
+    "409287@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 911,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 334025,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T03:58:20.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #334025. I'm a professional Ventriloquist and I love chocolate. I was voted biggest teacher's pet in college. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325207@6",
+  "sire": "288053@4",
+  "children": [
+    "338528@8",
+    "338649@8",
+    "339896@8",
+    "342195@8",
+    "344684@9",
+    "349533@8",
+    "357661@8",
+    "371860@8",
+    "457976@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 626,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

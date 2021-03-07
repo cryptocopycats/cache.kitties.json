@@ -1,0 +1,23 @@
+{
+  "id": 322944,
+  "name": "Pure Mistletoe",
+  "generation": 6,
+  "created_at": "2017-12-15T09:07:02.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Pure Mistletoe. I'm often referred to as the Peter Griffin of the group. Some people say I'm the Peter Griffin of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "307008@4",
+  "sire": "302980@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 498,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

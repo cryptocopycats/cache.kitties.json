@@ -1,0 +1,25 @@
+{
+  "id": 334383,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-16T04:34:15.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Kitty #334383. I enjoy riding dirty, sitting on your computer, and tripping my owner. In my free time, I can usually be found preposterous or swiping left. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "331225@8",
+  "sire": "333693@8",
+  "children": [
+    "398661@10",
+    "399632@10",
+    "434996@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 634,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 352734,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T16:14:17.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #352734. I'm a professional Mad Scientist and I love salad. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270273@4",
+  "sire": "308104@7",
+  "children": [
+    "416334@16",
+    "1209952@9",
+    "1210217@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5991,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 332999,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-16T02:31:59.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Kitty #332999 here. I'm here to enjoy reading garfield and chasing string. I would give it all up to be on Oprah. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "250297@11",
+  "sire": "252262@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5550,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

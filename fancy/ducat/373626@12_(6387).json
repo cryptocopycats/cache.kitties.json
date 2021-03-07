@@ -1,0 +1,25 @@
+{
+  "id": 373626,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-19T22:21:24.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Kitty #373626. I'm a Private Dancer  by day, and I like pole dancing by night. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "333173@7",
+  "sire": "299933@11",
+  "children": [
+    "375390@13",
+    "745253@21",
+    "745736@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6387,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

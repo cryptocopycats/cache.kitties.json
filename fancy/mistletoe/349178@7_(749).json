@@ -1,0 +1,24 @@
+{
+  "id": 349178,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T07:53:48.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Kitty #349178. I'm often referred to as the Chandler Bing of the group. I am 57% sphinx, 66% Dispensary Clerk, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325679@6",
+  "sire": "310242@6",
+  "children": [
+    "353770@8",
+    "358749@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 749,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

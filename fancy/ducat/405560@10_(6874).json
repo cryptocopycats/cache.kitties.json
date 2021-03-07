@@ -1,0 +1,23 @@
+{
+  "id": 405560,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-25T03:23:48.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #405560. My friends describe me as vegan and raunchy. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341440@8",
+  "sire": "141640@9",
+  "children": [
+    "447965@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6874,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 334767,
+  "name": null,
+  "generation": 25,
+  "created_at": "2017-12-16T05:08:55.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #334767. I'm a professional Mad Scientist and I love lasagna. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "320728@4",
+  "sire": "331531@24",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5593,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

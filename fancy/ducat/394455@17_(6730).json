@@ -1,0 +1,24 @@
+{
+  "id": 394455,
+  "name": "DuCat",
+  "generation": 17,
+  "created_at": "2017-12-23T12:32:46.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! DuCat here. I'm here to enjoy hitting on yo' man and slappin' da bass. When I'm not sleeping in fresh laundry, I'm mocking dogs! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "346179@11",
+  "sire": "335612@16",
+  "children": [
+    "408686@18",
+    "458070@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6730,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

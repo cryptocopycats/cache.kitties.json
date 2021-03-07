@@ -1,0 +1,23 @@
+{
+  "id": 355437,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T21:44:27.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #355437. I'm often referred to as the Michael Scott of the group. I was voted school jock in college. Will you be the peanut butter to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "351603@5",
+  "sire": "224401@3",
+  "children": [
+    "1164567@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6046,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

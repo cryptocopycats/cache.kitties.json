@@ -1,0 +1,25 @@
+{
+  "id": 350316,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-17T10:31:27.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #350316. All you need to know about me is I hate lasagna with a passion. When no one's home, I invite my pals over and we listen to Metallica. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "304419@10",
+  "sire": "314189@12",
+  "children": [
+    "400255@15",
+    "405515@15",
+    "413137@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 759,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

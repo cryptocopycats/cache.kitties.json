@@ -1,0 +1,28 @@
+{
+  "id": 356759,
+  "name": "Gen 0 LuLu",
+  "generation": 4,
+  "created_at": "2017-12-18T00:18:15.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Gen 0 LuLu. I believe the world is flat. I put marmalade on everything. Like, everything: hot dogs, chocolate—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "327926@3",
+  "sire": "289805@3",
+  "children": [
+    "360630@11",
+    "360823@5",
+    "364122@5",
+    "371376@5",
+    "372226@5",
+    "375014@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6079,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

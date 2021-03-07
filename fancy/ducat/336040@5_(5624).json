@@ -1,0 +1,23 @@
+{
+  "id": 336040,
+  "name": "Gen5 virgin DuCat",
+  "generation": 5,
+  "created_at": "2017-12-16T07:13:25.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Gen5 virgin DuCat. I've never told anyone this, but I once licked a dog. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "323011@4",
+  "sire": "222620@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5624,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

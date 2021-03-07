@@ -1,0 +1,27 @@
+{
+  "id": 332018,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T00:39:57.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! Kitty #332018 here. I'm here to enjoy being a nevernude and tripping my owner. I'm often described as petulant, and I own it. Will you be the cinammon to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "330894@7",
+  "sire": "301237@7",
+  "children": [
+    "332421@9",
+    "337326@9",
+    "341568@9",
+    "349317@11",
+    "353078@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 605,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

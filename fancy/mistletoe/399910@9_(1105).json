@@ -1,0 +1,27 @@
+{
+  "id": 399910,
+  "name": "Hero",
+  "generation": 9,
+  "created_at": "2017-12-24T05:23:54.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Hero. I'm often referred to as the Marge Simpson of the group. My secret indulgence is lasagna. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "332643@8",
+  "sire": "312710@8",
+  "children": [
+    "405545@10",
+    "408835@10",
+    "409789@10",
+    "466700@23",
+    "543663@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1105,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 362304,
+  "name": "3rd Generation Pure Bred",
+  "generation": 13,
+  "created_at": "2017-12-18T12:49:03.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! My name's 3rd Generation Pure Bred. I once peed on King Henry VIII's cat. They had it coming. My secret indulgence is cantaloupe. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "356617@12",
+  "sire": "359626@12",
+  "children": [
+    "369396@14",
+    "448134@14",
+    "454655@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6187,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

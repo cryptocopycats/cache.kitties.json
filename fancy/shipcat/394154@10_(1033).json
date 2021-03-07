@@ -1,0 +1,32 @@
+{
+  "id": 394154,
+  "name": "ship 2-1",
+  "generation": 10,
+  "created_at": "2017-12-23T11:31:54.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm ship 2-1. All you need to know about me is I hate cantaloupe with a passion. When I'm not reading Danielle Steele, I'm braiding people's hair! Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "371041@9",
+  "sire": "210018@7",
+  "children": [
+    "413996@11",
+    "414760@12",
+    "425128@12",
+    "438044@16",
+    "458161@11",
+    "458663@18",
+    "480842@11",
+    "507403@11",
+    "530780@11",
+    "573310@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1033,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

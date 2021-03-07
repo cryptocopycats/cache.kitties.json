@@ -1,0 +1,28 @@
+{
+  "id": 376191,
+  "name": "Count Catcula",
+  "generation": 6,
+  "created_at": "2017-12-20T06:49:39.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Count Catcula. I'm a Dogwalker by day, and I like prank-calling celebrities by night. My friends describe me as \"fabulous.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "340313@5",
+  "sire": "336690@5",
+  "children": [
+    "381739@14",
+    "392127@11",
+    "478180@7",
+    "554441@7",
+    "558236@7",
+    "594883@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 756,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

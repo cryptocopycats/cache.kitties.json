@@ -1,0 +1,23 @@
+{
+  "id": 330884,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T23:04:37.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #330884. I believe the world is flat. When I'm not volunteering at the local kitten rescue shelter, I'm running a podcast! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "253716@5",
+  "sire": "102412@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5508,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

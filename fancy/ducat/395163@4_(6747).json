@@ -1,0 +1,32 @@
+{
+  "id": 395163,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-23T14:57:25.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #395163. I want to live in a world where people believe the world is flat. I once got in a fight with a rhino, and won. Our friendship will be wondrous, seductive, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "317979@3",
+  "sire": "372633@3",
+  "children": [
+    "397564@5",
+    "400068@14",
+    "404800@5",
+    "408140@5",
+    "413642@5",
+    "415482@7",
+    "419482@7",
+    "426404@7",
+    "447020@7",
+    "1832866@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6747,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

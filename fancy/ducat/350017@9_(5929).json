@@ -1,0 +1,25 @@
+{
+  "id": 350017,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-17T09:43:52.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #350017. I'm a Train Conductor by day, and I like people-watching by night. I once dreamed of being a Dogwalker. Now I can be found braiding people's hair all day. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "321941@8",
+  "sire": "128183@6",
+  "children": [
+    "352690@10",
+    "358115@12",
+    "395402@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5929,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

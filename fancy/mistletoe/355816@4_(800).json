@@ -1,0 +1,23 @@
+{
+  "id": 355816,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-17T22:30:54.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #355816. I believe that one day cats will rule this planet. I'm often described as prickly, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "339852@3",
+  "sire": "342499@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 800,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 399467,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-24T04:10:46.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #399467. I'm often referred to as the Samwise Gamgee of the group. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "399231@6",
+  "sire": "399346@5",
+  "children": [
+    "402463@8",
+    "451476@9",
+    "451573@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6799,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 319928,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-15T04:06:36.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! My name's Kitty #319928. I once peed on Nelson Mandela's cat. They had it coming. I'm often described as fabulous, and I own it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241790@10",
+  "sire": "313373@13",
+  "children": [
+    "327549@15",
+    "350572@15",
+    "359676@15",
+    "378389@15",
+    "410135@24"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5269,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

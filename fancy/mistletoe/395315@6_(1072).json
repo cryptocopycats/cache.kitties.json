@@ -1,0 +1,25 @@
+{
+  "id": 395315,
+  "name": "Merry Jolly",
+  "generation": 6,
+  "created_at": "2017-12-23T15:35:35.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Merry Jolly. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338793@5",
+  "sire": "324964@5",
+  "children": [
+    "399547@7",
+    "400241@7",
+    "405726@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1072,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

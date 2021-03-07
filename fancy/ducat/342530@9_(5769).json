@@ -1,0 +1,25 @@
+{
+  "id": 342530,
+  "name": "Gen2BirdMixBaby",
+  "generation": 9,
+  "created_at": "2017-12-16T18:59:45.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Gen2BirdMixBaby. I believe the world is flat. Sometimes I daydream of a life full of being a nevernude, lasagna, and pole dancing. Will you be the pickles to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341244@8",
+  "sire": "313572@2",
+  "children": [
+    "342930@22",
+    "344501@10",
+    "382969@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5769,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

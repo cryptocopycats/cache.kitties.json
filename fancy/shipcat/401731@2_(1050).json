@@ -1,0 +1,29 @@
+{
+  "id": 401731,
+  "name": "2",
+  "generation": 2,
+  "created_at": "2017-12-24T11:37:39.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm 2. My friends describe me as raunchy and annoying. I once got in a fight with a platypus, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "374918@1",
+  "sire": "361654@1",
+  "children": [
+    "412614@3",
+    "414614@3",
+    "415658@3",
+    "431893@4",
+    "433313@3",
+    "436481@3",
+    "558402@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1050,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

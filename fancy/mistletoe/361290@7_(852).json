@@ -1,0 +1,24 @@
+{
+  "id": 361290,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-18T10:14:40.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Kitty #361290. My friends describe me as seductive and gorgeous. I would give it all up to be on Oprah. Will you be the ghost pepper hot sauce to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338141@6",
+  "sire": "345316@6",
+  "children": [
+    "361480@8",
+    "363078@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 852,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

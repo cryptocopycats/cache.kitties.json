@@ -1,0 +1,26 @@
+{
+  "id": 362878,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 6,
+  "created_at": "2017-12-18T14:26:42.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm RARE BIRD! Fancy!. I'm a Mad Scientist by day, and I like people-watching by night. I once made a moose ignore. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "334066@5",
+  "sire": "305662@5",
+  "children": [
+    "363286@8",
+    "370946@8",
+    "417193@7",
+    "433015@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6201,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

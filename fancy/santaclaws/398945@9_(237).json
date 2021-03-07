@@ -1,0 +1,28 @@
+{
+  "id": 398945,
+  "name": "4/6 Santas!",
+  "generation": 9,
+  "created_at": "2017-12-24T02:35:54.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! 4/6 Santas! here. I'm here to enjoy breakdancing and chasing red dots. I once dreamed of being a Dispensary Clerk. Now I can be found jump-roping all day. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "398453@4",
+  "sire": "345497@8",
+  "children": [
+    "400576@10",
+    "401102@10",
+    "401801@10",
+    "402995@10",
+    "410828@10",
+    "420460@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 237,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 397035,
+  "name": "Fabulous Mutation",
+  "generation": 12,
+  "created_at": "2017-12-23T20:35:07.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Fabulous Mutation. I'm often referred to as the Ross Geller of the group. In my free time, I can usually be found hairy or sleeping in fresh laundry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "230043@11",
+  "sire": "366459@11",
+  "children": [
+    "406323@13",
+    "556685@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6774,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

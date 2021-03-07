@@ -1,0 +1,25 @@
+{
+  "id": 391905,
+  "name": "The Incredible Flying Karl",
+  "generation": 6,
+  "created_at": "2017-12-23T03:12:36.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm The Incredible Flying Karl. I've never told anyone this, but I once groomed a dog. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78592@5",
+  "sire": "386956@5",
+  "children": [
+    "478509@7",
+    "478871@7",
+    "1104922@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6696,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

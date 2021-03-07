@@ -1,0 +1,23 @@
+{
+  "id": 399632,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-24T04:39:47.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #399632. I'm a professional Foreign Film Director and I love ice cream. I once frolicked with a labradoodle. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "334383@9",
+  "sire": "399194@9",
+  "children": [
+    "436384@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1104,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 361455,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-18T10:34:01.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! Kitty #361455 here. I'm here to enjoy watching Stranger Things and reading garfield. I once pawed at a labradoodle. I don't like to talk about it. Our friendship will be tantalizing, gorgeous, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "355318@4",
+  "sire": "346466@3",
+  "children": [
+    "361912@6",
+    "362904@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6167,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

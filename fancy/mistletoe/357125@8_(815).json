@@ -1,0 +1,23 @@
+{
+  "id": 357125,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-18T00:59:03.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #357125. I'm a professional Foreign Film Director and I love cantaloupe. I once made a chimpanzee drink. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "348448@7",
+  "sire": "354582@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 815,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

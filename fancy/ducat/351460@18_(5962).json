@@ -1,0 +1,24 @@
+{
+  "id": 351460,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-17T13:23:35.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #351460. All you need to know about me is I hate ice cream with a passion. Some people say I'm the Michael Scott of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "251547@17",
+  "sire": "245006@16",
+  "children": [
+    "376591@19",
+    "392963@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5962,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

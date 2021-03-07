@@ -1,0 +1,23 @@
+{
+  "id": 395194,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-23T15:05:58.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #395194. I'm a professional Dogwalker and I love wet food. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266256@14",
+  "sire": "309121@21",
+  "children": [
+    "396306@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6748,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 333649,
+  "name": "6-6",
+  "generation": 6,
+  "created_at": "2017-12-16T03:25:39.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm 6-6. I've never told anyone this, but I once frolicked with a dog. I once frolicked with a labradoodle. I don't like to talk about it. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "330184@5",
+  "sire": "330186@5",
+  "children": [
+    "333788@7",
+    "334934@7",
+    "336207@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 619,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

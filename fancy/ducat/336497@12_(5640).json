@@ -1,0 +1,23 @@
+{
+  "id": 336497,
+  "name": "Princess",
+  "generation": 12,
+  "created_at": "2017-12-16T07:54:47.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Princess. All you need to know about me is I hate wet food with a passion. It's not common knowledge, but my ancestry connects me to Princess Diana. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "320383@11",
+  "sire": "317263@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5640,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

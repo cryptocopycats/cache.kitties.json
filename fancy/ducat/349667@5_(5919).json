@@ -1,0 +1,25 @@
+{
+  "id": 349667,
+  "name": "DuCat",
+  "generation": 5,
+  "created_at": "2017-12-17T08:58:49.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm DuCat. My friends describe me as ridiculous and brilliant. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "339528@4",
+  "sire": "311107@4",
+  "children": [
+    "365192@6",
+    "365739@6",
+    "391400@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5919,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

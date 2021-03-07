@@ -1,0 +1,23 @@
+{
+  "id": 375593,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-20T04:38:13.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #375593. I want to live in a world where people believe the world is flat. My secret indulgence is apple pie. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "375412@2",
+  "sire": "373032@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6412,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

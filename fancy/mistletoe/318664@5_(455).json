@@ -1,0 +1,24 @@
+{
+  "id": 318664,
+  "name": "Mr Claws",
+  "generation": 5,
+  "created_at": "2017-12-15T02:16:50.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Mr Claws. All you need to know about me is I hate ice cream with a passion. I would give it all up to star in a soap opera. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "286597@4",
+  "sire": "249280@4",
+  "children": [
+    "345836@6",
+    "346678@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 455,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

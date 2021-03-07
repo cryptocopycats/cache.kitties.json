@@ -1,0 +1,23 @@
+{
+  "id": 321448,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T06:41:18.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #321448. I'm often referred to as the Bart Simpson of the group. I was voted biggest teacher's pet in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "316322@5",
+  "sire": "231185@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5298,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

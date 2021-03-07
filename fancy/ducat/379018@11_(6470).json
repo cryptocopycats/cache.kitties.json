@@ -1,0 +1,24 @@
+{
+  "id": 379018,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-20T21:35:21.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #379018. I enjoy glaring at the neighbour's cat, riding dirty, and eating lasagna. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "348684@10",
+  "sire": "377414@10",
+  "children": [
+    "382650@12",
+    "389364@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6470,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

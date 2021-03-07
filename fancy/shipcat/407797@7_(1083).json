@@ -1,0 +1,23 @@
+{
+  "id": 407797,
+  "name": "Sailed the Seven Seas",
+  "generation": 7,
+  "created_at": "2017-12-25T14:39:24.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Sailed the Seven Seas. I'm a Aerobics Athlete  by day, and I like riding the bus by night. My friends describe me as \"preposterous.\" It's... accurate. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "224012@6",
+  "sire": "221588@6",
+  "children": [
+    "618200@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1083,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 409606,
+  "name": "Tootsie bird",
+  "generation": 6,
+  "created_at": "2017-12-25T22:49:08.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Tootsie bird. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Will you be the marmite to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "392345@5",
+  "sire": "391098@5",
+  "children": [
+    "410589@7",
+    "412924@7",
+    "413048@7",
+    "413455@7",
+    "414661@7",
+    "418688@7",
+    "430152@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6932,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

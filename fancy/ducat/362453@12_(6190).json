@@ -1,0 +1,26 @@
+{
+  "id": 362453,
+  "name": "Birdrod",
+  "generation": 12,
+  "created_at": "2017-12-18T13:14:45.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Birdrod. In high school, I was voted most likely to work at NASA. I am 84% elf, 44% Mad Scientist, and otherwise bad at math. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "181312@8",
+  "sire": "345966@11",
+  "children": [
+    "366187@13",
+    "374417@26",
+    "377886@23",
+    "417681@26"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6190,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

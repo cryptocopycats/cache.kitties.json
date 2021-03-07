@@ -1,0 +1,24 @@
+{
+  "id": 395668,
+  "name": "Count De Ville",
+  "generation": 11,
+  "created_at": "2017-12-23T16:35:53.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Count De Ville. I'm a professional Spin Instructor  and I love lasagna. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Our friendship will be voluptuous, annoying, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "383887@8",
+  "sire": "326430@10",
+  "children": [
+    "397043@12",
+    "560988@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 818,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 338649,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T11:30:17.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #338649. All you need to know about me is I hate chocolate with a passion. I put wasabi on everything. Like, everything: hot dogs, cereal—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325267@7",
+  "sire": "334025@7",
+  "children": [
+    "357583@9",
+    "358176@9",
+    "359228@9",
+    "366891@9",
+    "375417@9",
+    "431859@9",
+    "437181@9",
+    "548425@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 672,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

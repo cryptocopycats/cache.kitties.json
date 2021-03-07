@@ -1,0 +1,23 @@
+{
+  "id": 409691,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-25T23:06:41.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #409691. I've never told anyone this, but I once bit a dog. When I'm not braiding people's hair, I'm running a podcast! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "229609@5",
+  "sire": "191178@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6935,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

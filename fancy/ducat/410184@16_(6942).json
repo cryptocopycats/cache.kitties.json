@@ -1,0 +1,23 @@
+{
+  "id": 410184,
+  "name": "Sir Isaac Mewton",
+  "generation": 16,
+  "created_at": "2017-12-26T01:31:25.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Sir Isaac Mewton. All you need to know about me is I hate steak with a passion. I'm convinced that the world is flat. One day I'll prove it. Will you be the ranch dressing to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "266628@5",
+  "sire": "139602@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6942,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

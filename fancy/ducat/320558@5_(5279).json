@@ -1,0 +1,24 @@
+{
+  "id": 320558,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-15T05:11:18.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! Kitty #320558 here. I'm here to enjoy hitting on yo' man and slappin' da bass. I was voted school jock in college. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147931@4",
+  "sire": "221517@3",
+  "children": [
+    "323859@6",
+    "388599@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5279,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

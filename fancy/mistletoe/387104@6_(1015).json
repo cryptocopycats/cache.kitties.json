@@ -1,0 +1,24 @@
+{
+  "id": 387104,
+  "name": "www.goodkitty.net",
+  "generation": 6,
+  "created_at": "2017-12-22T08:33:13.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm www.goodkitty.net. I'm often referred to as the Lisa Simpson of the group. I put garlic butter on everything. Like, everything: hot dogs, salad—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "356060@1",
+  "sire": "361032@5",
+  "children": [
+    "547570@20",
+    "550743@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1015,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 317412,
+  "name": "Duccy Ducat",
+  "generation": 9,
+  "created_at": "2017-12-15T00:41:52.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Duccy Ducat. I've never told anyone this, but I once groomed a dog. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "307538@5",
+  "sire": "315770@8",
+  "children": [
+    "318294@10",
+    "366276@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5211,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

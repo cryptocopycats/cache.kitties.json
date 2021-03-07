@@ -1,0 +1,25 @@
+{
+  "id": 381919,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-21T07:37:25.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Kitty #381919. I'm often referred to as the Dwight Schrute of the group. I put maple syrup on everything. Like, everything: hot dogs, steak—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "196976@6",
+  "sire": "189508@6",
+  "children": [
+    "405240@8",
+    "405542@8",
+    "407201@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6530,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

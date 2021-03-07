@@ -1,0 +1,30 @@
+{
+  "id": 352145,
+  "name": "catman2",
+  "generation": 4,
+  "created_at": "2017-12-17T15:03:33.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm catman2. In high school, I was voted most likely to work at NASA. I once pranced with a gecko. I don't like to talk about it. Can you make my vegan dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "234853@3",
+  "sire": "299106@3",
+  "children": [
+    "568177@5",
+    "571265@5",
+    "572162@5",
+    "573360@5",
+    "574045@5",
+    "575964@5",
+    "576416@5",
+    "577529@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 673,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 399190,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-24T03:17:48.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm RARE BIRD! Fancy!. I enjoy chasing red dots, eating lasagna, and staying woke. I'm convinced that the world is flat. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "370223@3",
+  "sire": "364160@3",
+  "children": [
+    "399464@8",
+    "400575@8",
+    "1376375@19",
+    "1472437@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6794,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 334032,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-16T03:59:33.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #334032. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "332772@11",
+  "sire": "300049@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5573,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

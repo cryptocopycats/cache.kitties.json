@@ -1,0 +1,24 @@
+{
+  "id": 344610,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T22:35:08.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #344610. I'm a Train Conductor by day, and I like prank-calling celebrities by night. I like to listen to Wutang while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "334392@5",
+  "sire": "333072@5",
+  "children": [
+    "358646@7",
+    "358843@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5810,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

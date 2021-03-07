@@ -1,0 +1,23 @@
+{
+  "id": 322200,
+  "name": "Jaguar",
+  "generation": 5,
+  "created_at": "2017-12-15T07:55:38.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Jaguar. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Amelia Earhart. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "318260@4",
+  "sire": "214525@4",
+  "children": [
+    "356428@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5316,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

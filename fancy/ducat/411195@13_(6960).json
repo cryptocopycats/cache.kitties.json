@@ -1,0 +1,23 @@
+{
+  "id": 411195,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-26T06:32:00.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Kitty #411195. I'm a Dispensary Clerk by day, and I like sleeping in fresh laundry by night. Some people say I'm the Bart Simpson of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "28500@12",
+  "sire": "69323@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6960,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

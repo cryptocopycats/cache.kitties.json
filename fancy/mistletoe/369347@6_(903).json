@@ -1,0 +1,25 @@
+{
+  "id": 369347,
+  "name": "Mistletoe",
+  "generation": 6,
+  "created_at": "2017-12-19T07:16:26.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Mistletoe here. I'm here to enjoy glaring at the neighbour's cat and tripping my owner. I was voted most likely to work at NASA in college. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327730@5",
+  "sire": "358691@5",
+  "children": [
+    "371948@7",
+    "378413@9",
+    "1321601@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 903,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

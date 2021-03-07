@@ -1,0 +1,23 @@
+{
+  "id": 372246,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-19T18:39:01.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #372246. I'm often referred to as the Cersei Lannister of the group. I once frolicked with a dolphin. I don't like to talk about it. Can you make my vegan dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "318237@6",
+  "sire": "355606@6",
+  "children": [
+    "571412@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 745,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

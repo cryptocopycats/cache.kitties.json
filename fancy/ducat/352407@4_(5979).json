@@ -1,0 +1,23 @@
+{
+  "id": 352407,
+  "name": "Pip",
+  "generation": 4,
+  "created_at": "2017-12-17T15:38:33.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Pip. I enjoy breakdancing, watching Stranger Things, and slappin' da bass. My great-great-great-great-great-great grandkitty lived with Princess Diana. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336236@3",
+  "sire": "247976@3",
+  "children": [
+    "356593@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5979,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

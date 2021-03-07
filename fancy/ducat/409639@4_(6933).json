@@ -1,0 +1,24 @@
+{
+  "id": 409639,
+  "name": "ChikkiKitti",
+  "generation": 4,
+  "created_at": "2017-12-25T22:54:11.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm ChikkiKitti. I enjoy sitting on your computer, sweating through my feet, and chasing red dots. My friends describe me as \"raunchy.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "397662@3",
+  "sire": "314378@2",
+  "children": [
+    "409689@7",
+    "546241@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6933,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

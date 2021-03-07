@@ -1,0 +1,24 @@
+{
+  "id": 332344,
+  "name": "6-5",
+  "generation": 6,
+  "created_at": "2017-12-16T01:08:02.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! My name's 6-5. I once peed on Confucius's cat. They had it coming. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "297962@5",
+  "sire": "320672@5",
+  "children": [
+    "333788@7",
+    "334934@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 607,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

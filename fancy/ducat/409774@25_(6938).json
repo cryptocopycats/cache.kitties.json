@@ -1,0 +1,23 @@
+{
+  "id": 409774,
+  "name": "招き猫",
+  "generation": 25,
+  "created_at": "2017-12-25T23:26:58.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm 招き猫. My friends describe me as seductive and ridiculous. I'm convinced that the world is flat. One day I'll prove it. Will you be the marmite to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "346150@24",
+  "sire": "372229@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6938,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

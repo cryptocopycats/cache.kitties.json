@@ -1,0 +1,28 @@
+{
+  "id": 381621,
+  "name": "Mistletoe Dad",
+  "generation": 8,
+  "created_at": "2017-12-21T06:30:06.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! Mistletoe Dad here. I'm here to enjoy chasing string and riding unicorns. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found practicing witchcraft all day. I hope we can be gullible friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "322039@7",
+  "sire": "316434@6",
+  "children": [
+    "386982@10",
+    "433260@9",
+    "433956@9",
+    "440627@12",
+    "445938@9",
+    "448764@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 976,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

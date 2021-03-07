@@ -1,0 +1,27 @@
+{
+  "id": 341240,
+  "name": "DutchMaster 🐾 Fancy",
+  "generation": 11,
+  "created_at": "2017-12-16T16:35:03.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm DutchMaster 🐾 Fancy. I've never told anyone this, but I once frolicked with a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287307@10",
+  "sire": "338790@7",
+  "children": [
+    "343542@12",
+    "351821@12",
+    "353897@12",
+    "381564@12",
+    "415505@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5739,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

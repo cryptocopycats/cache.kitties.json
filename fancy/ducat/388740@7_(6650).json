@@ -1,0 +1,30 @@
+{
+  "id": 388740,
+  "name": "Birdy",
+  "generation": 7,
+  "created_at": "2017-12-22T15:40:49.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! Birdy here. I'm here to enjoy sitting on your computer and tripping my owner. I was voted biggest teacher's pet in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "262689@6",
+  "sire": "268522@3",
+  "children": [
+    "390888@8",
+    "392661@8",
+    "395738@8",
+    "397176@8",
+    "399479@8",
+    "402086@8",
+    "412016@8",
+    "417003@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6650,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

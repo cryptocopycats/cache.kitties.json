@@ -1,0 +1,24 @@
+{
+  "id": 405964,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-25T05:08:19.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #405964. All you need to know about me is I hate cantaloupe with a passion. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "405232@11",
+  "sire": "245190@7",
+  "children": [
+    "408619@13",
+    "410197@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6883,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

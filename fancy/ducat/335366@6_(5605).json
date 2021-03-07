@@ -1,0 +1,30 @@
+{
+  "id": 335366,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T06:06:23.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #335366. My friends describe me as voluptuous and hairy. My friends describe me as \"seductive.\" It's... accurate. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191178@5",
+  "sire": "73745@5",
+  "children": [
+    "337514@7",
+    "337927@7",
+    "339493@7",
+    "370250@7",
+    "376186@7",
+    "378089@7",
+    "383469@7",
+    "391517@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5605,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

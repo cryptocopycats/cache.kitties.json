@@ -1,0 +1,25 @@
+{
+  "id": 324125,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-15T11:09:36.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #324125. I'm a professional Dispensary Clerk and I love ice cream. I was voted most likely to work at NASA in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "315704@7",
+  "sire": "161914@7",
+  "children": [
+    "326891@9",
+    "343480@9",
+    "455301@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5358,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

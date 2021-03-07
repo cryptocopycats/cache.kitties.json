@@ -1,0 +1,24 @@
+{
+  "id": 398430,
+  "name": "Barf Christmas",
+  "generation": 7,
+  "created_at": "2017-12-24T00:56:25.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good day! I'm Barf Christmas. I'm a Dispensary Clerk by day, and I like mocking dogs by night. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321917@6",
+  "sire": "325679@6",
+  "children": [
+    "434339@8",
+    "434700@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1095,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 321783,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-15T07:12:07.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #321783. My friends describe me as vegan and gullible. When no one's home, I invite my pals over and we listen to Ace of Base. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "237061@6",
+  "sire": "280576@7",
+  "children": [
+    "523317@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5307,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 325313,
+  "name": "Mistletoe",
+  "generation": 8,
+  "created_at": "2017-12-15T13:17:47.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Mistletoe. I believe the world is flat. I am 4% wizard, 7% Aerobics Athlete , and otherwise bad at math. Will you be the ranch dressing to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "272636@7",
+  "sire": "297256@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 515,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

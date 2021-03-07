@@ -1,0 +1,26 @@
+{
+  "id": 316010,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-14T22:48:31.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #316010. My friends describe me as ridiculous and annoying. When no one's home, I invite my pals over and we listen to Mariah Carey. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "312203@7",
+  "sire": "309108@6",
+  "children": [
+    "325357@16",
+    "334344@17",
+    "336892@11",
+    "357231@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5178,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

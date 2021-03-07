@@ -1,0 +1,24 @@
+{
+  "id": 369920,
+  "name": "4-7-a-e",
+  "generation": 4,
+  "created_at": "2017-12-19T09:09:25.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm 4-7-a-e. I enjoy watching Stranger Things, picking flowers, and licking doorknobs. I once made a dolphin enjoy. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "256721@3",
+  "sire": "344827@3",
+  "children": [
+    "444182@5",
+    "474903@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 950,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

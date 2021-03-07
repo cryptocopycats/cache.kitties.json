@@ -1,0 +1,27 @@
+{
+  "id": 400670,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-24T07:15:45.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #400670. I'm often referred to as the Niles Crane of the group. Sometimes I daydream of a life full of fighting the patriarchy, ice cream, and talking about how much I lift. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "205910@7",
+  "sire": "345224@9",
+  "children": [
+    "431242@14",
+    "432907@14",
+    "436381@14",
+    "441461@14",
+    "451991@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 858,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

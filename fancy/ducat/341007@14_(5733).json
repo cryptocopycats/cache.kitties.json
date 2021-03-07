@@ -1,0 +1,23 @@
+{
+  "id": 341007,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-16T16:04:08.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #341007. My friends describe me as prickly and gullible. I like to listen to Wutang while grooming. Don't judge me. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308678@12",
+  "sire": "308709@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5733,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

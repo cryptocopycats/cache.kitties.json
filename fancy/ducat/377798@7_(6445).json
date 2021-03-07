@@ -1,0 +1,27 @@
+{
+  "id": 377798,
+  "name": "Purebred Fancy Kitty",
+  "generation": 7,
+  "created_at": "2017-12-20T16:28:26.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Purebred Fancy Kitty. I'm a professional Dispensary Clerk and I love apple pie. I once got in a fight with a rhino, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "182656@4",
+  "sire": "185519@6",
+  "children": [
+    "400838@8",
+    "402059@8",
+    "405038@8",
+    "408892@8",
+    "518395@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6445,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

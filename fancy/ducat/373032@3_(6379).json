@@ -1,0 +1,29 @@
+{
+  "id": 373032,
+  "name": "Cheapest Gen 3 Swift DuCat",
+  "generation": 3,
+  "created_at": "2017-12-19T21:01:48.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Cheapest Gen 3 Swift DuCat. I'm a professional Culinary Sanitation Specialist and I love chocolate. I like to listen to Beyoncé while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "224343@2",
+  "sire": "65078@2",
+  "children": [
+    "375593@4",
+    "375983@4",
+    "376869@4",
+    "377802@4",
+    "379457@9",
+    "383248@4",
+    "402507@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6379,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

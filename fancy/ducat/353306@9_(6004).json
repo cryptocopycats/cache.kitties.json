@@ -1,0 +1,25 @@
+{
+  "id": 353306,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-17T17:29:18.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Kitty #353306. I enjoy fighting the patriarchy, tripping my owner, and sweating through my feet. I like to listen to Wutang while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "352947@8",
+  "sire": "352800@6",
+  "children": [
+    "353600@10",
+    "355345@13",
+    "357326@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6004,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

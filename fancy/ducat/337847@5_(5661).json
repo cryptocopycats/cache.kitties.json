@@ -1,0 +1,29 @@
+{
+  "id": 337847,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-16T10:01:34.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #337847. I believe the world is flat. When no one's home, I invite my pals over and we listen to Ace of Base. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "206959@3",
+  "sire": "214586@4",
+  "children": [
+    "378497@6",
+    "383594@13",
+    "428716@9",
+    "444867@9",
+    "445384@6",
+    "562771@6",
+    "696173@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5661,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

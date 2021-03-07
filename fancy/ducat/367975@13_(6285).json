@@ -1,0 +1,27 @@
+{
+  "id": 367975,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-19T03:10:37.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #367975. I'm often referred to as the Neville Longbottom of the group. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "202521@12",
+  "sire": "105827@9",
+  "children": [
+    "370678@14",
+    "486610@14",
+    "488334@14",
+    "514190@14",
+    "532626@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6285,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 318955,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-15T02:39:17.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #318955. I want to live in a world where people believe the world is flat. I would give it all up for a Chanel purse. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "256211@16",
+  "sire": "289724@17",
+  "children": [
+    "554622@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5248,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

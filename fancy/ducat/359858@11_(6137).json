@@ -1,0 +1,26 @@
+{
+  "id": 359858,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-18T06:42:59.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm Kitty #359858. I believe that one day cats will rule this planet. When I'm not swiping left, I'm reading Danielle Steele! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "179975@10",
+  "sire": "340508@5",
+  "children": [
+    "360954@13",
+    "1105007@12",
+    "1107646@12",
+    "1109451@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6137,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

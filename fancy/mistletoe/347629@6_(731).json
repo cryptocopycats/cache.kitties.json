@@ -1,0 +1,26 @@
+{
+  "id": 347629,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T04:28:17.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #347629. My friends describe me as despicable and hairy. Sometimes I daydream of a life full of glaring at the neighbour's cat, chocolate, and jump-roping. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "315405@5",
+  "sire": "340450@5",
+  "children": [
+    "351338@10",
+    "353367@17",
+    "357506@17",
+    "366969@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 731,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

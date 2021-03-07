@@ -1,0 +1,25 @@
+{
+  "id": 336118,
+  "name": "Kittiesville #336118 G5",
+  "generation": 5,
+  "created_at": "2017-12-16T07:20:28.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kittiesville #336118 G5. I've never told anyone this, but I once groomed a dog. I once made a dolphin leap. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "235140@4",
+  "sire": "308624@3",
+  "children": [
+    "344803@6",
+    "354453@7",
+    "359179@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 584,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

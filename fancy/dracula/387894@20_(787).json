@@ -1,0 +1,29 @@
+{
+  "id": 387894,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-22T11:25:49.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #387894. I enjoy spinning sick beats, fighting the patriarchy, and watching Stranger Things. I'm often described as gullible, and I own it. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "367028@11",
+  "sire": "383865@19",
+  "children": [
+    "404250@21",
+    "445141@23",
+    "458669@23",
+    "484847@25",
+    "798755@27",
+    "1116200@21",
+    "1138090@21"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 787,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

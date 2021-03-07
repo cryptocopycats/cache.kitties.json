@@ -1,0 +1,25 @@
+{
+  "id": 383995,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-21T20:43:43.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #383995. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Wutang. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "247834@2",
+  "sire": "209718@2",
+  "children": [
+    "384698@12",
+    "423358@4",
+    "459101@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6572,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

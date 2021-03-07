@@ -1,0 +1,23 @@
+{
+  "id": 411393,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-26T07:37:42.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #411393. My friends describe me as brilliant and wondrous. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "258008@16",
+  "sire": "360468@19",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1103,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

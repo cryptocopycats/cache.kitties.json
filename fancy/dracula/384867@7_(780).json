@@ -1,0 +1,26 @@
+{
+  "id": 384867,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-21T23:50:16.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #384867. I'm a professional Private Dancer  and I love apple pie. I'm convinced that the world is flat. One day I'll prove it. Will you be the peanut butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "380321@6",
+  "sire": "351840@6",
+  "children": [
+    "386653@8",
+    "389475@12",
+    "393575@8",
+    "418263@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 780,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

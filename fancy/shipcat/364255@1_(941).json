@@ -1,0 +1,27 @@
+{
+  "id": 364255,
+  "name": "multihash.net",
+  "generation": 1,
+  "created_at": "2017-12-18T17:56:14.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm multihash.net. I believe the world is flat. Sometimes I daydream of a life full of chasing red dots, salad, and swiping left. I look forward to hitting on yo' man with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "323586@0",
+  "sire": "65863@0",
+  "children": [
+    "364527@9",
+    "365737@8",
+    "512401@2",
+    "532228@2",
+    "579731@2"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 941,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

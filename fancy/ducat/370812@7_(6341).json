@@ -1,0 +1,23 @@
+{
+  "id": 370812,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-19T13:01:13.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #370812. I enjoy tricking babies, eating lasagna, and picking on mice. I once got in a fight with a goose, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "297999@6",
+  "sire": "310099@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6341,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

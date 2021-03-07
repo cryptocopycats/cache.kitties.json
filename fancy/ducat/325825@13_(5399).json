@@ -1,0 +1,25 @@
+{
+  "id": 325825,
+  "name": "ok",
+  "generation": 13,
+  "created_at": "2017-12-15T14:18:32.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm ok. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Jon Snow of the group. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "258046@12",
+  "sire": "307279@11",
+  "children": [
+    "329560@14",
+    "344215@14",
+    "1046210@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5399,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

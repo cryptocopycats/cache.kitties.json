@@ -1,0 +1,23 @@
+{
+  "id": 318847,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-15T02:30:45.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Kitty #318847. In high school, I was voted school jock. Some people say I'm the Steve Urkel of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "316948@9",
+  "sire": "318028@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 459,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

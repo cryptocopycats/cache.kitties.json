@@ -1,0 +1,24 @@
+{
+  "id": 359822,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-18T06:39:28.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #359822. I'm often referred to as the Cersei Lannister of the group. I would give it all up for a Chanel purse. Will you be the maple syrup to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "227106@5",
+  "sire": "345188@5",
+  "children": [
+    "416820@7",
+    "419510@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 836,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

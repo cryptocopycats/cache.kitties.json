@@ -1,0 +1,30 @@
+{
+  "id": 332970,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T02:28:47.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #332970. I'm a Mad Scientist by day, and I like summoning ghosts by night. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be gorgeous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "223420@5",
+  "sire": "223981@5",
+  "children": [
+    "1107359@7",
+    "1107475@7",
+    "1107697@7",
+    "1108300@7",
+    "1109539@7",
+    "1112220@7",
+    "1115151@7",
+    "1118547@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5547,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

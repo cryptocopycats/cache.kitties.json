@@ -1,0 +1,23 @@
+{
+  "id": 339927,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T14:05:05.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #339927. I believe that one day cats will rule this planet. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. Our friendship will be vegan, gorgeous, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "320980@6",
+  "sire": "271640@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 679,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

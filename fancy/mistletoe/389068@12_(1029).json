@@ -1,0 +1,23 @@
+{
+  "id": 389068,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-22T17:11:24.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #389068. I've never told anyone this, but I once licked a dog. When I'm not swiping right, I'm pole dancing! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "383254@10",
+  "sire": "383160@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1029,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

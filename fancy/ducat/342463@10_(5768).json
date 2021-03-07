@@ -1,0 +1,24 @@
+{
+  "id": 342463,
+  "name": "Wings",
+  "generation": 10,
+  "created_at": "2017-12-16T18:51:37.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Wings. I enjoy reciting poetry, watching Stranger Things, and tripping my owner. My friends describe me as \"ridiculous.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308585@9",
+  "sire": "183682@4",
+  "children": [
+    "412308@11",
+    "462433@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5768,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

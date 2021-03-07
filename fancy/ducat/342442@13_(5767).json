@@ -1,0 +1,23 @@
+{
+  "id": 342442,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-16T18:50:03.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #342442. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341065@12",
+  "sire": "341174@5",
+  "children": [
+    "344507@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5767,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

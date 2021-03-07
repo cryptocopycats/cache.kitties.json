@@ -1,0 +1,28 @@
+{
+  "id": 337077,
+  "name": "Wingie",
+  "generation": 15,
+  "created_at": "2017-12-16T08:49:22.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Wingie. I believe that one day cats will rule this planet. I'm often described as preposterous, and I own it. I look forward to reciting poetry with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308397@13",
+  "sire": "306764@14",
+  "children": [
+    "359906@16",
+    "367222@16",
+    "387589@16",
+    "400722@16",
+    "414417@16",
+    "466449@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5651,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 394469,
+  "name": null,
+  "generation": 25,
+  "created_at": "2017-12-23T12:34:54.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #394469. I'm often referred to as the Hermione Granger of the group. I would give it all up for a Chanel purse. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239881@9",
+  "sire": "320302@24",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6732,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

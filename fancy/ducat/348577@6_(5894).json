@@ -1,0 +1,30 @@
+{
+  "id": 348577,
+  "name": "DuCat #5,894/10,000",
+  "generation": 6,
+  "created_at": "2017-12-17T06:33:28.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm DuCat #5,894/10,000. I've never told anyone this, but I once licked a dog. In my free time, I can usually be found prickly or pole dancing. Our friendship will be tantalizing, brilliant, and full of salad.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "315211@5",
+  "sire": "183200@5",
+  "children": [
+    "452302@7",
+    "452653@7",
+    "454589@7",
+    "550014@7",
+    "563395@8",
+    "565981@8",
+    "568745@7",
+    "573529@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5894,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

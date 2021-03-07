@@ -1,0 +1,26 @@
+{
+  "id": 332421,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-16T01:16:31.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #332421. In high school, I was voted biggest teacher's pet. I once got in a fight with a dog, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "332018@8",
+  "sire": "245879@8",
+  "children": [
+    "333218@10",
+    "334366@10",
+    "350584@11",
+    "366350@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 608,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

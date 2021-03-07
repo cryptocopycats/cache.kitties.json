@@ -1,0 +1,25 @@
+{
+  "id": 386760,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-22T07:06:26.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #386760. All you need to know about me is I hate steak with a passion. My secret indulgence is hamburgers. I look forward to spinning sick beats with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "382117@4",
+  "sire": "339952@4",
+  "children": [
+    "387058@6",
+    "387135@6",
+    "1105503@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6615,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

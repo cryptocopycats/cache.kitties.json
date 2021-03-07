@@ -1,0 +1,30 @@
+{
+  "id": 394914,
+  "name": "SantaClaws",
+  "generation": 12,
+  "created_at": "2017-12-23T14:11:43.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm SantaClaws. I enjoy chasing string, spinning sick beats, and being a nevernude. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "384872@11",
+  "sire": "351624@10",
+  "children": [
+    "407710@13",
+    "410783@13",
+    "412669@13",
+    "412818@18",
+    "430504@13",
+    "442525@13",
+    "458835@17",
+    "482222@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 210,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

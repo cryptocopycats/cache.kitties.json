@@ -1,0 +1,30 @@
+{
+  "id": 335608,
+  "name": "Kukuukkittie",
+  "generation": 13,
+  "created_at": "2017-12-16T06:29:21.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kukuukkittie. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of picking on mice, ice cream, and tricking babies. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "195910@12",
+  "sire": "195963@12",
+  "children": [
+    "347125@14",
+    "389309@14",
+    "391025@14",
+    "398864@21",
+    "405586@14",
+    "438342@16",
+    "466941@14",
+    "519217@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5611,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

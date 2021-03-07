@@ -1,0 +1,23 @@
+{
+  "id": 353255,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-17T17:21:21.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #353255. I've never told anyone this, but I once frolicked with a dog. I once made a goose ignore. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "328590@8",
+  "sire": "208055@10",
+  "children": [
+    "357291@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 679,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

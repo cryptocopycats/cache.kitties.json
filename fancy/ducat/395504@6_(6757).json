@@ -1,0 +1,26 @@
+{
+  "id": 395504,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-23T16:10:54.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #395504. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "271621@3",
+  "sire": "317214@5",
+  "children": [
+    "647283@7",
+    "647324@7",
+    "647392@7",
+    "647502@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6757,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 395558,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-23T16:20:07.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #395558. In high school, I was voted school jock. I would give it all up to star in a soap opera. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "309111@12",
+  "sire": "214487@8",
+  "children": [
+    "599886@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6758,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 350456,
+  "name": "Celf",
+  "generation": 8,
+  "created_at": "2017-12-17T10:48:26.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Celf. I'm often referred to as the Niles Crane of the group. My friends describe me as \"smelly.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325267@7",
+  "sire": "321846@6",
+  "children": [
+    "351135@9",
+    "352210@9",
+    "353345@10",
+    "373475@11",
+    "379387@11",
+    "448230@10",
+    "471192@10",
+    "587200@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 762,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

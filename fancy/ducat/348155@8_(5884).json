@@ -1,0 +1,23 @@
+{
+  "id": 348155,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T05:36:13.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's Kitty #348155. I once peed on Cleopatra's cat. They had it coming. My great-great-great-great-great-great grandkitty lived with Cleopatra. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "272413@7",
+  "sire": "267497@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5884,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

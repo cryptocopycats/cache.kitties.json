@@ -1,0 +1,23 @@
+{
+  "id": 325039,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-15T12:47:02.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #325039. In high school, I was voted most likely to work at NASA. When no one's home, I invite my pals over and we listen to Frank Sinatra. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "321936@8",
+  "sire": "319365@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5381,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

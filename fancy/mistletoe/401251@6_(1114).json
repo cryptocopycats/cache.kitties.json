@@ -1,0 +1,24 @@
+{
+  "id": 401251,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T09:35:36.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! My name's Kitty #401251. I once peed on Mother Theresa's cat. They had it coming. I was voted school jock in college. I look forward to picking on mice with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "349965@5",
+  "sire": "308903@4",
+  "children": [
+    "404574@7",
+    "421262@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1114,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

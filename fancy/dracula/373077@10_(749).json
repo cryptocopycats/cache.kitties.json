@@ -1,0 +1,23 @@
+{
+  "id": 373077,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-19T21:08:21.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #373077. I'm a Ventriloquist by day, and I like playing chess by night. It's not common knowledge, but my ancestry connects me to Princess Diana. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "371683@9",
+  "sire": "247601@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 749,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

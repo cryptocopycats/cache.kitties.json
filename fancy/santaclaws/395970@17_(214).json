@@ -1,0 +1,24 @@
+{
+  "id": 395970,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-23T17:25:53.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Kitty #395970. I've never told anyone this, but I once kissed a dog. I once kissed a rhino. I don't like to talk about it. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "390425@13",
+  "sire": "382643@16",
+  "children": [
+    "398564@18",
+    "403171@18"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 214,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

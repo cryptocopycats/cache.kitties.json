@@ -1,0 +1,24 @@
+{
+  "id": 330507,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-15T22:35:08.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #330507. I enjoy slappin' da bass, picking flowers, and hitting on yo' man. I once made a gecko enjoy. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283348@4",
+  "sire": "182354@7",
+  "children": [
+    "330908@9",
+    "1339254@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5501,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

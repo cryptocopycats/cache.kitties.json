@@ -1,0 +1,24 @@
+{
+  "id": 392986,
+  "name": "ChuckDucat",
+  "generation": 13,
+  "created_at": "2017-12-23T06:56:25.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm ChuckDucat. All you need to know about me is I hate cereal with a passion. I would give it all up to star in a soap opera. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "244101@12",
+  "sire": "320421@9",
+  "children": [
+    "411259@14",
+    "413204@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6709,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

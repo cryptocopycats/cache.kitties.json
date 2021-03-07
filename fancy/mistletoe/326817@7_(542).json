@@ -1,0 +1,23 @@
+{
+  "id": 326817,
+  "name": "Santa's Helper",
+  "generation": 7,
+  "created_at": "2017-12-15T16:45:57.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Santa's Helper. I'm often referred to as the Jon Snow of the group. Sometimes I daydream of a life full of being a nevernude, lasagna, and prank-calling celebrities. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325845@6",
+  "sire": "325814@6",
+  "children": [
+    "423562@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 542,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

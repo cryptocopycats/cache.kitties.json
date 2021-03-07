@@ -1,0 +1,23 @@
+{
+  "id": 377450,
+  "name": "Jingle Bell",
+  "generation": 3,
+  "created_at": "2017-12-20T14:36:54.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Jingle Bell. I'm a professional Dispensary Clerk and I love chocolate. I put maple syrup on everything. Like, everything: hot dogs, cantaloupe—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "332076@2",
+  "sire": "349196@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 944,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

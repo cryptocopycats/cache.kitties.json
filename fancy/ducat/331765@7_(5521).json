@@ -1,0 +1,24 @@
+{
+  "id": 331765,
+  "name": "Quack Smackley",
+  "generation": 7,
+  "created_at": "2017-12-16T00:21:35.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! Quack Smackley here. I'm here to enjoy fighting the patriarchy and being a nevernude. I put wasabi on everything. Like, everything: hot dogs, salad—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "325817@6",
+  "sire": "325824@6",
+  "children": [
+    "332210@8",
+    "334687@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5521,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

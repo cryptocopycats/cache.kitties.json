@@ -1,0 +1,23 @@
+{
+  "id": 333994,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T03:54:18.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #333994. In high school, I was voted most likely to work at NASA. My secret indulgence is cantaloupe. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "311902@5",
+  "sire": "173240@5",
+  "children": [
+    "409911@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 576,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

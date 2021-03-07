@@ -1,0 +1,28 @@
+{
+  "id": 326188,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-15T15:18:18.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #326188. I'm a Culinary Sanitation Specialist by day, and I like volunteering at the local kitten rescue shelter by night. I once got in a fight with a moose, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "269425@6",
+  "sire": "271850@6",
+  "children": [
+    "347416@8",
+    "349729@9",
+    "351000@8",
+    "352191@8",
+    "363682@8",
+    "1918935@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 861,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

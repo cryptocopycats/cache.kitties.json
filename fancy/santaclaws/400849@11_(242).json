@@ -1,0 +1,28 @@
+{
+  "id": 400849,
+  "name": "crypto santaclaws",
+  "generation": 11,
+  "created_at": "2017-12-24T07:57:11.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm crypto santaclaws. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as annoying, and I own it. Can you make my brilliant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "392254@10",
+  "sire": "385681@9",
+  "children": [
+    "406651@12",
+    "409837@12",
+    "410534@12",
+    "423069@12",
+    "430877@12",
+    "435133@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 242,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

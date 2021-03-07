@@ -1,0 +1,30 @@
+{
+  "id": 341503,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-16T16:59:42.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #341503. I'm a professional Dogwalker and I love wet food. My secret indulgence is salad. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274013@3",
+  "sire": "278235@3",
+  "children": [
+    "346403@5",
+    "346851@5",
+    "350881@5",
+    "381513@5",
+    "382020@5",
+    "384433@5",
+    "435419@5",
+    "659279@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5747,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

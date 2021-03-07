@@ -1,0 +1,23 @@
+{
+  "id": 354377,
+  "name": "Fly",
+  "generation": 13,
+  "created_at": "2017-12-17T19:39:27.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Fly. I'm often referred to as the Cersei Lannister of the group. I'm often described as gorgeous, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "275558@7",
+  "sire": "271625@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6027,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

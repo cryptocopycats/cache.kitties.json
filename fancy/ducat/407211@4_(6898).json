@@ -1,0 +1,24 @@
+{
+  "id": 407211,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-25T11:28:37.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #407211. All you need to know about me is I hate apple pie with a passion. My secret indulgence is wet food. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "406060@2",
+  "sire": "406532@3",
+  "children": [
+    "407284@5",
+    "407369@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6898,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

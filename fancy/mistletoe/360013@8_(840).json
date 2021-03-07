@@ -1,0 +1,32 @@
+{
+  "id": 360013,
+  "name": "Christmas Kitty",
+  "generation": 8,
+  "created_at": "2017-12-18T07:04:49.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Christmas Kitty. All you need to know about me is I hate hamburgers with a passion. When no one's home, I invite my pals over and we listen to Coldplay. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "349557@7",
+  "sire": "334124@6",
+  "children": [
+    "360562@9",
+    "366717@9",
+    "368086@9",
+    "379576@9",
+    "381831@9",
+    "390052@18",
+    "405042@10",
+    "418924@11",
+    "453512@15",
+    "475395@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 840,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

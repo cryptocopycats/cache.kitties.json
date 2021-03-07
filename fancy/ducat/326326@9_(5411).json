@@ -1,0 +1,23 @@
+{
+  "id": 326326,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-15T15:38:12.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #326326. I'm a professional Ventriloquist and I love lasagna. When no one's home, I invite my pals over and we listen to Aretha Franklin. I look forward to reciting poetry with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "314313@8",
+  "sire": "321973@8",
+  "children": [
+    "352739@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5411,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 412443,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-26T13:47:19.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #412443. My friends describe me as annoying and fabulous. When no one's home, I invite my pals over and we listen to Justin Bieber. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "284975@11",
+  "sire": "203439@16",
+  "children": [
+    "531588@18",
+    "1390891@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 933,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

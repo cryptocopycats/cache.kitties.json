@@ -1,0 +1,33 @@
+{
+  "id": 388274,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-22T13:03:35.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #388274. I've never told anyone this, but I once frolicked with a dog. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "340348@3",
+  "sire": "334317@3",
+  "children": [
+    "405479@5",
+    "405522@5",
+    "405653@5",
+    "405907@5",
+    "406359@5",
+    "407146@5",
+    "408639@5",
+    "412194@5",
+    "416719@5",
+    "428277@5",
+    "567498@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1013,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

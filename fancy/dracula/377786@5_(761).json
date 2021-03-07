@@ -1,0 +1,23 @@
+{
+  "id": 377786,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-20T16:24:02.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #377786. I'm often referred to as the Marge Simpson of the group. When no one's home, I invite my pals over and we listen to Beyoncé. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "306184@4",
+  "sire": "314496@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 761,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

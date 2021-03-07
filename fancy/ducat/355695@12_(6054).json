@@ -1,0 +1,24 @@
+{
+  "id": 355695,
+  "name": "2nd Generation Pure Bred",
+  "generation": 12,
+  "created_at": "2017-12-17T22:15:33.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Sup playa! My name's 2nd Generation Pure Bred. I once peed on King Henry VIII's cat. They had it coming. I put marmite on everything. Like, everything: hot dogs, cantaloupe—everything! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "347968@11",
+  "sire": "333316@10",
+  "children": [
+    "357926@13",
+    "360474@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6054,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

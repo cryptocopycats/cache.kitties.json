@@ -1,0 +1,23 @@
+{
+  "id": 318712,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-15T02:18:32.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #318712. I enjoy eating lasagna, chasing red dots, and eating until I loathe myself. Sometimes I daydream of a life full of picking flowers, wet food, and jump-roping. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "271797@21",
+  "sire": "155217@15",
+  "children": [
+    "575077@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 503,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

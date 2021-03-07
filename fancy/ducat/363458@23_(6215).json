@@ -1,0 +1,23 @@
+{
+  "id": 363458,
+  "name": null,
+  "generation": 23,
+  "created_at": "2017-12-18T15:58:15.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #363458. All you need to know about me is I hate hamburgers with a passion. When I'm not swiping left, I'm tricking babies! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "326251@22",
+  "sire": "249214@7",
+  "children": [
+    "410135@24"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6215,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

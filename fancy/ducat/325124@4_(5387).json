@@ -1,0 +1,27 @@
+{
+  "id": 325124,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-15T12:55:34.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #325124. I enjoy licking doorknobs, watching Stranger Things, and being a nevernude. I was voted biggest teacher's pet in college. I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "270490@2",
+  "sire": "271264@3",
+  "children": [
+    "340680@5",
+    "342653@5",
+    "422895@5",
+    "449406@5",
+    "453993@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5387,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

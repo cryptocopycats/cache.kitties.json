@@ -1,0 +1,25 @@
+{
+  "id": 332196,
+  "name": "Birdy Poo",
+  "generation": 3,
+  "created_at": "2017-12-16T00:55:04.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Birdy Poo. I've never told anyone this, but I once tricked a dog. I once got in a fight with a chimpanzee, and won. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "247353@2",
+  "sire": "103955@2",
+  "children": [
+    "332768@4",
+    "342815@4",
+    "344164@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5532,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

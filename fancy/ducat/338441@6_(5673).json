@@ -1,0 +1,25 @@
+{
+  "id": 338441,
+  "name": "Kitty #338441",
+  "generation": 6,
+  "created_at": "2017-12-16T11:06:28.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! Kitty #338441 here. I'm here to enjoy shakin' dat booty and riding dirty. I'm often described as prickly, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "321325@5",
+  "sire": "155983@5",
+  "children": [
+    "1949850@7",
+    "1949854@7",
+    "1952691@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5673,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

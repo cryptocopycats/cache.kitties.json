@@ -1,0 +1,23 @@
+{
+  "id": 410430,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-26T02:40:24.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm RARE BIRD! Fancy!. I'm a professional Train Conductor and I love apple pie. My friends describe me as \"ridiculous.\" It's... accurate. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "368498@3",
+  "sire": "383129@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6944,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

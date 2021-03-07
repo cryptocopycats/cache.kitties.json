@@ -1,0 +1,23 @@
+{
+  "id": 340971,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-16T15:58:34.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #340971. I've never told anyone this, but I once clawed a dog. Some people say I'm the Chandler Bing of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "340558@8",
+  "sire": "334924@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5731,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

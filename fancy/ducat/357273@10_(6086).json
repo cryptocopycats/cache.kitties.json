@@ -1,0 +1,23 @@
+{
+  "id": 357273,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-18T01:20:08.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! Kitty #357273 here. I'm here to enjoy eating lasagna and fighting the patriarchy. My friends describe me as \"seductive.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "330586@5",
+  "sire": "348919@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6086,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

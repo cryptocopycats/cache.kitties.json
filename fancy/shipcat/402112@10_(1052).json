@@ -1,0 +1,23 @@
+{
+  "id": 402112,
+  "name": "Jean-paul",
+  "generation": 10,
+  "created_at": "2017-12-24T13:42:24.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Jean-paul. I'm a Dispensary Clerk by day, and I like pole dancing by night. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "388252@9",
+  "sire": "395589@8",
+  "children": [
+    "441596@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1052,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

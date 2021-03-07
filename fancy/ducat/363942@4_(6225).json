@@ -1,0 +1,27 @@
+{
+  "id": 363942,
+  "name": "Ducks make Dracs",
+  "generation": 4,
+  "created_at": "2017-12-18T17:11:27.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Ducks make Dracs. In high school, I was voted school jock. I am 5% fairy, 60% Private Dancer , and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306943@3",
+  "sire": "229204@3",
+  "children": [
+    "364322@9",
+    "367509@9",
+    "1104691@5",
+    "1104941@5",
+    "1105334@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6225,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 407590,
+  "name": "TWEETY-KITTY",
+  "generation": 8,
+  "created_at": "2017-12-25T13:29:34.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! My name's TWEETY-KITTY. I once peed on Nelson Mandela's cat. They had it coming. I like to listen to Mariah Carey while grooming. Don't judge me. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "245472@7",
+  "sire": "399144@6",
+  "children": [
+    "437728@11",
+    "438417@11",
+    "440561@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6902,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

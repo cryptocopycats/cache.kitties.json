@@ -1,0 +1,23 @@
+{
+  "id": 402689,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-24T16:04:54.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #402689. I enjoy hitting on yo' man, glaring at the neighbour's cat, and fighting for the people. I once made a labradoodle play. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "389087@2",
+  "sire": "368707@2",
+  "children": [
+    "404777@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6838,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

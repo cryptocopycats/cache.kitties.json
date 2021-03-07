@@ -1,0 +1,23 @@
+{
+  "id": 350256,
+  "name": "Kitty Grinch",
+  "generation": 11,
+  "created_at": "2017-12-17T10:18:09.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! Kitty Grinch here. I'm here to enjoy watching Stranger Things and hitting on yo' man. My secret indulgence is apple pie. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "296517@10",
+  "sire": "297018@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 758,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

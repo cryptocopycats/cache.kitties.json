@@ -1,0 +1,23 @@
+{
+  "id": 316067,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-14T22:53:58.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #316067. All you need to know about me is I hate salad with a passion. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "230748@12",
+  "sire": "185453@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5180,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 335640,
+  "name": "Henrietta",
+  "generation": 4,
+  "created_at": "2017-12-16T06:33:22.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Henrietta. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "328466@3",
+  "sire": "284483@3",
+  "children": [
+    "354135@5",
+    "354600@5",
+    "356875@5",
+    "359153@5",
+    "413692@5",
+    "435057@5",
+    "465297@5",
+    "576951@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5613,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

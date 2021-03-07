@@ -1,0 +1,24 @@
+{
+  "id": 315204,
+  "name": "santa paws",
+  "generation": 8,
+  "created_at": "2017-12-14T21:55:58.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm santa paws. In high school, I was voted most likely to work at NASA. Some people say I'm the Marge Simpson of the group. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "187309@7",
+  "sire": "224714@7",
+  "children": [
+    "332074@9",
+    "371093@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 437,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

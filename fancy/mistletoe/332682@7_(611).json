@@ -1,0 +1,25 @@
+{
+  "id": 332682,
+  "name": "Virgin Mistletoe Gen 7 Snappy",
+  "generation": 7,
+  "created_at": "2017-12-16T01:40:56.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Virgin Mistletoe Gen 7 Snappy. I enjoy staying woke, being a nevernude, and tricking babies. Some people say I'm the Frodo Baggins of the group. I look forward to picking flowers with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "210776@3",
+  "sire": "332299@6",
+  "children": [
+    "360998@8",
+    "369316@8",
+    "392831@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 611,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

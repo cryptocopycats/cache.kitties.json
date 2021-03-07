@@ -1,0 +1,23 @@
+{
+  "id": 354010,
+  "name": "Snappy Chrstmas",
+  "generation": 9,
+  "created_at": "2017-12-17T18:55:56.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm Snappy Chrstmas. I'm a professional Skydiving Instructor and I love steak. My secret indulgence is hamburgers. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "188102@1",
+  "sire": "248990@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 788,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

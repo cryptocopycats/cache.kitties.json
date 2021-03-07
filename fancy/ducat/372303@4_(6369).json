@@ -1,0 +1,23 @@
+{
+  "id": 372303,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-19T18:48:50.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #372303. I want to live in a world where people believe the world is flat. Some people say I'm the Samwise Gamgee of the group. Will you be the soy sauce to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "136233@3",
+  "sire": "168721@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6369,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

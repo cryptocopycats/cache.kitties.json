@@ -1,0 +1,23 @@
+{
+  "id": 390459,
+  "name": "Dr Feelgood",
+  "generation": 20,
+  "created_at": "2017-12-22T22:06:25.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Dr Feelgood here. I'm here to enjoy chasing string and hitting on yo' man. When I'm not summoning ghosts, I'm jump-roping! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "219972@19",
+  "sire": "310522@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1016,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

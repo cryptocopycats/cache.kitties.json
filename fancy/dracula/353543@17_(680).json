@@ -1,0 +1,23 @@
+{
+  "id": 353543,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-17T17:53:25.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! Kitty #353543 here. I'm here to enjoy slappin' da bass and breakdancing. I once got in a fight with a labradoodle, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "349858@16",
+  "sire": "264967@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 680,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

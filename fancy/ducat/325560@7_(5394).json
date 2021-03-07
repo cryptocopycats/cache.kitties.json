@@ -1,0 +1,23 @@
+{
+  "id": 325560,
+  "name": "Ducatti in 3rd generation",
+  "generation": 7,
+  "created_at": "2017-12-15T13:47:12.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Ducatti in 3rd generation. I'm a professional Dogwalker and I love cereal. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306421@6",
+  "sire": "316218@4",
+  "children": [
+    "333404@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5394,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

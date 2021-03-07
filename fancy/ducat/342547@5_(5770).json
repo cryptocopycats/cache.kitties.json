@@ -1,0 +1,24 @@
+{
+  "id": 342547,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-16T19:01:29.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! Kitty #342547 here. I'm here to enjoy tripping my owner and taking selfies. I once made a dog sulk. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "338897@4",
+  "sire": "34025@4",
+  "children": [
+    "353644@6",
+    "364974@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5770,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

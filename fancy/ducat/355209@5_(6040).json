@@ -1,0 +1,25 @@
+{
+  "id": 355209,
+  "name": "Lucky Duck",
+  "generation": 5,
+  "created_at": "2017-12-17T21:17:28.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Lucky Duck. I've never told anyone this, but I once snuggled a dog. I like to listen to Frank Sinatra while grooming. Don't judge me. Will you be the ranch dressing to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "132691@4",
+  "sire": "261355@4",
+  "children": [
+    "538498@6",
+    "538793@6",
+    "555227@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6040,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

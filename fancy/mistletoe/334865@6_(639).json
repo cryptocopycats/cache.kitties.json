@@ -1,0 +1,25 @@
+{
+  "id": 334865,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T05:16:02.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #334865. I'm a professional Spin Instructor  and I love chocolate. My secret indulgence is steak. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "330184@5",
+  "sire": "322263@5",
+  "children": [
+    "335697@7",
+    "338797@7",
+    "548737@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 639,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

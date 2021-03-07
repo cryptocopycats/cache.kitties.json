@@ -1,0 +1,30 @@
+{
+  "id": 392227,
+  "name": "Marta",
+  "generation": 8,
+  "created_at": "2017-12-23T04:20:29.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm Marta. I'm often referred to as the Chandler Bing of the group. I like to listen to Gloria Estefan while grooming. Don't judge me. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "382915@6",
+  "sire": "391042@7",
+  "children": [
+    "395935@9",
+    "397265@9",
+    "398076@9",
+    "401365@9",
+    "404936@9",
+    "405796@9",
+    "515065@9",
+    "570643@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6701,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

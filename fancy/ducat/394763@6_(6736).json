@@ -1,0 +1,23 @@
+{
+  "id": 394763,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-23T13:43:40.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #394763. I enjoy chasing string, staying woke, and shakin' dat booty. I once made a goose dance. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "387945@5",
+  "sire": "385292@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6736,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

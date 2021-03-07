@@ -1,0 +1,26 @@
+{
+  "id": 369798,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-19T08:43:34.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #369798. My friends describe me as wondrous and raunchy. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "365380@5",
+  "sire": "361706@5",
+  "children": [
+    "381182@7",
+    "385388@7",
+    "388124@7",
+    "390753@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 948,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

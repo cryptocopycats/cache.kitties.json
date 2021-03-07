@@ -1,0 +1,26 @@
+{
+  "id": 324699,
+  "name": "Solar",
+  "generation": 12,
+  "created_at": "2017-12-15T12:15:24.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Solar. I believe the world is flat. Sometimes I daydream of a life full of riding dirty, cantaloupe, and prank-calling celebrities. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "323575@11",
+  "sire": "323670@10",
+  "children": [
+    "327362@13",
+    "332656@13",
+    "343612@13",
+    "1991750@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 508,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

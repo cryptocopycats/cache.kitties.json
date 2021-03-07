@@ -1,0 +1,26 @@
+{
+  "id": 411925,
+  "name": "Krismis Decoration",
+  "generation": 8,
+  "created_at": "2017-12-26T10:34:43.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Krismis Decoration. I believe the world is flat. In my free time, I can usually be found annoying or riding the bus. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "399265@7",
+  "sire": "408489@7",
+  "children": [
+    "432308@9",
+    "432885@9",
+    "434565@9",
+    "438293@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1191,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

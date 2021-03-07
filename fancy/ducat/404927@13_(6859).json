@@ -1,0 +1,25 @@
+{
+  "id": 404927,
+  "name": "Charles",
+  "generation": 13,
+  "created_at": "2017-12-25T00:36:15.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Charles. I'm often referred to as the Homer Simpson of the group. I'm convinced that the world is flat. One day I'll prove it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "234769@11",
+  "sire": "307593@12",
+  "children": [
+    "405376@14",
+    "441861@14",
+    "444038@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6859,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

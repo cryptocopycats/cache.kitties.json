@@ -1,0 +1,28 @@
+{
+  "id": 333425,
+  "name": "FirstBornAlpha",
+  "generation": 5,
+  "created_at": "2017-12-16T03:02:09.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm FirstBornAlpha. All you need to know about me is I hate cereal with a passion. I once dreamed of being a Dispensary Clerk. Now I can be found talking about how much I lift all day. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "295438@4",
+  "sire": "280736@2",
+  "children": [
+    "333661@15",
+    "334084@6",
+    "335298@6",
+    "341217@8",
+    "341244@8",
+    "443268@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5558,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 396372,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-23T18:38:51.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #396372. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"seductive.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "379714@3",
+  "sire": "384009@3",
+  "children": [
+    "411366@6",
+    "411666@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6768,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

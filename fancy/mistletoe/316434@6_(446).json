@@ -1,0 +1,33 @@
+{
+  "id": 316434,
+  "name": "Meowooahhh",
+  "generation": 6,
+  "created_at": "2017-12-14T23:27:43.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Meowooahhh. I'm often referred to as the Michael Scott of the group. Some people say I'm the Michael Scott of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "305318@4",
+  "sire": "312515@5",
+  "children": [
+    "341605@8",
+    "380554@8",
+    "381621@8",
+    "389287@8",
+    "391167@8",
+    "394335@8",
+    "400970@16",
+    "416403@7",
+    "432817@7",
+    "452011@7",
+    "460500@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 446,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

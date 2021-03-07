@@ -1,0 +1,23 @@
+{
+  "id": 340876,
+  "name": "✨Selena Gomez✨",
+  "generation": 10,
+  "created_at": "2017-12-16T15:50:54.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's ✨Selena Gomez✨. I once peed on Cleopatra's cat. They had it coming. I am 36% troll, 95% Aerobics Athlete , and otherwise bad at math. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "321033@9",
+  "sire": "228234@9",
+  "children": [
+    "341666@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5729,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

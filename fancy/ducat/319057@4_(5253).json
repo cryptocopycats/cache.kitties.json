@@ -1,0 +1,23 @@
+{
+  "id": 319057,
+  "name": "Ombre Eyes",
+  "generation": 4,
+  "created_at": "2017-12-15T02:51:04.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Ombre Eyes. I'm a professional Mad Scientist and I love cereal. I would give it all up for a Chanel purse. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241008@3",
+  "sire": "288250@3",
+  "children": [
+    "324264@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5253,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

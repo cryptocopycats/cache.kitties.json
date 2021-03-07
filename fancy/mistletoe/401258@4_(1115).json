@@ -1,0 +1,28 @@
+{
+  "id": 401258,
+  "name": "Messy",
+  "generation": 4,
+  "created_at": "2017-12-24T09:36:08.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Messy. I want to live in a world where people believe that one day cats will rule this planet. When I'm not people-watching, I'm practicing witchcraft! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "390111@3",
+  "sire": "358945@3",
+  "children": [
+    "401332@5",
+    "401412@5",
+    "406948@5",
+    "412339@5",
+    "414116@5",
+    "436006@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1115,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

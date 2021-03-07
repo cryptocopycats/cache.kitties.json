@@ -1,0 +1,27 @@
+{
+  "id": 343212,
+  "name": "Dr. Acula",
+  "generation": 5,
+  "created_at": "2017-12-16T20:14:36.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Dr. Acula. I've never told anyone this, but I once pranced with a dog. I once pranced with a rhino. I don't like to talk about it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "343126@3",
+  "sire": "342963@4",
+  "children": [
+    "343640@6",
+    "346096@7",
+    "346532@6",
+    "368269@6",
+    "504154@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 619,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

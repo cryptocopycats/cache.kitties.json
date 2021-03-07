@@ -1,0 +1,23 @@
+{
+  "id": 326322,
+  "name": "Popeye the 4th",
+  "generation": 4,
+  "created_at": "2017-12-15T15:38:12.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Popeye the 4th. In high school, I was voted most likely to work at NASA. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be gullible friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "298738@3",
+  "sire": "280566@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 862,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 330184,
+  "name": "5-6",
+  "generation": 5,
+  "created_at": "2017-12-15T22:05:55.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm 5-6. I enjoy riding unicorns, staying woke, and reciting poetry. In my free time, I can usually be found petulant or jump-roping. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "315933@4",
+  "sire": "279155@4",
+  "children": [
+    "333649@6",
+    "333892@6",
+    "334865@6",
+    "336167@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 586,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

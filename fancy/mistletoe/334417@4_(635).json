@@ -1,0 +1,26 @@
+{
+  "id": 334417,
+  "name": "Mistletoe",
+  "generation": 4,
+  "created_at": "2017-12-16T04:38:13.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Mistletoe here. I'm here to enjoy breakdancing and tripping my owner. When no one's home, I invite my pals over and we listen to Michael Bolton. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "334219@3",
+  "sire": "327236@3",
+  "children": [
+    "354695@5",
+    "420315@5",
+    "420604@5",
+    "434631@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 635,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 326423,
+  "name": "Fantaisie",
+  "generation": 5,
+  "created_at": "2017-12-15T15:52:19.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Fantaisie. I'm a professional Mad Scientist and I love apple pie. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I look forward to reciting poetry with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325204@4",
+  "sire": "325166@4",
+  "children": [
+    "418311@9",
+    "418692@8",
+    "419392@11",
+    "419931@6",
+    "421501@6",
+    "421996@6",
+    "423704@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 537,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

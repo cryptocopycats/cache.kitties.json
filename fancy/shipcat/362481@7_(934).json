@@ -1,0 +1,23 @@
+{
+  "id": 362481,
+  "name": "Cheluskin",
+  "generation": 7,
+  "created_at": "2017-12-18T13:19:15.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Cheluskin. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "350623@6",
+  "sire": "351916@6",
+  "children": [
+    "478989@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 934,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

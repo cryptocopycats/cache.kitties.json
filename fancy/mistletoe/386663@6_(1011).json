@@ -1,0 +1,24 @@
+{
+  "id": 386663,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-22T06:46:58.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! Kitty #386663 here. I'm here to enjoy spinning sick beats and sitting on your computer. I would give it all up to star in a soap opera. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "383286@5",
+  "sire": "370500@5",
+  "children": [
+    "406841@8",
+    "412609@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1011,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

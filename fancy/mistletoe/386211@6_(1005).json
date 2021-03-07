@@ -1,0 +1,27 @@
+{
+  "id": 386211,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-22T04:56:54.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! Kitty #386211 here. I'm here to enjoy taking selfies and breakdancing. I'm often described as seductive, and I own it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "383999@5",
+  "sire": "330640@5",
+  "children": [
+    "388606@7",
+    "388952@7",
+    "395932@7",
+    "399860@11",
+    "410437@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1005,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

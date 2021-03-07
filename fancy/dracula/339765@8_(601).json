@@ -1,0 +1,27 @@
+{
+  "id": 339765,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T13:42:14.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! Kitty #339765 here. I'm here to enjoy taking selfies and fighting the patriarchy. I'm often described as preposterous, and I own it. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "269247@7",
+  "sire": "205910@7",
+  "children": [
+    "343822@9",
+    "345224@9",
+    "346317@9",
+    "351732@9",
+    "355781@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 601,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 324649,
+  "name": "BreedYourOwn",
+  "generation": 13,
+  "created_at": "2017-12-15T12:07:22.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm BreedYourOwn. I'm a professional Mad Scientist and I love steak. I'm often described as preposterous, and I own it. Can you make my brilliant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "279302@11",
+  "sire": "305007@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 507,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

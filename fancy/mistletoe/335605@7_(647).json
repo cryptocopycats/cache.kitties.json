@@ -1,0 +1,25 @@
+{
+  "id": 335605,
+  "name": "Flop",
+  "generation": 7,
+  "created_at": "2017-12-16T06:28:55.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Flop. I've never told anyone this, but I once pranced with a dog. I am 25% oracle, 65% Culinary Sanitation Specialist, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325611@6",
+  "sire": "219867@6",
+  "children": [
+    "344699@8",
+    "345781@9",
+    "449838@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 647,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

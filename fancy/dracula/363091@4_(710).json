@@ -1,0 +1,29 @@
+{
+  "id": 363091,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-18T15:03:37.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #363091. I'm a Private Dancer  by day, and I like pole dancing by night. In my free time, I can usually be found gullible or playing chess. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "341478@3",
+  "sire": "338301@3",
+  "children": [
+    "399274@5",
+    "399432@5",
+    "399665@5",
+    "401813@5",
+    "403393@5",
+    "405533@5",
+    "411268@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 710,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 378260,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-20T18:27:14.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #378260. I'm often referred to as the Michael Scott of the group. I once groomed a dolphin. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219794@8",
+  "sire": "124861@4",
+  "children": [
+    "386064@10",
+    "405358@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6454,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

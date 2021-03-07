@@ -1,0 +1,23 @@
+{
+  "id": 380220,
+  "name": "Mistletoe Gen 7 Virgin",
+  "generation": 7,
+  "created_at": "2017-12-21T01:25:28.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Mistletoe Gen 7 Virgin. I've never told anyone this, but I once snuggled a dog. In my free time, I can usually be found seductive or practicing witchcraft. Our friendship will be smelly, tantalizing, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "373223@6",
+  "sire": "372643@6",
+  "children": [
+    "389013@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 962,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 334019,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-16T03:56:29.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #334019. I'm a professional Dogwalker and I love salad. I would give it all up to star in a soap opera. I hope we can be preposterous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "332761@11",
+  "sire": "300344@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5572,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

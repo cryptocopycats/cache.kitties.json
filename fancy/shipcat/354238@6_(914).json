@@ -1,0 +1,26 @@
+{
+  "id": 354238,
+  "name": "Sailor Sun",
+  "generation": 6,
+  "created_at": "2017-12-17T19:26:54.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Sailor Sun. In high school, I was voted school jock. My secret indulgence is lasagna. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "354135@5",
+  "sire": "350555@5",
+  "children": [
+    "354519@7",
+    "356680@7",
+    "358928@7",
+    "386316@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 914,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

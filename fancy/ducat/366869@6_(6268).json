@@ -1,0 +1,30 @@
+{
+  "id": 366869,
+  "name": "3/4 DukeCat",
+  "generation": 6,
+  "created_at": "2017-12-19T00:15:59.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! 3/4 DukeCat here. I'm here to enjoy grooming and tricking babies. I was voted biggest teacher's pet in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "339479@5",
+  "sire": "363446@5",
+  "children": [
+    "403716@11",
+    "404138@7",
+    "405445@7",
+    "406238@7",
+    "415092@9",
+    "417776@9",
+    "429131@7",
+    "1106106@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6268,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 396983,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-23T20:26:36.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Kitty #396983. I'm a professional Culinary Sanitation Specialist and I love apple pie. I'm often described as raunchy, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "329616@8",
+  "sire": "395678@6",
+  "children": [
+    "411087@10",
+    "412705@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1040,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

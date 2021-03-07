@@ -1,0 +1,24 @@
+{
+  "id": 337605,
+  "name": "Mr. Duckles",
+  "generation": 10,
+  "created_at": "2017-12-16T09:35:40.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Mr. Duckles. I'm often referred to as the Lisa Simpson of the group. I'm often described as despicable, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "337143@9",
+  "sire": "314508@9",
+  "children": [
+    "344526@11",
+    "347913@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5658,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

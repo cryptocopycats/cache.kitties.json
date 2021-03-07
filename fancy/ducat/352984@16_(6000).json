@@ -1,0 +1,23 @@
+{
+  "id": 352984,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-17T16:44:34.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! I'm Kitty #352984. I'm a Ventriloquist by day, and I like talking about how much I lift by night. I am 5% troll, 88% Skydiving Instructor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "334181@15",
+  "sire": "336647@14",
+  "children": [
+    "353145@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6000,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

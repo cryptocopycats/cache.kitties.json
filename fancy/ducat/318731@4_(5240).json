@@ -1,0 +1,23 @@
+{
+  "id": 318731,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-15T02:20:17.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #318731. I've never told anyone this, but I once licked a dog. When I'm not playing chess, I'm running a podcast! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "168721@3",
+  "sire": "136233@3",
+  "children": [
+    "363446@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5240,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

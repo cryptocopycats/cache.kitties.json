@@ -1,0 +1,25 @@
+{
+  "id": 341093,
+  "name": "Bubbles",
+  "generation": 6,
+  "created_at": "2017-12-16T16:19:50.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! I'm Bubbles. I'm often referred to as the Ron Weasley of the group. Sometimes I daydream of a life full of picking flowers, salad, and jump-roping. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325350@4",
+  "sire": "257517@5",
+  "children": [
+    "359119@8",
+    "516572@7",
+    "1507603@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 684,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

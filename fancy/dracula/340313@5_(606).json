@@ -1,0 +1,30 @@
+{
+  "id": 340313,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-16T14:44:54.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #340313. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Confucius. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "328621@4",
+  "sire": "302515@4",
+  "children": [
+    "359127@6",
+    "359715@6",
+    "360416@6",
+    "363718@6",
+    "368896@6",
+    "376191@6",
+    "389189@6",
+    "419736@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 606,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

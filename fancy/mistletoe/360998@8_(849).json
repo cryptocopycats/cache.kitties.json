@@ -1,0 +1,24 @@
+{
+  "id": 360998,
+  "name": "First Year Fancy: Mistletoe",
+  "generation": 8,
+  "created_at": "2017-12-18T09:28:49.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm First Year Fancy: Mistletoe. I'm a Train Conductor by day, and I like sleeping in fresh laundry by night. When I'm not reading Danielle Steele, I'm riverdancing! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "329847@7",
+  "sire": "332682@7",
+  "children": [
+    "547614@11",
+    "550896@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 849,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

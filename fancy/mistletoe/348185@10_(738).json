@@ -1,0 +1,26 @@
+{
+  "id": 348185,
+  "name": "Kitty #1",
+  "generation": 10,
+  "created_at": "2017-12-17T05:38:28.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #1. In high school, I was voted school jock. Some people say I'm the Steve Urkel of the group. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "341568@9",
+  "sire": "268908@8",
+  "children": [
+    "349317@11",
+    "350584@11",
+    "351968@13",
+    "366713@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 738,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

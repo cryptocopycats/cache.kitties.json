@@ -1,0 +1,23 @@
+{
+  "id": 402483,
+  "name": "G7! Super Rare ShipCat",
+  "generation": 7,
+  "created_at": "2017-12-24T15:17:27.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm G7! Super Rare ShipCat. I'm a Private Dancer  by day, and I like braiding people's hair by night. In my free time, I can usually be found prickly or mocking dogs. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "361268@6",
+  "sire": "399561@6",
+  "children": [
+    "419854@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1057,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

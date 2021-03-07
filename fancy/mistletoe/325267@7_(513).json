@@ -1,0 +1,28 @@
+{
+  "id": 325267,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-15T13:12:27.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #325267. I enjoy sitting on your computer, eating lasagna, and eating until I loathe myself. I was voted biggest teacher's pet in college. Will you be the peanut butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "320980@6",
+  "sire": "318812@6",
+  "children": [
+    "338649@8",
+    "350456@8",
+    "351522@8",
+    "352947@8",
+    "370929@8",
+    "625935@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 513,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

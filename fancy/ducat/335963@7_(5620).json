@@ -1,0 +1,27 @@
+{
+  "id": 335963,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T07:05:51.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #335963. I enjoy riding unicorns, shakin' dat booty, and tricking babies. I like to listen to Frank Sinatra while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "293511@3",
+  "sire": "305526@6",
+  "children": [
+    "336545@8",
+    "337115@8",
+    "338685@8",
+    "340847@14",
+    "353906@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5620,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

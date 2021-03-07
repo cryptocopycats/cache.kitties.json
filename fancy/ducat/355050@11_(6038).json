@@ -1,0 +1,23 @@
+{
+  "id": 355050,
+  "name": "Just Ducky",
+  "generation": 11,
+  "created_at": "2017-12-17T21:00:34.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! My name's Just Ducky. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once pranced with a chimpanzee. I don't like to talk about it. Will you be the peanut butter to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "329578@9",
+  "sire": "343280@10",
+  "children": [
+    "365330@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6038,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

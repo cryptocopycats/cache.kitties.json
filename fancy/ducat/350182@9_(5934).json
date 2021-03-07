@@ -1,0 +1,23 @@
+{
+  "id": 350182,
+  "name": "Kristokitty",
+  "generation": 9,
+  "created_at": "2017-12-17T10:08:41.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kristokitty. I believe the world is flat. Sometimes I daydream of a life full of eating until I loathe myself, apple pie, and summoning ghosts. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "317915@8",
+  "sire": "139003@5",
+  "children": [
+    "403299@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5934,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

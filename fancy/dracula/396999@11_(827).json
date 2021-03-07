@@ -1,0 +1,28 @@
+{
+  "id": 396999,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-23T20:27:48.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's Kitty #396999. I once peed on Cleopatra's cat. They had it coming. When I'm not swiping right, I'm watching reality tv! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "263526@9",
+  "sire": "396648@10",
+  "children": [
+    "402465@12",
+    "405181@12",
+    "406982@12",
+    "407757@12",
+    "412584@12",
+    "416302@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 827,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

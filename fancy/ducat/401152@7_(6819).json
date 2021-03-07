@@ -1,0 +1,26 @@
+{
+  "id": 401152,
+  "name": "Fancy DuCat Daffodil",
+  "generation": 7,
+  "created_at": "2017-12-24T09:13:45.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Fancy DuCat Daffodil. I want to live in a world where people believe the world is flat. I'm often described as prickly, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "397131@6",
+  "sire": "399868@6",
+  "children": [
+    "407653@8",
+    "412929@8",
+    "459270@8",
+    "459547@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6819,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

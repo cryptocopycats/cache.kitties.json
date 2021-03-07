@@ -1,0 +1,28 @@
+{
+  "id": 318436,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T02:00:40.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #318436. In high school, I was voted biggest teacher's pet. I once got in a fight with a moose, and won. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "263627@4",
+  "sire": "317001@5",
+  "children": [
+    "329258@7",
+    "335377@7",
+    "337120@7",
+    "338685@8",
+    "352071@7",
+    "536109@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5235,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

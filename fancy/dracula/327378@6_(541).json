@@ -1,0 +1,27 @@
+{
+  "id": 327378,
+  "name": "Aro",
+  "generation": 6,
+  "created_at": "2017-12-15T17:47:18.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Aro. I've never told anyone this, but I once headbutted a dog. I was voted most likely to work at NASA in college. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "325382@5",
+  "sire": "325664@5",
+  "children": [
+    "328051@7",
+    "329982@7",
+    "330962@7",
+    "377085@7",
+    "411429@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 541,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 364910,
+  "name": "Chunks",
+  "generation": 9,
+  "created_at": "2017-12-18T19:32:17.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Chunks. I've never told anyone this, but I once pranced with a dog. I like to listen to Beyoncé while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "358424@6",
+  "sire": "355232@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6241,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

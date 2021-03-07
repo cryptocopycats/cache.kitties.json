@@ -1,0 +1,23 @@
+{
+  "id": 324050,
+  "name": "纯正血统",
+  "generation": 3,
+  "created_at": "2017-12-15T11:02:29.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! My name's 纯正血统. I once peed on Cleopatra's cat. They had it coming. I once got in a fight with a labradoodle, and won. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "284554@2",
+  "sire": "245639@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5357,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

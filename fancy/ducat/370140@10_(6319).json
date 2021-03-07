@@ -1,0 +1,27 @@
+{
+  "id": 370140,
+  "name": "Hotrod Parentals",
+  "generation": 10,
+  "created_at": "2017-12-19T10:02:39.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Hotrod Parentals. In high school, I was voted most likely to work at NASA. I once tricked a rooster. I don't like to talk about it. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "362450@9",
+  "sire": "359327@7",
+  "children": [
+    "374055@11",
+    "376408@15",
+    "378510@11",
+    "382380@15",
+    "386765@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6319,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

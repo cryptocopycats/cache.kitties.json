@@ -1,0 +1,23 @@
+{
+  "id": 377862,
+  "name": "Finley",
+  "generation": 13,
+  "created_at": "2017-12-20T16:42:27.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! My name's Finley. I once peed on Cleopatra's cat. They had it coming. When no one's home, I invite my pals over and we listen to Ace of Base. I look forward to tricking babies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "325965@12",
+  "sire": "371335@9",
+  "children": [
+    "380052@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6446,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

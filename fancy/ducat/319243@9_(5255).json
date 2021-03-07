@@ -1,0 +1,27 @@
+{
+  "id": 319243,
+  "name": "Bird Butt",
+  "generation": 9,
+  "created_at": "2017-12-15T03:06:36.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! My name's Bird Butt. I once peed on Mother Theresa's cat. They had it coming. I once got in a fight with a moose, and won. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "317353@7",
+  "sire": "310986@8",
+  "children": [
+    "320132@11",
+    "324539@11",
+    "326846@11",
+    "342876@11",
+    "347606@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5255,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

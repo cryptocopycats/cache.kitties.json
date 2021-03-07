@@ -1,0 +1,23 @@
+{
+  "id": 333691,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T03:28:38.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Kitty #333691. I'm often referred to as the Frodo Baggins of the group. I once dreamed of being a Mad Scientist. Now I can be found braiding people's hair all day. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "330692@5",
+  "sire": "330641@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 620,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

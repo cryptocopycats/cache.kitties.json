@@ -1,0 +1,23 @@
+{
+  "id": 317958,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T01:22:48.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Kitty #317958 here. I'm here to enjoy fighting the patriarchy and chasing string. I'm convinced that the world is flat. One day I'll prove it. I look forward to spinning sick beats with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "302663@5",
+  "sire": "300193@5",
+  "children": [
+    "318466@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 501,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

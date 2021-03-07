@@ -1,0 +1,23 @@
+{
+  "id": 392805,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-23T06:20:00.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #392805. I believe that one day cats will rule this planet. I'm often described as stinky, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "387305@15",
+  "sire": "345380@8",
+  "children": [
+    "394390@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1025,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 381909,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-21T07:35:47.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #381909. I'm a professional Aerobics Athlete  and I love ice cream. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "381702@4",
+  "sire": "381854@7",
+  "children": [
+    "387391@9",
+    "396255@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6529,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

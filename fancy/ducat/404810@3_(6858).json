@@ -1,0 +1,23 @@
+{
+  "id": 404810,
+  "name": "Frosty",
+  "generation": 3,
+  "created_at": "2017-12-25T00:04:14.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Frosty. My friends describe me as prickly and stinky. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, salad—everything! Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "401157@2",
+  "sire": "401790@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6858,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

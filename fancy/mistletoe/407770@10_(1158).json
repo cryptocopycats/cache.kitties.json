@@ -1,0 +1,23 @@
+{
+  "id": 407770,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-25T14:32:32.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #407770. My friends describe me as stinky and ridiculous. I once loved a platypus. I don't like to talk about it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "386329@9",
+  "sire": "387992@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1158,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

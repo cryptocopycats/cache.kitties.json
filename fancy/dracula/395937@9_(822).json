@@ -1,0 +1,28 @@
+{
+  "id": 395937,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-23T17:20:50.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #395937. I've never told anyone this, but I once frolicked with a dog. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "364108@8",
+  "sire": "379847@8",
+  "children": [
+    "396648@10",
+    "398988@10",
+    "400513@10",
+    "403239@10",
+    "406298@10",
+    "411174@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 822,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

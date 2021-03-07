@@ -1,0 +1,32 @@
+{
+  "id": 387584,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-22T10:11:44.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #387584. I enjoy staying woke, sitting on your computer, and tripping my owner. I like to listen to Rihanna while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338089@5",
+  "sire": "315794@4",
+  "children": [
+    "402847@7",
+    "415981@7",
+    "420557@7",
+    "422519@7",
+    "426893@7",
+    "429572@7",
+    "434363@7",
+    "440707@7",
+    "448679@7",
+    "467809@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1019,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

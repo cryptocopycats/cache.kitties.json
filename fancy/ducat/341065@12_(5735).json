@@ -1,0 +1,23 @@
+{
+  "id": 341065,
+  "name": "Fancy Dozen",
+  "generation": 12,
+  "created_at": "2017-12-16T16:13:09.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Fancy Dozen. I want to live in a world where people believe the world is flat. I put ranch dressing on everything. Like, everything: hot dogs, hamburgers—everything! I look forward to sitting on your computer with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "320132@11",
+  "sire": "316417@5",
+  "children": [
+    "342442@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5735,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

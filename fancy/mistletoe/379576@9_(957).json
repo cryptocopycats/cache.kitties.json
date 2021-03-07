@@ -1,0 +1,27 @@
+{
+  "id": 379576,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-20T23:15:13.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #379576. I believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "360212@3",
+  "sire": "360013@8",
+  "children": [
+    "380509@13",
+    "382720@10",
+    "385272@10",
+    "388335@10",
+    "392148@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 957,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

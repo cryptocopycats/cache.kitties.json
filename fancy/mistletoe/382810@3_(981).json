@@ -1,0 +1,28 @@
+{
+  "id": 382810,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-21T13:07:57.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #382810. I enjoy fighting the patriarchy, riding dirty, and grooming. When I'm not people-watching, I'm practicing witchcraft! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "332076@2",
+  "sire": "327847@2",
+  "children": [
+    "383694@4",
+    "384392@4",
+    "385037@4",
+    "415027@4",
+    "415329@4",
+    "431519@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 981,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

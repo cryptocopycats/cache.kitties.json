@@ -1,0 +1,25 @@
+{
+  "id": 398662,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-24T01:41:28.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #398662. I'm a Foreign Film Director by day, and I like playing chess by night. I would give it all up for a Chanel purse. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "334185@7",
+  "sire": "397988@17",
+  "children": [
+    "399403@19",
+    "1376375@19",
+    "1472437@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 235,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

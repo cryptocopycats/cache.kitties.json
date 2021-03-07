@@ -1,0 +1,25 @@
+{
+  "id": 333655,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T03:26:18.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #333655. All you need to know about me is I hate lasagna with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "259605@5",
+  "sire": "312567@5",
+  "children": [
+    "334187@11",
+    "334334@7",
+    "341276@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5564,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

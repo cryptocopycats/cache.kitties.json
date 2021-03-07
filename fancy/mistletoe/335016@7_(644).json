@@ -1,0 +1,25 @@
+{
+  "id": 335016,
+  "name": "www.goodkitty.net",
+  "generation": 7,
+  "created_at": "2017-12-16T05:33:53.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm www.goodkitty.net. I'm often referred to as the Dwight Schrute of the group. I'm often described as vegan, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "324432@6",
+  "sire": "323705@6",
+  "children": [
+    "376561@17",
+    "547634@13",
+    "550649@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 644,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

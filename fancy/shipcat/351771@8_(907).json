@@ -1,0 +1,27 @@
+{
+  "id": 351771,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T14:14:38.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! I'm Kitty #351771. I'm often referred to as the Ross Geller of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "341663@6",
+  "sire": "342950@7",
+  "children": [
+    "354673@9",
+    "436911@12",
+    "551815@11",
+    "557694@9",
+    "558851@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 907,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

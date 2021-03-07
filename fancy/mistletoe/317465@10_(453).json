@@ -1,0 +1,23 @@
+{
+  "id": 317465,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-15T00:44:20.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Kitty #317465. I believe that one day cats will rule this planet. When I'm not swiping left, I'm sleeping in fresh laundry! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "246687@9",
+  "sire": "276170@9",
+  "children": [
+    "354139@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 453,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

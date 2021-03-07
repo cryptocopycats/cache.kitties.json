@@ -1,0 +1,23 @@
+{
+  "id": 336795,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T08:24:24.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #336795. My friends describe me as tantalizing and annoying. Some people say I'm the Homer Simpson of the group. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "326027@6",
+  "sire": "326196@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 660,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

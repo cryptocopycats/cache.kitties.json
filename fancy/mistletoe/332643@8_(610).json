@@ -1,0 +1,30 @@
+{
+  "id": 332643,
+  "name": "🎄 Fancy:Mistletoe 🎄",
+  "generation": 8,
+  "created_at": "2017-12-16T01:37:18.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm 🎄 Fancy:Mistletoe 🎄. I want to live in a world where people believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327064@7",
+  "sire": "331859@7",
+  "children": [
+    "342558@9",
+    "347136@9",
+    "353090@9",
+    "365790@9",
+    "390049@9",
+    "399910@9",
+    "415294@9",
+    "433171@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 610,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

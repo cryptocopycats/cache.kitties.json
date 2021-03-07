@@ -1,0 +1,32 @@
+{
+  "id": 412437,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-26T13:45:42.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #412437. All you need to know about me is I hate chocolate with a passion. My friends describe me as \"preposterous.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "390628@6",
+  "sire": "411692@8",
+  "children": [
+    "412663@10",
+    "413801@10",
+    "415129@10",
+    "420712@22",
+    "423495@22",
+    "454874@18",
+    "502808@22",
+    "552264@13",
+    "640430@20",
+    "717769@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 932,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

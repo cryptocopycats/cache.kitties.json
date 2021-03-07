@@ -1,0 +1,26 @@
+{
+  "id": 399868,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T05:14:01.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Kitty #399868. I believe that one day cats will rule this planet. I am 89% hobbit, 68% Dogwalker, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "399528@5",
+  "sire": "355330@5",
+  "children": [
+    "400377@7",
+    "401152@7",
+    "402256@7",
+    "422838@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6805,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 403718,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-24T19:57:43.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #403718. I want to live in a world where people believe the world is flat. Some people say I'm the Niles Crane of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "337379@1",
+  "sire": "345295@1",
+  "children": [
+    "419126@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6845,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

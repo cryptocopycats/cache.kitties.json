@@ -1,0 +1,32 @@
+{
+  "id": 405042,
+  "name": "mistletoe f2-3-1",
+  "generation": 10,
+  "created_at": "2017-12-25T01:05:58.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm mistletoe f2-3-1. My friends describe me as hairy and preposterous. When I'm not practicing witchcraft, I'm talking about how much I lift! I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "369034@9",
+  "sire": "360013@8",
+  "children": [
+    "405651@11",
+    "406343@13",
+    "407868@11",
+    "419193@11",
+    "444039@11",
+    "448280@25",
+    "462223@23",
+    "497384@11",
+    "535533@15",
+    "640942@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1138,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

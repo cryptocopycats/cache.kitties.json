@@ -1,0 +1,25 @@
+{
+  "id": 348220,
+  "name": "Vun, Two... ah, ah, ah",
+  "generation": 19,
+  "created_at": "2017-12-17T05:42:45.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Vun, Two... ah, ah, ah. I'm often referred to as the Steve Urkel of the group. My secret indulgence is apple pie. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "346178@10",
+  "sire": "339080@18",
+  "children": [
+    "352060@20",
+    "441040@152",
+    "450220@155"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 651,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

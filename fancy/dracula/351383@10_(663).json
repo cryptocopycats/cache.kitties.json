@@ -1,0 +1,26 @@
+{
+  "id": 351383,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-17T13:09:30.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #351383. In high school, I was voted school jock. When no one's home, I invite my pals over and we listen to Coldplay. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "350647@8",
+  "sire": "350656@9",
+  "children": [
+    "351815@11",
+    "365865@12",
+    "371494@11",
+    "437477@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 663,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 360468,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-18T08:04:43.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Kitty #360468. I'm a Dogwalker by day, and I like reading Danielle Steele by night. I once bit a dolphin. I don't like to talk about it. Will you be the peanut butter to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "280364@18",
+  "sire": "282565@17",
+  "children": [
+    "411393@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 929,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 344974,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-16T23:19:19.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Kitty #344974. I once peed on Marie Antoinette's cat. They had it coming. In my free time, I can usually be found tantalizing or watching reality tv. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "192445@3",
+  "sire": "339857@3",
+  "children": [
+    "405350@5",
+    "415119@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5821,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

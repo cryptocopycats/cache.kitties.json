@@ -1,0 +1,23 @@
+{
+  "id": 410433,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-26T02:40:59.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #410433. In high school, I was voted school jock. My secret indulgence is wet food. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "334317@3",
+  "sire": "340348@3",
+  "children": [
+    "410703@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1097,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

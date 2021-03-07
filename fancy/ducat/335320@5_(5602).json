@@ -1,0 +1,23 @@
+{
+  "id": 335320,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-16T05:57:44.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #335320. All you need to know about me is I hate hamburgers with a passion. I put soy sauce on everything. Like, everything: hot dogs, chocolate—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "335126@4",
+  "sire": "67866@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5602,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

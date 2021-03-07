@@ -1,0 +1,29 @@
+{
+  "id": 351629,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T13:47:43.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Kitty #351629. I'm a Spin Instructor  by day, and I like swiping right by night. I would give it all up to be on Oprah. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "346353@6",
+  "sire": "346528@6",
+  "children": [
+    "351781@8",
+    "352049@8",
+    "352742@8",
+    "374504@10",
+    "387143@10",
+    "392315@10",
+    "402033@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 769,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

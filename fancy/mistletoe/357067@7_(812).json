@@ -1,0 +1,26 @@
+{
+  "id": 357067,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-18T00:52:11.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #357067. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Justin Bieber. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "355687@6",
+  "sire": "265502@6",
+  "children": [
+    "358247@8",
+    "366738@8",
+    "385433@8",
+    "544275@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 812,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

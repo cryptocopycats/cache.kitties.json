@@ -1,0 +1,23 @@
+{
+  "id": 379602,
+  "name": "Christmas Sister",
+  "generation": 7,
+  "created_at": "2017-12-20T23:20:05.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Christmas Sister. In high school, I was voted school jock. I would give it all up to star in a soap opera. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "373664@3",
+  "sire": "347025@6",
+  "children": [
+    "380635@13"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 958,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

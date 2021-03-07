@@ -1,0 +1,23 @@
+{
+  "id": 325040,
+  "name": "MANX DUCAT",
+  "generation": 8,
+  "created_at": "2017-12-15T12:47:07.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's MANX DUCAT. I once peed on Princess Diana's cat. They had it coming. I once got in a fight with a gecko, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "324110@7",
+  "sire": "221496@7",
+  "children": [
+    "345281@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5382,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 336182,
+  "name": "Dice",
+  "generation": 6,
+  "created_at": "2017-12-16T07:26:48.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Dice. My friends describe me as tantalizing and smelly. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "322092@5",
+  "sire": "301181@5",
+  "children": [
+    "349930@7",
+    "354522@7",
+    "359405@8",
+    "363652@7",
+    "390060@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5628,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

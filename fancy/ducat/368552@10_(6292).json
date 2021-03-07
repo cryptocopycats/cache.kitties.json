@@ -1,0 +1,23 @@
+{
+  "id": 368552,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-19T04:45:09.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #368552. My friends describe me as smelly and voluptuous. I would give it all up for a Chanel purse. Will you be the wasabi to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "189958@9",
+  "sire": "291920@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6292,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

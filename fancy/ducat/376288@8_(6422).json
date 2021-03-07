@@ -1,0 +1,29 @@
+{
+  "id": 376288,
+  "name": "New Genes Duck",
+  "generation": 8,
+  "created_at": "2017-12-20T07:08:00.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm New Genes Duck. I'm a professional Private Dancer  and I love cereal. I once got in a fight with a goose, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "376186@7",
+  "sire": "376141@7",
+  "children": [
+    "392079@9",
+    "617370@9",
+    "705054@9",
+    "1421377@9",
+    "1432635@9",
+    "1434510@9",
+    "1954244@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6422,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

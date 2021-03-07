@@ -1,0 +1,23 @@
+{
+  "id": 320637,
+  "name": "FANCY Virgin Santa",
+  "generation": 8,
+  "created_at": "2017-12-15T05:19:04.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm FANCY Virgin Santa. I enjoy picking flowers, licking doorknobs, and fighting for the people. I once got in a fight with a platypus, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "320490@7",
+  "sire": "314677@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 34,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

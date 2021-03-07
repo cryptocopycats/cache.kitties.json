@@ -1,0 +1,24 @@
+{
+  "id": 341203,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-16T16:32:35.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! Kitty #341203 here. I'm here to enjoy staying woke and shakin' dat booty. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "333440@11",
+  "sire": "340523@9",
+  "children": [
+    "344474@13",
+    "350011@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 608,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

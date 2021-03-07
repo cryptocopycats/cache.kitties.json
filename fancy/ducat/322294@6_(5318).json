@@ -1,0 +1,24 @@
+{
+  "id": 322294,
+  "name": "Chirpsie",
+  "generation": 6,
+  "created_at": "2017-12-15T08:01:31.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Chirpsie. In high school, I was voted most likely to work at NASA. I would give it all up to be on Oprah. Can you make my gorgeous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "119367@5",
+  "sire": "178602@5",
+  "children": [
+    "343438@8",
+    "372869@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5318,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

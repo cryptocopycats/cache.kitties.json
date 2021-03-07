@@ -1,0 +1,23 @@
+{
+  "id": 341777,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T17:30:39.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #341777. I'm a Aerobics Athlete  by day, and I like watching reality tv by night. I once got in a fight with a moose, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341561@7",
+  "sire": "341133@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5752,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

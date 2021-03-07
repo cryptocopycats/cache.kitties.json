@@ -1,0 +1,23 @@
+{
+  "id": 350077,
+  "name": "350k",
+  "generation": 15,
+  "created_at": "2017-12-17T09:49:59.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm 350k. I'm a Spin Instructor  by day, and I like running a podcast by night. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "308206@12",
+  "sire": "327828@14",
+  "children": [
+    "384740@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 756,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

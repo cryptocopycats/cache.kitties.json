@@ -1,0 +1,23 @@
+{
+  "id": 324869,
+  "name": "Virgin Birdy",
+  "generation": 14,
+  "created_at": "2017-12-15T12:31:34.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Virgin Birdy. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "323611@13",
+  "sire": "278825@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5374,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

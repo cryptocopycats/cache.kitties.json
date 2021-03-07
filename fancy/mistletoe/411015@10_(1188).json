@@ -1,0 +1,25 @@
+{
+  "id": 411015,
+  "name": "JOE MC MISTLETOE",
+  "generation": 10,
+  "created_at": "2017-12-26T05:33:57.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm JOE MC MISTLETOE. In high school, I was voted most likely to work at NASA. My friends describe me as \"gullible.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "409509@9",
+  "sire": "410666@9",
+  "children": [
+    "437728@11",
+    "438417@11",
+    "439962@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1188,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

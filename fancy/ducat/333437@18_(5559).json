@@ -1,0 +1,23 @@
+{
+  "id": 333437,
+  "name": "Starter Birdie",
+  "generation": 18,
+  "created_at": "2017-12-16T03:02:47.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! Starter Birdie here. I'm here to enjoy fighting for the people and chasing red dots. In my free time, I can usually be found smelly or running a podcast. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "31483@17",
+  "sire": "118030@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5559,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

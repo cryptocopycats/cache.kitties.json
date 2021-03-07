@@ -1,0 +1,25 @@
+{
+  "id": 395787,
+  "name": "Dracula",
+  "generation": 10,
+  "created_at": "2017-12-23T16:55:41.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Dracula. I enjoy hitting on yo' man, riding unicorns, and picking on mice. I once got in a fight with a dolphin, and won. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "394641@7",
+  "sire": "395551@9",
+  "children": [
+    "407682@12",
+    "548049@19",
+    "566709@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 820,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

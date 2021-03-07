@@ -1,0 +1,27 @@
+{
+  "id": 342926,
+  "name": "Clucky McCluckface",
+  "generation": 12,
+  "created_at": "2017-12-16T19:44:31.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Clucky McCluckface. I enjoy riding dirty, riding unicorns, and glaring at the neighbour's cat. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "273417@10",
+  "sire": "260553@11",
+  "children": [
+    "345280@13",
+    "423055@13",
+    "423873@14",
+    "490136@13",
+    "493869@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5778,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

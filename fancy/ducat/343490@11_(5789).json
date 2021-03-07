@@ -1,0 +1,23 @@
+{
+  "id": 343490,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-16T20:38:56.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #343490. My friends describe me as ridiculous and preposterous. I once dreamed of being a Ventriloquist. Now I can be found talking about how much I lift all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342582@10",
+  "sire": "327123@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5789,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

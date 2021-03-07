@@ -1,0 +1,23 @@
+{
+  "id": 392894,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-23T06:40:18.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Kitty #392894. I believe that one day cats will rule this planet. Sometimes I daydream of a life full of riding unicorns, chocolate, and tricking babies. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "324835@5",
+  "sire": "310596@5",
+  "children": [
+    "400236@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 205,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

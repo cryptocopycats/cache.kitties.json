@@ -1,0 +1,28 @@
+{
+  "id": 316400,
+  "name": "Stechender Seefahrer",
+  "generation": 6,
+  "created_at": "2017-12-14T23:23:29.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! Stechender Seefahrer here. I'm here to enjoy licking doorknobs and sweating through my feet. Sometimes I daydream of a life full of tricking babies, salad, and swiping left. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "279337@5",
+  "sire": "206604@5",
+  "children": [
+    "316617@7",
+    "317363@14",
+    "328373@7",
+    "332102@7",
+    "342855@7",
+    "431408@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 840,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

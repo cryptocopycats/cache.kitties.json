@@ -1,0 +1,28 @@
+{
+  "id": 336041,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T07:13:25.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #336041. I want to live in a world where people believe the world is flat. I put wasabi on everything. Like, everything: hot dogs, lasagna—everything! I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325350@4",
+  "sire": "257517@5",
+  "children": [
+    "336602@9",
+    "346018@16",
+    "346607@12",
+    "368303@7",
+    "425185@8",
+    "1503832@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 650,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 350656,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-17T11:19:50.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #350656. I'm a professional Foreign Film Director and I love chocolate. I am 72% gremlin, 48% Ventriloquist, and otherwise bad at math. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "202611@5",
+  "sire": "343188@8",
+  "children": [
+    "351383@10",
+    "352820@10",
+    "371049@10",
+    "437555@10",
+    "505074@10",
+    "506077@10",
+    "551298@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 660,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

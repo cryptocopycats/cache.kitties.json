@@ -1,0 +1,23 @@
+{
+  "id": 378263,
+  "name": "Cool Chicken",
+  "generation": 7,
+  "created_at": "2017-12-20T18:29:22.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Cool Chicken. I enjoy eating lasagna, taking selfies, and picking on mice. I like to listen to Beyoncé while grooming. Don't judge me. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "316956@6",
+  "sire": "363233@3",
+  "children": [
+    "378453@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6455,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

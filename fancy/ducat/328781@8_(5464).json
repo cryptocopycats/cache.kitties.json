@@ -1,0 +1,24 @@
+{
+  "id": 328781,
+  "name": "Petaracatyl",
+  "generation": 8,
+  "created_at": "2017-12-15T20:02:39.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Petaracatyl. I enjoy picking flowers, fighting for the people, and shakin' dat booty. I once made a dolphin grimace. Will you be the wasabi to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "327329@4",
+  "sire": "255906@7",
+  "children": [
+    "328907@9",
+    "331871@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5464,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

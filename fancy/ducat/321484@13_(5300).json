@@ -1,0 +1,29 @@
+{
+  "id": 321484,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-15T06:44:10.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #321484. I'm a professional Culinary Sanitation Specialist and I love lasagna. Some people say I'm the Cersei Lannister of the group. Our friendship will be annoying, raunchy, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "285231@12",
+  "sire": "278747@12",
+  "children": [
+    "323814@14",
+    "326471@14",
+    "334642@15",
+    "346367@14",
+    "369470@14",
+    "369736@14",
+    "389887@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5300,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

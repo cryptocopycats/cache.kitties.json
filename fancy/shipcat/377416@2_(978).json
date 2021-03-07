@@ -1,0 +1,23 @@
+{
+  "id": 377416,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-20T14:20:47.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #377416. I enjoy fighting the patriarchy, being a nevernude, and picking flowers. My secret indulgence is chocolate. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "359621@1",
+  "sire": "103758@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 978,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

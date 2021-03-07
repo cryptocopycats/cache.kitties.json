@@ -1,0 +1,24 @@
+{
+  "id": 402545,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-24T15:35:55.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #402545. I'm often referred to as the Ron Weasley of the group. When I'm not swiping left, I'm playing chess! I hope we can be petulant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "401840@4",
+  "sire": "159374@4",
+  "children": [
+    "1457001@22",
+    "1492092@22"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1118,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

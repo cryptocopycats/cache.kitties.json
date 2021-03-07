@@ -1,0 +1,26 @@
+{
+  "id": 353613,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-17T18:04:21.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Kitty #353613. I've never told anyone this, but I once pawed at a dog. I put soy sauce on everything. Like, everything: hot dogs, wet food—everything! Our friendship will be petulant, stinky, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "349765@11",
+  "sire": "338032@10",
+  "children": [
+    "360986@13",
+    "366254@13",
+    "372600@13",
+    "376939@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 96,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

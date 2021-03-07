@@ -1,0 +1,23 @@
+{
+  "id": 411102,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-26T06:07:24.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Kitty #411102. I want to live in a world where people believe the world is flat. When no one's home, I invite my pals over and we listen to Frank Sinatra. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241374@13",
+  "sire": "206807@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6957,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

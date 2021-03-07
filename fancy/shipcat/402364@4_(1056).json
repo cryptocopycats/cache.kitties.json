@@ -1,0 +1,33 @@
+{
+  "id": 402364,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-24T14:50:26.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #402364. I'm often referred to as the Jon Snow of the group. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "362395@3",
+  "sire": "388652@3",
+  "children": [
+    "402390@5",
+    "405479@5",
+    "405653@5",
+    "405907@5",
+    "406359@5",
+    "407146@5",
+    "408639@5",
+    "412194@5",
+    "416719@5",
+    "428277@5",
+    "567498@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1056,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

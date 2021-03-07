@@ -1,0 +1,23 @@
+{
+  "id": 388145,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-22T12:29:13.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Uh, hi! I'm Kitty #388145. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Will you be the ranch dressing to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "70048@15",
+  "sire": "164500@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1009,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

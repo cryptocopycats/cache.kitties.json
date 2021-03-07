@@ -1,0 +1,23 @@
+{
+  "id": 316768,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-14T23:50:49.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #316768. I want to live in a world where people believe that one day cats will rule this planet. I once pawed at a rabbit. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "161114@6",
+  "sire": "224350@6",
+  "children": [
+    "354930@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 496,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 376418,
+  "name": "Count Lee",
+  "generation": 6,
+  "created_at": "2017-12-20T07:34:44.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Count Lee. All you need to know about me is I hate hamburgers with a passion. When no one's home, I invite my pals over and we listen to Rihanna. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "358691@5",
+  "sire": "327730@5",
+  "children": [
+    "383887@8",
+    "384991@7",
+    "395617@8",
+    "468179@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 759,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 372493,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-19T19:25:04.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #372493. I believe that one day cats will rule this planet. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope we can be stinky friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "290301@6",
+  "sire": "56990@12",
+  "children": [
+    "382180@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6373,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

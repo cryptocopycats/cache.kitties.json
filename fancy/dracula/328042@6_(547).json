@@ -1,0 +1,28 @@
+{
+  "id": 328042,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T18:59:33.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #328042. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of fighting for the people, salad, and braiding people's hair. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "325382@5",
+  "sire": "325664@5",
+  "children": [
+    "328407@7",
+    "329472@7",
+    "331022@7",
+    "367685@10",
+    "374320@9",
+    "378457@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 547,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

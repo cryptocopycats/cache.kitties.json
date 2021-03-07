@@ -1,0 +1,27 @@
+{
+  "id": 343318,
+  "name": "Angles",
+  "generation": 8,
+  "created_at": "2017-12-16T20:23:26.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Angles. I've never told anyone this, but I once pawed at a dog. I once made a rabbit ignore. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "341348@5",
+  "sire": "305856@7",
+  "children": [
+    "343872@12",
+    "353082@9",
+    "363228@9",
+    "374372@9",
+    "376863@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 621,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

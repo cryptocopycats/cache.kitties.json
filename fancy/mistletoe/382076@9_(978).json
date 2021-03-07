@@ -1,0 +1,23 @@
+{
+  "id": 382076,
+  "name": "saint hiccups",
+  "generation": 9,
+  "created_at": "2017-12-21T08:18:58.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm saint hiccups. I've never told anyone this, but I once frolicked with a dog. I would give it all up to be on Oprah. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "380139@8",
+  "sire": "381114@8",
+  "children": [
+    "404517@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 978,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

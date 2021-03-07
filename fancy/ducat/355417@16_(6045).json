@@ -1,0 +1,24 @@
+{
+  "id": 355417,
+  "name": "CatBird",
+  "generation": 16,
+  "created_at": "2017-12-17T21:41:32.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm CatBird. I've never told anyone this, but I once snuggled a dog. I once got in a fight with a platypus, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "298392@12",
+  "sire": "296854@15",
+  "children": [
+    "360749@17",
+    "370761@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6045,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

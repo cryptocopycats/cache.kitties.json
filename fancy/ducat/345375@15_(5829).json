@@ -1,0 +1,23 @@
+{
+  "id": 345375,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-16T23:58:50.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #345375. I've never told anyone this, but I once pranced with a dog. I was voted most likely to work at NASA in college. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341930@14",
+  "sire": "342515@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5829,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

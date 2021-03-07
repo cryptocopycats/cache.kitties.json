@@ -1,0 +1,24 @@
+{
+  "id": 378368,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-20T18:55:25.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! My name's Kitty #378368. I once peed on Martin Luther King Jr.'s cat. They had it coming. I once pawed at a rhino. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "347025@6",
+  "sire": "346243@7",
+  "children": [
+    "378600@9",
+    "447672@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6458,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

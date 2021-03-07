@@ -1,0 +1,27 @@
+{
+  "id": 346243,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T01:35:37.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #346243. I enjoy grooming, glaring at the neighbour's cat, and picking on mice. I like to listen to Metallica while grooming. Don't judge me. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "343363@5",
+  "sire": "286673@6",
+  "children": [
+    "357630@14",
+    "378368@8",
+    "378750@8",
+    "380069@8",
+    "381281@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5840,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

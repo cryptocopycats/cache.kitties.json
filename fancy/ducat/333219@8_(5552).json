@@ -1,0 +1,23 @@
+{
+  "id": 333219,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T02:51:13.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #333219. All you need to know about me is I hate salad with a passion. My great-great-great-great-great-great grandkitty lived with Princess Diana. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "310044@7",
+  "sire": "281219@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5552,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

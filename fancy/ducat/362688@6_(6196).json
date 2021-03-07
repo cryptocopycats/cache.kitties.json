@@ -1,0 +1,30 @@
+{
+  "id": 362688,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 6,
+  "created_at": "2017-12-18T13:55:51.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm RARE BIRD! Fancy!. I believe that one day cats will rule this planet. Some people say I'm the Steve Urkel of the group. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344948@5",
+  "sire": "286917@5",
+  "children": [
+    "363103@7",
+    "364147@7",
+    "364746@12",
+    "372248@7",
+    "384786@14",
+    "398123@7",
+    "423763@7",
+    "478792@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6196,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

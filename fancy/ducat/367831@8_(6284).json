@@ -1,0 +1,24 @@
+{
+  "id": 367831,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-19T02:45:56.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #367831. All you need to know about me is I hate hamburgers with a passion. My friends describe me as \"vegan.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283023@7",
+  "sire": "298994@6",
+  "children": [
+    "368324@10",
+    "372954@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6284,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 342150,
+  "name": "Buddy",
+  "generation": 7,
+  "created_at": "2017-12-16T18:11:29.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Buddy. I'm often referred to as the Neville Longbottom of the group. Sometimes I daydream of a life full of sitting on your computer, ice cream, and watching reality tv. Will you be the maple syrup to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "233067@6",
+  "sire": "234208@6",
+  "children": [
+    "343141@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 690,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

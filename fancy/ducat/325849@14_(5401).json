@@ -1,0 +1,23 @@
+{
+  "id": 325849,
+  "name": "100% Pure DuCat",
+  "generation": 14,
+  "created_at": "2017-12-15T14:23:05.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm 100% Pure DuCat. I want to live in a world where people believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "300735@13",
+  "sire": "270252@8",
+  "children": [
+    "334181@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5401,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

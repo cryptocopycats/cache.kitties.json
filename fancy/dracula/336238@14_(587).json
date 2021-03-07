@@ -1,0 +1,26 @@
+{
+  "id": 336238,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-16T07:32:00.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #336238. I enjoy fighting the patriarchy, sitting on your computer, and glaring at the neighbour's cat. When I'm not running a podcast, I'm practicing witchcraft! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "320573@12",
+  "sire": "291534@13",
+  "children": [
+    "342480@16",
+    "605224@15",
+    "1010259@15",
+    "1018820@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 587,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

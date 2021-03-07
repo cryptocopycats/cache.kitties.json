@@ -1,0 +1,23 @@
+{
+  "id": 343791,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-16T21:09:31.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #343791. I enjoy staying woke, taking selfies, and eating until I loathe myself. I once groomed a rooster. I don't like to talk about it. Will you be the marmite to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342788@9",
+  "sire": "336453@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5792,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

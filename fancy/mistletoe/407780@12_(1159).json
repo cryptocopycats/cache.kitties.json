@@ -1,0 +1,23 @@
+{
+  "id": 407780,
+  "name": "Merry",
+  "generation": 12,
+  "created_at": "2017-12-25T14:35:30.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Merry. I'm often referred to as the Homer Simpson of the group. I would give it all up to star in a soap opera. I hope we can be ridiculous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "407575@11",
+  "sire": "399602@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1159,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

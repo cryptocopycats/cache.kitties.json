@@ -1,0 +1,23 @@
+{
+  "id": 378776,
+  "name": "Sailor",
+  "generation": 14,
+  "created_at": "2017-12-20T20:31:54.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Sailor. I've never told anyone this, but I once licked a dog. Sometimes I daydream of a life full of reading garfield, chocolate, and summoning ghosts. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "281700@13",
+  "sire": "374797@9",
+  "children": [
+    "381723@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 985,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

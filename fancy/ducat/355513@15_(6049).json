@@ -1,0 +1,24 @@
+{
+  "id": 355513,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-17T21:51:53.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #355513. I'm often referred to as the Bart Simpson of the group. I'm often described as preposterous, and I own it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227079@14",
+  "sire": "264662@7",
+  "children": [
+    "373757@16",
+    "390069@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6049,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

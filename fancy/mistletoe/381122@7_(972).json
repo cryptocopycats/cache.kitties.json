@@ -1,0 +1,25 @@
+{
+  "id": 381122,
+  "name": "Santa's Lil Elf",
+  "generation": 7,
+  "created_at": "2017-12-21T04:23:33.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Santa's Lil Elf. All you need to know about me is I hate wet food with a passion. I'm often described as despicable, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "357368@4",
+  "sire": "369154@6",
+  "children": [
+    "382243@8",
+    "395567@8",
+    "409954@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 972,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

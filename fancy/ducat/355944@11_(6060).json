@@ -1,0 +1,24 @@
+{
+  "id": 355944,
+  "name": "#6060",
+  "generation": 11,
+  "created_at": "2017-12-17T22:44:32.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! #6060 here. I'm here to enjoy chasing red dots and shakin' dat booty. Sometimes I daydream of a life full of reciting poetry, cereal, and playing chess. I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "103348@10",
+  "sire": "347922@10",
+  "children": [
+    "357491@12",
+    "359626@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6060,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

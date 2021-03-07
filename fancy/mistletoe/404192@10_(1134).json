@@ -1,0 +1,30 @@
+{
+  "id": 404192,
+  "name": "misletoe A",
+  "generation": 10,
+  "created_at": "2017-12-24T21:41:37.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm misletoe A. I'm often referred to as the Lisa Simpson of the group. In my free time, I can usually be found brilliant or siring for status. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "399602@9",
+  "sire": "347070@8",
+  "children": [
+    "407575@11",
+    "409649@11",
+    "415173@11",
+    "430797@12",
+    "441628@11",
+    "451976@11",
+    "570249@11",
+    "597064@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1134,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

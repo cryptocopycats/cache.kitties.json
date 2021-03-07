@@ -1,0 +1,23 @@
+{
+  "id": 329206,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-15T20:46:22.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #329206. I enjoy chasing red dots, watching Stranger Things, and glaring at the neighbour's cat. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. Will you be the marmite to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "309785@8",
+  "sire": "290885@7",
+  "children": [
+    "368855@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5477,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

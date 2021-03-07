@@ -1,0 +1,28 @@
+{
+  "id": 331225,
+  "name": "🎄 Fancy:Mistletoe 🎄",
+  "generation": 8,
+  "created_at": "2017-12-15T23:33:24.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "What's up! I'm 🎄 Fancy:Mistletoe 🎄. My friends describe me as stinky and seductive. I'm convinced that the world is flat. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327064@7",
+  "sire": "326049@7",
+  "children": [
+    "333366@9",
+    "334383@9",
+    "342563@9",
+    "394893@9",
+    "447907@9",
+    "448834@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 596,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

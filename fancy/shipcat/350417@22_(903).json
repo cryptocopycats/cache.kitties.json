@@ -1,0 +1,23 @@
+{
+  "id": 350417,
+  "name": "Virgin ShipCat 903/2000 PB",
+  "generation": 22,
+  "created_at": "2017-12-17T10:41:54.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Virgin ShipCat 903/2000 PB. I enjoy grooming, glaring at the neighbour's cat, and shakin' dat booty. I would give it all up for a Chanel purse. I look forward to eating lasagna with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "160232@21",
+  "sire": "69055@17",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 903,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

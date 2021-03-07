@@ -1,0 +1,33 @@
+{
+  "id": 390111,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-22T20:59:27.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #390111. I enjoy riding dirty, fighting for the people, and grooming. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "387330@2",
+  "sire": "364268@2",
+  "children": [
+    "394066@4",
+    "395914@4",
+    "397915@4",
+    "398692@4",
+    "401258@4",
+    "402584@4",
+    "405551@4",
+    "408371@4",
+    "415840@4",
+    "427985@4",
+    "448935@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1038,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

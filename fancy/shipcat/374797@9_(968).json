@@ -1,0 +1,25 @@
+{
+  "id": 374797,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-20T01:17:21.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #374797. I want to live in a world where people believe the world is flat. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found talking about how much I lift all day. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "372011@8",
+  "sire": "373520@5",
+  "children": [
+    "375126@14",
+    "378776@14",
+    "382057@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 968,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

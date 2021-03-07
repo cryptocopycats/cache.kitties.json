@@ -1,0 +1,24 @@
+{
+  "id": 316857,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-15T00:00:51.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #316857. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"voluptuous.\" It's... accurate. Will you be the wasabi to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "309886@6",
+  "sire": "308563@6",
+  "children": [
+    "317136@8",
+    "318871@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5197,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

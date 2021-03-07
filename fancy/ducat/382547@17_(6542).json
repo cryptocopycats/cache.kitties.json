@@ -1,0 +1,23 @@
+{
+  "id": 382547,
+  "name": "Fancy Parents Bird Man Kitty",
+  "generation": 17,
+  "created_at": "2017-12-21T11:16:19.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! Fancy Parents Bird Man Kitty here. I'm here to enjoy eating lasagna and staying woke. I am 85% fairy, 23% Mad Scientist, and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "380314@16",
+  "sire": "356599@11",
+  "children": [
+    "519217@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6542,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

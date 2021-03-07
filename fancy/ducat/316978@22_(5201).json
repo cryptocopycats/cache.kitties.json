@@ -1,0 +1,23 @@
+{
+  "id": 316978,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-15T00:10:26.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Kitty #316978. I enjoy taking selfies, eating until I loathe myself, and sitting on your computer. I am 53% gremlin, 0% Dogwalker, and otherwise bad at math. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "295819@21",
+  "sire": "263561@6",
+  "children": [
+    "326588@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5201,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

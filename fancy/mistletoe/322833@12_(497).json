@@ -1,0 +1,26 @@
+{
+  "id": 322833,
+  "name": "www.goodkitty.net",
+  "generation": 12,
+  "created_at": "2017-12-15T08:55:39.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm www.goodkitty.net. I'm a professional Dispensary Clerk and I love salad. I once dreamed of being a Mad Scientist. Now I can be found running a podcast all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321855@11",
+  "sire": "203310@11",
+  "children": [
+    "324585@13",
+    "326047@13",
+    "364863@13",
+    "547634@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 497,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

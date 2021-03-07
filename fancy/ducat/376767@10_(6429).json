@@ -1,0 +1,23 @@
+{
+  "id": 376767,
+  "name": "Ducati",
+  "generation": 10,
+  "created_at": "2017-12-20T09:31:35.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Ducati. I believe the world is flat. Sometimes I daydream of a life full of tricking babies, ice cream, and summoning ghosts. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "88320@9",
+  "sire": "39751@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6429,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

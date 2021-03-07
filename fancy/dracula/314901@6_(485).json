@@ -1,0 +1,26 @@
+{
+  "id": 314901,
+  "name": "DraG6M2",
+  "generation": 6,
+  "created_at": "2017-12-14T21:29:09.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm DraG6M2. I'm a Mad Scientist by day, and I like mocking dogs by night. I was voted most likely to work at NASA in college. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "312449@5",
+  "sire": "312720@5",
+  "children": [
+    "397313@7",
+    "399650@7",
+    "401271@7",
+    "402635@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 485,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

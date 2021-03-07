@@ -1,0 +1,27 @@
+{
+  "id": 395757,
+  "name": "Dick Skylark 13",
+  "generation": 3,
+  "created_at": "2017-12-23T16:49:56.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Dick Skylark 13. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Will you be the marmite to my peanut butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "334195@2",
+  "sire": "391823@2",
+  "children": [
+    "396082@4",
+    "396783@4",
+    "404604@17",
+    "405333@4",
+    "406214@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1077,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

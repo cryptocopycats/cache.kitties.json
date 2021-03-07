@@ -1,0 +1,23 @@
+{
+  "id": 347173,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-17T03:31:17.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! My name's Kitty #347173. I once peed on Nelson Mandela's cat. They had it coming. Sometimes I daydream of a life full of grooming, ice cream, and riverdancing. I hope we can be seductive friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308936@4",
+  "sire": "335326@3",
+  "children": [
+    "455822@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5865,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

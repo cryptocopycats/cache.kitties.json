@@ -1,0 +1,27 @@
+{
+  "id": 381746,
+  "name": "Rare Parents",
+  "generation": 5,
+  "created_at": "2017-12-21T06:59:37.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Rare Parents. I'm often referred to as the Chandler Bing of the group. I once headbutted a gecko. I don't like to talk about it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344190@4",
+  "sire": "334732@4",
+  "children": [
+    "401717@6",
+    "500377@9",
+    "501603@9",
+    "502055@9",
+    "733343@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6521,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

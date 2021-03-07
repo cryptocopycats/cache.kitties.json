@@ -1,0 +1,30 @@
+{
+  "id": 384843,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-21T23:48:56.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #384843. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "371673@4",
+  "sire": "343313@4",
+  "children": [
+    "387267@6",
+    "389423@6",
+    "495471@6",
+    "495675@6",
+    "496187@18",
+    "505473@6",
+    "511852@6",
+    "514350@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 779,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

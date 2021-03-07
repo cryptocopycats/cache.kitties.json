@@ -1,0 +1,25 @@
+{
+  "id": 326689,
+  "name": "Gen 6 Mistletoe!  Merry Xmas!",
+  "generation": 6,
+  "created_at": "2017-12-15T16:28:31.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 6 Mistletoe!  Merry Xmas!. I'm often referred to as the Lisa Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "324444@4",
+  "sire": "288586@5",
+  "children": [
+    "360144@7",
+    "368287@7",
+    "369209@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 540,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

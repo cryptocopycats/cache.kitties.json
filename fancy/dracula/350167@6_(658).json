@@ -1,0 +1,28 @@
+{
+  "id": 350167,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T10:06:24.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #350167. My friends describe me as despicable and annoying. I would give it all up for a Chanel purse. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "333511@5",
+  "sire": "329808@5",
+  "children": [
+    "350348@7",
+    "351166@7",
+    "352233@7",
+    "353581@7",
+    "354957@7",
+    "358313@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 658,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

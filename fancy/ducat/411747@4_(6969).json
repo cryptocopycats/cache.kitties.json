@@ -1,0 +1,25 @@
+{
+  "id": 411747,
+  "name": "Pirdy Feline",
+  "generation": 4,
+  "created_at": "2017-12-26T09:32:11.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Pirdy Feline. I want to live in a world where people believe the world is flat. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "408178@3",
+  "sire": "390664@3",
+  "children": [
+    "414138@7",
+    "415930@6",
+    "416175@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6969,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

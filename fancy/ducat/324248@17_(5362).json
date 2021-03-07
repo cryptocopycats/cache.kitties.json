@@ -1,0 +1,23 @@
+{
+  "id": 324248,
+  "name": "100% Pure DuCat Virgin",
+  "generation": 17,
+  "created_at": "2017-12-15T11:22:14.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm 100% Pure DuCat Virgin. I'm often referred to as the Chandler Bing of the group. When no one's home, I invite my pals over and we listen to Gloria Estefan. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "147407@10",
+  "sire": "166742@16",
+  "children": [
+    "392591@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5362,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 344113,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-16T21:41:35.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Kitty #344113. I enjoy shakin' dat booty, sweating through my feet, and tripping my owner. I am 80% oracle, 23% Skydiving Instructor, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "333904@3",
+  "sire": "323588@3",
+  "children": [
+    "344342@8",
+    "345563@8",
+    "358680@5",
+    "359201@12",
+    "363771@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5797,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

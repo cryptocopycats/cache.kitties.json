@@ -1,0 +1,29 @@
+{
+  "id": 325381,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-15T13:23:54.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #325381. I've never told anyone this, but I once headbutted a dog. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found talking about how much I lift all day. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283106@7",
+  "sire": "249944@7",
+  "children": [
+    "329505@9",
+    "332126@9",
+    "334595@9",
+    "343088@9",
+    "349194@9",
+    "358110@9",
+    "371023@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5392,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

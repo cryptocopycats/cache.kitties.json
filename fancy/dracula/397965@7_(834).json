@@ -1,0 +1,30 @@
+{
+  "id": 397965,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-23T23:34:32.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #397965. All you need to know about me is I hate cereal with a passion. I would give it all up to star in a soap opera. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "397302@6",
+  "sire": "368952@6",
+  "children": [
+    "398815@9",
+    "401016@9",
+    "414527@8",
+    "418263@8",
+    "424754@9",
+    "429984@8",
+    "437809@8",
+    "442789@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 834,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

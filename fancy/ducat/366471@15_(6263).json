@@ -1,0 +1,23 @@
+{
+  "id": 366471,
+  "name": "Fancy Ducat",
+  "generation": 15,
+  "created_at": "2017-12-18T23:20:41.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Fancy Ducat. I'm a Skydiving Instructor by day, and I like people-watching by night. Sometimes I daydream of a life full of reading garfield, cereal, and practicing witchcraft. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "236415@14",
+  "sire": "331925@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6263,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 386543,
+  "name": "BirdCat",
+  "generation": 5,
+  "created_at": "2017-12-22T06:24:09.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! BirdCat here. I'm here to enjoy licking doorknobs and riding unicorns. I once got in a fight with a moose, and won. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "382117@4",
+  "sire": "348133@4",
+  "children": [
+    "388935@6",
+    "419049@6",
+    "419788@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6612,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

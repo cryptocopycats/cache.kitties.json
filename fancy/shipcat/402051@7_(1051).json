@@ -1,0 +1,25 @@
+{
+  "id": 402051,
+  "name": "Fancy",
+  "generation": 7,
+  "created_at": "2017-12-24T13:21:18.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Fancy. In high school, I was voted school jock. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "399461@6",
+  "sire": "102208@6",
+  "children": [
+    "423369@8",
+    "514237@9",
+    "531389@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1051,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

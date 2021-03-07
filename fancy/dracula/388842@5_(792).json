@@ -1,0 +1,31 @@
+{
+  "id": 388842,
+  "name": "三号 5代吸血鬼种猫 388842",
+  "generation": 5,
+  "created_at": "2017-12-22T16:16:27.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm 三号 5代吸血鬼种猫 388842. I believe that one day cats will rule this planet. I once pawed at a rabbit. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "381346@4",
+  "sire": "373246@4",
+  "children": [
+    "398092@6",
+    "399203@6",
+    "399865@6",
+    "400538@6",
+    "402402@6",
+    "413081@6",
+    "417792@6",
+    "435722@6",
+    "446811@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 792,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 351402,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T13:13:27.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #351402. I'm a professional Culinary Sanitation Specialist and I love hamburgers. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "300536@7",
+  "sire": "315719@7",
+  "children": [
+    "351601@9",
+    "352377@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5960,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

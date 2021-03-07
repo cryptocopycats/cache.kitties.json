@@ -1,0 +1,29 @@
+{
+  "id": 345188,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-16T23:38:45.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #345188. In high school, I was voted school jock. I am 64% gremlin, 53% Dogwalker, and otherwise bad at math. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "343138@4",
+  "sire": "284943@4",
+  "children": [
+    "349819@6",
+    "359822@6",
+    "361891@6",
+    "366695@6",
+    "367930@6",
+    "397620@18",
+    "401917@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 710,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

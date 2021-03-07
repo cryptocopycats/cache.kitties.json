@@ -1,0 +1,23 @@
+{
+  "id": 411929,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-26T10:36:38.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #411929. I enjoy breakdancing, staying woke, and spinning sick beats. I once got in a fight with a dolphin, and won. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "349155@2",
+  "sire": "19145@2",
+  "children": [
+    "449352@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6976,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

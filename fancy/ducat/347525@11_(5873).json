@@ -1,0 +1,23 @@
+{
+  "id": 347525,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-17T04:16:18.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #347525. I've never told anyone this, but I once bit a dog. I once dreamed of being a Dogwalker. Now I can be found running a podcast all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342977@10",
+  "sire": "336850@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5873,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

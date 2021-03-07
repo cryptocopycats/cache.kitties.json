@@ -1,0 +1,24 @@
+{
+  "id": 323302,
+  "name": "Tweeten",
+  "generation": 18,
+  "created_at": "2017-12-15T09:45:59.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Tweeten. I'm a professional Foreign Film Director and I love ice cream. I like to listen to Ace of Base while grooming. Don't judge me. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "303457@17",
+  "sire": "67306@10",
+  "children": [
+    "455861@19",
+    "1479791@19"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5336,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

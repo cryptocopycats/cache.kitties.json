@@ -1,0 +1,32 @@
+{
+  "id": 334461,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T04:41:34.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! My name's Kitty #334461. I once peed on Cleopatra's cat. They had it coming. When no one's home, I invite my pals over and we listen to Mariah Carey. I look forward to shakin' dat booty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "322237@6",
+  "sire": "255737@6",
+  "children": [
+    "354791@11",
+    "356152@11",
+    "364470@8",
+    "365924@8",
+    "371941@8",
+    "375967@8",
+    "383580@8",
+    "394362@8",
+    "422136@8",
+    "587281@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 577,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

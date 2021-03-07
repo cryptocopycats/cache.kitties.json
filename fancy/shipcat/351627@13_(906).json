@@ -1,0 +1,24 @@
+{
+  "id": 351627,
+  "name": "Aye Aye Captain",
+  "generation": 13,
+  "created_at": "2017-12-17T13:47:30.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Aye Aye Captain. My friends describe me as vegan and fabulous. When no one's home, I invite my pals over and we listen to Beyoncé. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "342537@3",
+  "sire": "148186@12",
+  "children": [
+    "358858@14",
+    "454733@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 906,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

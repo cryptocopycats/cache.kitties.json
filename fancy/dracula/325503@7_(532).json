@@ -1,0 +1,31 @@
+{
+  "id": 325503,
+  "name": "1441",
+  "generation": 7,
+  "created_at": "2017-12-15T13:38:40.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm 1441. I'm a Skydiving Instructor by day, and I like sleeping in fresh laundry by night. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "271191@6",
+  "sire": "285399@6",
+  "children": [
+    "376204@8",
+    "384837@8",
+    "390359@8",
+    "398441@8",
+    "413679@8",
+    "419548@8",
+    "437135@8",
+    "464933@8",
+    "547375@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 532,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 399160,
+  "name": "二号 6代吸血鬼种猫 399160",
+  "generation": 6,
+  "created_at": "2017-12-24T03:13:59.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm 二号 6代吸血鬼种猫 399160. I'm often referred to as the Chandler Bing of the group. Some people say I'm the Chandler Bing of the group. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "398220@5",
+  "sire": "395747@5",
+  "children": [
+    "399741@7",
+    "400418@7",
+    "402215@7",
+    "405029@7",
+    "413106@7",
+    "417791@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 842,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

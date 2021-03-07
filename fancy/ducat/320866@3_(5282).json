@@ -1,0 +1,32 @@
+{
+  "id": 320866,
+  "name": "Ruby Kitty",
+  "generation": 3,
+  "created_at": "2017-12-15T05:38:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! My name's Ruby Kitty. I once peed on Martin Luther King Jr.'s cat. They had it coming. When I'm not swiping right, I'm playing chess! I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308122@2",
+  "sire": "54978@2",
+  "children": [
+    "321031@4",
+    "323382@4",
+    "323772@4",
+    "324809@4",
+    "334750@4",
+    "335812@4",
+    "338776@4",
+    "348507@4",
+    "358759@4",
+    "370507@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5282,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

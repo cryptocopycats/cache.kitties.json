@@ -1,0 +1,23 @@
+{
+  "id": 341567,
+  "name": "Virgin Dracula",
+  "generation": 3,
+  "created_at": "2017-12-16T17:06:32.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Virgin Dracula. I've never told anyone this, but I once clawed a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "319267@2",
+  "sire": "49307@2",
+  "children": [
+    "448452@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 610,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

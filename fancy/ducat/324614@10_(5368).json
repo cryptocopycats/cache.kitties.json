@@ -1,0 +1,23 @@
+{
+  "id": 324614,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-15T12:03:58.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #324614. I'm a Mad Scientist by day, and I like mocking dogs by night. I was voted biggest teacher's pet in college. I hope we can be petulant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "310027@4",
+  "sire": "304295@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5368,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

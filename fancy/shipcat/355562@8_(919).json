@@ -1,0 +1,23 @@
+{
+  "id": 355562,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T21:57:12.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Kitty #355562. I've never told anyone this, but I once tricked a dog. When no one's home, I invite my pals over and we listen to Michael Bolton. Our friendship will be prickly, wondrous, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "298295@6",
+  "sire": "208401@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 919,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

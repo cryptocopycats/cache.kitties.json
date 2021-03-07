@@ -1,0 +1,23 @@
+{
+  "id": 392921,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-23T06:44:43.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #392921. My friends describe me as gullible and seductive. I once got in a fight with a labradoodle, and won. Will you be the ghost pepper hot sauce to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "392345@5",
+  "sire": "391098@5",
+  "children": [
+    "599790@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6706,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

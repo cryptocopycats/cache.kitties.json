@@ -1,0 +1,26 @@
+{
+  "id": 348960,
+  "name": "Krismittens",
+  "generation": 7,
+  "created_at": "2017-12-17T07:27:39.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Krismittens. My friends describe me as raunchy and preposterous. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "337625@5",
+  "sire": "288272@6",
+  "children": [
+    "349357@8",
+    "351865@8",
+    "353909@8",
+    "375722@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 743,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

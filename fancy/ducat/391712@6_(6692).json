@@ -1,0 +1,23 @@
+{
+  "id": 391712,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-23T02:33:57.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #391712. I'm often referred to as the Neville Longbottom of the group. My friends describe me as \"gorgeous.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "390232@2",
+  "sire": "388413@5",
+  "children": [
+    "479525@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6692,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

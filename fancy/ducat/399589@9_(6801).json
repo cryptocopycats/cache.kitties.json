@@ -1,0 +1,25 @@
+{
+  "id": 399589,
+  "name": "Sparki",
+  "generation": 9,
+  "created_at": "2017-12-24T04:29:19.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Sparki. In high school, I was voted most likely to work at NASA. I am 33% gremlin, 51% Culinary Sanitation Specialist, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "320085@8",
+  "sire": "284744@8",
+  "children": [
+    "403651@10",
+    "484125@10",
+    "682651@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6801,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

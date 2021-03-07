@@ -1,0 +1,23 @@
+{
+  "id": 338902,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-16T12:00:35.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #338902. I believe the world is flat. I once dreamed of being a Dogwalker. Now I can be found reading Danielle Steele all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "331998@14",
+  "sire": "332047@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5683,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

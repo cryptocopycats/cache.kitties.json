@@ -1,0 +1,23 @@
+{
+  "id": 319434,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T03:24:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! My name's Kitty #319434. I once peed on Mother Theresa's cat. They had it coming. I'm often described as preposterous, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219711@3",
+  "sire": "221681@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5257,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

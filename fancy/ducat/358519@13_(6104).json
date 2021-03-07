@@ -1,0 +1,23 @@
+{
+  "id": 358519,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-18T03:53:46.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #358519. I'm a Dispensary Clerk by day, and I like playing chess by night. I am 48% wizard, 11% Dogwalker, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "39573@11",
+  "sire": "261977@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6104,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 334146,
+  "name": "Gen 9 Mistletoe",
+  "generation": 9,
+  "created_at": "2017-12-16T04:16:18.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gen 9 Mistletoe. I believe the world is flat. Sometimes I daydream of a life full of riding unicorns, lasagna, and mocking dogs. I look forward to fighting the patriarchy with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "299742@6",
+  "sire": "301763@8",
+  "children": [
+    "344889@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 629,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 343088,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-16T20:01:35.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #343088. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Confucius. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "325381@8",
+  "sire": "325102@8",
+  "children": [
+    "361982@10",
+    "550634@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5782,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

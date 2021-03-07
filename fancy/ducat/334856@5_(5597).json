@@ -1,0 +1,31 @@
+{
+  "id": 334856,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 5,
+  "created_at": "2017-12-16T05:15:42.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm RARE BIRD! Fancy!. I enjoy fighting the patriarchy, eating lasagna, and breakdancing. I put marmite on everything. Like, everything: hot dogs, cereal—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "284415@4",
+  "sire": "290530@4",
+  "children": [
+    "335356@6",
+    "340168@6",
+    "349132@6",
+    "375846@6",
+    "377112@17",
+    "468338@6",
+    "469027@6",
+    "542867@6",
+    "1105230@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5597,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

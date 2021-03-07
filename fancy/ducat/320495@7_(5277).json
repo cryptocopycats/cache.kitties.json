@@ -1,0 +1,24 @@
+{
+  "id": 320495,
+  "name": "Pyro",
+  "generation": 7,
+  "created_at": "2017-12-15T05:07:07.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Pyro. I enjoy shakin' dat booty, tricking babies, and fighting for the people. I once dreamed of being a Train Conductor. Now I can be found talking about how much I lift all day. I hope we can be gorgeous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "319809@6",
+  "sire": "282810@6",
+  "children": [
+    "320780@8",
+    "321828@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5277,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 364036,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-18T17:26:04.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #364036. I'm a professional Skydiving Instructor and I love salad. In my free time, I can usually be found gullible or watching reality tv. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "351603@5",
+  "sire": "360234@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6229,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

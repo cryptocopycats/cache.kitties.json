@@ -1,0 +1,27 @@
+{
+  "id": 340252,
+  "name": "FancyPurchase",
+  "generation": 7,
+  "created_at": "2017-12-16T14:38:00.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm FancyPurchase. I want to live in a world where people believe the world is flat. I would give it all up to star in a soap opera. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "339371@6",
+  "sire": "294007@6",
+  "children": [
+    "341244@8",
+    "342434@8",
+    "343936@9",
+    "345810@8",
+    "444303@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5712,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

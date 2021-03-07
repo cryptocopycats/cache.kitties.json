@@ -1,0 +1,24 @@
+{
+  "id": 342220,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T18:19:28.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #342220. In high school, I was voted school jock. Sometimes I daydream of a life full of eating lasagna, lasagna, and riverdancing. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341170@7",
+  "sire": "306693@5",
+  "children": [
+    "342631@9",
+    "344083@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5761,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

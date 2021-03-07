@@ -1,0 +1,23 @@
+{
+  "id": 391702,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-23T02:31:24.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #391702. I'm often referred to as the Michael Scott of the group. When I'm not sleeping in fresh laundry, I'm prank-calling celebrities! Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "316516@8",
+  "sire": "320793@0",
+  "children": [
+    "547003@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1020,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 395736,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-23T16:44:31.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! Kitty #395736 here. I'm here to enjoy chasing string and picking on mice. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "383080@5",
+  "sire": "375641@7",
+  "children": [
+    "397051@9",
+    "398485@9",
+    "403241@12",
+    "1893147@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1076,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

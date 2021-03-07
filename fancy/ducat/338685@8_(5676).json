@@ -1,0 +1,26 @@
+{
+  "id": 338685,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T11:33:33.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Kitty #338685. I'm a professional Aerobics Athlete  and I love steak. I am 55% oracle, 0% Skydiving Instructor, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "318436@6",
+  "sire": "335963@7",
+  "children": [
+    "339187@9",
+    "343008@12",
+    "351178@9",
+    "353842@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5676,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

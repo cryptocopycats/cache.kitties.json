@@ -1,0 +1,26 @@
+{
+  "id": 333646,
+  "name": "Facebook",
+  "generation": 10,
+  "created_at": "2017-12-16T03:25:23.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Yo! I'm Facebook. I enjoy picking on mice, reciting poetry, and shakin' dat booty. Some people say I'm the Ross Geller of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "123272@6",
+  "sire": "261226@9",
+  "children": [
+    "347745@11",
+    "354070@11",
+    "390959@12",
+    "412386@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5563,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

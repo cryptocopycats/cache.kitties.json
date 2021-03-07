@@ -1,0 +1,23 @@
+{
+  "id": 382260,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-21T09:38:05.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #382260. I've never told anyone this, but I once groomed a dog. Sometimes I daydream of a life full of shakin' dat booty, wet food, and riding the bus. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "96533@12",
+  "sire": "101638@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6537,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

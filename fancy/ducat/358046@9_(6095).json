@@ -1,0 +1,25 @@
+{
+  "id": 358046,
+  "name": "Chirp Chirp",
+  "generation": 9,
+  "created_at": "2017-12-18T02:54:44.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Chirp Chirp. I'm often referred to as the Jon Snow of the group. I am 82% elf, 80% Spin Instructor , and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "357073@5",
+  "sire": "330453@8",
+  "children": [
+    "364849@10",
+    "367796@10",
+    "444005@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6095,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

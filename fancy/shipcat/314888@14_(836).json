@@ -1,0 +1,23 @@
+{
+  "id": 314888,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-14T21:29:01.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #314888. In high school, I was voted biggest teacher's pet. I like to listen to Metallica while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "234879@7",
+  "sire": "58727@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 836,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

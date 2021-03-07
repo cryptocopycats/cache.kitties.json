@@ -1,0 +1,30 @@
+{
+  "id": 391739,
+  "name": "Draculin",
+  "generation": 9,
+  "created_at": "2017-12-23T02:39:01.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Draculin. I'm a Ventriloquist by day, and I like swiping right by night. I once made a rooster drink. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "388622@8",
+  "sire": "388356@7",
+  "children": [
+    "394721@10",
+    "397142@10",
+    "397614@10",
+    "400766@10",
+    "404365@10",
+    "407593@10",
+    "412809@10",
+    "442934@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 802,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 355991,
+  "name": "www.goodkitty.net",
+  "generation": 4,
+  "created_at": "2017-12-17T22:49:31.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! www.goodkitty.net here. I'm here to enjoy sweating through my feet and riding unicorns. I once made a rooster pester. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "353994@3",
+  "sire": "341070@3",
+  "children": [
+    "356505@6",
+    "357679@7",
+    "363666@6",
+    "547610@9",
+    "551135@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 804,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

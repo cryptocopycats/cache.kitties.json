@@ -1,0 +1,23 @@
+{
+  "id": 327279,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-15T17:36:49.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #327279. I enjoy breakdancing, chasing red dots, and picking on mice. I once got in a fight with a rhino, and won. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "37130@2",
+  "sire": "56246@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5434,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

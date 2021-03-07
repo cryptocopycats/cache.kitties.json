@@ -1,0 +1,23 @@
+{
+  "id": 336167,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T07:25:33.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #336167. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. Will you be the soy sauce to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "333727@6",
+  "sire": "330184@5",
+  "children": [
+    "342497@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 652,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

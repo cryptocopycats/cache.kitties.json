@@ -1,0 +1,23 @@
+{
+  "id": 339770,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-16T13:42:38.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #339770. I want to live in a world where people believe the world is flat. I was voted school jock in college. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308861@17",
+  "sire": "189445@17",
+  "children": [
+    "360795@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5703,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

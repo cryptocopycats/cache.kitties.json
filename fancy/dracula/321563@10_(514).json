@@ -1,0 +1,24 @@
+{
+  "id": 321563,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-15T06:50:41.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! Kitty #321563 here. I'm here to enjoy watching Stranger Things and slappin' da bass. In my free time, I can usually be found raunchy or sleeping in fresh laundry. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "321142@5",
+  "sire": "321035@9",
+  "children": [
+    "321948@11",
+    "329435@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 514,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

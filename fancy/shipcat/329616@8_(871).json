@@ -1,0 +1,27 @@
+{
+  "id": 329616,
+  "name": "Shipcat #871/2000",
+  "generation": 8,
+  "created_at": "2017-12-15T21:17:25.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Shipcat #871/2000. I believe the world is flat. I once pranced with a gecko. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "177526@7",
+  "sire": "281837@2",
+  "children": [
+    "334475@9",
+    "340578@9",
+    "396983@9",
+    "399149@9",
+    "409835@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 871,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

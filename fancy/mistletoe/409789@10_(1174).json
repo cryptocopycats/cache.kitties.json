@@ -1,0 +1,23 @@
+{
+  "id": 409789,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-25T23:31:07.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Uh, hi! I'm Kitty #409789. I'm a professional Private Dancer  and I love lasagna. In my free time, I can usually be found annoying or practicing witchcraft. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "401077@9",
+  "sire": "399910@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1174,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

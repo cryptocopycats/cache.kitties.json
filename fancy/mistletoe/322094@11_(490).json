@@ -1,0 +1,23 @@
+{
+  "id": 322094,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-15T07:43:40.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Aloha! I'm Kitty #322094. I'm often referred to as the Peter Griffin of the group. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "296517@10",
+  "sire": "297018@10",
+  "children": [
+    "341678@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 490,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

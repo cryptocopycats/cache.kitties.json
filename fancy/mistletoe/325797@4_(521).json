@@ -1,0 +1,31 @@
+{
+  "id": 325797,
+  "name": "Destiny",
+  "generation": 4,
+  "created_at": "2017-12-15T14:16:13.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Destiny. I enjoy licking doorknobs, spinning sick beats, and eating until I loathe myself. My secret indulgence is steak. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "286566@3",
+  "sire": "262524@3",
+  "children": [
+    "408357@5",
+    "408421@5",
+    "417418@5",
+    "461616@5",
+    "466167@5",
+    "473255@5",
+    "475395@9",
+    "475422@5",
+    "489988@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 521,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 314755,
+  "name": "Sir Fancy",
+  "generation": 10,
+  "created_at": "2017-12-14T21:18:28.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Sir Fancy. I want to live in a world where people believe the world is flat. My secret indulgence is lasagna. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "302577@7",
+  "sire": "204048@9",
+  "children": [
+    "329918@11",
+    "340373@11",
+    "809916@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5160,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

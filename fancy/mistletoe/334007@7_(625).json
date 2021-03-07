@@ -1,0 +1,23 @@
+{
+  "id": 334007,
+  "name": "g7 virgin ELF",
+  "generation": 7,
+  "created_at": "2017-12-16T03:55:39.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm g7 virgin ELF. I'm a Foreign Film Director by day, and I like practicing witchcraft by night. I'm convinced that the world is flat. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "319288@5",
+  "sire": "333355@6",
+  "children": [
+    "376801@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 625,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 320737,
+  "name": "Fancy DuCat",
+  "generation": 11,
+  "created_at": "2017-12-15T05:27:25.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! Fancy DuCat here. I'm here to enjoy picking flowers and taking selfies. Sometimes I daydream of a life full of being a nevernude, hamburgers, and braiding people's hair. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "302187@10",
+  "sire": "302603@5",
+  "children": [
+    "322124@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5281,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

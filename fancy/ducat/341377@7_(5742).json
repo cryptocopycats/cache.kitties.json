@@ -1,0 +1,26 @@
+{
+  "id": 341377,
+  "name": "Fancy DuCat",
+  "generation": 7,
+  "created_at": "2017-12-16T16:46:59.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Fancy DuCat. My friends describe me as gorgeous and raunchy. It's not common knowledge, but my ancestry connects me to King Henry VIII. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "325817@6",
+  "sire": "325824@6",
+  "children": [
+    "341601@20",
+    "353245@8",
+    "356139@8",
+    "364200@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5742,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

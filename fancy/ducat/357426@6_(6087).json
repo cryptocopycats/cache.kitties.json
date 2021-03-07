@@ -1,0 +1,23 @@
+{
+  "id": 357426,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-18T01:35:56.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #357426. I've never told anyone this, but I once licked a dog. It's not common knowledge, but my ancestry connects me to Marie Antoinette. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287694@5",
+  "sire": "288144@5",
+  "children": [
+    "357608@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6087,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

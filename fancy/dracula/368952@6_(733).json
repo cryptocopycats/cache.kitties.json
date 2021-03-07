@@ -1,0 +1,29 @@
+{
+  "id": 368952,
+  "name": "Both Breeding Parents",
+  "generation": 6,
+  "created_at": "2017-12-19T06:03:05.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Both Breeding Parents. I'm a Spin Instructor  by day, and I like siring for status by night. I once made a moose pester. Our friendship will be stinky, annoying, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "367182@5",
+  "sire": "344278@5",
+  "children": [
+    "397965@7",
+    "412891@12",
+    "540570@7",
+    "544840@7",
+    "546144@7",
+    "547747@7",
+    "551605@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 733,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

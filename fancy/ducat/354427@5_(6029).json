@@ -1,0 +1,23 @@
+{
+  "id": 354427,
+  "name": "Edinka",
+  "generation": 5,
+  "created_at": "2017-12-17T19:46:13.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Edinka. All you need to know about me is I hate cereal with a passion. Sometimes I daydream of a life full of reciting poetry, cantaloupe, and mocking dogs. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "308936@4",
+  "sire": "327420@4",
+  "children": [
+    "372760@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6029,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

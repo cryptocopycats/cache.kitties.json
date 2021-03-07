@@ -1,0 +1,28 @@
+{
+  "id": 336020,
+  "name": "Fancy",
+  "generation": 8,
+  "created_at": "2017-12-16T07:11:47.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Fancy. I believe the world is flat. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "316864@6",
+  "sire": "324295@7",
+  "children": [
+    "336418@17",
+    "337128@9",
+    "338735@10",
+    "343949@10",
+    "348699@10",
+    "350765@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5623,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

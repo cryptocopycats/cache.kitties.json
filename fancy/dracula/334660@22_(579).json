@@ -1,0 +1,25 @@
+{
+  "id": 334660,
+  "name": "CryptoFang",
+  "generation": 22,
+  "created_at": "2017-12-16T04:56:01.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm CryptoFang. I'm often referred to as the Peter Griffin of the group. I once dreamed of being a Foreign Film Director. Now I can be found watching reality tv all day. Our friendship will be preposterous, raunchy, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "45668@21",
+  "sire": "125614@16",
+  "children": [
+    "359859@23",
+    "409307@23",
+    "460444@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 579,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

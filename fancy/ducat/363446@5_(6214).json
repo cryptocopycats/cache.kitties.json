@@ -1,0 +1,24 @@
+{
+  "id": 363446,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-18T15:57:11.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #363446. I've never told anyone this, but I once pawed at a dog. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "318731@4",
+  "sire": "353825@4",
+  "children": [
+    "365889@9",
+    "366869@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6214,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

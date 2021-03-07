@@ -1,0 +1,23 @@
+{
+  "id": 322276,
+  "name": "Gypsy Johnny",
+  "generation": 7,
+  "created_at": "2017-12-15T08:00:24.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Gypsy Johnny. My friends describe me as annoying and petulant. Sometimes I daydream of a life full of grooming, wet food, and sleeping in fresh laundry. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "218346@6",
+  "sire": "253823@5",
+  "children": [
+    "351372@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 516,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

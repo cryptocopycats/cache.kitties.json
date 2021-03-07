@@ -1,0 +1,25 @@
+{
+  "id": 379278,
+  "name": "www.goodkitty.net",
+  "generation": 18,
+  "created_at": "2017-12-20T22:31:38.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm www.goodkitty.net. I believe the world is flat. Sometimes I daydream of a life full of spinning sick beats, cereal, and riding the bus. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "351695@12",
+  "sire": "22223@17",
+  "children": [
+    "384683@19",
+    "393725@19",
+    "554514@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 986,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

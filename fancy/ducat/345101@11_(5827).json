@@ -1,0 +1,26 @@
+{
+  "id": 345101,
+  "name": "Fancy Rare",
+  "generation": 11,
+  "created_at": "2017-12-16T23:30:51.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Fancy Rare. All you need to know about me is I hate lasagna with a passion. Some people say I'm the Cersei Lannister of the group. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "82450@5",
+  "sire": "343949@10",
+  "children": [
+    "347029@12",
+    "349522@12",
+    "351436@12",
+    "360839@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5827,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

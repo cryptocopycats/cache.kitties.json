@@ -1,0 +1,26 @@
+{
+  "id": 410428,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-26T02:40:21.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Kitty #410428. I believe that one day cats will rule this planet. I once got in a fight with a goose, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "327847@2",
+  "sire": "367825@2",
+  "children": [
+    "449212@4",
+    "449332@4",
+    "449889@4",
+    "451560@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1181,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

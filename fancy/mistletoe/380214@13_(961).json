@@ -1,0 +1,26 @@
+{
+  "id": 380214,
+  "name": "Halp! I r derpcat! Halp!",
+  "generation": 13,
+  "created_at": "2017-12-21T01:24:23.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ciao! I'm Halp! I r derpcat! Halp!. I've never told anyone this, but I once pawed at a dog. My secret indulgence is hamburgers. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "376950@6",
+  "sire": "373825@12",
+  "children": [
+    "384519@14",
+    "535102@18",
+    "547050@14",
+    "551148@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 961,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

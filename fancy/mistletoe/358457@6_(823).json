@@ -1,0 +1,26 @@
+{
+  "id": 358457,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-18T03:45:42.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #358457. I'm a Train Conductor by day, and I like watching reality tv by night. I like to listen to Justin Bieber while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "315794@4",
+  "sire": "338089@5",
+  "children": [
+    "402248@7",
+    "414175@7",
+    "421258@7",
+    "423382@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 823,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

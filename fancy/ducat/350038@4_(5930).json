@@ -1,0 +1,28 @@
+{
+  "id": 350038,
+  "name": "SirKittieDuckEsquire",
+  "generation": 4,
+  "created_at": "2017-12-17T09:45:37.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm SirKittieDuckEsquire. I'm often referred to as the Cersei Lannister of the group. My secret indulgence is ice cream. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "349985@3",
+  "sire": "309230@3",
+  "children": [
+    "379887@12",
+    "381933@12",
+    "382967@13",
+    "383315@11",
+    "444404@15",
+    "446820@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5930,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

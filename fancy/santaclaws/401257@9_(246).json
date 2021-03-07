@@ -1,0 +1,23 @@
+{
+  "id": 401257,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-24T09:35:53.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #401257. I enjoy breakdancing, taking selfies, and grooming. My friends describe me as \"seductive.\" It's... accurate. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "392873@8",
+  "sire": "388014@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 246,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

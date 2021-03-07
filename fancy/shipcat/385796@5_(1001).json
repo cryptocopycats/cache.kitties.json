@@ -1,0 +1,32 @@
+{
+  "id": 385796,
+  "name": "Kitty #385796",
+  "generation": 5,
+  "created_at": "2017-12-22T03:20:09.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #385796. I've never told anyone this, but I once clawed a dog. I like to listen to Metallica while grooming. Don't judge me. I hope we can be ridiculous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "307963@4",
+  "sire": "369820@4",
+  "children": [
+    "389969@6",
+    "391561@6",
+    "392105@6",
+    "393056@6",
+    "393683@6",
+    "395341@6",
+    "395574@6",
+    "398770@6",
+    "405146@6",
+    "414268@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1001,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

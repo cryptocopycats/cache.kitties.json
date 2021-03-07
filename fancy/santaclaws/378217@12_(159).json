@@ -1,0 +1,29 @@
+{
+  "id": 378217,
+  "name": "FANCY SANTA (RARE)",
+  "generation": 12,
+  "created_at": "2017-12-20T18:18:29.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm FANCY SANTA (RARE). My friends describe me as raunchy and gorgeous. In my free time, I can usually be found smelly or siring for status. Will you be the maple syrup to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "356599@11",
+  "sire": "370488@10",
+  "children": [
+    "378996@14",
+    "380271@13",
+    "382860@13",
+    "388673@13",
+    "393630@13",
+    "403864@13",
+    "421302@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 159,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 327652,
+  "name": "Gen5 Fancy Ducat",
+  "generation": 5,
+  "created_at": "2017-12-15T18:16:06.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm Gen5 Fancy Ducat. I'm a Culinary Sanitation Specialist by day, and I like people-watching by night. When I'm not mocking dogs, I'm playing chess! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "169599@3",
+  "sire": "306974@4",
+  "children": [
+    "423995@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5439,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

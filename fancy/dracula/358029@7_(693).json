@@ -1,0 +1,25 @@
+{
+  "id": 358029,
+  "name": "Count Kitty",
+  "generation": 7,
+  "created_at": "2017-12-18T02:52:55.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Count Kitty. I'm often referred to as the Steve Urkel of the group. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "248630@6",
+  "sire": "271191@6",
+  "children": [
+    "359202@10",
+    "359716@9",
+    "405047@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 693,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

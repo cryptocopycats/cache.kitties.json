@@ -1,0 +1,29 @@
+{
+  "id": 395678,
+  "name": "#1036",
+  "generation": 6,
+  "created_at": "2017-12-23T16:37:08.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm #1036. My friends describe me as voluptuous and brilliant. I was voted biggest teacher's pet in college. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "391898@5",
+  "sire": "389803@5",
+  "children": [
+    "396983@9",
+    "398897@7",
+    "416100@7",
+    "423188@11",
+    "575199@7",
+    "1351431@10",
+    "1677354@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1036,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

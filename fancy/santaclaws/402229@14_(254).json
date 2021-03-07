@@ -1,0 +1,25 @@
+{
+  "id": 402229,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-24T14:08:55.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! Kitty #402229 here. I'm here to enjoy staying woke and being a nevernude. I would give it all up to star in a soap opera. I hope we can be ridiculous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "382935@13",
+  "sire": "362065@10",
+  "children": [
+    "403649@15",
+    "405725@16",
+    "406917@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 254,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

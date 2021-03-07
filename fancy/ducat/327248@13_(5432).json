@@ -1,0 +1,23 @@
+{
+  "id": 327248,
+  "name": "Hot Cha",
+  "generation": 13,
+  "created_at": "2017-12-15T17:34:53.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Hot Cha. I'm a professional Ventriloquist and I love salad. I once made a gecko pester. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "305080@12",
+  "sire": "313002@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5432,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

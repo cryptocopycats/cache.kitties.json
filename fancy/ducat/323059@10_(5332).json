@@ -1,0 +1,25 @@
+{
+  "id": 323059,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-15T09:19:12.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm Kitty #323059. I'm a Aerobics Athlete  by day, and I like jump-roping by night. I once made a platypus jump. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "156176@8",
+  "sire": "305652@9",
+  "children": [
+    "324485@11",
+    "335162@11",
+    "341022@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5332,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

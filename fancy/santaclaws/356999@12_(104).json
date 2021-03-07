@@ -1,0 +1,25 @@
+{
+  "id": 356999,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-18T00:46:30.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #356999. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of tricking babies, steak, and sleeping in fresh laundry. Can you make my brilliant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "353120@11",
+  "sire": "341452@9",
+  "children": [
+    "357781@13",
+    "359340@13",
+    "363704@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 104,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

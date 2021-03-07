@@ -1,0 +1,31 @@
+{
+  "id": 351077,
+  "name": "Myrcella",
+  "generation": 12,
+  "created_at": "2017-12-17T12:26:40.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Myrcella. My friends describe me as prickly and annoying. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "350584@11",
+  "sire": "337326@9",
+  "children": [
+    "351968@13",
+    "366436@13",
+    "371170@13",
+    "375558@17",
+    "389321@14",
+    "404687@13",
+    "448651@13",
+    "677973@13",
+    "772539@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 767,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 324431,
+  "name": "Zune",
+  "generation": 8,
+  "created_at": "2017-12-15T11:45:16.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Zune. I'm a professional Aerobics Athlete  and I love chocolate. When I'm not swiping left, I'm riding the bus! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "160420@7",
+  "sire": "252242@7",
+  "children": [
+    "337143@9",
+    "338265@11",
+    "341493@9",
+    "347996@9",
+    "359217@9",
+    "365353@9",
+    "379439@9",
+    "385181@9",
+    "413832@9",
+    "434568@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5364,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

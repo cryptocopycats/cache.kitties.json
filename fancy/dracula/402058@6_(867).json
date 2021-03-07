@@ -1,0 +1,31 @@
+{
+  "id": 402058,
+  "name": "*RARE* FANCY DRACULA *RARE*",
+  "generation": 6,
+  "created_at": "2017-12-24T13:25:17.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm *RARE* FANCY DRACULA *RARE*. I want to live in a world where people believe that one day cats will rule this planet. Some people say I'm the Frodo Baggins of the group. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "401898@5",
+  "sire": "399432@5",
+  "children": [
+    "415229@8",
+    "422553@7",
+    "427204@13",
+    "434920@7",
+    "459855@7",
+    "486265@12",
+    "487697@7",
+    "488335@8",
+    "491839@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 867,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

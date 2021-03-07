@@ -1,0 +1,23 @@
+{
+  "id": 376539,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-20T08:11:38.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Kitty #376539. I'm often referred to as the Steve Urkel of the group. Sometimes I daydream of a life full of picking flowers, cereal, and summoning ghosts. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "257517@5",
+  "sire": "350029@3",
+  "children": [
+    "380327@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 940,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 410669,
+  "name": "Leroy 🐱",
+  "generation": 18,
+  "created_at": "2017-12-26T03:47:14.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Leroy 🐱. I'm often referred to as the Frodo Baggins of the group. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "161448@15",
+  "sire": "171427@17",
+  "children": [
+    "416353@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6949,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

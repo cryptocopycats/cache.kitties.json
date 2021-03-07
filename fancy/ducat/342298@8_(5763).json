@@ -1,0 +1,23 @@
+{
+  "id": 342298,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T18:29:49.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #342298. I'm often referred to as the Ron Weasley of the group. I once got in a fight with a chimpanzee, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342041@6",
+  "sire": "312054@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5763,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 331545,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-16T00:03:00.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #331545. My friends describe me as preposterous and tantalizing. I put maple syrup on everything. Like, everything: hot dogs, cantaloupe—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "314866@4",
+  "sire": "316095@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 600,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

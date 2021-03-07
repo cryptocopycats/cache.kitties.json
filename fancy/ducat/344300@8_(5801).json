@@ -1,0 +1,25 @@
+{
+  "id": 344300,
+  "name": "Easy to produce variation",
+  "generation": 8,
+  "created_at": "2017-12-16T22:01:58.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm Easy to produce variation. I'm often referred to as the Peter Griffin of the group. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "343957@7",
+  "sire": "343838@5",
+  "children": [
+    "528343@9",
+    "529681@9",
+    "536248@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5801,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

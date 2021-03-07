@@ -1,0 +1,23 @@
+{
+  "id": 377686,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-20T15:48:22.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! My name's Kitty #377686. I once peed on Nelson Mandela's cat. They had it coming. I once dreamed of being a Mad Scientist. Now I can be found mocking dogs all day. Our friendship will be vegan, gullible, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "362617@4",
+  "sire": "362315@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 946,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

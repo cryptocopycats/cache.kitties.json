@@ -1,0 +1,25 @@
+{
+  "id": 329606,
+  "name": "🎄 Fancy:Mistletoe 🎄",
+  "generation": 9,
+  "created_at": "2017-12-15T21:16:32.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm 🎄 Fancy:Mistletoe 🎄. I'm a professional Spin Instructor  and I love cereal. My secret indulgence is steak. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "314228@8",
+  "sire": "328311@8",
+  "children": [
+    "331149@10",
+    "332792@10",
+    "446800@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 580,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 367625,
+  "name": "Birdpuss",
+  "generation": 15,
+  "created_at": "2017-12-19T02:13:46.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! My name's Birdpuss. I once peed on Amelia Earhart's cat. They had it coming. I would give it all up to be on Oprah. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "365491@14",
+  "sire": "365915@11",
+  "children": [
+    "381268@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6280,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

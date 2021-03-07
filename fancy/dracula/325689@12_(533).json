@@ -1,0 +1,28 @@
+{
+  "id": 325689,
+  "name": "CountDickula",
+  "generation": 12,
+  "created_at": "2017-12-15T14:03:44.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm CountDickula. I want to live in a world where people believe that one day cats will rule this planet. I once dreamed of being a Train Conductor. Now I can be found playing chess all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "305665@11",
+  "sire": "171874@8",
+  "children": [
+    "327567@13",
+    "329897@13",
+    "338570@13",
+    "347738@13",
+    "359373@13",
+    "408728@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 533,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

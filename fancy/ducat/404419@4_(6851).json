@@ -1,0 +1,23 @@
+{
+  "id": 404419,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-24T22:29:50.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #404419. I believe the world is flat. I once made a chimpanzee kiss. I look forward to licking doorknobs with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "375463@3",
+  "sire": "403798@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6851,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

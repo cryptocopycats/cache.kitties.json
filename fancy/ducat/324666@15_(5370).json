@@ -1,0 +1,23 @@
+{
+  "id": 324666,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-15T12:10:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #324666. I've never told anyone this, but I once cleaned a dog. I once made a labradoodle pester. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239397@14",
+  "sire": "264640@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5370,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

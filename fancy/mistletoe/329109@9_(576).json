@@ -1,0 +1,23 @@
+{
+  "id": 329109,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-15T20:36:09.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #329109. I'm often referred to as the Cersei Lannister of the group. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "239393@7",
+  "sire": "310751@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 576,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 379064,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-20T21:44:09.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #379064. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a gecko, and won. Will you be the peanut butter to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "348133@4",
+  "sire": "307086@4",
+  "children": [
+    "379538@6",
+    "382031@6",
+    "385948@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6471,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 387236,
+  "name": "KatBird",
+  "generation": 5,
+  "created_at": "2017-12-22T09:00:49.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm KatBird. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Mariah Carey. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "379468@4",
+  "sire": "353037@4",
+  "children": [
+    "387354@15",
+    "387735@12",
+    "388508@12",
+    "388572@9",
+    "404664@10",
+    "441915@12",
+    "445843@26"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6621,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

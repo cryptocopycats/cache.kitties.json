@@ -1,0 +1,29 @@
+{
+  "id": 409500,
+  "name": "deste2",
+  "generation": 9,
+  "created_at": "2017-12-25T22:23:33.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm deste2. I'm a professional Ventriloquist and I love salad. In my free time, I can usually be found fabulous or riverdancing. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "303533@7",
+  "sire": "291887@8",
+  "children": [
+    "536217@10",
+    "551842@10",
+    "562243@15",
+    "563767@15",
+    "567392@10",
+    "569710@17",
+    "785437@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1091,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

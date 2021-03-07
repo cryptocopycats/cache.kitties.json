@@ -1,0 +1,23 @@
+{
+  "id": 385570,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-22T02:26:37.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*hissing noises*! I'm Kitty #385570. I believe the world is flat. I once made a dog pester. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "233417@5",
+  "sire": "182306@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6592,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

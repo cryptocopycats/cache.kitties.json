@@ -1,0 +1,23 @@
+{
+  "id": 364466,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-18T18:26:35.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Kitty #364466. I believe the world is flat. I once cleaned a dog. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "252778@12",
+  "sire": "324485@11",
+  "children": [
+    "386284@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 943,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

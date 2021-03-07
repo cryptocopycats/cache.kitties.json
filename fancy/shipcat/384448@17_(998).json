@@ -1,0 +1,26 @@
+{
+  "id": 384448,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-21T22:31:56.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #384448. I enjoy watching Stranger Things, picking on mice, and hitting on yo' man. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "77899@16",
+  "sire": "14071@1",
+  "children": [
+    "412276@18",
+    "413513@18",
+    "475019@21",
+    "650193@20"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 998,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

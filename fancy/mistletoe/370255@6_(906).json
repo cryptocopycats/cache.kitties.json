@@ -1,0 +1,23 @@
+{
+  "id": 370255,
+  "name": "SUPPLIES MOFO",
+  "generation": 6,
+  "created_at": "2017-12-19T10:34:40.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm SUPPLIES MOFO. I believe the world is flat. Some people say I'm the Ross Geller of the group. I look forward to fighting for the people with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "369377@5",
+  "sire": "361646@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 906,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

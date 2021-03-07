@@ -1,0 +1,24 @@
+{
+  "id": 374803,
+  "name": null,
+  "generation": 21,
+  "created_at": "2017-12-20T01:17:53.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #374803. I'm often referred to as the Peter Griffin of the group. When I'm not reading Danielle Steele, I'm playing chess! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "312813@7",
+  "sire": "351438@20",
+  "children": [
+    "375363@22",
+    "1986031@22"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6402,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

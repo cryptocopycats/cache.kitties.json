@@ -1,0 +1,27 @@
+{
+  "id": 358180,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-18T03:12:38.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm RARE BIRD! Fancy!. I enjoy spinning sick beats, staying woke, and taking selfies. My friends describe me as \"tantalizing.\" It's... accurate. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336236@3",
+  "sire": "287901@3",
+  "children": [
+    "359343@5",
+    "359550@5",
+    "363477@5",
+    "363710@7",
+    "376595@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6097,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 398755,
+  "name": "Tweeeta",
+  "generation": 18,
+  "created_at": "2017-12-24T01:58:30.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Tweeeta. I'm often referred to as the Neville Longbottom of the group. I like to listen to Aretha Franklin while grooming. Don't judge me. I look forward to spinning sick beats with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191506@10",
+  "sire": "383298@17",
+  "children": [
+    "399830@19",
+    "424313@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6788,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

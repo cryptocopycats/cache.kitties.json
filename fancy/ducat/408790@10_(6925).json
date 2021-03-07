@@ -1,0 +1,23 @@
+{
+  "id": 408790,
+  "name": "Krispy Klean",
+  "generation": 10,
+  "created_at": "2017-12-25T19:29:16.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Krispy Klean. I'm a Ventriloquist by day, and I like watching reality tv by night. Sometimes I daydream of a life full of tricking babies, hamburgers, and volunteering at the local kitten rescue shelter. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "401723@9",
+  "sire": "102594@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6925,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

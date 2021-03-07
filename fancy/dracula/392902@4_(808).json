@@ -1,0 +1,27 @@
+{
+  "id": 392902,
+  "name": "一号 4代吸血鬼种猫 392902",
+  "generation": 4,
+  "created_at": "2017-12-23T06:41:40.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm 一号 4代吸血鬼种猫 392902. All you need to know about me is I hate salad with a passion. Some people say I'm the Ron Weasley of the group. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "376908@3",
+  "sire": "374613@3",
+  "children": [
+    "398220@5",
+    "404616@5",
+    "412670@5",
+    "432973@5",
+    "454278@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 808,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 327428,
+  "name": "Duck McCat",
+  "generation": 7,
+  "created_at": "2017-12-15T17:53:43.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Duck McCat. I want to live in a world where people believe the world is flat. I once dreamed of being a Aerobics Athlete . Now I can be found tricking babies all day. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "252651@6",
+  "sire": "250152@6",
+  "children": [
+    "332105@8",
+    "334487@8",
+    "339730@8",
+    "341837@8",
+    "346179@11",
+    "362111@8",
+    "372509@14",
+    "391161@10",
+    "410879@8",
+    "435931@14",
+    "454601@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5435,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

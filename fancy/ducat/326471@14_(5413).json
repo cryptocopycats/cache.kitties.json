@@ -1,0 +1,25 @@
+{
+  "id": 326471,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-15T15:59:27.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! Kitty #326471 here. I'm here to enjoy eating lasagna and chasing string. I like to listen to Michael Bolton while grooming. Don't judge me. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "321484@13",
+  "sire": "318990@13",
+  "children": [
+    "360664@15",
+    "379303@15",
+    "388780@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5413,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 394909,
+  "name": "💢Fancy|DuCat|Gold|G5",
+  "generation": 5,
+  "created_at": "2017-12-23T14:10:48.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! My name's 💢Fancy|DuCat|Gold|G5. I once peed on Marie Antoinette's cat. They had it coming. My secret indulgence is ice cream. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "394870@4",
+  "sire": "382117@4",
+  "children": [
+    "395224@6",
+    "396269@8",
+    "397066@11",
+    "398485@9",
+    "403230@9",
+    "421903@6",
+    "423064@6",
+    "425720@6",
+    "440913@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6742,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

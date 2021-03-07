@@ -1,0 +1,25 @@
+{
+  "id": 349262,
+  "name": "king",
+  "generation": 15,
+  "created_at": "2017-12-17T08:04:19.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm king. I'm often referred to as the Ron Weasley of the group. Sometimes I daydream of a life full of breakdancing, hamburgers, and prank-calling celebrities. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "328876@14",
+  "sire": "273635@8",
+  "children": [
+    "349740@16",
+    "358818@16",
+    "368348@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5909,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 340088,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-16T14:21:12.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #340088. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a labradoodle, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "329713@19",
+  "sire": "249941@8",
+  "children": [
+    "374656@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 604,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

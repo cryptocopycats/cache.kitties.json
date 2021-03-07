@@ -1,0 +1,30 @@
+{
+  "id": 354582,
+  "name": "Dazed and Confucius",
+  "generation": 4,
+  "created_at": "2017-12-17T20:05:10.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Dazed and Confucius. I'm often referred to as the Lisa Simpson of the group. It's not common knowledge, but my ancestry connects me to Confucius. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "353999@3",
+  "sire": "354247@3",
+  "children": [
+    "355196@10",
+    "357125@8",
+    "357651@5",
+    "358824@8",
+    "359838@11",
+    "376237@5",
+    "381960@8",
+    "472202@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 791,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

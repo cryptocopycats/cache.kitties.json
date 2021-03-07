@@ -1,0 +1,23 @@
+{
+  "id": 347294,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-17T03:49:49.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #347294. In high school, I was voted biggest teacher's pet. My friends describe me as \"wondrous.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "347204@6",
+  "sire": "327059@12",
+  "children": [
+    "354624@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 729,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

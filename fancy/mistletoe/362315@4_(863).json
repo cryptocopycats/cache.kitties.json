@@ -1,0 +1,28 @@
+{
+  "id": 362315,
+  "name": "G4 Mis QUEEN",
+  "generation": 4,
+  "created_at": "2017-12-18T12:51:08.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm G4 Mis QUEEN. I've never told anyone this, but I once tricked a dog. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "353713@3",
+  "sire": "326155@3",
+  "children": [
+    "364693@5",
+    "371006@5",
+    "377686@5",
+    "382626@5",
+    "388303@5",
+    "395957@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 863,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

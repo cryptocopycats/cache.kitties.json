@@ -1,0 +1,33 @@
+{
+  "id": 362355,
+  "name": "b44/ 757/ dfa/ cfe",
+  "generation": 4,
+  "created_at": "2017-12-18T12:57:42.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm b44/ 757/ dfa/ cfe. I'm often referred to as the Bart Simpson of the group. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "353450@3",
+  "sire": "360200@3",
+  "children": [
+    "364567@5",
+    "369828@5",
+    "381995@5",
+    "383000@5",
+    "383982@5",
+    "386368@5",
+    "391671@5",
+    "394063@5",
+    "405435@5",
+    "412032@5",
+    "425806@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 933,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

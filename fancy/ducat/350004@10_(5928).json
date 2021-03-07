@@ -1,0 +1,24 @@
+{
+  "id": 350004,
+  "name": "Jaquar High Ten",
+  "generation": 10,
+  "created_at": "2017-12-17T09:41:33.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! My name's Jaquar High Ten. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Marge Simpson of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344421@9",
+  "sire": "337143@9",
+  "children": [
+    "354672@11",
+    "1299269@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5928,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

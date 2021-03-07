@@ -1,0 +1,28 @@
+{
+  "id": 370236,
+  "name": "First Year Fancy: Mistletoe",
+  "generation": 8,
+  "created_at": "2017-12-19T10:29:26.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! I'm First Year Fancy: Mistletoe. All you need to know about me is I hate cereal with a passion. When no one's home, I invite my pals over and we listen to Aretha Franklin. I hope we can be tantalizing friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "267008@7",
+  "sire": "266369@7",
+  "children": [
+    "370412@9",
+    "371097@9",
+    "372061@12",
+    "374866@9",
+    "547209@9",
+    "553766@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 905,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

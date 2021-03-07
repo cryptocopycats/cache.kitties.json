@@ -1,0 +1,25 @@
+{
+  "id": 354135,
+  "name": "LGC MOTHER",
+  "generation": 5,
+  "created_at": "2017-12-17T19:16:10.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm LGC MOTHER. My friends describe me as prickly and tantalizing. I once got in a fight with a moose, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "335640@4",
+  "sire": "348915@4",
+  "children": [
+    "354238@6",
+    "646710@197",
+    "646802@199"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6020,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

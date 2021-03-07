@@ -1,0 +1,23 @@
+{
+  "id": 325406,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T13:25:37.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Kitty #325406 here. I'm here to enjoy eating lasagna and glaring at the neighbour's cat. My friends describe me as \"smelly.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "284405@5",
+  "sire": "274059@5",
+  "children": [
+    "350547@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 531,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

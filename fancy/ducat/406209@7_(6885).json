@@ -1,0 +1,24 @@
+{
+  "id": 406209,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-25T06:27:08.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #406209. I'm a Spin Instructor  by day, and I like swiping left by night. I once made a rabbit kiss. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "387945@5",
+  "sire": "388031@6",
+  "children": [
+    "410013@9",
+    "412199@17"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6885,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

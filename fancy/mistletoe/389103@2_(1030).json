@@ -1,0 +1,24 @@
+{
+  "id": 389103,
+  "name": "Christmas Kid",
+  "generation": 2,
+  "created_at": "2017-12-22T17:23:08.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Christmas Kid. I've never told anyone this, but I once kissed a dog. My secret indulgence is hamburgers. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "365376@1",
+  "sire": "374947@1",
+  "children": [
+    "392317@3",
+    "407578@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1030,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

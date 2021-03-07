@@ -1,0 +1,24 @@
+{
+  "id": 323784,
+  "name": "Lovely Lucky Bird",
+  "generation": 14,
+  "created_at": "2017-12-15T10:34:05.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm Lovely Lucky Bird. I'm often referred to as the Homer Simpson of the group. I am 35% hobbit, 34% Spin Instructor , and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "318990@13",
+  "sire": "297763@13",
+  "children": [
+    "334642@15",
+    "350995@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5348,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

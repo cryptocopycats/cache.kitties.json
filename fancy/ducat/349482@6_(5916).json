@@ -1,0 +1,28 @@
+{
+  "id": 349482,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 6,
+  "created_at": "2017-12-17T08:35:05.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm RARE BIRD! Fancy!. I'm often referred to as the Lisa Simpson of the group. I like to listen to Beyoncé while grooming. Don't judge me. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "339562@5",
+  "sire": "321325@5",
+  "children": [
+    "349740@16",
+    "358818@16",
+    "360666@10",
+    "361575@10",
+    "363471@10",
+    "372064@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5916,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

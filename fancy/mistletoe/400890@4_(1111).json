@@ -1,0 +1,23 @@
+{
+  "id": 400890,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-24T08:06:31.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #400890. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "224814@3",
+  "sire": "222978@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1111,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

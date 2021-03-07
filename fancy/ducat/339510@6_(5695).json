@@ -1,0 +1,28 @@
+{
+  "id": 339510,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 6,
+  "created_at": "2017-12-16T13:13:33.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm RARE BIRD! Fancy!. My friends describe me as despicable and preposterous. I once dreamed of being a Mad Scientist. Now I can be found reading Danielle Steele all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "305662@5",
+  "sire": "321325@5",
+  "children": [
+    "362192@8",
+    "378064@7",
+    "451733@8",
+    "1127436@7",
+    "1129657@7",
+    "1132985@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5695,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

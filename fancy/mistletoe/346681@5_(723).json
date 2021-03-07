@@ -1,0 +1,27 @@
+{
+  "id": 346681,
+  "name": "Xmas",
+  "generation": 5,
+  "created_at": "2017-12-17T02:26:13.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Xmas. My friends describe me as hairy and gorgeous. Sometimes I daydream of a life full of reading garfield, apple pie, and riverdancing. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "274915@4",
+  "sire": "261278@3",
+  "children": [
+    "377426@9",
+    "377606@9",
+    "379118@9",
+    "383160@11",
+    "389192@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 723,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 315258,
+  "name": "Watschel",
+  "generation": 9,
+  "created_at": "2017-12-14T21:57:55.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Watschel. I'm a professional Spin Instructor  and I love apple pie. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "287950@8",
+  "sire": "270518@8",
+  "children": [
+    "471269@11",
+    "472199@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5168,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

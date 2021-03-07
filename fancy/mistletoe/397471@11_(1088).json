@@ -1,0 +1,23 @@
+{
+  "id": 397471,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-23T22:02:53.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #397471. I'm a professional Ventriloquist and I love apple pie. Some people say I'm the Lisa Simpson of the group. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "301061@10",
+  "sire": "304419@10",
+  "children": [
+    "407845@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1088,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

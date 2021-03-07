@@ -1,0 +1,26 @@
+{
+  "id": 337472,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T09:25:29.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Kitty #337472. I want to live in a world where people believe the world is flat. I was voted most likely to work at NASA in college. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "237388@5",
+  "sire": "236730@5",
+  "children": [
+    "453610@7",
+    "457367@7",
+    "459917@7",
+    "462718@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 664,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

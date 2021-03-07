@@ -1,0 +1,26 @@
+{
+  "id": 400201,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-24T05:59:34.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! My name's RARE BIRD! Fancy!. I once peed on Cleopatra's cat. They had it coming. I once headbutted a moose. I don't like to talk about it. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "395675@3",
+  "sire": "324399@3",
+  "children": [
+    "405678@5",
+    "410520@5",
+    "415854@5",
+    "561470@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6808,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

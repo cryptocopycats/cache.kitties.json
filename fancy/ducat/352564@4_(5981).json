@@ -1,0 +1,23 @@
+{
+  "id": 352564,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-17T15:56:24.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Sup playa! I'm RARE BIRD! Fancy!. My friends describe me as tantalizing and fabulous. I was voted biggest teacher's pet in college. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336236@3",
+  "sire": "267640@3",
+  "children": [
+    "353801@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5981,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

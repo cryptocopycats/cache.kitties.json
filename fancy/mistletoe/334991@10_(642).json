@@ -1,0 +1,23 @@
+{
+  "id": 334991,
+  "name": "Rare Parents Mistletoe!",
+  "generation": 10,
+  "created_at": "2017-12-16T05:30:24.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Rare Parents Mistletoe!. I'm a Spin Instructor  by day, and I like running a podcast by night. I once got in a fight with a rooster, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "188698@8",
+  "sire": "254005@9",
+  "children": [
+    "354911@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 642,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 403630,
+  "name": "My Favorite Cat",
+  "generation": 11,
+  "created_at": "2017-12-24T19:38:40.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm My Favorite Cat. In high school, I was voted most likely to work at NASA. I like to listen to Coldplay while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "397667@10",
+  "sire": "95736@10",
+  "children": [
+    "404067@12",
+    "409420@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1066,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

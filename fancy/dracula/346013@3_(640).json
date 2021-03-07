@@ -1,0 +1,25 @@
+{
+  "id": 346013,
+  "name": "Sir Dracoola",
+  "generation": 3,
+  "created_at": "2017-12-17T01:08:37.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Sir Dracoola. I believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "325487@2",
+  "sire": "323965@2",
+  "children": [
+    "346950@4",
+    "348621@4",
+    "368039@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 640,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

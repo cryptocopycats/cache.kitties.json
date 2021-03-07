@@ -1,0 +1,31 @@
+{
+  "id": 407675,
+  "name": "devid3",
+  "generation": 7,
+  "created_at": "2017-12-25T14:00:24.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm devid3. I enjoy tripping my owner, picking flowers, and sitting on your computer. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "391379@1",
+  "sire": "102208@6",
+  "children": [
+    "501757@9",
+    "501855@14",
+    "502071@16",
+    "502413@15",
+    "515061@15",
+    "518918@15",
+    "524321@16",
+    "563615@16",
+    "1935635@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1082,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

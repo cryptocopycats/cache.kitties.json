@@ -1,0 +1,23 @@
+{
+  "id": 388456,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-22T13:56:58.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #388456. All you need to know about me is I hate apple pie with a passion. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "356687@8",
+  "sire": "295198@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6645,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

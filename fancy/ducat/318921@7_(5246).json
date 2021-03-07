@@ -1,0 +1,23 @@
+{
+  "id": 318921,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-15T02:36:29.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's Kitty #318921. I once peed on Confucius's cat. They had it coming. I was voted biggest teacher's pet in college. Will you be the garlic butter to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "318255@6",
+  "sire": "318620@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5246,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

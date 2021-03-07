@@ -1,0 +1,32 @@
+{
+  "id": 368492,
+  "name": "Ducat this",
+  "generation": 5,
+  "created_at": "2017-12-19T04:35:28.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Ducat this. I'm a professional Ventriloquist and I love cereal. I like to listen to Beyoncé while grooming. Don't judge me. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "353037@4",
+  "sire": "311107@4",
+  "children": [
+    "511516@6",
+    "511846@6",
+    "512349@6",
+    "512542@6",
+    "513315@6",
+    "514011@6",
+    "518674@13",
+    "522121@6",
+    "526135@6",
+    "548627@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6290,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

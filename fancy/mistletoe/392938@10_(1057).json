@@ -1,0 +1,24 @@
+{
+  "id": 392938,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-23T06:46:36.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Kitty #392938. In high school, I was voted biggest teacher's pet. Sometimes I daydream of a life full of slappin' da bass, chocolate, and siring for status. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "362071@9",
+  "sire": "175601@9",
+  "children": [
+    "639891@11",
+    "663992@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1057,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

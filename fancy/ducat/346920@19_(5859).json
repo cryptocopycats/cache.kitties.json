@@ -1,0 +1,23 @@
+{
+  "id": 346920,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-17T02:57:49.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! Kitty #346920 here. I'm here to enjoy staying woke and breakdancing. I'm convinced that that one day cats will rule this planet. One day I'll prove it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "301036@16",
+  "sire": "327019@18",
+  "children": [
+    "350650@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5859,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

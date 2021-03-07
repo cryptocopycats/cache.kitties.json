@@ -1,0 +1,23 @@
+{
+  "id": 349433,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-17T08:26:07.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #349433. I'm a Dogwalker by day, and I like riding the bus by night. Some people say I'm the Niles Crane of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306639@13",
+  "sire": "178671@13",
+  "children": [
+    "351936@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5913,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

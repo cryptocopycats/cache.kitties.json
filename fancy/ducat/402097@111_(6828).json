@@ -1,0 +1,23 @@
+{
+  "id": 402097,
+  "name": "LGC - 111 (4TH OF GEN)",
+  "generation": 111,
+  "created_at": "2017-12-24T13:38:43.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm LGC - 111 (4TH OF GEN). I'm often referred to as the Frodo Baggins of the group. I'm convinced that the world is flat. One day I'll prove it. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "74820@7",
+  "sire": "402024@110",
+  "children": [
+    "435850@112"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6828,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 412459,
+  "name": "Virgin",
+  "generation": 8,
+  "created_at": "2017-12-26T13:52:10.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "What's up! I'm Virgin. All you need to know about me is I hate steak with a passion. It's not common knowledge, but my ancestry connects me to Princess Diana. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "293490@7",
+  "sire": "218357@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6983,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

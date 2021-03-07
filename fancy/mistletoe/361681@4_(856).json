@@ -1,0 +1,23 @@
+{
+  "id": 361681,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-18T11:10:05.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! I'm Kitty #361681. I'm often referred to as the Homer Simpson of the group. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "336738@3",
+  "sire": "333296@3",
+  "children": [
+    "382355@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 856,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

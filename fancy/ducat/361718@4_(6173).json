@@ -1,0 +1,24 @@
+{
+  "id": 361718,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-18T11:16:02.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #361718. In high school, I was voted school jock. I am 61% elf, 30% Foreign Film Director, and otherwise bad at math. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "301544@3",
+  "sire": "309670@3",
+  "children": [
+    "361846@5",
+    "363604@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6173,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

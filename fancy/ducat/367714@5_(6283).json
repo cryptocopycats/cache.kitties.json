@@ -1,0 +1,24 @@
+{
+  "id": 367714,
+  "name": "stoopid",
+  "generation": 5,
+  "created_at": "2017-12-19T02:27:38.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! My name's stoopid. I once peed on Confucius's cat. They had it coming. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "349055@4",
+  "sire": "275653@4",
+  "children": [
+    "446011@7",
+    "447114@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6283,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

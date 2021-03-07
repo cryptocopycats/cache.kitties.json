@@ -1,0 +1,25 @@
+{
+  "id": 346067,
+  "name": "xmas Kat",
+  "generation": 4,
+  "created_at": "2017-12-17T01:15:29.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm xmas Kat. In high school, I was voted most likely to work at NASA. My secret indulgence is steak. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "340480@1",
+  "sire": "276232@3",
+  "children": [
+    "364303@17",
+    "369890@5",
+    "412715@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 718,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

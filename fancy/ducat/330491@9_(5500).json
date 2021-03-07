@@ -1,0 +1,24 @@
+{
+  "id": 330491,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-15T22:34:20.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #330491. All you need to know about me is I hate salad with a passion. I was voted school jock in college. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "13538@7",
+  "sire": "189066@8",
+  "children": [
+    "345688@16",
+    "380669@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5500,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

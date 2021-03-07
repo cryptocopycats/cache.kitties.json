@@ -1,0 +1,23 @@
+{
+  "id": 412106,
+  "name": "Santa Kitty",
+  "generation": 8,
+  "created_at": "2017-12-26T11:41:40.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Santa Kitty. I want to live in a world where people believe the world is flat. In my free time, I can usually be found vegan or sleeping in fresh laundry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "394021@5",
+  "sire": "392238@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1192,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

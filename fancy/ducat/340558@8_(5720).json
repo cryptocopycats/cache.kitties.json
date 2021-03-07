@@ -1,0 +1,23 @@
+{
+  "id": 340558,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T15:09:44.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #340558. I enjoy eating lasagna, glaring at the neighbour's cat, and being a nevernude. In my free time, I can usually be found despicable or siring for status. Can you make my seductive dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227559@7",
+  "sire": "339674@7",
+  "children": [
+    "340971@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5720,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

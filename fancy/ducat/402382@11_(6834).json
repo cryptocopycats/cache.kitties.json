@@ -1,0 +1,23 @@
+{
+  "id": 402382,
+  "name": "FANCY ROSS GELLER",
+  "generation": 11,
+  "created_at": "2017-12-24T14:54:33.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm FANCY ROSS GELLER. I'm often referred to as the Ross Geller of the group. I like to listen to Justin Bieber while grooming. Don't judge me. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "391520@9",
+  "sire": "372229@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6834,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

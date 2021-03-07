@@ -1,0 +1,24 @@
+{
+  "id": 340614,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-16T15:17:44.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Kitty #340614. I once peed on Princess Diana's cat. They had it coming. I like to listen to Mariah Carey while grooming. Don't judge me. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "338432@6",
+  "sire": "307787@6",
+  "children": [
+    "341356@9",
+    "343796@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5723,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

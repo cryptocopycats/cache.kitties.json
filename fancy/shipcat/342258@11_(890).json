@@ -1,0 +1,23 @@
+{
+  "id": 342258,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-16T18:24:40.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #342258. I'm a professional Aerobics Athlete  and I love apple pie. I was voted school jock in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "244299@10",
+  "sire": "180965@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 890,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": 362071,
+  "name": "www.goodkitty.net",
+  "generation": 9,
+  "created_at": "2017-12-18T12:15:23.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! My name's www.goodkitty.net. I once peed on Amelia Earhart's cat. They had it coming. I once got in a fight with a labradoodle, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "321147@7",
+  "sire": "352592@8",
+  "children": [
+    "362504@10",
+    "365855@11",
+    "367685@10",
+    "369532@10",
+    "374624@10",
+    "382926@10",
+    "392938@10",
+    "402343@10",
+    "569479@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 112,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 346007,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-17T01:07:47.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #346007. In high school, I was voted biggest teacher's pet. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "212266@9",
+  "sire": "214256@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5835,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

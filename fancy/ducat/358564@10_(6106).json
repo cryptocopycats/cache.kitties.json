@@ -1,0 +1,25 @@
+{
+  "id": 358564,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-18T03:58:18.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #358564. All you need to know about me is I hate chocolate with a passion. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "232559@9",
+  "sire": "111624@8",
+  "children": [
+    "376198@11",
+    "1124045@11",
+    "1203653@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6106,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 379588,
+  "name": "Sandrakat",
+  "generation": 9,
+  "created_at": "2017-12-20T23:16:38.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Sandrakat. I believe that one day cats will rule this planet. I once made a chimpanzee ignore. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "166983@5",
+  "sire": "122950@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6482,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 352164,
+  "name": "My Mistletoe 🏆",
+  "generation": 6,
+  "created_at": "2017-12-17T15:05:38.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm My Mistletoe 🏆. I believe the world is flat. I like to listen to Mariah Carey while grooming. Don't judge me. I look forward to riding dirty with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "340905@5",
+  "sire": "345630@5",
+  "children": [
+    "352949@7",
+    "354597@7",
+    "357544@7",
+    "359226@7",
+    "361871@7",
+    "366423@8",
+    "382785@7",
+    "390794@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 778,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

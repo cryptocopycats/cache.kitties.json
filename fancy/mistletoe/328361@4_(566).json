@@ -1,0 +1,29 @@
+{
+  "id": 328361,
+  "name": "4-j-7777",
+  "generation": 4,
+  "created_at": "2017-12-15T19:30:28.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm 4-j-7777. I'm a Train Conductor by day, and I like talking about how much I lift by night. When no one's home, I invite my pals over and we listen to Metallica. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "314570@3",
+  "sire": "314303@3",
+  "children": [
+    "402631@5",
+    "405267@5",
+    "405552@5",
+    "406039@5",
+    "406833@5",
+    "440484@5",
+    "541501@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 566,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

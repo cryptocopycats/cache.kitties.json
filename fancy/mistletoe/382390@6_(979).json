@@ -1,0 +1,23 @@
+{
+  "id": 382390,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-21T10:13:38.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Kitty #382390. I've never told anyone this, but I once bit a dog. It's not common knowledge, but my ancestry connects me to Confucius. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "357378@3",
+  "sire": "381283@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 979,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

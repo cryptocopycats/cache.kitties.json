@@ -1,0 +1,23 @@
+{
+  "id": 317487,
+  "name": "I'm Fancy",
+  "generation": 11,
+  "created_at": "2017-12-15T00:45:42.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! I'm I'm Fancy. In high school, I was voted biggest teacher's pet. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "183395@9",
+  "sire": "257609@10",
+  "children": [
+    "384515@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5212,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

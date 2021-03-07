@@ -1,0 +1,23 @@
+{
+  "id": 335373,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-16T06:06:29.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Kitty #335373. I'm a Skydiving Instructor by day, and I like jump-roping by night. I once got in a fight with a labradoodle, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "332576@3",
+  "sire": "331203@3",
+  "children": [
+    "336396@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5606,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

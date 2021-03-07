@@ -1,0 +1,23 @@
+{
+  "id": 315901,
+  "name": "XmasKitty",
+  "generation": 10,
+  "created_at": "2017-12-14T22:41:21.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm XmasKitty. I enjoy breakdancing, grooming, and picking on mice. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "254504@6",
+  "sire": "280309@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 443,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

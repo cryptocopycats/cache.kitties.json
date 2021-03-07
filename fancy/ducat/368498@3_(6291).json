@@ -1,0 +1,27 @@
+{
+  "id": 368498,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 3,
+  "created_at": "2017-12-19T04:36:23.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm RARE BIRD! Fancy!. I'm often referred to as the Ross Geller of the group. I am 0% fairy, 71% Train Conductor, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278671@2",
+  "sire": "345952@2",
+  "children": [
+    "372919@4",
+    "389052@4",
+    "410430@4",
+    "411774@4",
+    "435948@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6291,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

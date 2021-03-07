@@ -1,0 +1,26 @@
+{
+  "id": 400656,
+  "name": "Ratpenat",
+  "generation": 10,
+  "created_at": "2017-12-24T07:12:10.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Ratpenat. I'm a Ventriloquist by day, and I like summoning ghosts by night. My secret indulgence is chocolate. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "398568@2",
+  "sire": "397472@9",
+  "children": [
+    "400687@11",
+    "402208@11",
+    "404672@11",
+    "405928@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 857,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

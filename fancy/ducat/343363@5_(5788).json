@@ -1,0 +1,33 @@
+{
+  "id": 343363,
+  "name": "Pidgey",
+  "generation": 5,
+  "created_at": "2017-12-16T20:29:05.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! Pidgey here. I'm here to enjoy riding unicorns and hitting on yo' man. My secret indulgence is cantaloupe. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "334730@4",
+  "sire": "273874@4",
+  "children": [
+    "344005@6",
+    "346243@7",
+    "346836@7",
+    "347632@7",
+    "397131@6",
+    "399402@6",
+    "412353@6",
+    "432007@8",
+    "442924@9",
+    "467680@11",
+    "480029@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5788,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

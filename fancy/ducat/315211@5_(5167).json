@@ -1,0 +1,26 @@
+{
+  "id": 315211,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-14T21:55:58.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Kitty #315211. I enjoy watching Stranger Things, tripping my owner, and slappin' da bass. In my free time, I can usually be found vegan or practicing witchcraft. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "295551@4",
+  "sire": "310907@3",
+  "children": [
+    "348577@6",
+    "351993@6",
+    "457205@12",
+    "457886@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5167,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

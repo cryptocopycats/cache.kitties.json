@@ -1,0 +1,24 @@
+{
+  "id": 339215,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-16T12:41:35.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! My name's Kitty #339215. I once peed on Princess Diana's cat. They had it coming. I once pranced with a rooster. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "191895@6",
+  "sire": "21472@16",
+  "children": [
+    "340368@18",
+    "349944@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5687,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

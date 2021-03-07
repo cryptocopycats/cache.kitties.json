@@ -1,0 +1,26 @@
+{
+  "id": 371716,
+  "name": "HissingFancyDuCat",
+  "generation": 8,
+  "created_at": "2017-12-19T16:56:58.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*hissing noises*! I'm HissingFancyDuCat. I've never told anyone this, but I once kissed a dog. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "370367@3",
+  "sire": "316406@7",
+  "children": [
+    "371993@9",
+    "373149@9",
+    "374979@9",
+    "390476@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6357,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

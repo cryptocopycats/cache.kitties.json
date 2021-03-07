@@ -1,0 +1,32 @@
+{
+  "id": 394008,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-23T10:48:21.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #394008. I've never told anyone this, but I once loved a dog. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "315947@5",
+  "sire": "302363@6",
+  "children": [
+    "396441@11",
+    "397455@11",
+    "400415@11",
+    "400898@8",
+    "402685@8",
+    "403629@8",
+    "407541@8",
+    "413495@8",
+    "429483@8",
+    "448585@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 208,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 409557,
+  "name": "#1173 mistletoe",
+  "generation": 9,
+  "created_at": "2017-12-25T22:37:05.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm #1173 mistletoe. I believe the world is flat. I once dreamed of being a Skydiving Instructor. Now I can be found running a podcast all day. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "399381@8",
+  "sire": "409055@8",
+  "children": [
+    "410378@10",
+    "420511@10",
+    "422628@10",
+    "427246@10",
+    "434283@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1173,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

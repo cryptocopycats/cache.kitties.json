@@ -1,0 +1,28 @@
+{
+  "id": 379131,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-20T21:59:47.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! My name's Kitty #379131. I once peed on Martin Luther King Jr.'s cat. They had it coming. Sometimes I daydream of a life full of fighting the patriarchy, wet food, and summoning ghosts. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "274676@1",
+  "sire": "302474@1",
+  "children": [
+    "379759@3",
+    "381088@3",
+    "431732@3",
+    "432273@3",
+    "543439@3",
+    "553448@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 954,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,32 @@
+{
+  "id": 406909,
+  "name": "4-j-7",
+  "generation": 5,
+  "created_at": "2017-12-25T09:42:45.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm 4-j-7. My friends describe me as annoying and vegan. Sometimes I daydream of a life full of slappin' da bass, steak, and prank-calling celebrities. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "401840@4",
+  "sire": "405341@4",
+  "children": [
+    "454642@6",
+    "460455@6",
+    "471273@6",
+    "471618@6",
+    "473285@6",
+    "474924@6",
+    "480126@6",
+    "513606@6",
+    "519645@6",
+    "542243@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1153,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

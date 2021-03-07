@@ -1,0 +1,25 @@
+{
+  "id": 355231,
+  "name": "Ten Lives",
+  "generation": 10,
+  "created_at": "2017-12-17T21:20:08.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Ten Lives. All you need to know about me is I hate cereal with a passion. I once made a platypus pester. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344421@9",
+  "sire": "337143@9",
+  "children": [
+    "360312@11",
+    "519173@11",
+    "783544@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6041,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

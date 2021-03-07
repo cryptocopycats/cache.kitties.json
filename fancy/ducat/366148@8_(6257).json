@@ -1,0 +1,30 @@
+{
+  "id": 366148,
+  "name": "Funky",
+  "generation": 8,
+  "created_at": "2017-12-18T22:29:23.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! My name's Funky. I once peed on Martin Luther King Jr.'s cat. They had it coming. I put peanut butter on everything. Like, everything: hot dogs, salad—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "352916@5",
+  "sire": "31251@7",
+  "children": [
+    "369596@13",
+    "395572@10",
+    "403193@18",
+    "427212@19",
+    "450528@19",
+    "451163@9",
+    "470918@20",
+    "518188@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6257,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

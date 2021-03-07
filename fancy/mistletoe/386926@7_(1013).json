@@ -1,0 +1,24 @@
+{
+  "id": 386926,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-22T07:43:10.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #386926. I'm often referred to as the Dwight Schrute of the group. Sometimes I daydream of a life full of picking on mice, apple pie, and riding the bus. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338141@6",
+  "sire": "345316@6",
+  "children": [
+    "387599@8",
+    "401132@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1013,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

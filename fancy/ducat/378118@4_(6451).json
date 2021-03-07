@@ -1,0 +1,25 @@
+{
+  "id": 378118,
+  "name": "Birdie",
+  "generation": 4,
+  "created_at": "2017-12-20T18:03:48.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm Birdie. I'm a Ventriloquist by day, and I like riverdancing by night. I put ranch dressing on everything. Like, everything: hot dogs, cereal—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342927@3",
+  "sire": "341849@3",
+  "children": [
+    "433148@5",
+    "433362@5",
+    "433392@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6451,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

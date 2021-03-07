@@ -1,0 +1,23 @@
+{
+  "id": 316405,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-14T23:23:58.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #316405. I believe that one day cats will rule this planet. I like to listen to Wutang while grooming. Don't judge me. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "313591@7",
+  "sire": "94313@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5187,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

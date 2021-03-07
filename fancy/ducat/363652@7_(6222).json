@@ -1,0 +1,24 @@
+{
+  "id": 363652,
+  "name": "Fancy Five Dice 7",
+  "generation": 7,
+  "created_at": "2017-12-18T16:30:17.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Fancy Five Dice 7. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Will you be the peanut butter to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336182@6",
+  "sire": "310587@5",
+  "children": [
+    "364014@8",
+    "366468@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6222,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

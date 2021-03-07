@@ -1,0 +1,23 @@
+{
+  "id": 376471,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-20T07:51:40.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Kitty #376471. I'm often referred to as the Hermione Granger of the group. I like to listen to Michael Bolton while grooming. Don't judge me. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "254772@21",
+  "sire": "302331@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 975,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

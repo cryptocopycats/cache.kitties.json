@@ -1,0 +1,26 @@
+{
+  "id": 412130,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-26T11:47:15.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #412130. I enjoy breakdancing, eating until I loathe myself, and spinning sick beats. I'm often described as smelly, and I own it. Will you be the cinammon to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "395340@7",
+  "sire": "411824@6",
+  "children": [
+    "412854@13",
+    "413402@12",
+    "417959@12",
+    "446394@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1109,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 345391,
+  "name": "Sharkey",
+  "generation": 9,
+  "created_at": "2017-12-17T00:00:47.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Sharkey. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with Confucius. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342405@8",
+  "sire": "344641@8",
+  "children": [
+    "348872@10",
+    "357719@10",
+    "367400@19",
+    "369275@10",
+    "383329@10",
+    "425817@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5830,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

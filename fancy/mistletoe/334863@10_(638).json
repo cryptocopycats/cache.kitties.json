@@ -1,0 +1,26 @@
+{
+  "id": 334863,
+  "name": "First Year Fancy: Mistletoe",
+  "generation": 10,
+  "created_at": "2017-12-16T05:16:02.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm First Year Fancy: Mistletoe. I'm a Dispensary Clerk by day, and I like volunteering at the local kitten rescue shelter by night. My secret indulgence is apple pie. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "329429@9",
+  "sire": "331506@9",
+  "children": [
+    "366713@11",
+    "373475@11",
+    "379387@11",
+    "387901@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 638,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

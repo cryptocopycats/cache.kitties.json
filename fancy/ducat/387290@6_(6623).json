@@ -1,0 +1,25 @@
+{
+  "id": 387290,
+  "name": "Blue Winged Legend",
+  "generation": 6,
+  "created_at": "2017-12-22T09:14:05.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Blue Winged Legend. I've never told anyone this, but I once tricked a dog. When I'm not mocking dogs, I'm riding the bus! Our friendship will be petulant, preposterous, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78592@5",
+  "sire": "386956@5",
+  "children": [
+    "388939@7",
+    "390983@12",
+    "398572@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6623,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

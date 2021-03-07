@@ -1,0 +1,23 @@
+{
+  "id": 407572,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-25T13:23:20.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #407572. I believe that one day cats will rule this planet. When I'm not pole dancing, I'm reading Danielle Steele! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "372109@10",
+  "sire": "380615@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6901,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

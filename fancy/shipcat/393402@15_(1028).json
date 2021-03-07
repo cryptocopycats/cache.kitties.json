@@ -1,0 +1,27 @@
+{
+  "id": 393402,
+  "name": "Nicholas Sharp",
+  "generation": 15,
+  "created_at": "2017-12-23T08:27:44.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Nicholas Sharp. I want to live in a world where people believe that one day cats will rule this planet. My friends describe me as \"voluptuous.\" It's... accurate. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "281794@14",
+  "sire": "149968@10",
+  "children": [
+    "402658@16",
+    "425830@16",
+    "436793@16",
+    "444511@16",
+    "476980@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1028,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

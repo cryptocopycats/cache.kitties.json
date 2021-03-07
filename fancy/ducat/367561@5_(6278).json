@@ -1,0 +1,29 @@
+{
+  "id": 367561,
+  "name": "Beard Triumph",
+  "generation": 5,
+  "created_at": "2017-12-19T02:03:45.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Beard Triumph. I'm often referred to as the Peter Griffin of the group. When no one's home, I invite my pals over and we listen to Metallica. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "346102@4",
+  "sire": "268223@4",
+  "children": [
+    "367726@6",
+    "370681@6",
+    "375928@6",
+    "388683@6",
+    "408231@6",
+    "443466@6",
+    "509555@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6278,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

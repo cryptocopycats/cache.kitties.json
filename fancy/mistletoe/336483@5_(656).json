@@ -1,0 +1,24 @@
+{
+  "id": 336483,
+  "name": "www.goodkitty.net",
+  "generation": 5,
+  "created_at": "2017-12-16T07:53:32.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm www.goodkitty.net. I'm a professional Ventriloquist and I love steak. I once made a rabbit scare. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325204@4",
+  "sire": "325166@4",
+  "children": [
+    "547464@13",
+    "550649@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 656,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

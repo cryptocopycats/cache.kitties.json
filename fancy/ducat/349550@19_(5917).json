@@ -1,0 +1,23 @@
+{
+  "id": 349550,
+  "name": "Virgin birdie",
+  "generation": 19,
+  "created_at": "2017-12-17T08:42:09.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! Virgin birdie here. I'm here to enjoy grooming and hitting on yo' man. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "322686@18",
+  "sire": "6477@14",
+  "children": [
+    "403676@20"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 5917,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

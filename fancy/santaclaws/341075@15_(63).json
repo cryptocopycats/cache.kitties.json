@@ -1,0 +1,23 @@
+{
+  "id": 341075,
+  "name": "Merry Christmas Special Kitty",
+  "generation": 15,
+  "created_at": "2017-12-16T16:15:19.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Merry Christmas Special Kitty. I'm a professional Culinary Sanitation Specialist and I love lasagna. My friends describe me as \"preposterous.\" It's... accurate. Can't wait to eat salad with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "338032@10",
+  "sire": "323008@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 63,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

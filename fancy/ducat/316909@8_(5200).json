@@ -1,0 +1,23 @@
+{
+  "id": 316909,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-15T00:06:22.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #316909. In high school, I was voted most likely to work at NASA. I once got in a fight with a gecko, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "315644@5",
+  "sire": "222941@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5200,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

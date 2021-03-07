@@ -1,0 +1,23 @@
+{
+  "id": 372064,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-19T18:07:30.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #372064. I'm often referred to as the Samwise Gamgee of the group. I once kissed a moose. I don't like to talk about it. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "349482@6",
+  "sire": "359217@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6362,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

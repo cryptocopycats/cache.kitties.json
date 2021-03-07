@@ -1,0 +1,26 @@
+{
+  "id": 334487,
+  "name": "DuCat Extreme!",
+  "generation": 8,
+  "created_at": "2017-12-16T04:43:20.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm DuCat Extreme!. I enjoy fighting for the people, chasing string, and eating until I loathe myself. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "248390@7",
+  "sire": "327428@7",
+  "children": [
+    "389059@9",
+    "402905@10",
+    "428603@12",
+    "872552@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5586,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

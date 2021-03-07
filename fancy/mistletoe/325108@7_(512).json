@@ -1,0 +1,23 @@
+{
+  "id": 325108,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-15T12:54:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #325108. I'm a professional Private Dancer  and I love cantaloupe. I am 92% fairy, 78% Spin Instructor , and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "320906@6",
+  "sire": "320620@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 512,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

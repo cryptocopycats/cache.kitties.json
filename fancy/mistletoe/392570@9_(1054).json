@@ -1,0 +1,28 @@
+{
+  "id": 392570,
+  "name": "#1054 Mistletoe",
+  "generation": 9,
+  "created_at": "2017-12-23T05:33:08.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm #1054 Mistletoe. I'm a professional Aerobics Athlete  and I love hamburgers. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "392359@8",
+  "sire": "369502@8",
+  "children": [
+    "392776@10",
+    "398189@10",
+    "405808@10",
+    "545400@10",
+    "549701@10",
+    "550891@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1054,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

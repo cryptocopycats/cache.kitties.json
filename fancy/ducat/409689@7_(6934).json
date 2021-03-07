@@ -1,0 +1,23 @@
+{
+  "id": 409689,
+  "name": "FancyChipDuCat",
+  "generation": 7,
+  "created_at": "2017-12-25T23:06:03.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good day! I'm FancyChipDuCat. I enjoy breakdancing, taking selfies, and glaring at the neighbour's cat. I once got in a fight with a rhino, and won. Our friendship will be gullible, fabulous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "409639@4",
+  "sire": "277519@6",
+  "children": [
+    "409898@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6934,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

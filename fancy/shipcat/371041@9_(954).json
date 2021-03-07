@@ -1,0 +1,31 @@
+{
+  "id": 371041,
+  "name": "ship 1",
+  "generation": 9,
+  "created_at": "2017-12-19T14:05:04.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm ship 1. I'm often referred to as the Ron Weasley of the group. I once got in a fight with a dolphin, and won. I look forward to taking selfies with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "298234@8",
+  "sire": "323847@4",
+  "children": [
+    "394154@10",
+    "405118@17",
+    "409835@10",
+    "417914@14",
+    "431860@10",
+    "445842@19",
+    "452222@12",
+    "551658@10",
+    "594370@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 954,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

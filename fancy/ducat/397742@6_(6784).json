@@ -1,0 +1,23 @@
+{
+  "id": 397742,
+  "name": "Christmas Duck",
+  "generation": 6,
+  "created_at": "2017-12-23T22:58:18.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Christmas Duck. I'm a Dogwalker by day, and I like jump-roping by night. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "386087@5",
+  "sire": "389169@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6784,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

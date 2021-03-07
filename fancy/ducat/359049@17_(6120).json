@@ -1,0 +1,26 @@
+{
+  "id": 359049,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-18T05:01:37.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #359049. I enjoy picking flowers, riding unicorns, and reciting poetry. In my free time, I can usually be found despicable or tricking babies. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "342376@6",
+  "sire": "245017@16",
+  "children": [
+    "369146@19",
+    "369395@18",
+    "378640@18",
+    "392807@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6120,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 369878,
+  "name": "44-7-aa-ee",
+  "generation": 3,
+  "created_at": "2017-12-19T09:01:04.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm 44-7-aa-ee. I want to live in a world where people believe the world is flat. I once got in a fight with a platypus, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "208619@2",
+  "sire": "335420@2",
+  "children": [
+    "457568@4",
+    "467584@4",
+    "479734@4",
+    "540637@4",
+    "541171@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 949,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

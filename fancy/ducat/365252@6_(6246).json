@@ -1,0 +1,23 @@
+{
+  "id": 365252,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-18T20:25:43.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #365252. I'm a professional Skydiving Instructor and I love wet food. I once dreamed of being a Aerobics Athlete . Now I can be found prank-calling celebrities all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "252328@5",
+  "sire": "185339@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6246,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

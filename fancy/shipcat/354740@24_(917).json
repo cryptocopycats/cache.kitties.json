@@ -1,0 +1,25 @@
+{
+  "id": 354740,
+  "name": "FluffBeard",
+  "generation": 24,
+  "created_at": "2017-12-17T20:22:30.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! I'm FluffBeard. I enjoy grooming, chasing string, and glaring at the neighbour's cat. In my free time, I can usually be found hairy or reading Danielle Steele. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "189071@20",
+  "sire": "234123@23",
+  "children": [
+    "398847@25",
+    "423063@25",
+    "484849@25"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 917,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

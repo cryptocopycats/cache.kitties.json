@@ -1,0 +1,25 @@
+{
+  "id": 346437,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-17T02:00:31.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Kitty #346437. I want to live in a world where people believe that one day cats will rule this planet. My secret indulgence is wet food. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "331569@9",
+  "sire": "334597@9",
+  "children": [
+    "347153@11",
+    "348982@12",
+    "353632@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5844,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

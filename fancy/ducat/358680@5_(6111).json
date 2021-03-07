@@ -1,0 +1,25 @@
+{
+  "id": 358680,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-18T04:18:12.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Kitty #358680. I'm a Dispensary Clerk by day, and I like prank-calling celebrities by night. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, steak—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344113@4",
+  "sire": "339957@4",
+  "children": [
+    "673293@6",
+    "679167@6",
+    "680602@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6111,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

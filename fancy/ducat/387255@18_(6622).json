@@ -1,0 +1,25 @@
+{
+  "id": 387255,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-22T09:06:41.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*waves*! I'm Kitty #387255. I'm often referred to as the Neville Longbottom of the group. I once dreamed of being a Culinary Sanitation Specialist. Now I can be found prank-calling celebrities all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "109969@17",
+  "sire": "15721@3",
+  "children": [
+    "391196@19",
+    "418396@19",
+    "429068@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6622,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 355860,
+  "name": "Yankee",
+  "generation": 6,
+  "created_at": "2017-12-17T22:34:48.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Yankee. I'm a Ventriloquist by day, and I like summoning ghosts by night. When no one's home, I invite my pals over and we listen to Michael Bolton. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "353513@4",
+  "sire": "318447@5",
+  "children": [
+    "356027@8",
+    "357299@9",
+    "358913@8",
+    "360825@7",
+    "381426@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6058,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

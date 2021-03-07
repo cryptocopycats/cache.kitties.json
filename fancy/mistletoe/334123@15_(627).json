@@ -1,0 +1,24 @@
+{
+  "id": 334123,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-16T04:14:28.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #334123. All you need to know about me is I hate hamburgers with a passion. My friends describe me as \"despicable.\" It's... accurate. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321577@9",
+  "sire": "311649@14",
+  "children": [
+    "335066@16",
+    "342697@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 627,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

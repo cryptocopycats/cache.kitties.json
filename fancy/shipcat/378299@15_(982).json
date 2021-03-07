@@ -1,0 +1,23 @@
+{
+  "id": 378299,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-20T18:37:24.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #378299. I believe the world is flat. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "375181@14",
+  "sire": "9145@13",
+  "children": [
+    "379721@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 982,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

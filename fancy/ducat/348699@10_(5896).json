@@ -1,0 +1,23 @@
+{
+  "id": 348699,
+  "name": "Fancy Rare",
+  "generation": 10,
+  "created_at": "2017-12-17T06:51:44.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Fancy Rare. I'm a professional Foreign Film Director and I love hamburgers. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336020@8",
+  "sire": "336944@9",
+  "children": [
+    "350755@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5896,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

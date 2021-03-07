@@ -1,0 +1,29 @@
+{
+  "id": 320573,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-15T05:12:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! Kitty #320573 here. I'm here to enjoy hitting on yo' man and sitting on your computer. I am 12% fairy, 25% Skydiving Instructor, and otherwise bad at math. I look forward to sitting on your computer with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "291463@11",
+  "sire": "221019@9",
+  "children": [
+    "336238@14",
+    "348548@14",
+    "561116@13",
+    "605272@13",
+    "1021228@19",
+    "1055713@19",
+    "1537927@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 511,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 354586,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T20:06:13.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #354586. In high school, I was voted biggest teacher's pet. When I'm not summoning ghosts, I'm siring for status! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "352071@7",
+  "sire": "327745@7",
+  "children": [
+    "354996@9",
+    "386456@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6033,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

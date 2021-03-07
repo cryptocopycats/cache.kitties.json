@@ -1,0 +1,23 @@
+{
+  "id": 327275,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-15T17:36:46.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #327275. My friends describe me as voluptuous and gullible. It's not common knowledge, but my ancestry connects me to Princess Diana. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "326701@6",
+  "sire": "226976@2",
+  "children": [
+    "335700@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5433,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

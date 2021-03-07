@@ -1,0 +1,24 @@
+{
+  "id": 412481,
+  "name": "Popeye",
+  "generation": 22,
+  "created_at": "2017-12-26T14:03:38.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Popeye. I enjoy sweating through my feet, grooming, and staying woke. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "407762@21",
+  "sire": "403605@12",
+  "children": [
+    "424391@23",
+    "548118@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1112,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 319809,
+  "name": "Bullet",
+  "generation": 6,
+  "created_at": "2017-12-15T03:55:06.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Bullet. In high school, I was voted biggest teacher's pet. I once made a dolphin play. Will you be the pickles to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "280441@5",
+  "sire": "287710@5",
+  "children": [
+    "320495@7",
+    "335285@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5267,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

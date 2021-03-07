@@ -1,0 +1,26 @@
+{
+  "id": 383339,
+  "name": "MEE-TANG FANCY BIRD",
+  "generation": 5,
+  "created_at": "2017-12-21T17:28:14.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm MEE-TANG FANCY BIRD. All you need to know about me is I hate lasagna with a passion. My friends describe me as \"brilliant.\" It's... accurate. Can't wait to eat cantaloupe with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "380794@3",
+  "sire": "381422@4",
+  "children": [
+    "673293@6",
+    "676957@25",
+    "677001@6",
+    "680652@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6560,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

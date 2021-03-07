@@ -1,0 +1,23 @@
+{
+  "id": 347632,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T04:28:17.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! Kitty #347632 here. I'm here to enjoy sitting on your computer and picking on mice. I once pranced with a rhino. I don't like to talk about it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "343363@5",
+  "sire": "286673@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5875,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

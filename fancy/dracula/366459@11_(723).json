@@ -1,0 +1,27 @@
+{
+  "id": 366459,
+  "name": "Little Dracula",
+  "generation": 11,
+  "created_at": "2017-12-18T23:19:36.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Little Dracula here. I'm here to enjoy watching Stranger Things and hitting on yo' man. Sometimes I daydream of a life full of taking selfies, lasagna, and riding the bus. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "361546@6",
+  "sire": "319958@10",
+  "children": [
+    "366937@12",
+    "372175@12",
+    "383322@12",
+    "386338@12",
+    "397035@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 723,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

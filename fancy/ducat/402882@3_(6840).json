@@ -1,0 +1,23 @@
+{
+  "id": 402882,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-24T16:53:58.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #402882. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Cleopatra. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "385870@2",
+  "sire": "328819@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6840,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

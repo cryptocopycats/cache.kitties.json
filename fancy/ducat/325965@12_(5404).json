@@ -1,0 +1,28 @@
+{
+  "id": 325965,
+  "name": "Jimny",
+  "generation": 12,
+  "created_at": "2017-12-15T14:40:57.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Jimny. I'm a Ventriloquist by day, and I like riding the bus by night. I'm often described as petulant, and I own it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "324921@9",
+  "sire": "258544@11",
+  "children": [
+    "349435@13",
+    "353432@13",
+    "359870@15",
+    "367485@13",
+    "377862@13",
+    "391017@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5404,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

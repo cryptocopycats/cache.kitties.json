@@ -1,0 +1,23 @@
+{
+  "id": 342853,
+  "name": "Mistletoe 697/2000",
+  "generation": 17,
+  "created_at": "2017-12-16T19:36:46.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Mistletoe 697/2000. In high school, I was voted biggest teacher's pet. Some people say I'm the Cersei Lannister of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "319729@16",
+  "sire": "323760@15",
+  "children": [
+    "356705@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 697,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

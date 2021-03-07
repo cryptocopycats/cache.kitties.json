@@ -1,0 +1,25 @@
+{
+  "id": 328417,
+  "name": "Buddy the Elf",
+  "generation": 9,
+  "created_at": "2017-12-15T19:34:58.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Buddy the Elf. I enjoy chasing red dots, licking doorknobs, and riding unicorns. I put soy sauce on everything. Like, everything: hot dogs, salad—everything! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "324272@7",
+  "sire": "297068@8",
+  "children": [
+    "329207@10",
+    "339682@10",
+    "344889@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 569,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

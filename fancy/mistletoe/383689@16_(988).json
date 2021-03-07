@@ -1,0 +1,25 @@
+{
+  "id": 383689,
+  "name": "Rudolph The Prancer Vixen",
+  "generation": 16,
+  "created_at": "2017-12-21T19:39:41.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Rudolph The Prancer Vixen. I'm often referred to as the Chandler Bing of the group. I'm often described as annoying, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "317306@15",
+  "sire": "286083@10",
+  "children": [
+    "399102@17",
+    "405855@17",
+    "411190@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 988,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

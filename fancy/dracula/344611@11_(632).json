@@ -1,0 +1,23 @@
+{
+  "id": 344611,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-16T22:35:19.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #344611. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Will you be the ranch dressing to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "344178@9",
+  "sire": "319958@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 632,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

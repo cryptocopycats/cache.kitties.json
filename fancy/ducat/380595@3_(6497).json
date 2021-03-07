@@ -1,0 +1,23 @@
+{
+  "id": 380595,
+  "name": "Tweety Cat <3",
+  "generation": 3,
+  "created_at": "2017-12-21T02:28:33.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Tweety Cat <3. I've never told anyone this, but I once headbutted a dog. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "358724@2",
+  "sire": "371950@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6497,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

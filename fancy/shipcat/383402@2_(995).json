@@ -1,0 +1,23 @@
+{
+  "id": 383402,
+  "name": "Cpt. Jean-Luc Picard",
+  "generation": 2,
+  "created_at": "2017-12-21T18:02:31.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Cpt. Jean-Luc Picard. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Cleopatra. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "337285@1",
+  "sire": "335471@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 995,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

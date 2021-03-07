@@ -1,0 +1,28 @@
+{
+  "id": 330642,
+  "name": "Gen 0",
+  "generation": 8,
+  "created_at": "2017-12-15T22:47:03.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Gen 0. I've never told anyone this, but I once snuggled a dog. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "320608@7",
+  "sire": "270931@6",
+  "children": [
+    "331911@9",
+    "333672@9",
+    "351695@12",
+    "352969@9",
+    "367079@10",
+    "371421@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 589,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

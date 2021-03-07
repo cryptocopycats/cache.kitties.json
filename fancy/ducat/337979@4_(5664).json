@@ -1,0 +1,23 @@
+{
+  "id": 337979,
+  "name": "Dolan",
+  "generation": 4,
+  "created_at": "2017-12-16T10:17:55.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Dolan. I enjoy reading garfield, sitting on your computer, and riding dirty. My secret indulgence is cantaloupe. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "333904@3",
+  "sire": "323588@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5664,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

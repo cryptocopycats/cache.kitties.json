@@ -1,0 +1,23 @@
+{
+  "id": 406532,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-25T07:50:06.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #406532. All you need to know about me is I hate salad with a passion. In my free time, I can usually be found fabulous or swiping right. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "281267@1",
+  "sire": "389087@2",
+  "children": [
+    "407211@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6889,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

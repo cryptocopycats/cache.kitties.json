@@ -1,0 +1,23 @@
+{
+  "id": 334168,
+  "name": "✨Angry Bird✨",
+  "generation": 10,
+  "created_at": "2017-12-16T04:17:34.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! My name's ✨Angry Bird✨. I once peed on Cleopatra's cat. They had it coming. Sometimes I daydream of a life full of glaring at the neighbour's cat, steak, and playing chess. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "310932@9",
+  "sire": "305039@9",
+  "children": [
+    "477441@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5577,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

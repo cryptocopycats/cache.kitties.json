@@ -1,0 +1,23 @@
+{
+  "id": 315983,
+  "name": "MR NICE GUY",
+  "generation": 8,
+  "created_at": "2017-12-14T22:45:55.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's MR NICE GUY. I once peed on King Henry VIII's cat. They had it coming. My secret indulgence is cantaloupe. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "297123@7",
+  "sire": "298186@6",
+  "children": [
+    "316994@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5177,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

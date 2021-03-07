@@ -1,0 +1,23 @@
+{
+  "id": 360909,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-18T09:17:29.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #360909. I'm a professional Skydiving Instructor and I love lasagna. I once made a rhino kiss. I hope we can be petulant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "51453@5",
+  "sire": "323943@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6155,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

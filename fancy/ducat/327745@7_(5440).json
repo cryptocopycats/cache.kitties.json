@@ -1,0 +1,28 @@
+{
+  "id": 327745,
+  "name": "Peew",
+  "generation": 7,
+  "created_at": "2017-12-15T18:24:04.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! My name's Peew. I once peed on Nelson Mandela's cat. They had it coming. When I'm not riverdancing, I'm tricking babies! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "272573@3",
+  "sire": "213067@6",
+  "children": [
+    "328495@8",
+    "354586@8",
+    "356475@8",
+    "363661@8",
+    "369549@8",
+    "385119@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5440,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

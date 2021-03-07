@@ -1,0 +1,23 @@
+{
+  "id": 323212,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-15T09:36:45.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #323212. I'm a Skydiving Instructor by day, and I like watching reality tv by night. In my free time, I can usually be found seductive or prank-calling celebrities. Can you make my ridiculous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "203439@16",
+  "sire": "201280@16",
+  "children": [
+    "350101@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 517,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 349571,
+  "name": "D.Va",
+  "generation": 23,
+  "created_at": "2017-12-17T08:45:36.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm D.Va. My friends describe me as smelly and preposterous. I am 38% oracle, 62% Skydiving Instructor, and otherwise bad at math. Our friendship will be smelly, preposterous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278265@19",
+  "sire": "278748@22",
+  "children": [
+    "375184@24",
+    "413453@24",
+    "454493@26",
+    "482876@24",
+    "549158@24",
+    "1405832@26"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5918,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

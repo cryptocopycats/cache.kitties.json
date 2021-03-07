@@ -1,0 +1,30 @@
+{
+  "id": 343188,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T20:10:56.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's Kitty #343188. I once peed on Confucius's cat. They had it coming. When I'm not swiping right, I'm watching reality tv! I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "315084@5",
+  "sire": "329061@7",
+  "children": [
+    "343521@10",
+    "350656@9",
+    "351178@9",
+    "353615@9",
+    "366789@12",
+    "437420@10",
+    "505133@10",
+    "551292@10"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 618,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

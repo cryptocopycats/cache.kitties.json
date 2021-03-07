@@ -1,0 +1,24 @@
+{
+  "id": 387195,
+  "name": "G5 Fancy DuCat Meow",
+  "generation": 5,
+  "created_at": "2017-12-22T08:51:29.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm G5 Fancy DuCat Meow. I'm often referred to as the Lisa Simpson of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344190@4",
+  "sire": "334732@4",
+  "children": [
+    "399980@8",
+    "414789@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6620,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

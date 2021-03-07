@@ -1,0 +1,28 @@
+{
+  "id": 370223,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 3,
+  "created_at": "2017-12-19T10:25:13.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm RARE BIRD! Fancy!. I'm often referred to as the Peter Griffin of the group. I am 40% troll, 23% Foreign Film Director, and otherwise bad at math. Can you make my raunchy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278671@2",
+  "sire": "345952@2",
+  "children": [
+    "396410@4",
+    "399190@4",
+    "399444@4",
+    "400926@4",
+    "401944@4",
+    "560771@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6321,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

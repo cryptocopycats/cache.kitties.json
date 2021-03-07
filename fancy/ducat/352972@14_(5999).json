@@ -1,0 +1,25 @@
+{
+  "id": 352972,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-17T16:44:09.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Good morning! Kitty #352972 here. I'm here to enjoy shakin' dat booty and picking on mice. When I'm not prank-calling celebrities, I'm tricking babies! Will you be the pickles to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "219337@11",
+  "sire": "339209@13",
+  "children": [
+    "380303@15",
+    "394920@15",
+    "447461@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5999,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 395439,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-23T15:58:37.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #395439. I enjoy chasing red dots, fighting the patriarchy, and staying woke. I once made a platypus grimace. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "392501@8",
+  "sire": "360600@8",
+  "children": [
+    "398607@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6756,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

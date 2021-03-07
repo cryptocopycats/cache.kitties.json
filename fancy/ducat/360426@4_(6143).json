@@ -1,0 +1,23 @@
+{
+  "id": 360426,
+  "name": "\"Fancy\"Pants! RARE!",
+  "generation": 4,
+  "created_at": "2017-12-18T07:57:10.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm \"Fancy\"Pants! RARE!. I enjoy tricking babies, chasing red dots, and fighting for the people. I once bit a moose. I don't like to talk about it. I look forward to glaring at the neighbour's cat with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "344359@3",
+  "sire": "287901@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6143,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

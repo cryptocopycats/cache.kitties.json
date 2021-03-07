@@ -1,0 +1,24 @@
+{
+  "id": 356011,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T22:51:25.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #356011. All you need to know about me is I hate cereal with a passion. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Will you be the ranch dressing to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "345982@5",
+  "sire": "288058@5",
+  "children": [
+    "362821@7",
+    "375358@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6062,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

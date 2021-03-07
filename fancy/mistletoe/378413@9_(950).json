@@ -1,0 +1,23 @@
+{
+  "id": 378413,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-20T19:06:30.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #378413. I'm a Dogwalker by day, and I like tricking babies by night. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "369347@6",
+  "sire": "324799@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 950,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

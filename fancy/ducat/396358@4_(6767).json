@@ -1,0 +1,25 @@
+{
+  "id": 396358,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-23T18:37:35.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #396358. I believe that one day cats will rule this planet. I put cinammon on everything. Like, everything: hot dogs, chocolate—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "390664@3",
+  "sire": "317979@3",
+  "children": [
+    "397075@6",
+    "419272@6",
+    "1104764@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6767,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

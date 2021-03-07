@@ -1,0 +1,27 @@
+{
+  "id": 324409,
+  "name": "Dracula",
+  "generation": 4,
+  "created_at": "2017-12-15T11:42:23.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Dracula. I enjoy eating until I loathe myself, reading garfield, and picking flowers. When I'm not riverdancing, I'm mocking dogs! I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "258127@3",
+  "sire": "237920@3",
+  "children": [
+    "326057@5",
+    "389836@5",
+    "403820@5",
+    "433812@5",
+    "578637@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 524,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

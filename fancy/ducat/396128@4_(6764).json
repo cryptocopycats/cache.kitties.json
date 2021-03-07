@@ -1,0 +1,26 @@
+{
+  "id": 396128,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-23T17:57:24.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm RARE BIRD! Fancy!. I enjoy picking flowers, watching Stranger Things, and slappin' da bass. When I'm not playing chess, I'm swiping left! Our friendship will be tantalizing, vegan, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "378674@3",
+  "sire": "324399@3",
+  "children": [
+    "396951@5",
+    "398109@5",
+    "403175@5",
+    "403806@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6764,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 382572,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-21T11:26:26.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Heyo! My name's Kitty #382572. I once peed on Mother Theresa's cat. They had it coming. Some people say I'm the Chandler Bing of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "336380@5",
+  "sire": "265645@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6543,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

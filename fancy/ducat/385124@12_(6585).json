@@ -1,0 +1,23 @@
+{
+  "id": 385124,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-22T00:41:50.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #385124. I'm often referred to as the Hermione Granger of the group. I once bit a platypus. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "382647@11",
+  "sire": "382179@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6585,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 346607,
+  "name": "Coco the Mistletoe",
+  "generation": 12,
+  "created_at": "2017-12-17T02:17:03.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Coco the Mistletoe. In high school, I was voted school jock. I once got in a fight with a rooster, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "336041@6",
+  "sire": "346101@11",
+  "children": [
+    "354199@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 721,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

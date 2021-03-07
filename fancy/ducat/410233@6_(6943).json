@@ -1,0 +1,33 @@
+{
+  "id": 410233,
+  "name": "Fancy DuCat",
+  "generation": 6,
+  "created_at": "2017-12-26T01:47:00.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Fancy DuCat. I've never told anyone this, but I once snuggled a dog. When I'm not riding the bus, I'm jump-roping! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "170163@5",
+  "sire": "315268@5",
+  "children": [
+    "410467@7",
+    "522425@8",
+    "585781@97",
+    "586140@99",
+    "598567@8",
+    "599805@8",
+    "647804@7",
+    "789896@106",
+    "793300@7",
+    "820027@7",
+    "1074596@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6943,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

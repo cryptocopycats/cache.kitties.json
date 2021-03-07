@@ -1,0 +1,23 @@
+{
+  "id": 358688,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-18T04:18:46.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #358688. My friends describe me as seductive and gullible. I'm often described as vegan, and I own it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "261256@6",
+  "sire": "284246@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 826,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

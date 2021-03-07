@@ -1,0 +1,23 @@
+{
+  "id": 349673,
+  "name": "Wee",
+  "generation": 9,
+  "created_at": "2017-12-17T08:59:20.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Wee. I believe the world is flat. Some people say I'm the Neville Longbottom of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "202053@8",
+  "sire": "217559@8",
+  "children": [
+    "446614@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5920,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

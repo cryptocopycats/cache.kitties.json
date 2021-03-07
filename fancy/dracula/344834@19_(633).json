@@ -1,0 +1,23 @@
+{
+  "id": 344834,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-16T23:01:48.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #344834. I've never told anyone this, but I once pawed at a dog. I would give it all up for a Chanel purse. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "53454@18",
+  "sire": "263242@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 633,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

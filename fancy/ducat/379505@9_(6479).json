@@ -1,0 +1,23 @@
+{
+  "id": 379505,
+  "name": "Pubuying Ducat",
+  "generation": 9,
+  "created_at": "2017-12-20T23:04:05.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Pubuying Ducat. All you need to know about me is I hate salad with a passion. I once made a rabbit sulk. I hope we can be seductive friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "375998@5",
+  "sire": "353222@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6479,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

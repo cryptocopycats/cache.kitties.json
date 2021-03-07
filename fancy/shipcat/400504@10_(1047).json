@@ -1,0 +1,25 @@
+{
+  "id": 400504,
+  "name": "SailorRyan",
+  "generation": 10,
+  "created_at": "2017-12-24T06:44:19.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Good morning! I'm SailorRyan. I believe the world is flat. My friends describe me as \"gorgeous.\" It's... accurate. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "400059@9",
+  "sire": "272819@5",
+  "children": [
+    "410884@18",
+    "414136@11",
+    "557884@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1047,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

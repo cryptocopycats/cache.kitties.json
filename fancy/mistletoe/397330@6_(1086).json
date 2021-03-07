@@ -1,0 +1,29 @@
+{
+  "id": 397330,
+  "name": "Mistletoe #1086",
+  "generation": 6,
+  "created_at": "2017-12-23T21:27:25.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hey cutie! I'm Mistletoe #1086. All you need to know about me is I hate apple pie with a passion. I put wasabi on everything. Like, everything: hot dogs, cantaloupe—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "317340@5",
+  "sire": "297804@5",
+  "children": [
+    "400645@7",
+    "401694@7",
+    "403139@7",
+    "408489@7",
+    "410970@7",
+    "546117@7",
+    "551810@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1086,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

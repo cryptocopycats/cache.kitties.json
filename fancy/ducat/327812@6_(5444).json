@@ -1,0 +1,30 @@
+{
+  "id": 327812,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T18:33:14.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #327812. I'm often referred to as the Samwise Gamgee of the group. I once got in a fight with a labradoodle, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "312315@4",
+  "sire": "321039@5",
+  "children": [
+    "328319@7",
+    "430134@7",
+    "430336@7",
+    "432856@7",
+    "433596@7",
+    "436969@7",
+    "461329@14",
+    "462825@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5444,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

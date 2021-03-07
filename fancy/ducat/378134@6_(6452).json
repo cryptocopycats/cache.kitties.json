@@ -1,0 +1,24 @@
+{
+  "id": 378134,
+  "name": "Shtativ#3",
+  "generation": 6,
+  "created_at": "2017-12-20T18:05:38.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! Shtativ#3 here. I'm here to enjoy slappin' da bass and eating lasagna. Sometimes I daydream of a life full of shakin' dat booty, salad, and talking about how much I lift. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "378032@1",
+  "sire": "376107@5",
+  "children": [
+    "461276@15",
+    "1105884@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6452,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

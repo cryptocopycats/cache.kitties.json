@@ -1,0 +1,23 @@
+{
+  "id": 402363,
+  "name": "Sailor",
+  "generation": 4,
+  "created_at": "2017-12-24T14:49:37.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Sailor. I'm a professional Private Dancer  and I love ice cream. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Our friendship will be seductive, ridiculous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "382085@3",
+  "sire": "388967@3",
+  "children": [
+    "402390@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1055,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

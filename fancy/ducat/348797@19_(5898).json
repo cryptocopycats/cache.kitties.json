@@ -1,0 +1,24 @@
+{
+  "id": 348797,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-17T07:06:30.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #348797. I enjoy reciting poetry, glaring at the neighbour's cat, and sitting on your computer. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "332139@18",
+  "sire": "328903@11",
+  "children": [
+    "368666@20",
+    "381554@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5898,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

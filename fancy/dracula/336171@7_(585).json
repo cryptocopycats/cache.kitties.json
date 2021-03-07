@@ -1,0 +1,32 @@
+{
+  "id": 336171,
+  "name": "教皇",
+  "generation": 7,
+  "created_at": "2017-12-16T07:26:02.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm 教皇. I enjoy picking flowers, reading garfield, and watching Stranger Things. My secret indulgence is salad. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "248630@6",
+  "sire": "285399@6",
+  "children": [
+    "420887@8",
+    "429740@8",
+    "773976@10",
+    "774668@8",
+    "774937@8",
+    "777689@13",
+    "780167@8",
+    "793091@10",
+    "803341@10",
+    "809057@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 585,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

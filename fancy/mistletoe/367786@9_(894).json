@@ -1,0 +1,24 @@
+{
+  "id": 367786,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-19T02:40:24.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Heyo! I'm Kitty #367786. I'm a professional Culinary Sanitation Specialist and I love ice cream. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "366662@8",
+  "sire": "367290@5",
+  "children": [
+    "367860@10",
+    "389482@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 894,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

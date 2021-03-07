@@ -1,0 +1,23 @@
+{
+  "id": 369411,
+  "name": "Happy Birdie",
+  "generation": 14,
+  "created_at": "2017-12-19T07:32:25.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Happy Birdie. In high school, I was voted biggest teacher's pet. My friends describe me as \"brilliant.\" It's... accurate. Our friendship will be prickly, despicable, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "289591@13",
+  "sire": "191217@9",
+  "children": [
+    "372704@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6310,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

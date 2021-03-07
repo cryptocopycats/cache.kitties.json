@@ -1,0 +1,27 @@
+{
+  "id": 410552,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-26T03:17:06.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #410552. In high school, I was voted school jock. In my free time, I can usually be found raunchy or swiping right. Will you be the maple syrup to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "162760@5",
+  "sire": "396648@10",
+  "children": [
+    "410911@12",
+    "411713@12",
+    "412200@12",
+    "432745@14",
+    "465918@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 917,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

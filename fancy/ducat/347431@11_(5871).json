@@ -1,0 +1,26 @@
+{
+  "id": 347431,
+  "name": "2nd Generation Pure Bred",
+  "generation": 11,
+  "created_at": "2017-12-17T04:05:57.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm 2nd Generation Pure Bred. I'm a Spin Instructor  by day, and I like swiping left by night. I once dreamed of being a Mad Scientist. Now I can be found summoning ghosts all day. I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "333316@10",
+  "sire": "78687@9",
+  "children": [
+    "348542@12",
+    "349723@12",
+    "356617@12",
+    "360448@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5871,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

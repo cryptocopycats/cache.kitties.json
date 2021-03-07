@@ -1,0 +1,23 @@
+{
+  "id": 371513,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-19T16:15:45.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #371513. I'm often referred to as the Frodo Baggins of the group. I am 1% wizard, 96% Train Conductor, and otherwise bad at math. Can you make my smelly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "19742@1",
+  "sire": "140484@2",
+  "children": [
+    "406834@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 958,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

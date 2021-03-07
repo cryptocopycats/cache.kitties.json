@@ -1,0 +1,30 @@
+{
+  "id": 335450,
+  "name": "drac",
+  "generation": 3,
+  "created_at": "2017-12-16T06:13:11.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm drac. I believe the world is flat. In my free time, I can usually be found wondrous or volunteering at the local kitten rescue shelter. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "325487@2",
+  "sire": "159150@2",
+  "children": [
+    "341713@4",
+    "342963@4",
+    "343313@4",
+    "344190@4",
+    "575008@4",
+    "576104@4",
+    "576665@4",
+    "577880@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 581,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 346851,
+  "name": "Blu Blu",
+  "generation": 5,
+  "created_at": "2017-12-17T02:48:55.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Blu Blu. I'm often referred to as the Marge Simpson of the group. I once made a goose grimace. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "341503@4",
+  "sire": "269482@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5858,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

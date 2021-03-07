@@ -1,0 +1,27 @@
+{
+  "id": 405079,
+  "name": "Louis de Pointe",
+  "generation": 6,
+  "created_at": "2017-12-25T01:15:31.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Louis de Pointe. I've never told anyone this, but I once frolicked with a dog. I once dreamed of being a Train Conductor. Now I can be found practicing witchcraft all day. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "401813@5",
+  "sire": "404947@5",
+  "children": [
+    "408571@7",
+    "409003@11",
+    "422014@13",
+    "448153@11",
+    "574688@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 886,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

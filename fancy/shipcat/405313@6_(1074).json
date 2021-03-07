@@ -1,0 +1,23 @@
+{
+  "id": 405313,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-25T02:19:57.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Kitty #405313. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Cleopatra. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "400885@5",
+  "sire": "177043@5",
+  "children": [
+    "405674@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1074,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

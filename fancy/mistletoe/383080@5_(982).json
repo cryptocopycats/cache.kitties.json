@@ -1,0 +1,32 @@
+{
+  "id": 383080,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-21T15:21:15.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm Kitty #383080. I want to live in a world where people believe the world is flat. When I'm not people-watching, I'm prank-calling celebrities! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "344745@4",
+  "sire": "360709@4",
+  "children": [
+    "388555@6",
+    "388563@6",
+    "389617@6",
+    "391155@8",
+    "395736@8",
+    "398934@8",
+    "403795@8",
+    "1268972@15",
+    "1897068@6",
+    "1969361@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 982,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

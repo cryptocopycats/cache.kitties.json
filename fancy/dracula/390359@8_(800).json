@@ -1,0 +1,27 @@
+{
+  "id": 390359,
+  "name": "Lestat",
+  "generation": 8,
+  "created_at": "2017-12-22T21:46:04.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Lestat. In high school, I was voted school jock. I like to listen to Gloria Estefan while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "325503@7",
+  "sire": "360964@7",
+  "children": [
+    "421329@9",
+    "424312@9",
+    "456992@9",
+    "459910@9",
+    "484787@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 800,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

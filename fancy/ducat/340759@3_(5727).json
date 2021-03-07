@@ -1,0 +1,23 @@
+{
+  "id": 340759,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-16T15:35:42.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #340759. I'm a Foreign Film Director by day, and I like volunteering at the local kitten rescue shelter by night. I was voted biggest teacher's pet in college. Our friendship will be prickly, hairy, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "237758@2",
+  "sire": "250336@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5727,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

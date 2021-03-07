@@ -1,0 +1,30 @@
+{
+  "id": 314861,
+  "name": "littlekitty",
+  "generation": 4,
+  "created_at": "2017-12-14T21:25:55.000Z",
+  "birthday": "2017-12-14T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! My name's littlekitty. I once peed on Nelson Mandela's cat. They had it coming. My friends describe me as \"gullible.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "294893@3",
+  "sire": "313409@3",
+  "children": [
+    "317134@14",
+    "332921@5",
+    "341360@9",
+    "356240@15",
+    "359289@15",
+    "368026@15",
+    "461169@7",
+    "462375@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5163,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 328614,
+  "name": "Dracula Kitters",
+  "generation": 3,
+  "created_at": "2017-12-15T19:51:49.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Dracula Kitters. In high school, I was voted biggest teacher's pet. I am 96% fairy, 23% Spin Instructor , and otherwise bad at math. I look forward to fighting for the people with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "323321@2",
+  "sire": "268035@2",
+  "children": [
+    "340920@4",
+    "412071@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 550,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

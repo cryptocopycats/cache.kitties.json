@@ -1,0 +1,24 @@
+{
+  "id": 344178,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-16T21:46:23.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #344178. I'm a professional Aerobics Athlete  and I love cereal. I would give it all up for a Chanel purse. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "339454@7",
+  "sire": "311814@8",
+  "children": [
+    "344611@11",
+    "349079@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 626,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

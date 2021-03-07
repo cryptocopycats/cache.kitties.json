@@ -1,0 +1,26 @@
+{
+  "id": 362695,
+  "name": "FancyMistle",
+  "generation": 4,
+  "created_at": "2017-12-18T13:56:53.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm FancyMistle. My friends describe me as gorgeous and preposterous. I once got in a fight with a dog, and won. Will you be the wasabi to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "341934@3",
+  "sire": "357099@3",
+  "children": [
+    "366912@5",
+    "369168@5",
+    "382125@5",
+    "395804@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 869,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 343138,
+  "name": "Mister Jingles",
+  "generation": 4,
+  "created_at": "2017-12-16T20:06:46.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Mister Jingles. I've never told anyone this, but I once headbutted a dog. In my free time, I can usually be found brilliant or volunteering at the local kitten rescue shelter. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "333047@3",
+  "sire": "245877@3",
+  "children": [
+    "343306@5",
+    "345188@5",
+    "346455@5",
+    "347016@5",
+    "350346@5",
+    "352482@5",
+    "358038@5",
+    "367240@5",
+    "377403@5",
+    "412339@5",
+    "436006@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 698,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 381536,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-21T06:05:27.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm Kitty #381536. I believe that one day cats will rule this planet. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "379138@8",
+  "sire": "380583@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6516,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

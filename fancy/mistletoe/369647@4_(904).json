@@ -1,0 +1,23 @@
+{
+  "id": 369647,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-19T08:17:48.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! My name's Kitty #369647. I once peed on Confucius's cat. They had it coming. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "341934@3",
+  "sire": "357099@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 904,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

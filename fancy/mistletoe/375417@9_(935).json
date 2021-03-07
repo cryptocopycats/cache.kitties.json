@@ -1,0 +1,27 @@
+{
+  "id": 375417,
+  "name": "parent of 2",
+  "generation": 9,
+  "created_at": "2017-12-20T04:02:20.000Z",
+  "birthday": "2017-12-20T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm parent of 2. I believe the world is flat. I like to listen to Mariah Carey while grooming. Don't judge me. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "352949@7",
+  "sire": "338649@8",
+  "children": [
+    "384575@10",
+    "388512@17",
+    "389960@17",
+    "392226@16",
+    "545628@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 935,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

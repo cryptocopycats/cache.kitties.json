@@ -1,0 +1,25 @@
+{
+  "id": 400301,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-24T06:15:04.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #400301. I'm a professional Private Dancer  and I love cereal. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325812@9",
+  "sire": "395977@9",
+  "children": [
+    "408547@20",
+    "410864@14",
+    "533782@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1106,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

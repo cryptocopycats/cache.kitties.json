@@ -1,0 +1,31 @@
+{
+  "id": 395204,
+  "name": "Gen 3: Count Catcula - Dad",
+  "generation": 3,
+  "created_at": "2017-12-23T15:09:57.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Gen 3: Count Catcula - Dad. In high school, I was voted school jock. I am 7% wizard, 6% Dogwalker, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "391560@2",
+  "sire": "370535@2",
+  "children": [
+    "403988@4",
+    "405160@4",
+    "405823@4",
+    "408589@4",
+    "408924@4",
+    "412206@4",
+    "419001@4",
+    "430795@4",
+    "448817@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 816,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

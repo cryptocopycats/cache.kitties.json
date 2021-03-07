@@ -1,0 +1,23 @@
+{
+  "id": 361237,
+  "name": "Virgin",
+  "generation": 4,
+  "created_at": "2017-12-18T10:05:05.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! Virgin here. I'm here to enjoy licking doorknobs and tricking babies. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. Can you make my wondrous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278277@2",
+  "sire": "310907@3",
+  "children": [
+    "657190@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6163,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

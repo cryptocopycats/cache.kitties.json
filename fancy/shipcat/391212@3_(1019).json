@@ -1,0 +1,23 @@
+{
+  "id": 391212,
+  "name": "Virgin Gen 3 Shipcat",
+  "generation": 3,
+  "created_at": "2017-12-23T00:52:55.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Virgin Gen 3 Shipcat. I enjoy chasing string, slappin' da bass, and fighting the patriarchy. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "372623@2",
+  "sire": "390263@2",
+  "children": [
+    "412081@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1019,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

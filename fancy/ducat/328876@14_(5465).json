@@ -1,0 +1,25 @@
+{
+  "id": 328876,
+  "name": "Where did the bird come from?",
+  "generation": 14,
+  "created_at": "2017-12-15T20:11:31.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! Where did the bird come from? here. I'm here to enjoy hitting on yo' man and eating lasagna. When I'm not practicing witchcraft, I'm summoning ghosts! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "203127@5",
+  "sire": "293577@13",
+  "children": [
+    "349262@15",
+    "349947@15",
+    "396763@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5465,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

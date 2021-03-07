@@ -1,0 +1,23 @@
+{
+  "id": 336950,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-16T08:35:56.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! My name's Kitty #336950. I once peed on Nelson Mandela's cat. They had it coming. I once pawed at a dolphin. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "213607@11",
+  "sire": "277421@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 880,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

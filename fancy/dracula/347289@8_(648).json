@@ -1,0 +1,30 @@
+{
+  "id": 347289,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T03:49:12.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #347289. I've never told anyone this, but I once cleaned a dog. I was voted most likely to work at NASA in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "329061@7",
+  "sire": "315084@5",
+  "children": [
+    "350557@9",
+    "351815@11",
+    "371049@10",
+    "437527@10",
+    "494212@17",
+    "505134@11",
+    "511585@9",
+    "551300@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 648,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

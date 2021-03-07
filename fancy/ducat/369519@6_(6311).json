@@ -1,0 +1,23 @@
+{
+  "id": 369519,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-19T07:52:11.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Kitty #369519. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. Will you be the pickles to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "304036@5",
+  "sire": "57540@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6311,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

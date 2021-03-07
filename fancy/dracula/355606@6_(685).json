@@ -1,0 +1,26 @@
+{
+  "id": 355606,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T22:03:07.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! Kitty #355606 here. I'm here to enjoy slappin' da bass and breakdancing. I once got in a fight with a platypus, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "328171@5",
+  "sire": "355440@5",
+  "children": [
+    "356159@11",
+    "369388@8",
+    "372246@7",
+    "418747@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 685,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 385763,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-22T03:10:19.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #385763. I enjoy fighting the patriarchy, sweating through my feet, and riding dirty. In my free time, I can usually be found brilliant or reading Danielle Steele. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "374948@16",
+  "sire": "360627@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6596,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

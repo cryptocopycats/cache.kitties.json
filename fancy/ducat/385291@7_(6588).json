@@ -1,0 +1,26 @@
+{
+  "id": 385291,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-22T01:27:43.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #385291. I'm a professional Aerobics Athlete  and I love ice cream. Sometimes I daydream of a life full of fighting the patriarchy, cereal, and summoning ghosts. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "306651@6",
+  "sire": "345481@6",
+  "children": [
+    "385467@8",
+    "386875@8",
+    "389271@8",
+    "426238@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6588,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 381090,
+  "name": "Birdy",
+  "generation": 10,
+  "created_at": "2017-12-21T04:14:03.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Birdy. My friends describe me as gorgeous and annoying. I was voted biggest teacher's pet in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "157809@9",
+  "sire": "331334@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6503,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

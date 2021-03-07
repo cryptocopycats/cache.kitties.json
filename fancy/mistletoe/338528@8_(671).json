@@ -1,0 +1,27 @@
+{
+  "id": 338528,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-16T11:16:57.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm Kitty #338528. I've never told anyone this, but I once tricked a dog. My secret indulgence is lasagna. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "321846@6",
+  "sire": "334025@7",
+  "children": [
+    "339136@9",
+    "340017@9",
+    "349825@10",
+    "365784@14",
+    "396849@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 671,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

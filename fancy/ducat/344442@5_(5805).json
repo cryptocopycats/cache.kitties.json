@@ -1,0 +1,32 @@
+{
+  "id": 344442,
+  "name": "Pure DuCAT",
+  "generation": 5,
+  "created_at": "2017-12-16T22:15:08.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Pure DuCAT. I'm often referred to as the Ross Geller of the group. I am 80% sphinx, 50% Train Conductor, and otherwise bad at math. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "264630@4",
+  "sire": "276858@4",
+  "children": [
+    "352693@9",
+    "366712@7",
+    "367442@6",
+    "373620@6",
+    "378782@6",
+    "384175@6",
+    "389024@6",
+    "414147@6",
+    "426190@6",
+    "448308@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5805,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

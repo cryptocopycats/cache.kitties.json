@@ -1,0 +1,23 @@
+{
+  "id": 351410,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-17T13:14:56.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #351410. I'm a professional Culinary Sanitation Specialist and I love lasagna. I once dreamed of being a Train Conductor. Now I can be found swiping left all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "346959@11",
+  "sire": "259257@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5961,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

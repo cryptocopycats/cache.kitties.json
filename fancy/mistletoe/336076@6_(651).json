@@ -1,0 +1,23 @@
+{
+  "id": 336076,
+  "name": "Virgin Mistletoe",
+  "generation": 6,
+  "created_at": "2017-12-16T07:15:42.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! My name's Virgin Mistletoe. I once peed on Marie Antoinette's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I hope we can be despicable friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "334510@5",
+  "sire": "317934@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 651,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

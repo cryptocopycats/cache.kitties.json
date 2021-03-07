@@ -1,0 +1,23 @@
+{
+  "id": 403285,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-24T18:19:34.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #403285. I'm a Train Conductor by day, and I like people-watching by night. My great-great-great-great-great-great grandkitty lived with Confucius. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "349735@4",
+  "sire": "157818@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6843,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

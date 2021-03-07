@@ -1,0 +1,23 @@
+{
+  "id": 327541,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-15T18:07:13.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #327541. I'm a professional Dispensary Clerk and I love steak. I'm often described as tantalizing, and I own it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278267@10",
+  "sire": "277788@11",
+  "children": [
+    "331627@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5436,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

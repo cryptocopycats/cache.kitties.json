@@ -1,0 +1,23 @@
+{
+  "id": 408460,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-25T18:06:50.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! My name's Kitty #408460. I once peed on Cleopatra's cat. They had it coming. I put maple syrup on everything. Like, everything: hot dogs, lasagna—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "52530@18",
+  "sire": "386455@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1164,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

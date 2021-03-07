@@ -1,0 +1,26 @@
+{
+  "id": 410219,
+  "name": "spo tou",
+  "generation": 6,
+  "created_at": "2017-12-26T01:43:15.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm spo tou. I'm a Mad Scientist by day, and I like pole dancing by night. I like to listen to Metallica while grooming. Don't judge me. Our friendship will be brilliant, wondrous, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "351606@5",
+  "sire": "396367@5",
+  "children": [
+    "410355@7",
+    "425868@7",
+    "449861@7",
+    "478230@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 916,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

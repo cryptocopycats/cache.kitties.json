@@ -1,0 +1,23 @@
+{
+  "id": 360471,
+  "name": "2nd Generation Pure Bred",
+  "generation": 14,
+  "created_at": "2017-12-18T08:04:43.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm 2nd Generation Pure Bred. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found gullible or mocking dogs. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "350334@13",
+  "sire": "355720@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6144,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

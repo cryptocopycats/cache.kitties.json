@@ -1,0 +1,23 @@
+{
+  "id": 369464,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-19T07:42:11.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #369464. In high school, I was voted school jock. I put ranch dressing on everything. Like, everything: hot dogs, salad—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "328414@4",
+  "sire": "261096@4",
+  "children": [
+    "375221@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 737,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

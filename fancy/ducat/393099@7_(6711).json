@@ -1,0 +1,23 @@
+{
+  "id": 393099,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-23T07:20:26.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Kitty #393099. I'm a professional Train Conductor and I love hamburgers. It's not common knowledge, but my ancestry connects me to Princess Diana. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "369433@6",
+  "sire": "372982@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6711,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

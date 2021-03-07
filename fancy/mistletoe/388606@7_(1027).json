@@ -1,0 +1,27 @@
+{
+  "id": 388606,
+  "name": "Sparkles",
+  "generation": 7,
+  "created_at": "2017-12-22T14:42:27.000Z",
+  "birthday": "2017-12-22T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Sparkles. I enjoy riding unicorns, tricking babies, and hitting on yo' man. I am 26% troll, 64% Dogwalker, and otherwise bad at math. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "338793@5",
+  "sire": "386211@6",
+  "children": [
+    "395673@8",
+    "396984@11",
+    "398409@11",
+    "401595@11",
+    "412729@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1027,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

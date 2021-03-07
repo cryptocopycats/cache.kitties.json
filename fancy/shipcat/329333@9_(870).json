@@ -1,0 +1,23 @@
+{
+  "id": 329333,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-15T20:55:16.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! Kitty #329333 here. I'm here to enjoy staying woke and riding unicorns. When no one's home, I invite my pals over and we listen to Frank Sinatra. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "321962@6",
+  "sire": "310899@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 870,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

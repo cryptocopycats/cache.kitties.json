@@ -1,0 +1,29 @@
+{
+  "id": 395595,
+  "name": "Christmas Carl",
+  "generation": 6,
+  "created_at": "2017-12-23T16:24:49.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*waves*! My name's Christmas Carl. I once peed on Mother Theresa's cat. They had it coming. I put pickles on everything. Like, everything: hot dogs, steak—everything! It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "387053@5",
+  "sire": "383286@5",
+  "children": [
+    "396876@7",
+    "398077@8",
+    "401721@8",
+    "408233@11",
+    "414143@10",
+    "417881@7",
+    "429912@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1074,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

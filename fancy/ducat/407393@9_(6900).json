@@ -1,0 +1,26 @@
+{
+  "id": 407393,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-25T12:27:22.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #407393. My friends describe me as raunchy and ridiculous. I once dreamed of being a Skydiving Instructor. Now I can be found tricking babies all day. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "209612@3",
+  "sire": "405240@8",
+  "children": [
+    "1395544@10",
+    "1397209@10",
+    "1399280@10",
+    "1400404@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6900,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 371799,
+  "name": "George and Reece",
+  "generation": 12,
+  "created_at": "2017-12-19T17:12:32.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's George and Reece. I once peed on Amelia Earhart's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "364693@5",
+  "sire": "367963@11",
+  "children": [
+    "385520@13",
+    "395152@13",
+    "543115@13",
+    "1163172@13",
+    "1274255@13",
+    "1722269@13",
+    "1723619@13",
+    "1726102@16"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 919,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

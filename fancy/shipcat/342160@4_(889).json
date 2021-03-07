@@ -1,0 +1,27 @@
+{
+  "id": 342160,
+  "name": "Legendary Sailor",
+  "generation": 4,
+  "created_at": "2017-12-16T18:12:59.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Legendary Sailor. In high school, I was voted biggest teacher's pet. I once made a labradoodle drink. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "264191@3",
+  "sire": "262400@3",
+  "children": [
+    "361887@5",
+    "362653@5",
+    "363287@5",
+    "365198@5",
+    "373631@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 889,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

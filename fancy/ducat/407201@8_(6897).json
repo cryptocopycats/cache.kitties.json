@@ -1,0 +1,27 @@
+{
+  "id": 407201,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-25T11:26:10.000Z",
+  "birthday": "2017-12-25T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #407201. I enjoy picking flowers, glaring at the neighbour's cat, and sweating through my feet. I'm convinced that the world is flat. One day I'll prove it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "381919@7",
+  "sire": "334182@7",
+  "children": [
+    "407378@9",
+    "1155726@19",
+    "1160562@9",
+    "1180957@9",
+    "1297703@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 6897,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

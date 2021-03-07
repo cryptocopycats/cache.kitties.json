@@ -1,0 +1,29 @@
+{
+  "id": 338570,
+  "name": "Dracula",
+  "generation": 13,
+  "created_at": "2017-12-16T11:23:06.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Dracula. I'm often referred to as the Cersei Lannister of the group. My secret indulgence is steak. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "325689@12",
+  "sire": "319514@12",
+  "children": [
+    "354158@14",
+    "359767@14",
+    "370848@14",
+    "377822@14",
+    "401565@14",
+    "405514@14",
+    "420581@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 592,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

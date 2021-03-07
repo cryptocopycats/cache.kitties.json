@@ -1,0 +1,23 @@
+{
+  "id": 346167,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-17T01:26:51.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Kitty #346167. I want to live in a world where people believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Rihanna. I hope we can be stinky friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "254502@6",
+  "sire": "162760@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5838,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 338239,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-16T10:47:49.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #338239. I believe the world is flat. I was voted school jock in college. I hope we can be voluptuous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "326335@5",
+  "sire": "327230@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 669,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

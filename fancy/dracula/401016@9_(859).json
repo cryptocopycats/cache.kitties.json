@@ -1,0 +1,25 @@
+{
+  "id": 401016,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-24T08:38:06.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #401016. I'm often referred to as the Samwise Gamgee of the group. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "397965@7",
+  "sire": "399208@8",
+  "children": [
+    "444988@10",
+    "449343@10",
+    "451528@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 859,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

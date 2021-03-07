@@ -1,0 +1,23 @@
+{
+  "id": 371087,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-19T14:16:35.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #371087. My friends describe me as ridiculous and petulant. I was voted school jock in college. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278363@6",
+  "sire": "277900@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6348,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

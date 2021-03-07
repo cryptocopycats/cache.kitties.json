@@ -1,0 +1,23 @@
+{
+  "id": 326455,
+  "name": "Sir Elfie Twinkletoes",
+  "generation": 9,
+  "created_at": "2017-12-15T15:57:11.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Sir Elfie Twinkletoes. I enjoy slappin' da bass, licking doorknobs, and reciting poetry. I once headbutted a dog. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "320480@8",
+  "sire": "293618@8",
+  "children": [
+    "327568@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 539,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 320865,
+  "name": "papa",
+  "generation": 9,
+  "created_at": "2017-12-15T05:38:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm papa. I want to live in a world where people believe the world is flat. I once dreamed of being a Ventriloquist. Now I can be found playing chess all day. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "263986@5",
+  "sire": "278291@8",
+  "children": [
+    "321791@10",
+    "325572@10",
+    "326473@10",
+    "329883@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 479,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

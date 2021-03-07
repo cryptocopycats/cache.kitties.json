@@ -1,0 +1,29 @@
+{
+  "id": 339437,
+  "name": "DuCat F",
+  "generation": 8,
+  "created_at": "2017-12-16T13:05:36.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm DuCat F. In high school, I was voted biggest teacher's pet. I once got in a fight with a moose, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "331838@7",
+  "sire": "324817@7",
+  "children": [
+    "349148@9",
+    "351990@10",
+    "353525@9",
+    "359584@9",
+    "415620@9",
+    "433724@13",
+    "452095@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5693,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

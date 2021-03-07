@@ -1,0 +1,29 @@
+{
+  "id": 346528,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-17T02:09:09.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! Kitty #346528 here. I'm here to enjoy reciting poetry and shakin' dat booty. Sometimes I daydream of a life full of riding dirty, hamburgers, and volunteering at the local kitten rescue shelter. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "302563@4",
+  "sire": "304834@5",
+  "children": [
+    "351629@7",
+    "352075@7",
+    "362209@7",
+    "362965@7",
+    "371406@7",
+    "379890@7",
+    "389463@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 720,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

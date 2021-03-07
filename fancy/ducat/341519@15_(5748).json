@@ -1,0 +1,23 @@
+{
+  "id": 341519,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-16T17:01:41.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Kitty #341519. I once peed on Mother Theresa's cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "62324@14",
+  "sire": "272439@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5748,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,25 @@
+{
+  "id": 410965,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-26T05:18:53.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! My name's Kitty #410965. I once peed on Nelson Mandela's cat. They had it coming. I once clawed a dog. I don't like to talk about it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "333163@3",
+  "sire": "344126@3",
+  "children": [
+    "436148@5",
+    "436235@5",
+    "449668@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1186,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

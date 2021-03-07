@@ -1,0 +1,23 @@
+{
+  "id": 325640,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-15T13:57:30.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm Kitty #325640. I believe that one day cats will rule this planet. My friends describe me as \"voluptuous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "311341@5",
+  "sire": "314845@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 518,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

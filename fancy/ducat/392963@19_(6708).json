@@ -1,0 +1,24 @@
+{
+  "id": 392963,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-23T06:51:44.000Z",
+  "birthday": "2017-12-23T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good morning! I'm Kitty #392963. I'm a professional Skydiving Instructor and I love lasagna. It's not common knowledge, but my ancestry connects me to King Henry VIII. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "351460@18",
+  "sire": "224885@15",
+  "children": [
+    "439834@20",
+    "848401@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6708,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

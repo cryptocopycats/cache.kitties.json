@@ -1,0 +1,23 @@
+{
+  "id": 348700,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-17T06:52:02.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #348700. My friends describe me as vegan and hairy. I was voted school jock in college. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "328176@19",
+  "sire": "328636@21",
+  "children": [
+    "370954@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5897,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

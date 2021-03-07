@@ -1,0 +1,27 @@
+{
+  "id": 354374,
+  "name": "Sailor B. Mice",
+  "generation": 7,
+  "created_at": "2017-12-17T19:39:27.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Sup playa! I'm Sailor B. Mice. All you need to know about me is I hate hamburgers with a passion. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "305202@6",
+  "sire": "307524@6",
+  "children": [
+    "372011@8",
+    "373187@8",
+    "384101@11",
+    "449151@11",
+    "468319@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 915,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

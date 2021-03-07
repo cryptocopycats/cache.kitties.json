@@ -1,0 +1,23 @@
+{
+  "id": 353808,
+  "name": null,
+  "generation": 24,
+  "created_at": "2017-12-17T18:31:18.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #353808. In high school, I was voted most likely to work at NASA. I once dreamed of being a Aerobics Athlete . Now I can be found people-watching all day. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "326588@23",
+  "sire": "265221@19",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6012,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 335967,
+  "name": "DirtyBirdyCatFace",
+  "generation": 9,
+  "created_at": "2017-12-16T07:06:18.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm DirtyBirdyCatFace. I'm often referred to as the Dwight Schrute of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141799@7",
+  "sire": "320377@8",
+  "children": [
+    "348076@10",
+    "349509@12",
+    "393490@10",
+    "400300@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5621,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

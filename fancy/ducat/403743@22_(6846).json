@@ -1,0 +1,24 @@
+{
+  "id": 403743,
+  "name": "DracuBird",
+  "generation": 22,
+  "created_at": "2017-12-24T20:04:15.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm DracuBird. I enjoy hitting on yo' man, being a nevernude, and chasing string. When no one's home, I invite my pals over and we listen to Coldplay. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "396673@21",
+  "sire": "390374@18",
+  "children": [
+    "417493@23",
+    "422393@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6846,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

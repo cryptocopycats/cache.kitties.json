@@ -1,0 +1,30 @@
+{
+  "id": 333275,
+  "name": "🎄 Fancy:Mistletoe 🎄",
+  "generation": 7,
+  "created_at": "2017-12-16T02:53:04.000Z",
+  "birthday": "2017-12-16T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm 🎄 Fancy:Mistletoe 🎄. I've never told anyone this, but I once pawed at a dog. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "325679@6",
+  "sire": "325862@6",
+  "children": [
+    "333693@8",
+    "335008@8",
+    "341886@8",
+    "346793@8",
+    "349064@8",
+    "370384@13",
+    "378040@13",
+    "405286@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 616,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

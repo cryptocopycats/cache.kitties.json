@@ -1,0 +1,31 @@
+{
+  "id": 369034,
+  "name": "Butters Stotch",
+  "generation": 9,
+  "created_at": "2017-12-19T06:20:57.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Butters Stotch. I'm often referred to as the Ross Geller of the group. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Our friendship will be brilliant, tantalizing, and full of chocolate.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "253132@7",
+  "sire": "348473@8",
+  "children": [
+    "405042@10",
+    "412526@10",
+    "415173@11",
+    "425340@10",
+    "435779@10",
+    "454870@10",
+    "510811@10",
+    "526630@10",
+    "539709@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 901,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

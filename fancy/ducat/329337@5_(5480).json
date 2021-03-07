@@ -1,0 +1,23 @@
+{
+  "id": 329337,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-15T20:55:21.000Z",
+  "birthday": "2017-12-15T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #329337. My friends describe me as ridiculous and voluptuous. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172189@4",
+  "sire": "168501@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 5480,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

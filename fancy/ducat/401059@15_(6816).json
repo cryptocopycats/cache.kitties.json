@@ -1,0 +1,23 @@
+{
+  "id": 401059,
+  "name": "My only birdie!",
+  "generation": 15,
+  "created_at": "2017-12-24T08:48:23.000Z",
+  "birthday": "2017-12-24T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm My only birdie!. I'm a professional Dispensary Clerk and I love lasagna. I'm convinced that the world is flat. One day I'll prove it. Will you be the pickles to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "397883@14",
+  "sire": "377010@14",
+  "children": [
+    "430186@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6816,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

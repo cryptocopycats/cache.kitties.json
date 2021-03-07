@@ -1,0 +1,28 @@
+{
+  "id": 358513,
+  "name": "Pelican Mew",
+  "generation": 12,
+  "created_at": "2017-12-18T03:53:30.000Z",
+  "birthday": "2017-12-18T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Pelican Mew. I'm a Mad Scientist by day, and I like talking about how much I lift by night. My friends describe me as \"raunchy.\" It's... accurate. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "237328@6",
+  "sire": "130064@11",
+  "children": [
+    "380932@13",
+    "383214@13",
+    "389983@13",
+    "399131@13",
+    "596187@13",
+    "613533@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6103,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

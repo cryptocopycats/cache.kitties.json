@@ -1,0 +1,23 @@
+{
+  "id": 353012,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-17T16:49:33.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! Kitty #353012 here. I'm here to enjoy riding unicorns and eating until I loathe myself. Sometimes I daydream of a life full of slappin' da bass, hamburgers, and running a podcast. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "342974@7",
+  "sire": "318877@6",
+  "children": [
+    "354139@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 92,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

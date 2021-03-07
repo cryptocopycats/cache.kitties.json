@@ -1,0 +1,25 @@
+{
+  "id": 371432,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-19T15:58:55.000Z",
+  "birthday": "2017-12-19T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm RARE BIRD! Fancy!. I've never told anyone this, but I once pawed at a dog. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "364160@3",
+  "sire": "336236@3",
+  "children": [
+    "402338@5",
+    "420952@5",
+    "500145@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6351,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

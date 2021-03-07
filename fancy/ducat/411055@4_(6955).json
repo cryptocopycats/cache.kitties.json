@@ -1,0 +1,32 @@
+{
+  "id": 411055,
+  "name": "BirdPerson",
+  "generation": 4,
+  "created_at": "2017-12-26T05:47:50.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm BirdPerson. I'm a professional Mad Scientist and I love apple pie. I once dreamed of being a Dispensary Clerk. Now I can be found riding the bus all day. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "407995@3",
+  "sire": "309545@3",
+  "children": [
+    "411145@6",
+    "412027@11",
+    "412064@16",
+    "416609@6",
+    "417310@8",
+    "432958@7",
+    "448624@20",
+    "531191@5",
+    "589342@5",
+    "686032@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6955,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

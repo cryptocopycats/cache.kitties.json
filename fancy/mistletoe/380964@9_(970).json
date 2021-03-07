@@ -1,0 +1,24 @@
+{
+  "id": 380964,
+  "name": "misletoe f2-1",
+  "generation": 9,
+  "created_at": "2017-12-21T03:48:38.000Z",
+  "birthday": "2017-12-21T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm misletoe f2-1. I've never told anyone this, but I once pranced with a dog. I once got in a fight with a dolphin, and won. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "253132@7",
+  "sire": "348473@8",
+  "children": [
+    "395958@10",
+    "922557@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 970,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

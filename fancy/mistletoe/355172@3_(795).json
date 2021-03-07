@@ -1,0 +1,23 @@
+{
+  "id": 355172,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-17T21:12:35.000Z",
+  "birthday": "2017-12-17T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Kitty #355172. I'm a professional Aerobics Athlete  and I love salad. When no one's home, I invite my pals over and we listen to Justin Bieber. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "330113@2",
+  "sire": "334321@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 795,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}
