@@ -1,0 +1,23 @@
+{
+  "id": 437904,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-31T21:45:17.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Kitty #437904. I enjoy picking on mice, hitting on yo' man, and staying woke. I once got in a fight with a rabbit, and won. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "426959@7",
+  "sire": "292430@11",
+  "children": [
+    "442287@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1293,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

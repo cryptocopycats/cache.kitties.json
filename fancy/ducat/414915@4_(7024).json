@@ -1,0 +1,32 @@
+{
+  "id": 414915,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-27T04:24:05.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! RARE BIRD! Fancy! here. I'm here to enjoy reciting poetry and reading garfield. My secret indulgence is ice cream. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "414070@3",
+  "sire": "364160@3",
+  "children": [
+    "425951@5",
+    "426734@5",
+    "427450@5",
+    "428332@5",
+    "432176@5",
+    "434358@5",
+    "435353@5",
+    "436926@5",
+    "443785@5",
+    "560954@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7024,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

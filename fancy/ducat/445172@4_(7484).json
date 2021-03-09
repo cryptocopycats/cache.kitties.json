@@ -1,0 +1,25 @@
+{
+  "id": 445172,
+  "name": null,
+  "generation": 4,
+  "created_at": "2018-01-02T12:59:30.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #445172. In high school, I was voted biggest teacher's pet. I'm convinced that the world is flat. One day I'll prove it. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "433788@3",
+  "sire": "442077@3",
+  "children": [
+    "457988@5",
+    "458153@5",
+    "458199@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7484,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

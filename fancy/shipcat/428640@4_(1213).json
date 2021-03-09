@@ -1,0 +1,23 @@
+{
+  "id": 428640,
+  "name": "ShipCat #1,213/2,000",
+  "generation": 4,
+  "created_at": "2017-12-29T13:40:36.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm ShipCat #1,213/2,000. I'm a Skydiving Instructor by day, and I like siring for status by night. I'm convinced that the world is flat. One day I'll prove it. Our friendship will be brilliant, prickly, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "426974@3",
+  "sire": "426908@3",
+  "children": [
+    "434346@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1213,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 432944,
+  "name": "Beware of Catula!",
+  "generation": 8,
+  "created_at": "2017-12-30T16:39:22.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! Beware of Catula! here. I'm here to enjoy eating until I loathe myself and reading garfield. I once made a rhino enjoy. I look forward to tripping my owner with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "432143@7",
+  "sire": "418285@7",
+  "children": [
+    "442783@9",
+    "547295@9",
+    "548740@9",
+    "554261@9",
+    "556061@9",
+    "559127@9",
+    "566913@9",
+    "578162@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1026,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

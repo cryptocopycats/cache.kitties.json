@@ -1,0 +1,25 @@
+{
+  "id": 425951,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 5,
+  "created_at": "2017-12-29T02:16:04.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm RARE BIRD! Fancy!. I'm a Foreign Film Director by day, and I like siring for status by night. I once got in a fight with a platypus, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "414915@4",
+  "sire": "370283@4",
+  "children": [
+    "426252@7",
+    "429841@6",
+    "433196@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7158,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

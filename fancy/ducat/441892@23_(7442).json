@@ -1,0 +1,24 @@
+{
+  "id": 441892,
+  "name": "SuperCat",
+  "generation": 23,
+  "created_at": "2018-01-01T19:27:47.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Shalom! SuperCat here. I'm here to enjoy watching Stranger Things and fighting the patriarchy. Some people say I'm the Homer Simpson of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "420023@22",
+  "sire": "433530@9",
+  "children": [
+    "454648@24",
+    "459491@24"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7442,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 438184,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-31T23:13:10.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! Kitty #438184 here. I'm here to enjoy fighting for the people and sitting on your computer. I once got in a fight with a chimpanzee, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "429683@4",
+  "sire": "400711@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1294,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

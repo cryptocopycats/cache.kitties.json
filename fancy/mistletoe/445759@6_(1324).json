@@ -1,0 +1,24 @@
+{
+  "id": 445759,
+  "name": "Mistletoe",
+  "generation": 6,
+  "created_at": "2018-01-02T17:42:35.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Mistletoe. All you need to know about me is I hate steak with a passion. Sometimes I daydream of a life full of being a nevernude, apple pie, and watching reality tv. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "298396@5",
+  "sire": "444719@5",
+  "children": [
+    "545610@7",
+    "546209@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1324,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

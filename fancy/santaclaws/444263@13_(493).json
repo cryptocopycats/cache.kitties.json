@@ -1,0 +1,24 @@
+{
+  "id": 444263,
+  "name": "White Santa",
+  "generation": 13,
+  "created_at": "2018-01-02T07:27:59.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! White Santa here. I'm here to enjoy fighting for the people and eating until I loathe myself. I once got in a fight with a chimpanzee, and won. Will you be the pickles to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "427412@12",
+  "sire": "422029@12",
+  "children": [
+    "450266@14",
+    "451271@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 493,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 449788,
+  "name": "1342 MISTLETOE CHESTNUT",
+  "generation": 3,
+  "created_at": "2018-01-04T09:47:27.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm 1342 MISTLETOE CHESTNUT. I'm a Train Conductor by day, and I like riverdancing by night. I once licked a dolphin. I don't like to talk about it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "419091@2",
+  "sire": "437094@2",
+  "children": [
+    "460917@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1342,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

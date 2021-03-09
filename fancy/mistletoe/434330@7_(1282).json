@@ -1,0 +1,26 @@
+{
+  "id": 434330,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-31T00:26:16.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! My name's Kitty #434330. I once peed on Confucius's cat. They had it coming. I'm often described as ridiculous, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "434281@6",
+  "sire": "431352@6",
+  "children": [
+    "434485@32",
+    "435206@36",
+    "440888@10",
+    "501677@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1282,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

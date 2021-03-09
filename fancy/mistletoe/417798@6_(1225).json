@@ -1,0 +1,32 @@
+{
+  "id": 417798,
+  "name": "www.goodkitty.net",
+  "generation": 6,
+  "created_at": "2017-12-27T18:28:32.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm www.goodkitty.net. I enjoy fighting the patriarchy, tricking babies, and hitting on yo' man. My friends describe me as \"hairy.\" It's... accurate. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "413682@5",
+  "sire": "357749@5",
+  "children": [
+    "420606@8",
+    "422659@7",
+    "459526@9",
+    "488658@8",
+    "491007@12",
+    "508036@8",
+    "513643@9",
+    "524816@8",
+    "528999@8",
+    "535699@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1225,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

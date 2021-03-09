@@ -1,0 +1,28 @@
+{
+  "id": 438322,
+  "name": "Best Santa You'll Ever Have!",
+  "generation": 5,
+  "created_at": "2017-12-31T23:50:25.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Best Santa You'll Ever Have!. I've never told anyone this, but I once snuggled a dog. When no one's home, I invite my pals over and we listen to Aretha Franklin. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "436394@4",
+  "sire": "426234@4",
+  "children": [
+    "545974@6",
+    "546062@7",
+    "546268@6",
+    "546678@8",
+    "548350@7",
+    "549139@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 469,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

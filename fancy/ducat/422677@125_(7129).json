@@ -1,0 +1,23 @@
+{
+  "id": 422677,
+  "name": "LGC - 125 (3RD OF GEN)",
+  "generation": 125,
+  "created_at": "2017-12-28T14:42:51.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm LGC - 125 (3RD OF GEN). I want to live in a world where people believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "323863@7",
+  "sire": "420920@124",
+  "children": [
+    "424145@126"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7129,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

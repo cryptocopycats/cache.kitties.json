@@ -1,0 +1,25 @@
+{
+  "id": 435296,
+  "name": "#447/1000",
+  "generation": 2,
+  "created_at": "2017-12-31T05:28:13.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm #447/1000. I believe the world is flat. I once made a rabbit grimace. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "434322@1",
+  "sire": "422730@1",
+  "children": [
+    "469478@10",
+    "470405@3",
+    "471067@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 447,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

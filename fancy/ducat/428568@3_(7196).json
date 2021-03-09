@@ -1,0 +1,26 @@
+{
+  "id": 428568,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-29T13:18:26.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Kitty #428568. I've never told anyone this, but I once frolicked with a dog. In my free time, I can usually be found smelly or tricking babies. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "420407@2",
+  "sire": "414666@2",
+  "children": [
+    "437645@4",
+    "444503@10",
+    "444980@7",
+    "445447@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7196,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

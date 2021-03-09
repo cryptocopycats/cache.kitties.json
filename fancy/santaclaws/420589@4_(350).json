@@ -1,0 +1,23 @@
+{
+  "id": 420589,
+  "name": "WhoopWhoop",
+  "generation": 4,
+  "created_at": "2017-12-28T05:14:31.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm WhoopWhoop. I enjoy tricking babies, eating until I loathe myself, and eating lasagna. I once made a dog leap. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "416545@3",
+  "sire": "388224@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 350,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

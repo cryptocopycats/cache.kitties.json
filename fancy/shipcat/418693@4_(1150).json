@@ -1,0 +1,25 @@
+{
+  "id": 418693,
+  "name": "And a bottle of rum!",
+  "generation": 4,
+  "created_at": "2017-12-27T22:25:53.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm And a bottle of rum!. My friends describe me as vegan and prickly. Sometimes I daydream of a life full of reading garfield, ice cream, and running a podcast. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "379759@3",
+  "sire": "391816@3",
+  "children": [
+    "420996@5",
+    "422009@5",
+    "422085@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1150,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

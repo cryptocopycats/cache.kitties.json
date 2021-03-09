@@ -1,0 +1,23 @@
+{
+  "id": 438629,
+  "name": "1270 SHIPCAT GOLD 13 %",
+  "generation": 3,
+  "created_at": "2018-01-01T01:36:34.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm 1270 SHIPCAT GOLD 13 %. I've never told anyone this, but I once tricked a dog. I once tricked a gecko. I don't like to talk about it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "420414@2",
+  "sire": "422381@2",
+  "children": [
+    "440338@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1270,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

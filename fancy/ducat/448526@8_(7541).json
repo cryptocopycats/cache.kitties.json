@@ -1,0 +1,25 @@
+{
+  "id": 448526,
+  "name": "100% fancy +parents LE 7541",
+  "generation": 8,
+  "created_at": "2018-01-03T13:52:00.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! 100% fancy +parents LE 7541 here. I'm here to enjoy reciting poetry and licking doorknobs. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I look forward to tripping my owner with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "353607@5",
+  "sire": "440985@7",
+  "children": [
+    "507891@14",
+    "513861@9",
+    "563901@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7541,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

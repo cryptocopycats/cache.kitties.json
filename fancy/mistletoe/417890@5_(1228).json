@@ -1,0 +1,25 @@
+{
+  "id": 417890,
+  "name": "GEN 5 RARE FANCY MISTLETOE",
+  "generation": 5,
+  "created_at": "2017-12-27T19:00:22.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm GEN 5 RARE FANCY MISTLETOE. I'm a Mad Scientist by day, and I like tricking babies by night. I once made a rabbit dance. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "388271@4",
+  "sire": "409886@3",
+  "children": [
+    "417962@6",
+    "546887@6",
+    "747951@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1228,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

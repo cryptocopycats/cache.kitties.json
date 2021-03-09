@@ -1,0 +1,23 @@
+{
+  "id": 416362,
+  "name": "Kitty #416362",
+  "generation": 7,
+  "created_at": "2017-12-27T10:32:20.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #416362. In high school, I was voted most likely to work at NASA. I once kissed a labradoodle. I don't like to talk about it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "193336@5",
+  "sire": "321727@6",
+  "children": [
+    "435188@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1217,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

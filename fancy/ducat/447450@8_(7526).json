@@ -1,0 +1,24 @@
+{
+  "id": 447450,
+  "name": "Chat De Canard",
+  "generation": 8,
+  "created_at": "2018-01-03T04:07:13.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Chat De Canard. I want to live in a world where people believe that one day cats will rule this planet. When I'm not mocking dogs, I'm siring for status! I hope we can be fabulous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "353200@4",
+  "sire": "100411@7",
+  "children": [
+    "488538@9",
+    "503779@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7526,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

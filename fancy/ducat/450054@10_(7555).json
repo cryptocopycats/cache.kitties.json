@@ -1,0 +1,25 @@
+{
+  "id": 450054,
+  "name": null,
+  "generation": 10,
+  "created_at": "2018-01-04T12:40:48.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Mahalo! I'm Kitty #450054. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with Princess Diana. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "449553@8",
+  "sire": "408818@9",
+  "children": [
+    "452032@11",
+    "457374@11",
+    "458301@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7555,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

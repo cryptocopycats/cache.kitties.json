@@ -1,0 +1,24 @@
+{
+  "id": 422568,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-28T14:06:36.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hi-ya! I'm Kitty #422568. I'm a professional Aerobics Athlete  and I love steak. When I'm not pole dancing, I'm tricking babies! This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "274551@13",
+  "sire": "271531@15",
+  "children": [
+    "423532@17",
+    "433742@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7128,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 424145,
+  "name": "LGC - 126 (4TH OF GEN)",
+  "generation": 126,
+  "created_at": "2017-12-28T20:15:19.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm LGC - 126 (4TH OF GEN). I've never told anyone this, but I once pranced with a dog. I would give it all up to be on Oprah. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "398971@3",
+  "sire": "422677@125",
+  "children": [
+    "426489@127"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7147,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

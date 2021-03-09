@@ -1,0 +1,26 @@
+{
+  "id": 423089,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 3,
+  "created_at": "2017-12-28T16:24:16.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm RARE BIRD! Fancy!. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "397232@2",
+  "sire": "417768@2",
+  "children": [
+    "461577@4",
+    "468413@4",
+    "478165@4",
+    "478367@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7136,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

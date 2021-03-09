@@ -1,0 +1,23 @@
+{
+  "id": 442309,
+  "name": "PURE FANCY DUCAT",
+  "generation": 11,
+  "created_at": "2018-01-01T21:21:39.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm PURE FANCY DUCAT. In high school, I was voted most likely to work at NASA. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I look forward to being a nevernude with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "366280@10",
+  "sire": "366073@6",
+  "children": [
+    "450924@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7452,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

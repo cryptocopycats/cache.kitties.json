@@ -1,0 +1,25 @@
+{
+  "id": 428182,
+  "name": "Ducat",
+  "generation": 7,
+  "created_at": "2017-12-29T11:19:01.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! My name's Ducat. I once peed on Cleopatra's cat. They had it coming. My friends describe me as \"petulant.\" It's... accurate. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "427867@2",
+  "sire": "126040@6",
+  "children": [
+    "503256@8",
+    "504674@8",
+    "592094@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7190,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

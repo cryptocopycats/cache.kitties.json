@@ -1,0 +1,26 @@
+{
+  "id": 452571,
+  "name": null,
+  "generation": 7,
+  "created_at": "2018-01-06T15:28:05.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! Kitty #452571 here. I'm here to enjoy sweating through my feet and reading garfield. I once made a gecko leap. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "128591@6",
+  "sire": "278190@6",
+  "children": [
+    "540333@8",
+    "543968@8",
+    "553771@8",
+    "577439@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1097,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

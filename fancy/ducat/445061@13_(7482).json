@@ -1,0 +1,23 @@
+{
+  "id": 445061,
+  "name": null,
+  "generation": 13,
+  "created_at": "2018-01-02T12:14:49.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #445061. I'm a Ventriloquist by day, and I like volunteering at the local kitten rescue shelter by night. I once made a rabbit trot. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "335326@3",
+  "sire": "444972@12",
+  "children": [
+    "445447@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7482,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

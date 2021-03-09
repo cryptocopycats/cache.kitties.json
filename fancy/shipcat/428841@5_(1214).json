@@ -1,0 +1,23 @@
+{
+  "id": 428841,
+  "name": "ShipCat #1,214/2,000",
+  "generation": 5,
+  "created_at": "2017-12-29T14:44:17.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm ShipCat #1,214/2,000. I'm a professional Mad Scientist and I love apple pie. I once dreamed of being a Foreign Film Director. Now I can be found siring for status all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "418133@4",
+  "sire": "389293@4",
+  "children": [
+    "433747@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1214,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

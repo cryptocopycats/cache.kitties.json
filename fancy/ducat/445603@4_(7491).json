@@ -1,0 +1,26 @@
+{
+  "id": 445603,
+  "name": "Duck Duck",
+  "generation": 4,
+  "created_at": "2018-01-02T16:38:50.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Duck Duck. My friends describe me as gorgeous and prickly. I would give it all up to star in a soap opera. I hope we can be hairy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "445546@3",
+  "sire": "438134@3",
+  "children": [
+    "445656@5",
+    "446074@7",
+    "446502@5",
+    "447133@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7491,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

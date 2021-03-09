@@ -1,0 +1,23 @@
+{
+  "id": 442770,
+  "name": null,
+  "generation": 18,
+  "created_at": "2018-01-01T23:28:14.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! I'm Kitty #442770. I'm a professional Aerobics Athlete  and I love wet food. I like to listen to Gloria Estefan while grooming. Don't judge me. I look forward to breakdancing with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "442688@7",
+  "sire": "442270@17",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7459,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

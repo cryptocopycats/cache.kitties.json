@@ -1,0 +1,26 @@
+{
+  "id": 418521,
+  "name": "Marin",
+  "generation": 7,
+  "created_at": "2017-12-27T21:45:26.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Marin. I want to live in a world where people believe that one day cats will rule this planet. When I'm not riverdancing, I'm siring for status! Our friendship will be prickly, fabulous, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "417631@4",
+  "sire": "417489@6",
+  "children": [
+    "418577@11",
+    "419063@8",
+    "419810@8",
+    "421584@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1148,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

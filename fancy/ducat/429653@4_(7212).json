@@ -1,0 +1,24 @@
+{
+  "id": 429653,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-29T19:08:49.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #429653. I enjoy riding unicorns, slappin' da bass, and being a nevernude. I would give it all up to be on Oprah. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "429356@3",
+  "sire": "192445@3",
+  "children": [
+    "429685@5",
+    "1104943@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7212,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

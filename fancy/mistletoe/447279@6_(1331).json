@@ -1,0 +1,23 @@
+{
+  "id": 447279,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-03T02:55:06.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! My name's Kitty #447279. I once peed on Confucius's cat. They had it coming. When no one's home, I invite my pals over and we listen to Coldplay. Can you make my gullible dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "393036@5",
+  "sire": "445906@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1331,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

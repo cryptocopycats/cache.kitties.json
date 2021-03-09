@@ -1,0 +1,23 @@
+{
+  "id": 417424,
+  "name": "ZDeDa",
+  "generation": 6,
+  "created_at": "2017-12-27T16:36:26.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! ZDeDa here. I'm here to enjoy picking flowers and glaring at the neighbour's cat. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "408357@5",
+  "sire": "376543@2",
+  "children": [
+    "646059@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7065,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

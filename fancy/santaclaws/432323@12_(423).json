@@ -1,0 +1,23 @@
+{
+  "id": 432323,
+  "name": "HoHoHo",
+  "generation": 12,
+  "created_at": "2017-12-30T12:16:56.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm HoHoHo. I'm a professional Train Conductor and I love cantaloupe. I'm convinced that the world is flat. One day I'll prove it. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "378566@11",
+  "sire": "400758@11",
+  "children": [
+    "432690@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 423,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

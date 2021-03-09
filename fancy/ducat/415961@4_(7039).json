@@ -1,0 +1,26 @@
+{
+  "id": 415961,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-27T08:34:08.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's RARE BIRD! Fancy!. I once peed on Confucius's cat. They had it coming. When I'm not riding the bus, I'm sleeping in fresh laundry! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "360718@3",
+  "sire": "383621@3",
+  "children": [
+    "426089@5",
+    "426430@5",
+    "427300@5",
+    "431320@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7039,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

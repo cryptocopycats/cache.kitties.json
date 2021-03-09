@@ -1,0 +1,23 @@
+{
+  "id": 415685,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-27T07:25:42.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #415685. I believe the world is flat. Sometimes I daydream of a life full of taking selfies, cantaloupe, and jump-roping. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "373338@2",
+  "sire": "415294@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1214,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

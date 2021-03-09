@@ -1,0 +1,23 @@
+{
+  "id": 426929,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-29T05:54:50.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Kitty #426929. All you need to know about me is I hate ice cream with a passion. In my free time, I can usually be found stinky or riding the bus. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "305173@10",
+  "sire": "338747@11",
+  "children": [
+    "429158@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1199,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

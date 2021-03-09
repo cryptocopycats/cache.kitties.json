@@ -1,0 +1,23 @@
+{
+  "id": 418281,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-27T20:40:03.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! Kitty #418281 here. I'm here to enjoy watching Stranger Things and breakdancing. I like to listen to Gloria Estefan while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "417610@5",
+  "sire": "413940@3",
+  "children": [
+    "418809@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7074,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

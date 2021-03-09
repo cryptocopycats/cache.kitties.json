@@ -1,0 +1,25 @@
+{
+  "id": 446877,
+  "name": null,
+  "generation": 10,
+  "created_at": "2018-01-03T00:31:45.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #446877. I believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "444256@9",
+  "sire": "441840@9",
+  "children": [
+    "448019@11",
+    "448268@18",
+    "454432@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 86,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

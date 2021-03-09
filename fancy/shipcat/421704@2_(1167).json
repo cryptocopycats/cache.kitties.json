@@ -1,0 +1,32 @@
+{
+  "id": 421704,
+  "name": "Gen 2 | ShipCat",
+  "generation": 2,
+  "created_at": "2017-12-28T09:58:51.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Gen 2 | ShipCat. I'm a Spin Instructor  by day, and I like swiping right by night. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "421422@1",
+  "sire": "420655@1",
+  "children": [
+    "421796@4",
+    "427574@3",
+    "432208@3",
+    "438428@3",
+    "444484@3",
+    "455714@3",
+    "456218@3",
+    "890895@3",
+    "908421@24",
+    "1208627@3"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1167,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

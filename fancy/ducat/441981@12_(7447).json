@@ -1,0 +1,23 @@
+{
+  "id": 441981,
+  "name": null,
+  "generation": 12,
+  "created_at": "2018-01-01T19:51:10.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #441981. I want to live in a world where people believe the world is flat. I am 14% gremlin, 69% Dispensary Clerk, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "435983@4",
+  "sire": "434481@11",
+  "children": [
+    "442684@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7447,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

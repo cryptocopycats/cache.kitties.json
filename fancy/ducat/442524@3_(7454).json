@@ -1,0 +1,26 @@
+{
+  "id": 442524,
+  "name": "DuCat🦆",
+  "generation": 3,
+  "created_at": "2018-01-01T22:27:03.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Mahalo! DuCat🦆 here. I'm here to enjoy picking on mice and taking selfies. Some people say I'm the Ron Weasley of the group. I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "239067@2",
+  "sire": "289023@2",
+  "children": [
+    "442637@7",
+    "446842@6",
+    "455762@4",
+    "471639@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7454,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

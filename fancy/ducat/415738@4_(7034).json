@@ -1,0 +1,23 @@
+{
+  "id": 415738,
+  "name": "G4 Ducat Swift - Rare",
+  "generation": 4,
+  "created_at": "2017-12-27T07:35:40.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm G4 Ducat Swift - Rare. In high school, I was voted most likely to work at NASA. Some people say I'm the Steve Urkel of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "398521@3",
+  "sire": "409284@3",
+  "children": [
+    "416013@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7034,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

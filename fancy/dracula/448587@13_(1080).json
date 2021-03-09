@@ -1,0 +1,24 @@
+{
+  "id": 448587,
+  "name": null,
+  "generation": 13,
+  "created_at": "2018-01-03T14:58:48.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #448587. I'm a professional Foreign Film Director and I love chocolate. I like to listen to Metallica while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "412891@12",
+  "sire": "433402@6",
+  "children": [
+    "448775@15",
+    "450356@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1080,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

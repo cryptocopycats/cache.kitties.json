@@ -1,0 +1,23 @@
+{
+  "id": 448401,
+  "name": null,
+  "generation": 11,
+  "created_at": "2018-01-03T12:08:32.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #448401. All you need to know about me is I hate cantaloupe with a passion. I am 73% fairy, 83% Ventriloquist, and otherwise bad at math. Our friendship will be gullible, annoying, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "442631@9",
+  "sire": "447262@10",
+  "children": [
+    "459908@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7538,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

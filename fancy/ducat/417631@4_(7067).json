@@ -1,0 +1,27 @@
+{
+  "id": 417631,
+  "name": "Angelababy",
+  "generation": 4,
+  "created_at": "2017-12-27T17:39:40.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm Angelababy. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a labradoodle, and won. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "415258@3",
+  "sire": "405952@3",
+  "children": [
+    "418137@6",
+    "418521@7",
+    "418999@5",
+    "419877@5",
+    "421525@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7067,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

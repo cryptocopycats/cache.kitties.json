@@ -1,0 +1,27 @@
+{
+  "id": 418685,
+  "name": "Gen 6 | ShipCat",
+  "generation": 6,
+  "created_at": "2017-12-27T22:24:55.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! My name's Gen 6 | ShipCat. I once peed on Princess Diana's cat. They had it coming. I once got in a fight with a goose, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "416347@5",
+  "sire": "415645@5",
+  "children": [
+    "424953@8",
+    "434333@7",
+    "434920@7",
+    "436593@7",
+    "522520@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1149,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

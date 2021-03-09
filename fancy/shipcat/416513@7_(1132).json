@@ -1,0 +1,23 @@
+{
+  "id": 416513,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-27T11:19:17.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! My name's Kitty #416513. I once peed on Confucius's cat. They had it coming. I like to listen to Gloria Estefan while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "370526@6",
+  "sire": "181288@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1132,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

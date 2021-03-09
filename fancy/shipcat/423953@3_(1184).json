@@ -1,0 +1,28 @@
+{
+  "id": 423953,
+  "name": "OG Cap'n Kitty",
+  "generation": 3,
+  "created_at": "2017-12-28T19:40:43.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm OG Cap'n Kitty. I enjoy glaring at the neighbour's cat, being a nevernude, and chasing string. I was voted biggest teacher's pet in college. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "421938@2",
+  "sire": "418420@2",
+  "children": [
+    "430617@4",
+    "434388@4",
+    "516726@4",
+    "772470@4",
+    "865361@11",
+    "890813@15"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1184,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

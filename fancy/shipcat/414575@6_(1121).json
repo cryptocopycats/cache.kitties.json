@@ -1,0 +1,27 @@
+{
+  "id": 414575,
+  "name": "Gen 6 | ShipCat",
+  "generation": 6,
+  "created_at": "2017-12-27T02:36:27.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Gen 6 | ShipCat. I believe that one day cats will rule this planet. I once got in a fight with a rabbit, and won. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "414372@4",
+  "sire": "190074@5",
+  "children": [
+    "415044@7",
+    "415514@16",
+    "415777@7",
+    "415993@7",
+    "423369@8"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1121,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

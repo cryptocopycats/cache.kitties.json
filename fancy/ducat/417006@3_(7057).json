@@ -1,0 +1,23 @@
+{
+  "id": 417006,
+  "name": "Fancy Nelson",
+  "generation": 3,
+  "created_at": "2017-12-27T14:14:54.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Fancy Nelson. I'm often referred to as the Bart Simpson of the group. It's not common knowledge, but my ancestry connects me to Nelson Mandela. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "397430@2",
+  "sire": "278688@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7057,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

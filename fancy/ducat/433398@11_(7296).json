@@ -1,0 +1,23 @@
+{
+  "id": 433398,
+  "name": "Cluckity Cluck You",
+  "generation": 11,
+  "created_at": "2017-12-30T19:30:04.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Shalom! I'm Cluckity Cluck You. I'm a professional Aerobics Athlete  and I love salad. I like to listen to Frank Sinatra while grooming. Don't judge me. Will you be the ghost pepper hot sauce to my ranch dressing?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "389100@10",
+  "sire": "423065@7",
+  "children": [
+    "433603@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7296,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 418725,
+  "name": "MrSanta ♻️",
+  "generation": 11,
+  "created_at": "2017-12-27T22:33:21.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm MrSanta ♻️. In high school, I was voted most likely to work at NASA. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "411591@10",
+  "sire": "416077@10",
+  "children": [
+    "419235@12",
+    "421247@12",
+    "422492@12",
+    "425846@12",
+    "429789@12",
+    "438526@12",
+    "519006@13",
+    "545955@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 336,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

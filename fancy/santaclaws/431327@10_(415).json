@@ -1,0 +1,23 @@
+{
+  "id": 431327,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-30T04:52:00.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #431327. I'm often referred to as the Hermione Granger of the group. It wasn't heavily publicized, but I once had a brief relationship with Snagglepuss. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "294465@6",
+  "sire": "409084@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 415,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

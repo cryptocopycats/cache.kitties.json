@@ -1,0 +1,23 @@
+{
+  "id": 450341,
+  "name": null,
+  "generation": 7,
+  "created_at": "2018-01-04T18:18:39.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #450341. I've never told anyone this, but I once headbutted a dog. I am 72% hobbit, 29% Dogwalker, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "78523@6",
+  "sire": "256434@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7558,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

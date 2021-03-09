@@ -1,0 +1,25 @@
+{
+  "id": 435264,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-31T05:19:13.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hi-ya! I'm Kitty #435264. In high school, I was voted school jock. In my free time, I can usually be found tantalizing or pole dancing. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "371447@11",
+  "sire": "246693@3",
+  "children": [
+    "477159@13",
+    "1421913@13",
+    "1491676@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7343,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

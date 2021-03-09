@@ -1,0 +1,24 @@
+{
+  "id": 437102,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-31T17:37:26.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm Kitty #437102. I enjoy sweating through my feet, fighting for the people, and eating until I loathe myself. I would give it all up to star in a soap opera. Our friendship will be smelly, stinky, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "48453@3",
+  "sire": "391766@4",
+  "children": [
+    "469693@6",
+    "471889@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7382,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

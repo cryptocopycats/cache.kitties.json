@@ -1,0 +1,23 @@
+{
+  "id": 445287,
+  "name": null,
+  "generation": 5,
+  "created_at": "2018-01-02T14:03:20.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Kitty #445287. My friends describe me as fabulous and prickly. I once dreamed of being a Private Dancer . Now I can be found riverdancing all day. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "442069@4",
+  "sire": "439417@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7486,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

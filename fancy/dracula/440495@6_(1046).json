@@ -1,0 +1,28 @@
+{
+  "id": 440495,
+  "name": "Vampula",
+  "generation": 6,
+  "created_at": "2018-01-01T11:03:25.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Vampula. I'm often referred to as the Peter Griffin of the group. I once got in a fight with a goose, and won. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "245195@4",
+  "sire": "241691@5",
+  "children": [
+    "442258@8",
+    "444352@7",
+    "447732@7",
+    "460843@7",
+    "479034@9",
+    "498637@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1046,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 431576,
+  "name": "Catopuma",
+  "generation": 8,
+  "created_at": "2017-12-30T06:41:01.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Catopuma. I've never told anyone this, but I once headbutted a dog. I once got in a fight with a moose, and won. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431494@6",
+  "sire": "283656@7",
+  "children": [
+    "431669@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7260,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 436168,
+  "name": "Bossy!",
+  "generation": 6,
+  "created_at": "2017-12-31T11:26:55.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! My name's Bossy!. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "434133@5",
+  "sire": "435857@3",
+  "children": [
+    "436262@7",
+    "451384@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1259,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

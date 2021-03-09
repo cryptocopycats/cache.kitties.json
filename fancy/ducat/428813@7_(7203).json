@@ -1,0 +1,25 @@
+{
+  "id": 428813,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-29T14:36:23.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #428813. All you need to know about me is I hate cereal with a passion. My great-great-great-great-great-great grandkitty lived with King Henry VIII. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "275641@6",
+  "sire": "280956@6",
+  "children": [
+    "430688@8",
+    "430968@8",
+    "470180@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7203,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

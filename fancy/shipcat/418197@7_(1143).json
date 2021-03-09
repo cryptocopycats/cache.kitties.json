@@ -1,0 +1,25 @@
+{
+  "id": 418197,
+  "name": "Sailor Seven",
+  "generation": 7,
+  "created_at": "2017-12-27T20:16:42.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Sailor Seven. I enjoy licking doorknobs, chasing red dots, and reciting poetry. My great-great-great-great-great-great grandkitty lived with King Henry VIII. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "416392@6",
+  "sire": "392935@6",
+  "children": [
+    "420887@8",
+    "433856@15",
+    "437779@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1143,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

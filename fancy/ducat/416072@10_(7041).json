@@ -1,0 +1,23 @@
+{
+  "id": 416072,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-27T09:00:12.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #416072. I enjoy tripping my owner, reading garfield, and glaring at the neighbour's cat. I like to listen to Coldplay while grooming. Don't judge me. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "366712@7",
+  "sire": "415786@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7041,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

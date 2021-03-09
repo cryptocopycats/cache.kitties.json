@@ -1,0 +1,26 @@
+{
+  "id": 426734,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 5,
+  "created_at": "2017-12-29T05:15:54.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! My name's RARE BIRD! Fancy!. I once peed on Marie Antoinette's cat. They had it coming. I like to listen to Michael Bolton while grooming. Don't judge me. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "414915@4",
+  "sire": "399649@4",
+  "children": [
+    "436873@6",
+    "1366041@6",
+    "1367354@19",
+    "1990032@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7174,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

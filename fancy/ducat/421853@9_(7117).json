@@ -1,0 +1,23 @@
+{
+  "id": 421853,
+  "name": "Bavousan",
+  "generation": 9,
+  "created_at": "2017-12-28T10:46:08.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Bavousan. In high school, I was voted most likely to work at NASA. When I'm not braiding people's hair, I'm reading Danielle Steele! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "419331@8",
+  "sire": "421518@7",
+  "children": [
+    "422156@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7117,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

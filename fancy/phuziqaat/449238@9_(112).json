@@ -1,0 +1,23 @@
+{
+  "id": 449238,
+  "name": "AlienKitty",
+  "generation": 9,
+  "created_at": "2018-01-04T03:03:18.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm AlienKitty. I'm a professional Aerobics Athlete  and I love lasagna. It's not common knowledge, but my ancestry connects me to Princess Diana. I look forward to reading garfield with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "440392@8",
+  "sire": "444357@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 112,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

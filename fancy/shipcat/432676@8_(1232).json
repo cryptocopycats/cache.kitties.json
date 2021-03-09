@@ -1,0 +1,29 @@
+{
+  "id": 432676,
+  "name": "#1232 💖💎 Ship cat",
+  "generation": 8,
+  "created_at": "2017-12-30T14:54:05.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm #1232 💖💎 Ship cat. All you need to know about me is I hate steak with a passion. I would give it all up for a Chanel purse. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "432629@6",
+  "sire": "413420@7",
+  "children": [
+    "444739@13",
+    "445011@9",
+    "447765@9",
+    "463789@9",
+    "487448@9",
+    "501710@9",
+    "554987@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1232,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

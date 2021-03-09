@@ -1,0 +1,26 @@
+{
+  "id": 433314,
+  "name": "Rare Fancy Purebred Parents!",
+  "generation": 6,
+  "created_at": "2017-12-30T18:59:36.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Rare Fancy Purebred Parents!. I'm a professional Culinary Sanitation Specialist and I love hamburgers. I like to listen to Justin Bieber while grooming. Don't judge me. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431090@5",
+  "sire": "171801@5",
+  "children": [
+    "433389@7",
+    "445692@7",
+    "472749@7",
+    "724794@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7293,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

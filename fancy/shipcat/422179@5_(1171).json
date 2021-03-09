@@ -1,0 +1,24 @@
+{
+  "id": 422179,
+  "name": "ShipCat #1,171/2,000",
+  "generation": 5,
+  "created_at": "2017-12-28T12:13:51.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm ShipCat #1,171/2,000. I enjoy picking on mice, watching Stranger Things, and sitting on your computer. I'm often described as voluptuous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "421585@4",
+  "sire": "420379@4",
+  "children": [
+    "430191@6",
+    "434458@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1171,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

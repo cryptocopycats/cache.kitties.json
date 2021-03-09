@@ -1,0 +1,24 @@
+{
+  "id": 448686,
+  "name": "THE NOAH of the group",
+  "generation": 11,
+  "created_at": "2018-01-03T17:50:33.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hi-ya! I'm THE NOAH of the group. I've never told anyone this, but I once clawed a dog. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "430273@6",
+  "sire": "404598@10",
+  "children": [
+    "470136@12",
+    "534948@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7546,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

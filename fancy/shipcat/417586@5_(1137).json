@@ -1,0 +1,25 @@
+{
+  "id": 417586,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-27T17:25:20.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ciao! I'm Kitty #417586. I've never told anyone this, but I once pawed at a dog. When no one's home, I invite my pals over and we listen to Metallica. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "192568@4",
+  "sire": "276007@4",
+  "children": [
+    "423926@6",
+    "430058@6",
+    "561799@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1137,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

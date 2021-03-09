@@ -1,0 +1,25 @@
+{
+  "id": 417097,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-27T14:48:49.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! My name's RARE BIRD! Fancy!. I once peed on Mother Theresa's cat. They had it coming. When I'm not talking about how much I lift, I'm swiping right! I hope we can be seductive friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "402940@3",
+  "sire": "395675@3",
+  "children": [
+    "428138@5",
+    "428539@5",
+    "497376@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7060,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

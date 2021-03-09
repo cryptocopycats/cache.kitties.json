@@ -1,0 +1,31 @@
+{
+  "id": 421245,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-28T08:04:58.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! Kitty #421245 here. I'm here to enjoy fighting for the people and riding dirty. When my owner isn't watching, I steal their silk scarves and use them for litter paper. I'm not sorry. I look forward to eating until I loathe myself with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "360628@6",
+  "sire": "402701@7",
+  "children": [
+    "421751@9",
+    "422264@9",
+    "423111@9",
+    "426223@9",
+    "428768@9",
+    "432754@9",
+    "439291@9",
+    "448680@9",
+    "465319@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 354,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

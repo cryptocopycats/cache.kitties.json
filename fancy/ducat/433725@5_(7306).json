@@ -1,0 +1,26 @@
+{
+  "id": 433725,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-30T21:29:36.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #433725. I'm a Aerobics Athlete  by day, and I like talking about how much I lift by night. I was voted most likely to work at NASA in college. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "433681@4",
+  "sire": "416856@4",
+  "children": [
+    "433817@6",
+    "768114@6",
+    "768303@6",
+    "769422@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7306,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

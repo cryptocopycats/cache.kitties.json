@@ -1,0 +1,28 @@
+{
+  "id": 432739,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-30T15:21:51.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! Kitty #432739 here. I'm here to enjoy watching Stranger Things and taking selfies. My secret indulgence is apple pie. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "420102@2",
+  "sire": "418590@2",
+  "children": [
+    "446754@4",
+    "449458@4",
+    "464485@4",
+    "466214@8",
+    "466614@6",
+    "467045@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1233,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

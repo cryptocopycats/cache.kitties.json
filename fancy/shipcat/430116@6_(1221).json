@@ -1,0 +1,25 @@
+{
+  "id": 430116,
+  "name": "I'm on a boat!",
+  "generation": 6,
+  "created_at": "2017-12-29T21:41:03.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Sup playa! I'm I'm on a boat!. My friends describe me as wondrous and gorgeous. When no one's home, I invite my pals over and we listen to Wutang. Can you make my fabulous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "424999@5",
+  "sire": "418145@5",
+  "children": [
+    "431244@7",
+    "435082@8",
+    "452261@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1221,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

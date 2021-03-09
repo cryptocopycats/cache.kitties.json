@@ -1,0 +1,23 @@
+{
+  "id": 431687,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-30T07:27:23.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm Kitty #431687. I enjoy reading garfield, eating until I loathe myself, and licking doorknobs. I once got in a fight with a rabbit, and won. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "413921@8",
+  "sire": "414661@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7262,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 433817,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-30T22:03:37.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #433817. I want to live in a world where people believe that one day cats will rule this planet. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "433725@5",
+  "sire": "424849@2",
+  "children": [
+    "443734@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7309,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

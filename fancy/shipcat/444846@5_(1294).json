@@ -1,0 +1,23 @@
+{
+  "id": 444846,
+  "name": "Popeye",
+  "generation": 5,
+  "created_at": "2018-01-02T10:54:56.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm Popeye. I'm a professional Foreign Film Director and I love cereal. I would give it all up to be on Oprah. I look forward to staying woke with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "436919@4",
+  "sire": "435177@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1294,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

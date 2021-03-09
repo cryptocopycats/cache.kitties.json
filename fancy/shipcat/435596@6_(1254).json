@@ -1,0 +1,31 @@
+{
+  "id": 435596,
+  "name": "Ship #1",
+  "generation": 6,
+  "created_at": "2017-12-31T07:24:19.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Ship #1. All you need to know about me is I hate cantaloupe with a passion. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "419551@3",
+  "sire": "412032@5",
+  "children": [
+    "441626@7",
+    "449564@7",
+    "492137@7",
+    "492346@7",
+    "492781@7",
+    "523070@20",
+    "541189@7",
+    "558378@7",
+    "558703@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1254,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

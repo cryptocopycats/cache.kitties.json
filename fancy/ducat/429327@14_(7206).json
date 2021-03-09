@@ -1,0 +1,23 @@
+{
+  "id": 429327,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-29T17:20:46.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm Kitty #429327. My friends describe me as gorgeous and brilliant. I was voted most likely to work at NASA in college. I hope we can be vegan friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "412921@13",
+  "sire": "413364@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7206,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

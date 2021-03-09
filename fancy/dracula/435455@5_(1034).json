@@ -1,0 +1,23 @@
+{
+  "id": 435455,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-31T06:26:20.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #435455. I want to live in a world where people believe that one day cats will rule this planet. I was voted most likely to work at NASA in college. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "426614@4",
+  "sire": "279564@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1034,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

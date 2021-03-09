@@ -1,0 +1,24 @@
+{
+  "id": 440705,
+  "name": "Owl-Kitty",
+  "generation": 5,
+  "created_at": "2018-01-01T12:33:58.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Owl-Kitty. I've never told anyone this, but I once bit a dog. I once made a dog jump. Can you make my prickly dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "435404@4",
+  "sire": "424109@4",
+  "children": [
+    "441366@6",
+    "445154@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7429,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

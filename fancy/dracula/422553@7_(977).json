@@ -1,0 +1,23 @@
+{
+  "id": 422553,
+  "name": "Undead Kitten",
+  "generation": 7,
+  "created_at": "2017-12-28T14:04:26.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Undead Kitten. I'm a Aerobics Athlete  by day, and I like siring for status by night. Some people say I'm the Cersei Lannister of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "415808@6",
+  "sire": "402058@6",
+  "children": [
+    "443358@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 977,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

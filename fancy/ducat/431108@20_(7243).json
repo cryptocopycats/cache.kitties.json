@@ -1,0 +1,23 @@
+{
+  "id": 431108,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-30T03:08:05.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #431108. I enjoy watching Stranger Things, spinning sick beats, and staying woke. I once got in a fight with a gecko, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "416808@19",
+  "sire": "394889@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7243,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

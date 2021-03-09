@@ -1,0 +1,23 @@
+{
+  "id": 435926,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-31T09:40:49.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #435926. I'm often referred to as the Cersei Lannister of the group. I was voted biggest teacher's pet in college. Will you be the pickles to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "415302@6",
+  "sire": "307132@6",
+  "children": [
+    "545640@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1257,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

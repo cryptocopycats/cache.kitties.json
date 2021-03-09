@@ -1,0 +1,23 @@
+{
+  "id": 434354,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-31T00:30:46.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good morning! I'm Kitty #434354. My friends describe me as wondrous and gorgeous. I once pranced with a gecko. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431019@9",
+  "sire": "361442@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7314,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 451880,
+  "name": null,
+  "generation": 14,
+  "created_at": "2018-01-06T03:37:26.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #451880. My friends describe me as ridiculous and prickly. I once made a rhino scare. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "241374@13",
+  "sire": "206807@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7566,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

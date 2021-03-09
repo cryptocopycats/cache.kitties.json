@@ -1,0 +1,23 @@
+{
+  "id": 439016,
+  "name": null,
+  "generation": 9,
+  "created_at": "2018-01-01T03:35:02.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Kitty #439016. I've never told anyone this, but I once headbutted a dog. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "423262@5",
+  "sire": "309934@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7410,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

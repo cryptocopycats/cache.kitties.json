@@ -1,0 +1,23 @@
+{
+  "id": 441066,
+  "name": "Lil' Alien",
+  "generation": 6,
+  "created_at": "2018-01-01T14:55:04.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Lil' Alien. All you need to know about me is I hate ice cream with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "440950@5",
+  "sire": "439895@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 19,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

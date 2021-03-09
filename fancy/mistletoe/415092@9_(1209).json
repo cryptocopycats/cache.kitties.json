@@ -1,0 +1,23 @@
+{
+  "id": 415092,
+  "name": "son of a bird",
+  "generation": 9,
+  "created_at": "2017-12-27T05:02:07.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm son of a bird. My friends describe me as prickly and fabulous. I once got in a fight with a chimpanzee, and won. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "366869@6",
+  "sire": "402947@8",
+  "children": [
+    "418216@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1209,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 415840,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-27T07:58:26.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "*waves*! I'm Kitty #415840. I'm a Train Conductor by day, and I like tricking babies by night. I once got in a fight with a goose, and won. I look forward to watching Stranger Things with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "358945@3",
+  "sire": "390111@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1215,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

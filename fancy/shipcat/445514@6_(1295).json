@@ -1,0 +1,23 @@
+{
+  "id": 445514,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-02T15:49:41.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #445514. I'm a Foreign Film Director by day, and I like swiping right by night. I put cinammon on everything. Like, everything: hot dogs, hamburgers—everything! Our friendship will be vegan, prickly, and full of ice cream.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "440458@5",
+  "sire": "372637@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1295,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

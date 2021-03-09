@@ -1,0 +1,23 @@
+{
+  "id": 416319,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-27T10:16:36.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #416319. I'm a professional Foreign Film Director and I love ice cream. I once dreamed of being a Dispensary Clerk. Now I can be found braiding people's hair all day. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "309121@21",
+  "sire": "393184@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7044,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

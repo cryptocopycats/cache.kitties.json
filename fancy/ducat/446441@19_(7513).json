@@ -1,0 +1,24 @@
+{
+  "id": 446441,
+  "name": null,
+  "generation": 19,
+  "created_at": "2018-01-02T22:02:31.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #446441. I'm often referred to as the Ross Geller of the group. My friends describe me as \"voluptuous.\" It's... accurate. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "430968@8",
+  "sire": "425495@18",
+  "children": [
+    "448624@20",
+    "476977@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7513,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 423540,
+  "name": "Santa's back!",
+  "generation": 6,
+  "created_at": "2017-12-28T18:18:19.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Santa's back!. I believe that one day cats will rule this planet. I would give it all up for a Chanel purse. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "423401@5",
+  "sire": "419397@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 373,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

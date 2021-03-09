@@ -1,0 +1,30 @@
+{
+  "id": 415294,
+  "name": "❄ Fancy Elf ❄",
+  "generation": 9,
+  "created_at": "2017-12-27T05:57:13.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Shalom! I'm ❄ Fancy Elf ❄. I want to live in a world where people believe the world is flat. I once dreamed of being a Dogwalker. Now I can be found summoning ghosts all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "413341@4",
+  "sire": "332643@8",
+  "children": [
+    "415685@10",
+    "416982@16",
+    "417799@10",
+    "418562@10",
+    "420438@10",
+    "427455@10",
+    "441621@10",
+    "545691@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1212,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

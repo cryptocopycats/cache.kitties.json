@@ -1,0 +1,23 @@
+{
+  "id": 450171,
+  "name": null,
+  "generation": 17,
+  "created_at": "2018-01-04T14:18:39.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm Kitty #450171. I'm a professional Mad Scientist and I love ice cream. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "413708@16",
+  "sire": "442562@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1345,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

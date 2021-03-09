@@ -1,0 +1,29 @@
+{
+  "id": 438998,
+  "name": "#471",
+  "generation": 14,
+  "created_at": "2018-01-01T03:30:01.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm #471. I'm a professional Aerobics Athlete  and I love ice cream. I once made a labradoodle pester. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "434321@13",
+  "sire": "428344@13",
+  "children": [
+    "440557@15",
+    "454254@15",
+    "465282@15",
+    "471282@15",
+    "478953@15",
+    "486172@15",
+    "546587@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 471,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

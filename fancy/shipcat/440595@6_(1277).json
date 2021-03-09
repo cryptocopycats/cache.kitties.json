@@ -1,0 +1,23 @@
+{
+  "id": 440595,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-01T11:45:03.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Kitty #440595. I'm a professional Skydiving Instructor and I love ice cream. My secret indulgence is lasagna. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "440458@5",
+  "sire": "371532@5",
+  "children": [
+    "441962@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1277,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

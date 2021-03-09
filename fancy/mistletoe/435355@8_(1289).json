@@ -1,0 +1,24 @@
+{
+  "id": 435355,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-31T05:51:41.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good day! I'm Kitty #435355. I enjoy reciting poetry, grooming, and glaring at the neighbour's cat. I once dreamed of being a Dispensary Clerk. Now I can be found running a podcast all day. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "378433@5",
+  "sire": "258238@7",
+  "children": [
+    "435733@9",
+    "444198@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1289,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

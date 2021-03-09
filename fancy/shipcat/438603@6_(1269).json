@@ -1,0 +1,24 @@
+{
+  "id": 438603,
+  "name": "Shipcat ! Fancy!",
+  "generation": 6,
+  "created_at": "2018-01-01T01:22:44.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Shipcat ! Fancy!. All you need to know about me is I hate apple pie with a passion. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "383064@4",
+  "sire": "425806@5",
+  "children": [
+    "441684@7",
+    "441962@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1269,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

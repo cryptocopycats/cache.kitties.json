@@ -1,0 +1,23 @@
+{
+  "id": 430727,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-30T01:00:37.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Oh hi! I'm Kitty #430727. In high school, I was voted most likely to work at NASA. I once made a gecko pester. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "412921@13",
+  "sire": "413364@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7230,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

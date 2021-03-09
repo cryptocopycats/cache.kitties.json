@@ -1,0 +1,23 @@
+{
+  "id": 442247,
+  "name": "Sailor-o-nomo",
+  "generation": 7,
+  "created_at": "2018-01-01T21:01:59.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! Sailor-o-nomo here. I'm here to enjoy sweating through my feet and grooming. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "396478@5",
+  "sire": "377243@6",
+  "children": [
+    "442630@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1286,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

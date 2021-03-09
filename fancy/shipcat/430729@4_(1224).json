@@ -1,0 +1,24 @@
+{
+  "id": 430729,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-30T01:00:37.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Aloha! Kitty #430729 here. I'm here to enjoy breakdancing and spinning sick beats. In my free time, I can usually be found prickly or reading Danielle Steele. Our friendship will be fabulous, gorgeous, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "362348@3",
+  "sire": "130549@3",
+  "children": [
+    "431811@5",
+    "553551@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1224,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

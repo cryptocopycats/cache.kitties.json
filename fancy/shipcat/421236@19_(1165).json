@@ -1,0 +1,23 @@
+{
+  "id": 421236,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-28T08:02:01.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! My name's Kitty #421236. I once peed on Marie Antoinette's cat. They had it coming. Some people say I'm the Hermione Granger of the group. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "280364@18",
+  "sire": "183648@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1165,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

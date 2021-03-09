@@ -1,0 +1,25 @@
+{
+  "id": 422749,
+  "name": "🚢 Saylor",
+  "generation": 7,
+  "created_at": "2017-12-28T15:05:15.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "What's up! I'm 🚢 Saylor. In high school, I was voted most likely to work at NASA. Sometimes I daydream of a life full of riding unicorns, hamburgers, and playing chess. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "412559@6",
+  "sire": "418358@6",
+  "children": [
+    "422887@8",
+    "423476@8",
+    "423786@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1175,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,29 @@
+{
+  "id": 427060,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-29T06:28:24.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm Kitty #427060. I believe that one day cats will rule this planet. I once tricked a moose. I don't like to talk about it. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "426614@4",
+  "sire": "279564@4",
+  "children": [
+    "495302@18",
+    "495471@6",
+    "495675@6",
+    "505473@6",
+    "506051@6",
+    "511250@6",
+    "514350@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 990,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

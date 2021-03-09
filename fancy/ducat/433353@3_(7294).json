@@ -1,0 +1,24 @@
+{
+  "id": 433353,
+  "name": "DuCat",
+  "generation": 3,
+  "created_at": "2017-12-30T19:15:54.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! DuCat here. I'm here to enjoy taking selfies and sitting on your computer. I am 39% fairy, 27% Skydiving Instructor, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "428802@2",
+  "sire": "349155@2",
+  "children": [
+    "433440@5",
+    "434211@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7294,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

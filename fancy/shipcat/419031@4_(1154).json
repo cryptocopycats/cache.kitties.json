@@ -1,0 +1,23 @@
+{
+  "id": 419031,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-27T23:51:03.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "*hissing noises*! Kitty #419031 here. I'm here to enjoy chasing red dots and fighting for the people. When I'm not siring for status, I'm summoning ghosts! Can't wait to eat chocolate with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "369177@3",
+  "sire": "379238@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1154,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

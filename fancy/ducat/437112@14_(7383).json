@@ -1,0 +1,23 @@
+{
+  "id": 437112,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-31T17:40:53.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! Kitty #437112 here. I'm here to enjoy glaring at the neighbour's cat and tricking babies. When no one's home, I invite my pals over and we listen to Aretha Franklin. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "360156@11",
+  "sire": "392024@13",
+  "children": [
+    "441396@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7383,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

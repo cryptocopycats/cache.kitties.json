@@ -1,0 +1,33 @@
+{
+  "id": 414628,
+  "name": "Jaguar - Cryptonaut.org",
+  "generation": 5,
+  "created_at": "2017-12-27T02:54:23.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Jaguar - Cryptonaut.org. I believe that one day cats will rule this planet. In my free time, I can usually be found smelly or people-watching. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "249375@4",
+  "sire": "345449@4",
+  "children": [
+    "414833@6",
+    "419724@6",
+    "422766@7",
+    "426669@6",
+    "452644@6",
+    "479639@17",
+    "486640@24",
+    "489497@6",
+    "503668@6",
+    "517987@7",
+    "537363@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7017,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

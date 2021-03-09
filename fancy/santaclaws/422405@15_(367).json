@@ -1,0 +1,24 @@
+{
+  "id": 422405,
+  "name": "SANTAFE",
+  "generation": 15,
+  "created_at": "2017-12-28T13:22:57.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Uh, hi! I'm SANTAFE. I enjoy being a nevernude, taking selfies, and reciting poetry. It's not common knowledge, but my ancestry connects me to Martin Luther King Jr.. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "409484@14",
+  "sire": "306860@7",
+  "children": [
+    "427044@16",
+    "433646@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 367,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

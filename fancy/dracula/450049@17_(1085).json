@@ -1,0 +1,25 @@
+{
+  "id": 450049,
+  "name": "Savage",
+  "generation": 17,
+  "created_at": "2018-01-04T12:33:38.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm Savage. I enjoy watching Stranger Things, fighting the patriarchy, and staying woke. I'm often described as fabulous, and I own it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "434720@16",
+  "sire": "412955@15",
+  "children": [
+    "475838@18",
+    "502903@18",
+    "636120@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1085,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

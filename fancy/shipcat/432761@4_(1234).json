@@ -1,0 +1,23 @@
+{
+  "id": 432761,
+  "name": "ShipCat #1,234/2,000",
+  "generation": 4,
+  "created_at": "2017-12-30T15:27:23.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm ShipCat #1,234/2,000. I'm a Dogwalker by day, and I like reading Danielle Steele by night. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "422215@3",
+  "sire": "421528@3",
+  "children": [
+    "447174@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1234,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

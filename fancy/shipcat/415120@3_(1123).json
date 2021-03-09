@@ -1,0 +1,25 @@
+{
+  "id": 415120,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-27T05:09:47.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! My name's Kitty #415120. I once peed on Amelia Earhart's cat. They had it coming. I'm often described as gullible, and I own it. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "374908@2",
+  "sire": "358951@1",
+  "children": [
+    "415329@4",
+    "431296@7",
+    "431488@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1123,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 440551,
+  "name": null,
+  "generation": 3,
+  "created_at": "2018-01-01T11:27:11.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #440551. I've never told anyone this, but I once frolicked with a dog. I once made a dog kiss. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "416640@2",
+  "sire": "404333@2",
+  "children": [
+    "441747@4",
+    "441899@4",
+    "456388@4",
+    "459215@4",
+    "460106@4",
+    "517055@4",
+    "519353@4",
+    "520543@4",
+    "522773@4",
+    "549177@4",
+    "551621@4"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1307,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

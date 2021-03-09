@@ -1,0 +1,27 @@
+{
+  "id": 426573,
+  "name": "elk bird 4x44 #7,170",
+  "generation": 6,
+  "created_at": "2017-12-29T04:37:18.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm elk bird 4x44 #7,170. I'm a professional Dogwalker and I love apple pie. Some people say I'm the Jon Snow of the group. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "426089@5",
+  "sire": "425565@5",
+  "children": [
+    "427482@7",
+    "429565@7",
+    "541159@7",
+    "548972@7",
+    "559090@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7170,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

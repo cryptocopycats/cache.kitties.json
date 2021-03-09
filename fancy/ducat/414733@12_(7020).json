@@ -1,0 +1,23 @@
+{
+  "id": 414733,
+  "name": null,
+  "generation": 12,
+  "created_at": "2017-12-27T03:23:30.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #414733. I'm often referred to as the Marge Simpson of the group. Some people say I'm the Marge Simpson of the group. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "141640@9",
+  "sire": "410396@11",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7020,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

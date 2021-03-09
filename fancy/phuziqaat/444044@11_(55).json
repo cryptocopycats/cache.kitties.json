@@ -1,0 +1,24 @@
+{
+  "id": 444044,
+  "name": "Saucer Cat!",
+  "generation": 11,
+  "created_at": "2018-01-02T06:06:15.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! I'm Saucer Cat!. I've never told anyone this, but I once cleaned a dog. I once dreamed of being a Spin Instructor . Now I can be found braiding people's hair all day. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "443503@10",
+  "sire": "438877@8",
+  "children": [
+    "444796@12",
+    "444854@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 55,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

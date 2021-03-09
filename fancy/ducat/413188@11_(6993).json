@@ -1,0 +1,26 @@
+{
+  "id": 413188,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-26T20:12:21.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #413188. I'm a professional Dogwalker and I love ice cream. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "204931@5",
+  "sire": "386411@10",
+  "children": [
+    "414030@12",
+    "470400@14",
+    "516448@14",
+    "875551@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6993,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 434812,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-31T03:01:44.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #434812. I'm a Aerobics Athlete  by day, and I like siring for status by night. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "370400@4",
+  "sire": "350210@4",
+  "children": [
+    "453194@10",
+    "715875@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1286,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

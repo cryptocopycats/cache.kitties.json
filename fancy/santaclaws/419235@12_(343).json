@@ -1,0 +1,27 @@
+{
+  "id": 419235,
+  "name": "Santa Meaw",
+  "generation": 12,
+  "created_at": "2017-12-28T00:29:13.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ugh! I'm Santa Meaw. I'm a professional Foreign Film Director and I love wet food. I'm convinced that that one day cats will rule this planet. One day I'll prove it. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "410672@11",
+  "sire": "418725@11",
+  "children": [
+    "420260@13",
+    "421974@13",
+    "424116@13",
+    "429788@13",
+    "547698@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 343,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

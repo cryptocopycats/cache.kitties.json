@@ -1,0 +1,24 @@
+{
+  "id": 436803,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 5,
+  "created_at": "2017-12-31T15:50:49.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm RARE BIRD! Fancy!. In high school, I was voted school jock. I'm often described as hairy, and I own it. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "435883@4",
+  "sire": "421111@4",
+  "children": [
+    "459903@11",
+    "465799@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7375,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

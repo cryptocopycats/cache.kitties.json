@@ -1,0 +1,24 @@
+{
+  "id": 452372,
+  "name": "Made from 2 Fancy cats",
+  "generation": 8,
+  "created_at": "2018-01-06T12:17:32.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! My name's Made from 2 Fancy cats. I once peed on Mother Theresa's cat. They had it coming. I put peanut butter on everything. Like, everything: hot dogs, lasagna—everything! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "354341@7",
+  "sire": "433459@5",
+  "children": [
+    "453447@9",
+    "1105979@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7568,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

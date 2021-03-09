@@ -1,0 +1,24 @@
+{
+  "id": 424057,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-28T19:59:53.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #424057. I'm often referred to as the Homer Simpson of the group. I am 40% fairy, 92% Foreign Film Director, and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "423573@11",
+  "sire": "375272@13",
+  "children": [
+    "435798@15",
+    "457593@22"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7145,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

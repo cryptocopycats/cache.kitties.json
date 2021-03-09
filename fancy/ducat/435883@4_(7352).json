@@ -1,0 +1,33 @@
+{
+  "id": 435883,
+  "name": "7352 ducat with 10 ducat babie",
+  "generation": 4,
+  "created_at": "2017-12-31T09:14:07.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm 7352 ducat with 10 ducat babie. I've never told anyone this, but I once pawed at a dog. I like to listen to Metallica while grooming. Don't judge me. I look forward to slappin' da bass with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "362524@3",
+  "sire": "383129@3",
+  "children": [
+    "436118@5",
+    "436497@5",
+    "436803@5",
+    "438628@5",
+    "444437@5",
+    "462226@5",
+    "464703@5",
+    "479247@5",
+    "484434@5",
+    "496946@5",
+    "560980@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7352,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

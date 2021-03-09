@@ -1,0 +1,26 @@
+{
+  "id": 414061,
+  "name": "Captain Cook",
+  "generation": 2,
+  "created_at": "2017-12-27T00:26:20.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Captain Cook. I believe the world is flat. I'm convinced that the world is flat. One day I'll prove it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "335471@1",
+  "sire": "403841@1",
+  "children": [
+    "432208@3",
+    "432510@3",
+    "456604@3",
+    "466857@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1117,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

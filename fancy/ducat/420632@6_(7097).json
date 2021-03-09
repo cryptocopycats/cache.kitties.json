@@ -1,0 +1,23 @@
+{
+  "id": 420632,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-28T05:23:50.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #420632. My friends describe me as seductive and preposterous. Sometimes I daydream of a life full of spinning sick beats, hamburgers, and volunteering at the local kitten rescue shelter. Can you make my hairy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "319683@5",
+  "sire": "352470@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7097,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 448082,
+  "name": null,
+  "generation": 12,
+  "created_at": "2018-01-03T09:04:55.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! I'm Kitty #448082. All you need to know about me is I hate cereal with a passion. My friends describe me as \"preposterous.\" It's... accurate. Can you make my preposterous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "426634@7",
+  "sire": "407643@11",
+  "children": [
+    "451284@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1299,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

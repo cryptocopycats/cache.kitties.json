@@ -1,0 +1,23 @@
+{
+  "id": 432784,
+  "name": "Donald Tac",
+  "generation": 8,
+  "created_at": "2017-12-30T15:35:36.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Donald Tac. All you need to know about me is I hate cereal with a passion. In my free time, I can usually be found voluptuous or reading Danielle Steele. Will you be the peanut butter to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "430336@7",
+  "sire": "305959@7",
+  "children": [
+    "433267@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7281,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

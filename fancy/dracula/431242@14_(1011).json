@@ -1,0 +1,25 @@
+{
+  "id": 431242,
+  "name": "Vampkittypurchase",
+  "generation": 14,
+  "created_at": "2017-12-30T04:07:48.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Vampkittypurchase. All you need to know about me is I hate lasagna with a passion. I once got in a fight with a dolphin, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "400670@10",
+  "sire": "395883@13",
+  "children": [
+    "435634@15",
+    "437345@15",
+    "443268@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1011,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

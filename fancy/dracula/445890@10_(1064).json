@@ -1,0 +1,28 @@
+{
+  "id": 445890,
+  "name": "Dracula",
+  "generation": 10,
+  "created_at": "2018-01-02T18:42:57.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Dracula. In high school, I was voted most likely to work at NASA. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "429554@9",
+  "sire": "411852@9",
+  "children": [
+    "540274@11",
+    "547082@11",
+    "548080@11",
+    "556922@11",
+    "558706@14",
+    "576853@11"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1064,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

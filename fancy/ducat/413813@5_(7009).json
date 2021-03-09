@@ -1,0 +1,25 @@
+{
+  "id": 413813,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-26T23:29:22.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #413813. I'm a professional Foreign Film Director and I love salad. I'm often described as prickly, and I own it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "408902@4",
+  "sire": "395199@4",
+  "children": [
+    "413959@10",
+    "414561@12",
+    "415157@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7009,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

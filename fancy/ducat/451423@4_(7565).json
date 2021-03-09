@@ -1,0 +1,23 @@
+{
+  "id": 451423,
+  "name": null,
+  "generation": 4,
+  "created_at": "2018-01-05T18:13:43.000Z",
+  "birthday": "2018-01-05T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*hissing noises*! I'm Kitty #451423. I'm often referred to as the Dwight Schrute of the group. I put soy sauce on everything. Like, everything: hot dogs, chocolate—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "417505@3",
+  "sire": "389977@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7565,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

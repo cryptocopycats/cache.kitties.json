@@ -1,0 +1,23 @@
+{
+  "id": 420840,
+  "name": "Kiki",
+  "generation": 21,
+  "created_at": "2017-12-28T06:16:56.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kiki. I enjoy tripping my owner, riding unicorns, and shakin' dat booty. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Can't wait to eat apple pie with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "53039@18",
+  "sire": "194119@20",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7100,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

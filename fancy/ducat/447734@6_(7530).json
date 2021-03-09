@@ -1,0 +1,23 @@
+{
+  "id": 447734,
+  "name": "Fancy Duck Cat Gen 6",
+  "generation": 6,
+  "created_at": "2018-01-03T06:27:04.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! My name's Fancy Duck Cat Gen 6. I once peed on Amelia Earhart's cat. They had it coming. I once made a goose dance. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "422057@5",
+  "sire": "406869@2",
+  "children": [
+    "448103@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7530,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 427154,
+  "name": "Santa X",
+  "generation": 13,
+  "created_at": "2017-12-29T06:49:49.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm Santa X. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "408102@12",
+  "sire": "405727@12",
+  "children": [
+    "500435@18",
+    "539540@14",
+    "552529@14",
+    "555592@14",
+    "600063@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 389,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

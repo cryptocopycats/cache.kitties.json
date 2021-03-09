@@ -1,0 +1,24 @@
+{
+  "id": 420511,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-28T04:54:24.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Aloha! I'm Kitty #420511. In high school, I was voted biggest teacher's pet. I am 38% fairy, 76% Private Dancer , and otherwise bad at math. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "396571@9",
+  "sire": "409557@9",
+  "children": [
+    "432454@11",
+    "433464@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1245,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

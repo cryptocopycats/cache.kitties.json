@@ -1,0 +1,24 @@
+{
+  "id": 436532,
+  "name": "ccc s-s d-d bb",
+  "generation": 13,
+  "created_at": "2017-12-31T13:48:47.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm ccc s-s d-d bb. I've never told anyone this, but I once clawed a dog. I like to listen to Wutang while grooming. Don't judge me. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "427412@12",
+  "sire": "425846@12",
+  "children": [
+    "440524@14",
+    "445494@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 461,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

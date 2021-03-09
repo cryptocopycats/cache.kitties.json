@@ -1,0 +1,25 @@
+{
+  "id": 424033,
+  "name": "Popeye",
+  "generation": 5,
+  "created_at": "2017-12-28T19:56:36.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! Popeye here. I'm here to enjoy being a nevernude and reciting poetry. I put maple syrup on everything. Like, everything: hot dogs, apple pie—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "412823@4",
+  "sire": "418689@4",
+  "children": [
+    "429498@6",
+    "432343@7",
+    "435938@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1186,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

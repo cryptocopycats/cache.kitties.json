@@ -1,0 +1,23 @@
+{
+  "id": 442392,
+  "name": null,
+  "generation": 18,
+  "created_at": "2018-01-01T21:47:07.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Kitty #442392. All you need to know about me is I hate steak with a passion. My secret indulgence is wet food. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "263592@17",
+  "sire": "408406@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1287,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

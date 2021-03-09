@@ -1,0 +1,26 @@
+{
+  "id": 434076,
+  "name": "Sailor Joe!",
+  "generation": 6,
+  "created_at": "2017-12-30T23:14:38.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Sailor Joe!. I believe the world is flat. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I look forward to eating until I loathe myself with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "423699@5",
+  "sire": "330851@5",
+  "children": [
+    "434145@8",
+    "435881@7",
+    "463662@19",
+    "467832@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1240,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

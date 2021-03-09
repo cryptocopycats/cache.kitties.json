@@ -1,0 +1,23 @@
+{
+  "id": 432184,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-30T11:09:43.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #432184. I'm a professional Train Conductor and I love lasagna. I was voted school jock in college. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "349679@2",
+  "sire": "351000@8",
+  "children": [
+    "432394@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7271,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

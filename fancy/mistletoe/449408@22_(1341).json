@@ -1,0 +1,23 @@
+{
+  "id": 449408,
+  "name": null,
+  "generation": 22,
+  "created_at": "2018-01-04T05:14:00.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Kitty #449408. In high school, I was voted biggest teacher's pet. I like to listen to Metallica while grooming. Don't judge me. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "320585@21",
+  "sire": "319391@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1341,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

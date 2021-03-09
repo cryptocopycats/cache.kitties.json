@@ -1,0 +1,23 @@
+{
+  "id": 442848,
+  "name": "RARE FANCY KITTIE",
+  "generation": 17,
+  "created_at": "2018-01-01T23:48:55.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Ciao! I'm RARE FANCY KITTIE. My friends describe me as ridiculous and stinky. It's not common knowledge, but my ancestry connects me to King Henry VIII. Will you be the ghost pepper hot sauce to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "409872@11",
+  "sire": "134866@16",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7461,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

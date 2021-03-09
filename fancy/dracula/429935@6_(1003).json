@@ -1,0 +1,32 @@
+{
+  "id": 429935,
+  "name": "dracbreeder2",
+  "generation": 6,
+  "created_at": "2017-12-29T20:35:06.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm dracbreeder2. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with King Henry VIII. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "273043@5",
+  "sire": "271649@5",
+  "children": [
+    "457846@7",
+    "460759@7",
+    "502138@7",
+    "514097@7",
+    "517282@7",
+    "520604@7",
+    "545003@7",
+    "554543@7",
+    "567754@7",
+    "583580@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1003,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 422929,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-28T15:50:07.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #422929. I've never told anyone this, but I once tricked a dog. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "422499@2",
+  "sire": "422014@13",
+  "children": [
+    "424795@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 978,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

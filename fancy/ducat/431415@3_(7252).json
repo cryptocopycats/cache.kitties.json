@@ -1,0 +1,32 @@
+{
+  "id": 431415,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-30T05:35:12.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! I'm Kitty #431415. I've never told anyone this, but I once snuggled a dog. When my owner isn't watching, I steal their oversized sweaters and use them for litter paper. I'm not sorry. Our friendship will be despicable, fabulous, and full of hamburgers.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "428616@2",
+  "sire": "115277@2",
+  "children": [
+    "444230@4",
+    "447290@4",
+    "456191@4",
+    "456933@4",
+    "461801@4",
+    "467629@4",
+    "468642@4",
+    "470445@4",
+    "471239@4",
+    "473257@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7252,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

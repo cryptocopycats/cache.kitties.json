@@ -1,0 +1,23 @@
+{
+  "id": 448520,
+  "name": "Splot",
+  "generation": 7,
+  "created_at": "2018-01-03T13:47:20.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Splot. My friends describe me as wondrous and petulant. When I'm not playing chess, I'm sleeping in fresh laundry! Our friendship will be wondrous, petulant, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "447290@4",
+  "sire": "448292@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7540,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

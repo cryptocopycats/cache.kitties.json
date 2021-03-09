@@ -1,0 +1,23 @@
+{
+  "id": 441918,
+  "name": "birdie",
+  "generation": 11,
+  "created_at": "2018-01-01T19:33:23.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! I'm birdie. I want to live in a world where people believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "435948@4",
+  "sire": "440604@10",
+  "children": [
+    "442013@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7445,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

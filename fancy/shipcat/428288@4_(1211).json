@@ -1,0 +1,31 @@
+{
+  "id": 428288,
+  "name": "ShipCat #1,211/2,000",
+  "generation": 4,
+  "created_at": "2017-12-29T11:49:34.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm ShipCat #1,211/2,000. I'm often referred to as the Bart Simpson of the group. I once frolicked with a dog. I don't like to talk about it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "423930@3",
+  "sire": "422150@3",
+  "children": [
+    "434207@5",
+    "807780@8",
+    "807796@10",
+    "807817@5",
+    "808436@9",
+    "810484@5",
+    "811703@118",
+    "812436@15",
+    "815950@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1211,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 417370,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-27T16:16:43.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! My name's Kitty #417370. I once peed on Mother Theresa's cat. They had it coming. I once got in a fight with a goose, and won. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "417283@6",
+  "sire": "417250@3",
+  "children": [
+    "419496@10",
+    "421171@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1135,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

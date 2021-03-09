@@ -1,0 +1,23 @@
+{
+  "id": 433261,
+  "name": null,
+  "generation": 24,
+  "created_at": "2017-12-30T18:42:17.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! I'm Kitty #433261. I've never told anyone this, but I once kissed a dog. It's not common knowledge, but my ancestry connects me to Marie Antoinette. Can you make my stinky dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "417598@23",
+  "sire": "370890@14",
+  "children": [
+    "450015@26"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7290,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

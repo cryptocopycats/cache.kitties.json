@@ -1,0 +1,26 @@
+{
+  "id": 432817,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-30T15:45:44.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #432817. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to Princess Diana. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "398976@1",
+  "sire": "316434@6",
+  "children": [
+    "432965@8",
+    "433248@8",
+    "444618@8",
+    "546019@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1269,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

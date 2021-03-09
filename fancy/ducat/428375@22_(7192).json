@@ -1,0 +1,23 @@
+{
+  "id": 428375,
+  "name": null,
+  "generation": 22,
+  "created_at": "2017-12-29T12:14:23.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! My name's Kitty #428375. I once peed on Confucius's cat. They had it coming. I once kissed a dog. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "351387@17",
+  "sire": "403185@21",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7192,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

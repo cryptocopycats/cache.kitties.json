@@ -1,0 +1,25 @@
+{
+  "id": 420132,
+  "name": "💎Shipcat💎",
+  "generation": 3,
+  "created_at": "2017-12-28T03:35:45.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm 💎Shipcat💎. I believe that one day cats will rule this planet. Some people say I'm the Hermione Granger of the group. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "408501@2",
+  "sire": "122968@2",
+  "children": [
+    "429408@4",
+    "429431@4",
+    "438888@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1158,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

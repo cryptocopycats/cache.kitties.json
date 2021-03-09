@@ -1,0 +1,24 @@
+{
+  "id": 418464,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-27T21:28:12.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #418464. I'm a Dispensary Clerk by day, and I like riding the bus by night. I would give it all up to star in a soap opera. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "412916@4",
+  "sire": "205429@5",
+  "children": [
+    "428519@7",
+    "574261@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 964,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

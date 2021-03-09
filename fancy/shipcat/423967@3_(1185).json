@@ -1,0 +1,24 @@
+{
+  "id": 423967,
+  "name": "Gen 3 | ShipCat",
+  "generation": 3,
+  "created_at": "2017-12-28T19:43:13.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Yo! I'm Gen 3 | ShipCat. I'm a Private Dancer  by day, and I like practicing witchcraft by night. I put peanut butter on everything. Like, everything: hot dogs, ice cream—everything! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "419172@2",
+  "sire": "375058@2",
+  "children": [
+    "430604@4",
+    "434444@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1185,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

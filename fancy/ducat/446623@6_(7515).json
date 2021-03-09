@@ -1,0 +1,24 @@
+{
+  "id": 446623,
+  "name": "Sexy Duck",
+  "generation": 6,
+  "created_at": "2018-01-02T22:55:24.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Sexy Duck. I believe the world is flat. I once snuggled a dolphin. I don't like to talk about it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431835@5",
+  "sire": "445656@5",
+  "children": [
+    "446895@7",
+    "451374@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7515,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

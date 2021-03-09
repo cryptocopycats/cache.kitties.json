@@ -1,0 +1,23 @@
+{
+  "id": 434624,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-31T02:05:10.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! I'm Kitty #434624. I'm often referred to as the Neville Longbottom of the group. I would give it all up for a Chanel purse. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "397430@2",
+  "sire": "408591@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7324,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

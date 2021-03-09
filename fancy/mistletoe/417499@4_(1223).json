@@ -1,0 +1,26 @@
+{
+  "id": 417499,
+  "name": "Walmart Greeter /",
+  "generation": 4,
+  "created_at": "2017-12-27T17:01:41.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! My name's Walmart Greeter /. I once peed on Cleopatra's cat. They had it coming. I was voted most likely to work at NASA in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "416493@3",
+  "sire": "416975@3",
+  "children": [
+    "417884@6",
+    "418001@5",
+    "418782@5",
+    "457225@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1223,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

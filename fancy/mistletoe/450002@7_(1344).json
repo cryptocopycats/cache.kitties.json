@@ -1,0 +1,23 @@
+{
+  "id": 450002,
+  "name": null,
+  "generation": 7,
+  "created_at": "2018-01-04T11:55:33.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! Kitty #450002 here. I'm here to enjoy watching Stranger Things and hitting on yo' man. I'm often described as stinky, and I own it. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "331741@6",
+  "sire": "445805@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1344,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

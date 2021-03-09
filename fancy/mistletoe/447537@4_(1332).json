@@ -1,0 +1,23 @@
+{
+  "id": 447537,
+  "name": null,
+  "generation": 4,
+  "created_at": "2018-01-03T04:37:31.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good day! I'm Kitty #447537. I'm a professional Culinary Sanitation Specialist and I love ice cream. When I'm not siring for status, I'm jump-roping! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "441607@3",
+  "sire": "443883@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1332,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

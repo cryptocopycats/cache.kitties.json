@@ -1,0 +1,33 @@
+{
+  "id": 417002,
+  "name": "Royal Handy Pants",
+  "generation": 8,
+  "created_at": "2017-12-27T14:13:56.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Royal Handy Pants. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Amelia Earhart. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "126804@7",
+  "sire": "413038@1",
+  "children": [
+    "417354@9",
+    "418463@9",
+    "418786@9",
+    "420732@9",
+    "422736@9",
+    "426807@9",
+    "430962@9",
+    "436513@9",
+    "466354@9",
+    "478407@9",
+    "491267@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7056,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

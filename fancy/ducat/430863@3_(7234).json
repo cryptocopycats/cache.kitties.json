@@ -1,0 +1,28 @@
+{
+  "id": 430863,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 3,
+  "created_at": "2017-12-30T01:48:07.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm RARE BIRD! Fancy!. I'm a Skydiving Instructor by day, and I like watching reality tv by night. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "428856@2",
+  "sire": "414266@2",
+  "children": [
+    "458716@4",
+    "461531@4",
+    "466461@4",
+    "467161@4",
+    "470839@4",
+    "486050@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7234,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

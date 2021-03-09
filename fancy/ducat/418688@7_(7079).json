@@ -1,0 +1,25 @@
+{
+  "id": 418688,
+  "name": "DIVYA",
+  "generation": 7,
+  "created_at": "2017-12-27T22:25:01.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Shalom! I'm DIVYA. I've never told anyone this, but I once licked a dog. Some people say I'm the Lisa Simpson of the group. I look forward to spinning sick beats with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "409606@6",
+  "sire": "384969@6",
+  "children": [
+    "421656@8",
+    "422285@8",
+    "433646@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7079,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

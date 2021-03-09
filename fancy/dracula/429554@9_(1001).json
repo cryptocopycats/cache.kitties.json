@@ -1,0 +1,31 @@
+{
+  "id": 429554,
+  "name": "1000 & ONE NIGHTS",
+  "generation": 9,
+  "created_at": "2017-12-29T18:35:03.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Mahalo! I'm 1000 & ONE NIGHTS. I'm a professional Foreign Film Director and I love lasagna. I was voted school jock in college. Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "413679@8",
+  "sire": "417583@8",
+  "children": [
+    "445890@10",
+    "457923@10",
+    "461860@10",
+    "510455@10",
+    "535075@10",
+    "547225@10",
+    "554991@10",
+    "567785@10",
+    "577813@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1001,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

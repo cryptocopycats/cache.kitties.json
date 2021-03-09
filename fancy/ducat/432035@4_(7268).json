@@ -1,0 +1,23 @@
+{
+  "id": 432035,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-30T10:09:19.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #432035. I believe the world is flat. I put maple syrup on everything. Like, everything: hot dogs, salad—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "427329@3",
+  "sire": "412642@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7268,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

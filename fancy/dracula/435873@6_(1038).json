@@ -1,0 +1,32 @@
+{
+  "id": 435873,
+  "name": "dracbreeder1",
+  "generation": 6,
+  "created_at": "2017-12-31T09:10:29.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm dracbreeder1. I enjoy spinning sick beats, slappin' da bass, and licking doorknobs. I would give it all up to star in a soap opera. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "372535@5",
+  "sire": "427820@5",
+  "children": [
+    "457846@7",
+    "460759@7",
+    "502138@7",
+    "514097@7",
+    "517282@7",
+    "520604@7",
+    "545003@7",
+    "554543@7",
+    "567754@7",
+    "583580@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1038,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

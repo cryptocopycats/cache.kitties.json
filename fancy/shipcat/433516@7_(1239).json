@@ -1,0 +1,24 @@
+{
+  "id": 433516,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-30T20:07:03.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*waves*! I'm Kitty #433516. I'm a Culinary Sanitation Specialist by day, and I like reading Danielle Steele by night. It's not common knowledge, but my ancestry connects me to Nelson Mandela. Will you be the cinammon to my soy sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "433457@6",
+  "sire": "424330@1",
+  "children": [
+    "442832@9",
+    "444851@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1239,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 438632,
+  "name": "Jazzy",
+  "generation": 5,
+  "created_at": "2018-01-01T01:37:47.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! Jazzy here. I'm here to enjoy riding dirty and chasing string. When I'm not summoning ghosts, I'm watching reality tv! Can't wait to eat steak with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "240721@4",
+  "sire": "6108@3",
+  "children": [
+    "473809@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7403,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

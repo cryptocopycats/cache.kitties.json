@@ -1,0 +1,24 @@
+{
+  "id": 441762,
+  "name": "Ducat",
+  "generation": 6,
+  "created_at": "2018-01-01T18:48:58.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Ducat. I'm a professional Foreign Film Director and I love salad. In my free time, I can usually be found brilliant or practicing witchcraft. Our friendship will be fabulous, stinky, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "268656@5",
+  "sire": "33415@5",
+  "children": [
+    "445977@7",
+    "1374077@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7439,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

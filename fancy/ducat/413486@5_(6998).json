@@ -1,0 +1,24 @@
+{
+  "id": 413486,
+  "name": "Madam Bak Bak Kitty",
+  "generation": 5,
+  "created_at": "2017-12-26T21:48:51.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm Madam Bak Bak Kitty. I'm a Private Dancer  by day, and I like reading Danielle Steele by night. My great-great-great-great-great-great grandkitty lived with Mother Theresa. I look forward to slappin' da bass with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "401265@4",
+  "sire": "329417@4",
+  "children": [
+    "415056@6",
+    "416946@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 6998,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

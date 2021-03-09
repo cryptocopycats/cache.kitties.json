@@ -1,0 +1,25 @@
+{
+  "id": 419995,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-28T03:03:11.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! I'm Kitty #419995. I've never told anyone this, but I once licked a dog. My friends describe me as \"smelly.\" It's... accurate. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "412468@2",
+  "sire": "363927@2",
+  "children": [
+    "425337@11",
+    "425523@5",
+    "428787@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1244,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

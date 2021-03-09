@@ -1,0 +1,23 @@
+{
+  "id": 452733,
+  "name": null,
+  "generation": 23,
+  "created_at": "2018-01-06T17:32:47.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! My name's Kitty #452733. I once peed on Marie Antoinette's cat. They had it coming. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "401017@6",
+  "sire": "239061@22",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7570,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

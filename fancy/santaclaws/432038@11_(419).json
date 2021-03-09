@@ -1,0 +1,30 @@
+{
+  "id": 432038,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-30T10:09:34.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #432038. My friends describe me as smelly and brilliant. I once got in a fight with a labradoodle, and won. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "426953@10",
+  "sire": "321358@8",
+  "children": [
+    "440055@12",
+    "501382@13",
+    "521250@13",
+    "533725@12",
+    "543409@12",
+    "565282@12",
+    "595779@12",
+    "636976@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 419,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

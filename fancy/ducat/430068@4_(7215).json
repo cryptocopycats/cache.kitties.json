@@ -1,0 +1,32 @@
+{
+  "id": 430068,
+  "name": "DuCat Super Pure #7215 / 10000",
+  "generation": 4,
+  "created_at": "2017-12-29T21:22:43.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's DuCat Super Pure #7215 / 10000. I once peed on Cleopatra's cat. They had it coming. I would give it all up for a Chanel purse. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "426936@3",
+  "sire": "390664@3",
+  "children": [
+    "430093@5",
+    "430274@5",
+    "432233@5",
+    "433690@5",
+    "435407@5",
+    "436494@5",
+    "441175@5",
+    "448903@5",
+    "547709@6",
+    "1106373@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7215,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

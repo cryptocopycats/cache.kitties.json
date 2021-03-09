@@ -1,0 +1,25 @@
+{
+  "id": 441301,
+  "name": "DuCat",
+  "generation": 3,
+  "created_at": "2018-01-01T16:22:24.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm DuCat. I want to live in a world where people believe the world is flat. I once got in a fight with a dolphin, and won. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "426544@1",
+  "sire": "267867@2",
+  "children": [
+    "447373@7",
+    "490521@4",
+    "498133@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7434,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

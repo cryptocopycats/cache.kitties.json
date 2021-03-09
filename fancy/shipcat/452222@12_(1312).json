@@ -1,0 +1,23 @@
+{
+  "id": 452222,
+  "name": "Shipcat #1312",
+  "generation": 12,
+  "created_at": "2018-01-06T10:16:12.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Shipcat #1312. I'm a Aerobics Athlete  by day, and I like riding the bus by night. I would give it all up to star in a soap opera. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "451976@11",
+  "sire": "371041@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1312,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

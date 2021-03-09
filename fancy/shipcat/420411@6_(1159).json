@@ -1,0 +1,32 @@
+{
+  "id": 420411,
+  "name": "Rare ShipCAt",
+  "generation": 6,
+  "created_at": "2017-12-28T04:32:28.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Rare ShipCAt. I've never told anyone this, but I once tricked a dog. I put marmite on everything. Like, everything: hot dogs, steak—everything! Can you make my vegan dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "407122@5",
+  "sire": "386368@5",
+  "children": [
+    "422755@7",
+    "422997@7",
+    "423777@7",
+    "424378@7",
+    "428424@7",
+    "431160@7",
+    "434260@7",
+    "441825@7",
+    "449564@7",
+    "470994@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1159,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

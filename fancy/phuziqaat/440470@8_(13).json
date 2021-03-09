@@ -1,0 +1,23 @@
+{
+  "id": 440470,
+  "name": null,
+  "generation": 8,
+  "created_at": "2018-01-01T10:48:36.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #440470. I've never told anyone this, but I once clawed a dog. I am 80% fairy, 46% Train Conductor, and otherwise bad at math. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "277183@7",
+  "sire": "429386@7",
+  "children": [
+    "453483@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 13,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

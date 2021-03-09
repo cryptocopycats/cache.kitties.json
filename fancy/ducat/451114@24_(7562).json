@@ -1,0 +1,25 @@
+{
+  "id": 451114,
+  "name": null,
+  "generation": 24,
+  "created_at": "2018-01-05T13:08:00.000Z",
+  "birthday": "2018-01-05T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Kitty #451114. In high school, I was voted school jock. My great-great-great-great-great-great grandkitty lived with King Henry VIII. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "384350@23",
+  "sire": "299540@7",
+  "children": [
+    "457552@25",
+    "769469@25",
+    "1326521@25"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7562,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 423455,
+  "name": null,
+  "generation": 2,
+  "created_at": "2017-12-28T18:02:17.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #423455. I'm often referred to as the Hermione Granger of the group. I was voted school jock in college. I hope we can be prickly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "397717@1",
+  "sire": "384343@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1254,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

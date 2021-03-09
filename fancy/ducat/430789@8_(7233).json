@@ -1,0 +1,23 @@
+{
+  "id": 430789,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-30T01:21:37.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #430789. I've never told anyone this, but I once frolicked with a dog. In my free time, I can usually be found annoying or running a podcast. Our friendship will be gorgeous, fabulous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "283244@7",
+  "sire": "348598@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7233,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

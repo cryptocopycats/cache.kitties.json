@@ -1,0 +1,24 @@
+{
+  "id": 447290,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2018-01-03T02:58:53.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good morning! I'm RARE BIRD! Fancy!. I want to live in a world where people believe that one day cats will rule this planet. I would give it all up to star in a soap opera. Will you be the garlic butter to my wasabi?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431415@3",
+  "sire": "414070@3",
+  "children": [
+    "448274@5",
+    "448520@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7523,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

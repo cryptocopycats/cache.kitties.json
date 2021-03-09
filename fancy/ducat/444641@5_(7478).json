@@ -1,0 +1,28 @@
+{
+  "id": 444641,
+  "name": null,
+  "generation": 5,
+  "created_at": "2018-01-02T09:37:39.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #444641. I've never told anyone this, but I once kissed a dog. In my free time, I can usually be found voluptuous or tricking babies. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "437179@4",
+  "sire": "421540@4",
+  "children": [
+    "445169@8",
+    "445884@6",
+    "446221@6",
+    "1105174@7",
+    "1118543@8",
+    "1135152@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7478,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

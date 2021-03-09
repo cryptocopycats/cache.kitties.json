@@ -1,0 +1,29 @@
+{
+  "id": 443098,
+  "name": "Lucky Eday",
+  "generation": 3,
+  "created_at": "2018-01-02T00:47:08.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! I'm Lucky Eday. I believe the world is flat. I once made a rhino sulk. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "385145@2",
+  "sire": "427864@2",
+  "children": [
+    "520315@5",
+    "540897@4",
+    "544720@4",
+    "545996@4",
+    "547088@4",
+    "548194@4",
+    "551372@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1312,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

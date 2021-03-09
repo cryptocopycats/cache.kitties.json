@@ -1,0 +1,24 @@
+{
+  "id": 424625,
+  "name": null,
+  "generation": 19,
+  "created_at": "2017-12-28T22:06:41.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hi-ya! Kitty #424625 here. I'm here to enjoy fighting for the people and staying woke. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "415995@12",
+  "sire": "390374@18",
+  "children": [
+    "448109@20",
+    "451386@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 981,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 444038,
+  "name": "Sundiata",
+  "generation": 14,
+  "created_at": "2018-01-02T06:04:51.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! My name's Sundiata. I once peed on Princess Diana's cat. They had it coming. I put garlic butter on everything. Like, everything: hot dogs, apple pie—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "404927@13",
+  "sire": "416709@4",
+  "children": [
+    "1948434@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7472,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

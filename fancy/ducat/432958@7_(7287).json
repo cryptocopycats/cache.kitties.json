@@ -1,0 +1,23 @@
+{
+  "id": 432958,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-30T16:42:59.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #432958. I believe that one day cats will rule this planet. I was voted biggest teacher's pet in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431494@6",
+  "sire": "411055@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 7287,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

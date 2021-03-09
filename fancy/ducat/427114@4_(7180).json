@@ -1,0 +1,27 @@
+{
+  "id": 427114,
+  "name": "FlyKitty",
+  "generation": 4,
+  "created_at": "2017-12-29T06:40:11.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm FlyKitty. All you need to know about me is I hate chocolate with a passion. I once made a chimpanzee kiss. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "172351@3",
+  "sire": "320432@3",
+  "children": [
+    "491875@5",
+    "585358@5",
+    "590876@5",
+    "601123@7",
+    "614328@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7180,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 435301,
+  "name": "Tweet Lion",
+  "generation": 12,
+  "created_at": "2017-12-31T05:30:03.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm Tweet Lion. I'm often referred to as the Marge Simpson of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "359140@11",
+  "sire": "317371@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7344,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

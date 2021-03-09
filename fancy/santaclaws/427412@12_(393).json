@@ -1,0 +1,31 @@
+{
+  "id": 427412,
+  "name": "#393 - sizzurp",
+  "generation": 12,
+  "created_at": "2017-12-29T07:53:04.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's #393 - sizzurp. I once peed on Confucius's cat. They had it coming. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "417688@10",
+  "sire": "394654@11",
+  "children": [
+    "428344@13",
+    "429212@13",
+    "432622@13",
+    "436532@13",
+    "444263@13",
+    "465260@13",
+    "468816@13",
+    "542834@13",
+    "1048623@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 393,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

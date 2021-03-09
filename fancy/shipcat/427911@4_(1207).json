@@ -1,0 +1,25 @@
+{
+  "id": 427911,
+  "name": "ShipCat #1,207/2,000",
+  "generation": 4,
+  "created_at": "2017-12-29T10:06:15.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm ShipCat #1,207/2,000. I'm often referred to as the Marge Simpson of the group. I once frolicked with a rabbit. I don't like to talk about it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "423930@3",
+  "sire": "421780@3",
+  "children": [
+    "432507@8",
+    "459945@5",
+    "475216@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1207,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 421721,
+  "name": "COCO",
+  "generation": 8,
+  "created_at": "2017-12-28T10:02:17.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm COCO. All you need to know about me is I hate cereal with a passion. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "410100@7",
+  "sire": "401502@6",
+  "children": [
+    "421977@9",
+    "432488@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1169,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

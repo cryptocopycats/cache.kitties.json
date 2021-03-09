@@ -1,0 +1,30 @@
+{
+  "id": 430274,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-29T22:31:51.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #430274. My friends describe me as despicable and tantalizing. In my free time, I can usually be found brilliant or talking about how much I lift. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "430068@4",
+  "sire": "408902@4",
+  "children": [
+    "430431@17",
+    "431336@6",
+    "432438@6",
+    "432623@19",
+    "438959@17",
+    "447078@17",
+    "453175@17",
+    "456189@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7220,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

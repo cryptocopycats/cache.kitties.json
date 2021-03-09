@@ -1,0 +1,23 @@
+{
+  "id": 430134,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-29T21:46:45.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Kitty #430134. I've never told anyone this, but I once clawed a dog. Sometimes I daydream of a life full of chasing string, apple pie, and tricking babies. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "327812@6",
+  "sire": "407994@6",
+  "children": [
+    "480453@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7217,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

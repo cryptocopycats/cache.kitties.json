@@ -1,0 +1,23 @@
+{
+  "id": 423351,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-28T17:32:57.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #423351. All you need to know about me is I hate wet food with a passion. Sometimes I daydream of a life full of reciting poetry, ice cream, and riverdancing. I look forward to chasing red dots with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "420370@7",
+  "sire": "313453@12",
+  "children": [
+    "425200@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7139,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

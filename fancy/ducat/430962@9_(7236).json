@@ -1,0 +1,23 @@
+{
+  "id": 430962,
+  "name": "Duckerton McBunglesworth",
+  "generation": 9,
+  "created_at": "2017-12-30T02:26:10.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Hi-ya! I'm Duckerton McBunglesworth. I want to live in a world where people believe that one day cats will rule this planet. I put pickles on everything. Like, everything: hot dogs, steak—everything! Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "418005@8",
+  "sire": "417002@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7236,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

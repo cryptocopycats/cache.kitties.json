@@ -1,0 +1,23 @@
+{
+  "id": 442529,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-01T22:28:36.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Kitty #442529. My friends describe me as tantalizing and vegan. It wasn't heavily publicized, but I once had a brief relationship with Cheshire Cat. I look forward to slappin' da bass with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "369693@3",
+  "sire": "434486@5",
+  "children": [
+    "444454@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7455,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

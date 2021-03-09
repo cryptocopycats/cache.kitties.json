@@ -1,0 +1,24 @@
+{
+  "id": 448370,
+  "name": null,
+  "generation": 10,
+  "created_at": "2018-01-03T11:44:50.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Kitty #448370. I'm often referred to as the Hermione Granger of the group. I like to listen to Wutang while grooming. Don't judge me. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "252849@4",
+  "sire": "397472@9",
+  "children": [
+    "448735@13",
+    "450281@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1076,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

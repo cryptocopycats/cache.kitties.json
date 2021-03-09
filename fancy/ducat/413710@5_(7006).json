@@ -1,0 +1,25 @@
+{
+  "id": 413710,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-26T23:04:27.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #413710. I enjoy grooming, chasing string, and tripping my owner. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "413473@4",
+  "sire": "413298@3",
+  "children": [
+    "413820@6",
+    "420931@6",
+    "431437@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7006,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

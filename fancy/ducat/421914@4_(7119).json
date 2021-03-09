@@ -1,0 +1,29 @@
+{
+  "id": 421914,
+  "name": "Ducat Factory",
+  "generation": 4,
+  "created_at": "2017-12-28T10:59:56.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm Ducat Factory. My friends describe me as raunchy and ridiculous. Some people say I'm the Samwise Gamgee of the group. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "377077@3",
+  "sire": "414928@3",
+  "children": [
+    "437525@5",
+    "441350@5",
+    "518830@5",
+    "519769@5",
+    "522466@5",
+    "527394@5",
+    "543350@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7119,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

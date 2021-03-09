@@ -1,0 +1,30 @@
+{
+  "id": 445906,
+  "name": "mistl",
+  "generation": 5,
+  "created_at": "2018-01-02T18:51:55.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm mistl. I believe that one day cats will rule this planet. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can you make my annoying dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "434298@4",
+  "sire": "439292@4",
+  "children": [
+    "446557@6",
+    "447114@6",
+    "447279@6",
+    "484314@6",
+    "507895@6",
+    "516754@6",
+    "543368@6",
+    "554224@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1325,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

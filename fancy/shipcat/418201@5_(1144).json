@@ -1,0 +1,26 @@
+{
+  "id": 418201,
+  "name": "FIDO",
+  "generation": 5,
+  "created_at": "2017-12-27T20:17:07.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm FIDO. I believe the world is flat. My friends describe me as \"petulant.\" It's... accurate. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "276261@3",
+  "sire": "363978@4",
+  "children": [
+    "422556@7",
+    "424197@8",
+    "426302@6",
+    "432423@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1144,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 415995,
+  "name": "NosferaCat",
+  "generation": 12,
+  "created_at": "2017-12-27T08:39:07.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm NosferaCat. All you need to know about me is I hate wet food with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Can't wait to eat lasagna with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "365588@10",
+  "sire": "412100@11",
+  "children": [
+    "422014@13",
+    "424625@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 951,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

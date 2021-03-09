@@ -1,0 +1,23 @@
+{
+  "id": 423188,
+  "name": "www.goodkitty.net",
+  "generation": 11,
+  "created_at": "2017-12-28T16:45:00.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! www.goodkitty.net here. I'm here to enjoy chasing red dots and fighting the patriarchy. I put marmite on everything. Like, everything: hot dogs, wet food—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "395678@6",
+  "sire": "391615@10",
+  "children": [
+    "547719@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1178,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

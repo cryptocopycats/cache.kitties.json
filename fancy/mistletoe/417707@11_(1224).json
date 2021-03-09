@@ -1,0 +1,26 @@
+{
+  "id": 417707,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-27T18:02:05.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Yo! I'm Kitty #417707. I'm often referred to as the Steve Urkel of the group. I once clawed a rhino. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "411253@3",
+  "sire": "331149@10",
+  "children": [
+    "451241@12",
+    "475822@12",
+    "489367@12",
+    "651884@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1224,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

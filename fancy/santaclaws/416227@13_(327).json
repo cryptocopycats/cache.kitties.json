@@ -1,0 +1,23 @@
+{
+  "id": 416227,
+  "name": "St Nick",
+  "generation": 13,
+  "created_at": "2017-12-27T09:43:24.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Oh hi! I'm St Nick. I believe the world is flat. I put garlic butter on everything. Like, everything: hot dogs, cereal—everything! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "415763@12",
+  "sire": "413611@11",
+  "children": [
+    "423011@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 327,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

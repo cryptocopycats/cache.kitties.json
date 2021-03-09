@@ -1,0 +1,30 @@
+{
+  "id": 420433,
+  "name": "ShipCat",
+  "generation": 6,
+  "created_at": "2017-12-28T04:37:02.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hey cutie! I'm ShipCat. I'm a Mad Scientist by day, and I like playing chess by night. I once got in a fight with a rhino, and won. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "383064@4",
+  "sire": "412032@5",
+  "children": [
+    "422755@7",
+    "422997@7",
+    "423777@7",
+    "424596@7",
+    "428424@7",
+    "431160@7",
+    "434260@7",
+    "441825@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1161,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 422519,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-28T13:56:26.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! I'm Kitty #422519. I've never told anyone this, but I once headbutted a dog. In my free time, I can usually be found smelly or jump-roping. Can't wait to eat wet food with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "387584@6",
+  "sire": "418324@6",
+  "children": [
+    "423801@10",
+    "433722@15",
+    "439962@11",
+    "449919@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1251,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

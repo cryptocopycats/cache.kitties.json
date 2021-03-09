@@ -1,0 +1,28 @@
+{
+  "id": 418358,
+  "name": "Best shipcat maker",
+  "generation": 6,
+  "created_at": "2017-12-27T21:01:15.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Best shipcat maker. I'm often referred to as the Neville Longbottom of the group. My friends describe me as \"ridiculous.\" It's... accurate. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "365575@4",
+  "sire": "412032@5",
+  "children": [
+    "422749@7",
+    "423047@7",
+    "423838@7",
+    "429805@7",
+    "441684@7",
+    "463070@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1147,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,27 @@
+{
+  "id": 416935,
+  "name": "Diesel",
+  "generation": 6,
+  "created_at": "2017-12-27T13:46:04.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Diesel. My friends describe me as smelly and prickly. Sometimes I daydream of a life full of slappin' da bass, apple pie, and watching reality tv. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "392407@5",
+  "sire": "286917@5",
+  "children": [
+    "502476@7",
+    "557592@7",
+    "598568@12",
+    "610826@7",
+    "640880@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7055,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

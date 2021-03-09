@@ -1,0 +1,23 @@
+{
+  "id": 444243,
+  "name": "⚡FancyCat!🦆",
+  "generation": 4,
+  "created_at": "2018-01-02T07:19:59.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm ⚡FancyCat!🦆. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of chasing string, hamburgers, and tricking babies. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "278235@3",
+  "sire": "274013@3",
+  "children": [
+    "448303@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7474,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

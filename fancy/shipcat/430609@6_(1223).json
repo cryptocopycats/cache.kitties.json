@@ -1,0 +1,25 @@
+{
+  "id": 430609,
+  "name": "Bob, the Sailor!",
+  "generation": 6,
+  "created_at": "2017-12-30T00:16:19.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Bob, the Sailor!. I'm a professional Private Dancer  and I love cantaloupe. When no one's home, I invite my pals over and we listen to Wutang. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "424999@5",
+  "sire": "415884@5",
+  "children": [
+    "430704@7",
+    "431076@7",
+    "558130@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1223,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

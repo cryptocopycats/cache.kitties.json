@@ -1,0 +1,30 @@
+{
+  "id": 427198,
+  "name": "Gen 3 ShipCat",
+  "generation": 3,
+  "created_at": "2017-12-29T07:05:49.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! Gen 3 ShipCat here. I'm here to enjoy slappin' da bass and riding unicorns. My friends describe me as \"ridiculous.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "415584@2",
+  "sire": "195267@2",
+  "children": [
+    "430011@4",
+    "431910@4",
+    "434109@4",
+    "434388@4",
+    "435177@4",
+    "449819@4",
+    "453116@4",
+    "457107@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1202,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

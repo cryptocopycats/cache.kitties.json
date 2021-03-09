@@ -1,0 +1,23 @@
+{
+  "id": 439547,
+  "name": null,
+  "generation": 5,
+  "created_at": "2018-01-01T06:13:42.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! Kitty #439547 here. I'm here to enjoy fighting the patriarchy and watching Stranger Things. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "152667@4",
+  "sire": "164302@4",
+  "children": [
+    "440112@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7416,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

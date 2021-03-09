@@ -1,0 +1,23 @@
+{
+  "id": 430877,
+  "name": "SANTAPAWS",
+  "generation": 12,
+  "created_at": "2017-12-30T01:53:01.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hey cutie! I'm SANTAPAWS. I'm a Mad Scientist by day, and I like practicing witchcraft by night. I once got in a fight with a chimpanzee, and won. Can you make my petulant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "403059@11",
+  "sire": "400849@11",
+  "children": [
+    "436988@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 410,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

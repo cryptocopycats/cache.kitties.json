@@ -1,0 +1,23 @@
+{
+  "id": 433025,
+  "name": "Mavis",
+  "generation": 6,
+  "created_at": "2017-12-30T17:14:21.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Mavis. My friends describe me as smelly and ridiculous. I once got in a fight with a goose, and won. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "396871@5",
+  "sire": "391592@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1027,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

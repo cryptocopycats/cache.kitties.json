@@ -1,0 +1,30 @@
+{
+  "id": 427771,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-29T09:31:31.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! My name's Kitty #427771. I once peed on Mother Theresa's cat. They had it coming. I once made a rabbit play. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "424467@3",
+  "sire": "421182@3",
+  "children": [
+    "435437@5",
+    "511225@5",
+    "516909@7",
+    "518851@6",
+    "520349@5",
+    "531831@5",
+    "554337@5",
+    "628618@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 396,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

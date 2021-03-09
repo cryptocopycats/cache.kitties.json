@@ -1,0 +1,23 @@
+{
+  "id": 432790,
+  "name": null,
+  "generation": 15,
+  "created_at": "2017-12-30T15:36:02.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! Kitty #432790 here. I'm here to enjoy tripping my owner and sweating through my feet. I like to listen to Mariah Carey while grooming. Don't judge me. I hope we can be wondrous friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "427056@7",
+  "sire": "431783@14",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7282,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

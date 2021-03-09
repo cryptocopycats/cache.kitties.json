@@ -1,0 +1,23 @@
+{
+  "id": 423180,
+  "name": "Ducat, Gen 9! (#7,137/10,000)",
+  "generation": 9,
+  "created_at": "2017-12-28T16:43:27.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! I'm Ducat, Gen 9! (#7,137/10,000). My friends describe me as stinky and preposterous. My friends describe me as \"voluptuous.\" It's... accurate. Can you make my voluptuous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "422907@8",
+  "sire": "287710@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7137,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

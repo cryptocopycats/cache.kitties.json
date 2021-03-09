@@ -1,0 +1,24 @@
+{
+  "id": 431336,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-30T04:57:50.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #431336. My friends describe me as gullible and fabulous. I once made a dolphin trot. Can you make my tantalizing dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "428594@3",
+  "sire": "430274@5",
+  "children": [
+    "434659@7",
+    "434913@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7248,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

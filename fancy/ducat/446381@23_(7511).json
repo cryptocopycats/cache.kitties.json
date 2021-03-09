@@ -1,0 +1,23 @@
+{
+  "id": 446381,
+  "name": null,
+  "generation": 23,
+  "created_at": "2018-01-02T21:36:29.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm Kitty #446381. I want to live in a world where people believe that one day cats will rule this planet. I once got in a fight with a labradoodle, and won. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "424763@11",
+  "sire": "355571@22",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7511,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

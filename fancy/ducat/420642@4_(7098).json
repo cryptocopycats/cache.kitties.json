@@ -1,0 +1,23 @@
+{
+  "id": 420642,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-28T05:27:01.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ciao! I'm Kitty #420642. In high school, I was voted most likely to work at NASA. It's not common knowledge, but my ancestry connects me to Marie Antoinette. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "200693@3",
+  "sire": "200404@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7098,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 417682,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-27T17:53:48.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #417682. In high school, I was voted biggest teacher's pet. My friends describe me as \"stinky.\" It's... accurate. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "375419@3",
+  "sire": "353385@3",
+  "children": [
+    "430209@6",
+    "430283@6",
+    "430679@13",
+    "449401@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 957,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

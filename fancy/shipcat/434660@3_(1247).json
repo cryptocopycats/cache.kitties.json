@@ -1,0 +1,24 @@
+{
+  "id": 434660,
+  "name": "¡HippySailor!",
+  "generation": 3,
+  "created_at": "2017-12-31T02:12:47.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Ugh! My name's ¡HippySailor!. I once peed on Martin Luther King Jr.'s cat. They had it coming. In my free time, I can usually be found ridiculous or reading Danielle Steele. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "430198@2",
+  "sire": "340406@2",
+  "children": [
+    "434727@4",
+    "434854@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1247,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

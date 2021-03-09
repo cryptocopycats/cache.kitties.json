@@ -1,0 +1,23 @@
+{
+  "id": 448625,
+  "name": null,
+  "generation": 11,
+  "created_at": "2018-01-03T16:17:45.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Kitty #448625. I believe the world is flat. I once got in a fight with a dolphin, and won. Our friendship will be voluptuous, petulant, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "293529@9",
+  "sire": "319958@10",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1081,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 445782,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-02T17:53:26.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #445782. I believe the world is flat. I once kissed a goose. I don't like to talk about it. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "442107@0",
+  "sire": "439441@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7498,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 427233,
+  "name": "ShipCat #1,203/2,000",
+  "generation": 4,
+  "created_at": "2017-12-29T07:11:33.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm ShipCat #1,203/2,000. My friends describe me as preposterous and fabulous. Sometimes I daydream of a life full of eating lasagna, apple pie, and siring for status. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "426974@3",
+  "sire": "426908@3",
+  "children": [
+    "452377@5",
+    "891859@8",
+    "892150@10",
+    "892706@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1203,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

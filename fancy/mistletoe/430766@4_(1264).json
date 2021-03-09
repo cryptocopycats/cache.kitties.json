@@ -1,0 +1,25 @@
+{
+  "id": 430766,
+  "name": "MistletoeKittyKiss",
+  "generation": 4,
+  "created_at": "2017-12-30T01:11:12.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Sup playa! I'm MistletoeKittyKiss. All you need to know about me is I hate salad with a passion. When I'm not summoning ghosts, I'm swiping right! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "430721@3",
+  "sire": "415225@3",
+  "children": [
+    "430861@10",
+    "431050@6",
+    "432439@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1264,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

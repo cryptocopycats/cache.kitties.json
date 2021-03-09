@@ -1,0 +1,31 @@
+{
+  "id": 445563,
+  "name": null,
+  "generation": 8,
+  "created_at": "2018-01-02T16:12:27.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Kitty #445563. I'm a Mad Scientist by day, and I like people-watching by night. I'm often described as despicable, and I own it. We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "441541@7",
+  "sire": "252470@7",
+  "children": [
+    "450561@20",
+    "451163@9",
+    "454823@19",
+    "469343@21",
+    "477726@20",
+    "479719@19",
+    "479743@10",
+    "533075@11",
+    "1470189@9"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 76,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

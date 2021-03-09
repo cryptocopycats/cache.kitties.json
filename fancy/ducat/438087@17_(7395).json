@@ -1,0 +1,23 @@
+{
+  "id": 438087,
+  "name": null,
+  "generation": 17,
+  "created_at": "2017-12-31T22:44:07.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "*hissing noises*! I'm Kitty #438087. I want to live in a world where people believe that one day cats will rule this planet. I put peanut butter on everything. Like, everything: hot dogs, lasagna—everything! Will you be the garlic butter to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "435423@16",
+  "sire": "433885@7",
+  "children": [
+    "442512@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7395,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

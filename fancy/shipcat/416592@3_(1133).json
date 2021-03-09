@@ -1,0 +1,23 @@
+{
+  "id": 416592,
+  "name": "Hooray!",
+  "generation": 3,
+  "created_at": "2017-12-27T11:48:48.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm Hooray!. I've never told anyone this, but I once bit a dog. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "415785@2",
+  "sire": "415573@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1133,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

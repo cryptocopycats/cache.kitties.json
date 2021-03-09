@@ -1,0 +1,29 @@
+{
+  "id": 449995,
+  "name": "Bilbo",
+  "generation": 3,
+  "created_at": "2018-01-04T11:51:53.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Bilbo. In high school, I was voted biggest teacher's pet. I put garlic butter on everything. Like, everything: hot dogs, hamburgers—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "425833@0",
+  "sire": "420392@2",
+  "children": [
+    "451442@6",
+    "458269@4",
+    "466518@4",
+    "472166@4",
+    "474459@4",
+    "481041@5",
+    "577659@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7553,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

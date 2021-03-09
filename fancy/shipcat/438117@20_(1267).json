@@ -1,0 +1,25 @@
+{
+  "id": 438117,
+  "name": "Captain Cool #1267 Strawberry",
+  "generation": 20,
+  "created_at": "2017-12-31T22:56:25.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Captain Cool #1267 Strawberry. I believe that one day cats will rule this planet. When no one's home, I invite my pals over and we listen to Mariah Carey. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "409275@19",
+  "sire": "433571@5",
+  "children": [
+    "438928@21",
+    "458476@21",
+    "492883@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1267,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

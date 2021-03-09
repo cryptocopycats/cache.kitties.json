@@ -1,0 +1,23 @@
+{
+  "id": 441735,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-01T18:41:00.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! My name's Kitty #441735. I once peed on Amelia Earhart's cat. They had it coming. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "434620@5",
+  "sire": "440783@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7437,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

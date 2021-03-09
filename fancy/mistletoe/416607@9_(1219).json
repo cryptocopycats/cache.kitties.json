@@ -1,0 +1,25 @@
+{
+  "id": 416607,
+  "name": "Mistletoe G9",
+  "generation": 9,
+  "created_at": "2017-12-27T11:55:16.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Heyo! My name's Mistletoe G9. I once peed on Martin Luther King Jr.'s cat. They had it coming. I like to listen to Mariah Carey while grooming. Don't judge me. Our friendship will be smelly, gullible, and full of apple pie.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "413944@5",
+  "sire": "305328@8",
+  "children": [
+    "417901@10",
+    "418756@10",
+    "425830@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1219,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

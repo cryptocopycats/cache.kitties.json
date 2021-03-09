@@ -1,0 +1,24 @@
+{
+  "id": 433885,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-30T22:19:19.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! My name's Kitty #433885. I once peed on Mother Theresa's cat. They had it coming. When no one's home, I invite my pals over and we listen to Gloria Estefan. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "387316@6",
+  "sire": "402331@5",
+  "children": [
+    "438087@17",
+    "550099@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7311,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

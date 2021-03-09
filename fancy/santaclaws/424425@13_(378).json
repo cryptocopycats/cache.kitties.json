@@ -1,0 +1,23 @@
+{
+  "id": 424425,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-28T21:25:10.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #424425. I've never told anyone this, but I once groomed a dog. I put marmalade on everything. Like, everything: hot dogs, lasagna—everything! Will you be the soy sauce to my maple syrup?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "319972@12",
+  "sire": "351600@10",
+  "children": [
+    "426383@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 378,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

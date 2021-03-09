@@ -1,0 +1,23 @@
+{
+  "id": 444230,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2018-01-02T07:14:04.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm RARE BIRD! Fancy!. All you need to know about me is I hate chocolate with a passion. I'm convinced that that one day cats will rule this planet. One day I'll prove it. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431415@3",
+  "sire": "414070@3",
+  "children": [
+    "484743@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7473,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

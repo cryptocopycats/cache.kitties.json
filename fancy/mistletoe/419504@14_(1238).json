@@ -1,0 +1,25 @@
+{
+  "id": 419504,
+  "name": "🎄 Fancy Genes 🎄",
+  "generation": 14,
+  "created_at": "2017-12-28T01:27:33.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! I'm 🎄 Fancy Genes 🎄. I'm a Private Dancer  by day, and I like sleeping in fresh laundry by night. I'm often described as wondrous, and I own it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "393483@13",
+  "sire": "413611@11",
+  "children": [
+    "420088@15",
+    "433722@15",
+    "511316@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1238,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

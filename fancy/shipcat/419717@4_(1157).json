@@ -1,0 +1,23 @@
+{
+  "id": 419717,
+  "name": "Rare: ShipCat!",
+  "generation": 4,
+  "created_at": "2017-12-28T02:06:27.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Rare: ShipCat!. I believe that one day cats will rule this planet. My great-great-great-great-great-great grandkitty lived with Mother Theresa. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "379759@3",
+  "sire": "391816@3",
+  "children": [
+    "448403@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1157,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

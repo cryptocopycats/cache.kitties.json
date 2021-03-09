@@ -1,0 +1,30 @@
+{
+  "id": 445681,
+  "name": null,
+  "generation": 3,
+  "created_at": "2018-01-02T17:14:11.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Heyo! I'm Kitty #445681. I believe the world is flat. I once dreamed of being a Dogwalker. Now I can be found prank-calling celebrities all day. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "345952@2",
+  "sire": "195363@2",
+  "children": [
+    "452439@4",
+    "453498@4",
+    "456883@4",
+    "457254@4",
+    "470831@4",
+    "550265@4",
+    "561647@4",
+    "577327@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7494,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

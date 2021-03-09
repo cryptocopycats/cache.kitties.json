@@ -1,0 +1,23 @@
+{
+  "id": 431050,
+  "name": "Mistletoe",
+  "generation": 6,
+  "created_at": "2017-12-30T02:49:18.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Mistletoe. In high school, I was voted biggest teacher's pet. My friends describe me as \"ridiculous.\" It's... accurate. Our friendship will be vegan, smelly, and full of wet food.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "430742@5",
+  "sire": "430766@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1266,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

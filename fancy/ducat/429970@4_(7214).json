@@ -1,0 +1,24 @@
+{
+  "id": 429970,
+  "name": "Generation 4 DuCat!",
+  "generation": 4,
+  "created_at": "2017-12-29T20:44:53.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Uh, hi! I'm Generation 4 DuCat!. All you need to know about me is I hate cantaloupe with a passion. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "408719@3",
+  "sire": "409346@3",
+  "children": [
+    "430354@5",
+    "430658@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7214,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

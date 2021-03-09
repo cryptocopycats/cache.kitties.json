@@ -1,0 +1,23 @@
+{
+  "id": 439534,
+  "name": null,
+  "generation": 14,
+  "created_at": "2018-01-01T06:09:24.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Hi-ya! Kitty #439534 here. I'm here to enjoy watching Stranger Things and taking selfies. Sometimes I daydream of a life full of chasing red dots, cantaloupe, and reading Danielle Steele. Will you be the cinammon to my garlic butter?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "436166@4",
+  "sire": "438579@13",
+  "children": [
+    "445802@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7415,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

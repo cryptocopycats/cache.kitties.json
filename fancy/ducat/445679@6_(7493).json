@@ -1,0 +1,26 @@
+{
+  "id": 445679,
+  "name": "Holy Duck",
+  "generation": 6,
+  "created_at": "2018-01-02T17:11:51.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Holy Duck. I'm a professional Dogwalker and I love apple pie. I once groomed a rabbit. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "445656@5",
+  "sire": "388413@5",
+  "children": [
+    "446074@7",
+    "446356@14",
+    "446796@7",
+    "448508@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7493,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

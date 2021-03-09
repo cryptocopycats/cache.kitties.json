@@ -1,0 +1,23 @@
+{
+  "id": 433764,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-30T21:46:18.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #433764. In high school, I was voted biggest teacher's pet. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. Can't wait to eat ice cream with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "408591@2",
+  "sire": "408013@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7307,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

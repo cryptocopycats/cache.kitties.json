@@ -1,0 +1,24 @@
+{
+  "id": 443475,
+  "name": "Buzz",
+  "generation": 16,
+  "created_at": "2018-01-02T02:35:58.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! Buzz here. I'm here to enjoy fighting the patriarchy and spinning sick beats. In my free time, I can usually be found tantalizing or volunteering at the local kitten rescue shelter. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "442463@15",
+  "sire": "442054@11",
+  "children": [
+    "444118@17",
+    "446432@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1058,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 434102,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-30T23:22:10.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! My name's Kitty #434102. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I'm often described as gullible, and I own it. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "416640@2",
+  "sire": "404333@2",
+  "children": [
+    "580591@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1279,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 417734,
+  "name": "Flappy",
+  "generation": 14,
+  "created_at": "2017-12-27T18:10:52.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*waves*! I'm Flappy. I enjoy eating until I loathe myself, tricking babies, and glaring at the neighbour's cat. When I'm not siring for status, I'm swiping right! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "411079@13",
+  "sire": "379782@7",
+  "children": [
+    "419271@15",
+    "518778@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7069,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

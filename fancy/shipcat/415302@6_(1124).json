@@ -1,0 +1,27 @@
+{
+  "id": 415302,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-27T05:59:18.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #415302. My friends describe me as wondrous and vegan. I would give it all up to star in a soap opera. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "412465@5",
+  "sire": "205692@5",
+  "children": [
+    "415741@7",
+    "416100@7",
+    "431296@7",
+    "431839@9",
+    "435926@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1124,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

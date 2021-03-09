@@ -1,0 +1,29 @@
+{
+  "id": 431137,
+  "name": "Fore!",
+  "generation": 4,
+  "created_at": "2017-12-30T03:18:08.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Fore!. I'm a Mad Scientist by day, and I like swiping right by night. I once dreamed of being a Private Dancer . Now I can be found pole dancing all day. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "412246@3",
+  "sire": "382085@3",
+  "children": [
+    "433574@7",
+    "543367@6",
+    "543899@6",
+    "544459@6",
+    "547870@6",
+    "552539@6",
+    "560339@6"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1225,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

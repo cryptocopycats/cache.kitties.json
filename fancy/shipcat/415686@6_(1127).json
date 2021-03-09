@@ -1,0 +1,25 @@
+{
+  "id": 415686,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-27T07:25:42.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Kitty #415686. All you need to know about me is I hate steak with a passion. When no one's home, I invite my pals over and we listen to Mariah Carey. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "372637@5",
+  "sire": "371532@5",
+  "children": [
+    "425107@7",
+    "425532@7",
+    "428787@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1127,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

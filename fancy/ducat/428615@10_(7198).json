@@ -1,0 +1,24 @@
+{
+  "id": 428615,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-29T13:34:05.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Kitty #428615. I'm often referred to as the Michael Scott of the group. When my owner isn't watching, I steal their brooches and use them for litter paper. I'm not sorry. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "217715@8",
+  "sire": "194418@9",
+  "children": [
+    "429513@11",
+    "430086@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7198,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

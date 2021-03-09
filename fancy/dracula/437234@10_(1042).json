@@ -1,0 +1,25 @@
+{
+  "id": 437234,
+  "name": "Graf Montfort",
+  "generation": 10,
+  "created_at": "2017-12-31T18:15:33.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! Graf Montfort here. I'm here to enjoy being a nevernude and tricking babies. I put maple syrup on everything. Like, everything: hot dogs, steak—everything! Will you be the marmite to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "224808@7",
+  "sire": "168000@9",
+  "children": [
+    "437779@11",
+    "438733@15",
+    "441481@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1042,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

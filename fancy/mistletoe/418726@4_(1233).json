@@ -1,0 +1,23 @@
+{
+  "id": 418726,
+  "name": "Elka",
+  "generation": 4,
+  "created_at": "2017-12-27T22:33:37.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Elka. I've never told anyone this, but I once headbutted a dog. When I'm not watching reality tv, I'm practicing witchcraft! In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "416493@3",
+  "sire": "416975@3",
+  "children": [
+    "453940@5"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1233,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

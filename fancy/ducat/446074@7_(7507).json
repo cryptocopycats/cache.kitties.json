@@ -1,0 +1,23 @@
+{
+  "id": 446074,
+  "name": "Daphne Duck",
+  "generation": 7,
+  "created_at": "2018-01-02T19:57:56.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! My name's Daphne Duck. I once peed on Martin Luther King Jr.'s cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "445679@6",
+  "sire": "445603@4",
+  "children": [
+    "446286@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7507,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

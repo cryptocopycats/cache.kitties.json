@@ -1,0 +1,23 @@
+{
+  "id": 448452,
+  "name": "Purebred Dracula",
+  "generation": 4,
+  "created_at": "2018-01-03T12:45:18.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Purebred Dracula. I'm a Aerobics Athlete  by day, and I like volunteering at the local kitten rescue shelter by night. Sometimes I daydream of a life full of taking selfies, chocolate, and riverdancing. Our friendship will be annoying, voluptuous, and full of cereal.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "379842@3",
+  "sire": "341567@3",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1078,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

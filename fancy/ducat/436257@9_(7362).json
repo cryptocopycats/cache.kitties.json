@@ -1,0 +1,25 @@
+{
+  "id": 436257,
+  "name": "Littlebird",
+  "generation": 9,
+  "created_at": "2017-12-31T12:03:08.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm Littlebird. I'm a Spin Instructor  by day, and I like playing chess by night. Sometimes I daydream of a life full of grooming, wet food, and people-watching. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "435948@4",
+  "sire": "436212@8",
+  "children": [
+    "440282@10",
+    "440894@10",
+    "442445@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7362,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

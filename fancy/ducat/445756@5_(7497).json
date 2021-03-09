@@ -1,0 +1,23 @@
+{
+  "id": 445756,
+  "name": null,
+  "generation": 5,
+  "created_at": "2018-01-02T17:41:44.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! My name's Kitty #445756. I once peed on Confucius's cat. They had it coming. When no one's home, I invite my pals over and we listen to Wutang. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "435404@4",
+  "sire": "424109@4",
+  "children": [
+    "657159@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7497,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

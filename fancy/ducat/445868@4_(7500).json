@@ -1,0 +1,26 @@
+{
+  "id": 445868,
+  "name": null,
+  "generation": 4,
+  "created_at": "2018-01-02T18:32:14.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Kitty #445868. My friends describe me as hairy and prickly. I put wasabi on everything. Like, everything: hot dogs, chocolate—everything! Will you be the maple syrup to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "377077@3",
+  "sire": "414928@3",
+  "children": [
+    "1100710@5",
+    "1104006@5",
+    "1104270@5",
+    "1104707@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7500,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

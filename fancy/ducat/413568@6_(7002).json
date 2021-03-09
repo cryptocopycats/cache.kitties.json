@@ -1,0 +1,23 @@
+{
+  "id": 413568,
+  "name": "Fancy Lovely DuCat",
+  "generation": 6,
+  "created_at": "2017-12-26T22:20:30.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! Fancy Lovely DuCat here. I'm here to enjoy fighting the patriarchy and watching Stranger Things. I'm often described as wondrous, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "401031@5",
+  "sire": "177271@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7002,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

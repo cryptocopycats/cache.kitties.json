@@ -1,0 +1,27 @@
+{
+  "id": 415884,
+  "name": "ShipCat #1,128/2,000",
+  "generation": 5,
+  "created_at": "2017-12-27T08:10:48.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! I'm ShipCat #1,128/2,000. My friends describe me as vegan and hairy. I put ghost pepper hot sauce on everything. Like, everything: hot dogs, ice cream—everything! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "294909@4",
+  "sire": "369838@4",
+  "children": [
+    "415944@6",
+    "417849@10",
+    "430609@6",
+    "434415@8",
+    "947501@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1128,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

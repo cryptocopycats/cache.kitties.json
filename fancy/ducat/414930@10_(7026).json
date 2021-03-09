@@ -1,0 +1,23 @@
+{
+  "id": 414930,
+  "name": "Amber Evaro",
+  "generation": 10,
+  "created_at": "2017-12-27T04:27:48.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Amber Evaro. In high school, I was voted most likely to work at NASA. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "105386@6",
+  "sire": "255874@9",
+  "children": [
+    "499295@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7026,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

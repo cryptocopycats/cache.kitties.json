@@ -1,0 +1,23 @@
+{
+  "id": 416202,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-27T09:35:34.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Oh hi! RARE BIRD! Fancy! here. I'm here to enjoy watching Stranger Things and riding unicorns. It's not common knowledge, but my ancestry connects me to John F. Kennedy Jr.. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "374450@3",
+  "sire": "268609@3",
+  "children": [
+    "427658@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7043,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

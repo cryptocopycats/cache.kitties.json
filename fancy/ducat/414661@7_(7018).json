@@ -1,0 +1,27 @@
+{
+  "id": 414661,
+  "name": "Fonético",
+  "generation": 7,
+  "created_at": "2017-12-27T03:03:44.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Shalom! My name's Fonético. I once peed on John F. Kennedy Jr.'s cat. They had it coming. In my free time, I can usually be found smelly or swiping right. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "409606@6",
+  "sire": "384969@6",
+  "children": [
+    "416031@9",
+    "431687@9",
+    "1050612@9",
+    "1061903@10",
+    "1118971@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7018,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

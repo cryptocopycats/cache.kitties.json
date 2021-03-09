@@ -1,0 +1,23 @@
+{
+  "id": 429447,
+  "name": "ShipCat #1,215/2,000",
+  "generation": 4,
+  "created_at": "2017-12-29T18:08:49.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Aloha! I'm ShipCat #1,215/2,000. I've never told anyone this, but I once groomed a dog. My great-great-great-great-great-great grandkitty lived with Princess Diana. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "426974@3",
+  "sire": "426908@3",
+  "children": [
+    "434032@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1215,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

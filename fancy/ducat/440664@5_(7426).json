@@ -1,0 +1,33 @@
+{
+  "id": 440664,
+  "name": "Limited Edition",
+  "generation": 5,
+  "created_at": "2018-01-01T12:18:01.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Limited Edition. All you need to know about me is I hate steak with a passion. In my free time, I can usually be found preposterous or braiding people's hair. I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "433681@4",
+  "sire": "329417@4",
+  "children": [
+    "503668@6",
+    "503689@6",
+    "514124@6",
+    "532622@6",
+    "573199@6",
+    "574728@6",
+    "575514@6",
+    "638702@6",
+    "641511@6",
+    "1110839@6",
+    "1157140@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7426,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

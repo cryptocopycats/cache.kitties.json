@@ -1,0 +1,23 @@
+{
+  "id": 420893,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-28T06:34:02.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #420893. I'm often referred to as the Jon Snow of the group. When no one's home, I invite my pals over and we listen to Frank Sinatra. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "420648@10",
+  "sire": "353490@13",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7101,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

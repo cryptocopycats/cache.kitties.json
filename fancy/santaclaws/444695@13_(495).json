@@ -1,0 +1,23 @@
+{
+  "id": 444695,
+  "name": null,
+  "generation": 13,
+  "created_at": "2018-01-02T09:57:40.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! I'm Kitty #444695. My friends describe me as gorgeous and brilliant. I would give it all up for a Chanel purse. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "351600@10",
+  "sire": "418191@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 495,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

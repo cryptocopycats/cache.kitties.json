@@ -1,0 +1,27 @@
+{
+  "id": 448544,
+  "name": null,
+  "generation": 5,
+  "created_at": "2018-01-03T14:11:01.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #448544. I'm a professional Spin Instructor  and I love wet food. My great-great-great-great-great-great grandkitty lived with Nelson Mandela. I look forward to riding unicorns with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "176519@2",
+  "sire": "426823@4",
+  "children": [
+    "1104005@6",
+    "1104164@6",
+    "1104399@6",
+    "1104712@6",
+    "1105211@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7542,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

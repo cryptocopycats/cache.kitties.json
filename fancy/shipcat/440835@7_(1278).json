@@ -1,0 +1,25 @@
+{
+  "id": 440835,
+  "name": null,
+  "generation": 7,
+  "created_at": "2018-01-01T13:30:42.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good morning! I'm Kitty #440835. I enjoy taking selfies, reading garfield, and being a nevernude. In my free time, I can usually be found prickly or playing chess. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "417453@6",
+  "sire": "393683@6",
+  "children": [
+    "441353@10",
+    "456542@8",
+    "546571@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1278,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

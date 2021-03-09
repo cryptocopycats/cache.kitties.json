@@ -1,0 +1,23 @@
+{
+  "id": 442480,
+  "name": "General Tso's",
+  "generation": 4,
+  "created_at": "2018-01-01T22:12:23.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! General Tso's here. I'm here to enjoy slappin' da bass and reciting poetry. My secret indulgence is cereal. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "433788@3",
+  "sire": "442077@3",
+  "children": [
+    "499891@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7453,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

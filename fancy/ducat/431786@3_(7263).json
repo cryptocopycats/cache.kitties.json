@@ -1,0 +1,26 @@
+{
+  "id": 431786,
+  "name": "同行十二年",
+  "generation": 3,
+  "created_at": "2017-12-30T08:09:40.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "gold",
+  "bio": "What's up! I'm 同行十二年. All you need to know about me is I hate salad with a passion. I put pickles on everything. Like, everything: hot dogs, cereal—everything! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "121543@2",
+  "sire": "138072@2",
+  "children": [
+    "549036@4",
+    "549892@9",
+    "551157@4",
+    "559100@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7263,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

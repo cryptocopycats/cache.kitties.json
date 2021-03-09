@@ -1,0 +1,23 @@
+{
+  "id": 422457,
+  "name": "Miracle",
+  "generation": 5,
+  "created_at": "2017-12-28T13:37:48.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Mahalo! I'm Miracle. In high school, I was voted most likely to work at NASA. I once dreamed of being a Spin Instructor . Now I can be found mocking dogs all day. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "416856@4",
+  "sire": "401265@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7126,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 435709,
+  "name": "KitKatBird",
+  "generation": 5,
+  "created_at": "2017-12-31T08:19:56.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm KitKatBird. All you need to know about me is I hate apple pie with a passion. It wasn't heavily publicized, but I once had a brief relationship with Felix the Cat. Can you make my despicable dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "432529@4",
+  "sire": "379468@4",
+  "children": [
+    "435827@6",
+    "438449@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7350,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

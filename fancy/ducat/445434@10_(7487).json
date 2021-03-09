@@ -1,0 +1,23 @@
+{
+  "id": 445434,
+  "name": "Rare Fancy Virginia",
+  "generation": 10,
+  "created_at": "2018-01-02T15:22:46.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Rare Fancy Virginia. I'm a Dispensary Clerk by day, and I like talking about how much I lift by night. My great-great-great-great-great-great grandkitty lived with Martin Luther King Jr.. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "350446@9",
+  "sire": "353607@5",
+  "children": [
+    "446081@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7487,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

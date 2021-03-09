@@ -1,0 +1,25 @@
+{
+  "id": 433313,
+  "name": null,
+  "generation": 3,
+  "created_at": "2017-12-30T18:59:36.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ciao! I'm Kitty #433313. I believe the world is flat. When I'm not sleeping in fresh laundry, I'm volunteering at the local kitten rescue shelter! I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "414398@2",
+  "sire": "401731@2",
+  "children": [
+    "552825@4",
+    "553061@4",
+    "554050@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1235,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

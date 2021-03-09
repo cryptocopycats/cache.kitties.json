@@ -1,0 +1,25 @@
+{
+  "id": 429521,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-29T18:26:49.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm Kitty #429521. I'm often referred to as the Ross Geller of the group. Some people say I'm the Ross Geller of the group. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "407995@3",
+  "sire": "244204@3",
+  "children": [
+    "436148@5",
+    "436235@5",
+    "449668@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7209,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

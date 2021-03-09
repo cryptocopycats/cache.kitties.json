@@ -1,0 +1,23 @@
+{
+  "id": 428063,
+  "name": null,
+  "generation": 20,
+  "created_at": "2017-12-29T10:48:41.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Mahalo! I'm Kitty #428063. I want to live in a world where people believe the world is flat. Sometimes I daydream of a life full of grooming, cantaloupe, and practicing witchcraft. I look forward to eating lasagna with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "421994@19",
+  "sire": "404598@10",
+  "children": [
+    "1106909@21"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7188,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

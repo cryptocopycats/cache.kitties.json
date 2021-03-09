@@ -1,0 +1,23 @@
+{
+  "id": 433410,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-30T19:34:11.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! Kitty #433410 here. I'm here to enjoy tricking babies and sitting on your computer. I was voted biggest teacher's pet in college. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "371403@3",
+  "sire": "326515@3",
+  "children": [
+    "435550@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1030,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

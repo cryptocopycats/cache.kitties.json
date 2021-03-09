@@ -1,0 +1,23 @@
+{
+  "id": 417321,
+  "name": "Kitty meow meow",
+  "generation": 22,
+  "created_at": "2017-12-27T16:00:46.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Good morning! I'm Kitty meow meow. All you need to know about me is I hate steak with a passion. I put peanut butter on everything. Like, everything: hot dogs, hamburgers—everything! We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "411122@17",
+  "sire": "401756@21",
+  "children": [
+    "432963@23"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7063,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

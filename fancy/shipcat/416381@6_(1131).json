@@ -1,0 +1,33 @@
+{
+  "id": 416381,
+  "name": "Fancy ShipCat",
+  "generation": 6,
+  "created_at": "2017-12-27T10:39:27.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Fancy ShipCat. I believe that one day cats will rule this planet. I like to listen to Mariah Carey while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "383064@4",
+  "sire": "412032@5",
+  "children": [
+    "423406@7",
+    "423669@7",
+    "424378@7",
+    "441072@7",
+    "474705@9",
+    "481468@7",
+    "485643@7",
+    "490259@11",
+    "580030@7",
+    "883621@7",
+    "1686937@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1131,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

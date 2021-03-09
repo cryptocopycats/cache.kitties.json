@@ -1,0 +1,24 @@
+{
+  "id": 435219,
+  "name": "Fancy DuCat Gen6 Virgin!",
+  "generation": 6,
+  "created_at": "2017-12-31T05:10:14.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "What's up! I'm Fancy DuCat Gen6 Virgin!. In high school, I was voted biggest teacher's pet. Some people say I'm the Neville Longbottom of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "413692@5",
+  "sire": "419708@5",
+  "children": [
+    "435286@7",
+    "698985@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7338,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

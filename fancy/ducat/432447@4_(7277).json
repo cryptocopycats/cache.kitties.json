@@ -1,0 +1,32 @@
+{
+  "id": 432447,
+  "name": null,
+  "generation": 4,
+  "created_at": "2017-12-30T13:26:16.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #432447. I want to live in a world where people believe that one day cats will rule this planet. In my free time, I can usually be found preposterous or tricking babies. Will you be the soy sauce to my marmite?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "422198@3",
+  "sire": "383621@3",
+  "children": [
+    "434358@5",
+    "434844@5",
+    "435353@5",
+    "436718@5",
+    "479227@5",
+    "484654@5",
+    "486071@5",
+    "497043@5",
+    "561275@5",
+    "569366@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7277,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

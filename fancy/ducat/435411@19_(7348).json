@@ -1,0 +1,23 @@
+{
+  "id": 435411,
+  "name": "Catbird",
+  "generation": 19,
+  "created_at": "2017-12-31T06:10:03.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Heyo! I'm Catbird. I'm a Train Conductor by day, and I like pole dancing by night. It wasn't heavily publicized, but I once had a brief relationship with Hobbes. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "430646@18",
+  "sire": "428250@8",
+  "children": [
+    "437457@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7348,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

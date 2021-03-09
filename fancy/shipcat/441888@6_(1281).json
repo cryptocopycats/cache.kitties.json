@@ -1,0 +1,23 @@
+{
+  "id": 441888,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-01T19:26:24.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Kitty #441888. I believe the world is flat. I'm often described as brilliant, and I own it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "440458@5",
+  "sire": "372637@5",
+  "children": [
+    "451151@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1281,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

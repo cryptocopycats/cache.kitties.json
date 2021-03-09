@@ -1,0 +1,26 @@
+{
+  "id": 449020,
+  "name": null,
+  "generation": 8,
+  "created_at": "2018-01-04T00:02:33.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #449020. My friends describe me as voluptuous and gullible. My secret indulgence is ice cream. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "448332@7",
+  "sire": "447984@7",
+  "children": [
+    "449401@9",
+    "449474@9",
+    "454038@14",
+    "790504@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 110,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

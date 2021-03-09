@@ -1,0 +1,24 @@
+{
+  "id": 423646,
+  "name": null,
+  "generation": 9,
+  "created_at": "2017-12-28T18:40:25.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #423646. In high school, I was voted school jock. I was voted school jock in college. Can you make my wondrous dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "423262@5",
+  "sire": "309934@8",
+  "children": [
+    "424295@10",
+    "438951@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7141,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

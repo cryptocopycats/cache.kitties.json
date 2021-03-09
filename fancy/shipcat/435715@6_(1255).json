@@ -1,0 +1,26 @@
+{
+  "id": 435715,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-31T08:21:07.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ugh! I'm Kitty #435715. I'm often referred to as the Hermione Granger of the group. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope we can be smelly friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "372637@5",
+  "sire": "371532@5",
+  "children": [
+    "441405@10",
+    "474011@10",
+    "631184@10",
+    "639218@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1255,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

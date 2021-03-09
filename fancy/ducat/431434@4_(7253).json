@@ -1,0 +1,26 @@
+{
+  "id": 431434,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2017-12-30T05:47:18.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm RARE BIRD! Fancy!. I'm a professional Spin Instructor  and I love wet food. Some people say I'm the Marge Simpson of the group. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "422198@3",
+  "sire": "395675@3",
+  "children": [
+    "432176@5",
+    "435102@5",
+    "497138@5",
+    "561062@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7253,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

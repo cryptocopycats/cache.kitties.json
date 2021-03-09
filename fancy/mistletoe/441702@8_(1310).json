@@ -1,0 +1,23 @@
+{
+  "id": 441702,
+  "name": null,
+  "generation": 8,
+  "created_at": "2018-01-01T18:28:59.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Mahalo! I'm Kitty #441702. I'm often referred to as the Frodo Baggins of the group. I'm convinced that that one day cats will rule this planet. One day I'll prove it. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "414974@6",
+  "sire": "426225@7",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1310,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

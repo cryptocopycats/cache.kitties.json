@@ -1,0 +1,28 @@
+{
+  "id": 421620,
+  "name": "Gen 2 | ShipCat",
+  "generation": 2,
+  "created_at": "2017-12-28T09:39:22.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! I'm Gen 2 | ShipCat. I've never told anyone this, but I once kissed a dog. When no one's home, I invite my pals over and we listen to Justin Bieber. I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "416299@1",
+  "sire": "344366@1",
+  "children": [
+    "427784@6",
+    "431423@3",
+    "434986@3",
+    "440023@5",
+    "448479@3",
+    "449302@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1166,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

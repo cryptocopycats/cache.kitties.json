@@ -1,0 +1,25 @@
+{
+  "id": 419580,
+  "name": null,
+  "generation": 11,
+  "created_at": "2017-12-28T01:38:40.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Heyo! Kitty #419580 here. I'm here to enjoy picking on mice and staying woke. My great-great-great-great-great-great grandkitty lived with Mother Theresa. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "325652@10",
+  "sire": "297880@8",
+  "children": [
+    "426920@21",
+    "444054@19",
+    "546520@12"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 7084,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

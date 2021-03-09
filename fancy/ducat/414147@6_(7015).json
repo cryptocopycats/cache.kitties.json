@@ -1,0 +1,23 @@
+{
+  "id": 414147,
+  "name": "unicorn",
+  "generation": 6,
+  "created_at": "2017-12-27T00:45:46.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Sup playa! I'm unicorn. I've never told anyone this, but I once pranced with a dog. My secret indulgence is cereal. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "326269@5",
+  "sire": "344442@5",
+  "children": [
+    "432574@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7015,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

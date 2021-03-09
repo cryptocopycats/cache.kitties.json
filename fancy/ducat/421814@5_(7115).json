@@ -1,0 +1,23 @@
+{
+  "id": 421814,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-28T10:33:10.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Good day! I'm Kitty #421814. All you need to know about me is I hate salad with a passion. In my free time, I can usually be found brilliant or volunteering at the local kitten rescue shelter. Can't wait to eat cereal with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "289115@4",
+  "sire": "354776@3",
+  "children": [
+    "451250@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7115,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

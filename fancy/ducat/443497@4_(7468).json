@@ -1,0 +1,25 @@
+{
+  "id": 443497,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2018-01-02T02:42:37.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm RARE BIRD! Fancy!. I'm a professional Spin Instructor  and I love apple pie. It wasn't heavily publicized, but I once had a brief relationship with Puss in Boots. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431495@3",
+  "sire": "422198@3",
+  "children": [
+    "462226@5",
+    "492803@5",
+    "496946@5"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7468,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

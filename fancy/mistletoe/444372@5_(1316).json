@@ -1,0 +1,33 @@
+{
+  "id": 444372,
+  "name": "4-j-7",
+  "generation": 5,
+  "created_at": "2018-01-02T08:09:51.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Uh, hi! My name's 4-j-7. I once peed on Princess Diana's cat. They had it coming. My friends describe me as \"gorgeous.\" It's... accurate. I hope we can be brilliant friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "406647@4",
+  "sire": "385121@4",
+  "children": [
+    "445398@6",
+    "445474@6",
+    "448685@6",
+    "449791@6",
+    "450334@6",
+    "450973@6",
+    "451522@6",
+    "455422@6",
+    "460455@6",
+    "471618@6",
+    "480126@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1316,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

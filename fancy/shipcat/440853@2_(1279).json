@@ -1,0 +1,24 @@
+{
+  "id": 440853,
+  "name": "Gen 2 | ShipCat",
+  "generation": 2,
+  "created_at": "2018-01-01T13:35:54.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! My name's Gen 2 | ShipCat. I once peed on King Henry VIII's cat. They had it coming. It's not common knowledge, but my ancestry connects me to King Henry VIII. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "432615@1",
+  "sire": "418553@1",
+  "children": [
+    "446913@5",
+    "547665@3"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1279,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

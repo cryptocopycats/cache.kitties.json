@@ -1,0 +1,23 @@
+{
+  "id": 433625,
+  "name": "ANDRE",
+  "generation": 15,
+  "created_at": "2017-12-30T20:53:22.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "What's up! I'm ANDRE. I'm often referred to as the Ron Weasley of the group. I'm convinced that the world is flat. One day I'll prove it. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "409484@14",
+  "sire": "412197@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1276,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

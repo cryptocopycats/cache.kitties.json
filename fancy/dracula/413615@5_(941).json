@@ -1,0 +1,25 @@
+{
+  "id": 413615,
+  "name": "Murnau",
+  "generation": 5,
+  "created_at": "2017-12-26T22:37:25.000Z",
+  "birthday": "2017-12-26T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! I'm Murnau. I've never told anyone this, but I once groomed a dog. My great-great-great-great-great-great grandkitty lived with Amelia Earhart. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "348532@4",
+  "sire": "387202@4",
+  "children": [
+    "414083@6",
+    "439805@6",
+    "542417@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 941,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

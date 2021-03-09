@@ -1,0 +1,24 @@
+{
+  "id": 442562,
+  "name": "Popeye",
+  "generation": 8,
+  "created_at": "2018-01-01T22:34:46.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Popeye. I believe the world is flat. It's not common knowledge, but my ancestry connects me to Nelson Mandela. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "442123@6",
+  "sire": "426207@7",
+  "children": [
+    "442832@9",
+    "450171@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1288,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

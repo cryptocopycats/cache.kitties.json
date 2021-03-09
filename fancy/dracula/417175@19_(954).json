@@ -1,0 +1,25 @@
+{
+  "id": 417175,
+  "name": "Hell Director",
+  "generation": 19,
+  "created_at": "2017-12-27T15:10:38.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Hell Director. My friends describe me as wondrous and petulant. I was voted school jock in college. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "404259@18",
+  "sire": "302796@10",
+  "children": [
+    "543998@20",
+    "561931@20",
+    "574095@20"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 954,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

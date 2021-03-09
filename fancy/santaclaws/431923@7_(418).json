@@ -1,0 +1,23 @@
+{
+  "id": 431923,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-30T09:23:48.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Uh, hi! I'm Kitty #431923. I've never told anyone this, but I once loved a dog. Sometimes I daydream of a life full of shakin' dat booty, wet food, and swiping right. Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "431608@6",
+  "sire": "431600@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 418,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

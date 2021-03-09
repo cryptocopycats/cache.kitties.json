@@ -1,0 +1,28 @@
+{
+  "id": 434698,
+  "name": "#440 - all santa",
+  "generation": 14,
+  "created_at": "2017-12-31T02:25:33.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm #440 - all santa. I've never told anyone this, but I once tricked a dog. I once made a goose ignore. Will you be the marmite to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "434321@13",
+  "sire": "428344@13",
+  "children": [
+    "435738@15",
+    "441169@15",
+    "465474@15",
+    "471935@15",
+    "486175@15",
+    "546539@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 440,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

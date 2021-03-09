@@ -1,0 +1,27 @@
+{
+  "id": 430184,
+  "name": "ShipCat",
+  "generation": 3,
+  "created_at": "2017-12-29T22:06:14.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm ShipCat. I enjoy tricking babies, chasing red dots, and glaring at the neighbour's cat. My secret indulgence is salad. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "421630@2",
+  "sire": "415754@2",
+  "children": [
+    "434852@4",
+    "443324@4",
+    "460220@4",
+    "1402376@8",
+    "1408540@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1222,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

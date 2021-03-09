@@ -1,0 +1,30 @@
+{
+  "id": 449653,
+  "name": "OG - fuzz",
+  "generation": 8,
+  "created_at": "2018-01-04T08:12:51.000Z",
+  "birthday": "2018-01-04T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Ciao! My name's OG - fuzz. I once peed on John F. Kennedy Jr.'s cat. They had it coming. I'm convinced that the world is flat. One day I'll prove it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "449513@7",
+  "sire": "443798@7",
+  "children": [
+    "451080@9",
+    "451662@9",
+    "452186@9",
+    "453670@9",
+    "461651@9",
+    "467284@9",
+    "511644@9",
+    "542771@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 119,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

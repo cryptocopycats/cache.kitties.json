@@ -1,0 +1,26 @@
+{
+  "id": 424312,
+  "name": "The Count",
+  "generation": 9,
+  "created_at": "2017-12-28T20:59:15.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! The Count here. I'm here to enjoy fighting the patriarchy and staying woke. In my free time, I can usually be found fabulous or watching reality tv. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "417583@8",
+  "sire": "390359@8",
+  "children": [
+    "453759@10",
+    "546641@14",
+    "573623@10",
+    "577784@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 979,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

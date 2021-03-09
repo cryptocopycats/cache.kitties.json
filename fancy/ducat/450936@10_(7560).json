@@ -1,0 +1,27 @@
+{
+  "id": 450936,
+  "name": "FlyingKittyCatty",
+  "generation": 10,
+  "created_at": "2018-01-05T10:42:09.000Z",
+  "birthday": "2018-01-05T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Yo! I'm FlyingKittyCatty. I believe the world is flat. I was voted school jock in college. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "450768@7",
+  "sire": "441222@9",
+  "children": [
+    "461501@11",
+    "513531@11",
+    "569237@11",
+    "601406@12",
+    "1127485@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7560,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

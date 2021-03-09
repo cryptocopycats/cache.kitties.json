@@ -1,0 +1,24 @@
+{
+  "id": 452046,
+  "name": "GEN 5 SANTA",
+  "generation": 5,
+  "created_at": "2018-01-06T07:48:14.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! My name's GEN 5 SANTA. I once peed on Mother Theresa's cat. They had it coming. When I'm not pole dancing, I'm siring for status! We're so fur-tunate to have found each other!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "442277@4",
+  "sire": "419204@4",
+  "children": [
+    "453151@8",
+    "549550@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 514,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

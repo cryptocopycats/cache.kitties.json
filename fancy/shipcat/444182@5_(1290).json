@@ -1,0 +1,31 @@
+{
+  "id": 444182,
+  "name": "a-7-a-ee",
+  "generation": 5,
+  "created_at": "2018-01-02T06:54:01.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Good day! I'm a-7-a-ee. All you need to know about me is I hate chocolate with a passion. I once loved a dolphin. I don't like to talk about it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "369920@4",
+  "sire": "339743@4",
+  "children": [
+    "448630@6",
+    "448669@6",
+    "450255@6",
+    "450852@6",
+    "451132@6",
+    "454532@6",
+    "455221@6",
+    "471626@6",
+    "478692@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1290,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

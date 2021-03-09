@@ -1,0 +1,24 @@
+{
+  "id": 418295,
+  "name": "⚓ SailorKitty 🚢",
+  "generation": 3,
+  "created_at": "2017-12-27T20:42:49.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Oh hi! I'm ⚓ SailorKitty 🚢. I'm often referred to as the Frodo Baggins of the group. When no one's home, I invite my pals over and we listen to Mariah Carey. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "415830@2",
+  "sire": "413360@2",
+  "children": [
+    "484798@5",
+    "497462@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1146,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

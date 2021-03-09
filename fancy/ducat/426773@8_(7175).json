@@ -1,0 +1,23 @@
+{
+  "id": 426773,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-29T05:23:24.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Mahalo! Kitty #426773 here. I'm here to enjoy staying woke and grooming. Some people say I'm the Jon Snow of the group. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "419850@7",
+  "sire": "418215@5",
+  "children": [
+    "438978@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7175,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

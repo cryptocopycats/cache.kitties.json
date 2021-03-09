@@ -1,0 +1,24 @@
+{
+  "id": 444864,
+  "name": null,
+  "generation": 18,
+  "created_at": "2018-01-02T11:01:15.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "*hissing noises*! I'm Kitty #444864. All you need to know about me is I hate steak with a passion. When my owner isn't watching, I steal their clutches and use them for litter paper. I'm not sorry. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "413291@17",
+  "sire": "332271@10",
+  "children": [
+    "500843@19",
+    "600474@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7480,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

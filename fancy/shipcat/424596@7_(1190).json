@@ -1,0 +1,25 @@
+{
+  "id": 424596,
+  "name": "Rare Cat! Fancy!",
+  "generation": 7,
+  "created_at": "2017-12-28T22:02:39.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Rare Cat! Fancy!. I'm often referred to as the Chandler Bing of the group. When I'm not prank-calling celebrities, I'm jump-roping! Can't wait to eat hamburgers with you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "412559@6",
+  "sire": "420433@6",
+  "children": [
+    "433156@9",
+    "442858@8",
+    "507343@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1190,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

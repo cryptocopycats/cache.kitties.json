@@ -1,0 +1,29 @@
+{
+  "id": 415146,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-27T05:19:28.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Good day! I'm Kitty #415146. I want to live in a world where people believe that one day cats will rule this planet. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "411204@4",
+  "sire": "410244@4",
+  "children": [
+    "415566@6",
+    "436756@7",
+    "511250@6",
+    "517124@8",
+    "518851@6",
+    "533918@23",
+    "628635@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 320,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

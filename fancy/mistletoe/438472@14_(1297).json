@@ -1,0 +1,23 @@
+{
+  "id": 438472,
+  "name": null,
+  "generation": 14,
+  "created_at": "2018-01-01T00:32:44.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*hissing noises*! Kitty #438472 here. I'm here to enjoy taking selfies and eating until I loathe myself. I am 80% wizard, 38% Dogwalker, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "415026@8",
+  "sire": "430798@13",
+  "children": [
+    "439464@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1297,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

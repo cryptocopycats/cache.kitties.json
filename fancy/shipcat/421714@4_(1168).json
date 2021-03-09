@@ -1,0 +1,24 @@
+{
+  "id": 421714,
+  "name": "Gen 4 Shipcat",
+  "generation": 4,
+  "created_at": "2017-12-28T10:01:39.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Gen 4 Shipcat. I'm a professional Culinary Sanitation Specialist and I love ice cream. I like to listen to Coldplay while grooming. Don't judge me. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "421581@3",
+  "sire": "414682@3",
+  "children": [
+    "422127@9",
+    "423167@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1168,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

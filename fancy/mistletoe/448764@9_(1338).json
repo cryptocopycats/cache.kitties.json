@@ -1,0 +1,23 @@
+{
+  "id": 448764,
+  "name": "Gucci",
+  "generation": 9,
+  "created_at": "2018-01-03T20:04:54.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Gucci. I'm a professional Train Conductor and I love wet food. Some people say I'm the Michael Scott of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "429819@5",
+  "sire": "381621@8",
+  "children": [
+    "448956@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1338,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

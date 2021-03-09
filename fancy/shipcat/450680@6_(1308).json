@@ -1,0 +1,23 @@
+{
+  "id": 450680,
+  "name": "Eugene",
+  "generation": 6,
+  "created_at": "2018-01-05T02:08:16.000Z",
+  "birthday": "2018-01-05T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hey cutie! I'm Eugene. In high school, I was voted biggest teacher's pet. I put cinammon on everything. Like, everything: hot dogs, chocolate—everything! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "213660@4",
+  "sire": "344578@5",
+  "children": [
+    "485497@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1308,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

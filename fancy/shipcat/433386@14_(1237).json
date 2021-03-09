@@ -1,0 +1,23 @@
+{
+  "id": 433386,
+  "name": "Antoinette the Shipcat",
+  "generation": 14,
+  "created_at": "2017-12-30T19:25:49.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Sup playa! I'm Antoinette the Shipcat. I'm a Mad Scientist by day, and I like summoning ghosts by night. It's not common knowledge, but my ancestry connects me to Marie Antoinette. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "431936@8",
+  "sire": "431201@13",
+  "children": [
+    "1401228@17"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1237,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

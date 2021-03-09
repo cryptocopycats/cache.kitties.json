@@ -1,0 +1,23 @@
+{
+  "id": 415482,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-27T06:33:01.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Kitty #415482. I've never told anyone this, but I once pawed at a dog. I'm often described as seductive, and I own it. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "395163@4",
+  "sire": "409370@6",
+  "children": [
+    "422636@18"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7030,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

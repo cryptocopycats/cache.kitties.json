@@ -1,0 +1,23 @@
+{
+  "id": 447551,
+  "name": null,
+  "generation": 13,
+  "created_at": "2018-01-03T04:44:05.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #447551. I'm often referred to as the Ross Geller of the group. I am 51% hobbit, 14% Culinary Sanitation Specialist, and otherwise bad at math. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "436975@12",
+  "sire": "403156@6",
+  "children": [
+    "453279@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1072,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

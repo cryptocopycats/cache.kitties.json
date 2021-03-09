@@ -1,0 +1,23 @@
+{
+  "id": 440289,
+  "name": "Ari BirbCat",
+  "generation": 16,
+  "created_at": "2018-01-01T09:41:39.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Hey cutie! I'm Ari BirbCat. I'm a Mad Scientist by day, and I like reading Danielle Steele by night. I am 36% elf, 72% Foreign Film Director, and otherwise bad at math. Can you make my raunchy dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "426870@14",
+  "sire": "434677@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7421,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

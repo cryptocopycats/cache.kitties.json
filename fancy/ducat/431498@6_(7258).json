@@ -1,0 +1,23 @@
+{
+  "id": 431498,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-30T06:12:45.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Mahalo! Kitty #431498 here. I'm here to enjoy picking on mice and shakin' dat booty. I am 30% sphinx, 55% Foreign Film Director, and otherwise bad at math. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "405735@5",
+  "sire": "396408@5",
+  "children": [
+    "478989@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7258,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

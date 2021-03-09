@@ -1,0 +1,26 @@
+{
+  "id": 443466,
+  "name": "Pepe Sense",
+  "generation": 6,
+  "created_at": "2018-01-02T02:34:03.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Hi-ya! I'm Pepe Sense. I'm often referred to as the Dwight Schrute of the group. I like to listen to Wutang while grooming. Don't judge me. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "367561@5",
+  "sire": "247827@5",
+  "children": [
+    "474558@14",
+    "480010@16",
+    "480269@10",
+    "498206@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7466,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

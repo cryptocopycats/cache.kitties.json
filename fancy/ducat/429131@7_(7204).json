@@ -1,0 +1,23 @@
+{
+  "id": 429131,
+  "name": "Tweety kat",
+  "generation": 7,
+  "created_at": "2017-12-29T16:13:33.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Tweety kat. In high school, I was voted most likely to work at NASA. My great-great-great-great-great-great grandkitty lived with John F. Kennedy Jr.. I look forward to reciting poetry with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "366869@6",
+  "sire": "378250@4",
+  "children": [
+    "469101@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7204,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

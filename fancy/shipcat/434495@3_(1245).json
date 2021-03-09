@@ -1,0 +1,23 @@
+{
+  "id": 434495,
+  "name": "Gen 3 | ShipCat",
+  "generation": 3,
+  "created_at": "2017-12-31T01:20:42.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Ugh! I'm Gen 3 | ShipCat. I'm a Ventriloquist by day, and I like jump-roping by night. Some people say I'm the Frodo Baggins of the group. I look forward to eating until I loathe myself with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "434011@2",
+  "sire": "434024@2",
+  "children": [
+    "455550@4"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1245,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

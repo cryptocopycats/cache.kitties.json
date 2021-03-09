@@ -1,0 +1,24 @@
+{
+  "id": 432942,
+  "name": "Cat Dracula",
+  "generation": 6,
+  "created_at": "2017-12-30T16:39:01.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Cat Dracula. All you need to know about me is I hate apple pie with a passion. I once made a rhino scare. Will you be the wasabi to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "412916@4",
+  "sire": "205429@5",
+  "children": [
+    "435930@15",
+    "436102@12"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1025,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 441065,
+  "name": "#18 - Phuziqaat",
+  "generation": 6,
+  "created_at": "2018-01-01T14:55:04.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Uh, hi! I'm #18 - Phuziqaat. I enjoy licking doorknobs, fighting the patriarchy, and slappin' da bass. My secret indulgence is cereal. Our friendship will be annoying, stinky, and full of steak.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "439924@5",
+  "sire": "439953@5",
+  "children": [
+    "444309@9",
+    "546340@9",
+    "547287@9",
+    "548700@11",
+    "550238@12",
+    "552337@10",
+    "556704@11",
+    "571698@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 18,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

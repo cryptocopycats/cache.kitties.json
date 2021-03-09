@@ -1,0 +1,27 @@
+{
+  "id": 433621,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-30T20:52:45.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Aloha! I'm Kitty #433621. I've never told anyone this, but I once bit a dog. When I'm not mocking dogs, I'm riverdancing! I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "432781@4",
+  "sire": "432882@4",
+  "children": [
+    "433705@6",
+    "433845@6",
+    "1013877@6",
+    "1015189@6",
+    "1783845@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7303,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

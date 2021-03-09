@@ -1,0 +1,25 @@
+{
+  "id": 419440,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-28T01:12:37.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "*hissing noises*! I'm Kitty #419440. I've never told anyone this, but I once pawed at a dog. Some people say I'm the Peter Griffin of the group. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "303184@9",
+  "sire": "304722@8",
+  "children": [
+    "443877@11",
+    "446366@11",
+    "447193@13"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1237,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

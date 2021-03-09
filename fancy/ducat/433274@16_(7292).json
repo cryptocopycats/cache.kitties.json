@@ -1,0 +1,23 @@
+{
+  "id": 433274,
+  "name": null,
+  "generation": 16,
+  "created_at": "2017-12-30T18:47:45.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Shalom! I'm Kitty #433274. All you need to know about me is I hate ice cream with a passion. I once snuggled a rhino. I don't like to talk about it. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "382796@15",
+  "sire": "391725@8",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7292,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

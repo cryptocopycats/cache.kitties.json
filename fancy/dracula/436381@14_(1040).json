@@ -1,0 +1,23 @@
+{
+  "id": 436381,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-31T12:44:55.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Aloha! I'm Kitty #436381. All you need to know about me is I hate hamburgers with a passion. I once got in a fight with a goose, and won. Will you be the cinammon to my marmalade?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "400670@10",
+  "sire": "395883@13",
+  "children": [
+    "440045@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1040,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

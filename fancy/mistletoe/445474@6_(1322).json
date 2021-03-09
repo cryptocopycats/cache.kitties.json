@@ -1,0 +1,23 @@
+{
+  "id": 445474,
+  "name": "[Epic] Meowsers",
+  "generation": 6,
+  "created_at": "2018-01-02T15:34:37.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Yo! My name's [Epic] Meowsers. I once peed on Martin Luther King Jr.'s cat. They had it coming. It wasn't heavily publicized, but I once had a brief relationship with Stimpy. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "444372@5",
+  "sire": "438190@5",
+  "children": [
+    "453308@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1322,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

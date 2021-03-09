@@ -1,0 +1,24 @@
+{
+  "id": 427691,
+  "name": null,
+  "generation": 24,
+  "created_at": "2017-12-29T09:09:45.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Good day! I'm Kitty #427691. My friends describe me as gorgeous and brilliant. I once made a platypus enjoy. This will be an amewsing friendship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "139982@23",
+  "sire": "370890@14",
+  "children": [
+    "444595@26",
+    "455675@25"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7185,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

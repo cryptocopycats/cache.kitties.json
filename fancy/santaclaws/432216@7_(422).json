@@ -1,0 +1,24 @@
+{
+  "id": 432216,
+  "name": "SantaClaws",
+  "generation": 7,
+  "created_at": "2017-12-30T11:22:36.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Yo! I'm SantaClaws. I enjoy eating lasagna, watching Stranger Things, and tripping my owner. I'm convinced that the world is flat. One day I'll prove it. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "427064@6",
+  "sire": "428137@6",
+  "children": [
+    "437200@8",
+    "445096@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 422,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

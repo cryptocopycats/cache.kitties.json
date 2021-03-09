@@ -1,0 +1,27 @@
+{
+  "id": 435986,
+  "name": null,
+  "generation": 7,
+  "created_at": "2017-12-31T10:06:36.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Hey cutie! I'm Kitty #435986. In high school, I was voted school jock. I put wasabi on everything. Like, everything: hot dogs, steak—everything! Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "421180@6",
+  "sire": "408332@6",
+  "children": [
+    "471551@8",
+    "471721@11",
+    "476485@8",
+    "497023@10",
+    "531389@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1039,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

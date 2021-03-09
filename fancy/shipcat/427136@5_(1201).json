@@ -1,0 +1,27 @@
+{
+  "id": 427136,
+  "name": "RARE ShipCat G-5",
+  "generation": 5,
+  "created_at": "2017-12-29T06:44:17.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Hey cutie! My name's RARE ShipCat G-5. I once peed on Amelia Earhart's cat. They had it coming. I once dreamed of being a Dogwalker. Now I can be found talking about how much I lift all day. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "422491@4",
+  "sire": "421869@4",
+  "children": [
+    "493356@6",
+    "660018@6",
+    "660031@6",
+    "660091@6",
+    "661116@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1201,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

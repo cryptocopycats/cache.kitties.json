@@ -1,0 +1,23 @@
+{
+  "id": 434744,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-31T02:37:19.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! Kitty #434744 here. I'm here to enjoy picking flowers and sweating through my feet. I once made a dolphin ignore. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "227325@5",
+  "sire": "423325@5",
+  "children": [
+    "563953@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7326,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

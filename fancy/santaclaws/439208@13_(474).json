@@ -1,0 +1,28 @@
+{
+  "id": 439208,
+  "name": "Santa Claws",
+  "generation": 13,
+  "created_at": "2018-01-01T04:31:34.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Heyo! My name's Santa Claws. I once peed on Amelia Earhart's cat. They had it coming. It's not common knowledge, but my ancestry connects me to Amelia Earhart. In time you'll learn how purrfect I am.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "430063@12",
+  "sire": "401102@10",
+  "children": [
+    "444712@14",
+    "446616@14",
+    "457901@14",
+    "474291@14",
+    "482220@14",
+    "493238@14"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 474,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

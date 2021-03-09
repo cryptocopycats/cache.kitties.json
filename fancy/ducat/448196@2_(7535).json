@@ -1,0 +1,23 @@
+{
+  "id": 448196,
+  "name": "Duck 1/5 G2",
+  "generation": 2,
+  "created_at": "2018-01-03T10:09:27.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Oh hi! I'm Duck 1/5 G2. I enjoy hitting on yo' man, reciting poetry, and fighting the patriarchy. I would give it all up for a Chanel purse. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "112489@1",
+  "sire": "95857@1",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7535,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

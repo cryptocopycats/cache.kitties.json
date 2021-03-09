@@ -1,0 +1,23 @@
+{
+  "id": 444595,
+  "name": null,
+  "generation": 26,
+  "created_at": "2018-01-02T09:22:48.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "limegreen",
+  "bio": "Ciao! I'm Kitty #444595. I believe the world is flat. I'm often described as ridiculous, and I own it. Will you be the peanut butter to my ghost pepper hot sauce?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "417596@25",
+  "sire": "427691@24",
+  "children": [
+    "458049@27"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7477,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

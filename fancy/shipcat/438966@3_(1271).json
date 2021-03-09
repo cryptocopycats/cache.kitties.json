@@ -1,0 +1,23 @@
+{
+  "id": 438966,
+  "name": null,
+  "generation": 3,
+  "created_at": "2018-01-01T03:20:13.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "*waves*! I'm Kitty #438966. I want to live in a world where people believe that one day cats will rule this planet. Sometimes I daydream of a life full of picking flowers, wet food, and practicing witchcraft. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "434958@2",
+  "sire": "423157@2",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1271,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

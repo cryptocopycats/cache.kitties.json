@@ -1,0 +1,25 @@
+{
+  "id": 422489,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-28T13:44:42.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Ugh! I'm Kitty #422489. I want to live in a world where people believe the world is flat. My great-great-great-great-great-great grandkitty lived with Marie Antoinette. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "416702@13",
+  "sire": "412544@13",
+  "children": [
+    "424944@15",
+    "428045@18",
+    "431279@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 369,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

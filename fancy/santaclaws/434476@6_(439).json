@@ -1,0 +1,23 @@
+{
+  "id": 434476,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-31T01:15:03.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "What's up! I'm Kitty #434476. I've never told anyone this, but I once cleaned a dog. I am 4% elf, 14% Dispensary Clerk, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "434308@5",
+  "sire": "434287@5",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 439,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

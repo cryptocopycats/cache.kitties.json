@@ -1,0 +1,27 @@
+{
+  "id": 431488,
+  "name": null,
+  "generation": 8,
+  "created_at": "2017-12-30T06:11:29.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! Kitty #431488 here. I'm here to enjoy riding dirty and glaring at the neighbour's cat. In my free time, I can usually be found vegan or running a podcast. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "416100@7",
+  "sire": "415120@3",
+  "children": [
+    "431839@9",
+    "435501@9",
+    "541205@9",
+    "543376@9",
+    "549110@9"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1228,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

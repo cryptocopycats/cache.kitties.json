@@ -1,0 +1,24 @@
+{
+  "id": 423873,
+  "name": null,
+  "generation": 14,
+  "created_at": "2017-12-28T19:26:37.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Oh hi! I'm Kitty #423873. I believe the world is flat. When I'm not swiping left, I'm watching reality tv! I look forward to chasing string with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "304956@13",
+  "sire": "342926@12",
+  "children": [
+    "424756@15",
+    "491128@15"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7144,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

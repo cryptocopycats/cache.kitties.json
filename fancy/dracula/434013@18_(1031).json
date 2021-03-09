@@ -1,0 +1,23 @@
+{
+  "id": 434013,
+  "name": null,
+  "generation": 18,
+  "created_at": "2017-12-30T23:01:08.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Shalom! I'm Kitty #434013. I've never told anyone this, but I once pawed at a dog. I'm often described as hairy, and I own it. I hope we can be annoying friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "264967@9",
+  "sire": "346644@17",
+  "children": [
+    "449007@19"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1031,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

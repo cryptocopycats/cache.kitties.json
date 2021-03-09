@@ -1,0 +1,23 @@
+{
+  "id": 443535,
+  "name": "FANCY DuCAT GEN 12 BRISK!",
+  "generation": 12,
+  "created_at": "2018-01-02T02:55:22.000Z",
+  "birthday": "2018-01-02T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Ciao! I'm FANCY DuCAT GEN 12 BRISK!. My friends describe me as fabulous and prickly. I once made a moose sulk. I look forward to eating lasagna with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "402653@11",
+  "sire": "261226@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7469,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

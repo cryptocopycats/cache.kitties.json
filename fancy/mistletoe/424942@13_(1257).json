@@ -1,0 +1,23 @@
+{
+  "id": 424942,
+  "name": null,
+  "generation": 13,
+  "created_at": "2017-12-28T23:04:15.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Sup playa! I'm Kitty #424942. I believe that one day cats will rule this planet. I am 9% oracle, 8% Skydiving Instructor, and otherwise bad at math. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "409509@9",
+  "sire": "422557@12",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1257,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

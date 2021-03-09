@@ -1,0 +1,24 @@
+{
+  "id": 442123,
+  "name": null,
+  "generation": 6,
+  "created_at": "2018-01-01T20:29:10.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Shalom! I'm Kitty #442123. I've never told anyone this, but I once cleaned a dog. When I'm not riverdancing, I'm sleeping in fresh laundry! Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "440458@5",
+  "sire": "371532@5",
+  "children": [
+    "442562@8",
+    "444851@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1283,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

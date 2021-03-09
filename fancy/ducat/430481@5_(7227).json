@@ -1,0 +1,23 @@
+{
+  "id": 430481,
+  "name": null,
+  "generation": 5,
+  "created_at": "2017-12-29T23:36:23.000Z",
+  "birthday": "2017-12-29T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Uh, hi! I'm Kitty #430481. All you need to know about me is I hate cereal with a passion. I once dreamed of being a Spin Instructor . Now I can be found running a podcast all day. Can you make my brilliant dreams come true?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "379813@3",
+  "sire": "276521@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7227,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

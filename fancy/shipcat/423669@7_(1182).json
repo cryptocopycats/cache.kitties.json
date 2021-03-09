@@ -1,0 +1,25 @@
+{
+  "id": 423669,
+  "name": "Rare Cat! Fancy!",
+  "generation": 7,
+  "created_at": "2017-12-28T18:46:26.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Rare Cat! Fancy!. I believe that one day cats will rule this planet. I once loved a dolphin. I don't like to talk about it. Will you be the ghost pepper hot sauce to my cinammon?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "419551@3",
+  "sire": "416381@6",
+  "children": [
+    "424005@8",
+    "424961@8",
+    "427028@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1182,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 447959,
+  "name": null,
+  "generation": 5,
+  "created_at": "2018-01-03T07:50:51.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "gold",
+  "bio": "*waves*! I'm Kitty #447959. I'm often referred to as the Peter Griffin of the group. I once got in a fight with a goose, and won. It's pawesome to meet you!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "411204@4",
+  "sire": "410244@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 503,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 446895,
+  "name": "Face Duck",
+  "generation": 7,
+  "created_at": "2018-01-03T00:38:48.000Z",
+  "birthday": "2018-01-03T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Face Duck. I'm a professional Dispensary Clerk and I love apple pie. My friends describe me as \"raunchy.\" It's... accurate. I like your face.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "446623@6",
+  "sire": "265290@5",
+  "children": [
+    "450397@8",
+    "514363@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7519,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

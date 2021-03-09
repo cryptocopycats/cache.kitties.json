@@ -1,0 +1,32 @@
+{
+  "id": 451986,
+  "name": "Space Cat",
+  "generation": 7,
+  "created_at": "2018-01-06T07:13:16.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Aloha! I'm Space Cat. I'm a Mad Scientist by day, and I like mocking dogs by night. When I'm not volunteering at the local kitten rescue shelter, I'm riverdancing! Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "451116@6",
+  "sire": "447623@6",
+  "children": [
+    "452759@11",
+    "453151@8",
+    "453486@13",
+    "453825@8",
+    "454744@8",
+    "455363@8",
+    "456461@8",
+    "458814@8",
+    "461736@8",
+    "532969@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 137,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

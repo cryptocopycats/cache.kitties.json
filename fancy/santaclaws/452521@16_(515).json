@@ -1,0 +1,23 @@
+{
+  "id": 452521,
+  "name": null,
+  "generation": 16,
+  "created_at": "2018-01-06T14:40:39.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "chestnut",
+  "bio": "Hey cutie! I'm Kitty #452521. All you need to know about me is I hate lasagna with a passion. I am 0% troll, 91% Mad Scientist, and otherwise bad at math. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "358769@14",
+  "sire": "435561@15",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 515,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

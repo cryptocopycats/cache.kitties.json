@@ -1,0 +1,23 @@
+{
+  "id": 434404,
+  "name": null,
+  "generation": 6,
+  "created_at": "2017-12-31T00:44:34.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "What's up! I'm Kitty #434404. All you need to know about me is I hate lasagna with a passion. I once dreamed of being a Mad Scientist. Now I can be found practicing witchcraft all day. Our friendship will be vegan, prickly, and full of cantaloupe.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "337657@2",
+  "sire": "345123@5",
+  "children": [
+    "465744@7"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 7316,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

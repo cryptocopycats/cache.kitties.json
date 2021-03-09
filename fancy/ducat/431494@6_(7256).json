@@ -1,0 +1,25 @@
+{
+  "id": 431494,
+  "name": "Quackers",
+  "generation": 6,
+  "created_at": "2017-12-30T06:11:37.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Hi-ya! I'm Quackers. My friends describe me as wondrous and raunchy. I once clawed a dog. I don't like to talk about it. Will you be the marmite to my pickles?",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "431090@5",
+  "sire": "407101@5",
+  "children": [
+    "431576@8",
+    "432958@7",
+    "433989@7"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7256,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

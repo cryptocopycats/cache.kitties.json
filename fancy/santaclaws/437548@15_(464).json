@@ -1,0 +1,25 @@
+{
+  "id": 437548,
+  "name": "Santa Kitty",
+  "generation": 15,
+  "created_at": "2017-12-31T19:47:45.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "bubblegum",
+  "bio": "Oh hi! I'm Santa Kitty. All you need to know about me is I hate salad with a passion. In my free time, I can usually be found wondrous or reading Danielle Steele. Let's get busy!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "364638@14",
+  "sire": "433320@9",
+  "children": [
+    "440761@16",
+    "445286@16",
+    "446191@16"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 464,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

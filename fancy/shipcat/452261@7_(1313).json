@@ -1,0 +1,23 @@
+{
+  "id": 452261,
+  "name": null,
+  "generation": 7,
+  "created_at": "2018-01-06T10:47:23.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Kitty #452261. My friends describe me as seductive and tantalizing. I'm convinced that that one day cats will rule this planet. One day I'll prove it. I hope you like kitten around as much as I do!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "401281@6",
+  "sire": "430116@6",
+  "children": [
+    "456304@8"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1313,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

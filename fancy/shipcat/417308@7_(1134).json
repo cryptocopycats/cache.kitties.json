@@ -1,0 +1,23 @@
+{
+  "id": 417308,
+  "name": "Sailor Jerry's Cat",
+  "generation": 7,
+  "created_at": "2017-12-27T15:58:03.000Z",
+  "birthday": "2017-12-27T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Ugh! I'm Sailor Jerry's Cat. I've never told anyone this, but I once kissed a dog. Sometimes I daydream of a life full of grooming, steak, and talking about how much I lift. I can't wait to wake you up at 4am for seemingly no reason.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "414435@6",
+  "sire": "414720@6",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1134,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,26 @@
+{
+  "id": 430913,
+  "name": "Drakki",
+  "generation": 8,
+  "created_at": "2017-12-30T02:11:06.000Z",
+  "birthday": "2017-12-30T00:00:00.000Z",
+  "color": "strawberry",
+  "bio": "Heyo! I'm Drakki. I want to live in a world where people believe that one day cats will rule this planet. I'm often described as vegan, and I own it. Let's pawty!",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Dracula",
+  "language": "en",
+  "matron": "430816@6",
+  "sire": "430836@7",
+  "children": [
+    "431054@9",
+    "431983@9",
+    "433695@9",
+    "577722@17"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1010,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

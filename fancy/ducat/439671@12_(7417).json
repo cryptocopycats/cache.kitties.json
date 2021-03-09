@@ -1,0 +1,23 @@
+{
+  "id": 439671,
+  "name": "MeowCash.com",
+  "generation": 12,
+  "created_at": "2018-01-01T06:40:16.000Z",
+  "birthday": "2018-01-01T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm MeowCash.com. I want to live in a world where people believe the world is flat. I once headbutted a rabbit. I don't like to talk about it. I look forward to fighting for the people with you.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "432811@11",
+  "sire": "273261@9",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7417,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

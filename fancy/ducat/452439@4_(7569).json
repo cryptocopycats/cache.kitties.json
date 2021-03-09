@@ -1,0 +1,23 @@
+{
+  "id": 452439,
+  "name": "RARE BIRD! Fancy!",
+  "generation": 4,
+  "created_at": "2018-01-06T13:33:15.000Z",
+  "birthday": "2018-01-06T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! RARE BIRD! Fancy! here. I'm here to enjoy taking selfies and hitting on yo' man. My secret indulgence is chocolate. I hope we can be raunchy friends.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "445681@3",
+  "sire": "422198@3",
+  "children": [
+    "453389@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7569,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

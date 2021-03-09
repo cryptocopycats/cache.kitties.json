@@ -1,0 +1,28 @@
+{
+  "id": 421154,
+  "name": "deste",
+  "generation": 7,
+  "created_at": "2017-12-28T07:37:52.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "*waves*! My name's deste. I once peed on John F. Kennedy Jr.'s cat. They had it coming. When my owner isn't watching, I steal their snap-backs and use them for litter paper. I'm not sorry. I hope we can be pawmates.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "ShipCat",
+  "language": "en",
+  "matron": "419378@6",
+  "sire": "392935@6",
+  "children": [
+    "536217@10",
+    "551842@10",
+    "561988@15",
+    "562960@9",
+    "564586@22",
+    "567392@10"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1164,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 419547,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-28T01:34:09.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "sizzurp",
+  "bio": "Yo! I'm Kitty #419547. All you need to know about me is I hate wet food with a passion. I am 38% troll, 90% Private Dancer , and otherwise bad at math. Purrhaps this is the beginning of a beautiful relationship.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "396598@9",
+  "sire": "373652@9",
+  "children": [
+    "419844@11",
+    "462337@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 1239,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

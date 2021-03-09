@@ -1,0 +1,29 @@
+{
+  "id": 450961,
+  "name": "Rare alien! Fancy!",
+  "generation": 7,
+  "created_at": "2018-01-05T10:42:15.000Z",
+  "birthday": "2018-01-05T00:00:00.000Z",
+  "color": "gold",
+  "bio": "Yo! Rare alien! Fancy! here. I'm here to enjoy chasing red dots and tripping my owner. I was voted biggest teacher's pet in college. We can be friends, but keep the ultra purrsonal stuff to yourself, please.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "PhuZiqaat",
+  "language": "en",
+  "matron": "447469@6",
+  "sire": "448223@6",
+  "children": [
+    "545599@8",
+    "546164@10",
+    "546955@10",
+    "548562@10",
+    "550489@13",
+    "552390@15",
+    "556875@11"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 132,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}

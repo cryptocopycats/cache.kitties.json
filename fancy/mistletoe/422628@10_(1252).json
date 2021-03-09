@@ -1,0 +1,23 @@
+{
+  "id": 422628,
+  "name": null,
+  "generation": 10,
+  "created_at": "2017-12-28T14:27:38.000Z",
+  "birthday": "2017-12-28T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Good morning! I'm Kitty #422628. I'm a professional Ventriloquist and I love apple pie. I was voted biggest teacher's pet in college. I think you'll love me beclaws I have cattitude.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "Mistletoe",
+  "language": "en",
+  "matron": "396571@9",
+  "sire": "409557@9",
+  "children": [
+    "427024@14"
+  ],
+  "hatched": true,
+  "wrapped": true,
+  "fancy_ranking": 1252,
+  "fancy_limit": 2000,
+  "fancy_remaining": 0
+}

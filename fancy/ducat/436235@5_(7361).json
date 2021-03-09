@@ -1,0 +1,23 @@
+{
+  "id": 436235,
+  "name": "Pawesome",
+  "generation": 5,
+  "created_at": "2017-12-31T11:55:47.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "topaz",
+  "bio": "Oh hi! I'm Pawesome. I'm often referred to as the Marge Simpson of the group. I once groomed a gecko. I don't like to talk about it. Our friendship will be petulant, annoying, and full of lasagna.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "DuCat",
+  "language": "en",
+  "matron": "429521@4",
+  "sire": "410965@4",
+  "children": [
+
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 7361,
+  "fancy_limit": 10000,
+  "fancy_remaining": 0
+}

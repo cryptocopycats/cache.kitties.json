@@ -1,0 +1,28 @@
+{
+  "id": 437692,
+  "name": "IcePunkitty",
+  "generation": 5,
+  "created_at": "2017-12-31T20:28:02.000Z",
+  "birthday": "2017-12-31T00:00:00.000Z",
+  "color": "mintgreen",
+  "bio": "Aloha! My name's IcePunkitty. I once peed on Confucius's cat. They had it coming. I would give it all up to be on Oprah. Maybe you and I can be partners in crime.",
+  "kitty_type": "fancy",
+  "is_fancy": true,
+  "fancy_type": "SantaClaws",
+  "language": "en",
+  "matron": "417708@3",
+  "sire": "413419@4",
+  "children": [
+    "440475@6",
+    "440943@6",
+    "450874@6",
+    "451058@6",
+    "452374@6",
+    "457655@6"
+  ],
+  "hatched": true,
+  "wrapped": false,
+  "fancy_ranking": 466,
+  "fancy_limit": 1000,
+  "fancy_remaining": 0
+}
